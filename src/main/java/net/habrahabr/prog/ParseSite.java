@@ -85,4 +85,8 @@ public class ParseSite {
 		}
 		System.out.println(hubs);
 	}
+	
+	public void saveHubs() {
+		FileUtils.save(hubs);
+	}
 }

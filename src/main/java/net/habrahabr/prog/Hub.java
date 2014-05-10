@@ -1,6 +1,10 @@
 package net.habrahabr.prog;
 
 public class Hub extends Category {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6523032531843943530L;
 	private int postAmount;
 	private int subscribers;
 	private double index;

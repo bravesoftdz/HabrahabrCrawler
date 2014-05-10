@@ -12,6 +12,7 @@ public class Application {
 		parseSite.setLink(link);
 		parseSite.parseCategory();
 		parseSite.parseHub();
+		parseSite.saveHubs();
 		//Printer.printHubCategory(parseSite.getCategories());
 	}
 

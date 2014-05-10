@@ -1,6 +1,12 @@
 package net.habrahabr.prog;
 
-public class Category {
+import java.io.Serializable;
+
+public class Category implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 3158113721938694237L;
 	private String name;
 	private String link;
 	private int amount;

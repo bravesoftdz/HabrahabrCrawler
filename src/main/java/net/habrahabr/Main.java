@@ -1,5 +1,6 @@
 package net.habrahabr;
 
+import java.io.File;
 import java.io.IOException;
 
 public class Main {
@@ -13,5 +14,7 @@ public class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		File folder = new File("HabraHabr");
+		folder.mkdir();
 	}
 }

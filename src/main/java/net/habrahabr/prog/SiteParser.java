@@ -86,24 +86,30 @@ public class SiteParser {
 			List<Category> list = new LinkedList<>();
 			parsePage(link, list);
 			hubs.put(name, list);
+			break;
 		}
-		System.out.println(hubs);
 	}
 	
-	public void parsePosts() {
+	public void parsePosts() throws IOException {
 		String name = "HabraHabr";
 		File folder = new File(name);
 		folder.mkdir();
 		for (String key : hubs.keySet()) {
-			System.out.println(key);
 			folder = new File(name + '\\' + key);
 			folder.mkdirs();
 			List<Category> list = hubs.get(key);
-			for (int k = 0; k < list.size(); k++) {
+			for (int k = 0; k <= 0/*list.size()*/; k++) {
 				String catName = list.get(k).getName();
 				String link = list.get(k).getLink();
 				folder = new File(name + '\\' + key + '\\' + catName);
 				folder.mkdirs();
+				
+				Document document = Jsoup.connect(link).get();
+				Elements posts = document.select(".post_title");
+				for(Element post : posts) {
+					Elements element = post.getElementsByTag("a");
+					String text = element.text() + " | " + element.get(0).attr("href");
+				}
 			}
 		}
 	}

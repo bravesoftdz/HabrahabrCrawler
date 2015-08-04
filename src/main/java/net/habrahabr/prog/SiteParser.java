@@ -88,7 +88,6 @@ public class SiteParser {
 			List<Category> list = new LinkedList<>();
 			parseHubPage(link, list);
 			hubs.put(name, list);
-			//break;
 		}
 	}
 	
@@ -101,7 +100,6 @@ public class SiteParser {
 			folder.mkdirs();
 			List<Category> list = hubs.get(key);
 			System.out.println("Category : " + key + " start parsing");
-			//for (int k = 0; k <= 0/*list.size()*/; k++) {
 			for (int k = 0; k < list.size(); k++) {
 				String catName = list.get(k).getName();
 				catName = catName.replaceAll("/", "_");
@@ -125,12 +123,10 @@ public class SiteParser {
 		Elements posts = document.select(".post_title");
 		for(Element post : posts) {
 			Elements element = post.getElementsByTag("a");
-			//String text = element.text() + " | " + element.get(0).attr("href");
 			Post shortPost = new Post();
 			shortPost.setName(element.text());
 			shortPost.setLink(element.get(0).attr("href"));
 			postsList.add(shortPost);
-			//System.out.println(text);
 			
 		}
 		Elements nextPage = document.select(".next");
@@ -138,9 +134,5 @@ public class SiteParser {
 			String nextLink = "http://habrahabr.ru" + nextPage.first().attr("href");
 			parsePostsPage(nextLink, postsList);
 		}
-	}
-	
-	public void saveHubs() {
-		FileUtils.save(hubs);
 	}
 }

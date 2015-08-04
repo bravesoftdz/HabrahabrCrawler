@@ -1,8 +1,8 @@
 package net.habrahabr;
 
 import java.io.IOException;
+
 import net.habrahabr.prog.SiteParser;
-import net.habrahabr.prog.util.Printer;
 
 public class Application {
 
@@ -15,8 +15,6 @@ public class Application {
 		parseSite.parseCategory();
 		parseSite.parseHub();
 		parseSite.parsePosts();
-		//parseSite.saveHubs();
-		//Printer.printHubCategory(parseSite.getHubs());
 	}
 
 	

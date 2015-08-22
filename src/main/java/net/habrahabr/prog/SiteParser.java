@@ -96,20 +96,21 @@ public class SiteParser {
 		File folder = new File(name);
 		folder.mkdir();
 		for (String key : hubs.keySet()) {
-			folder = new File(name + '\\' + key);
+			folder = new File(name + '/' + key);
 			folder.mkdirs();
 			List<Category> list = hubs.get(key);
 			System.out.println("Category : " + key + " start parsing");
 			for (int k = 0; k < list.size(); k++) {
 				String catName = list.get(k).getName();
-				catName = catName.replaceAll("/", "_");
-				catName = catName.replaceAll("\\*", "_");
+				// 2 lines below needed only for Windows, since OS can not create folders with symbol '/' and '*'
+				//catName = catName.replaceAll("/", "_");
+				//catName = catName.replaceAll("/*", "_");
 				String link = list.get(k).getLink();
-				folder = new File(name + '\\' + key + '\\' + catName);
+				folder = new File(name + '/' + key + '/' + catName);
 				folder.mkdirs();
 				posts = new LinkedList<Post>();
 				parsePostsPage(link, posts);
-				File catFile = new File(folder.getCanonicalPath() + "\\" + catName + ".txt");
+				File catFile = new File(folder.getCanonicalPath() + "/" + catName + ".txt");
 				catFile.createNewFile();
 				FileUtils.writeToFile(catFile, posts);
 				System.out.println("   Sub Category : " + catName + " parsing is finished");

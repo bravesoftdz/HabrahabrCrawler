@@ -1,0 +1,300 @@
+Исследование внутренних дефектов ПЛИС: ищем черную кошку в темной комнате | https://habrahabr.ru/post/344182/
+
+Сетевой JTAG программатор для Altera Quartus Prime из Raspberry Pi3 | https://habrahabr.ru/post/343524/
+
+Физически неклонируемые функции: защита электроники от нелегального копирования | https://habrahabr.ru/post/343386/
+
+Реализация HFT роботов на устройствах CEPappliance | https://habrahabr.ru/post/341084/
+
+Такты для разработчиков | https://habrahabr.ru/company/mailru/blog/339688/
+
+Сравнение tick-to-trade задержек CEPappliance и Solarflare TCPDirect | https://habrahabr.ru/post/339702/
+
+SDAccel — проверяем передачу данных | https://habrahabr.ru/post/337568/
+
+От Торонто до Томска: подведение итогов и планирование будущих семинаров по микроэлектронике в России | https://habrahabr.ru/post/337702/
+
+Экскурсия по Музею Истории Компьютеров в Калифорнии, с пользой для разработки. Часть 1. ENIAC, Stretch, CDC6600, IBM/360 | https://habrahabr.ru/post/337164/
+
+Следущие шаги в черной магии процессоростроения после того, как вы освоили Харрис & Харрис | https://habrahabr.ru/post/336116/
+
+MIPSfpga – практический опыт | https://habrahabr.ru/post/335848/
+
+Исследование асинхронной схемы в ModelSim | https://habrahabr.ru/post/335386/
+
+Асинхронный дешифратор | https://habrahabr.ru/post/335178/
+
+Опыт использования FPGA платы DE10-Standard и DMA PL330 | https://habrahabr.ru/post/334154/
+
+Возможен ли асинхронный процессор | https://habrahabr.ru/post/334030/
+
+Поднимаем Linux на MIPSfpga и ПЛИС Altera | https://habrahabr.ru/post/333920/
+
+Текущая активность вокруг MIPSfpga и не только | https://habrahabr.ru/post/333722/
+
+Гибридный куб памяти (HMC): что это такое и как его подключить к FPGA | https://habrahabr.ru/post/333556/
+
+Запуск AMP приложений на Cyclone V SoC | https://habrahabr.ru/post/332456/
+
+Еще один пример синтеза асинхронных схем: VME bus controller | https://habrahabr.ru/post/331614/
+
+Пример синтеза асинхронных SI схем в двухходовой элементной базе: C-элемент | https://habrahabr.ru/post/331314/
+
+Software Defined Radio руками шестнадцатилетнего подростка | https://habrahabr.ru/post/330052/
+
+Система синтеза асинхронных схем Petrify: проблемы и их решение | https://habrahabr.ru/post/331142/
+
+Запуск Bare-metal приложения на Cyclone V SoC | https://habrahabr.ru/post/330974/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 3 | https://habrahabr.ru/post/329854/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 2 | https://habrahabr.ru/post/329852/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 1 | https://habrahabr.ru/post/329808/
+
+Эмулятор БК-0010 на FPGA — часть 2 | https://habrahabr.ru/post/328148/
+
+Фазовая модуляция радиосигнала в ПЛИС | https://habrahabr.ru/post/328102/
+
+Эмулятор БК-0010 на FPGA | https://habrahabr.ru/post/327996/
+
+Реализация NetFlow сенсора на FPGA + CPU — гибко и быстро | https://habrahabr.ru/company/metrotek/blog/327894/
+
+Как мы на FPGA AES ускоряли: разработка драйвера | https://habrahabr.ru/company/metrotek/blog/324042/
+
+Детектирование и отслеживание множественных объектов в видеопотоке на FPGA | https://habrahabr.ru/post/327162/
+
+SDAccel – первое знакомство | https://habrahabr.ru/post/326628/
+
+Фильтрация изображения методом математической морфологии на FPGA | https://habrahabr.ru/post/325808/
+
+Вращение изображения на FPGA | https://habrahabr.ru/post/325236/
+
+MIPSfpga и UART | https://habrahabr.ru/post/325168/
+
+Расчет корректирующего КИХ-фильтра на ПЛИС | https://habrahabr.ru/post/324986/
+
+MIPSfpga и прерывания | https://habrahabr.ru/post/324900/
+
+Фильтрация изображения на FPGA | https://habrahabr.ru/post/324070/
+
+Революция в радиотехнике? RF-ARM-FPGA SoC | https://habrahabr.ru/post/323716/
+
+Women's Day Gift by FPGA | https://habrahabr.ru/post/323260/
+
+Подключение периферийных модулей к MIPSfpga, на примере клавиатуры Pmod KYPD | https://habrahabr.ru/post/323360/
+
+Детектирование движения в видеопотоке на FPGA | https://habrahabr.ru/post/323258/
+
+Программирование SoC Zynq | https://habrahabr.ru/post/323224/
+
+Смотрим внутренности отечественного 28нм MIPS процессора — Baikal-T1 | https://habrahabr.ru/company/zeptobars/blog/322884/
+
+Реализация узла БПФ с плавающей точкой на ПЛИС | https://habrahabr.ru/post/322728/
+
+MIPSfpga и внутрисхемная отладка | https://habrahabr.ru/post/322442/
+
+FPGA для программиста, простые рецепты | https://habrahabr.ru/post/321676/
+
+Как работает FIFO | https://habrahabr.ru/post/321674/
+
+PROTEQ — протокол обмена по мультигигабитным линиям для ПЛИС Xilinx | https://habrahabr.ru/post/321634/
+
+MIPSfpga и SDRAM. Часть 2 | https://habrahabr.ru/post/321532/
+
+MIPSfpga и SDRAM. Часть 1 | https://habrahabr.ru/post/321530/
+
+Верификация конечного автомата | https://habrahabr.ru/post/319730/
+
+Написание и запуск скрипта для симуляции Verilog-кода в ModelSim | https://habrahabr.ru/post/319466/
+
+Отладочная плата ПЛИС — Франкенштейн. Контроллер елочных гирлянд | https://habrahabr.ru/post/318726/
+
+Отладочная плата ПЛИС — Франкенштейн. Звуки и музыка | https://habrahabr.ru/post/317876/
+
+Отладочная плата ПЛИС — Франкенштейн. Часы. Altera EPM7064 VS Lattice LC4064v | https://habrahabr.ru/post/316586/
+
+Отладочная плата ПЛИС — Франкенштейн. Телеграфный передатчик | https://habrahabr.ru/post/316234/
+
+Можно ли вычислять биткоины быстрее, проще или легче? | https://habrahabr.ru/post/318174/
+
+Избранные места из популярного учебника микроэлектроники на русском, который наконец-то выходит на бумаге | https://habrahabr.ru/post/317558/
+
+О метастабильности в электронике | https://habrahabr.ru/post/317514/
+
+Функциональные языки в разработке аппаратуры | https://habrahabr.ru/post/316748/
+
+Реализация PCI Express v3.0 x16 на ПЛИС Virtex 7 | https://habrahabr.ru/post/317194/
+
+Подключение периферийных модулей к MIPSfpga, на примере ультразвуковых датчиков расстояния | https://habrahabr.ru/post/316770/
+
+Собственная платформа. Часть 0.1 Теория. Немного о процессорах | https://habrahabr.ru/post/316520/
+
+Применение FPGA для расчета деполимеризации микротрубочки методом броуновской динамики | https://habrahabr.ru/post/314296/
+
+Знакомство и старт разработки на ПЛИС iCE40 от Lattice Semiconductor | https://habrahabr.ru/post/315588/
+
+Наконец-то приличный отечественный процессор ЦОС – 1967BH28 | https://habrahabr.ru/post/314986/
+
+Можно скачать материалы семинара Nanometer ASIC (РОСНАНО / МИСиС / Imagination Technologies) — ликбез по всему про чипы | https://habrahabr.ru/post/314892/
+
+Хардвер вторгается в софтвер на московской конференции SECR | https://habrahabr.ru/post/314304/
+
+Подключение АЦП к ПЛИС. Особенности, сложности, реализация | https://habrahabr.ru/post/313692/
+
+River Raid на FPGA | https://habrahabr.ru/post/313092/
+
+Транспондер DST40: принцип работы, история появления и взлома, а также немного практики по брутфорсу | https://habrahabr.ru/post/275745/
+
+Открываем набор на бесплатные курсы по программированию и разработке под FPGA | https://habrahabr.ru/company/metrotek/blog/312602/
+
+Для любителей ПЛИС-ов, ASIC-ов, архитектуры и микроархитектуры — еще про семинары и про конвейеры | https://habrahabr.ru/post/312354/
+
+На видео — разработчица одного из блоков внутри российского микропроцессора Байкал-Т | https://habrahabr.ru/post/311662/
+
+Микросхемы с разных сторон: семинары Nanometer ASIC, MIPSfpga и Connected MCU в России, Украине и Казахстане | https://habrahabr.ru/post/311562/
+
+Первый проект на FPGA Altera и подключение USB-Blaster в Linux | https://habrahabr.ru/post/310816/
+
+Запускаем Linux на FPGA: Hello, World | https://habrahabr.ru/post/310056/
+
+Установка Quartus II на CentOS | https://habrahabr.ru/post/310160/
+
+Полезные свойства джиттера | https://habrahabr.ru/post/309944/
+
+Про интернет вещей и полупроводниковую индустрию в краю, где пьют верблюжье молоко. День первый | https://habrahabr.ru/post/309570/
+
+Реализация конечного автомата на языке VHDL | https://habrahabr.ru/post/309162/
+
+Интерфейс ADM – что такое «Тетрада» | https://habrahabr.ru/post/309136/
+
+Подарок на 1 сентября всем поклонникам цифровой схемотехники и архитектуры компьютера | https://habrahabr.ru/post/308976/
+
+Использование TCL в разработке на FPGA | https://habrahabr.ru/post/308962/
+
+Современное искусство на экране инженера хардверной компании | https://habrahabr.ru/company/yadro/blog/308508/
+
+UltraCMOS Фирмы «Peregrine Semiconductor»: СВЧ возможности КМОП-технологии | https://habrahabr.ru/company/efo/blog/307614/
+
+Новая редакция популярного бесплатного учебника электроники, архитектуры компьютера и низкоуровневого программирования | https://habrahabr.ru/post/306982/
+
+Организация делителя частоты с дробным коэффициентом деления в объёме ПЛИС | https://habrahabr.ru/post/306132/
+
+Немного о проектировании самосинхронных схем | https://habrahabr.ru/post/306056/
+
+Семинары по введению во всё: от верилога и цифровой логики до микроархитектуры встроенных процессоров и RTOS-ов | https://habrahabr.ru/post/304612/
+
+Статический временной анализ demystified. Часть 2 | https://habrahabr.ru/post/302806/
+
+Марсоход Opportunity более чем в 40 раз превысил запланированный срок службы | https://habrahabr.ru/post/302560/
+
+Выведение изображения с камеры OV7670 на VGA монитор с использованием FPGA | https://habrahabr.ru/post/283488/
+
+Графический VGA-контроллер на SoC без знаний HDL | https://habrahabr.ru/company/metrotek/blog/282189/
+
+Игра «Жизнь» в FPGA | https://habrahabr.ru/post/282722/
+
+Процессоры Intel Xeon оснастили FPGA Altera | https://habrahabr.ru/company/intel/blog/282570/
+
+Junior FPGA Design Engineer: как стать? | https://habrahabr.ru/post/281525/
+
+Создание простой игры на базе FPGA | https://habrahabr.ru/post/281549/
+
+Реверс-инжиниринг лазерного датчика расстояния | https://habrahabr.ru/post/274879/
+
+Решил написать свой язык аппаратного синтеза, для Minecraft и что из этого вышло | https://habrahabr.ru/post/279997/
+
+Custom floating point format on FPGA | https://habrahabr.ru/post/279269/
+
+Как делать парсинг текста голым хардвером, без процессора и без софтвера | https://habrahabr.ru/post/278681/
+
+Реализация стабильного UART, со скоростью 921600 baud и более, на языке Verilog под ПЛИС | https://habrahabr.ru/post/278005/
+
+Embedded World 2016: куда катится embedded-мир? | https://habrahabr.ru/company/metrotek/blog/277873/
+
+Как я ошибся при написании хеш-таблицы и какие выводы из этого сделал | https://habrahabr.ru/post/277313/
+
+Hello, World! На ПЛИС. Мигаем светодиодом | https://habrahabr.ru/post/277599/
+
+Часы на ПЛИС Lattice | https://habrahabr.ru/post/275863/
+
+Добавляем инструкции в микропроцессор MIPS, которые работают в конвейере как его собственные | https://habrahabr.ru/post/276205/
+
+Как начать работать с MIPSfpga | https://habrahabr.ru/post/275215/
+
+Генераторы хаоса на ПЛИС | https://habrahabr.ru/post/273915/
+
+Разработка цифровой аппаратуры на C++/SystemC глазами SystemVerilog программиста | https://habrahabr.ru/post/274137/
+
+Цифровая фильтрация на ПЛИС – Часть 2 | https://habrahabr.ru/post/274847/
+
+Altera + OpenCL: вскрываем ядро | https://habrahabr.ru/post/269925/
+
+Цифровая фильтрация на ПЛИС – Часть 1 | https://habrahabr.ru/post/274845/
+
+Сдвиг фазы сигнала на VHDL | https://habrahabr.ru/post/273851/
+
+«Глупые» часы на FPGA | https://habrahabr.ru/post/274843/
+
+MIPSfpga: вне канона | https://habrahabr.ru/post/274839/
+
+Altera + OpenCL: программируем под FPGA без знания VHDL/Verilog | https://habrahabr.ru/post/269009/
+
+Установка Quartus II Web Edition для Linux | https://habrahabr.ru/post/274837/
+
+Статический временной анализ demystified | https://habrahabr.ru/post/273849/
+
+Ethernet + PCIe + FPGA = LOVE | https://habrahabr.ru/post/267183/
+
+SoC: пишем реализацию framebuffer для контроллера в FPGA | https://habrahabr.ru/company/metrotek/blog/263571/
+
+Кто жмёт лучше, или Уолш против Фурье | https://habrahabr.ru/post/264739/
+
+CPLD-ретрокомпьютинг. Часть 1 — Доска для студента | https://habrahabr.ru/post/277947/
+
+Измеряем power consumption для цифровых блоков микросхемы ASIC (еще до изготовления) | https://habrahabr.ru/post/264389/
+
+Как Python и Jinja могут облегчить жизнь FPGA разработчику | https://habrahabr.ru/post/263005/
+
+Верификация FPGA. Что это? | https://habrahabr.ru/post/262693/
+
+Функциональный DDS rенератор на ПЛИС | https://habrahabr.ru/post/260999/
+
+ПЛИС — мои первые шаги | https://habrahabr.ru/post/252261/
+
+SoC: поднимаем простой DMA на FPGA | https://habrahabr.ru/company/metrotek/blog/248145/
+
+Метастабильность триггера и межтактовая синхронизация | https://habrahabr.ru/post/254869/
+
+Временные ограничения и статический временной анализ FPGA на примере Microsemi SmartTime | https://habrahabr.ru/post/252247/
+
+Как начать разрабатывать железо, используя ПЛИС — пошаговая инструкция | https://habrahabr.ru/post/250511/
+
+Minesweeper на FPGA | https://habrahabr.ru/post/274841/
+
+Реверс-инжениринг КР580ВМ80А / i8080 завершен | https://habrahabr.ru/post/249613/
+
+Делаем тетрис под FPGA | https://habrahabr.ru/company/metrotek/blog/247535/
+
+Слово о DSP Builder'е | https://habrahabr.ru/post/238821/
+
+Пару слов о конвейерах в FPGA | https://habrahabr.ru/post/235037/
+
+Сделай шаг к ПЛИС | https://habrahabr.ru/post/274829/
+
+Поднимаем SOC: ARM + FPGA | https://habrahabr.ru/company/metrotek/blog/235707/
+
+Взгляд на 10G Ethernet со стороны FPGA разработчика | https://habrahabr.ru/post/234369/
+
+Временной анализ FPGA или как я осваивала Timequest | https://habrahabr.ru/post/232599/
+
+Простой SDR приёмник на ПЛИС | https://habrahabr.ru/post/204310/
+
+Генерация видео математической функцией на ПЛИС | https://habrahabr.ru/post/203018/
+
+Выполнение транзакций на шине PCI. Реализация на VHDL | https://habrahabr.ru/post/182152/
+
+Общаемся с SIM-картой на низком уровне | https://habrahabr.ru/post/137963/
+
+FPGA. Первые шаги | https://habrahabr.ru/post/130578/
+

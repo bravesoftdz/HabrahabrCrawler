@@ -1,0 +1,78 @@
+Как мы секвенировали хакатоны или «чем тяжелее работа – тем легче на неё устроиться» | https://habrahabr.ru/company/crossover/blog/321736/
+
+Crossover проводит Hiring challenge конкурс и нанимает сотню разработчиков Java и Ruby on Rails | https://habrahabr.ru/company/gvalg/blog/321334/
+
+С Днем Программиста :) | https://habrahabr.ru/post/309720/
+
+Запускаем Java Runtime на 256KB оперативной памяти | https://habrahabr.ru/post/243549/
+
+Java ME: Структура мидлета | https://habrahabr.ru/post/238567/
+
+Музыкальный программируемый школьный звонок «Школьник-3» | https://habrahabr.ru/post/229623/
+
+Java ME Embedded на Raspberry Pi | https://habrahabr.ru/post/210592/
+
+В стиле ретро: J2ME на TCL | https://habrahabr.ru/post/206834/
+
+Ciklum Kiev Java Saturday с гостями из Англии и необычные завершением программы презентаций | https://habrahabr.ru/company/Ciklum/blog/201824/
+
+Сборка CLDC HotSpot Implementation для ARM | https://habrahabr.ru/post/184952/
+
+Приглашаем на Nokia Asha Developer Bootcamp | https://habrahabr.ru/company/microsoftlumia/blog/179919/
+
+Конкурс разработчиков для Nokia Asha | https://habrahabr.ru/company/microsoftlumia/blog/177523/
+
+Декомпиляция Java приложений | https://habrahabr.ru/post/176825/
+
+Во Львове просят предоставить Java статус регионального языка * | https://habrahabr.ru/post/152721/
+
+Nokia Developer Days: видеозаписи докладов | https://habrahabr.ru/company/microsoftlumia/blog/148865/
+
+Презентации с Nokia Developer Days | https://habrahabr.ru/company/microsoftlumia/blog/147188/
+
+Отправляем письма из мидлета или Как я дистанционно отлавливал ошибки | https://habrahabr.ru/post/146646/
+
+Определяем местоположение телефона… без GPS | https://habrahabr.ru/post/146579/
+
+Голосовой переводчик своими руками | https://habrahabr.ru/post/146374/
+
+Бесплатный вебинар по интеграции Nokia Maps в приложения для Nokia Series 40 | https://habrahabr.ru/company/microsoftlumia/blog/143790/
+
+Spb Transport J2ME | https://habrahabr.ru/post/143367/
+
+Модификация игр на примере Arcanoid | https://habrahabr.ru/post/135967/
+
+Двойная буферизация или Назад в прошлое. Часть вторая | https://habrahabr.ru/post/135700/
+
+Screensaver на J2ME или Назад в прошлое. Часть первая | https://habrahabr.ru/post/135672/
+
+Всё гениальное — просто. Написание геолокационных сервисов для J2ME | https://habrahabr.ru/post/133427/
+
+Splash Screen на J2ME | https://habrahabr.ru/post/132185/
+
+Что можно ещё выжать из J2ME? | https://habrahabr.ru/post/128984/
+
+Актуальность J2ME проектов | https://habrahabr.ru/post/120978/
+
+Базы данных в MIDP, часть 1: понятие Record Management System | https://habrahabr.ru/post/85856/
+
+Экспорт и импорт личных данных телефона | https://habrahabr.ru/post/81726/
+
+Students Calculator теперь open source | https://habrahabr.ru/post/78080/
+
+Early Access Java ME 3.0 SDK для MacOS | https://habrahabr.ru/post/73150/
+
+JavaFX Mobile 1.2 Early Access для Windows Mobile устройств | https://habrahabr.ru/post/65631/
+
+JavaFX Mobile Porting | https://habrahabr.ru/post/62263/
+
+Примеры с JavaFX | https://habrahabr.ru/post/60459/
+
+Java Platform Micro Edition Software Development Kit 3.0 | https://habrahabr.ru/post/57932/
+
+JavaFX Mobile | https://habrahabr.ru/post/51877/
+
+Java ME 3.0 SDK | https://habrahabr.ru/post/42248/
+
+От российского разработчика | https://habrahabr.ru/post/16883/
+

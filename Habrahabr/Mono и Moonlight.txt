@@ -1,0 +1,184 @@
+«Истина в вине» или пробуем программировать NanoCAD под Linux (MultiCAD.NET API) | https://habrahabr.ru/post/344884/
+
+Погружение в F#. Пособие для C#-разработчиков | https://habrahabr.ru/company/microsoft/blog/335560/
+
+Что общего между конечными автоматами, анимацией и Xamarin.Forms | https://habrahabr.ru/company/microsoft/blog/335418/
+
+Повесть о невозможном баге: big.LITTLE и кэширование | https://habrahabr.ru/post/320342/
+
+.NET Portability Analyzer | https://habrahabr.ru/post/312506/
+
+Подборка видео-материалов по разработке на Xamarin + ключевые новости Connect(); //2016 | https://habrahabr.ru/company/microsoft/blog/315836/
+
+.NET Standard Library – адекватный стандарт? | https://habrahabr.ru/post/314588/
+
+Анонс .NET Standard 2.0 | https://habrahabr.ru/post/312026/
+
+Подборка полезных материалов по разработке на Xamarin | https://habrahabr.ru/company/microsoft/blog/311768/
+
+Ищем ошибки в Mono: сотни их | https://habrahabr.ru/company/pvs-studio/blog/310732/
+
+Удобный REST для Xamarin-приложений | https://habrahabr.ru/company/microsoft/blog/310704/
+
+Работаем с состояниями экранов в Xamarin.Forms | https://habrahabr.ru/company/microsoft/blog/307890/
+
+Повышаем эффективность работы в Xamarin.Forms | https://habrahabr.ru/company/microsoft/blog/304678/
+
+Готовим Xamarin.Forms: настройка окружения и первые шаги | https://habrahabr.ru/company/microsoft/blog/303630/
+
+.NET Core: релиза не будет, но вы держитесь, здоровья вам, хорошего настроения | https://habrahabr.ru/post/302012/
+
+Microsoft открыла исходники Xamarin.Forms. Мы не могли упустить шанс проверить их с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/301606/
+
+Работа с ListView в Xamarin.Android | https://habrahabr.ru/post/301128/
+
+.NET-разработка: девять вопросов взрослым | https://habrahabr.ru/company/jugru/blog/283516/
+
+Xamarin SDK в Open Source и многое другое на Xamarin Evolve 2016 | https://habrahabr.ru/company/microsoft/blog/282640/
+
+Подключайтесь к онлайн-трансляции! Открытие конференции Xamarin Evolve 27 апреля | https://habrahabr.ru/company/microsoft/blog/282459/
+
+Мастер-класс по разработке на Xamarin: обзор технологии и погружение в разработку решений | https://habrahabr.ru/company/microsoft/blog/282057/
+
+Быстрое создание MVP (minimum viable product) на базе Microsoft Azure и Xamarin.Forms | https://habrahabr.ru/company/microsoft/blog/281897/
+
+Кэшируй это: повышаем стабильность сервера ONLYOFFICE с помощью Redis | https://habrahabr.ru/company/teamlab/blog/276395/
+
+Кроссплатформенный IDE для .NET/C# от JetBrains | https://habrahabr.ru/post/275053/
+
+Ищем ошибки в MonoDevelop | https://habrahabr.ru/company/pvs-studio/blog/274321/
+
+Новогодняя проверка .NET Core Libraries (CoreFX) | https://habrahabr.ru/company/pvs-studio/blog/274191/
+
+Mono и ОС МСВС | https://habrahabr.ru/post/268131/
+
+Уязвимость в Xamarin для Android: подменяем dll и едим бесплатно | https://habrahabr.ru/post/255331/
+
+CLRium, последний анонс перед Москвой | https://habrahabr.ru/post/253903/
+
+PVS-Studio: 25 подозрительных фрагментов кода из CoreCLR | https://habrahabr.ru/company/pvs-studio/blog/253280/
+
+Авторизация и использование VK.com API в Xamarin.Android | https://habrahabr.ru/post/250167/
+
+Что Mono 4.0.0 нам готовит | https://habrahabr.ru/company/enterra/blog/250203/
+
+OpenGL ES 1.1 в Windows 8 и Windows Phone 8.1 | https://habrahabr.ru/post/246911/
+
+Первые шаги к онлайн-офису на Linux или как мы портировали под Mono (о сложностях и их преодолении) | https://habrahabr.ru/post/246777/
+
+Пишем и запускаем приложения ASP.NET vNext на Маке | https://habrahabr.ru/post/243483/
+
+Поговорим про отличия Mono от MS.NET | https://habrahabr.ru/company/enterra/blog/243371/
+
+Xamarin.Android: плагин к VS2013 для редактирования aXML в IntelliJ IDEA или Android Studio | https://habrahabr.ru/post/243435/
+
+Microsoft открывает исходный код .NET и делает его кроссплатформенным | https://habrahabr.ru/post/243111/
+
+Разработка приложения на Android с помощью Xamarin и F# | https://habrahabr.ru/post/228783/
+
+Пишем Android-игру на Xamarin+MonoGame (C#) | https://habrahabr.ru/post/229951/
+
+Лечим SQLite в Monotouch или практическая польза рефлексии | https://habrahabr.ru/post/229803/
+
+Xamarin. За и против | https://habrahabr.ru/post/227863/
+
+Введение в XWT | https://habrahabr.ru/post/226695/
+
+ASP.NET vNext. Open Source и с поддержкой Linux | https://habrahabr.ru/post/222629/
+
+Впечатления о Xamarin Studio в Windows | https://habrahabr.ru/post/221701/
+
+Обмануть Мигеля? | https://habrahabr.ru/post/217529/
+
+Абстрактный UI. Новый фреймворк для C#, который назвали XWT | https://habrahabr.ru/post/201460/
+
+Сравнение производительности Xamarin (monodroid) и Java (DalvikVM) на Android устройствах | https://habrahabr.ru/post/194866/
+
+Разработка IM на конкурс Павла Дурова с помощью Xamarin | https://habrahabr.ru/post/194404/
+
+Используем фичи C# 5 (async и await) в .NET 2.0 | https://habrahabr.ru/post/179381/
+
+PlayScript | https://habrahabr.ru/post/176323/
+
+Прототип голосового списка покупок для WP8, Win8, Android c бекендом в Azure за 2,5 часа | https://habrahabr.ru/post/158481/
+
+Mono 3.0 | https://habrahabr.ru/post/155781/
+
+История о велосипеде | https://habrahabr.ru/post/148518/
+
+Miguel de Icaza про ASP.NET MVC, Moonlight и суд над Android | https://habrahabr.ru/post/144838/
+
+Вышел MonoDevelop 3.0 | https://habrahabr.ru/post/143861/
+
+Прикручиваем Head Up Display к MonoDevelop или о том, как криво сделано глобальное меню в Ubuntu | https://habrahabr.ru/post/143575/
+
+Android портирован на C# | https://habrahabr.ru/post/143147/
+
+Monotouch OpenSource библиотека для отображения PDF документов | https://habrahabr.ru/post/142941/
+
+ASP.NET MVC 3 сервер на NAS Synology — solution | https://habrahabr.ru/post/142672/
+
+CXXI: Мост между мирами C# и C++ | https://habrahabr.ru/post/142503/
+
+Построение «правильного» процесса разработки на платформе Mono | https://habrahabr.ru/post/137694/
+
+Hosts Commander — консольный редактор hosts для Windows и Linux | https://habrahabr.ru/post/132963/
+
+Вышел MonoDevelop 2.8.2 | https://habrahabr.ru/post/131715/
+
+Выпуск MonoDevelop 2.8.1 | https://habrahabr.ru/post/130402/
+
+Выпуск MonoDevelop 2.8 — интеграция с XCode 4, поддержка iOS 5 и другое | https://habrahabr.ru/post/129855/
+
+Проблемы обработки исключений в WCF под Mono | https://habrahabr.ru/post/127790/
+
+Разработчики Mono основали коммерческую компанию Xamarin | https://habrahabr.ru/post/119544/
+
+Пишем первое приложение на Mono Android | https://habrahabr.ru/post/119001/
+
+Выпущена новая версия Mono 2.8 | https://habrahabr.ru/post/105701/
+
+Первая демонстрация MonoDroid — написание Mono/.NET-приложений под Android | https://habrahabr.ru/post/102192/
+
+Выпущена новая версия Mono Tools 2 for Visual Studio | https://habrahabr.ru/post/100929/
+
+Новая версия MonoDevelop 2.4 | https://habrahabr.ru/post/96730/
+
+MonoDroid — программа тестирования Mono для Android | https://habrahabr.ru/post/94268/
+
+MonoMac — проект Mono для MacOSX | https://habrahabr.ru/post/91472/
+
+Вышли MonoTouch 3.0 и Moonlight 3 Preview 6 | https://habrahabr.ru/post/91290/
+
+MonoTouch и другие средства разработки под запретом в iPhoneOS 4? | https://habrahabr.ru/post/90458/
+
+Перенос ASP.NET приложения на Mono. Поддержка русского языка | https://habrahabr.ru/post/88788/
+
+Укрощаем пользовательский интерфейс на iPhone с MonoTouch.Dialog | https://habrahabr.ru/post/85564/
+
+Вышел пакет MonoTools 1.1 для Visual Studio 2010 | https://habrahabr.ru/post/84976/
+
+В MonoTouch добавлена поддержка iPad | https://habrahabr.ru/post/82435/
+
+Большие события из мира Mono/.NET — подробно обо всем | https://habrahabr.ru/post/78691/
+
+Вышел MonoTouch 1.4 и новости о Mono/C# 4.0 | https://habrahabr.ru/post/77793/
+
+Вышел MonoTouch 1.2 | https://habrahabr.ru/post/74318/
+
+Доступна поддержка Mono в Visual Studio 2010! | https://habrahabr.ru/post/73810/
+
+Вышел MonoTouch 1.1 | https://habrahabr.ru/post/71384/
+
+Кроссплатформенная игра на MonoTouch | https://habrahabr.ru/post/70123/
+
+Доступна trial-версия MonoTouch | https://habrahabr.ru/post/69819/
+
+Финальный релиз MonoTouch 1.0 | https://habrahabr.ru/post/69580/
+
+Обновление MonoDevelop 2.2 Beta | https://habrahabr.ru/post/69188/
+
+Доступен Moonlight 2.0 Beta | https://habrahabr.ru/post/67298/
+
+Hello World для iPhone на MonoTouch | https://habrahabr.ru/post/66556/
+

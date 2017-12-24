@@ -1,0 +1,74 @@
+Сравнение качества кода Firebird, MySQL и PostgreSQL | https://habrahabr.ru/company/pvs-studio/blog/343410/
+
+Тестирование БД мобильного Delphi-приложения | https://habrahabr.ru/post/333548/
+
+Создание приложений с использованием Firebird, jOOQ и Spring MVC | https://habrahabr.ru/post/331098/
+
+Шифрование БД под управлением Firebird 3.0 | https://habrahabr.ru/post/331002/
+
+Как создать свою файловую систему на основе blob полей в базе данных. Почему это удобно. Вопросы эффективности | https://habrahabr.ru/post/319418/
+
+Как вести логи изменений данных пользователями в базе данных, сохраняя их в другой базе данных | https://habrahabr.ru/post/317866/
+
+Как сделать разный часовой пояс в разных базах данных на одном сервере | https://habrahabr.ru/post/317680/
+
+Создание web приложения на PHP с иcпользованием Firebird и Laravel | https://habrahabr.ru/post/317458/
+
+Пакет для работы с СУБД Firebird в Laravel | https://habrahabr.ru/post/312874/
+
+Выбор СУБД для мобильного Delphi-приложения | https://habrahabr.ru/post/311658/
+
+Добавление поддержки СУБД Firebird в фреймворк Laravel | https://habrahabr.ru/post/311446/
+
+Часть 1. Платформа СППР Универсальные алгоритмы | https://habrahabr.ru/post/306820/
+
+Книга про разработку приложений для Firebird | https://habrahabr.ru/post/304462/
+
+Проверка Firebird 3.0 | https://habrahabr.ru/company/pvs-studio/blog/283348/
+
+Доступ к базе данных Firebird из YII2 | https://habrahabr.ru/post/283222/
+
+Вышел Firebird 3.0 | https://habrahabr.ru/post/281865/
+
+Создание приложений для СУБД Firebird с использованием различных компонент и драйверов: ADO.NET Entity Framework 6 | https://habrahabr.ru/post/278405/
+
+Создание приложений для СУБД Firebird с использованием различных компонент и драйверов: FireDac | https://habrahabr.ru/post/273549/
+
+Официальный Firebird 3.0 Release Candidate 1 и бета документации для Firebird 3.0 | https://habrahabr.ru/post/270527/
+
+Неофициальный инсталлятор Firebird 3.0 Release Candidate 1 | https://habrahabr.ru/post/270333/
+
+12 типичных ошибок при бэкапе баз данных | https://habrahabr.ru/post/267881/
+
+FirebirdSQL используют 11 компаний из списка ТОП-500 России | https://habrahabr.ru/post/267647/
+
+Бесплатный семинар по большим базам данных Firebird | https://habrahabr.ru/post/267297/
+
+Обновление русской документации по Firebird 2.5 и бета документации по Firebird 3.0 | https://habrahabr.ru/post/267211/
+
+Отчет о конференции Firebird 2014 | https://habrahabr.ru/post/243855/
+
+Русская документация по языку SQL СУБД Firebird 2.5 | https://habrahabr.ru/post/243187/
+
+Менеджер записей ELibrary | https://habrahabr.ru/post/227849/
+
+Побочный результат: проверяем Firebird с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/213423/
+
+Установка актуальной версии Firebird на Ubuntu | https://habrahabr.ru/post/201586/
+
+Разработка кроссплатформенных мобильных приложений в Delphi #2 | https://habrahabr.ru/company/delphi/blog/200490/
+
+Комплексная автоматизация резервного копирования баз данных Firebird/InterBase на Windows-серверах | https://habrahabr.ru/post/158575/
+
+Почему стоит пользоваться PDO для работы с базой данных | https://habrahabr.ru/post/137664/
+
+Логгирование приложения на C# в базу данных FireBird Embedded с помощью NLog 2.0 | https://habrahabr.ru/post/133763/
+
+и Firebird SQL Server | https://habrahabr.ru/post/133633/
+
+Машина Тьюринга на чистом SQL | https://habrahabr.ru/post/113165/
+
+Релиз Firebird 2.5: Производительность и Аудит | https://habrahabr.ru/post/105555/
+
+Firebird: 10 лет успешного развития | https://habrahabr.ru/post/88708/
+

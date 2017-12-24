@@ -1,0 +1,560 @@
+Самая быстрая и энергоэффективная реализация алгоритма BFS на различных параллельных архитектурах | https://habrahabr.ru/post/344378/
+
+Развитие стратегий устойчивости | https://habrahabr.ru/company/mailru/blog/343008/
+
+fiber — легковесные процессы для Arduino | https://habrahabr.ru/post/342908/
+
+Бесплатная YouTube-трансляция Joker 2017: Java 9, Concurrency, GC, Spring и, конечно, паззлеры | https://habrahabr.ru/company/jugru/blog/341330/
+
+Глубокое обучение с R и Keras на примере Carvana Image Masking Challenge | https://habrahabr.ru/company/ods/blog/340212/
+
+На дворе почти 2018, а мы любим колбэки | https://habrahabr.ru/company/jugru/blog/341070/
+
+Студенческие суперкомпьютерные соревнования: инструкция по применению | https://habrahabr.ru/post/340974/
+
+Асинхронность 3: Субъекторная модель | https://habrahabr.ru/post/340732/
+
+Послевкусие от Kotlin, часть 3. Корутины — делим процессорное время | https://habrahabr.ru/post/339618/
+
+Behind the scene of TOP-1 supercomputer | https://habrahabr.ru/post/340318/
+
+Оптимизация TensorFlow на современных архитектурах Intel | https://habrahabr.ru/company/intel/blog/338870/
+
+Stream API & ForkJoinPool | https://habrahabr.ru/company/otus/blog/338770/
+
+SDAccel — проверяем передачу данных | https://habrahabr.ru/post/337568/
+
+Параллельный Hystrix. Повышаем производительность распределенных приложений | https://habrahabr.ru/post/337864/
+
+Concurrency паттерны в Rust из Java | https://habrahabr.ru/post/337232/
+
+Экскурсия по Музею Истории Компьютеров в Калифорнии, с пользой для разработки. Часть 1. ENIAC, Stretch, CDC6600, IBM/360 | https://habrahabr.ru/post/337164/
+
+Сигналы на c# | https://habrahabr.ru/post/336742/
+
+Метаслой: идеи о применении предсказания для оптимизации программирования и распределения ресурсов в ОС | https://habrahabr.ru/post/336580/
+
+Идеи о новых возможностях обычного/параллельного программирования (расширение C++) | https://habrahabr.ru/post/336458/
+
+Обзор возможностей библиотеки Apache Curator для Apache Zookeeper | https://habrahabr.ru/post/334680/
+
+Proxmox 5 и частичная запись в блочных устройствах эффективного хранения Ceph | https://habrahabr.ru/post/332514/
+
+[Питер] Встреча JUG.ru c легендой параллельного программирования Maurice Herlihy — Transactional Memory and Beyond | https://habrahabr.ru/company/jugru/blog/331880/
+
+Материалы студенческой школы «Recent Advances in Algorithms» | https://habrahabr.ru/company/spbau/blog/331286/
+
+Клиент-сервер шаг — за — шагом, от однопоточного до многопоточного (Client-Server step by step) | https://habrahabr.ru/post/330676/
+
+Чип для умных камер ELISE — одно из самых высокотехнологичных изделий России 2017 года. Плата для разработчиков и камера | https://habrahabr.ru/post/329864/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 3 | https://habrahabr.ru/post/329854/
+
+Intel и Facebook совместно повышают производительность библиотеки Caffe2 | https://habrahabr.ru/company/intel/blog/329682/
+
+Потоки выполнения и PHP | https://habrahabr.ru/company/mailru/blog/329446/
+
+Потокобезопасный std::map с производительностью lock-free map | https://habrahabr.ru/post/328374/
+
+Ускоряем std::shared_mutex в 10 раз | https://habrahabr.ru/post/328362/
+
+Делаем любой объект потокобезопасным | https://habrahabr.ru/post/328348/
+
+Разработка игры на основе физической симуляции (для реалистичной разрушаемости игрового мира) | https://habrahabr.ru/post/328284/
+
+Многоагентный умный дом | https://habrahabr.ru/post/328238/
+
+Тестирование параллельных процессов | https://habrahabr.ru/post/327292/
+
+SDAccel – первое знакомство | https://habrahabr.ru/post/326628/
+
+Логика сознания. Часть 12. Поиск закономерностей. Комбинаторное пространство | https://habrahabr.ru/post/326334/
+
+Что такое Resizable Concurrent Map | https://habrahabr.ru/company/wunderfund/blog/324060/
+
+Самая простая в мире lock-free хеш-таблица | https://habrahabr.ru/company/wunderfund/blog/322496/
+
+Введение в lock-free программирование | https://habrahabr.ru/company/wunderfund/blog/322094/
+
+Метод рекурсивной координатной бисекции для декомпозиции расчетных сеток | https://habrahabr.ru/post/321456/
+
+Как работает hashCode() по умолчанию? | https://habrahabr.ru/company/mailru/blog/321306/
+
+Логика сознания. Часть 11. Естественное кодирование зрительной и звуковой информации | https://habrahabr.ru/post/321256/
+
+Конкурентность: Асинхронность | https://habrahabr.ru/post/319350/
+
+Немного Intel Xeon Phi теперь может получить каждый | https://habrahabr.ru/company/intel/blog/320972/
+
+Логика сознания. Часть 10. Задача обобщения | https://habrahabr.ru/post/320866/
+
+Производительность сети малой латентности InfiniBand на виртуальном кластере HPC HUB | https://habrahabr.ru/company/hpchub/blog/319940/
+
+Что если в играх использовать видеокарточку для физики, а не для графики | https://habrahabr.ru/post/320142/
+
+Конкурс GraphHPC-2017 на самую быструю реализацию задачи Betweenness Centrality | https://habrahabr.ru/post/319646/
+
+Как перебрать все перестановки и о факториальном разложении натуральных чисел | https://habrahabr.ru/post/319696/
+
+Изучаем ActionBlock: или короткая история о противном дедлоке | https://habrahabr.ru/post/319208/
+
+Сравнение Lock-free алгоритмов — CAS и FAA на примере JDK 7 и 8 | https://habrahabr.ru/post/319036/
+
+Современный подход к сборке мусора | https://habrahabr.ru/company/mailru/blog/318504/
+
+Конкурентность: Кооперативность | https://habrahabr.ru/post/318786/
+
+Программирование многоядерных DSP-процессоров TMS320C66x с использованием OpenMP | https://habrahabr.ru/post/318762/
+
+Предпочитайте SRW-блокировки критическим секциям | https://habrahabr.ru/company/infopulse/blog/318396/
+
+Конкурентность: Параллелизм | https://habrahabr.ru/post/318374/
+
+Многопоточная сказка о потерянном времени | https://habrahabr.ru/post/318066/
+
+Lock-free структуры данных. Iterable list | https://habrahabr.ru/post/317882/
+
+MemC3 — компактный Memcache с повышенной параллельностью — за счет более тупого кэширования и более умного хэширования | https://habrahabr.ru/company/okmeter/blog/316762/
+
+Berkeley Unified Parallel C (UPC). Отладка с помощью GNU gdb C debbuger. Стек вызова | https://habrahabr.ru/post/317196/
+
+Lock-free структуры данных. Итераторы: multi-level array | https://habrahabr.ru/post/314948/
+
+Параллельная быстрая сортировка на Хаскеле и как нелегко её оказалось написать | https://habrahabr.ru/post/317348/
+
+Прогресс не стоит на месте: OpenMP 4.5 | https://habrahabr.ru/company/intel/blog/316164/
+
+Применение FPGA для расчета деполимеризации микротрубочки методом броуновской динамики | https://habrahabr.ru/post/314296/
+
+Berkeley Unified Parallel C (UPC). Установка в среде Windows и Linux | https://habrahabr.ru/post/315190/
+
+Хардвер вторгается в софтвер на московской конференции SECR | https://habrahabr.ru/post/314304/
+
+Divide&Conquer над алгоритмом Штрассена | https://habrahabr.ru/post/313258/
+
+Логика сознания. Часть 8. Пространственные карты коры мозга | https://habrahabr.ru/post/312740/
+
+Создание разделяемого хранилища на базе CEPH RBD и GFS2 | https://habrahabr.ru/company/hpchub/blog/312652/
+
+Логика сознания. Пояснение «на пальцах» | https://habrahabr.ru/post/312060/
+
+Приглашаем на Java-конференцию Joker 2016, которая состоится 14 и 15 октября в Санкт-Петербурге | https://habrahabr.ru/company/piter/blog/312020/
+
+Intel® Parallel Studio XE 2017: «Python к нам приходит» и другие новинки | https://habrahabr.ru/company/intel/blog/311160/
+
+Микросхемы с разных сторон: семинары Nanometer ASIC, MIPSfpga и Connected MCU в России, Украине и Казахстане | https://habrahabr.ru/post/311562/
+
+Как перестать отлаживать асинхронный код и начать жить | https://habrahabr.ru/company/oleg-bunin/blog/311554/
+
+Виртуальный суперкомпьютер по требованию | https://habrahabr.ru/company/hpchub/blog/311394/
+
+Блокировки работают не так уж медленно | https://habrahabr.ru/company/infopulse/blog/311134/
+
+Логика сознания. Часть 7. Самоорганизация пространства контекстов | https://habrahabr.ru/post/310960/
+
+Украинец подсказал британцу сделать вебинар для разработчиков IoT для сельского хозяйства. А мы поговорим о CPU внутри | https://habrahabr.ru/post/310666/
+
+Как я начал писать сторонние проекты, чтобы набраться опыта | https://habrahabr.ru/post/310264/
+
+Syncookied — OpenSource ddos protection system | https://habrahabr.ru/post/301892/
+
+Запуск функций R на нескольких машинах | https://habrahabr.ru/company/infopulse/blog/309052/
+
+Логика сознания. Часть 6. Кора мозга как пространство вычисления смыслов | https://habrahabr.ru/post/310214/
+
+Логика сознания. Часть 5. Смысловой подход к анализу информации | https://habrahabr.ru/post/309626/
+
+Анатомия веб-сервиса | https://habrahabr.ru/company/oleg-bunin/blog/309324/
+
+Несколько примеров практического использования RxJava | https://habrahabr.ru/post/309154/
+
+Небольшое введение в параллельное программирование на R | https://habrahabr.ru/company/infopulse/blog/307708/
+
+«Чтобы вылезти выше среднего, нужна какая-то мотивация за пределами денег» — интервью с Русланом Черёминым | https://habrahabr.ru/company/jugru/blog/307644/
+
+История языков программирования: как Haskell стал стандартом функционального программирования | https://habrahabr.ru/post/307618/
+
+Компилятор LLVM для MultiClet: бенчмарк WhetStone | https://habrahabr.ru/post/307512/
+
+Такая разная асинхронность | https://habrahabr.ru/post/307288/
+
+Как мы сделали конвертер и плеер для CinemaDNG на CUDA | https://habrahabr.ru/post/306566/
+
+Modern Code. Программируй современно | https://habrahabr.ru/company/intel/blog/306018/
+
+Семинары по введению во всё: от верилога и цифровой логики до микроархитектуры встроенных процессоров и RTOS-ов | https://habrahabr.ru/post/304612/
+
+Анализ потокобезопасности в С++ | https://habrahabr.ru/company/infopulse/blog/304176/
+
+Началось соревнование «Make with Ada» для разработчиков встраиваемых систем | https://habrahabr.ru/post/303804/
+
+Синхронизация данных в приложениях реального времени c Theron | https://habrahabr.ru/company/theron/blog/303436/
+
+Ещё раз про быстрый JPEG на CUDA | https://habrahabr.ru/post/303306/
+
+Событийная модель на основе async и await | https://habrahabr.ru/post/302522/
+
+Статистика распределения доменов по AS, IP, NS, MX и прочим параметрам | https://habrahabr.ru/post/301894/
+
+Разве Tesseract распознаёт медленно? | https://habrahabr.ru/company/smartengines/blog/300990/
+
+Многопоточные вычисления в PHP: pthreads | https://habrahabr.ru/post/300952/
+
+Игра «Жизнь» в FPGA | https://habrahabr.ru/post/282722/
+
+Новый курс по микроконтроллерам — совместный проект индустрии и университетов | https://habrahabr.ru/post/282001/
+
+Разбавляем асинхронное программирование функциональным на Scala | https://habrahabr.ru/post/281346/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection: Итоги | https://habrahabr.ru/post/280860/
+
+man!( Go => D ).concurrency | https://habrahabr.ru/post/280378/
+
+«Половина научных работ по Concurrency — полная чушь!» — интервью с Романом Елизаровым из Devexperts | https://habrahabr.ru/company/jugru/blog/279819/
+
+Вступление в Реактивное Программирование, которое вы пропустили | https://habrahabr.ru/post/279715/
+
+2.2 Потоки | https://habrahabr.ru/post/279653/
+
+Асинхронное параллельное исполнение в PHP | https://habrahabr.ru/post/278755/
+
+Оценка и оптимизация производительности вычислений на многоядерных системах | https://habrahabr.ru/company/intel/blog/277407/
+
+Платы для разработчиков и терминал на основе российского микропроцессора Байкал-Т | https://habrahabr.ru/post/278011/
+
+Что происходит в C++. Интервью с докладчиками и прямая трансляция встречи в Яндексе | https://habrahabr.ru/company/yandex/blog/277953/
+
+Как использовать IPP FIR фильтры в приложениях максимально эффективно | https://habrahabr.ru/company/intel/blog/276687/
+
+Сеть обменной сортировки со слиянием Бэтчера | https://habrahabr.ru/post/275889/
+
+Визуализация concurrency в Go с WebGL | https://habrahabr.ru/post/276255/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection | https://habrahabr.ru/post/275577/
+
+Как начать работать с MIPSfpga | https://habrahabr.ru/post/275215/
+
+Низкоуровневая оптимизация параллельных алгоритмов или SIMD в .NET | https://habrahabr.ru/post/274605/
+
+Parallelism vs Concurrency: правильно подбираем инструменты | https://habrahabr.ru/company/piter/blog/274569/
+
+Потоки vs процессы на примере нативного Node.js аддона для нагрузочного тестирования | https://habrahabr.ru/post/274287/
+
+Rayon: параллелизм данных в Rust | https://habrahabr.ru/post/274299/
+
+Распараллеливание расчетов на CPU и GPU | https://habrahabr.ru/post/273771/
+
+Распараллеливание алгоритма Штрассена на Intel® Xeon Phi(TM) | https://habrahabr.ru/company/singularis/blog/273585/
+
+Изучаем английский с Scala на Future и Actor | https://habrahabr.ru/post/273431/
+
+Java 8 в параллель. Учимся создавать подзадачи и контролировать их выполнение | https://habrahabr.ru/post/272479/
+
+Altera + OpenCL: вскрываем ядро | https://habrahabr.ru/post/269925/
+
+Атомарная обработка блоков данных без блокировки | https://habrahabr.ru/post/271583/
+
+Lock-free алгоритмы и реализация стека | https://habrahabr.ru/post/271549/
+
+Altera + OpenCL: программируем под FPGA без знания VHDL/Verilog | https://habrahabr.ru/post/269009/
+
+Pony — убийца...? | https://habrahabr.ru/post/269885/
+
+Планировщик Go | https://habrahabr.ru/company/ua-hosting/blog/269271/
+
+Async/await и механизм реализации в C# 5.0 | https://habrahabr.ru/post/260217/
+
+Реплицируемый объект. Часть 1: Введение | https://habrahabr.ru/post/267509/
+
+Вебинар: Основы распараллеливания С/С++ программ при помощи OpenMP | https://habrahabr.ru/company/flyelephant/blog/267453/
+
+Intel Threading Building Blocks 4.4 – что нового? | https://habrahabr.ru/company/intel/blog/266587/
+
+Python 3.5; async/await | https://habrahabr.ru/post/266743/
+
+Оптимизация быстродействия динамического выделения памяти в многопоточной библиотеке | https://habrahabr.ru/post/267155/
+
+Профилировка гибридных кластерных приложений MPI+OpenMP | https://habrahabr.ru/company/intel/blog/266409/
+
+Использование handle и intrusive reference counter-ов в многопоточных средах в языке C | https://habrahabr.ru/post/266901/
+
+Асинхронное выполнение PHP скрипта на подпроцессах | https://habrahabr.ru/post/266615/
+
+Реализация многопоточной архитектуры игрового движка | https://habrahabr.ru/company/intel/blog/266427/
+
+Akka, акторы и реактивное программирование | https://habrahabr.ru/company/piter/blog/266103/
+
+Вебинар «Знакомство с FlyElephant» | https://habrahabr.ru/company/flyelephant/blog/264557/
+
+А вы уже поменяли $Increment на $Sequence? | https://habrahabr.ru/company/intersystems/blog/263793/
+
+Продолжаем знакомиться с Intel Xeon Phi: «родной» код | https://habrahabr.ru/post/263121/
+
+Такие удивительные семафоры | https://habrahabr.ru/post/261273/
+
+Автоматическая реорганизация массивов в памяти графического ускорителя | https://habrahabr.ru/post/261535/
+
+Первое знакомство с сопроцессором Intel Xeon Phi | https://habrahabr.ru/post/262019/
+
+Гибридная реализация алгоритма MST с использованием CPU и GPU | https://habrahabr.ru/post/253031/
+
+Несколько советов по OpenMP | https://habrahabr.ru/post/259153/
+
+Оберон умер, да здравствует Оберон! Часть 1. Некоторые любят поактивней | https://habrahabr.ru/post/258917/
+
+Мультиклеточный микропроцессор, «макроциклы» для работы с массивами | https://habrahabr.ru/post/258175/
+
+Vectorization Advisor, ещё один пример — разгоняем фрактал | https://habrahabr.ru/company/intel/blog/257309/
+
+Пишем свой Spliterator | https://habrahabr.ru/post/256905/
+
+FlyElephant – креативная лаборатория для научных сотрудников и инженеров. Часть 1. История создания | https://habrahabr.ru/company/flyelephant/blog/256945/
+
+Функции IPP c поддержкой бордюров для обработки изображений в нескольких потоках | https://habrahabr.ru/company/intel/blog/255931/
+
+Многопоточность в Rust | https://habrahabr.ru/post/256211/
+
+Arduino vs Arduino | https://habrahabr.ru/post/255999/
+
+Вычисление факториала или мощь Stream API | https://habrahabr.ru/post/255813/
+
+Параллельное программирование с CUDA. Часть 3: Фундаментальные алгоритмы GPU: свертка (reduce), сканирование (scan) и гистограмма (histogram) | https://habrahabr.ru/company/epam_systems/blog/247805/
+
+Intel® Parallel Studio XE 2016 Beta – что нового? | https://habrahabr.ru/company/intel/blog/255175/
+
+Intel® Graphics Technology. Часть III: эффективные вычисления на графике | https://habrahabr.ru/company/intel/blog/253425/
+
+Lock-free структуры данных. Concurrent maps: деревья | https://habrahabr.ru/post/251267/
+
+Обмен данными с использованием MPI. Работа с библиотекой MPI на примере Intel® MPI Library | https://habrahabr.ru/company/intel/blog/251357/
+
+Lock-free структуры данных. Concurrent maps: skip list | https://habrahabr.ru/post/250815/
+
+Пул соединений MySQL и как это можно использовать для распараллеливания | https://habrahabr.ru/post/252295/
+
+Lock-free структуры данных. Concurrent maps: rehash, no rebuild | https://habrahabr.ru/post/250523/
+
+Lock-free структуры данных. Concurrent map: разминка | https://habrahabr.ru/post/250383/
+
+Intel® Graphics Technology. Часть II: «выгружаем» вычисления на графику | https://habrahabr.ru/company/intel/blog/250545/
+
+[Москва, 19.02.2015] Дмитрий Ленев — Менеджеры блокировок в MySQL | https://habrahabr.ru/company/jugru/blog/250497/
+
+Анализ OpenMP регионов с Intel® VTune™ Amplifier XE | https://habrahabr.ru/company/intel/blog/248979/
+
+Не-фон неймановский компьютер на базе комбинаторной логики | https://habrahabr.ru/post/249413/
+
+Пишем свой нагрузочный тестер на Node.js | https://habrahabr.ru/post/249403/
+
+Ещё раз (надеюсь, последний) про double-checked locking | https://habrahabr.ru/post/248041/
+
+Создание барьера синхронизации с использованием C++11 | https://habrahabr.ru/post/246947/
+
+Пилотный выпуск видео курса «Параллельное Программирование и Оптимизация для Intel Xeon Phi копроцессоров» | https://habrahabr.ru/post/246055/
+
+Параллельное программирование с CUDA. Часть 2: Аппаратное обеспечение GPU и шаблоны параллельной коммуникации | https://habrahabr.ru/company/epam_systems/blog/245523/
+
+Параллельное программирование с CUDA. Часть 1: Введение | https://habrahabr.ru/company/epam_systems/blog/245503/
+
+Lock-free структуры данных. Диссекция очереди | https://habrahabr.ru/post/230349/
+
+Атомарные и неатомарные операции | https://habrahabr.ru/post/244881/
+
+Процессоры, ядра и потоки. Топология систем | https://habrahabr.ru/company/intel/blog/243385/
+
+Семафоры, или как разруливать доступ к ресурсам в DBMS Caché | https://habrahabr.ru/company/intersystems/blog/243337/
+
+Python реализация парадигмы event-driven с помощью сопрограмм | https://habrahabr.ru/post/243207/
+
+Фракталы, Fortran и OpenMP | https://habrahabr.ru/post/242221/
+
+AsyncCollections: история одного велосипеда | https://habrahabr.ru/post/240891/
+
+Intel® Parallel Studio XE 2015 — разговор о новых именах и «фишках» | https://habrahabr.ru/company/intel/blog/239555/
+
+Ручное клонирование потока. Когда Assembler + C# или Java = Love | https://habrahabr.ru/company/luxoft/blog/238947/
+
+И еще раз о GIL в Python | https://habrahabr.ru/post/238703/
+
+Сумбурные размышления о будущем технологии FPGA | https://habrahabr.ru/post/236161/
+
+Асинхронный многопоточный пул воркеров на Perl | https://habrahabr.ru/post/234835/
+
+Параллельное программирование для начинающих на ЯП Elixir / Erlang VM на примере задачи «конь Эйлера» | https://habrahabr.ru/post/233637/
+
+Rust на примерах. Часть 2 | https://habrahabr.ru/post/233621/
+
+Rust на примерах. Часть 1 | https://habrahabr.ru/post/232829/
+
+Вычислительные Графы, Спекулятивные Замки и Арены для Задач в Intel® Threading Building Blocks (продолжение) | https://habrahabr.ru/company/intel/blog/228469/
+
+Как работает GIL в Ruby. Часть 3. Делает ли GIL ваш код потоко-безопасным? | https://habrahabr.ru/post/230809/
+
+Параллелим непараллельное или поиск простых чисел на GPU | https://habrahabr.ru/post/230357/
+
+Вычислительные Графы, Спекулятивные Замки и Арены для Задач в Intel® Threading Building Blocks | https://habrahabr.ru/company/intel/blog/228433/
+
+Возобновились продажи Parallella board от Adapteva | https://habrahabr.ru/post/227957/
+
+Java Multicore Programming: Lecture #1 | https://habrahabr.ru/company/golovachcourses/blog/223083/
+
+Консенсус в распределенных системах. Paxos | https://habrahabr.ru/post/222825/
+
+Асинхронные задачи в С++11 | https://habrahabr.ru/post/222227/
+
+Транзакционная память: история и развитие | https://habrahabr.ru/post/221667/
+
+Программирование Древа Времен | https://habrahabr.ru/post/217031/
+
+Проба пера на суперкомпьютере Ломоносов | https://habrahabr.ru/post/220849/
+
+Потоки — это Goto параллельного программирования | https://habrahabr.ru/company/intel/blog/206030/
+
+Доступен новый JIT: теперь с поддержкой SIMD | https://habrahabr.ru/post/219841/
+
+Утечка памяти с ThreadLocal | https://habrahabr.ru/company/maxifier/blog/218313/
+
+Быстрая генерация массивов случайных чисел для задач имитационного моделирования, статистического оценивания и создания повторной выборки | https://habrahabr.ru/post/215775/
+
+Реализация алгоритма BFS на GPU | https://habrahabr.ru/post/214951/
+
+Путеводитель по методам класса java.util.concurrent.CompletableFuture | https://habrahabr.ru/post/213319/
+
+Пример оптимизации вычислений на CUDA | https://habrahabr.ru/post/211194/
+
+Будущее программирования аппаратных ускорителей | https://habrahabr.ru/post/209606/
+
+А как же всё-таки работает многопоточность? Часть II: memory ordering | https://habrahabr.ru/post/209128/
+
+Вышел Rust 0.9 | https://habrahabr.ru/post/208664/
+
+Введение в параллельные вычисления в R | https://habrahabr.ru/post/206892/
+
+«Задачка-то сошлась с ответом!» | https://habrahabr.ru/company/intel/blog/205970/
+
+Модели акторов 40 лет | https://habrahabr.ru/company/tiktokcoach/blog/206300/
+
+Разработчик на распутье: как векторизовать?! | https://habrahabr.ru/company/intel/blog/205552/
+
+Поговорим про Intel® Cilk™ Plus | https://habrahabr.ru/company/intel/blog/204838/
+
+Мультипроцессовый Firefox | https://habrahabr.ru/post/204982/
+
+Обработка событий в реальном масштабе времени с помощью SynapseGrid | https://habrahabr.ru/company/primetalk/blog/204596/
+
+Оптимизация приложений под Android x86: проверенные способы | https://habrahabr.ru/company/intel/blog/202088/
+
+Ждали, ждали и дождались! OpenMP 4.0 | https://habrahabr.ru/company/intel/blog/204668/
+
+Microsoft Robotics. Параллельная обработка данных | https://habrahabr.ru/post/204466/
+
+Профилировка производительности OpenMP приложений | https://habrahabr.ru/company/intel/blog/204058/
+
+Как мы ускорили поиск на hh.ru | https://habrahabr.ru/company/hh/blog/203986/
+
+Resumable функции | https://habrahabr.ru/company/infopulse/blog/203724/
+
+Конференция PACT (Parallel Architectures and Compilation Techniques) 2013. Отчет о посещении | https://habrahabr.ru/company/intel/blog/199534/
+
+Squeak: Моделирование систем массового обслуживания | https://habrahabr.ru/post/198664/
+
+Эдвард руки — С++ | https://habrahabr.ru/post/196110/
+
+Нагружаем Node под завязку (2-я из 12 статей о Node.js от команды Mozilla Identity) | https://habrahabr.ru/company/nordavind/blog/195686/
+
+Реактивный манифест | https://habrahabr.ru/post/195562/
+
+Intel® Parallel Studio XE 2013 Service Pack 1 – что нового? | https://habrahabr.ru/company/intel/blog/194912/
+
+Приглашаем принять участие в конференции Intel Software Conference 2013 | https://habrahabr.ru/company/intel/blog/193026/
+
+Живая бифидопрограмма | https://habrahabr.ru/post/192900/
+
+Ключевые возможности Rust | https://habrahabr.ru/post/191916/
+
+OpenMP теперь доступен в Clang! | https://habrahabr.ru/company/intel/blog/191912/
+
+Как работает GIL в Ruby. Часть 2 | https://habrahabr.ru/post/189486/
+
+Как работает GIL в Ruby. Часть 1 | https://habrahabr.ru/post/189320/
+
+Шпаргалка по параллелизму в С++ | https://habrahabr.ru/company/infopulse/blog/189710/
+
+Распараллеливание с минимальными правками в коде | https://habrahabr.ru/post/188508/
+
+Пишем простой ThreadPool с async и future | https://habrahabr.ru/post/188234/
+
+False sharing в многопоточном приложении на Java | https://habrahabr.ru/post/187752/
+
+Изучаем Storm Framework. Часть III | https://habrahabr.ru/post/186634/
+
+Изучаем Storm Framework. Часть II | https://habrahabr.ru/post/186436/
+
+Не бойтесь велосипедов. Или еще один Grand Central Dispatch (GCD) на C++11 | https://habrahabr.ru/post/186200/
+
+Изучаем Storm Framework. Часть I | https://habrahabr.ru/post/186208/
+
+Техника написания аналога await/async из C# для C++ | https://habrahabr.ru/post/185706/
+
+Одним махом 100 миллионов убивахом. Или lock-free распределитель памяти | https://habrahabr.ru/post/182722/
+
+Dryad. Фреймворк распределенных вычислений | https://habrahabr.ru/post/182164/
+
+Ускорь свой код и найди иголку в стоге сена | https://habrahabr.ru/company/intel/blog/179081/
+
+Генератор Федеративного Фильтра Калмана с использованием Генетических Алгоритмов | https://habrahabr.ru/post/178453/
+
+Пишу игрушечную ОС (о планировщике) | https://habrahabr.ru/post/177403/
+
+Два простых правила для предотвращения взаимных блокировок на мьютексах | https://habrahabr.ru/company/nordavind/blog/176541/
+
+Написание многопоточных приложений для магазина Windows с помощью Intel Threading Building Blocks — теперь с DLL | https://habrahabr.ru/company/intel/blog/175121/
+
+О правильном использовании памяти в NUMA-системах под управлением ОС Linux | https://habrahabr.ru/company/intel/blog/171079/
+
+Yarr — dataflow-фреймворк (обработки изображений) на Хаскеле | https://habrahabr.ru/post/170571/
+
+Новые детали о Parallella Board | https://habrahabr.ru/post/168897/
+
+Влияние загрузки шины данных на масштабируемость приложений | https://habrahabr.ru/company/intel/blog/168473/
+
+Синхронизация процессов при распараллеливании задачи средствами Caché Event API | https://habrahabr.ru/company/intersystems/blog/167867/
+
+NUMизматика, NUMерология и просто о NUMA | https://habrahabr.ru/company/intel/blog/165903/
+
+Предельная производительность: C# | https://habrahabr.ru/post/165729/
+
+Многопоточность в Java | https://habrahabr.ru/post/164487/
+
+Android: Написание многопоточных приложений с помощью Intel® Threading Building Blocks | https://habrahabr.ru/company/intel/blog/161527/
+
+7 новых возможностей Intel® VTune Amplifier XE | https://habrahabr.ru/company/intel/blog/162521/
+
+MapReduce 2.0. Какой он современный цифровой слон? | https://habrahabr.ru/post/161437/
+
+Windows 8: Написание многопоточных приложений для магазина Windows с помощью Intel® Threading Building Blocks | https://habrahabr.ru/company/intel/blog/158263/
+
+Параллельное программирование с помощью вычислительного графа | https://habrahabr.ru/company/intel/blog/157735/
+
+Оптимизируем… распараллеливаем… взлетаем! | https://habrahabr.ru/company/intel/blog/157561/
+
+Доступ к переменным Thread local storage (TLS) любого треда | https://habrahabr.ru/post/157783/
+
+Rivertrail: параллелизм в JavaScript | https://habrahabr.ru/company/intel/blog/154999/
+
+Демонстрация сбоев программы при отсутствии барьеров памяти | https://habrahabr.ru/post/155507/
+
+Игра «Жизнь». Опять. На этот раз в 3D | https://habrahabr.ru/post/154753/
+
+Карманный кластер за $99 | https://habrahabr.ru/post/154267/
+
+От последовательного кода к параллельному за пять шагов c Intel® Advisor XE | https://habrahabr.ru/company/intel/blog/152086/
+
+Моя «парадигма» работы с потоками | https://habrahabr.ru/post/152025/
+
+Метод геометрического параллелелизма и еще немного про MPI | https://habrahabr.ru/post/151744/
+
+Считаем Пи параллельно. Часть 1 | https://habrahabr.ru/post/147796/
+
+А как же всё-таки работает многопоточность? Часть I: синхронизация | https://habrahabr.ru/post/143237/
+

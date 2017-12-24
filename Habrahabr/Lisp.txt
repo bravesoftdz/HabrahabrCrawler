@@ -1,0 +1,212 @@
+Настройка пользовательского интерфейса при установке приложений на nanoCAD Plus 8.5 | https://habrahabr.ru/company/nanosoft/blog/343496/
+
+Генерация кода на Python при помощи Hy | https://habrahabr.ru/post/342044/
+
+Объединяем Websockets, Lisp и функциональное программирование | https://habrahabr.ru/post/339628/
+
+Liscript — web REPL: поцелуи, велосипеды и экскаваторы | https://habrahabr.ru/post/336006/
+
+Игры на Scheme(Lisp) в среде DrRacket | https://habrahabr.ru/post/328924/
+
+Как проектировать программы (HtDP) | https://habrahabr.ru/post/328562/
+
+Как я "<" моноидом делал | https://habrahabr.ru/post/328110/
+
+Заклиная техническое интервью | https://habrahabr.ru/post/326726/
+
+Создание кнопки LISP-приложения в nanoCAD | https://habrahabr.ru/company/nanosoft/blog/324784/
+
+Как я стал лучше программировать | https://habrahabr.ru/post/324648/
+
+Liscript — REPL боты онлайн | https://habrahabr.ru/post/324166/
+
+Как делать больше, уставая меньше. Emacs pomidor | https://habrahabr.ru/post/323576/
+
+Готовим многопоточность с core.async | https://habrahabr.ru/post/312748/
+
+Гейзенбаг, или как Луна портит код | https://habrahabr.ru/post/308462/
+
+Алан Кэй, создатель ООП, про разработку, Лисп и ООП | https://habrahabr.ru/company/hexlet/blog/303754/
+
+Введение в продолжения и макросы на Scheme | https://habrahabr.ru/post/302186/
+
+Пол Грэм: Глава 2. Хакеры и художники (Habr edition) | https://habrahabr.ru/company/edison/blog/301790/
+
+«Хакеры и Художники». Как мы 13 лет всем рунетом Пола Грэма переводили | https://habrahabr.ru/post/301104/
+
+Пол Грэм: «The Other Road Ahead», часть 1 | https://habrahabr.ru/company/edison/blog/282574/
+
+Liscript — реализуем TCO | https://habrahabr.ru/post/282093/
+
+Пишем Lisp-интерпретатор на Java | https://habrahabr.ru/post/281859/
+
+0 марта. Сеймур Пейперт и обучение программированию через тело (и бессознательное) | https://habrahabr.ru/company/edison/blog/277799/
+
+Вот он, мутирующий алгоритм. Или чего не может «Lisp» | https://habrahabr.ru/post/277305/
+
+Common Lisp SDL2 туториал | https://habrahabr.ru/post/275651/
+
+Хорошо настроенный Emacs | https://habrahabr.ru/post/274759/
+
+Пол Грэм: «Месть ботанов», часть 3 | https://habrahabr.ru/company/edison/blog/271103/
+
+Пол Грэм: «Месть ботанов». В чем отличие Lisp | https://habrahabr.ru/company/edison/blog/268293/
+
+Пол Грэм: «Проектирование и исследование» | https://habrahabr.ru/post/268281/
+
+ECFG: сажаем ~/.emacs на диету | https://habrahabr.ru/post/268271/
+
+Пол Грэм: «Месть ботанов», часть 1 | https://habrahabr.ru/post/267865/
+
+Практика IronScheme | https://habrahabr.ru/company/tinkoff/blog/267119/
+
+Углубление в Scheme | https://habrahabr.ru/company/tinkoff/blog/267113/
+
+Введение в Scheme | https://habrahabr.ru/company/tinkoff/blog/267015/
+
+Программировать с нуля. «Сейчас» — самое подходящее время, чтобы начать | https://habrahabr.ru/company/tceh/blog/265981/
+
+Emacs: дрессируем курсор (продолжение) | https://habrahabr.ru/post/266073/
+
+«Хакеры и художники», «On Lisp» и эссе на русском. Учим(ся) писать как Пол Грэм | https://habrahabr.ru/company/tceh/blog/253311/
+
+Интервью с Nenad Rakocevic о языке Red, преемнике Rebol | https://habrahabr.ru/post/265685/
+
+Состояние экосистемы Common Lisp на 2015 год | https://habrahabr.ru/post/265589/
+
+Emacs: дрессируем курсор | https://habrahabr.ru/post/265531/
+
+От PHP к Clojure | https://habrahabr.ru/post/264005/
+
+Веб-приложение на Clojure. Часть 2 | https://habrahabr.ru/post/263131/
+
+Веб-приложения на Clojure | https://habrahabr.ru/post/263115/
+
+Использование Lisp в продакшене | https://habrahabr.ru/post/262225/
+
+Common Lisp IDE | https://habrahabr.ru/post/259737/
+
+λ-исчисление и LISP | https://habrahabr.ru/post/258825/
+
+Супер муравейник на ClojureCLR | https://habrahabr.ru/post/256017/
+
+Python Meetup 27.02.15: Hy и Toga | https://habrahabr.ru/company/wargaming/blog/253801/
+
+ErgoEmacs — a way to Lisp | https://habrahabr.ru/post/248957/
+
+GNU Emacs. Статья, которую я так и не нашел… | https://habrahabr.ru/post/248663/
+
+Clojure — трансдьюсеры, редьюсеры и прочая муть | https://habrahabr.ru/post/247889/
+
+Минимальное DB/GUI приложение на PicoLisp | https://habrahabr.ru/post/247965/
+
+Решетчатое наследование | https://habrahabr.ru/post/242649/
+
+Pipe matching в ЯП Clojure (метапрограммирование в Lisp для начинающих) | https://habrahabr.ru/post/243683/
+
+Emoji Lisp | https://habrahabr.ru/post/237297/
+
+Метаобъектный протокол Common Lisp на примере реализации прототипной объектной системы | https://habrahabr.ru/post/230619/
+
+Интерпретатор Lisp на GNU/sed | https://habrahabr.ru/post/227983/
+
+Мини-интерпретатор Lisp'a на Python | https://habrahabr.ru/post/227119/
+
+Приручаем ZoG (Часть 5: Сбор маны) | https://habrahabr.ru/post/218109/
+
+Приручаем ZoG (Часть 4: Осторожно — мины!) | https://habrahabr.ru/post/213391/
+
+Приручаем ZoG (Часть 3: Футбол Кумской долины) | https://habrahabr.ru/post/212835/
+
+Приручаем ZoG (Часть 2: Бац!) | https://habrahabr.ru/post/212237/
+
+Приручаем ZoG (Часть 1: Волки и Козленок) | https://habrahabr.ru/post/211100/
+
+Пишем свой DSL на Clojure для работы с БД | https://habrahabr.ru/post/204992/
+
+«Lisp in Small Pieces» на русском | https://habrahabr.ru/post/204442/
+
+Clojure Cup — опыт участия в хакатоне по написанию веб-приложения на Clojure | https://habrahabr.ru/post/196090/
+
+Лучшие выступления Ричарда Хикки | https://habrahabr.ru/post/194032/
+
+Краткий очерк истории Lisp машин | https://habrahabr.ru/post/190082/
+
+Убираем пыль с 1000 фотографий с помощью Gimp и Script-Fu | https://habrahabr.ru/post/179817/
+
+edn: extensible data notation | https://habrahabr.ru/post/178473/
+
+Разработка веб-приложений в PicoLisp | https://habrahabr.ru/post/178235/
+
+Радикальный подход к разработке приложений | https://habrahabr.ru/post/177791/
+
+Почему стоит изучить Clojure? | https://habrahabr.ru/post/173071/
+
+Интегрируем clojure-библиотеку в java-приложение | https://habrahabr.ru/post/171361/
+
+Изменение кода программы во время ее выполнения на примере Common Lisp | https://habrahabr.ru/post/165095/
+
+Clojure в Белорусском ГУ | https://habrahabr.ru/post/164701/
+
+Перевод «ANSI Common Lisp» в электронном виде | https://habrahabr.ru/post/162357/
+
+Clojure — последовательности (sequences) | https://habrahabr.ru/post/160235/
+
+Программирование в Maxima | https://habrahabr.ru/post/153853/
+
+LISP-интерпретатор на чистом C | https://habrahabr.ru/post/150805/
+
+Реализация Common Lisp Condition System на C# | https://habrahabr.ru/post/150198/
+
+Пакеты, системы, модули, библиотеки — КАКОГО? | https://habrahabr.ru/post/146574/
+
+Объектно ориентированный подход на функциях в Scheme | https://habrahabr.ru/post/144598/
+
+Nikodemus' Common Lisp FAQ | https://habrahabr.ru/post/143618/
+
+Преимущества Common Lisp | https://habrahabr.ru/post/143490/
+
+Конспект монографии по λ-исчислению | https://habrahabr.ru/post/141104/
+
+HomeLisp два года спустя | https://habrahabr.ru/post/137928/
+
+Оформление кода Clojure | https://habrahabr.ru/post/137608/
+
+Пишем веб-сервер на Common Lisp часть вторая | https://habrahabr.ru/post/131780/
+
+Пишем веб-сервер на Common Lisp часть первая | https://habrahabr.ru/post/131586/
+
+Несколько причин освоить CL даже если вы не планируете писать на нем в будущем | https://habrahabr.ru/post/131518/
+
+Настройка SBCL и среды разработки SLIME под Windows. Пошаговое руководство | https://habrahabr.ru/post/131418/
+
+Обобщенные функции CLOS | https://habrahabr.ru/post/131026/
+
+Будущее Лиспа | https://habrahabr.ru/post/126543/
+
+Установка common lisp на правах пользователя | https://habrahabr.ru/post/124725/
+
+Использование mongo-cl-driver в качестве провайдера БД mongo на common-lisp | https://habrahabr.ru/post/120712/
+
+Lisp разработчик: две стороны одной медали | https://habrahabr.ru/post/114981/
+
+GIMP Script-fu: быстрое изучение и написание простых скриптов на Scheme (+ пакетная обработка бесплатно) | https://habrahabr.ru/post/111387/
+
+GUI в Common Lisp — еще один миф | https://habrahabr.ru/post/89097/
+
+Clojure и Project Euler, часть 2 | https://habrahabr.ru/post/84791/
+
+Clojure и Project Euler, часть 1 | https://habrahabr.ru/post/84204/
+
+HomeLisp | https://habrahabr.ru/post/83587/
+
+Scheme и классы | https://habrahabr.ru/post/76077/
+
+Что такое лямбда? | https://habrahabr.ru/post/73807/
+
+Язык Scheme | https://habrahabr.ru/post/72257/
+
+Самый быстрый мини веб-сервер | https://habrahabr.ru/post/60524/
+
+Io Language: Синтаксис | https://habrahabr.ru/post/28167/
+

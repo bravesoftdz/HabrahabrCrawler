@@ -1,0 +1,120 @@
+WRIO Internet OS. Архитектура: Linked Data и JSON-LD | https://habrahabr.ru/post/304298/
+
+Опрос: насколько строго вы следуете стандартам и лучшим практикам на фронтенде? | https://habrahabr.ru/post/303918/
+
+API для валидатора от Яндекса. А также почему валидаторы микроразметки выдают разные ответы? | https://habrahabr.ru/company/yandex/blog/265965/
+
+Не только Яндексу. Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам | https://habrahabr.ru/company/yandex/blog/246003/
+
+rawdog — агрегатор RSS без завышенных запросов | https://habrahabr.ru/post/240545/
+
+Зачем на самом деле используют микроразметку. Обзор от Яндекса | https://habrahabr.ru/company/yandex/blog/229929/
+
+Элемент HTML &lttime> | https://habrahabr.ru/post/229291/
+
+Как устроен мир семантической микроразметки | https://habrahabr.ru/company/yandex/blog/211638/
+
+Реестр стационарных объектов наблюдения (комплексы ФВФ) | https://habrahabr.ru/post/173721/
+
+Google выложила руководства для начинающих SEO-оптимизаторов | https://habrahabr.ru/post/172965/
+
+Как и для чего мы сделали свой валидатор микроразметки | https://habrahabr.ru/company/yandex/blog/165727/
+
+Блог на Wordpress с семантической разметкой | https://habrahabr.ru/post/152937/
+
+Универсальный валидатор микроразметки в Яндекс.Вебмастере | https://habrahabr.ru/company/yandex/blog/148737/
+
+Немного о Microdata | https://habrahabr.ru/post/141216/
+
+Wikidata: первый новый проект Wikimedia Foundation с 2006 года | https://habrahabr.ru/post/141150/
+
+Много нового про семантическую разметку от Яндекса | https://habrahabr.ru/post/134534/
+
+W3C вернул элемент <time> обратно в HTML5 | https://habrahabr.ru/post/131978/
+
+До свидания, <time> | https://habrahabr.ru/post/131729/
+
+Google начинает учитывать в выдаче мета-теги rel="author" и rel="me" | https://habrahabr.ru/post/121097/
+
+Разработчик создал инструмент для возвращения RSS в Twitter | https://habrahabr.ru/post/120197/
+
+Twitter и Facebook тихо убрали RSS, полностью | https://habrahabr.ru/post/119188/
+
+Валидатор микроразметки — новый инструмент в Яндекс.Вебмастере | https://habrahabr.ru/post/110350/
+
+OMF — микроформат для email. Опыт использования в сервисе чатов | https://habrahabr.ru/post/102184/
+
+Вышел Oomph 2.0 | https://habrahabr.ru/post/67981/
+
+Шпаргалка по микроформатам на русском | https://habrahabr.ru/post/40019/
+
+Yahoo Search будет индексировать микроформаты | https://habrahabr.ru/post/21890/
+
+Новый плагин Safari для работы с микроформатами | https://habrahabr.ru/post/16778/
+
+Парсим микроформаты | https://habrahabr.ru/post/31301/
+
+Трансформер для микроформатов. (mf -> XML и JSON) | https://habrahabr.ru/post/14237/
+
+GRDDL теперь является рекомендацией W3C | https://habrahabr.ru/post/14112/
+
+Практический HTML: улучшаем семантику ссылок | https://habrahabr.ru/post/31221/
+
+Google Maps: добавлена поддержка микроформата hCard | https://habrahabr.ru/post/12773/
+
+На Twitter внедрили XFN, hCard и hAtom | https://habrahabr.ru/post/11857/
+
+Пример использования микроформатов на «живом» проекте | https://habrahabr.ru/post/11449/
+
+Микроформаты в браузере Maxthon | https://habrahabr.ru/post/10774/
+
+Микроформаты в профиле хабрапользователя | https://habrahabr.ru/post/10601/
+
+Избранные вопросы и ответы на них | https://habrahabr.ru/post/9113/
+
+Экспортируем микроформат в мобильный телефон | https://habrahabr.ru/post/8622/
+
+Вторая встреча WSG-Russia | https://habrahabr.ru/post/6550/
+
+OpenID и hCard: интересный симбиоз | https://habrahabr.ru/post/6110/
+
+Мнение одного из создателей CSS | https://habrahabr.ru/post/3609/
+
+WebCards — новейшее расширение Firefox для работы с микроформатами | https://habrahabr.ru/post/3561/
+
+Все продукты Microsoft будут поддерживать OpenID | https://habrahabr.ru/post/3043/
+
+Flickr поддерживает машинные теги | https://habrahabr.ru/post/2664/
+
+Известная сеть LinkedIn внедрила микроформат hResume | https://habrahabr.ru/post/1375/
+
+Расс Уикли: Mood Microformats — помогут людям сказать все как есть | https://habrahabr.ru/post/1351/
+
+Firefox 3: браузер, как информационный брокер | https://habrahabr.ru/post/1067/
+
+Элементарные микроформаты | https://habrahabr.ru/post/1058/
+
+Мой Круг и микроформаты | https://habrahabr.ru/post/1008/
+
+Микроформаты в жизнь. Практическое применение. | https://habrahabr.ru/post/972/
+
+Новейшее расширение Firefox для работы с микроформатами | https://habrahabr.ru/post/945/
+
+Алексей Копылов о микроформатах | https://habrahabr.ru/post/858/
+
+Шпаргалки по микроформатам | https://habrahabr.ru/post/828/
+
+Пиктограммы для микроформатов | https://habrahabr.ru/post/812/
+
+Знакомство с микроформатом rel-license | https://habrahabr.ru/post/791/
+
+Микроформаты здесь и сейчас | https://habrahabr.ru/post/778/
+
+Инструменты для публикации тагов в микроформате rel-tag | https://habrahabr.ru/post/749/
+
+dotMac Webmail внедряет микроформат hCard | https://habrahabr.ru/post/670/
+
+Иван Сагалаев о микроформатах | https://habrahabr.ru/post/65/
+
+Вводное слово | https://habrahabr.ru/post/64/
+

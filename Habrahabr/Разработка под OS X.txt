@@ -1,0 +1,210 @@
+PVS-Studio 2018: CWE, Java, RPG, macOS, Keil, IAR, MISRA | https://habrahabr.ru/company/pvs-studio/blog/344734/
+
+Зачем я купил Mac Mini (Late 2012) накануне 2018 года? | https://habrahabr.ru/post/343598/
+
+Swift не нужен? | https://habrahabr.ru/post/342370/
+
+Parallels Desktop 13 — семь советов для эффективной работы | https://habrahabr.ru/company/parallels/blog/341800/
+
+RxSwift: немного о share(), replay(), shareReplayLatestWhileConnected() и других классных операторах | https://habrahabr.ru/post/336970/
+
+Parallels Desktop для Mac 13: к macOS High Sierra готовы | https://habrahabr.ru/company/parallels/blog/336152/
+
+Клонирование игры Lode Runner с первого ПК в СССР «БК-0010» плюс несколько слов о программировании игр в конце 80-х | https://habrahabr.ru/post/335968/
+
+Digest MBLTdev — свежак для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/335438/
+
+Книга «Сценарии командной оболочки. Linux, OS X и Unix. 2-е издание» | https://habrahabr.ru/company/piter/blog/331734/
+
+Приложения на iOS, Android и Mac для разработчиков | https://habrahabr.ru/company/everydaytools/blog/328766/
+
+Упрощаем работу с CloudKit, или синхронизация в духе Zen | https://habrahabr.ru/company/everydaytools/blog/326050/
+
+Инструменты для команды удалённых разработчиков | https://habrahabr.ru/company/parallels/blog/326044/
+
+Использование code blocks из Objective-C в Delphi на macOS: как мы навели мосты | https://habrahabr.ru/post/325204/
+
+NSUserDefaults на практике | https://habrahabr.ru/post/324400/
+
+Как расширить функционал приложения, размещенного на Mac Store, при помощи Apple Script | https://habrahabr.ru/company/everydaytools/blog/323982/
+
+Введение в обработку ошибок в Swift 3 | https://habrahabr.ru/company/everydaytools/blog/320940/
+
+Delphi со вкусом Cocoa | https://habrahabr.ru/post/319922/
+
+100 выпуск Digest MBLTdev — свежак для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/319496/
+
+Почему Hackintosh уже актуален. Развенчание мифов | https://habrahabr.ru/post/318164/
+
+Чем «interface» отличается от «междумордия»: наш подход к документированию и локализации программных продуктов | https://habrahabr.ru/company/parallels/blog/318170/
+
+Внедрение NSTouchBar на Swift | https://habrahabr.ru/company/everydaytools/blog/317232/
+
+Встраиваем PVS-Studio в Eclipse CDT (macOS) | https://habrahabr.ru/post/317518/
+
+Тюнинг Swift компилятора. Часть 1 | https://habrahabr.ru/post/316986/
+
+Как еще использовать type safety в целях улучшения API | https://habrahabr.ru/post/315164/
+
+Slate – «серебряная пуля» для расположения окон на экранах OS X | https://habrahabr.ru/post/313578/
+
+Разработка в InterSystems Caché в вашей любимой IDE | https://habrahabr.ru/company/intersystems/blog/311078/
+
+История создания приложения по поиску нянь в Ирландии и электронного официанта | https://habrahabr.ru/company/innopolis_university/blog/311576/
+
+Как перестать беспокоиться и победить Центр обновления Windows? | https://habrahabr.ru/company/parallels/blog/311324/
+
+Как герои игры OverWatch однажды облысели, а мы вернули им шевелюры | https://habrahabr.ru/company/parallels/blog/310266/
+
+Инструменты для отладки программ в Linux | https://habrahabr.ru/company/first/blog/310164/
+
+Dropbox на macOS использует приёмы malware, чтобы получить привилегии, которые ему не нужны | https://habrahabr.ru/post/310074/
+
+Как увеличить жизнь батареи на Mac и другие функции Parallels Desktop 12 | https://habrahabr.ru/company/parallels/blog/307996/
+
+Workflow просмотра сериалов для Alfred | https://habrahabr.ru/post/305346/
+
+Cериалокачалка на python3 с поддержкой расширений | https://habrahabr.ru/post/304770/
+
+Platypus и Packages. Создаём и устанавливаем программы на macOS | https://habrahabr.ru/post/304778/
+
+Внедрения реактива в архитектуру iOS приложений | https://habrahabr.ru/post/300962/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 2-я) | https://habrahabr.ru/post/302204/
+
+Swift улучшаем performSegueWithIdentifier или удобный роутер со сторибордами | https://habrahabr.ru/post/275783/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 1-я) | https://habrahabr.ru/post/301712/
+
+SimSim, откройся | https://habrahabr.ru/post/301488/
+
+Отчет с Moscow CocoaHeads Meetup 29 апреля | https://habrahabr.ru/company/mailru/blog/301156/
+
+Масштабирование iOS-приложений: Как это делал Рамблер? | https://habrahabr.ru/company/jugru/blog/300886/
+
+Встраиваем pre-built dylib в приложение | https://habrahabr.ru/post/283204/
+
+RxSwift: работа с GUI | https://habrahabr.ru/post/283128/
+
+Приглашаем на Moscow CocoaHeads Meetup 29 апреля | https://habrahabr.ru/company/mailru/blog/282538/
+
+Как это сделано: мобильный кроссплатформенный движок | https://habrahabr.ru/post/282065/
+
+Эксперименты с malloc | https://habrahabr.ru/company/mailru/blog/281497/
+
+RxSwift шпаргалка по операторам (+ PDF) | https://habrahabr.ru/post/281292/
+
+Вопросы разработчикам Paragon NTFS for Mac | https://habrahabr.ru/post/279935/
+
+Дистрибуция приложений. Часть 1: создание Formula для Homebrew | https://habrahabr.ru/post/279687/
+
+Свежак для iOS-разработчиков — Digest MBLTdev | https://habrahabr.ru/company/e-Legion/blog/279059/
+
+WG Labs объявляет конкурс разработчиков | https://habrahabr.ru/company/wargaming/blog/278601/
+
+Весёлые табы в MAC OS X или история про тот самый Tab View | https://habrahabr.ru/post/278091/
+
+До чего доводит идея (Objective-C) — target-action на блоках и много рантайма | https://habrahabr.ru/post/276599/
+
+Закладка в OS X, продлевающая работу от батарейки для избранных приложений | https://habrahabr.ru/post/276787/
+
+Objective-C вопросы на уровень middle/senior | https://habrahabr.ru/post/273487/
+
+Objective-C integration testing на примере части RSS читалки | https://habrahabr.ru/post/272967/
+
+Apple опубликовала исходный код Swift | https://habrahabr.ru/post/272375/
+
+Objective-C: как работают блоки | https://habrahabr.ru/post/271255/
+
+Про использование Visual Studio Code в Unity под OS X | https://habrahabr.ru/company/microsoft/blog/271439/
+
+Objective-C что такое на самом деле метод и self? + runtime | https://habrahabr.ru/post/270913/
+
+Восстанавливаем права доступа под Mac OS X — EL Capitan | https://habrahabr.ru/post/270969/
+
+Разработка 2D игр на Windows, Mac OS, Linux и Android без программирования. Часть 2 | https://habrahabr.ru/post/270855/
+
+Перевод соглашения с разработчиком Apple Developer Program License Agreement | https://habrahabr.ru/post/270199/
+
+Создание удобного экспорта фотографий в VK. Часть 1. iPhoto | https://habrahabr.ru/company/arcadia/blog/251437/
+
+Swift + VK.API, или история о SwiftyVK | https://habrahabr.ru/post/269741/
+
+Установка Intel RealSense SDK на компьютеры Mac | https://habrahabr.ru/company/intel/blog/267957/
+
+Perspex — кросплатформенный UI-фреймворк с XAML и биндингами | https://habrahabr.ru/post/267425/
+
+Screentendo — генерация уровней для Super Mario Bros на основе содержимого экрана | https://habrahabr.ru/post/266719/
+
+Мультиплатформенный аудио плеер на C++ и OpenAL | https://habrahabr.ru/post/266127/
+
+CocoaHeads 24 июля в Rambler&Co | https://habrahabr.ru/company/rambler-co/blog/262921/
+
+Как победить Excluded Constraints с помощью RubyGem | https://habrahabr.ru/company/dataart/blog/262179/
+
+XARA-уязвимости в OS X и iOS | https://habrahabr.ru/company/rambler-co/blog/260557/
+
+Swift 2.0 будет с открытым кодом в конце года | https://habrahabr.ru/post/259853/
+
+Что бы вы выбрали? Упражнение по выбору приложения из App Store | https://habrahabr.ru/company/appodeal/blog/259351/
+
+Да начнется unit-тестирование (Objective-C) | https://habrahabr.ru/post/258953/
+
+Циклические контейнеры в Objective-C | https://habrahabr.ru/post/258249/
+
+Видео от пользователя: MacOS внутри ReactOS | https://habrahabr.ru/company/reactos/blog/257589/
+
+Xcode: плагины для плагинов | https://habrahabr.ru/post/256015/
+
+Как сделать Laser Squad из XCOM: этюд для GDB в OSX | https://habrahabr.ru/post/255787/
+
+Как настроить Mac OS X, iOS-симулятор и RAD Studio XE8 (Delphi, C++ Builder) | https://habrahabr.ru/company/delphi/blog/255721/
+
+Делаем свою работу в Xcode чуточку эффективнее | https://habrahabr.ru/post/253827/
+
+Разработка Air Native Extensions (ANE) для OS X | https://habrahabr.ru/post/252217/
+
+Objective-C Runtime для Си-шников. Часть 3 | https://habrahabr.ru/post/251211/
+
+Objective-C Runtime для Си-шников. Часть 2 | https://habrahabr.ru/post/250977/
+
+Обработка больших запакованных файлов на Mac и не только | https://habrahabr.ru/post/251007/
+
+Objective-C Runtime для Си-шников. Часть 1 | https://habrahabr.ru/post/250955/
+
+Подключаем NTFS на запись в Mac OS X Yosemite 10.10 | https://habrahabr.ru/post/246517/
+
+Научно-исследовательское программное обеспечение в ВУЗах Великобритании | https://habrahabr.ru/post/245171/
+
+Минимализм Objective-C | https://habrahabr.ru/post/242621/
+
+Новый Office 365 как платформа для разработчиков под Windows, Android, iOS и Web | https://habrahabr.ru/company/microsoft/blog/242483/
+
+Уменьшаем потребление CPU Skype под Linux и Mac OS | https://habrahabr.ru/post/242043/
+
+Локализация приложений под OS X | https://habrahabr.ru/company/mailru/blog/241217/
+
+Как рубисту пережить апдейт OSX 10.10 Yosemite | https://habrahabr.ru/post/240945/
+
+Как поменять параметры ускорения движения курсора мыши в Мак ОС | https://habrahabr.ru/post/240885/
+
+Docker контейнеры для web-разработчика под OS X | https://habrahabr.ru/post/240277/
+
+Работа с файлами .plist в Cocoa/CocoaTouch | https://habrahabr.ru/post/158727/
+
+Создание красивого образа .dmg для программы в [Mac] OS X | https://habrahabr.ru/post/152677/
+
+Потоки в OS X: как получить CPU usage всех потоков в чужой программе? | https://habrahabr.ru/post/152134/
+
+Qt/Objective-C++11 или сборка Qt-проекта с помощью GCC-4.7 и Clang | https://habrahabr.ru/post/144707/
+
+Консоль для маководов: Beyond the GUI | https://habrahabr.ru/post/143341/
+
+Создаём простейший виджет для Mac OS X Dashboard | https://habrahabr.ru/post/140624/
+
+Вышла версия Xcode 4.3.2 | https://habrahabr.ru/post/140488/
+
+Интеграция приложений Qt в среду Mac OS X (с использованием Cocoa и Objective-C++) | https://habrahabr.ru/post/133700/
+
+Кастомизация заголовка окна в Mac OS X | https://habrahabr.ru/post/133593/
+

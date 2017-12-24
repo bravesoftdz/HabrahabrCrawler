@@ -1,0 +1,408 @@
+SOC for beginners. Как организовать мониторинг инцидентов и реагирование на атаки в режиме 24х7 | https://habrahabr.ru/company/solarsecurity/blog/344632/
+
+Две крупнейших CRM — Salesforce и Zoho — сравнение телефонных интеграций | https://habrahabr.ru/company/zadarma/blog/344586/
+
+CRM система или Help Desk? В чем принципиальная разница, откуда путаница, и что есть на рынке Help Desk-ов? | https://habrahabr.ru/company/okdesk/blog/343976/
+
+DNS-туннель, PsExec, кейлоггер: разбираем схему и технические инструменты атаки | https://habrahabr.ru/company/solarsecurity/blog/343980/
+
+Сколько стоит CRM-система? | https://habrahabr.ru/company/regionsoft/blog/343632/
+
+SOC for beginners. Глава 3. Использование внешних источников данных об угрозах для Security Operation Center | https://habrahabr.ru/company/solarsecurity/blog/343574/
+
+Надежная инфраструктура для облачного b2b стартапа | https://habrahabr.ru/company/okdesk/blog/343266/
+
+Flussonic Watcher для интернет-провайдера | https://habrahabr.ru/company/erlyvideo/blog/343138/
+
+Цифровая Пятница 2017 | https://habrahabr.ru/company/ruward/blog/342882/
+
+Как White Label помогает в развитии сервисов и продуктов. 5 примеров | https://habrahabr.ru/post/342514/
+
+Собери свой Security Operation Center из 5 элементов | https://habrahabr.ru/company/solarsecurity/blog/342386/
+
+Стриминг и анализ логов Java приложений в MS Azure с использованием Log4j и Stream Analytics | https://habrahabr.ru/post/341660/
+
+SOC for beginners. Задачи SOC: контроль защищенности | https://habrahabr.ru/company/solarsecurity/blog/341530/
+
+SOC for beginners. Задачи SOC: мониторинг | https://habrahabr.ru/company/solarsecurity/blog/340386/
+
+Аналитика Solar JSOC: как атакуют российские компании | https://habrahabr.ru/company/solarsecurity/blog/338330/
+
+Нода c бесконечной ёмкостью для Kubernetes | https://habrahabr.ru/company/microsoft/blog/338686/
+
+Машинное обучение руками «не программиста»: классификация клиентских заявок в тех.поддержку (часть 1) | https://habrahabr.ru/company/okdesk/blog/337278/
+
+Контейнеры быстрого развёртывания | https://habrahabr.ru/company/microsoft/blog/334682/
+
+Один квартал из жизни SOC. Три инцидента без купюр | https://habrahabr.ru/company/solarsecurity/blog/333816/
+
+Проблема непрерывной защиты веб-приложений. Взгляд со стороны исследователей и эксплуатантов. Часть 2 | https://habrahabr.ru/company/solarsecurity/blog/332846/
+
+Проблема непрерывной защиты веб-приложений. Взгляд со стороны исследователей и эксплуатантов | https://habrahabr.ru/company/solarsecurity/blog/331786/
+
+WannaCry и Petya — как действует центр мониторинга и реагирования на кибератаки в случае глобальных инцидентов | https://habrahabr.ru/company/solarsecurity/blog/331860/
+
+PHDays VII: хроники «Противостояния» | https://habrahabr.ru/company/solarsecurity/blog/329890/
+
+Обзор сервиса DentalTap — разделы Бизнес и Коммуникации | https://habrahabr.ru/company/dentalcloud/blog/327412/
+
+Как мы из CRUD-движка сервис делали | https://habrahabr.ru/post/327240/
+
+Обзор сервиса DentalTap — раздел Лечение | https://habrahabr.ru/company/dentalcloud/blog/326760/
+
+Про multitenancy | https://habrahabr.ru/company/1c/blog/326654/
+
+Технология APS: облачный стандарт | https://habrahabr.ru/company/odin_ingram_micro/blog/324422/
+
+Делаем более-менее универсальный калькулятор услуг для сайта | https://habrahabr.ru/company/uteam/blog/324620/
+
+Сколько должен стоить ваш SaaS? Я проанализировал 1530 сервисов и получил такие графики | https://habrahabr.ru/post/323960/
+
+Поиск по большим документам в ElasticSearch | https://habrahabr.ru/post/321352/
+
+Грузовики и рефрижераторы в облаке | https://habrahabr.ru/company/microsoft/blog/319856/
+
+Хайлайтинг больших текстовых полей в ElasticSearch | https://habrahabr.ru/post/320390/
+
+ПРАВИЛьная кухня | https://habrahabr.ru/company/solarsecurity/blog/320262/
+
+Что такое Flussonic Watcher | https://habrahabr.ru/company/erlyvideo/blog/316360/
+
+1С в облаках | https://habrahabr.ru/company/1c/blog/312456/
+
+Доступность JSOC: показатели и измерение | https://habrahabr.ru/company/solarsecurity/blog/311770/
+
+Idea Platform — конструктор для создания сложных веб-приложений (почти) без программирования | https://habrahabr.ru/company/ideaplatform/blog/310716/
+
+Solar JSOC – опыт построения коммерческого SOC | https://habrahabr.ru/company/solarsecurity/blog/310470/
+
+Сравнение онлайн-сервисов склонения имен | https://habrahabr.ru/post/304804/
+
+Что угрожает вашему сайту после установки онлайн-консультанта и как мы с этим боремся | https://habrahabr.ru/company/redhelper/blog/303226/
+
+Как выбрать сервис-провайдера облака? | https://habrahabr.ru/company/safedata/blog/301714/
+
+«Битрикс24» — теперь полностью бесплатные коммуникации для любой команды | https://habrahabr.ru/company/bitrix/blog/274953/
+
+Рынок Виртуальных АТС и ITooLabs. Итоги-2015 | https://habrahabr.ru/company/itoolabs/blog/279941/
+
+Что ж, этот день настал: быстрое совместное редактирование в редакторах ONLYOFFICE | https://habrahabr.ru/company/teamlab/blog/276101/
+
+Облачный колл-центр в безоблачном краю. Необычайные новогодние приключения ITooLabs на Балканах | https://habrahabr.ru/company/itoolabs/blog/273997/
+
+HIVE: будущее облачной АТС или куда идем в следующем году | https://habrahabr.ru/company/iptelefon/blog/274213/
+
+Знакомый незнакомец. What is Битрикс24? | https://habrahabr.ru/company/bitrix/blog/274165/
+
+Разрабатываем сервис облачной конференц-связи для малого бизнеса | https://habrahabr.ru/company/iptelefon/blog/273693/
+
+Использование comet сервера для реализации простого чата | https://habrahabr.ru/company/comet-server/blog/273573/
+
+DaData.ru находит и уничтожает одинаковых людей | https://habrahabr.ru/company/hflabs/blog/273251/
+
+Робот-продавец. Автоматизируем отдел продаж с помощью SaaS | https://habrahabr.ru/company/iptelefon/blog/273237/
+
+Ответственность вендора. Кто отвечает за аварии? | https://habrahabr.ru/company/itoolabs/blog/273225/
+
+Рынок Виртуальных АТС умер | https://habrahabr.ru/company/sipuni/blog/272833/
+
+Создаём простой Realtime чат | https://habrahabr.ru/company/comet-server/blog/272817/
+
+Multi IP-SIM на службе малого бизнеса. Специальная SIM-карта для сайтов бесплатных объявлений | https://habrahabr.ru/company/iptelefon/blog/272699/
+
+Hello, SaaS | Российский SaaS 2015 | https://habrahabr.ru/post/272755/
+
+Как ботаники заведения автоматизируют | https://habrahabr.ru/post/272593/
+
+PaaS vs Лицензии. Четыре благородные истины IT-инфраструктуры | https://habrahabr.ru/company/itoolabs/blog/271227/
+
+Тестируем облачную платформу IBM на примере чата | https://habrahabr.ru/post/272443/
+
+Облачные сервисы, которые помогают нам каждый день | https://habrahabr.ru/company/alconost/blog/272397/
+
+АТС в кармане: настраиваем IP-телефонию для удаленной работы | https://habrahabr.ru/company/zadarma/blog/271261/
+
+Создавая enterprise — решение завтрашнего дня | https://habrahabr.ru/company/microsoft/blog/270757/
+
+Что полезного вы можете извлечь из отчета про облака в России | https://habrahabr.ru/company/parallels/blog/270557/
+
+Обзор первого эластичного хранилища данных Snowflake Elastic Data Warehouse | https://habrahabr.ru/company/lifestreet/blog/270167/
+
+По дороге с облаками: реальность дата-центров и роль SPLA в ней | https://habrahabr.ru/company/softline/blog/269343/
+
+Укрощение строптивых. Подключаем единый номер к нескольким мобильным | https://habrahabr.ru/post/269493/
+
+Подводные камни в облаках, или проваленный тест онлайн-редакторов на docx-файле | https://habrahabr.ru/post/269301/
+
+Panda Adaptive Defense 360: адаптация IT-защиты к новым потребностям предприятий | https://habrahabr.ru/company/panda/blog/269235/
+
+Как защитить Вашу компанию от атак нулевого дня | https://habrahabr.ru/company/panda/blog/268811/
+
+Преимущества управляемого сервиса безопасности | https://habrahabr.ru/company/panda/blog/268749/
+
+Ода доброму вендору: выбираем платформу для запуска VoIP SaaS-проекта | https://habrahabr.ru/post/268619/
+
+Семь Великих Тайн Менеджера. Подменяем номер при исходящих с мобильных. Новые функции AltegroCloud | https://habrahabr.ru/post/268167/
+
+Невыносимая тяжесть серверов: к вопросу перехода на модель IaaS | https://habrahabr.ru/company/safedata/blog/268093/
+
+Бесплатный виджет обратного звонка для сайта | https://habrahabr.ru/company/zadarma/blog/267313/
+
+Consul: Service Discovery это просто, или прощаемся с конфиг-файлами | https://habrahabr.ru/post/266139/
+
+Как оптимизировать работу интернет-магазина. Часть 1. Автоматический прозвон входящих лидов | https://habrahabr.ru/post/267085/
+
+Sipuni: путь разработки от виртуальной АТС к SaaS-сервису по приёму телефонных звонков | https://habrahabr.ru/company/sipuni/blog/266921/
+
+A-SIM, настройся! Специальная сим-карта и много-много входящих номеров | https://habrahabr.ru/post/266651/
+
+Совместное редактирование. Часть 2 | https://habrahabr.ru/company/ncloudtech/blog/266429/
+
+Продать за 60 секунд. Call-центр в облаке и специальная сим-карта | https://habrahabr.ru/post/266003/
+
+SPLAшное удовольствие — зарабатывать на облаках | https://habrahabr.ru/company/softline/blog/265177/
+
+Совместное редактирование. Часть 1 | https://habrahabr.ru/company/ncloudtech/blog/264923/
+
+CometQL — api работы с комет сервером по протоколу MySQL | https://habrahabr.ru/company/comet-server/blog/264425/
+
+14 новых ролей в Big Data | https://habrahabr.ru/company/io/blog/264359/
+
+Специальная сим-карта плюс интернет-телефония или «сип с ногами» для всех | https://habrahabr.ru/post/264239/
+
+Как я собрал скелет бота для заказа такси в Telegram | https://habrahabr.ru/post/263875/
+
+Сколько в день жмет девелопер? | https://habrahabr.ru/company/io/blog/263795/
+
+«МойОфис»: Первые шаги | https://habrahabr.ru/company/ncloudtech/blog/263719/
+
+Кто такие контент-хакеры? | https://habrahabr.ru/company/io/blog/263707/
+
+Магия Universal Analytics | https://habrahabr.ru/company/io/blog/263161/
+
+48 часов жизни вашей публикации на Хабре | https://habrahabr.ru/company/io/blog/262617/
+
+Модернизируем корпоративную мобильную связь с помощью FMC SIM-карт AltegroCloud | https://habrahabr.ru/post/262743/
+
+На рельсах интеграции. Быть или не быть? | https://habrahabr.ru/company/pushall/blog/262449/
+
+Веб-файл менеджер со встроенной ветрянкой | https://habrahabr.ru/company/virusdie/blog/262177/
+
+Геолокация плюс мобильная связь и обновленный API AltegroCloud | https://habrahabr.ru/post/262229/
+
+Новости «Mail.Ru для бизнеса» | https://habrahabr.ru/company/mailru/blog/261215/
+
+Простыми словами о Twelve-Factor App | https://habrahabr.ru/post/261171/
+
+Внутри антивируса для сайтов Вирусдай — Часть 1 | https://habrahabr.ru/company/virusdie/blog/261039/
+
+Через тернии к звездам. Как мы набивали шишки | https://habrahabr.ru/company/ringcloud/blog/258803/
+
+Hello, SaaS | Удаленная работа 2 | https://habrahabr.ru/company/dentalcloud/blog/258809/
+
+Приложение двенадцати факторов — The Twelve-Factor App | https://habrahabr.ru/post/258739/
+
+API RingCloud, всё только начинается | https://habrahabr.ru/company/ringcloud/blog/258311/
+
+Travel SIM + облачная АТС и новые подходы к интерфейсу IP-PBX | https://habrahabr.ru/post/257905/
+
+Hello, SaaS | Remote всем | https://habrahabr.ru/company/dentalcloud/blog/257641/
+
+28 мая в Москве, «Дорога в облака»: обсуждение облачных бизнес-стратегий для компаний-разработчиков, всё о новых тенденциях в индустрии | https://habrahabr.ru/company/microsoft/blog/257523/
+
+Чудо-Юдо рыба-Юкит или 128-й конструктор сайтов на рынке | https://habrahabr.ru/company/uteam/blog/256319/
+
+Hello, SaaS | PR и маркетинг Dental Cloud | https://habrahabr.ru/company/dentalcloud/blog/255429/
+
+Как мы «женили» облачную АТС, GSM и риэлтеров (часть 4) | https://habrahabr.ru/post/254993/
+
+Как создавать и зарабатывать на SaaS | Часть 17 | Персональные данные и врачебная тайна в облаке | https://habrahabr.ru/company/dentalcloud/blog/254423/
+
+Защита от прослушивания разговоров — строим безопасную SIP телефонию своими руками | https://habrahabr.ru/company/ppbbxx/blog/253073/
+
+Как создавать и зарабатывать на SaaS | Часть 16 | Своя мобильная сеть WI-FI | https://habrahabr.ru/company/dentalcloud/blog/254113/
+
+Free Cloud IP-PBX — реализация от ppbbxx.com | https://habrahabr.ru/company/ppbbxx/blog/252665/
+
+Как мы «женили» облачную АТС, GSM и риэлтеров (часть 3) | https://habrahabr.ru/post/252513/
+
+Freemium против Free: почему мы избавились от бесплатной подписки | https://habrahabr.ru/post/252449/
+
+Как создавать и зарабатывать на SaaS | Часть 14 | Кувырки с ценами | https://habrahabr.ru/company/dentalcloud/blog/251989/
+
+Как мы «женили» облачную АТС, GSM и риэлторов (часть 2) | https://habrahabr.ru/post/251525/
+
+Как мы «женили» облачную АТС, GSM и риэлторов (часть 1) | https://habrahabr.ru/post/249271/
+
+Эволюция SAAS конструкторов сайтов | https://habrahabr.ru/post/249021/
+
+Как продавать Fortune 500, государству и другим ужасным организациям | https://habrahabr.ru/company/web_payment_ru/blog/248345/
+
+Возникли сложности с аналитикой поведения пользователей? Встречайте руководство новичка по созданию эффективной воронки конверсии | https://habrahabr.ru/company/carrotquest/blog/248333/
+
+Как создавать и зарабатывать на SaaS | Часть 13 | Три шага безроуминговых технологий | https://habrahabr.ru/company/quickme/blog/245053/
+
+Как создавать и зарабатывать на SaaS | Часть 12 | Мобильная революция доступа в облака: как сменить оператора в «один клик» | https://habrahabr.ru/company/quickme/blog/243123/
+
+Маркетинг стартапа (продолжение): Девять уровней качества трафика | https://habrahabr.ru/post/241331/
+
+Маркетинг стартапа: Клиент, исчезнувший на дне воронки и Почему уделять слишком много внимания трафику опасно для вашего бизнеса | https://habrahabr.ru/post/241339/
+
+Бесплатные офисные приложения: редактируй это! | https://habrahabr.ru/post/241187/
+
+Биллинг в SaaS-приложениях на Ruby on Rails. Продолжение про 3-D Secure | https://habrahabr.ru/company/lpcloud/blog/240573/
+
+Как 3 человека без инвестиций «волшебную кнопку» для магазинов делали | https://habrahabr.ru/post/239563/
+
+Основные маркетинговые фишки в SaaS-проекте | https://habrahabr.ru/company/lpcloud/blog/238089/
+
+Биллинг в SaaS-приложениях на Ruby on Rails | https://habrahabr.ru/company/lpcloud/blog/236453/
+
+Контейнеризация — новый shared-хостинг | https://habrahabr.ru/post/235803/
+
+BaasCMS – бэкенд не нужен | https://habrahabr.ru/post/234409/
+
+Простой облачный бэкап для разработчиков, и как мы работаем над ним в Yandex Tolstoy Startup Camp | https://habrahabr.ru/company/bitcalm/blog/231471/
+
+Как создавать и зарабатывать на SaaS (Случайно забытая Часть 9 / Юридический туман SaaS) | https://habrahabr.ru/company/quickme/blog/231099/
+
+Как развивать облачный сервис: обеспечиваем бесперебойную работу и добавляем возможности | https://habrahabr.ru/company/moysklad/blog/230991/
+
+Как создавать и зарабатывать на SaaS (Часть 10 / Метрики бизнес модели) | https://habrahabr.ru/company/quickme/blog/229543/
+
+Как работают финансы облачной компании | https://habrahabr.ru/company/moysklad/blog/228931/
+
+Ценности использования электронной почты для малого и среднего бизнеса | https://habrahabr.ru/company/quickme/blog/228409/
+
+Простая реализация инструмента поддержки пользователей в SaaS сервисе Quickme | https://habrahabr.ru/company/quickme/blog/227519/
+
+О том, как стартап может вылететь из индекса в одночасье | https://habrahabr.ru/company/istbudget/blog/227267/
+
+Делаем бэкапы: как перестать волноваться за свои данные | https://habrahabr.ru/company/bitcalm/blog/226373/
+
+Как создавать и зарабатывать на SaaS / SaaS — реалии российского рынка | https://habrahabr.ru/company/quickme/blog/225561/
+
+MVP за 7 недель. Как это было | https://habrahabr.ru/post/224291/
+
+Как создавать и зарабатывать на SaaS (Часть 7 / почему же не продается SaaS?) | https://habrahabr.ru/company/quickme/blog/222401/
+
+Как не сойти с ума владельцу стартапа? | https://habrahabr.ru/company/omnidesk/blog/221605/
+
+Как создавать и зарабатывать на SaaS / Часть 5 / интеграция сервисов SaaS | https://habrahabr.ru/post/220633/
+
+Облачная платформа для чатов в мобильных приложениях | https://habrahabr.ru/company/ifree/blog/219599/
+
+СметаCloud — составление смет онлайн. Отображение и печать больших таблиц в браузере | https://habrahabr.ru/company/smetacloud/blog/219559/
+
+Как создавать и зарабатывать на SaaS (Часть 4 / cтартап Quickme – коммуникации и совместная работа небольших команд) | https://habrahabr.ru/company/quickme/blog/218873/
+
+Как мы делаем Trello | https://habrahabr.ru/company/alconost/blog/218245/
+
+Как создавать и зарабатывать на SaaS (Часть 3 / продажи через партнерский канал, который, возможно, и не нужен) | https://habrahabr.ru/company/quickme/blog/217281/
+
+Как создавать и зарабатывать на SaaS (Часть 2 / бесценный опыт российских ISV) | https://habrahabr.ru/company/quickme/blog/217283/
+
+Как создавать и зарабатывать на SaaS (Часть I / убрать все лишнее, попасть в цель, экспериментировать) | https://habrahabr.ru/company/quickme/blog/216421/
+
+Биометрическая подпись на документе | https://habrahabr.ru/post/189848/
+
+Модель ценообразования SaaS: больше денег, больше проблем | https://habrahabr.ru/company/host-tracker/blog/210892/
+
+Dedicated SaaS или как начать «продавать борщ» | https://habrahabr.ru/company/it-grad/blog/210732/
+
+Microsoft, к доске! Или чему Office365 может поучиться у редактора на Canvas | https://habrahabr.ru/post/209190/
+
+Как мы интегрируем SaaS решение с учетной системой заказчика | https://habrahabr.ru/post/207156/
+
+Самые распространенные ошибки при Pivot'е (развороте) проекта | https://habrahabr.ru/post/205676/
+
+Оппа, Ганта стайл | https://habrahabr.ru/post/202552/
+
+Рейтинги, или зачем сексшопу форум? | https://habrahabr.ru/company/rangg/blog/202566/
+
+SAAS — Жизненный цикл клиента | https://habrahabr.ru/post/192868/
+
+Вебинар vs. живая встреча | https://habrahabr.ru/post/190842/
+
+На какой площадке развивать свой инфобизнес? | https://habrahabr.ru/post/190612/
+
+MASHA — формирование ежедневного меню в дошкольном учреждении | https://habrahabr.ru/post/182370/
+
+Преимущества и недостатки безопасности SaaS сервиса. Решение по безопасности SaaS сервиса от компании IBM. Обеспечение безопасности облака от компании КРОК | https://habrahabr.ru/post/183300/
+
+Облачная платформа OpenShift от RedHat завершила тестирование и представила первый платный тариф с пробным периодом в 3 месяца | https://habrahabr.ru/post/183030/
+
+Публичные шаблоны VPS на Linux/Windows — приглашаем авторов и админов для создания сервиса типа AWS AMI | https://habrahabr.ru/company/hostkey/blog/181638/
+
+Проблемы в корпоративном использовании SAAS | https://habrahabr.ru/post/148271/
+
+Box раздает по 50 Гб новым пользователям — загадочная акция «Dell» | https://habrahabr.ru/post/168825/
+
+Почему бесплатный софт для бизнеса — это плохо. По мотивам отключения бесплатных подписок Google Apps | https://habrahabr.ru/post/167471/
+
+Офлайн-информер для онлайн-бизнеса | https://habrahabr.ru/post/163897/
+
+Безопасность клиентов и разрабочиков SaaS HRM сервисов | https://habrahabr.ru/post/163583/
+
+История развития сервиса по поиску тендеров | https://habrahabr.ru/post/159437/
+
+Формула стартапа | https://habrahabr.ru/post/156013/
+
+IDCEE 2012 — день второй | https://habrahabr.ru/company/idcee/blog/155945/
+
+IDCEE 2012 — день первый | https://habrahabr.ru/post/155337/
+
+Cервис для обмена запросами между поставщиками товаров и интернет-магазинами | https://habrahabr.ru/company/Centrobit/blog/154261/
+
+Стратегия развития: от MVP к целостному продукту | https://habrahabr.ru/company/itarena/blog/148020/
+
+Мультитенантная архитектура для SaaS приложений | https://habrahabr.ru/company/microsoft/blog/145027/
+
+Обзор CRM-систем: Битрикс24, AmoCRM, ASoft CRM | https://habrahabr.ru/post/144135/
+
+Коровы в облаках | https://habrahabr.ru/post/143647/
+
+Архитектура Битрикс24 — взгляд изнутри | https://habrahabr.ru/company/bitrix/blog/142859/
+
+Техническая поддержка клиентов через интернет | https://habrahabr.ru/company/itarena/blog/141801/
+
+Аутентификация как механизм лицензирования | https://habrahabr.ru/post/141478/
+
+Microsoft Office 365: теперь и у нас | https://habrahabr.ru/company/parking-old/blog/140435/
+
+TeamWox SaaS Agent: как бесплатно и быстро строить SaaS фермы | https://habrahabr.ru/post/126510/
+
+Мифы о SaaS, облачных платформах и облачных вычислениях | https://habrahabr.ru/post/120681/
+
+Почему модель оплаты per user per month плохая | https://habrahabr.ru/post/117407/
+
+Опрос для разработчиков SaaS | https://habrahabr.ru/post/116071/
+
+Модель SaaS простыми словами | https://habrahabr.ru/company/uteam/blog/113980/
+
+Суровые реалии SaaS в России | https://habrahabr.ru/post/103935/
+
+Делать SaaS или не-SaaS? Путеводитель для разработчиков | https://habrahabr.ru/post/103507/
+
+Проблемы и недостатки SaaS | https://habrahabr.ru/post/102552/
+
+Онлайн консультант на сайт через Jabber | https://habrahabr.ru/post/98016/
+
+Популяризация SaaS и проблема доверия | https://habrahabr.ru/post/89737/
+
+Конкурс для разработчиков SaaS решений | https://habrahabr.ru/post/85943/
+
+Некоторые финансовые результаты SaaS-вендоров | https://habrahabr.ru/post/81100/
+
+Понятно о Software + Services и SaaS | https://habrahabr.ru/post/74166/
+
+Центр развития S+S Россия | https://habrahabr.ru/post/73766/
+
+Запущен проект SaaSCatalog! | https://habrahabr.ru/post/73625/
+
+Вопросы, которые НЕ задают при покупке SaaS | https://habrahabr.ru/post/73142/
+
+Малый бизнес и SaaS\S+S | https://habrahabr.ru/post/73027/
+
+Почта Exchange + BES для Blackberry в России | https://habrahabr.ru/post/73013/
+

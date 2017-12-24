@@ -1,0 +1,286 @@
+Как доставить интернет в отдаленные уголки планеты: проекты GCI, Google и Facebook | https://habrahabr.ru/company/vasexperts/blog/344120/
+
+PLATO: история первой в мире системы электронного обучения | https://habrahabr.ru/company/it-grad/blog/343724/
+
+Базовые станции: как все начиналось | https://habrahabr.ru/company/ru_mts/blog/342602/
+
+Немного о VPN: протоколы для удаленного доступа | https://habrahabr.ru/company/vasexperts/blog/341916/
+
+TLS 1.2 и новый ГОСТ | https://habrahabr.ru/post/339978/
+
+Жизнь после запрета Google Global Cache: Последствия для провайдеров и клиентов | https://habrahabr.ru/company/vasexperts/blog/340846/
+
+Реализация proxy-сервера на интеграционной шине | https://habrahabr.ru/post/340754/
+
+Библиотека для синхронизации состояния | https://habrahabr.ru/post/340654/
+
+Про 112, и как оно работает теперь | https://habrahabr.ru/post/340666/
+
+На дне: что угрожает подводным интернет-кабелям | https://habrahabr.ru/company/it-grad/blog/339616/
+
+Джозеф «Лик» Ликлайдер: «Межгалактическая компьютерная сеть» (1963 год) | https://habrahabr.ru/post/338092/
+
+Telia запускает первую публичную 5G-сеть в Европе | https://habrahabr.ru/company/it-grad/blog/339364/
+
+Новая платформа Cisco Intersight упростит управление Cisco UCS и HyperFlex | https://habrahabr.ru/company/it-grad/blog/338626/
+
+160-терабитный трансатлантический кабель Marea закончен | https://habrahabr.ru/company/it-grad/blog/338622/
+
+Настоящий Offline Perfect Forward Secrecy для ваших продуктов | https://habrahabr.ru/company/virgilsecurity/blog/337356/
+
+Практическое применение блокчейна как распределенного хранилища данных | https://habrahabr.ru/post/337082/
+
+Работа с параметрами CST из Matlab | https://habrahabr.ru/post/336396/
+
+С ветерком! Как мы внедряли бесконтактную оплату поездок в метро | https://habrahabr.ru/company/lanit/blog/336234/
+
+Импровизированный считыватель штрих кодов для 1С через Telegram на Go | https://habrahabr.ru/post/335916/
+
+Ой, у меня задержка | https://habrahabr.ru/company/erlyvideo/blog/335208/
+
+Что творится с HEVC (h265) | https://habrahabr.ru/company/erlyvideo/blog/333028/
+
+Bluetooth Mesh – развитие стандарта передачи данных для IoT | https://habrahabr.ru/company/vasexperts/blog/333998/
+
+Команда веб-энтузиастов представила P2P-браузер Beaker | https://habrahabr.ru/company/1cloud/blog/333988/
+
+Google планирует представить облачный сервис для квантовых вычислений | https://habrahabr.ru/company/it-grad/blog/333688/
+
+История создания библиотеки для группового общения андроид-устройств через Wi-Fi Peer-to-Peer соединение | https://habrahabr.ru/post/333388/
+
+Семантика exactly-once в Apache Kafka | https://habrahabr.ru/company/badoo/blog/333046/
+
+Агрегация интернет-каналов через операторов сотовой связи | https://habrahabr.ru/company/mailru/blog/332950/
+
+Исследование устойчивости национальных сегментов сети | https://habrahabr.ru/company/qrator/blog/332844/
+
+Доставка миллиардов сообщений строго один раз | https://habrahabr.ru/post/332448/
+
+Шел 2017 год. Где UDP фрагментация? | https://habrahabr.ru/company/Voximplant/blog/331132/
+
+Отслеживание отправки форм с помощью GTM | https://habrahabr.ru/post/330472/
+
+Что такое эксклюзивные блокчейны | https://habrahabr.ru/company/bitfury/blog/330370/
+
+Интеграция телефонии с CRM: на что опираться при самостоятельной настройке | https://habrahabr.ru/company/uis/blog/330396/
+
+Компания IBM представила первый в мире 5-нанометровый чип | https://habrahabr.ru/company/it-grad/blog/330304/
+
+Справочник «пчеловода» или отвечаем на вопросы по микроконтроллерам EFM8 Bee | https://habrahabr.ru/company/efo/blog/327780/
+
+IBM открыла доступ к новому 16-кубитному квантовому процессору | https://habrahabr.ru/company/it-grad/blog/328590/
+
+«Алгоритмы консенсуса»: Подтверждение доли и доказательство работы | https://habrahabr.ru/company/bitfury/blog/327468/
+
+МТС и Ericsson тестируют 5G в движении на стадионе «Спартак» – ОНЛАЙН-трансляция | https://habrahabr.ru/company/ru_mts/blog/326910/
+
+ESP8266 в качестве MQTT брокера для мобильного приложения | https://habrahabr.ru/post/326794/
+
+Mission critical communication и при чем тут NFV? | https://habrahabr.ru/company/billing/blog/326500/
+
+Как мы ускорили наш DNS стек в 3 раза | https://habrahabr.ru/post/326372/
+
+В Университете ИТМО начнут разработку невзламываемых систем хранения данных | https://habrahabr.ru/company/spbifmo/blog/325346/
+
+Подводные камни для самодельной распределенности «из коробки» в С++ном акторном фреймворке | https://habrahabr.ru/post/325248/
+
+Расчет корректирующего КИХ-фильтра на ПЛИС | https://habrahabr.ru/post/324986/
+
+«В 100 000 раз быстрее»: ультракороткие световые импульсы в вычислительной технике | https://habrahabr.ru/company/vasexperts/blog/321120/
+
+Будни программистов: как мы дорабатывали кассовый софт после выхода нового закона | https://habrahabr.ru/company/pilot/blog/323434/
+
+Как кастомные решения помогли сэкономить на сетевой инфраструктуре | https://habrahabr.ru/company/webo/blog/322946/
+
+Система BBR: регулирование заторов непосредственно по заторам | https://habrahabr.ru/post/322430/
+
+История разработки TWIME — нового высокоскоростного интерфейса Московской Биржи | https://habrahabr.ru/company/moex/blog/321280/
+
+Эксклюзивные кадры монтажа ретранслятора МТС на солнечных батареях в Каменном море (ВИДЕО) | https://habrahabr.ru/company/ru_mts/blog/320534/
+
+Ускоряем передачу данных в localhost | https://habrahabr.ru/post/320508/
+
+Дайджест материалов по теме Deep Packet Inspection | https://habrahabr.ru/company/vasexperts/blog/319628/
+
+Дайте мне точку опоры или безопасный Интернет — это реальность | https://habrahabr.ru/post/320374/
+
+«DPI платит за себя»: Актуальные бизнес-кейсы | https://habrahabr.ru/company/vasexperts/blog/319624/
+
+Минус одна система аналитики данных | https://habrahabr.ru/post/319504/
+
+«Мое облако — моя крепость»: Тренды облачной безопасности | https://habrahabr.ru/company/1cloud/blog/319398/
+
+Что делать, если у кабелей есть уши, или стеганографическое прокси | https://habrahabr.ru/post/319148/
+
+Кодирование с изъятием информации. Часть 1-я, философская | https://habrahabr.ru/post/318848/
+
+Спецификация LoRaWAN. Активация оконечных устройств | https://habrahabr.ru/company/efo/blog/317218/
+
+Как Discord обрабатывает более 1 000 000 push-запросов в минуту с помощью Elixir GenStage | https://habrahabr.ru/post/317724/
+
+«Эхо прошлых лет»: Как решается вопрос недостатка адресов IPv4 | https://habrahabr.ru/company/vasexperts/blog/316272/
+
+Новые модели радиомостов Siklu EtherHaul 2500 – передавать больше, передавать дальше | https://habrahabr.ru/company/comptek/blog/317202/
+
+Спецификация LoRaWAN. Введение. Основные понятия и классы оконечных устройств | https://habrahabr.ru/company/efo/blog/316954/
+
+О широкополосных СВЧ переключателях фирмы «Peregrine Semiconductor» | https://habrahabr.ru/company/efo/blog/316526/
+
+Пять аспектов информационной безопасности, которые изменятся с развитием мобильных сетей пятого поколения | https://habrahabr.ru/company/gemaltorussia/blog/316522/
+
+Как МТС с помощью ретранслятора на солнечных батареях запустил 3G и LTE в горах | https://habrahabr.ru/company/ru_mts/blog/315958/
+
+DPI-дайджест: Анализ трафика, блокировки, платформы и производители систем DPI | https://habrahabr.ru/company/vasexperts/blog/315008/
+
+Подключение IP-телефонов Akuvox к АТС Avaya без лицензии на SIP | https://habrahabr.ru/post/315618/
+
+Протокол QUIC: переход Web от TCP к UDP | https://habrahabr.ru/company/infopulse/blog/315172/
+
+Немного о типах DDoS-атак и методах защиты | https://habrahabr.ru/company/vasexperts/blog/313562/
+
+Как подружить PCIe с 10-метровыми медными кабелями и 100-метровой оптикой | https://habrahabr.ru/company/yadro/blog/314364/
+
+Как превратить смартфон в микрофон (идеи и вопросы) | https://habrahabr.ru/post/314038/
+
+Подключение АЦП к ПЛИС. Особенности, сложности, реализация | https://habrahabr.ru/post/313692/
+
+Настраиваем шлюз LoRaWAN и создаем наше первое IoT-приложение | https://habrahabr.ru/company/efo/blog/313042/
+
+Как я создавал бесшовный Wi-Fi | https://habrahabr.ru/post/312948/
+
+Московская часть хакатона TADHack: уже завтра | https://habrahabr.ru/company/Voximplant/blog/312664/
+
+«Будущее телетрансляций»: Облачное телевидение и не только | https://habrahabr.ru/company/1cloud/blog/312584/
+
+Базовые станции Multi-Tech позволяют развернуть сеть LoRaWAN за пару кликов | https://habrahabr.ru/company/efo/blog/312424/
+
+PCI Express 4.0, кабели и все-все-все | https://habrahabr.ru/company/yadro/blog/309898/
+
+О пользе стандартизации | https://habrahabr.ru/post/309060/
+
+Versatile Link – универсальное соединение | https://habrahabr.ru/company/efo/blog/308902/
+
+UltraCMOS Фирмы «Peregrine Semiconductor»: СВЧ возможности КМОП-технологии | https://habrahabr.ru/company/efo/blog/307614/
+
+Cambium cnPilot – недорогой WiFi, который нас удивил | https://habrahabr.ru/company/comptek/blog/307300/
+
+Оптическое волокно в промышленных системах связи | https://habrahabr.ru/company/efo/blog/306896/
+
+Лазерные коммуникации на примере технологий Facebook | https://habrahabr.ru/company/it-grad/blog/306218/
+
+Cambium ePMP 2000. Решение проблемы интерференции на базовых станциях | https://habrahabr.ru/company/comptek/blog/306308/
+
+Адаптеры сопряжения RS-422 с поддержкой скоростей до 1Мбод для системной шины PCI | https://habrahabr.ru/post/306108/
+
+Сравнение коммуникационных протоколов DLMS/COSEM, SML и IEC 61850 для приложений интеллектуального учета потребления | https://habrahabr.ru/post/305048/
+
+Как HTTP/2 сделает веб быстрее | https://habrahabr.ru/company/nixsolutions/blog/304518/
+
+DLMS/COSEM – открытый протокол для обмена данными с приборами учета. Часть 2: интерфейсные классы, модель прибора учета | https://habrahabr.ru/post/303606/
+
+DLMS/COSEM – открытый протокол для обмена данными с приборами учета. Часть 1: краткий обзор | https://habrahabr.ru/post/302246/
+
+Знакомство со стеком DLMS/COSEM для микроконтроллеров семейства MSP430 компании Texas Instruments | https://habrahabr.ru/post/302180/
+
+Оптические волокна для телекоммуникаций: кварцевые и не только | https://habrahabr.ru/company/efo/blog/301132/
+
+CDN — новый стандарт трансляции видео | https://habrahabr.ru/company/megafon/blog/283358/
+
+Передача данных: фантастическая скорость и новые методы | https://habrahabr.ru/company/yota/blog/283220/
+
+О выработке неперебираемых ключей на основе перебираемых паролей | https://habrahabr.ru/post/282043/
+
+Этого не будет в BI (Купив BI tool, вы этого не получите) | https://habrahabr.ru/post/281703/
+
+EDI стандарт. Технический обзор | https://habrahabr.ru/post/276925/
+
+Content Delivery Network: ждать нельзя загрузить | https://habrahabr.ru/company/megafon/blog/273987/
+
+Передача видеоданных на частотах до 100МГц в ПК | https://habrahabr.ru/post/270733/
+
+Квантовые коммуникации: от НИР до технологического бизнеса | https://habrahabr.ru/company/spbifmo/blog/269127/
+
+ОнЛайм за коннект без брака | https://habrahabr.ru/company/onlime/blog/268541/
+
+Как работает радиоинтерфейс в GSM-сетях | https://habrahabr.ru/post/268127/
+
+Разработка менеджера закачек на GO | https://habrahabr.ru/post/267943/
+
+Мониторинг задержки при проведении онлайн-видеотрансляций и телемостов | https://habrahabr.ru/post/267269/
+
+Zigbee для самых маленьких. Пост номер 1 | https://habrahabr.ru/post/266529/
+
+15 тривиальных фактов о правильной работе с протоколом HTTP | https://habrahabr.ru/company/yandex/blog/265569/
+
+Как разработчики сайтов создают будущее ТВ | https://habrahabr.ru/company/it-grad/blog/264257/
+
+Протоколы передачи финансовых данных. Инструкция по применению | https://habrahabr.ru/company/moex/blog/261369/
+
+Сетевой интерфейс для BMW | https://habrahabr.ru/post/260831/
+
+Знакомство с OsmocomBB: 0x03 Software | https://habrahabr.ru/post/260213/
+
+HL7 FHIR: Fast Healthcare Interoperability Resources | https://habrahabr.ru/post/260145/
+
+Пишем чат для локальной сети, используя C++ Builder. Клиентская часть | https://habrahabr.ru/post/259655/
+
+Пишем чат для локальной сети, используя C++ Builder. Серверная часть | https://habrahabr.ru/post/259641/
+
+HL7: один день в операционной | https://habrahabr.ru/post/259315/
+
+Знакомство с OsmocomBB: 0x02 Hardware | https://habrahabr.ru/post/258661/
+
+Видеоконференцсвязь: будущее уже здесь | https://habrahabr.ru/company/vistlan/blog/258557/
+
+Сравнение HL7v3 и HL7 FHIR | https://habrahabr.ru/post/258113/
+
+Сравнительный анализ HL7 и openEHR | https://habrahabr.ru/post/257883/
+
+Знакомство с OsmocomBB: 0x01 Введение | https://habrahabr.ru/post/257631/
+
+Тестовые данные для HL7 сообщений | https://habrahabr.ru/post/257613/
+
+Базы данных мед систем на основе HL7 RIM | https://habrahabr.ru/post/257517/
+
+EHR-EMR-PHR или чем ЭМК отличается от ЭМК | https://habrahabr.ru/post/257241/
+
+Тестирование средств разработки HL7 CDA R2 | https://habrahabr.ru/post/257017/
+
+IBM представила гибридную микросхему: кремниевая фотоника в действии | https://habrahabr.ru/company/ibm/blog/256939/
+
+Высокоточная синхронизация времени для измерения задержки в ethernet сетях | https://habrahabr.ru/company/metrotek/blog/256867/
+
+Что за зверь HL7 Interoperability? | https://habrahabr.ru/post/256795/
+
+Немного об HL7 EHR-System Functional Model (Функциональная Модель системы ЭМК) | https://habrahabr.ru/post/256609/
+
+Средства разработки HL7 (HL7v2, HL7v3, CDA) | https://habrahabr.ru/post/256115/
+
+Что такое HL7 Continuity of Care Document (CCD) | https://habrahabr.ru/post/256021/
+
+Построение Ethernet-сети для IP-видеонаблюдения | https://habrahabr.ru/post/253373/
+
+Стандартный тест RFC2544 | https://habrahabr.ru/post/252741/
+
+(Видеодоклад) Обзор обновлений сетевого оборудования Extreme Networks | https://habrahabr.ru/company/muk/blog/251963/
+
+Качество сетей передачи данных. Транспорт | https://habrahabr.ru/post/251693/
+
+Роутер от оператора? – Нет, спасибо! | https://habrahabr.ru/company/beeline/blog/251489/
+
+Как упростить проверку держателя банковской карты при онлайн-платежах? | https://habrahabr.ru/company/payture/blog/250729/
+
+Качество сетей передачи данных. Программные и аппаратные измерения | https://habrahabr.ru/post/250821/
+
+Методы мониторинга в системах DWDM (Часть 2) | https://habrahabr.ru/post/250709/
+
+Эмуляция банковской карты на телефоне | https://habrahabr.ru/company/beeline/blog/250369/
+
+Популярно про фрод — ответы на вопросы из реальной жизни электронных коммерсантов | https://habrahabr.ru/company/payture/blog/250437/
+
+APRS | https://habrahabr.ru/post/249901/
+
+Алгоритм обработки ортогональных ФКМ сигналов | https://habrahabr.ru/post/249191/
+
+(Беларусь) Фундамент для ЦОД: архитектура Juniper MetaFabric | https://habrahabr.ru/company/muk/blog/248451/
+

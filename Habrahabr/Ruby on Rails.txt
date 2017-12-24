@@ -1,0 +1,998 @@
+RubyMine 2017.3. Более быстрая IDE, WSL, Embedded Puppet, и многое другое | https://habrahabr.ru/company/JetBrains/blog/343936/
+
+Настройка Minio и Nginx для RoR приложения | https://habrahabr.ru/post/342640/
+
+RailsClub 2017. Материалы | https://habrahabr.ru/company/railsclub/blog/341776/
+
+Шахматы для общего развития: история создания развивающей программы | https://habrahabr.ru/post/340632/
+
+А как вы создаете синглтоны в Ruby? | https://habrahabr.ru/post/340006/
+
+Когда Феникс успел убить Рейлс? | https://habrahabr.ru/post/339460/
+
+Анонс RamblerElixir #4 | https://habrahabr.ru/company/rambler-co/blog/339234/
+
+Погружение в разработку на Ethereum. Часть 3: приложение для пользователя | https://habrahabr.ru/post/339080/
+
+RailsClub 2017. Интервью с организатором elixir-lang.moscow Никитой Соболевым | https://habrahabr.ru/company/railsclub/blog/338412/
+
+RailsClub 2017. Ответ на три главных вопроса от Piotr Solnica | https://habrahabr.ru/company/railsclub/blog/338278/
+
+RailsClub 2017. Интервью с Никитой Шильниковым, Dry-rb и Rom-rb core-разработчиком | https://habrahabr.ru/company/railsclub/blog/338208/
+
+RailsClub 2017. Интервью с Luca Guidi, автором Hanami: смешиваем FP и OOP в Ruby | https://habrahabr.ru/company/railsclub/blog/337862/
+
+RailsClub 2017: Интервью с Richard Schneeman | https://habrahabr.ru/company/railsclub/blog/337378/
+
+RailsClub 2017: Интервью с Nick Sutterer. Rails умирает (а Ruby нет) | https://habrahabr.ru/company/railsclub/blog/336690/
+
+RailsClub 2017: Интервью с Антоном Давыдовым. Важно не останавливаться и предлагать концептуально новые решения | https://habrahabr.ru/company/railsclub/blog/335378/
+
+Чем плохи вложенные классы и как познавать rails magic | https://habrahabr.ru/post/335192/
+
+Продвинутые перечисления с Ruby | https://habrahabr.ru/post/335072/
+
+RailsClub 2017: ждем всех рубистов 23 сентября в Москве | https://habrahabr.ru/company/railsclub/blog/335120/
+
+Начни изучать Elixir прямо сейчас! Перевод всей серии статей готов | https://habrahabr.ru/post/335048/
+
+RubyMine 2017.2: Docker Compose, автокоррекции RuboCop в редакторе, улучшенный VCS | https://habrahabr.ru/company/JetBrains/blog/333880/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 10. Тестирование каналов | https://habrahabr.ru/post/333020/
+
+Почему изменения в новом Phoenix 1.3 так важны | https://habrahabr.ru/post/332898/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 9. Каналы | https://habrahabr.ru/post/332094/
+
+Анонс Ruby Meetup #6 | https://habrahabr.ru/company/rambler-co/blog/332548/
+
+Перевод Redmine-плагинов с TelegramCLI на Webogram | https://habrahabr.ru/company/southbridge/blog/332292/
+
+Советы по Postgres для Rails разработчиков | https://habrahabr.ru/company/okmeter/blog/330628/
+
+Ruby on Rails соглашение. Часть 4 | https://habrahabr.ru/post/330650/
+
+Huginn: простая интеграционная платформа | https://habrahabr.ru/company/carprice/blog/330382/
+
+Развертывание Redmine с помощью Capistrano | https://habrahabr.ru/company/southbridge/blog/330210/
+
+Анонс RamblerElixir #3 | https://habrahabr.ru/company/rambler-co/blog/330290/
+
+Ruby on Rails соглашение. Часть 3 | https://habrahabr.ru/post/329844/
+
+Ruby on Rails соглашение. Часть 2 | https://habrahabr.ru/post/328942/
+
+Лучший способ загрузки файлов в Ruby с помощью Shrine. Часть 2. Загрузчик | https://habrahabr.ru/post/328788/
+
+Деплой Ruby on Rails приложения в Docker при помощи Mina | https://habrahabr.ru/post/328582/
+
+Лучший способ загрузки файлов в Ruby с помощью Shrine. Часть 1 | https://habrahabr.ru/post/328558/
+
+Из Rails 4 в Rails 5: как это было | https://habrahabr.ru/post/326706/
+
+Ruby on Rails соглашение. Часть 1 | https://habrahabr.ru/post/327890/
+
+Не Ruby единым | https://habrahabr.ru/company/epam_systems/blog/327810/
+
+Что нового в Rails 5.1 | https://habrahabr.ru/post/327658/
+
+RubyMine 2017.1: Docker, RuboCop, автогенерация Rails-тестов, улучшения для Puppet | https://habrahabr.ru/company/JetBrains/blog/326806/
+
+SEM раз отмерь. Или «как узнать SEM ли ты и что с этим делать дальше?» | https://habrahabr.ru/company/crossover/blog/325244/
+
+«Ruby для меня — это отличный инструмент» | https://habrahabr.ru/company/netologyru/blog/325162/
+
+JVM не такая тяжёлая | https://habrahabr.ru/post/324572/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 8. Заканчиваем с комментариями | https://habrahabr.ru/post/323462/
+
+Анонс RamblerElixir #2 | https://habrahabr.ru/company/rambler-co/blog/323004/
+
+15 странностей в Ruby, о которых вам стоит знать | https://habrahabr.ru/post/322508/
+
+Вышла Hanami v1.0.0.beta1 | https://habrahabr.ru/post/321938/
+
+Как мы секвенировали хакатоны или «чем тяжелее работа – тем легче на неё устроиться» | https://habrahabr.ru/company/crossover/blog/321736/
+
+Не убивайте свою мотивацию: осваивайте Ruby on Rails на интересных примерах | https://habrahabr.ru/company/everydaytools/blog/321316/
+
+Управление сложностью в проектах на ruby on rails. Часть 3 | https://habrahabr.ru/post/321034/
+
+Как тестировать контейнеры RoR с GitLab CI в контейнере | https://habrahabr.ru/post/320982/
+
+Redmine на MySQL с RocksDB быстрее, чем с InnoDB, от 20% до 3 раз | https://habrahabr.ru/post/319500/
+
+Простая и ужасающая история о шифровании | https://habrahabr.ru/company/infopulse/blog/319492/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 7. Добавляем комментарии / Новогодний анонс в заключении | https://habrahabr.ru/post/318790/
+
+Angular2 + Websocket + RxJS + Rails5 | https://habrahabr.ru/post/318040/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 6. Поддержка Markdown | https://habrahabr.ru/post/317550/
+
+Книга «Ruby. Объектно-ориентированное проектирование» | https://habrahabr.ru/company/piter/blog/317480/
+
+RubyMine 2016.3: Отладка в режиме attach, обновленная поддержка Puppet, синхронизация SDK через rsync | https://habrahabr.ru/company/JetBrains/blog/317004/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 5. Подключаем ExMachina | https://habrahabr.ru/post/316996/
+
+Почему не Assets Pipeline? | https://habrahabr.ru/post/316392/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 4. Добавляем обработку ролей в контроллерах | https://habrahabr.ru/post/316368/
+
+RamblerElixir #1 | https://habrahabr.ru/company/rambler-co/blog/316336/
+
+Сказка о бэкенде, ruby и rails | https://habrahabr.ru/post/316180/
+
+Клон Trello на Phoenix и React. Части 10-12. Финиш долгостроя | https://habrahabr.ru/post/316108/
+
+Почему я бы не стал использовать Rails для нового проекта | https://habrahabr.ru/company/Voximplant/blog/315720/
+
+Как мы делали интерактивный квест для RailsClub | https://habrahabr.ru/company/at_consulting/blog/315604/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 3. Добавляем роли | https://habrahabr.ru/post/315252/
+
+Автоматизированное тестирование плагинов Redmine | https://habrahabr.ru/company/southbridge/blog/314954/
+
+Итоги Ruby Hero Russia Award 2016 | https://habrahabr.ru/company/railsclub/blog/314732/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 2. Авторизация | https://habrahabr.ru/post/313482/
+
+Подтверждение номера телефона, используя Ruby on rails и Twilio | https://habrahabr.ru/post/314254/
+
+RailsClub 2016: подкасты с Иваном Немытченко и Ильей Зыкиным | https://habrahabr.ru/company/railsclub/blog/313054/
+
+Ruby Hero Russia Award 2016 | https://habrahabr.ru/company/railsclub/blog/312976/
+
+Интеграция PostgreSQL с MS SQL Server для тех, кто желает побыстрее и поглубже | https://habrahabr.ru/post/312090/
+
+RailsClub 2016: интервью со Steve Klabnik | https://habrahabr.ru/company/railsclub/blog/312746/
+
+RailsClub 2016: интервью с Zach Briggs | https://habrahabr.ru/company/railsclub/blog/312706/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 1. Вступление | https://habrahabr.ru/post/311088/
+
+Организация роутинга в clojure веб-приложении | https://habrahabr.ru/post/311500/
+
+Пишем Ruby gem для Yandex Direct API | https://habrahabr.ru/post/311512/
+
+RailsClub 2016: Интервью c Владимиром Дементьевым | https://habrahabr.ru/company/railsclub/blog/311414/
+
+RailsClub 2016: Интервью c Алексеем Тактаровым | https://habrahabr.ru/company/railsclub/blog/310104/
+
+Как работать с MS Access в Linux | https://habrahabr.ru/post/309126/
+
+Клон Trello на Phoenix и React. Части 8-9 | https://habrahabr.ru/post/308382/
+
+Клон Trello на Phoenix и React. Части 6-7 | https://habrahabr.ru/post/308248/
+
+Клон Trello на Phoenix и React. Части 4-5 | https://habrahabr.ru/post/308100/
+
+RailsClub 2016: 22 октября в Москве выступит создатель Ruby Yukihiro Matsumoto и не только он | https://habrahabr.ru/company/railsclub/blog/307416/
+
+Сайдкик-самоубийца | https://habrahabr.ru/post/305824/
+
+Книга «Head First. Изучаем Ruby» | https://habrahabr.ru/company/piter/blog/304212/
+
+Создаём свои теги в RSpec тестах | https://habrahabr.ru/company/aligntechnology/blog/303998/
+
+Создание поиска по библиотеке юным программистом — каково это? | https://habrahabr.ru/post/303912/
+
+Использование lambda в качестве локальных функций | https://habrahabr.ru/post/303594/
+
+История языков программирования: о прошлом, настоящем и будущем Ruby | https://habrahabr.ru/post/303024/
+
+Пришло время попрощаться с Rails | https://habrahabr.ru/post/301532/
+
+Пишем форум с нуля на Ruby on Rails и AngularJS | https://habrahabr.ru/post/300954/
+
+Раздаём картинки рельсами после отключения Google'ом svn репозиториев | https://habrahabr.ru/post/283550/
+
+Leaflet как оболочка для «Яндекс.Карт» — отображаем 100 тысяч маркеров на карте | https://habrahabr.ru/post/283354/
+
+Архитектура построения Single Page Application на основе AngularJS и Ruby on Rails | https://habrahabr.ru/post/283214/
+
+Efficient Rails — новая книга по оптимизации процесса разработки Rails-приложений | https://habrahabr.ru/post/282936/
+
+Наследование таблиц в Postgresql с Ruby On Rails | https://habrahabr.ru/company/rambler-co/blog/282676/
+
+Используем Webpack вместо Sprockets в Ruby on Rails | https://habrahabr.ru/post/282584/
+
+Используем CommonJS модули в Rails с Browserify | https://habrahabr.ru/post/282293/
+
+React.js — Руководство для Rails разработчиков | https://habrahabr.ru/post/281735/
+
+Побеждаем злой вулкан с Rails и RGeo​ | https://habrahabr.ru/company/dataart/blog/281248/
+
+«Банда четырёх» была неправа, а вы не знаете, что такое делегирование | https://habrahabr.ru/post/280960/
+
+Новый дом для репозитория или история переезда на GitLab | https://habrahabr.ru/post/279681/
+
+Как Дэвид Хайнемайер Хенссон организовывает контроллеры | https://habrahabr.ru/post/279287/
+
+Бот для Telegram. Rails way | https://habrahabr.ru/post/279179/
+
+Что нового в Rails 5.0. Можно планировать переезд | https://habrahabr.ru/post/278969/
+
+Пользовательский файл конфигурации в Rails | https://habrahabr.ru/post/278801/
+
+Ruby on Rails. Passenger Quickstart | https://habrahabr.ru/post/278735/
+
+Apache + FCGI + Ruby + ActiveRecord. Когда RoR много | https://habrahabr.ru/post/278195/
+
+Docker-compose switch to version 2 | https://habrahabr.ru/post/278083/
+
+Аутентифицируем запросы в микросервисном приложении с помощью nginx и JWT | https://habrahabr.ru/post/277677/
+
+Крупнейший хакатон в истории разработки ПО с призовым фондом в 140000$ | https://habrahabr.ru/post/276039/
+
+Как работает диспетчеризация методов в Ruby | https://habrahabr.ru/post/274979/
+
+Domain sharding: реализация на Ruby on Rails и результаты применения | https://habrahabr.ru/post/274209/
+
+Почему из женщин получаются хорошие программисты | https://habrahabr.ru/post/273999/
+
+Facebook угрожает специалисту по безопасности, взломавшему Instagram | https://habrahabr.ru/post/273491/
+
+Автоматизированное тестирование контроллеров в Rails | https://habrahabr.ru/post/271427/
+
+Что нового в Ruby 2.3 | https://habrahabr.ru/company/truevds/blog/271301/
+
+REST API на Ruby на основе ActiveRecord для доступа к таблицам в базе данных | https://habrahabr.ru/post/271243/
+
+Как устроен Code Game Challenge | https://habrahabr.ru/post/270953/
+
+Как хранить сложную иерархию настроек в проектах Redmine | https://habrahabr.ru/company/southbridge/blog/270615/
+
+Перевод: как gitLab использует unicorn и unicorn-worker-killer | https://habrahabr.ru/company/Voximplant/blog/270227/
+
+Рецепты тестирования Ruby и Rails приложений | https://habrahabr.ru/company/mailru/blog/269723/
+
+Самая-самая последняя статья о настройке сервера для Rails | https://habrahabr.ru/post/269721/
+
+Перевод. Срезаем углы: почему rails может убить ruby | https://habrahabr.ru/company/Voximplant/blog/269467/
+
+Почему я ставлю на Elixir | https://habrahabr.ru/post/269477/
+
+RailsStuff — набор для разработки на рельсах | https://habrahabr.ru/company/mailru/blog/268359/
+
+Авторизация в Redmine с другого сайта | https://habrahabr.ru/company/southbridge/blog/267921/
+
+RailsClub 2015: Интервью c Николаем Рыжиковым | https://habrahabr.ru/company/railsclub/blog/267245/
+
+Управление сложностью в проектах на ruby on rails. Часть 2 | https://habrahabr.ru/post/267233/
+
+RailsClub 2015: Конкурс от Vexor’a и история о CI-сервисе в большом проекте | https://habrahabr.ru/company/railsclub/blog/267235/
+
+RailsClub 2015: Интервью c Александром Кирилловым | https://habrahabr.ru/company/railsclub/blog/267151/
+
+RailsClub 2015: Интервью c Иваном Немытченко | https://habrahabr.ru/company/railsclub/blog/267011/
+
+RailsClub 2015: Интервью c Борисом Горячевым | https://habrahabr.ru/company/railsclub/blog/266941/
+
+RailsClub 2015: Интервью c Владимиром Ярцевым | https://habrahabr.ru/company/railsclub/blog/266795/
+
+Управление сложностью в проектах на ruby on rails. Часть 1 | https://habrahabr.ru/post/266761/
+
+Правильная работа с датой и временем в Ruby on Rails | https://habrahabr.ru/company/at_consulting/blog/266681/
+
+RailsClub 2015: Интервью c Андреем Куманяевым | https://habrahabr.ru/company/railsclub/blog/266397/
+
+Программировать с нуля. «Сейчас» — самое подходящее время, чтобы начать | https://habrahabr.ru/company/tceh/blog/265981/
+
+Ansible и Rails — гибкая замена Capistrano с сохранением знакомого комфорта | https://habrahabr.ru/post/266353/
+
+RailsClub 2015: Интервью c Киром Шатровым | https://habrahabr.ru/company/railsclub/blog/266329/
+
+RailsClub 2015: Интервью c Анной Щербининой | https://habrahabr.ru/company/railsclub/blog/266141/
+
+RailsClub 2015: Интервью c Тимофеем Цветковым | https://habrahabr.ru/company/railsclub/blog/266051/
+
+Подключения Go shared library к Ruby | https://habrahabr.ru/post/266037/
+
+RailsClub 2015: Интервью c Коичи Сасада | https://habrahabr.ru/company/railsclub/blog/265921/
+
+Конкурс «Признайся в любви или напиши поэму на Ruby on Rails» | https://habrahabr.ru/company/tceh/blog/265903/
+
+RailsClub 2015: Интервью c Андреем Дерябиным | https://habrahabr.ru/company/railsclub/blog/265825/
+
+Go в Basecamp (создатели RoR) | https://habrahabr.ru/post/265831/
+
+RailsClub 2015: Интервью c Клаудио Баччигалупо | https://habrahabr.ru/company/railsclub/blog/265745/
+
+Каждой ветке по хосту c помощью capistrano | https://habrahabr.ru/company/at_consulting/blog/264105/
+
+Деплой: Nginx, Puma и Mina | https://habrahabr.ru/post/265459/
+
+RailsClub 2015: Интервью с Сэмом Пиппеном | https://habrahabr.ru/company/railsclub/blog/265397/
+
+Ruby On Rails и взаимодействие с REST Qiwi Shop | https://habrahabr.ru/post/265391/
+
+Live — чат и ActionCable | https://habrahabr.ru/post/264589/
+
+RailsClub Moscow 2015, мы начинаем | https://habrahabr.ru/company/railsclub/blog/263825/
+
+Вышел релиз JRuby 9000 | https://habrahabr.ru/company/truevds/blog/263335/
+
+Подборка актуальных и полезных материалов по Ruby #1: статьи, доклады, подкасты, гемы | https://habrahabr.ru/company/at_consulting/blog/263047/
+
+Обработка 1 миллиона запросов в минуту c Go | https://habrahabr.ru/post/262045/
+
+RailsClub Ruby митап №2 в офисе Rambler&Co | https://habrahabr.ru/company/rambler-co/blog/261997/
+
+Паттерны проектирования на Ruby | https://habrahabr.ru/post/261439/
+
+Альтернатива callback-ам | https://habrahabr.ru/post/261475/
+
+Коммерческий VPN сервис в opensource | https://habrahabr.ru/post/261295/
+
+Настройка MySQL + octopus | https://habrahabr.ru/post/261251/
+
+Multiple/Class Table Inheritance в Rails | https://habrahabr.ru/post/260621/
+
+DevConf 2015 — финальное голосование за доклады. Сделаем программу лучше и полезней | https://habrahabr.ru/company/devconf/blog/259593/
+
+Социальная сеть на Android за несколько выходных — часть II (сервер) | https://habrahabr.ru/post/258111/
+
+Интервью с Эриком Михаельс-Обером, RubyHero-2014 | https://habrahabr.ru/post/258027/
+
+Несколько полезных ruby-трюков, которые (возможно) улучшат ваш код | https://habrahabr.ru/post/257151/
+
+Проблема с кодировкой в Sprockets 3 при работе с HTML файлами | https://habrahabr.ru/post/256523/
+
+Еще один способ узнать, кто залогинен на сайте, используя faye + redis | https://habrahabr.ru/post/256471/
+
+RubyMine 7.1: улучшенная работа с Puppet, JavaScript, CoffeeScript и не только | https://habrahabr.ru/company/JetBrains/blog/255989/
+
+Coub идет на Стачку | https://habrahabr.ru/company/coub/blog/254549/
+
+Под капотом образовательного проекта Хекслет | https://habrahabr.ru/company/hexlet/blog/254475/
+
+Организация верстки в rails приложении с помощью гема rails_ui_kit | https://habrahabr.ru/post/254463/
+
+Ruby Together – фонд развития языка Ruby | https://habrahabr.ru/post/253703/
+
+Переопределяем первичный ключ в Ruby on Rails | https://habrahabr.ru/post/253431/
+
+Semaphore App. Ruby on Rails. Continuous Integration/Delivery | https://habrahabr.ru/post/253403/
+
+JetBrains на RubyConfBy в Минске 22 марта | https://habrahabr.ru/company/JetBrains/blog/253329/
+
+Наш опыт использования AWS на этапе запуска | https://habrahabr.ru/company/staply/blog/253063/
+
+Прощай, MongoDB, здравствуй, PostgreSQL | https://habrahabr.ru/post/253075/
+
+Туториал по Coub API | https://habrahabr.ru/company/coub/blog/252803/
+
+Vesta CP: установка веб-приложений на Ruby и Python | https://habrahabr.ru/post/252955/
+
+Как мы Email рассылки делали | https://habrahabr.ru/post/251973/
+
+На Cousera открыта запись на курсы по веб-разработке на Ruby on Rails «Web Application Architectures» | https://habrahabr.ru/post/251909/
+
+Опасности использования open-uri | https://habrahabr.ru/post/251823/
+
+TheRole 3. Авторизация для Ruby on Rails | https://habrahabr.ru/post/249951/
+
+10 ошибок в Ruby / Ruby on Rails, которые легко исправить | https://habrahabr.ru/post/250007/
+
+Взлом биткоин биржи на Rails | https://habrahabr.ru/post/248887/
+
+Triggerable — событийно-ориентированная логика для ActiveRecord моделей | https://habrahabr.ru/post/247933/
+
+Убиваем внешние запросы во время тестирования rails приложений с помощью VCR | https://habrahabr.ru/post/246409/
+
+Rails или Sinatra: лучшее из двух миров? | https://habrahabr.ru/post/246041/
+
+Самый простой deploy приложения на Ruby on Rails | https://habrahabr.ru/post/246011/
+
+Как мы Select2 в хелпер заворачивали | https://habrahabr.ru/post/244553/
+
+Новая версия RubyMine: Chef, Puppet, EditorConfig и многое другое | https://habrahabr.ru/company/JetBrains/blog/244701/
+
+Набор Ruby библиотек для CMS и сайта медиа издания | https://habrahabr.ru/post/244157/
+
+Elastics: простой ElasticSearch-клиент для Ruby со всем необходимым | https://habrahabr.ru/post/242897/
+
+ActiveRecord немного про грабли, Relations и индексы | https://habrahabr.ru/post/242225/
+
+Как быстро и просто написать DSL на Ruby | https://habrahabr.ru/post/241265/
+
+Как рубисту пережить апдейт OSX 10.10 Yosemite | https://habrahabr.ru/post/240945/
+
+Биллинг в SaaS-приложениях на Ruby on Rails. Продолжение про 3-D Secure | https://habrahabr.ru/company/lpcloud/blog/240573/
+
+Рубин на рельсах: продакшен и деплой для чайников | https://habrahabr.ru/post/240025/
+
+Итоги RailsClub 2014 | https://habrahabr.ru/company/railsclub/blog/239597/
+
+Настройка Guard для автоматизации Ruby on Rails разработки | https://habrahabr.ru/post/238667/
+
+Grape: не рельсами едиными | https://habrahabr.ru/post/238321/
+
+Почти полное руководство по написанию Ruby гемов | https://habrahabr.ru/post/238163/
+
+Деплой Rails-приложения с помощью Docker | https://habrahabr.ru/post/238069/
+
+RailsClub'Moscow 2014: интервью с Кириллом Тимофеевым | https://habrahabr.ru/company/railsclub/blog/237877/
+
+RailsClub'Moscow 2014: Интервью с Равилем Байрамгалиным | https://habrahabr.ru/company/railsclub/blog/237617/
+
+RailsClub 2014: Интервью С Кириллом Гориным | https://habrahabr.ru/company/railsclub/blog/237465/
+
+RailsClub 2014: Интервью с Александром Балашовым | https://habrahabr.ru/company/railsclub/blog/237269/
+
+RailsClub'Moscow 2014: Интервью с Эриком Майклсом-Обером | https://habrahabr.ru/company/railsclub/blog/236979/
+
+Teatro.io – облачный сервис для демонстрации результатов веб-разработки в один клик | https://habrahabr.ru/company/railsclub/blog/236617/
+
+RailsClub'Moscow 2014: Интервью с Джонасом Никласом | https://habrahabr.ru/company/railsclub/blog/236547/
+
+Биллинг в SaaS-приложениях на Ruby on Rails | https://habrahabr.ru/company/lpcloud/blog/236453/
+
+RailsClub'Moscow 2014: Интервью с Божидаром Бацовым | https://habrahabr.ru/company/railsclub/blog/236399/
+
+RailsClub'Moscow 2014. Интервью с Аароном Паттерсоном (Aaron Patterson) | https://habrahabr.ru/company/railsclub/blog/236041/
+
+Кнопка «Load More» с использованием Ajax и jQuery и пагинация страниц в Ruby on Rails | https://habrahabr.ru/post/235191/
+
+Выпускаем pow наружу | https://habrahabr.ru/post/233251/
+
+Использование Faye вместе с SSL | https://habrahabr.ru/company/staply/blog/232745/
+
+Развертываем свой сайт на Heroku | https://habrahabr.ru/post/232679/
+
+RailsClub Moscow 2014 | https://habrahabr.ru/company/railsclub/blog/231909/
+
+Ruby on Rails исполнилось 10 лет | https://habrahabr.ru/post/231141/
+
+Вёрстка по БЭМу в Ruby on Rails | https://habrahabr.ru/post/229121/
+
+Обзор 7 онлайн-сервисов для локализации ПО | https://habrahabr.ru/post/229031/
+
+Обзор Komodo Edit и Komodo IDE 8 | https://habrahabr.ru/post/229111/
+
+Как мы боролись с проблемами производительности в «Redmine». Кто виноват и как помочь? | https://habrahabr.ru/post/227155/
+
+Как мы увеличили скорость генерации JSON в 6000 раз | https://habrahabr.ru/company/staply/blog/226725/
+
+DevConf::Ruby — 14 июня — программа сформирована | https://habrahabr.ru/company/devconf/blog/225303/
+
+Матрица компетенций Ruby on Rails разработчика | https://habrahabr.ru/company/itbursa/blog/220037/
+
+Huginn: агенты в стиле Yahoo Pipes и IFTTT на своём сервере | https://habrahabr.ru/post/219365/
+
+Вышел релиз Rails 4.1. Некоторые тонкости переезда | https://habrahabr.ru/post/219175/
+
+Node.js vs Ruby on Rails | https://habrahabr.ru/post/218147/
+
+Запуск tmux-окна, адаптированного для удобной работы с Ruby on Rails | https://habrahabr.ru/post/217339/
+
+Devise: вход и регистрация в модальных окнах | https://habrahabr.ru/post/216837/
+
+Rails 4 Engines. Разработка gem'а через mountable engine — читаем логи сервера | https://habrahabr.ru/post/216141/
+
+Пишем документацию для Ruby on Rails проектов с помощью YARD | https://habrahabr.ru/post/215879/
+
+Использование Redis EXPIRE для отслеживания онлайн-аудитории в Rails | https://habrahabr.ru/post/216047/
+
+Rails 4. Гибкая разработка веб-приложений | https://habrahabr.ru/company/piter/blog/215675/
+
+Data URI изображения вместо спрайтов в Ruby on Rails | https://habrahabr.ru/post/214091/
+
+Как отправлять push уведомления из Вашего Rails приложения | https://habrahabr.ru/post/214607/
+
+Хелпер авторизации Devise для использования с Capybara | https://habrahabr.ru/post/214173/
+
+Deploy приложения на RoR 4 с помощью Capistrano 3 | https://habrahabr.ru/post/213269/
+
+Rails: ajax-валидация в стиле DRY | https://habrahabr.ru/post/213077/
+
+Уязвимость в Paperclip (XSS/RCE) | https://habrahabr.ru/post/211973/
+
+Как я взломал Гитхаб еще раз | https://habrahabr.ru/post/211845/
+
+Постинг в популярные соц сети с помощью джема social_poster | https://habrahabr.ru/post/211348/
+
+Выборка случайных документов из коллекции MongoDB | https://habrahabr.ru/post/210706/
+
+Почему не нужно использовать RJS | https://habrahabr.ru/post/209618/
+
+Эволюция сборщика мусора в Ruby. RGenGC | https://habrahabr.ru/post/208256/
+
+Полиморфные сквозные ассоциации в Ruby on Rails | https://habrahabr.ru/post/208794/
+
+Как использовать Memcached с Ruby on Rails в Ubuntu 12.04 LTS | https://habrahabr.ru/post/208748/
+
+Модуль определения источников посетителей сайта для Ruby on Rails | https://habrahabr.ru/post/208112/
+
+Аутентификация в Rails-приложениях с помощью Devise. Часть 1: базовая настройка | https://habrahabr.ru/post/208056/
+
+Вышел Ruby 2.1 | https://habrahabr.ru/post/207394/
+
+Вышли Rails 4.1 beta1 | https://habrahabr.ru/post/207172/
+
+Как оптимизировать процессы Unicorn в Ruby on Rails приложении | https://habrahabr.ru/post/206840/
+
+Ruby on Rails и Nginx: эффективно отдаем большие файлы | https://habrahabr.ru/post/172531/
+
+Почему Meteor погубит Ruby on Rails | https://habrahabr.ru/post/204902/
+
+Настроим Ubuntu shell под себя | https://habrahabr.ru/post/204318/
+
+Сезон обновлений в JetBrains: RubyMine 6.0 | https://habrahabr.ru/company/JetBrains/blog/204198/
+
+Rails переадресация старых url | https://habrahabr.ru/post/203520/
+
+Обучение онлайн | https://habrahabr.ru/post/203064/
+
+Redmine. Как писать плагины | https://habrahabr.ru/company/monandco/blog/201064/
+
+Как Groupon мигрировал от монолитного Rails приложения к новой Node.js инфраструктуре | https://habrahabr.ru/post/200906/
+
+Автоматическое исключение из рассылки нерабочих email адресов | https://habrahabr.ru/company/southbridge/blog/200534/
+
+Интеграция Деньги Online в ActiveMerchant | https://habrahabr.ru/post/196978/
+
+Исходники РосВыборов открыты | https://habrahabr.ru/company/fbk/blog/196848/
+
+Prerender | https://habrahabr.ru/post/196718/
+
+Релиз Rubinius 2.0 | https://habrahabr.ru/post/196648/
+
+Petrovich просклоняет русские имена | https://habrahabr.ru/post/195874/
+
+Чего нам ждать от Ruby 2.1? | https://habrahabr.ru/post/195844/
+
+RailsClub'Moscow 2013. Фотографии | https://habrahabr.ru/company/railsclub/blog/195848/
+
+rake setup: Конфигурация окружения для работы проекта на Ruby On Rails | https://habrahabr.ru/post/180071/
+
+RailsClub'Moscow 2013. Конференция началась! | https://habrahabr.ru/company/railsclub/blog/195586/
+
+RailsClub'Moscow 2013. Завтра конференция! | https://habrahabr.ru/company/railsclub/blog/195480/
+
+RailsClub'Moscow 2013. Ruby звезды уже в Москве | https://habrahabr.ru/company/railsclub/blog/195426/
+
+RailsClub'Moscow 2013. Интервью с Владимиром Барсуковым | https://habrahabr.ru/company/railsclub/blog/195392/
+
+RailsClub'Moscow 2013. Интервью с Фредериком Чангом (Frederick Cheung) | https://habrahabr.ru/company/railsclub/blog/195128/
+
+Метод asset_path в javascript коде rails приложения | https://habrahabr.ru/post/194968/
+
+RailsClub'Moscow 2013. Интервью с Дмитрием Воротилиным | https://habrahabr.ru/company/railsclub/blog/194962/
+
+RailsClub'Moscow 2013. Новости конференции | https://habrahabr.ru/company/railsclub/blog/194764/
+
+RailsClub'Moscow 2013. Интервью с Петром Зотовым | https://habrahabr.ru/company/railsclub/blog/194540/
+
+PluggableJs – простой и удобный способ подключения джаваскрипта на определенных страницах | https://habrahabr.ru/post/194072/
+
+RailsClub'Moscow 2013. Интервью с Линдой Лиукас (Linda Liukas) | https://habrahabr.ru/company/railsclub/blog/194096/
+
+RailsClub'Moscow 2013. Интервью с Эриком Ходлом (Eric Hodel) | https://habrahabr.ru/company/railsclub/blog/193322/
+
+Добавление водяного знака к изображениям в RefineryCMS | https://habrahabr.ru/post/193160/
+
+БЭМ on Rails | https://habrahabr.ru/post/192972/
+
+7 рефакторингов для больших ActiveRecord — моделей | https://habrahabr.ru/post/192504/
+
+RailsClub'Moscow 2013. Интервью с Джереми Эвансом (Jeremy Evans) | https://habrahabr.ru/company/railsclub/blog/192564/
+
+RailsRumble 2013 | https://habrahabr.ru/post/192398/
+
+RailsClub'Moscow 2013. Интервью с Эрни Миллером (Ernie Miller) | https://habrahabr.ru/company/railsclub/blog/191888/
+
+RailsClub'Moscow 2013 (28 сентября). Новости конференции | https://habrahabr.ru/company/railsclub/blog/192010/
+
+Различные методы загрузки ассоциаций в Ruby on Rails | https://habrahabr.ru/post/191762/
+
+Web-Interface для Motion | https://habrahabr.ru/post/190728/
+
+RailsClub'Moscow 2013 – 28 сентября в Москве. Конференция ruby / ruby on rails разработчиков | https://habrahabr.ru/company/railsclub/blog/190052/
+
+Single sign-on на omniauth и rails | https://habrahabr.ru/post/189410/
+
+Стриминг в Rails 4 | https://habrahabr.ru/post/187994/
+
+Девушка изучает веб-программирование: 180 сайтов за 180 дней | https://habrahabr.ru/post/187770/
+
+Heroku и Россия | https://habrahabr.ru/post/185998/
+
+Проверьте на готовность ваш Gemfile к Rails 4 | https://habrahabr.ru/post/185804/
+
+O Backbone.js очень просто и кратко для любителей MVC-фреймворков | https://habrahabr.ru/post/184550/
+
+Почему я снова комментирую код приложений на Ruby/Rails | https://habrahabr.ru/post/184420/
+
+Интересные доклады по Ruby на DevConf::Ruby — 14 июня в Москве | https://habrahabr.ru/company/devconf/blog/182472/
+
+Правила для разработчиков от Sandi Metz | https://habrahabr.ru/post/181434/
+
+ActiveRecord Hacks | https://habrahabr.ru/post/181145/
+
+Ruby on Rails. Установка, настройка, начало работы | https://habrahabr.ru/post/180577/
+
+Не бывает «чистых» программистов | https://habrahabr.ru/post/179253/
+
+CRUD-приложение на Ext JS и Ruby on Rails за 7 минут | https://habrahabr.ru/post/177227/
+
+RubyMine 5.4 готов к выходу Rails 4 | https://habrahabr.ru/company/JetBrains/blog/176891/
+
+Разработка встраиваемого JavaScript приложения | https://habrahabr.ru/post/175753/
+
+Избавляемся от повторения кода с помощью DRY CRUD | https://habrahabr.ru/post/175887/
+
+RVM Autolibs: Автоматическое управление зависимостями и Ruby 2.0 | https://habrahabr.ru/company/engineyard/blog/175619/
+
+Разработка приложений на Ruby on Rails в Visual Studio | https://habrahabr.ru/post/174103/
+
+Выпущены Rails 3.2.13, 3.1.12, и 2.3.18: исправление 4х уязвимостей безопасности | https://habrahabr.ru/post/173379/
+
+Быстрое разверытвание среды разработки для Ruby on Rails | https://habrahabr.ru/post/173287/
+
+Узнайте бандлер получше | https://habrahabr.ru/company/engineyard/blog/172807/
+
+Тонкости Rails 4 — Thread-Safety | https://habrahabr.ru/post/172109/
+
+Авторизация через Facebook, Google, Twitter и Github используя Omniauth | https://habrahabr.ru/post/166325/
+
+Что нового в Rails 4 | https://habrahabr.ru/company/engineyard/blog/170473/
+
+Установка и настройка Redmine 1.3.0 на Windows XP SP2 / Windows 7 | https://habrahabr.ru/post/169805/
+
+Срочно обновляемся до Ruby on Rails 3.2.12, 3.1.11 и 2.3.17 во благо собственных нервов | https://habrahabr.ru/post/169087/
+
+Состоялся релиз RubyMine 5 | https://habrahabr.ru/company/JetBrains/blog/168655/
+
+Первые жертвы критических уязвимостей Rails: RubyGems.org подвергся хакерской атаке | https://habrahabr.ru/post/167731/
+
+Критическая уязвимость в Rails. Опять | https://habrahabr.ru/post/167491/
+
+Тонкости Rails 4 — Turbolinks | https://habrahabr.ru/post/167161/
+
+Автозапуск rails+rvm+unicorn+nginx на FreeBSD | https://habrahabr.ru/post/166807/
+
+Релиз гема TheSortableTree 2.0 | https://habrahabr.ru/post/166711/
+
+Тонкости Rails 4 — Cache Digests | https://habrahabr.ru/post/165355/
+
+Ускоряем запуск Ruby on Rails используя набор патчей RVM railsexpress | https://habrahabr.ru/post/165627/
+
+Выполнение произвольного кода в Rails | https://habrahabr.ru/post/165343/
+
+Rails params & GC | https://habrahabr.ru/post/164685/
+
+Markdown разметка в RubyOnRails-приложении | https://habrahabr.ru/company/southbridge/blog/163947/
+
+Введение в TDD «на пальцах» (Rails + Rspec) | https://habrahabr.ru/post/163597/
+
+Ruby Science: руководство по созданию качественных приложений на Ruby on Rails от thoughtbot | https://habrahabr.ru/post/162547/
+
+Срочно обновляем RVM (Ruby Version Manager) | https://habrahabr.ru/post/162533/
+
+2013: Обратный отсчет до Rails 4 | https://habrahabr.ru/post/162103/
+
+Gem, находящий проблемы в Rails приложении | https://habrahabr.ru/post/162059/
+
+RailsClub’Ulyanovsk | https://habrahabr.ru/company/advantshop/blog/161731/
+
+Rails и схемы Postgres | https://habrahabr.ru/post/161693/
+
+Садовник кода | https://habrahabr.ru/post/161637/
+
+Защита документов с помощью Scribd, Ruby и Prawn не более, чем за 15 минут | https://habrahabr.ru/post/161487/
+
+Используем Twitter Bootstrap в RefineryCMS | https://habrahabr.ru/post/160807/
+
+Что такое ActiveSupport::Notifications и зачем нужны? | https://habrahabr.ru/post/160701/
+
+EventMachine ⇒ сбор информации из разных источников с последующей обработкой | https://habrahabr.ru/post/160365/
+
+Ruby на вашем сервере может работать в 2 раза медленее из-за RVM | https://habrahabr.ru/post/160371/
+
+Работая в интересах Будущих Разработчиков | https://habrahabr.ru/post/159421/
+
+7 паттернов рефакторинга толстых моделей в Rails | https://habrahabr.ru/post/158011/
+
+Как подружить Sphinx с OpenShift для ThinkingSphinx под Rails | https://habrahabr.ru/post/157857/
+
+Pow — легкий, быстрый, удобный | https://habrahabr.ru/post/156819/
+
+Унаследованные базы данных в Rails 3 | https://habrahabr.ru/post/155215/
+
+Опыт участия в Rails Rumble | https://habrahabr.ru/post/155153/
+
+RailsClub'Moscow 2012. Материалы | https://habrahabr.ru/company/railsclub/blog/154611/
+
+Ruby-встречи в Санкт-Петербурге снова в моде | https://habrahabr.ru/post/154411/
+
+Простейшая free-lance доска на Ruby on Rails | https://habrahabr.ru/post/153257/
+
+Неканоническое STI в Rails | https://habrahabr.ru/post/151883/
+
+Молниеносный JSON в Ruby on Rails | https://habrahabr.ru/post/152719/
+
+Хоткеи в приложенях Ruby on Rails | https://habrahabr.ru/post/152057/
+
+Автоматическое создание объекта ассоциаций has_one и belongs_to | https://habrahabr.ru/post/151737/
+
+RailsClub'Moscow 2012. Интервью с Сау Шонг Чанг (Sau Sheong Chang) | https://habrahabr.ru/company/railsclub/blog/151361/
+
+RailsClub'Moscow 2012. Программа конференции, afterparty | https://habrahabr.ru/company/railsclub/blog/151234/
+
+RailsClub'Moscow 2012. Интервью с Винн'ом Нидерланд'ом (Wynn Netherland) | https://habrahabr.ru/company/railsclub/blog/151148/
+
+RailsClub'Moscow 2012. Интервью с ДиркЯном Буссинком (Dirkjan Bussink) | https://habrahabr.ru/company/railsclub/blog/151048/
+
+RailsClub'Moscow 2012. Интервью с Ксавье Нориа (Xavier Noria) | https://habrahabr.ru/company/railsclub/blog/150737/
+
+RailsClub'Moscow 2012. Интервью со Стивом Клабником (Steve Klabnik) | https://habrahabr.ru/company/railsclub/blog/150734/
+
+Новости RailsClub'Moscow 2012 | https://habrahabr.ru/company/railsclub/blog/150266/
+
+Я влюбился в DelegateClass | https://habrahabr.ru/post/149454/
+
+RailsClub'Moscow 2012 – 15 сентября в Москве. Конференция ruby / ruby on rails разработчиков | https://habrahabr.ru/company/railsclub/blog/148768/
+
+edX этой осенью: MITx / HarvardX / BerkeleyX | https://habrahabr.ru/post/148672/
+
+Взаимодействие веб-сервисов через REST | https://habrahabr.ru/post/148492/
+
+Релиз RubyMine 4.5 | https://habrahabr.ru/company/JetBrains/blog/147876/
+
+Интеграция Robokassa в ActiveMerchant | https://habrahabr.ru/post/147435/
+
+Немного Rails трюков | https://habrahabr.ru/post/146441/
+
+Обработка большого количества задач при помощи delayed_job | https://habrahabr.ru/post/145899/
+
+Обновления на лету (zero-downtime deployment) вообще и в Ruby on Rails | https://habrahabr.ru/company/cloudcastle/blog/145793/
+
+Joosy: альтернативный подход к браузерным фреймворкам | https://habrahabr.ru/company/roundlake/blog/145210/
+
+Анонсирован выход Redmine 2.0.1 | https://habrahabr.ru/post/144724/
+
+Три полезных совета по Rails консоли | https://habrahabr.ru/post/144498/
+
+Переводим Rails–приложение на Ruby 1.9 | https://habrahabr.ru/post/144258/
+
+Работа с несколькими БД в Ruby on Rails 3 | https://habrahabr.ru/post/143761/
+
+5 распространенных ошибок Rails-разработчиков | https://habrahabr.ru/post/143569/
+
+Расширяем Ruby с помощью Ruby: заимствуем у Python декораторы функции | https://habrahabr.ru/post/143127/
+
+Rusrails.ru исполнилось 2 года! | https://habrahabr.ru/post/142432/
+
+Проблема популярности Ruby и Ruby on Rails — плохая документация | https://habrahabr.ru/post/142586/
+
+Создание плагинов для Redmine | https://habrahabr.ru/post/142584/
+
+Почему многие выбирают Ruby, а не PHP | https://habrahabr.ru/post/142399/
+
+Аутентификация в rails-приложениях с помощью facebook, vkontakte | https://habrahabr.ru/post/142128/
+
+Используем Resque в Rails | https://habrahabr.ru/post/141964/
+
+Сложный SVG на клиенте и сервере | https://habrahabr.ru/post/141469/
+
+Heimdallr: защита полей модели и новый CanCan | https://habrahabr.ru/company/roundlake/blog/141282/
+
+Рельсы сошли с рельс: Почему я переписываю Archaeopteryx на CoffeeScript | https://habrahabr.ru/post/141295/
+
+Модальные окна для рельсов | https://habrahabr.ru/post/141086/
+
+Ruby on Rails. C локального хоста на VDS за 15 минут | https://habrahabr.ru/post/140910/
+
+Ruby on Rails I18n: разработчик — разрабатывает, клиент — заполняет. Об остальном позаботится сервис | https://habrahabr.ru/post/140702/
+
+Валидация за гранью фола | https://habrahabr.ru/post/140684/
+
+REST-провайдеры на базе Rails: кошмар с вьюхами | https://habrahabr.ru/company/roundlake/blog/140633/
+
+Рецепт для capistrano — импорт production базы на девелоперскую машину | https://habrahabr.ru/post/140492/
+
+Индексация AJAX-сайтов | https://habrahabr.ru/company/roundlake/blog/140291/
+
+Подготовка rails-окружения для установки Redmine используя RVM | https://habrahabr.ru/post/140219/
+
+Еще 5 гемов на все случаи жизни | https://habrahabr.ru/post/138994/
+
+Многотабличные модели в Ruby on Rails | https://habrahabr.ru/post/138949/
+
+Встраиваемые движки пользовательских блогов для Ruby on Rails | https://habrahabr.ru/post/138055/
+
+Лучший способ изучить Rails | https://habrahabr.ru/post/138101/
+
+gem the_sortable_tree | https://habrahabr.ru/post/137991/
+
+ActiveRecord и мистически падающие спеки | https://habrahabr.ru/post/137803/
+
+5 гемов на все случаи жизни | https://habrahabr.ru/post/137783/
+
+Ruby on rails в массы: webvybory2012.ru выдают стандартную страницу ошибок development окружения Rails | https://habrahabr.ru/post/137577/
+
+Как реализовать паттерн HMVC в Rails | https://habrahabr.ru/post/137558/
+
+Locum + Capistrano + git на Windows: маленькое приключение с размещением | https://habrahabr.ru/post/137208/
+
+Иерархия контроллеров | https://habrahabr.ru/post/136461/
+
+Ruby on Rails на Windows с тестами производительности | https://habrahabr.ru/post/136086/
+
+Ruby on Rails уже на 3.2, следующая станция 4.0.0.beta | https://habrahabr.ru/post/135084/
+
+MongodbLogger — складываем логи вашего Rails 3 приложения в MongoDB | https://habrahabr.ru/post/134327/
+
+ExtJS/Rails CRUD приложение за 7 минут | https://habrahabr.ru/post/133935/
+
+Поднимаем на одном сервере несколько Ruby on Rails проектов под разными версиями ruby (Nginx + Unicorn) | https://habrahabr.ru/post/128048/
+
+Request spec in Action | https://habrahabr.ru/post/130766/
+
+Установка Ruby on Rails под Windows | https://habrahabr.ru/post/130689/
+
+has_many :through => Как быстро обратиться к join-объектам? | https://habrahabr.ru/post/130301/
+
+Разворачиваем приложение на чистой Убунте: от A до Z | https://habrahabr.ru/post/129817/
+
+Поддомены в Rails | https://habrahabr.ru/post/129688/
+
+Amazon on Rails | https://habrahabr.ru/post/129583/
+
+Jonas Nicklas. Workshop в Киеве | https://habrahabr.ru/post/129478/
+
+Валидационные сообщения на русском в Rails 3 | https://habrahabr.ru/post/128951/
+
+Пример интеграции Робокассы с Rails | https://habrahabr.ru/post/128922/
+
+Combustion — альтернативный подход к тестированию Rails Engines | https://habrahabr.ru/post/128794/
+
+Rails 3 и SproutCore | https://habrahabr.ru/post/116288/
+
+Шаблонизатор Slim — альтернатива Haml'y | https://habrahabr.ru/post/128645/
+
+Секрет объектно-ориентированной разработки в Rails | https://habrahabr.ru/post/128556/
+
+Встать на рельсы за четыре месяца или Finance on rails | https://habrahabr.ru/post/128006/
+
+Рецепт использования Asset Pipeline | https://habrahabr.ru/post/127688/
+
+ActionMailer_X509: подписываем и шифруем письма прямо в Ruby On Rails | https://habrahabr.ru/post/127222/
+
+Oauth 2 провайдер за 30 минут | https://habrahabr.ru/post/126753/
+
+Ruby on Rails + legacy_migrations: односторонняя синхронизация данных между двумя проектами | https://habrahabr.ru/post/126001/
+
+Как DRYить модели | https://habrahabr.ru/post/125822/
+
+Быстрая автоматическая установка Ruby on Rails на IIS 7 | https://habrahabr.ru/post/125150/
+
+Какой Ruby вы предпочитаете использовать для Rails 2.3 проектов? | https://habrahabr.ru/post/124980/
+
+WebSockets в Rails приложении | https://habrahabr.ru/post/124672/
+
+Генерация PDF с помощью Prawn | https://habrahabr.ru/post/120388/
+
+Создание семантического веб-приложения | https://habrahabr.ru/post/123612/
+
+Rails custom Scaffolding | https://habrahabr.ru/post/123551/
+
+Резервное копирование Rails проектов без затей | https://habrahabr.ru/post/123401/
+
+Архитектура контроллеров: простые советы на каждый день | https://habrahabr.ru/post/123200/
+
+Автодополнение команд Rails | https://habrahabr.ru/post/122285/
+
+Railswizard — сервис быстрого создания rails-приложений | https://habrahabr.ru/post/122277/
+
+Как правильно считать чужие деньги | https://habrahabr.ru/post/122022/
+
+Связка rvm + Rails + Nginx + Unicorn или деплоим рельсы правильно | https://habrahabr.ru/post/120368/
+
+9 июня — встреча разработчиков на RoR с участием Ренделла Томаса | https://habrahabr.ru/post/119973/
+
+Какой основной редактор/IDE я использую для веб-разработки на Ruby on Rails? | https://habrahabr.ru/post/119811/
+
+Rails 3.1: Release Candidate | https://habrahabr.ru/post/119744/
+
+Разговариваем с Rails-приложением через XMPP (Jabber) | https://habrahabr.ru/post/119567/
+
+Полиморфные ассоциации и Devise в Ruby on Rails | https://habrahabr.ru/post/118035/
+
+Перенос данных из одной базы в любую другую | https://habrahabr.ru/post/117797/
+
+CoffeeScript стал языком по умолчанию в Rails 3.1 | https://habrahabr.ru/post/117444/
+
+Surtout — Ruby on Rails CMS | https://habrahabr.ru/post/117440/
+
+Конференция Railsclub'Moscow 30 апреля 2011 | https://habrahabr.ru/post/116807/
+
+Всплывающие flash-сообщение из глубин фоновых задач | https://habrahabr.ru/post/116754/
+
+Размышления о реализации социального графа | https://habrahabr.ru/post/112221/
+
+loop_dance — фоновый планировщик быстрого развертывания | https://habrahabr.ru/post/111676/
+
+Обзор книги «Beginning Rails 3» | https://habrahabr.ru/post/107547/
+
+Phusion Passenger 3.0.0 | https://habrahabr.ru/post/106444/
+
+Знакомство с Ruby on Rails 3.0 | https://habrahabr.ru/post/106189/
+
+13 конференция RailsClub.ru | https://habrahabr.ru/post/106023/
+
+Как сделать javascript_include_tag рекурсивным? | https://habrahabr.ru/post/105662/
+
+Ruby on Rails 3 — Заметки к финальному релизу | https://habrahabr.ru/post/102966/
+
+Как быть с HTML-письмами? | https://habrahabr.ru/post/101120/
+
+Как можно легко и просто реализовать опции в Ruby on Rails | https://habrahabr.ru/post/95935/
+
+Обзор новинок в Ruby on Rails | https://habrahabr.ru/post/95736/
+
+Три релиза Ruby on Rails за три дня | https://habrahabr.ru/post/94580/
+
+Слияние Rails и Merb: Производительность (Часть 2 из 6) | https://habrahabr.ru/post/90160/
+
+Tips & Tricks | https://habrahabr.ru/post/91194/
+
+Слияние Rails и Merb: Год спустя (часть 1 из 6) | https://habrahabr.ru/post/87907/
+
+Улучшенные идиомы для плагинов | https://habrahabr.ru/post/87651/
+
+Будет ли интересен аналог LiveStreet, BigStreet на Ruby On Rails? | https://habrahabr.ru/post/87541/
+
+ActiveModel: пусть любой Ruby объект почувствует себя ActiveRecord | https://habrahabr.ru/post/86938/
+
+First slice of rails | https://habrahabr.ru/post/86011/
+
+Включение вывода лога в script/console | https://habrahabr.ru/post/84010/
+
+Новые подходы к валидации в Rails 3 | https://habrahabr.ru/post/82841/
+
+ActiveRecord Query Interface 3.0 | https://habrahabr.ru/post/82767/
+
+Защита от XSS в Rails 3 | https://habrahabr.ru/post/82726/
+
+Обзор онлайн-справочников для Ruby On Rails | https://habrahabr.ru/post/82605/
+
+Полиморфные связи. Маленькое дополнение | https://habrahabr.ru/post/81677/
+
+19 необщеизвестных приёмов | https://habrahabr.ru/post/80121/
+
+STI — одна таблица и много моделей | https://habrahabr.ru/post/79630/
+
+Создание мульти-модельных форм | https://habrahabr.ru/post/79595/
+
+Полиморфные связи | https://habrahabr.ru/post/79431/
+
+Rails и полиморфные связи | https://habrahabr.ru/post/79389/
+
+Backup My App – резервное копирование сайтов на Ruby On Rails | https://habrahabr.ru/post/78995/
+
+Пост — вопрос | https://habrahabr.ru/post/75926/
+
+Хостинг для Ruby On Rails приложений | https://habrahabr.ru/post/75304/
+
+Повышаем производительность Ruby on rails приложений с помощью ActiveMQ | https://habrahabr.ru/post/70443/
+
+Интервью с DHH (создателем Rails) | https://habrahabr.ru/post/65598/
+
+ActiveRecord vs SQL | https://habrahabr.ru/post/65555/
+
+Обрезаем фото в стиле «ВКонтакте» | https://habrahabr.ru/post/62585/
+
+RSpec. Часть #1: создаем тесты для модели | https://habrahabr.ru/post/53264/
+
+использование JSON в Ruby on Rails, плюс пример var_dump на Javascript | https://habrahabr.ru/post/51768/
+
+3 простых совета, которые сделают ваше Rails приложение быстрее, часть #3 | https://habrahabr.ru/post/51042/
+
+3 простых совета, которые сделают ваше Rails приложение быстрее, часть #2 | https://habrahabr.ru/post/50946/
+
+3 простых совета, которые сделают ваше Rails приложение быстрее, часть #1 | https://habrahabr.ru/post/50840/
+

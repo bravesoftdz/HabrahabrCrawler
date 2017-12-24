@@ -1,0 +1,680 @@
+Ежики на колесах: как мы поддерживаем качество связи в Москве | https://habrahabr.ru/company/megafon/blog/342786/
+
+Решение вопроса с инетом на даче | https://habrahabr.ru/post/340708/
+
+Глобальные последствия одной ошибки в Quagga | https://habrahabr.ru/company/qrator/blog/340356/
+
+Безопасность Wi-Fi под угрозой из-за множества обнаруженных в WPA2 уязвимостей | https://habrahabr.ru/post/340180/
+
+Роуминг в сетях WiFi — 802.11i/r/k/v/OKC, что нам действительно нужно и как это распознать | https://habrahabr.ru/post/340140/
+
+Неспутниковые системы позиционирования и навигации | https://habrahabr.ru/company/technoserv/blog/339756/
+
+Next billion users: кто эти люди и как они повлияют на мировую экономику | https://habrahabr.ru/company/unolabo/blog/339194/
+
+Интернет там, где его нет, или Стационарная связь на базе 3G-LTE | https://habrahabr.ru/company/mailru/blog/338944/
+
+35 Гбит/с — как Megafon и Huawei поставили рекорд скорости 5G | https://habrahabr.ru/company/megafon/blog/337204/
+
+Эксплойт BlueBorne на Android, iOS, Linux и Windows: более 8 миллиардов устройств критически уязвимы | https://habrahabr.ru/company/cloud4y/blog/337782/
+
+Автоматическая настройка голосовых шлюзов Cisco и Eltex Asterisk provisioning | https://habrahabr.ru/post/331214/
+
+Ansible Dynamic Inventory из DNS или как растрачивать время на поиски стандартов | https://habrahabr.ru/post/337008/
+
+Законы Авери для надёжности Wi-Fi | https://habrahabr.ru/post/335380/
+
+Очищение потока звонков без магии и SMS | https://habrahabr.ru/company/uis/blog/335036/
+
+Гигабитный ГОСТ VPN. TSS Diamond | https://habrahabr.ru/company/tssolution/blog/334534/
+
+Как следить за опознанными летающими объектами при помощи Raspberry Pi | https://habrahabr.ru/post/334360/
+
+Кубок конфедераций: что стоит за беспроблемной связью на стадионе | https://habrahabr.ru/company/megafon/blog/334022/
+
+Extreme Networks 802.11ac Wave 2 ─ беспроводные решения нового поколения | https://habrahabr.ru/company/muk/blog/334024/
+
+Время чудес, или Тормоза для конца света | https://habrahabr.ru/company/technoserv/blog/333602/
+
+Анализ CDR Cisco и Asterisk телефонии с помощью Splunk | https://habrahabr.ru/company/tssolution/blog/332426/
+
+NTT Com заявили о создании первой в мире полностью программно-определяемой сети | https://habrahabr.ru/company/vasexperts/blog/330996/
+
+SIP: этот рост не остановить | https://habrahabr.ru/company/uis/blog/331432/
+
+Частоты и емкость сети — все, о чем вы хотели спросить | https://habrahabr.ru/company/megafon/blog/331082/
+
+Как устаревшие базы телефонных номеров “съедают” деньги бизнеса? | https://habrahabr.ru/company/infobip/blog/330770/
+
+У природы нет плохих законов. Generation 5, или что же будет работать после LTE? | https://habrahabr.ru/company/technoserv/blog/328776/
+
+Сотовая связь хоть в тайге: три поколения передвижных базовых станций | https://habrahabr.ru/company/megafon/blog/328446/
+
+Ко дню связи: история IP-телефонии | https://habrahabr.ru/company/regionsoft/blog/328172/
+
+Прошлое и будущее сотовой связи в зонах, где нет GSM | https://habrahabr.ru/company/megafon/blog/327820/
+
+UC, API и AI: куда идут сервисы бизнес-коммуникаций | https://habrahabr.ru/company/uis/blog/327724/
+
+Заметки о Cisco Catalyst: настройка VLAN, сброс пароля, перепрошивка операционной системы IOS | https://habrahabr.ru/post/326584/
+
+Основы TCP/IP для будущих дилетантов | https://habrahabr.ru/post/326574/
+
+История SMS: как передать текст по голосовому каналу | https://habrahabr.ru/company/megafon/blog/326218/
+
+Как выбрать сервер видеоконференцсвязи | https://habrahabr.ru/post/325922/
+
+Из каких девайсов сегодня состоит рынок «интернета вещей» в России | https://habrahabr.ru/company/ru_mts/blog/325348/
+
+250-гигабитный оптический кабель через Атлантику: Кейс компании Nokia | https://habrahabr.ru/company/it-grad/blog/323950/
+
+Как протестировать каналы связи интернет-магазина перед распродажами | https://habrahabr.ru/post/321142/
+
+7 лучших сервисов защиты от DDoS-атак для повышения безопасности | https://habrahabr.ru/company/hosting-cafe/blog/324848/
+
+Родные ЦОДы: обзор российских дата-центров (ч.1) | https://habrahabr.ru/company/poiskvps/blog/324994/
+
+Нужен энергоэффективный дата-центр? Тогда стоит построить его под водой | https://habrahabr.ru/company/kingservers/blog/324708/
+
+Как расстаться с оператором традиционной телефонии и не потерять звонки | https://habrahabr.ru/company/uis/blog/324684/
+
+Экскурсия на московское производство компонентов для сетей связи. Часть вторая | https://habrahabr.ru/company/rostelecom/blog/324202/
+
+Дайджест: Технологии DPI и оборудование СОРМ | https://habrahabr.ru/company/vasexperts/blog/321122/
+
+Экскурсия на московское производство компонентов для сетей связи. Часть первая | https://habrahabr.ru/company/rostelecom/blog/323786/
+
+Как 3 тысячи рублей и простые методы повышения эффективности ЦОД помогли сэкономить кучу денег | https://habrahabr.ru/post/321944/
+
+AT&T готовится запустить интернет по линиям электропередач | https://habrahabr.ru/company/vasexperts/blog/319632/
+
+BLE под микроскопом. Часть 3 | https://habrahabr.ru/post/321052/
+
+Видеоконференцсвязь для одной государственной организации: почему нужны аппаратные решения | https://habrahabr.ru/company/croc/blog/320836/
+
+Ученые-исследователи представят 1,44-петабитный оптоволоконный кабель | https://habrahabr.ru/company/vasexperts/blog/319626/
+
+Alcatel Lucent — настройка dect-телефона | https://habrahabr.ru/post/320148/
+
+Как избежать самовозбуждения усилителя сотовой связи | https://habrahabr.ru/post/319820/
+
+«Ультимативный DNS-дайджест»: 45 материалов с Хабра и других ресурсов | https://habrahabr.ru/company/1cloud/blog/319848/
+
+DOCSIS 3.1 — как достичь максимальной пропускной способности | https://habrahabr.ru/post/319484/
+
+BLE под микроскопом 2 | https://habrahabr.ru/post/319388/
+
+BLE под микроскопом | https://habrahabr.ru/post/319244/
+
+Суверенный интернет. Почему его не будет в 2017 году | https://habrahabr.ru/post/318900/
+
+МегаФон в труднодоступных местах | https://habrahabr.ru/company/megafon/blog/318746/
+
+Агрегация несущих в LTE или на что обратить внимание при покупке следующего смартфона | https://habrahabr.ru/post/318588/
+
+«SLA в облаке»: На что обратить внимание | https://habrahabr.ru/company/1cloud/blog/318432/
+
+Tata принесет SD-WAN в 130 стран | https://habrahabr.ru/company/vasexperts/blog/316278/
+
+Что такое ММТС-9 и как в России получается интернет | https://habrahabr.ru/company/contell/blog/317382/
+
+Лаборатория «МегаФона»: как сотовый оператор тестирует технику | https://habrahabr.ru/company/megafon/blog/315262/
+
+Мобильная связь и интернет в разных странах мира | https://habrahabr.ru/company/yota/blog/316578/
+
+VPN-дайджест: Ознакомительные и практические материалы на Хабре и не только | https://habrahabr.ru/company/1cloud/blog/316266/
+
+Вопросы и ответы о связи и технике в космосе. Часть 2 | https://habrahabr.ru/company/it-grad/blog/315314/
+
+Вопросы и ответы о связи и технике в космосе. Часть 1 | https://habrahabr.ru/company/it-grad/blog/315312/
+
+Пара распространённых заблуждений про радиоканалы RFID и Wi-Fi (и RFID как точки Wi-Fi) | https://habrahabr.ru/company/croc/blog/315562/
+
+Facebook представила Backpack — второе поколение модульных маршрутизаторов для дата-центров | https://habrahabr.ru/post/314930/
+
+Инфраструктура узла связи от чайника, или очередное строительство серверных — часть 2 | https://habrahabr.ru/post/313924/
+
+Введение в DPI: Сценарии использования системы | https://habrahabr.ru/company/vasexperts/blog/313556/
+
+Введение в DPI: Состав системы и схемы подключения | https://habrahabr.ru/company/vasexperts/blog/313554/
+
+Инфраструктура узла связи от чайника, или очередное строительство серверных — часть 1 | https://habrahabr.ru/post/313588/
+
+Мобильные решения для финансового сектора | https://habrahabr.ru/company/infobip/blog/313440/
+
+Проблема Интернета — в низкой пропускной способности | https://habrahabr.ru/company/telphin/blog/312200/
+
+Как МегаФон и Nokia в Нижнем Новгороде 5G-сети демонстрировали | https://habrahabr.ru/company/megafon/blog/310838/
+
+Эксперимент. Как мы нарушали скоростной режим мобильного интернета | https://habrahabr.ru/company/megafon/blog/310096/
+
+Факс в большом городе (T.38) | https://habrahabr.ru/post/309920/
+
+На пути к 5G | https://habrahabr.ru/company/megafon/blog/308850/
+
+Как это работает: Пара слов о DNS | https://habrahabr.ru/company/1cloud/blog/309018/
+
+Несколько новинок в мире дата-центров: станут ли они нормой? | https://habrahabr.ru/company/kingservers/blog/308598/
+
+HEIST позволяет получить зашифрованную информацию в HTTPS канале в виде открытого текста | https://habrahabr.ru/company/kingservers/blog/307206/
+
+Хабрахабр в гостях у Александра Лямина, QRATOR | https://habrahabr.ru/post/306776/
+
+Сравнение систем мониторинга Vutlan SC8100 и APC NetBotz Rack Monitor 200 | https://habrahabr.ru/post/301912/
+
+Отключение аналогового спутникового ТВ: 4 года спустя (часть 2) | https://habrahabr.ru/post/282792/
+
+Отключение аналогового спутникового ТВ: 4 года спустя (часть 1) | https://habrahabr.ru/post/282728/
+
+Мобильная связь в Европах | https://habrahabr.ru/post/268597/
+
+HackerSIM: небольшое разъяснение (комментарий) | https://habrahabr.ru/post/268403/
+
+Инструкция к спецификации SMPP | https://habrahabr.ru/post/267991/
+
+Плюсы и минусы: Система оценки Tier | https://habrahabr.ru/company/1cloud/blog/262683/
+
+Удаленная работа или фриланс в глубинке. Аспекты связи. Часть 2. Есть связь | https://habrahabr.ru/post/261431/
+
+UMTS в походных условиях и самодельная антенна на 2ГГц | https://habrahabr.ru/post/257357/
+
+Трактат о радиотрактах или некоторые маркетинговые заблуждения о радиосвязи | https://habrahabr.ru/post/256299/
+
+Приём радиофаксов и прочих цифровых передач с помощью обычного приёмника и компьютера | https://habrahabr.ru/post/250989/
+
+Бесплатный интернет для планшета от Билайн и МТС | https://habrahabr.ru/post/249151/
+
+Проектирование и монтаж антенно-мачтовых сооружений СВ-диапазона | https://habrahabr.ru/post/247883/
+
+Экономим на Интернете в небольшом офисе | https://habrahabr.ru/post/246359/
+
+Поддельное BLE-устройство на nRF24l01 | https://habrahabr.ru/post/245671/
+
+Сети 5G: что это? | https://habrahabr.ru/post/243525/
+
+Как мы тестировали зависимость скорости LTE от параметров S1 | https://habrahabr.ru/post/243433/
+
+Регистрация РЭС через портал Госуслуг | https://habrahabr.ru/post/242673/
+
+Проектирование СШП шестиугольной фрактальной микрополосковой НЕантенны, или будь бдителен | https://habrahabr.ru/post/239989/
+
+В микроволновой печи скрывается мощное и опасное СВЧ оружие | https://habrahabr.ru/post/239321/
+
+Инструкция по получению радиолюбительского позывного и свидетельсва о регистрации РЭС | https://habrahabr.ru/post/239641/
+
+Министр связи Никифоров предлагает операторам повысить цены на 4G-тарифы | https://habrahabr.ru/post/239047/
+
+Как выбранная сеть влияет на скорость интернета телефона, или проблемы LTE сетей СНГ региона | https://habrahabr.ru/post/238979/
+
+Одна на всех | https://habrahabr.ru/post/238147/
+
+Как выбранная LTE сеть влияет на энергопотребление телефона, или недостатки LTE сетей в СНГ | https://habrahabr.ru/post/237947/
+
+Место под… антенну | https://habrahabr.ru/post/235463/
+
+Прием КВ на RTL-SDR, бесплатно без конвертера | https://habrahabr.ru/post/235215/
+
+Yota для офиса — что выбрать | https://habrahabr.ru/post/235179/
+
+Радиоуправляемые автомобили как хобби | https://habrahabr.ru/post/234057/
+
+36-летний космический аппарат ISEE-3 пролетел мимо Земли | https://habrahabr.ru/post/233033/
+
+Видеолинк 5.8G DJI Tx Lite Module vs Tx Module (базовая версия) | https://habrahabr.ru/post/232973/
+
+General Motors оснастит некоторые модели «Кадиллаков» беспроводными зарядками для телефонов | https://habrahabr.ru/post/231435/
+
+Как установить связь с 36-летним космическим зондом с помощью GNU Radio | https://habrahabr.ru/post/229777/
+
+Проблемы и перспективы обеспечения безопасности гражданской авиации | https://habrahabr.ru/post/228101/
+
+Оптимизация расходов Yota: попытка #3 | https://habrahabr.ru/post/228959/
+
+День Александерсона — скромного великого изобретателя | https://habrahabr.ru/post/227609/
+
+Google собирается запустить 180 микроспутников для «интернетизации» удаленных регионов | https://habrahabr.ru/post/224933/
+
+Как нам построить маленькую радиостанцию в большой сети | https://habrahabr.ru/post/221253/
+
+Воздушный шар Google Loon обогнул Землю за рекордные 22 дня | https://habrahabr.ru/post/218409/
+
+МегаФон запустил 4G+ | https://habrahabr.ru/post/213927/
+
+TCP/IP по аудиоканалу | https://habrahabr.ru/post/213157/
+
+(Частоты 5150-5350 и 5650-6425 МГц) Информация из радиочастотного центра | https://habrahabr.ru/post/213051/
+
+Ubiquiti AirGrid M5 HP 27dBi — Разворачивание сетевого моста. Личный опыт | https://habrahabr.ru/post/212891/
+
+Переключение между EDGE/3G/LTE в iPhone 5S/5C (jailbreak) | https://habrahabr.ru/post/210314/
+
+Обзор Ross&Moor RM-997: планшет c Huawei UltraStick | https://habrahabr.ru/post/210194/
+
+3G-интернет на 33 км | https://habrahabr.ru/post/206100/
+
+Объявлена технологическая нейтральность радиочастот в России | https://habrahabr.ru/post/205694/
+
+В США и Европе можно будет использовать электронные устройства в полете | https://habrahabr.ru/post/202912/
+
+Видеонаблюдение загородом посредством 3G интернета | https://habrahabr.ru/post/202278/
+
+Построение уличной WiFi сети | https://habrahabr.ru/post/201056/
+
+Технология SRVCC в мобильных сетях 4-го поколения | https://habrahabr.ru/post/200868/
+
+Дорабатываем аппаратуру Turnigy 9x | https://habrahabr.ru/post/200654/
+
+Как связать две АТС на базе FreePBX через IAX2 с применением шифрования | https://habrahabr.ru/post/200416/
+
+LTE в Омске | https://habrahabr.ru/post/199158/
+
+3G интернет в удаленности от базовой станции с помощью тарелки и кофейной банки | https://habrahabr.ru/post/198660/
+
+Что такое MANET или почему WiFi не решение всех телекоммуникационных проблем | https://habrahabr.ru/post/197860/
+
+Samsung galaxy note 10.1 n8020 и yota | https://habrahabr.ru/post/197412/
+
+Ловля интернетов в глухой деревне с помощью 3G антенны | https://habrahabr.ru/post/197106/
+
+Nokia, жизнь продолжается | https://habrahabr.ru/post/195656/
+
+Передача «скрытого» радиосигнала | https://habrahabr.ru/post/194058/
+
+Лазерные фары концепта BMW i8 | https://habrahabr.ru/post/190676/
+
+4G на смартфоне. Личный опыт | https://habrahabr.ru/post/190138/
+
+«Ростелеком» начал предоставлять услуги мобильной связи в Санкт-Петербурге | https://habrahabr.ru/post/188794/
+
+Сдвиг частот для SDR-радиоприемника — Ham it up v1.2 upconverter | https://habrahabr.ru/post/187946/
+
+Автотрекинг низкоорбитальных спутников или Слушаем радиосигнал с МКС | https://habrahabr.ru/post/187696/
+
+«Ъ»: Минкомсвязь хочет аннулировать LTE-лицензии у «большой четверки» | https://habrahabr.ru/post/185912/
+
+Экспресс-МД1 уже сутки без управления | https://habrahabr.ru/post/185674/
+
+Федеральное авиационное агентство США (FAA) пересмотрит запрет на использование гаджетов в самолетах | https://habrahabr.ru/post/184236/
+
+Постановление Правительства РФ №539, или «Wi-Fi легалайз» | https://habrahabr.ru/post/183474/
+
+RFID имплантация — результаты через 7 месяцев | https://habrahabr.ru/post/182846/
+
+Один день с карманным LTE/3G-роутером | https://habrahabr.ru/post/181418/
+
+Радионяня — добрый «жук» | https://habrahabr.ru/post/180917/
+
+MikroTik — быстрая настройка точки доступа | https://habrahabr.ru/post/179149/
+
+День радио | https://habrahabr.ru/post/179049/
+
+Простой радиопередатчик FM диапазона на основе ПЛИС | https://habrahabr.ru/post/178903/
+
+Получение радиолюбительской категории | https://habrahabr.ru/post/178329/
+
+НАСА запустило три смартфона на орбиту | https://habrahabr.ru/post/177903/
+
+Продолжаем оптимизировать затраты с Yota | https://habrahabr.ru/post/176817/
+
+4G на смартфонах: в России с 10.04.2013 | https://habrahabr.ru/post/176367/
+
+Почему LTE это не 4G? | https://habrahabr.ru/post/175493/
+
+Мультфильм на осциЛЛографе | https://habrahabr.ru/post/173833/
+
+Мобильный пасьянс, или как поиметь высокоскоростной GPRS/3G Интернет по тарифу не более 10 рублей за 1 Гигабайт без абонентской платы в условиях Российской глубинки | https://habrahabr.ru/post/172987/
+
+Звоним на Марс: как NASA осуществляет связь с Curiosity | https://habrahabr.ru/post/172601/
+
+Автоматическая настройка Icecast2 и mpd на несколько аудио потоков | https://habrahabr.ru/post/170235/
+
+Домашний/проводной интернет с резервным каналом по 3g | https://habrahabr.ru/post/170169/
+
+mini-PCIe LTE для ноутбука | https://habrahabr.ru/post/168879/
+
+Apple начинает продажи iPad 4 со 128 гб памяти | https://habrahabr.ru/post/167531/
+
+Роуминг. Технологии оценки | https://habrahabr.ru/post/162269/
+
+Google Nexus 4 таки может работать с LTE, но не везде | https://habrahabr.ru/post/162191/
+
+Ростелеком будет вводить по 700 базовых станций в месяц, но в Москве в последнюю очередь | https://habrahabr.ru/post/161283/
+
+Самодельная внешняя антенна для стандарта CDMA2000/EVDO (операторы Intertelecom, PeopleNet) | https://habrahabr.ru/post/161129/
+
+Решение проблемы с подключением PPTP VPN через LTE от Yota | https://habrahabr.ru/post/160961/
+
+Software Defined Radio (SDR) | https://habrahabr.ru/post/158401/
+
+Пространственное мультиплексирование: просто о сложном. Часть 1 | https://habrahabr.ru/post/150362/
+
+Google хочет стать беспроводным интернет-провайдером | https://habrahabr.ru/post/159187/
+
+Фазированные антенные решетки | https://habrahabr.ru/post/159109/
+
+Теория радиоволн: аналоговая модуляция | https://habrahabr.ru/post/158493/
+
+Теория радиоволн: антенны | https://habrahabr.ru/post/158273/
+
+Теория радиоволн: ликбез | https://habrahabr.ru/post/158161/
+
+OpenVPN на Android: прозрачное переключение между WiFi и «Мобильными данными» без разрыва соединений | https://habrahabr.ru/post/157687/
+
+Краткий обзор мобильного роутера TP-Link MR3040 | https://habrahabr.ru/post/155829/
+
+Следующая эра сети дальней космической связи (DSN) NASA лежит в области рентгеновского излучения и лазеров | https://habrahabr.ru/post/155519/
+
+Yota запустила настоящий 4G: LTE Advanced | https://habrahabr.ru/post/154247/
+
+Все что вы хотели знать об имплантируемых метках, но боялись спросить | https://habrahabr.ru/post/153389/
+
+С борта МКС впервые по лазерному каналу была передана широкополосная информация на наземный пункт | https://habrahabr.ru/post/153555/
+
+Американский фрик предлагает наборы для вживления RFID-чипа под кожу | https://habrahabr.ru/post/153047/
+
+Бизнес по раздаче бесплатного интернета | https://habrahabr.ru/post/152911/
+
+Радиоуправляемый таракан | https://habrahabr.ru/post/151586/
+
+Окажется ли сочинская Олимпиада тормозом LTE в Краснодарском крае, действующим 4¼ года по меньшей мере? | https://habrahabr.ru/post/151483/
+
+Мобильный интернет с резервным каналом для онлайн-трансляций | https://habrahabr.ru/post/146276/
+
+Базовая станция 4G LTE на обычном ПК | https://habrahabr.ru/post/150809/
+
+Для тех у кого MIMO прошло мимо… | https://habrahabr.ru/post/150225/
+
+GPRS в походных условиях и самодельная антенна на 900МГц | https://habrahabr.ru/post/150220/
+
+USB TV-тюнеры на rtl2832 — или как услышать в радиоэфире все за 600 рублей | https://habrahabr.ru/post/149702/
+
+Радиоприемник 60-1700 МГц на RTL2832 за 20 баксов или SDR для начинающих | https://habrahabr.ru/post/149698/
+
+Марсианская орбитальная группировка | https://habrahabr.ru/post/149331/
+
+Comstar закрывается | https://habrahabr.ru/post/149250/
+
+AT&T прекратит поддержку сетей 2G через пять лет | https://habrahabr.ru/post/149097/
+
+«МТС Коннект»: 3G-роутер (Wi-Fi) \ WeTelecom WM-R100 | https://habrahabr.ru/post/148958/
+
+LTE в регионах или мы тоже не лыком шиты | https://habrahabr.ru/post/148924/
+
+Мобильный интернет в Финляндии. 3G от Saunalahti | https://habrahabr.ru/post/147911/
+
+Установка ZTE AX226 в Ubuntu 11.04 и 12.04 | https://habrahabr.ru/post/147751/
+
+МТС обрежет торренты | https://habrahabr.ru/post/146657/
+
+Загадочный UMTS-900 | https://habrahabr.ru/post/146103/
+
+Провайдер Karma поощряет пользователей делиться трафиком | https://habrahabr.ru/post/145846/
+
+4G LTE интернет Мегафон | https://habrahabr.ru/post/144239/
+
+Беспроводной интернет (4G+3G) против проводного. Кто победит? | https://habrahabr.ru/post/143826/
+
+Подключаем GPRS-интернет в деревне | https://habrahabr.ru/post/143641/
+
+Yota — LTE в Сочи | https://habrahabr.ru/post/143633/
+
+7 мая в Томске или с прошедшим Днем Радио! | https://habrahabr.ru/post/143417/
+
+Обзор Мобильного LTE роутера от Yota | https://habrahabr.ru/post/143267/
+
+Yota официально уведомляет о запуске LTE в Москве 10 мая | https://habrahabr.ru/post/143212/
+
+Краснодар стал первым из тех городов России, в которых сеть LTE сменила прежнюю сеть WiMAX | https://habrahabr.ru/post/143042/
+
+APRX клиент в радиолюбительскую APRS на базе D-Link Dir-620 | https://habrahabr.ru/post/142900/
+
+10 мая Yota оставит пользователей с «мощными» внешними антеннами без интернета | https://habrahabr.ru/post/142838/
+
+В Краснодаре Yota заранее отключает базовые станции WiMAX | https://habrahabr.ru/post/142280/
+
+Связь на Марсе | https://habrahabr.ru/post/141904/
+
+Yota: Первые тестовые запуски новой LTE в Москве | https://habrahabr.ru/post/141926/
+
+Yota переносит дату запуска сети LTE | https://habrahabr.ru/post/141802/
+
+Авария на сотовой сети Vodafone в Нидерландах | https://habrahabr.ru/post/141431/
+
+SMS шлюз в радиолюбительский DX-кластер на базе D-Link Dir-620 | https://habrahabr.ru/post/140993/
+
+Двухнедельные совместные испытания Tele2 и НИИ Радио совместной работы LTE и GSM в Омске и во Пскове завершились успешно | https://habrahabr.ru/post/140984/
+
+LightRadio от Alcatel-Lucent: смерть традиционных базовых станций? | https://habrahabr.ru/post/140970/
+
+LTE и скорость передачи в DL | https://habrahabr.ru/post/140302/
+
+LTE, 3G, Фемто или Wi-Fi? Где маркетинг, а где разумная бизнес-модель? | https://habrahabr.ru/post/140682/
+
+Первая мобильная LTE-сеть Москвы была запущена с несколькими административными нарушениями, констатирует Роскомнадзор | https://habrahabr.ru/post/140561/
+
+Huawei анонсировала технологию Beyond LTE | https://habrahabr.ru/post/140467/
+
+29 апреля «Скартел» запустит LTE в Краснодаре | https://habrahabr.ru/post/140322/
+
+В Москве в тестовом режиме запущена мобильная LTE-сеть «Антарес» (более 80 мегабитов в секунду) | https://habrahabr.ru/post/140224/
+
+Tele2 и НИИ Радио начинают двухнедельное тестирование LTE в Омске | https://habrahabr.ru/post/139873/
+
+LTE от Yota в Москве уже с 15 апреля | https://habrahabr.ru/post/138680/
+
+Ускорим 3G модем при помощи внешней антенны | https://habrahabr.ru/post/137911/
+
+«Скартел» откладывает внедрение LTE в Москве на полгода (март → сентябрь) | https://habrahabr.ru/post/137663/
+
+LTE в Москве в марте 2012 года | https://habrahabr.ru/post/137040/
+
+LTE: взгляд изнутри | https://habrahabr.ru/post/136317/
+
+Первая в России сеть LTE запущена сегодня (20 декабря 2011 года) в Новосибирске «Скартелом» (брэнд «Yota») | https://habrahabr.ru/post/134967/
+
+100 000 000 000 рублей понадобится каждому победителю конкурса | https://habrahabr.ru/post/134801/
+
+Через две недели решится судьба принципа технологической нейтральности сотовой связи в России | https://habrahabr.ru/post/134067/
+
+Создание высокочувствительной направленной антенны с ФАР или почему специалисты уезжают за рубеж | https://habrahabr.ru/post/133787/
+
+Московская Служба Спасения до совершеннолетия не дотянет? | https://habrahabr.ru/post/133588/
+
+Yota в Москве переоборудует беспроводняк (в направлении WiMAX→LTE); и есть надежда, что в марте 2012 года запустит | https://habrahabr.ru/post/133536/
+
+Делаем домашнее радио-поле «чище» на примере Wi-Fi сетей | https://habrahabr.ru/post/132483/
+
+Пара новостей о рабочей группе по подготовке предложений по условиям конкурса на оказание услуг связи стандарта LTE | https://habrahabr.ru/post/132216/
+
+Президент «Tele2 Россия» дал интервью «Коммерсанту» о борьбе за LTE | https://habrahabr.ru/post/131767/
+
+Интернет-радио своими руками | https://habrahabr.ru/post/129460/
+
+Внедрению LTE в России приподнят шлагбаум, однако при этом придавили WiMAX и оттёрли Tele2 | https://habrahabr.ru/post/128624/
+
+Цифровые виды связи у радиолюбителей | https://habrahabr.ru/post/128003/
+
+Любительская КВ радиосвязь, часть 1 — наблюдатель | https://habrahabr.ru/post/127862/
+
+Практика радиосвязи, как она есть — взгляд изнутри | https://habrahabr.ru/post/127826/
+
+Эффект Доплера (Doppler Effect) | https://habrahabr.ru/post/125766/
+
+Настройка Yota Many | https://habrahabr.ru/post/123055/
+
+Yota — How Many (inside)? | https://habrahabr.ru/post/122768/
+
+Впечатления от того интервью «Ведомостям», которое дал гендиректор Tele2 | https://habrahabr.ru/post/119448/
+
+Моддинг Yota Egg | https://habrahabr.ru/post/118321/
+
+Вчера в офисе «Скартела» Путину показывали первые в мире 4G-телефоны, созданные в России и собранные в Китае | https://habrahabr.ru/post/114901/
+
+Восходящий канал LTE «вверх» (Uplink), как оно на самом деле | https://habrahabr.ru/post/114401/
+
+Акции «Ёты» поделят между «МТС», «Мегафоном», «Вымпелкомом», «Ростелекомом» и «Ростехнологиями» во имя строительства всероссийской сети LTE | https://habrahabr.ru/post/114835/
+
+Что по-вашему будет с Yota в ближайшем будущем? | https://habrahabr.ru/post/113884/
+
+В России создали потенциальную замену LTE | https://habrahabr.ru/post/112930/
+
+Что такое 1G, 2G, 3G, 4G и все что между ними | https://habrahabr.ru/post/112535/
+
+Негатив о YOTA как о сервисе для клиента | https://habrahabr.ru/post/111878/
+
+Цены на роуминг в России продолжат снижать | https://habrahabr.ru/post/111849/
+
+Обзор 3G роутера Huawei E960 | https://habrahabr.ru/post/111341/
+
+Мегафон — работа над ошибками? | https://habrahabr.ru/post/110842/
+
+Умри, но заплати долг Мегафону: о том ли спор? | https://habrahabr.ru/post/109731/
+
+Тестирование антенн Wi-Fi для приема WiMax | https://habrahabr.ru/post/106196/
+
+Первые тесты WiMAX 2 показали 330 Мбит/с | https://habrahabr.ru/post/105571/
+
+Comstar Wimax vs YOTA с точки зрения умного пользователя | https://habrahabr.ru/post/105434/
+
+Первый в мире ноутбук с поддержкой LTE | https://habrahabr.ru/post/103481/
+
+Роскомнадзор закрыл LTE-сеть Yota в Казани через сутки | https://habrahabr.ru/post/103236/
+
+БИИзлимитный интернет: может выйдет, может нет! | https://habrahabr.ru/post/101412/
+
+Мечты минобороны: Россия без LTE | https://habrahabr.ru/post/100565/
+
+В СНГ заработала первая коммерческая сеть LTE | https://habrahabr.ru/post/100421/
+
+Отключение сети Yota в Санкт-Петербурге | https://habrahabr.ru/post/100128/
+
+Поиск дешёвого 3G-интернета среди предложений операторов в Москве | https://habrahabr.ru/post/98651/
+
+В игровые приставки добавят поддержку 3G | https://habrahabr.ru/post/98659/
+
+Да будут инновации! | https://habrahabr.ru/post/98458/
+
+Перенос оборудования хостинг-компании «Лидерхост» на площадку хостинг-компании «Логол» | https://habrahabr.ru/post/98101/
+
+WiMax ≠ 4G, LTE ≠ 4G, 4G просто не существует | https://habrahabr.ru/post/97952/
+
+Интернет в России будет быстрее, чем в США | https://habrahabr.ru/post/94778/
+
+Лайфхак или Как в разы снизить затраты на офисный интернет | https://habrahabr.ru/post/94261/
+
+Yota и LTE | https://habrahabr.ru/post/94153/
+
+Intellecom — второй оператор Mobile WiMAX в Киеве | https://habrahabr.ru/post/93873/
+
+3,5 ГГц Wimax уже в Минске от Белтелеком | https://habrahabr.ru/post/89470/
+
+В сорока двух населённых пунктах Московской области появится мобильный WiMAX «Союз-Телекома». (Сроки ещё не названы.) | https://habrahabr.ru/post/88399/
+
+«Союз-Телеком» планирует в начале апреля начать предоставление WiMAX в семи населённых пунктах различных областей и краёв России | https://habrahabr.ru/post/86850/
+
+А вы довольны интернетом и сервисами от Yota? | https://habrahabr.ru/post/85615/
+
+Freshtel предоставляет WiMAX в Туле, а также в городах двух областей (Тульской и Московской) | https://habrahabr.ru/post/85377/
+
+МТС и Alcatel-Lucent проведут испытания LTE | https://habrahabr.ru/post/85218/
+
+После 15 марта у нас начнут тестировать LTE | https://habrahabr.ru/post/84324/
+
+«Скартел» («Ёта») отменяет намеченный на 2010 год выпуск VoIP-мобильников «Yota Cosmos» | https://habrahabr.ru/post/83871/
+
+NTT DoCoMo готовит мобильный телефон с LTE | https://habrahabr.ru/post/82714/
+
+Теле2 и МТС будут строить WiMAX | https://habrahabr.ru/post/82197/
+
+Новый WiMAX-провайдер «Союз-Телеком» планирует подключение малых городов и населённых пунктов сельского типа | https://habrahabr.ru/post/81439/
+
+ASN GateWay — шлюз доступа WiMAX | https://habrahabr.ru/post/79926/
+
+Базовая станция WiMAX | https://habrahabr.ru/post/79112/
+
+Yota меняет Wi-Fi на WiMax в ноутбуках Acer и Asus | https://habrahabr.ru/post/78808/
+
+WiMAX. Как это работает | https://habrahabr.ru/post/78743/
+
+Первая в мире сеть LTE | https://habrahabr.ru/post/78327/
+
+Мегафон, МТС и Билайн запускают 3G в Москве. А что с тарифами? | https://habrahabr.ru/post/78268/
+
+100 отзывов о Yota (ноябрь) | https://habrahabr.ru/post/77205/
+
+Yota начала подготовку к строительству сети в Гродно | https://habrahabr.ru/post/74261/
+
+100 отзывов о Yota (октябрь) | https://habrahabr.ru/post/74010/
+
+Компания Asustek впервые снабдит электронные книги (e-books) модулями для доступа к сетям WiMAX (4G) | https://habrahabr.ru/post/74017/
+
+Биллинг Yota: не верьте FAQ'y на слово | https://habrahabr.ru/post/71223/
+
+Ёта официально объявляет о начале поставки «яиц»-роутеров, раздающих 4G по Wi-Fi | https://habrahabr.ru/post/70940/
+
+Пользователи Yota негодуют | https://habrahabr.ru/post/70641/
+
+Comstar Wi-Max: it works! | https://habrahabr.ru/post/70035/
+
+Тестирование 4G от freshtel.ua | https://habrahabr.ru/post/70047/
+
+Freshtel в Украине | https://habrahabr.ru/post/69257/
+
+Freshtel в Украине — прямой эфир эмоций с презентации | https://habrahabr.ru/post/69156/
+
+В Украине будет построена сеть мобильного Wimax | https://habrahabr.ru/post/68209/
+
+Обобщая настройку роутеров | https://habrahabr.ru/post/65034/
+
+Обновление Yota Access на модеме | https://habrahabr.ru/post/62932/
+
+Дай интернета, Йота-магистр | https://habrahabr.ru/post/62200/
+
+Приложение Yota-Музыка | https://habrahabr.ru/post/62164/
+
+21Mbps 3G интернет в мае от one2free | https://habrahabr.ru/post/59895/
+
+Сегодня «КОМСТАР-ОТС» начал подключать абонентов к своей сети WiMAX в Москве | https://habrahabr.ru/post/59421/
+
+Роутер Dlink Dir-320 + Samsung U200 = интернет | https://habrahabr.ru/post/57462/
+
+Максимальное испытание ваймакса Yota. Потоковое видео в дороге! | https://habrahabr.ru/post/55897/
+
+Yota-роутер или wimax2wifi за 15 минут. Вариант 2. | https://habrahabr.ru/post/54689/
+
+Yota-роутер или wimax2wifi за 15 минут | https://habrahabr.ru/post/53790/
+
+Использование драйвера Yota под Linux | https://habrahabr.ru/post/50504/
+
+Московская подземка обзаведется 3G в 2009 | https://habrahabr.ru/post/49985/
+
+Новый чип передачи данных для 4G | https://habrahabr.ru/post/46514/
+
+Мобильный WiMAX в России – итоги ноября | https://habrahabr.ru/post/45945/
+
+Начало продаж WiMAX модемов в Москве | https://habrahabr.ru/post/45597/
+
+Мобильный WiMAX в России – итоги октября | https://habrahabr.ru/post/43960/
+
+Wimax в Москве – тестирование сети Yota и первые итоги | https://habrahabr.ru/post/41321/
+
+Alcatel-Lucent получила сертификацию Mobile WiMAX от Форума WiMAX | https://habrahabr.ru/post/39314/
+
+Yota — первая сеть мобильного WiMAX в России | https://habrahabr.ru/post/38760/
+
+Сколько вы готовы платить за безлимитный мобильный интернет (GPRS/EDGE/CDMA/EV-DO/UMTS/HSPA) | https://habrahabr.ru/post/37877/
+
+Первый действительно работающий сервис мобильного телевидения в России | https://habrahabr.ru/post/27209/
+
+Мобильный интернет (GPRS/EDGE/CDMA, не WAP): роскошь или необходимость? | https://habrahabr.ru/post/35415/
+
+Японский оператор KDDI так и не принял решения о том, какую технологию 4G он будет использовать | https://habrahabr.ru/post/23845/
+
+Рост пользователей HSPA в 2007 году составил 727% | https://habrahabr.ru/post/23811/
+
+3G в Самаре | https://habrahabr.ru/post/15689/
+
+«Большая тройка' подмяла под себя 3G | https://habrahabr.ru/post/7271/
+
+3G стало ближе к «большой тройке» | https://habrahabr.ru/post/6387/
+

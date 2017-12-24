@@ -1,0 +1,114 @@
+Семантическая разметка: LaTeX, DocBook или ??? | https://habrahabr.ru/post/339436/
+
+Фетиш LaTeX (или Не пишите в LaTeX! Он только для вёрстки) | https://habrahabr.ru/post/339340/
+
+Как сделать генерацию LaTeX и PDF в Sphinx | https://habrahabr.ru/post/328182/
+
+Выберите число от 1 до 99 | https://habrahabr.ru/post/320638/
+
+Формулы на Хабре | https://habrahabr.ru/company/tm/blog/319600/
+
+Как я ушёл с InDesign'а в LaTeX | https://habrahabr.ru/post/310344/
+
+(La)TeX на Хабрахабре | https://habrahabr.ru/post/278533/
+
+Готовим к публикации пост с формулами | https://habrahabr.ru/post/264709/
+
+Как написать пост с формулами: markdown + LaTeX | https://habrahabr.ru/post/263213/
+
+Построение графиков в LaTeX/PGFPlots | https://habrahabr.ru/post/250997/
+
+MathMl в HTML5 | https://habrahabr.ru/post/250981/
+
+Электрические схемы средствами LaTeX и TikZ | https://habrahabr.ru/post/250541/
+
+Оформление научных результатов: интеграция LaTeX и Gnuplot | https://habrahabr.ru/post/250087/
+
+Как сделать греческие буквы в формулах прямым шрифтом в LaTeX | https://habrahabr.ru/post/245785/
+
+Вёрстка визитных карточек в LaTeX | https://habrahabr.ru/post/242089/
+
+Khan Academy разработала быструю JavaScript-библиотеку для работы с математическими формулами | https://habrahabr.ru/company/nordavind/blog/237265/
+
+Немного креатива — календарь с антипаттернами | https://habrahabr.ru/company/metrotek/blog/234987/
+
+Использование LaTeX вместо HTML в Habrahabr | https://habrahabr.ru/post/229029/
+
+Нужна ли поддержка LaTeX на хабре? | https://habrahabr.ru/post/225749/
+
+Диаграммы и графы в LaTeX с использованием PGF/TikZ 3.0 | https://habrahabr.ru/post/224501/
+
+Практические советы по верстке бланков заявлений в ЛаТеХе | https://habrahabr.ru/post/207364/
+
+Регулярные выражения в WinEdt: поиск формул с неиспользуемыми номерами | https://habrahabr.ru/post/192356/
+
+Скажем нет форматированию пробелами и энтерами | https://habrahabr.ru/post/190274/
+
+Создаем резюме на LaTeX — как и зачем? | https://habrahabr.ru/post/187496/
+
+Псевдокод на русском | https://habrahabr.ru/post/168949/
+
+Наложение основных надписей по ГОСТ 2.104 (рамок) на LaTeX документы | https://habrahabr.ru/post/163315/
+
+Шаблон диссертации в LaTeX | https://habrahabr.ru/post/157153/
+
+Верстаем PDF для Kindle | https://habrahabr.ru/post/146039/
+
+Вычисления в латехе? Да запросто! | https://habrahabr.ru/post/146742/
+
+Beamer — верстаем презентации | https://habrahabr.ru/post/145523/
+
+Диплом бакалавра в LaTeX, или ДСТУ 3008-95 в 150 строк | https://habrahabr.ru/post/144648/
+
+Усложнение жизни в LaTeX | https://habrahabr.ru/post/144159/
+
+Автоматизация подготовки бланковых тестов | https://habrahabr.ru/post/131190/
+
+Прикручиваем SageTex к LyX под Windows | https://habrahabr.ru/post/129128/
+
+Создание своих сложных стилей для LaTeX | https://habrahabr.ru/post/120401/
+
+Теория чисел in TeX-way | https://habrahabr.ru/post/122659/
+
+Шаблоны ЕСКД и ГОСТ 7.32 для Lyx 1.6.x | https://habrahabr.ru/post/116517/
+
+Нестандартные размеры документа | https://habrahabr.ru/post/117074/
+
+Разновидности TeX | https://habrahabr.ru/post/114610/
+
+[Перевод] Построение документов Latex с помощью Waf | https://habrahabr.ru/post/111623/
+
+Печать документа pdf буклетом | https://habrahabr.ru/post/107118/
+
+Обзор on-line сервисов для преобразования формул Latex в картинки | https://habrahabr.ru/post/100938/
+
+Математические вычисления и графики в LyX с использованием Sage | https://habrahabr.ru/post/95289/
+
+Как делать графики в LaTeX | https://habrahabr.ru/post/94931/
+
+Программисту .NET: как быстро показать LaTeX | https://habrahabr.ru/post/93169/
+
+Подготовщик текста для LaTeX (или типограф на Python) | https://habrahabr.ru/post/91526/
+
+Диаграммы в LaTeX | https://habrahabr.ru/post/81751/
+
+Какой "ТеХ" используете? | https://habrahabr.ru/post/65327/
+
+LaTeX на практике. Анонс | https://habrahabr.ru/post/64897/
+
+Python в Latex | https://habrahabr.ru/post/59782/
+
+Наконец о dvi можно забыть, или обратный поиск в pdf под Windows. | https://habrahabr.ru/post/52798/
+
+Использование цвета в LaTeX | https://habrahabr.ru/post/52166/
+
+Оптимизация векторной графики для LaTeX'a. | https://habrahabr.ru/post/51878/
+
+Графика в LaTeX. Часть II | https://habrahabr.ru/post/48122/
+
+Векторная графика в LaTeX. Пакет PGF/TikZ | https://habrahabr.ru/post/48260/
+
+Графика в LaTeX. Часть I | https://habrahabr.ru/post/48099/
+
+Стилевой пакет DMVN | https://habrahabr.ru/post/46319/
+

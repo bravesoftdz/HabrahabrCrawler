@@ -1,0 +1,16 @@
+Пишем свой мессенджер P2P | https://habrahabr.ru/post/304150/
+
+Запись входящих звонков | https://habrahabr.ru/post/301708/
+
+Синхронный код в асинхронном Twisted, или сказ о том, как скрестить ежа с ужом | https://habrahabr.ru/post/266887/
+
+Quickpong — разработка сетевой игры на основе фреймворка Twisted | https://habrahabr.ru/post/180319/
+
+О Twisted Framework (доклад с HighLoad++-2009) | https://habrahabr.ru/post/92776/
+
+Профайлинг Twisted-приложений | https://habrahabr.ru/post/92702/
+
+Deferred: все подробности | https://habrahabr.ru/post/52924/
+
+Асинхронное программирование: концепция Deferred | https://habrahabr.ru/post/51762/
+

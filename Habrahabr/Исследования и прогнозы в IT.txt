@@ -1,0 +1,1718 @@
+Обнаружение аномалий в данных сетевого мониторинга методами статистики | https://habrahabr.ru/post/344762/
+
+Системы ИИ в 2018: шесть прогнозов | https://habrahabr.ru/company/it-grad/blog/344590/
+
+Гаджет моего тела (Часть #2) | https://habrahabr.ru/company/technoserv/blog/344400/
+
+Как в Интернете проверить автомобиль перед покупкой: используем доступные базы данных и логику | https://habrahabr.ru/company/cloud4y/blog/344390/
+
+Digital-мероприятия в Москве c 11 по 17 декабря | https://habrahabr.ru/post/344358/
+
+Перспективы эволюции жестких дисков: передовые технологии и трудности реализации | https://habrahabr.ru/company/wd/blog/344252/
+
+Трудности обучения: как «лирику» подружиться с технологией | https://habrahabr.ru/company/regionsoft/blog/344110/
+
+Биткоин — коллос на глиняных ногах | https://habrahabr.ru/post/344112/
+
+Гаджет моего тела (Часть #1) | https://habrahabr.ru/company/technoserv/blog/343972/
+
+Digital-мероприятия в Москве c 4 по 10 декабря | https://habrahabr.ru/post/343792/
+
+Кому и насколько нужно поспевать за прогрессом? | https://habrahabr.ru/post/343600/
+
+У CDROM’а век не долог? | https://habrahabr.ru/post/343448/
+
+Физически неклонируемые функции: защита электроники от нелегального копирования | https://habrahabr.ru/post/343386/
+
+Бинарная матричная нейронная сеть | https://habrahabr.ru/post/343304/
+
+Digital-мероприятия в Москве c 27 ноября по 3 декабря | https://habrahabr.ru/post/343236/
+
+Облачные технологии и моё будущее | https://habrahabr.ru/post/343226/
+
+Голосуем за школьное обучение информатике | https://habrahabr.ru/post/342896/
+
+Digital-мероприятия в Москве c 20 по 26 ноября | https://habrahabr.ru/post/342760/
+
+6 вещей в интернете, которые люди понимают неправильно | https://habrahabr.ru/post/342744/
+
+Опрос пользователей Хабра | https://habrahabr.ru/company/tm/blog/342576/
+
+Как мы музицировали с нейронными сетями | https://habrahabr.ru/post/342306/
+
+Pediatric Bone Age Challenge. Deep Learning и много, много костей | https://habrahabr.ru/company/ods/blog/341408/
+
+Мета-взгляд на проблемы (не)образованной молодежи | https://habrahabr.ru/post/341834/
+
+Попробуем оценить Kubernetes | https://habrahabr.ru/company/piter/blog/341670/
+
+Какие языки программирования самые популярные: статистика ИТ-платформ | https://habrahabr.ru/company/it-grad/blog/341486/
+
+Какие самые нелюбимые языки программирования? | https://habrahabr.ru/post/341516/
+
+6 трендов ИТ-инфраструктуры: прогноз на 2018 год | https://habrahabr.ru/company/it-grad/blog/341374/
+
+Безопасное аэротакси на смарт контракте: 1 ноября стартовал Token Launch консорциума blockchain.aero | https://habrahabr.ru/post/341434/
+
+94% крупных и средних компаний морально готовы к “облакам”. Но только 24% могут сделать это прямо сейчас | https://habrahabr.ru/post/341310/
+
+Теория игры в Юлмарт | https://habrahabr.ru/post/341122/
+
+Тестирование фотохостингов на цифровой износ (21 шт) | https://habrahabr.ru/post/341238/
+
+Экономические эксперименты в виртуальной реальности | https://habrahabr.ru/post/341128/
+
+Экономика токенов: дисконты — основные проблемы | https://habrahabr.ru/post/339570/
+
+DevOops 2017: Как это было и Docker, Docker, Docker | https://habrahabr.ru/company/southbridge/blog/340738/
+
+Цифровой износ — старое явление на новый лад | https://habrahabr.ru/post/340714/
+
+Лангуаге файлюрен, или что нам делать с языком? | https://habrahabr.ru/post/340700/
+
+Каждому дата-центру — по виртуальной реальности | https://habrahabr.ru/company/kingservers/blog/340688/
+
+Необразованная молодёжь. Вавилонские младенцы | https://habrahabr.ru/post/340480/
+
+Информационная безопасность в АСУ ТП: вектор атаки человеко-машинный интерфейс | https://habrahabr.ru/post/340164/
+
+Статистика The New Stack о трудностях внедрения Kubernetes | https://habrahabr.ru/company/flant/blog/340270/
+
+Ошибка в десктопной версии Telegram for Windows | https://habrahabr.ru/post/340226/
+
+Коллективная работа и электронный документооборот. Опыт обучения в университете | https://habrahabr.ru/company/ascon/blog/339836/
+
+Самые успешные ICO за всю историю их проведения | https://habrahabr.ru/post/339822/
+
+Ответ на публикацию «Из хирурга в разработчики: как в 40 лет сменить профессию?» или почему я не люблю заказные статьи | https://habrahabr.ru/post/339486/
+
+Дистрибутив Google Chrome знает кто его скачал | https://habrahabr.ru/post/339468/
+
+Как необразованная молодежь становится образованной. Ответ университета | https://habrahabr.ru/post/339434/
+
+Необразованная молодёжь. Как выкручиваться студенту | https://habrahabr.ru/post/339438/
+
+Банковская карта вместо проездного | https://habrahabr.ru/company/gemaltorussia/blog/337504/
+
+Как удалить безвозвратно 100 000 пользователей и остаться живым? | https://habrahabr.ru/post/339178/
+
+Необразованная молодёжь. Ответ бизнеса | https://habrahabr.ru/company/regionsoft/blog/339284/
+
+Рынки на триллион, или успеть сделать за 10 лет | https://habrahabr.ru/post/339274/
+
+Необразованная молодёжь. Ответ преподавателя-совместителя | https://habrahabr.ru/post/339208/
+
+Информационная безопасность в АСУ ТП: вектор атаки преобразователи интерфейсов | https://habrahabr.ru/post/339066/
+
+Почта России: страшно ли жить после Страшнова? | https://habrahabr.ru/post/338610/
+
+Беседы о Виртуальной реальности. Беседа №2. Практично о Виртуальности | https://habrahabr.ru/post/338250/
+
+Как оправдать ожидания потребителей в отношении Интернета вещей? (результаты опроса) | https://habrahabr.ru/company/gemaltorussia/blog/337498/
+
+Как написать отличную научную статью по CS | https://habrahabr.ru/post/338324/
+
+Играем с квантовой монеткой | https://habrahabr.ru/post/338202/
+
+Технологические компании-единороги переоценены в среднем на 48%: исследование ученых из Стэнфорда | https://habrahabr.ru/company/itinvest/blog/337916/
+
+Это не статья — просто пища для размышлений о том, как её написать | https://habrahabr.ru/company/cit/blog/337656/
+
+Опрос: Нужно ли создателю продукта дополнительно учиться, чтобы проводить исследования пользователей? | https://habrahabr.ru/post/337640/
+
+40 эффектных ARKit демок, которые вскоре увидят мир | https://habrahabr.ru/post/336964/
+
+Интернет вещей популярно: почему мы перестанем выгуливать собак | https://habrahabr.ru/post/337456/
+
+Экономика токенов: почему так популярны ICO? | https://habrahabr.ru/post/337416/
+
+ICO — рассвет децентрализованной бизнес-модели | https://habrahabr.ru/post/337152/
+
+Знайте меньше, молчите чаще: или как в России и Китае ICO запретили | https://habrahabr.ru/post/337148/
+
+Методы обнаружения «склеенных» файлов | https://habrahabr.ru/company/infowatch/blog/337084/
+
+Переход к датаориентированному проектированию | https://habrahabr.ru/post/336940/
+
+Всё по полочкам: тематическая веб-аналитика в Интернете с Рамблер/топ-100, часть 2. Аналитика блоков | https://habrahabr.ru/company/rambler-co/blog/336886/
+
+Гарант для ICO: сводное представление. Пример Descrow | https://habrahabr.ru/post/336820/
+
+Как зарабатывают на ICO? И как делать этого не нужно | https://habrahabr.ru/post/336810/
+
+Social media mining в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/336792/
+
+Блокчейн как революция для привычных бизнес-процессов: сценарии от SAP | https://habrahabr.ru/company/sap/blog/336556/
+
+Kickico — революция в краудфандинге, или ICO для ICO (сравнение с другими платформами) | https://habrahabr.ru/post/336702/
+
+Беседы о Виртуальной реальности. Беседа №1. Реально о Виртуальности | https://habrahabr.ru/post/336460/
+
+Интернет велосипедов – как ИТ помогают вести здоровый образ жизни и сокращают вредные выбросы | https://habrahabr.ru/company/gemaltorussia/blog/335600/
+
+Blockchain: будущее, которое стоит знать it-специалистам | https://habrahabr.ru/post/336284/
+
+Sosnovkino — первый отечественный скам? Или соберём денег побыстрее и побольше | https://habrahabr.ru/post/335728/
+
+Показатели работы digital-агентства / продакшна (примеры с Запада) | https://habrahabr.ru/post/335694/
+
+Как распознать scam ICO? Часть II. Зрим | https://habrahabr.ru/post/335548/
+
+Нереализованный потенциал Интернета вещей | https://habrahabr.ru/company/gemaltorussia/blog/334548/
+
+5G Глазами Huawei | https://habrahabr.ru/post/335084/
+
+Как просмотреть 20 млн доменных имен и остаться довольным | https://habrahabr.ru/post/334992/
+
+Где логика? Учимся мыслить системно. Часть 2 | https://habrahabr.ru/post/334916/
+
+Создание оффлайнового распознавания лиц с точностью 99,38% на Python и Node.js | https://habrahabr.ru/company/raiffeisenbank/blog/334716/
+
+Дотянуться до миллениалов: тренды и техники мобильного маркетинга | https://habrahabr.ru/company/payonline/blog/319756/
+
+Интернет в поездках. Анализ зарубежных SIM-карт | https://habrahabr.ru/post/334286/
+
+Криптовалюта с точки зрения гражданского права | https://habrahabr.ru/post/334280/
+
+Неожиданные результаты опросов Kotlin: маленькое расследование | https://habrahabr.ru/post/334262/
+
+ICO: основные риски | https://habrahabr.ru/post/334224/
+
+Дядя Боб Мартин: «Вези меня в Торонто, HAL» | https://habrahabr.ru/post/334130/
+
+Найдена новая версия программы. Устанавливаем? | https://habrahabr.ru/post/333984/
+
+Спускаемся с небес: давайте просто посчитаем? | https://habrahabr.ru/company/redsys/blog/333976/
+
+«Познай самого себя»: social media mining-проекты в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/333962/
+
+ICO: основные юрисдикции и вопросы | https://habrahabr.ru/post/333748/
+
+Пошаговый мануал как ввезти технику, на которую отсутствует нотификация ФСБ | https://habrahabr.ru/post/333730/
+
+Блокчейн: революция, к которой мы не готовы | https://habrahabr.ru/company/everydaytools/blog/333576/
+
+Что я жду от своего сотового оператора | https://habrahabr.ru/post/333574/
+
+Почему открытые данные никому не нужны | https://habrahabr.ru/post/331036/
+
+Сколько стоит ваша компания? Кратко об оценке стоимости бизнеса | https://habrahabr.ru/company/cloud4y/blog/333366/
+
+Почему нет русского Amazon, или где @ зарыта? Мифы, которые надо закрыть | https://habrahabr.ru/post/332744/
+
+Отменяется ли бунт роботов? | https://habrahabr.ru/post/332734/
+
+Почему мобильные приложения занимают все больше места | https://habrahabr.ru/post/332602/
+
+Кто владеет данными, генерируемыми устройствами из интернета вещей? | https://habrahabr.ru/company/parallels/blog/332504/
+
+31 факт о ранней истории доллара США | https://habrahabr.ru/company/fondy/blog/322798/
+
+Запуск Zelle — доказательство того, что финтех-компании могут оказывать влияние на крупные банки | https://habrahabr.ru/company/payonline/blog/319752/
+
+Golem: децентрализация нового уровня | https://habrahabr.ru/post/332300/
+
+Квантовый компьютер: большая игра на повышение. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/332106/
+
+Как NVIDIA и AMD зарабатывают на росте популярности криптовалют | https://habrahabr.ru/post/331848/
+
+Итоги конкурса Stepik Contest и новые адаптивные онлайн-курсы | https://habrahabr.ru/company/stepic/blog/331708/
+
+Марк, Джек и Алишер! Миру нужен новый фейсбук — образовательный | https://habrahabr.ru/post/331758/
+
+Make QR Codes Great Again или камерная революция от Apple | https://habrahabr.ru/company/funcorp/blog/331452/
+
+Как семантические технологии улучшают онлайн-образование: проект ученых Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/331410/
+
+Как виртуальная реальность трансформирует покупательский опыт | https://habrahabr.ru/company/fondy/blog/322796/
+
+Почему платежи лежат в основе туристического опыта | https://habrahabr.ru/company/payonline/blog/319750/
+
+Технологии больших данных в работе с бактериями микробиоты. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/331158/
+
+Результаты опроса Stack Overflow 2017: разработчики, которые используют пробелы, зарабатывают больше | https://habrahabr.ru/post/331026/
+
+Спикеры #ITsubbotnik – о том, как технологии изменят мир через пять лет | https://habrahabr.ru/company/epam_systems/blog/330904/
+
+Искусственный интеллект захватывает Уолл-стрит: как это скажется на сфере финансов и не только | https://habrahabr.ru/company/itinvest/blog/330884/
+
+Оценка параметров старения с помощью носимой электроники. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/330680/
+
+Информационная безопасность: не ждите «жареного петуха» — он сам придет | https://habrahabr.ru/company/redsys/blog/330592/
+
+Как наука о данных помогает развитию медицины. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/330152/
+
+ТОП 100 англоязычных сайтов об IT | https://habrahabr.ru/company/cloud4y/blog/329936/
+
+Natural Language Processing — как это будет по-русски? | https://habrahabr.ru/company/stepic/blog/329386/
+
+Биометрия: не так сложно, как кажется | https://habrahabr.ru/company/redsys/blog/329774/
+
+Неприятная правда об Apple Pay | https://habrahabr.ru/company/fondy/blog/322794/
+
+Chronobank: продаём время, «покупаем» людей | https://habrahabr.ru/post/329738/
+
+Иннополис и неспешная погоня за кремниевыми долинами | https://habrahabr.ru/post/329732/
+
+Как обойти блокировки сайтов, не направляя весь трафик через VPN | https://habrahabr.ru/post/329706/
+
+Синдром MySpace, который свойственен и Facebook | https://habrahabr.ru/company/payonline/blog/319748/
+
+QR-коды — проблемы безопасности: не поторопились ли мы | https://habrahabr.ru/company/payonline/blog/319744/
+
+Чем отличается Bitcoin от других криптовалют | https://habrahabr.ru/company/parallels/blog/329522/
+
+Статья, на которую можно ссылаться: что такое блокчейн | https://habrahabr.ru/company/emercoin/blog/329276/
+
+13 крупнейших провайдеров массовых платежей для международного бизнеса | https://habrahabr.ru/company/web_payment_ru/blog/316346/
+
+Golos — часть I: нарушенная хронология, или коротко о главном | https://habrahabr.ru/post/329278/
+
+Golos — изучение на практике. Первые выводы | https://habrahabr.ru/post/329252/
+
+Большие данные для большой науки. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/329132/
+
+Новая жизнь коммунального сервиса | https://habrahabr.ru/company/dom24x7/blog/329124/
+
+Угрозы безопасности в системах электронных почтовых марок | https://habrahabr.ru/company/pbrf/blog/328748/
+
+Как открытое поле пароля в формах регистрации увеличивает конверсию | https://habrahabr.ru/company/diafan/blog/328376/
+
+Интернет вещей — маркетинг или реальная угроза | https://habrahabr.ru/company/qrator/blog/328066/
+
+Dell EMC объявляет результаты исследования ESG 2017 IT Transformation Maturity Curve | https://habrahabr.ru/company/dellemc/blog/327844/
+
+Первое десятилетие дополненной реальности | https://habrahabr.ru/company/parallels/blog/327804/
+
+Вычисляем место жительства пассажиров теплохода (с точностью до дома) | https://habrahabr.ru/post/327706/
+
+Какие языки программирования популярны поздно вечером | https://habrahabr.ru/post/327026/
+
+Банки и деньги глазами фантастов | https://habrahabr.ru/company/efs/blog/326862/
+
+Власти Дубая работают вместе с IBM для внедрения блокчейна в качестве инструмента по управлению городом | https://habrahabr.ru/company/ibm/blog/326680/
+
+10 нелепых заблуждений о блокчейн | https://habrahabr.ru/company/icanchoose/blog/326466/
+
+Почему мобильный предзаказ — нечто большее, чем просто платежная технология | https://habrahabr.ru/company/payonline/blog/326214/
+
+Антифрод. Закон. Сотовая связь: мои вопросы | https://habrahabr.ru/post/326336/
+
+ИП и IT: вечный спор о главном | https://habrahabr.ru/post/326226/
+
+Кто ты в стартапе: хипстер, хастлер, хакер или аналитик | https://habrahabr.ru/company/icanchoose/blog/325804/
+
+Как развиваются необанки за рубежом и в России | https://habrahabr.ru/company/fondy/blog/322770/
+
+Почему российскому рынку труда необходимы женщины-программисты? | https://habrahabr.ru/post/325638/
+
+Ленинградский телефонный эфир: первый советский чат | https://habrahabr.ru/company/parallels/blog/325392/
+
+Сравнение OpenMP на различных платформах | https://habrahabr.ru/post/325360/
+
+Опыт разработки автоматизированной системы прокторинга для подтверждения результатов онлайн-экзаменов | https://habrahabr.ru/post/325296/
+
+Как упростить разработку программного обеспечения при аутсорсинге? | https://habrahabr.ru/company/icl_services/blog/325290/
+
+Особенности интернет-эквайринга и альтернативные платежные инструменты на европейском рынке | https://habrahabr.ru/company/payonline/blog/312380/
+
+Как Amazon влияет на платежи | https://habrahabr.ru/company/fondy/blog/322792/
+
+Стратегическое эссе Пола Грэма: Рефрагментация (целиком) | https://habrahabr.ru/post/321846/
+
+ТОП 10 ошибок при организации блокчейн-проектов от Gartner Inc | https://habrahabr.ru/post/324670/
+
+Блокчейн изменит мир: но что останется людям? | https://habrahabr.ru/post/324568/
+
+В IBM предлагают новый способ сверхплотной записи информации: 1 бит к 1 атому | https://habrahabr.ru/company/ibm/blog/324362/
+
+Опрос айтишников. На «вы» или на «ты»? | https://habrahabr.ru/post/324262/
+
+MAC-адреса бывают разные | https://habrahabr.ru/post/324200/
+
+Платежи в переписке: чат-боты как отдельные сервисы и финтех-решения внутри мессенджеров | https://habrahabr.ru/company/payonline/blog/312372/
+
+IBM Watson поработает специалистом по налогообложению | https://habrahabr.ru/company/ibm/blog/323910/
+
+Премьер-инвестор Рунета и его пакеты | https://habrahabr.ru/post/323842/
+
+Исследование трендов в поведении покупателей розничных магазинов | https://habrahabr.ru/company/payonline/blog/319740/
+
+Я отказался от кофе, и вот что произошло | https://habrahabr.ru/company/smartprogress/blog/323710/
+
+Блокчейн в 200 строк кода | https://habrahabr.ru/post/323586/
+
+15-го марта пройдет вебинар, посвященный особенностям платежного бизнеса и интернет-эквайринга в Европе | https://habrahabr.ru/company/payonline/blog/312376/
+
+Как онлайн-бизнесу организовать прием платежей в валюте для иностранных клиентов | https://habrahabr.ru/company/fondy/blog/322768/
+
+Бирюзовые организации: примеры и общие ответы | https://habrahabr.ru/post/323532/
+
+Bitcoin в России: кто использует? | https://habrahabr.ru/post/323378/
+
+Поиск Яндекса. И эти люди запрещают нам ковыряться в носу | https://habrahabr.ru/post/323392/
+
+Bitcoin — наркозависим от Китая и почему это важно? | https://habrahabr.ru/post/323362/
+
+IBM добавит глубокое обучение для мэйнфреймов | https://habrahabr.ru/company/ibm/blog/323286/
+
+Bitcoin шагает по миру. Или нет? | https://habrahabr.ru/post/323074/
+
+Чего ожидать: IT-тренды США в 2017 году в правительстве и госсекторе | https://habrahabr.ru/company/squadra-group/blog/322962/
+
+Облако для искусственного интеллекта от Cirrascale: эксперименты с ИИ и глубоким обучением | https://habrahabr.ru/company/kingservers/blog/322906/
+
+LTE+ или чего ещё придумать для улучшения качества связи на последней миле | https://habrahabr.ru/post/322896/
+
+Топ ключевых угроз, сильных трендов и многообещающих технологий. Прогнозы Gartner на ближайшие несколько лет | https://habrahabr.ru/company/solarsecurity/blog/322858/
+
+Перспективы развития публичных данных | https://habrahabr.ru/post/322564/
+
+Управление публичными данными: получение и использование | https://habrahabr.ru/post/322150/
+
+Российские стартаперы не достигают успеха из-за лени | https://habrahabr.ru/company/innopolis_university/blog/322222/
+
+Самые худшие технологические прогнозы за последние 150 лет | https://habrahabr.ru/company/ruvds/blog/322138/
+
+Инфракрасная оптика вместо оптоволокна в ЦОД: оригинальный проект инженеров из США | https://habrahabr.ru/company/kingservers/blog/322176/
+
+Управление публичными данными: подготовка и поставка | https://habrahabr.ru/post/322012/
+
+Изменения климата и ЦОД: хорошего мало | https://habrahabr.ru/company/kingservers/blog/321858/
+
+Показатели качества публичных данных | https://habrahabr.ru/post/321406/
+
+Исследование связности в мозге на основе электрофизиологических данных. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/317320/
+
+Содержание, метаданные и контекст открытых данных | https://habrahabr.ru/post/321010/
+
+Russian 4Gap: распространение сетей 4G в России и в мире | https://habrahabr.ru/company/huawei/blog/321040/
+
+О данных открытых, разделяемых и делегируемых | https://habrahabr.ru/post/320510/
+
+Петербургский ИТ-экспорт недооценили на крупную сумму | https://habrahabr.ru/post/320904/
+
+Зарплаты «топов» ИТ-компаний вновь попали в топ | https://habrahabr.ru/post/320826/
+
+Пассивные методы выявления нелегальной терминации трафика | https://habrahabr.ru/post/320716/
+
+Интеллектуальная система ЭЛИС | https://habrahabr.ru/post/320672/
+
+Трансфер открытых данных | https://habrahabr.ru/post/320420/
+
+Почему данные могут быть открытыми и бесплатными | https://habrahabr.ru/post/319920/
+
+Приемная кампания 2017: Полезные ссылки и материалы для будущих бакалавров, магистров и аспирантов Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/320020/
+
+Почему в России много идей, но мало стартапов | https://habrahabr.ru/company/innopolis_university/blog/319960/
+
+Gartner выкатил новый магический квадрант для систем мониторинга | https://habrahabr.ru/company/jetinfosystems/blog/319948/
+
+Выставка CES 2017: платежные, e-commerce и финтех-тренды | https://habrahabr.ru/company/payonline/blog/319738/
+
+Инфраструктура ЦОД в 2016 году: оригинальные тенденции, которые сохранятся и в 2017 | https://habrahabr.ru/company/kingservers/blog/319572/
+
+Исследование IHS Markit: 145 компаний контролируют 40% общемирового рынка ЦОД | https://habrahabr.ru/company/kingservers/blog/319498/
+
+Кто выложил 10-миллионный комментарий? Тайны нумерологии | https://habrahabr.ru/post/319426/
+
+Высшее образование и ИТ — текущие реалии и перспективы, мнения и опыт экспертов | https://habrahabr.ru/post/319342/
+
+Skype Out vs Viber Out vs Tviggo vs Signal | https://habrahabr.ru/post/319248/
+
+Краткий обзор гибридных облаков на OpenStack и трудностей их построения | https://habrahabr.ru/company/fujitsu/blog/319172/
+
+Плавучий коммерческий ЦОД Nautilus Data Technologies начнет работу в этом году | https://habrahabr.ru/company/kingservers/blog/318992/
+
+Анализ рынка виртуальной реальности 2016 | https://habrahabr.ru/post/318868/
+
+Грядущий финтех-кризис миллениалов | https://habrahabr.ru/company/payonline/blog/312396/
+
+Всё, что вы хотели знать о финансовых ботах | https://habrahabr.ru/company/exante/blog/318706/
+
+IBM и BMW вместе работают над созданием умного автомобиля | https://habrahabr.ru/company/ibm/blog/318614/
+
+8 колоссальных сдвигов, которые в 2017-м станут причиной бессонницы топ-менеджеров в сфере финансов, ритейла и платежей | https://habrahabr.ru/company/payonline/blog/312370/
+
+17 прогнозов на 2017 год: исследователи корпорации Microsoft — о том, чего ожидать в 2017 году и через десять лет | https://habrahabr.ru/company/microsoft/blog/318178/
+
+Google: Security Keys — лучший метод обезопасить свой аккаунт | https://habrahabr.ru/company/kingservers/blog/318406/
+
+Обзор NFV MANO платформ от open source community | https://habrahabr.ru/post/318320/
+
+Я сегодня опять заработал на Bitcoin: почему это плохо? | https://habrahabr.ru/post/318264/
+
+IBM Watson поможет NASA бороздить просторы Вселенной | https://habrahabr.ru/company/ibm/blog/318246/
+
+Почему вендоры паникуют по поводу hyper-convergence / webscale? | https://habrahabr.ru/post/318182/
+
+«Рекламный ботнет» Methbot приносит своим владельцам $3-$5 млн в день | https://habrahabr.ru/company/kingservers/blog/318172/
+
+Раскладываем новые тренды в ИТ-инфраструктуре по полочкам: что такое scale-out, web-scale, гиперконвергентность | https://habrahabr.ru/company/ibm/blog/317844/
+
+Co-location: дата-центры vs малый и средний бизнес? | https://habrahabr.ru/company/squadra-group/blog/317704/
+
+Почему выросла активность венчурных фондов России | https://habrahabr.ru/post/317696/
+
+Дух перемен: Intel, Dell и HP в поисках теплого будущего | https://habrahabr.ru/company/pc-administrator/blog/317206/
+
+Сколько светят звезды? Хабраинтервью с игроками, разработчиками и издателем «Космических Рейнджеров» | https://habrahabr.ru/post/317096/
+
+Глобальный конкурс задач Stepik Contest | https://habrahabr.ru/company/stepic/blog/317062/
+
+10 трендов, актуальных для IT-компаний | https://habrahabr.ru/company/testutor/blog/317022/
+
+10 уникальных интернет-предпринимателей России | https://habrahabr.ru/company/zpayment/blog/316848/
+
+PIN-коды банковских карт. Как современные технологии вытесняют бумажную почту | https://habrahabr.ru/company/infobip/blog/316886/
+
+SmartDigest #1. Что читать или лучшее из книг за неделю | https://habrahabr.ru/company/smartprogress/blog/316480/
+
+Будущее финансовых технологий в 9 графиках | https://habrahabr.ru/company/exante/blog/316584/
+
+Юридическое лицо? Предоставьте ваш IP-адрес | https://habrahabr.ru/post/316376/
+
+Информационная безопасность и временной фактор | https://habrahabr.ru/post/316256/
+
+Блокчейн, его перспективы и долевая экономика | https://habrahabr.ru/company/ibm/blog/316230/
+
+Что мы узнали о роботах-консультантах за последние 19 месяцев | https://habrahabr.ru/company/payonline/blog/312390/
+
+You, Inc. Как развить личные и профессиональные навыки, продать их и выделиться из толпы | https://habrahabr.ru/company/smartprogress/blog/315916/
+
+О типах используемых маршрутизаторов на MSK-IX и W-IX | https://habrahabr.ru/post/315964/
+
+Почему Facebook — «темная лошадка» индустрии финансовых сервисов | https://habrahabr.ru/company/payonline/blog/312386/
+
+5 книг, которые помогут мыслить нестандартно и почему это важно именно сейчас | https://habrahabr.ru/company/smartprogress/blog/315510/
+
+Что означает восстание водителей Uber для платежной индустрии | https://habrahabr.ru/company/payonline/blog/312388/
+
+«Браузерная война» Google Chrome продолжается — вести с полей | https://habrahabr.ru/post/315078/
+
+9 миллионов доменных имен — это лишь цифры без букв | https://habrahabr.ru/company/kingservers/blog/314754/
+
+7 вещей о книгах и жизни, которые я узнал, прочитав 100 книг за год | https://habrahabr.ru/company/smartprogress/blog/314566/
+
+Почти половина разработчиков тратит 10-25% времени на исправление ошибок в готовом продукте | https://habrahabr.ru/post/314556/
+
+IBM расширяет экосистему Bluemix для того, чтобы дать Китаю доступ к блокчейн и IoT | https://habrahabr.ru/company/ibm/blog/314390/
+
+Как проходят уроки информатики в разных странах мира: 5 основных выводов | https://habrahabr.ru/post/314372/
+
+Производитель чипов Broadcom покупает компанию Brocade в ущерб своим планам | https://habrahabr.ru/post/314342/
+
+В поисках предела. 6 мифов эффективности, которые я развеял, работая по 14 часов в день на протяжении месяца | https://habrahabr.ru/company/smartprogress/blog/313894/
+
+Пол Грэм: крэк, метамфетамин, интернет и Facebook | https://habrahabr.ru/company/edison/blog/313608/
+
+История видеонаблюдения: путь от телевизора и Третьего рейха до облаков и нейросетей | https://habrahabr.ru/company/ivideon/blog/313586/
+
+Битва титанов голосовой коммерции | https://habrahabr.ru/company/payonline/blog/312384/
+
+Как оценить долю рынка в сегменте пользователей мобильных устройств? | https://habrahabr.ru/post/313300/
+
+Банки адаптируют блокчейн быстрее, чем можно было предположить | https://habrahabr.ru/company/ibm/blog/312862/
+
+Защита от акул, сверхлегкие дроны и телепортация фотонов: Настоящее и будущее технологий «доставки» информации | https://habrahabr.ru/company/it-grad/blog/312036/
+
+На каких CMS сделаны сайты юридических компаний? | https://habrahabr.ru/post/302882/
+
+Про обратную совместимость прикладных программ и выкапывание стюардесс | https://habrahabr.ru/post/312344/
+
+Преимущества использования программно-определяемых СХД в корпоративной среде | https://habrahabr.ru/company/kingservers/blog/312124/
+
+Считаем порносайты, оцениваем эффективность Роскомнадзора | https://habrahabr.ru/post/312092/
+
+Трансгуманизм: Новая ступень эволюции или конец человечества | https://habrahabr.ru/company/it-grad/blog/310634/
+
+Эволюция мобильного сленга: когда графика заменит слова? | https://habrahabr.ru/company/yota/blog/311766/
+
+Исследование гласит, что ИТ-директора наслаждаются большим влиянием на бизнес | https://habrahabr.ru/company/icl_services/blog/311664/
+
+Закат Stack Overflow | https://habrahabr.ru/post/311322/
+
+IBM помогает индийцам заранее узнавать о погодных катаклизмах | https://habrahabr.ru/company/ibm/blog/311474/
+
+Искусственный Интеллект в Excel предсказывает обладателя золотой медали в мужском турнире на Рио 2016 | https://habrahabr.ru/post/311328/
+
+Истина, родившаяся в споре о рейтингах популярных языков программирования | https://habrahabr.ru/post/311152/
+
+Как американские финтех-стартапы заменяют фрилансерам банкинг | https://habrahabr.ru/company/web_payment_ru/blog/310448/
+
+Алан Кей: Будущее «чтения» зависит от будущего «обучения сложным для понимания вещей» | https://habrahabr.ru/company/edison/blog/310588/
+
+Правительство Китая может запретить дата-центры с высоким PUE | https://habrahabr.ru/company/kingservers/blog/310298/
+
+6 статистических показателей ИТ-аутсорсинга в 2016 | https://habrahabr.ru/company/icl_services/blog/309960/
+
+Специалисты IBM хотят остановить эпидемии кишечной палочки | https://habrahabr.ru/company/ibm/blog/309908/
+
+17% сайтов украинских школ хостятся в Германии, а 20% в России | https://habrahabr.ru/company/simnetworks/blog/309828/
+
+IBM Watson получил работу ученого-синоптика | https://habrahabr.ru/company/ibm/blog/309666/
+
+Игра цифровых кошельков: эпоха холодной войны между Западом и Востоком | https://habrahabr.ru/company/payonline/blog/309194/
+
+Почта России: в e-commerce-будущее с осторожным оптимизмом | https://habrahabr.ru/post/309320/
+
+Корпорация Samsung создала «цифровой глаз» на основе чипа IBM Truenorth | https://habrahabr.ru/company/ibm/blog/309094/
+
+Эпоха “Пост-Let’s Encrypt”. Кому по-прежнему стоит платить за SSL сертификаты? | https://habrahabr.ru/company/ispsystem/blog/308992/
+
+В новом списке самых прибыльных ИТ-компаний России 50% мест занимают иностранные фирмы | https://habrahabr.ru/post/308958/
+
+Ошибки анкетных опросов. 2 ошибка: формулировка анкеты. 13 случаев непонимания и манипуляций в опросе (1 часть) | https://habrahabr.ru/post/308938/
+
+К 2020 году в развитие Интернета вещей вложат $6 трлн | https://habrahabr.ru/post/308780/
+
+Будущее компьютерных технологий: обзор современных трендов | https://habrahabr.ru/company/plarium/blog/308776/
+
+Linux исполнилось 25 лет | https://habrahabr.ru/company/kingservers/blog/308470/
+
+Что предпочесть: собственные ресурсы, покупку или аутсорсинг? | https://habrahabr.ru/company/icl_services/blog/308340/
+
+О рисках использования облаков | https://habrahabr.ru/post/308062/
+
+Кто виноват, и что делать, если айтишник скучает на работе. Результаты опроса | https://habrahabr.ru/company/newprolab/blog/307870/
+
+Насколько отличаются доходы директоров по продажам и основателей ИТ-компаний | https://habrahabr.ru/post/307688/
+
+Ошибки анкетных опросов. 1 ошибка: смещение выборки. 8 способов привлечь нужных респондентов | https://habrahabr.ru/post/307620/
+
+Может ли стартап ударить по 20-миллиардному рынку страхования кибер-рисков? | https://habrahabr.ru/company/gvalg/blog/307608/
+
+10 лет безопасности в сети | https://habrahabr.ru/company/gemaltorussia/blog/307532/
+
+Крах биржи облачных технологий. Что дальше? | https://habrahabr.ru/company/ruvds/blog/307550/
+
+Введение в двоичные технологии | https://habrahabr.ru/post/307524/
+
+Чатботы против приложений: кто кого? | https://habrahabr.ru/post/307458/
+
+Эволюция сети к SDN & NFV | https://habrahabr.ru/post/307356/
+
+Обзор Samsung SM961 512GB и 256GB SSD | https://habrahabr.ru/company/ruvds/blog/307176/
+
+DDoS-атаки ставят рекорды. Как быстро и дешево защитить свой бизнес? | https://habrahabr.ru/company/ruvds/blog/307166/
+
+Новое исследование Ассоциации полупроводниковой промышленности: «Через 5 лет закон Мура перестанет действовать» | https://habrahabr.ru/post/307158/
+
+Рейтинг стран, в которых благоприятнее развернуть серверную ферму | https://habrahabr.ru/company/ua-hosting/blog/306586/
+
+Тонкие клиенты, толстые сервера | https://habrahabr.ru/post/306772/
+
+Развернутый комментарий к статьям «Систематизация публикаций в web» | https://habrahabr.ru/post/306790/
+
+Новый рейтинг языков программирования от IEEE Spectrum оказался своебразным | https://habrahabr.ru/post/306642/
+
+AI 101: введение в автоматизацию и искусственный интеллект в аутсорсинге | https://habrahabr.ru/company/icl_services/blog/306454/
+
+Инфекционное распространение рекламы в социальных сетях | https://habrahabr.ru/post/306318/
+
+«Пятничный формат»: AI – новый враг или новый бог | https://habrahabr.ru/company/it-grad/blog/304660/
+
+Gaming As A Service: Вычислительные облака для игровой индустрии | https://habrahabr.ru/company/ruvds/blog/306148/
+
+Опрос. Почему айтишнику скучно | https://habrahabr.ru/company/newprolab/blog/306150/
+
+И еще один документ на тему использования несертифицированных средств шифрования | https://habrahabr.ru/post/306086/
+
+Очередное требование об использовании отечественных средств шифрования | https://habrahabr.ru/post/305922/
+
+Язык межпрофессионального общения. Результаты опроса | https://habrahabr.ru/company/newprolab/blog/305676/
+
+Как проводят отпуск ИТ-специалисты — инфографика соцопроса | https://habrahabr.ru/company/moikrug/blog/304560/
+
+ИТ-аутсорсинг не должен препятствовать инновациям – пришло время для переосмысления | https://habrahabr.ru/company/icl_services/blog/305166/
+
+Как большие данные меняют рынок рекламы в СМИ | https://habrahabr.ru/company/surfingbird/blog/305076/
+
+Главные тренды развития рынка платежных систем | https://habrahabr.ru/company/canopus_it/blog/304844/
+
+Если вы работаете с государственными организациями | https://habrahabr.ru/post/304772/
+
+Кого нужно бояться среди вредоносных программ | https://habrahabr.ru/post/304758/
+
+Развитие облачных технологий в России. Новая реальность: векторы развития и основные проблемы | https://habrahabr.ru/company/ruvds/blog/304704/
+
+Опрос: нужен ли айтишнику английский язык? | https://habrahabr.ru/company/newprolab/blog/304696/
+
+Учите детей программировать — они изменят мир | https://habrahabr.ru/post/304556/
+
+Прощай, программирование… | https://habrahabr.ru/post/304442/
+
+Как Apple Pay влияет на платежную индустрию? | https://habrahabr.ru/company/payonline/blog/304332/
+
+Все же хотим сытого и светлого будущего для своих детей? | https://habrahabr.ru/post/304380/
+
+Когда голосовые помощники начнут по-настоящему помогать | https://habrahabr.ru/post/303962/
+
+Проверка документов: чего не хватает офисным приложениям «для полного счастья» | https://habrahabr.ru/post/303906/
+
+IoT: от «умных» лампочек до передовых технологий производства | https://habrahabr.ru/post/303790/
+
+HL7: Ваш HL7 CDA документ не соответствует стандарту | https://habrahabr.ru/post/303716/
+
+Место России в глобальной цифровой трансформации | https://habrahabr.ru/company/huawei/blog/303358/
+
+Персональная фильтрация информации в Интернете как борьба с пропагандой и манипуляцией общественным сознанием | https://habrahabr.ru/post/303234/
+
+Ключ к информационной революции | https://habrahabr.ru/post/303014/
+
+Simply the Best. Лучшие посты в истории блога Intel | https://habrahabr.ru/company/intel/blog/302778/
+
+Рекомендательные системы в онлайн-образовании | https://habrahabr.ru/company/stepic/blog/302702/
+
+Как биткойн похоронит государства | https://habrahabr.ru/company/ultima/blog/301592/
+
+Уже 2016 год, а будущее всё никак не наступает. Кто виноват и что делать? | https://habrahabr.ru/post/302568/
+
+Что мешает развитию бизнеса Интернета вещей? | https://habrahabr.ru/post/299306/
+
+Сегменты Интернета вещей: общие принципы | https://habrahabr.ru/post/300608/
+
+HTTP/2.0 — Халтура от IETF: плохой протокол, плохая политика | https://habrahabr.ru/post/302092/
+
+CTCrypt 2016 — криптография на любой вкус | https://habrahabr.ru/post/302072/
+
+«Я режиссёр» — телевизионное вещание на стыке технологий | https://habrahabr.ru/post/301670/
+
+Деревья, у которых нет листьев | https://habrahabr.ru/company/lingualeo/blog/300998/
+
+Вебинар от «Лаборатории Касперского»: Next Generation Security | https://habrahabr.ru/company/gotech_vc/blog/300790/
+
+Стагнация на мобильном рынке вынуждает Apple и Google переманивать пользователей | https://habrahabr.ru/post/300784/
+
+WebMoney: история успеха или хроника закрытия? | https://habrahabr.ru/post/300754/
+
+Будущее здесь: Вытеснят ли роботы финансовых аналитиков с Уолл-стрит | https://habrahabr.ru/company/itinvest/blog/283100/
+
+Очередное «Все пропало» или «Эпоха аналитики соцмедиа закончилась». Реально? | https://habrahabr.ru/company/palitrumlab/blog/300596/
+
+Как выбрать лучшего поставщика услуг ИТ-аутсорсинга? | https://habrahabr.ru/company/icl_services/blog/300582/
+
+«Динамические» онлайн-курсы потребуют нового «нормализованного» контента | https://habrahabr.ru/company/nerepetitor/blog/300566/
+
+Исполнение воли Сатоши Накамото | https://habrahabr.ru/post/300560/
+
+Не приведёт ли введение безусловного дохода к раскручиванию инфляции? | https://habrahabr.ru/post/300540/
+
+Во что превратятся большие данные | https://habrahabr.ru/post/300374/
+
+Зелёный, Хирург и Пудинг: мысли вслух о перспективах it в России | https://habrahabr.ru/post/300416/
+
+Apple возглавила рейтинг самых доходных ИТ-компаний на фоне прогноза о первом за 13 лет падении ее выручки | https://habrahabr.ru/post/300412/
+
+Иллюзия больших данных | https://habrahabr.ru/post/300342/
+
+Рейтинг «50 главных технологических компаний России» впервые возглавили интернет-компании | https://habrahabr.ru/post/300282/
+
+Интернет вещей для бизнес-объектов (часть 7) | https://habrahabr.ru/post/300170/
+
+Интернет вещей для бизнес-объектов (часть 6) | https://habrahabr.ru/post/300168/
+
+Интернет вещей для бизнес-объектов (часть 5) | https://habrahabr.ru/post/300166/
+
+Инфографика: мошенничество в Рунете | https://habrahabr.ru/company/payonline/blog/281581/
+
+Интернет вещей для бизнес-объектов (часть 4) | https://habrahabr.ru/post/300164/
+
+Forbes 2016: в рейтинге 200 самых богатых бизнесменов России появилось два «новичка» из IT-отрасли | https://habrahabr.ru/post/300118/
+
+Интернет вещей для бизнес-объектов (часть 3) | https://habrahabr.ru/post/300090/
+
+Интернет вещей для бизнес-объектов (часть 2) | https://habrahabr.ru/post/300066/
+
+Apple обошла ASUS и заняла четвёртое место на рынке ПК | https://habrahabr.ru/post/300072/
+
+Интернет вещей для бизнес-объектов (часть 1) | https://habrahabr.ru/post/299910/
+
+Смартфоны наступают | https://habrahabr.ru/company/byyd/blog/300038/
+
+Продажи устройств на рынке VR составят $895 миллионов | https://habrahabr.ru/post/299992/
+
+Глобальная деофшоризация (Часть 1). Офшорная компания и счет в Латвийском банке в 2016 году | https://habrahabr.ru/company/lawboot/blog/299918/
+
+Как ознакомление со 119-ю заявками стартапов за 2 дня разрушило у меня стереотип «несерьёзности» приложений | https://habrahabr.ru/post/299696/
+
+Сколько зарабатывают фрилансеры | https://habrahabr.ru/company/polyglot/blog/299662/
+
+Что россияне покупали в период подготовки к 8 марта: траты в российских и зарубежных интернет-магазинах | https://habrahabr.ru/company/web_payment_ru/blog/299414/
+
+Что надо знать об информационных инструментах управления | https://habrahabr.ru/post/299236/
+
+Все по-честному: в 2015 году рынок легальных видеосервисов России вырос на 15% | https://habrahabr.ru/post/299408/
+
+27 малоизвестных фактов о стартапах | https://habrahabr.ru/company/payonline/blog/299202/
+
+8 цитат из прошлого об интернете вещей | https://habrahabr.ru/post/299256/
+
+Проблемный мир мобильных платежей — как привести его в порядок | https://habrahabr.ru/post/299240/
+
+11 новых бизнес-трендов для экономики нового уровня | https://habrahabr.ru/post/299198/
+
+Во что превратится ваша работа за 10 лет | https://habrahabr.ru/company/wrike/blog/299178/
+
+«Индекс Любви» на карте России, весна 2016: исследование эмоционального состояния пользователей социальных медиа | https://habrahabr.ru/company/brandanalytics/blog/299078/
+
+Работа с мобильных устройств в прошлом году: от email к collaboration-сервисам | https://habrahabr.ru/company/wrike/blog/299004/
+
+Деньги — история доверия | https://habrahabr.ru/post/299008/
+
+Перспективы рынка мобильной коммерции на мировой арене | https://habrahabr.ru/company/payonline/blog/298786/
+
+Правительство США против компаний информационных технологий — близко гражданская война?.. Мы — на стороне Apple | https://habrahabr.ru/post/298962/
+
+Есть ли место человеку в компьютерном будущем | https://habrahabr.ru/post/298902/
+
+Зачем нужна теория вероятностей в жизни | https://habrahabr.ru/company/yasno_tv/blog/298898/
+
+Управляем внешними каналами в виртуальной АТС | https://habrahabr.ru/company/iptelefon/blog/298892/
+
+К 2025 году роботы-консультанты по инвестированию будут управлять 10% мирового инвестиционного портфеля | https://habrahabr.ru/post/298888/
+
+Huawei собирается занять первое место на рынке смартфонов | https://habrahabr.ru/post/298834/
+
+«Золотая лихорадка» в технологическом развитии Африки | https://habrahabr.ru/post/298818/
+
+Выручка VimpelCom упала на 29% | https://habrahabr.ru/post/298744/
+
+Как убивают малый бизнес в России: пример электронных денег | https://habrahabr.ru/post/298634/
+
+Еще одна пощечина Big Data? Фаза разочарования | https://habrahabr.ru/company/palitrumlab/blog/298498/
+
+12 невероятных историй успеха Big Data, которые случатся в 2016 году | https://habrahabr.ru/company/palitrumlab/blog/298416/
+
+Жесткий сценарий импортозамещения оборудования может привести к 27-процентному росту цен на услуги связи | https://habrahabr.ru/post/298312/
+
+Игры в деньги: Activision Blizzard и Hearthstone | https://habrahabr.ru/post/298248/
+
+Российская интернет-торговля глазами исследователей: покупатели vs продавцы | https://habrahabr.ru/post/298254/
+
+За 2 года количество россиян, использующих смартфоны для просмотра ТВ и видеороликов, выросло в 4 раза | https://habrahabr.ru/post/298230/
+
+Кому на Руси жить хорошо: рейтинг самых дорогих публичных компаний России | https://habrahabr.ru/post/298208/
+
+Google: «миллиард и 34%» или сколько стоит быть поисковиком для Apple | https://habrahabr.ru/post/298092/
+
+Опрос: что угрожает бизнесу и как этого избежать | https://habrahabr.ru/post/298040/
+
+Преимущества и недостатки 3D Secure и таинственная «невидимая аутентификация» платежей | https://habrahabr.ru/company/payonline/blog/297954/
+
+Как еще может помочь своим пользователям Airbnb и остальные туристические сервисы | https://habrahabr.ru/company/avoapp/blog/297948/
+
+По итогам 2015 года продажи смартфонов на отечественном рынке снизились на 8% | https://habrahabr.ru/post/297904/
+
+Почему мы должны поддержать идею безусловного базового дохода? | https://habrahabr.ru/post/297856/
+
+Рост продаж ПК в 4 квартале 2015 года показала только Apple | https://habrahabr.ru/post/297848/
+
+Расходы Uber в первой половине 2015 года составили около миллиарда долларов | https://habrahabr.ru/post/297836/
+
+Инвесторы Xiaomi ставят под сомнение оценку компании в 46 млрд долларов | https://habrahabr.ru/post/297820/
+
+История технологий предоплаты почтовых отправлений | https://habrahabr.ru/company/pbrf/blog/297780/
+
+5 сервисов для проведения онлайн опросов | https://habrahabr.ru/post/297686/
+
+Интересная аналитика относительно рождественских активаций мобильных устройств от Flurry | https://habrahabr.ru/post/297668/
+
+ТОП-15 популярных интернет-ресурсов в России и в мире по итогам 2015 года | https://habrahabr.ru/post/297624/
+
+Что общего у предпринимателя, системного аналитика и гипнотизёра? И где здесь IT | https://habrahabr.ru/post/297594/
+
+Объемы розничной торговли в России продолжают сокращаться | https://habrahabr.ru/post/297456/
+
+Опрос Wrike: Чем недовольны сотрудники? В основном, работой друг с другом | https://habrahabr.ru/company/wrike/blog/297370/
+
+Иллюзия прогресса: интернет не влияет на скорость поиска работы в России и других странах | https://habrahabr.ru/post/297328/
+
+Не все банки могут полностью защитить онлайн платежи | https://habrahabr.ru/company/payonline/blog/297308/
+
+Новая Доктрина информационной безопасности РФ | https://habrahabr.ru/company/zarlaw/blog/297300/
+
+Почему современные технологии и рост эффективности сделают нас несчастными | https://habrahabr.ru/post/297294/
+
+Заплати онлайн – спаси дерево | https://habrahabr.ru/company/payonline/blog/297244/
+
+Профессия «программиста» через 5 лет | https://habrahabr.ru/post/297246/
+
+Доля компании Google на рынке десктопного поиска США достигла своего минимума за последние 3 года | https://habrahabr.ru/post/297228/
+
+Денег в экономике не хватает? Почему? | https://habrahabr.ru/post/297212/
+
+Краткая история социальных медиа (то, что вы, возможно, еще не знали) и 4 предположения о их будущем (Часть 2) | https://habrahabr.ru/post/297160/
+
+Поставки серверов в мире растут, в России — снижаются | https://habrahabr.ru/post/297142/
+
+Краткая история социальных медиа (то, что вы, возможно, еще не знали) и 4 предположения о их будущем (Часть 1) | https://habrahabr.ru/post/297128/
+
+Банки удвоили затраты на облачные технологии, чтобы сэкономить | https://habrahabr.ru/post/297066/
+
+Любопытный случай возвращения средневековой системы натурального обмена | https://habrahabr.ru/company/dataart/blog/296938/
+
+Какие деньги нужны экономике (новые деньги для расчетов) | https://habrahabr.ru/post/296864/
+
+Какие деньги нужны экономике | https://habrahabr.ru/post/296800/
+
+MasterPass набирает обороты | https://habrahabr.ru/company/payonline/blog/296530/
+
+Роман Пескин: «Сейчас два парня в гараже пилят продукт, который взорвет рынок» | https://habrahabr.ru/company/dataart/blog/296592/
+
+Кремниевая Долина мертва — да здравствует Кремниевая Долина… | https://habrahabr.ru/post/296572/
+
+«Темная лошадка» Wildberries обскакала участников рейтинга 50 самых быстрорастущих компаний в России | https://habrahabr.ru/post/296450/
+
+Рынок облачных вычислений превосходит все ожидания (Часть 2) | https://habrahabr.ru/post/296410/
+
+Будущее финансирования стартапов. Пол Грэм рассказывает о том, как принимать инвестиционное решение за 10 минут | https://habrahabr.ru/company/tceh/blog/296396/
+
+«Облака» помогли главе Amazon взлететь на четвертое место в списке богатейших людей мира | https://habrahabr.ru/post/296354/
+
+6 удобных мобильных банков для бизнеса | https://habrahabr.ru/company/iloveip/blog/296272/
+
+Рынок облачных вычислений превосходит все ожидания (Часть 1) | https://habrahabr.ru/post/296174/
+
+Toyota инвестирует в автомобильный SkyNet | https://habrahabr.ru/post/296120/
+
+Банк в кармане: 9 трендов мобильных платежей и банкинга | https://habrahabr.ru/company/payonline/blog/295534/
+
+Прогноз на будущее | https://habrahabr.ru/post/295986/
+
+6 социальных медиа с новыми возможностями продвижения: Часть 1 | https://habrahabr.ru/company/byyd/blog/295970/
+
+Иностранные IT-компании могут уйти из РФ: читаем новость по памятке Галины Тимченко | https://habrahabr.ru/company/ichar/blog/295968/
+
+Как мы cоздавали стартап SaaS Credit | https://habrahabr.ru/company/saascredit/blog/295922/
+
+Инсайдерские исследования компании Google | https://habrahabr.ru/company/byyd/blog/295904/
+
+Анатолий Чубайс: «Пожелайте мне, чтобы мы все-таки создали российский Apple в наноиндустрии» | https://habrahabr.ru/post/295882/
+
+О чём мы мечтаем и чего боимся: результат анализа 3 млн публикаций за последние 10 лет | https://habrahabr.ru/post/295814/
+
+Джереми Рифкин: мы на пороге третьей промышленной революции | https://habrahabr.ru/post/295810/
+
+Итоги конкурса ИТ-проектов Web&Tech Ready 2015 и статистика по всем участникам конкурса | https://habrahabr.ru/company/gotech_vc/blog/295776/
+
+Apple показала лучшие финансовые результаты за всю историю | https://habrahabr.ru/post/295772/
+
+Проект развития интернет-экономики | https://habrahabr.ru/post/295760/
+
+Есть ли в регионах IT-предпринимательство? | https://habrahabr.ru/company/ichar/blog/295756/
+
+Big Data: 20 ошеломляющих фактов, которые должен знать каждый | https://habrahabr.ru/company/palitrumlab/blog/295750/
+
+Data Insight: Exist.ru — крупнейший интернет-магазин рунета | https://habrahabr.ru/post/295746/
+
+Яндекс дряхл. Его можно сожрать | https://habrahabr.ru/post/295716/
+
+Ключевые тренды среди Fintech-стартапов | https://habrahabr.ru/company/payonline/blog/295712/
+
+Как медиа меняются, чтобы вовлекать аудиторию | https://habrahabr.ru/company/surfingbird/blog/295630/
+
+Bloomberg Businessweek опубликовал необыкновенный рейтинг бизнес-школ мира | https://habrahabr.ru/post/295588/
+
+Результаты исследования, в котором MasterCard проанализировал около 1,6 миллионов онлайн диалогов потребителей | https://habrahabr.ru/company/payonline/blog/295508/
+
+Джек Дорси: человек, пароход и один из самых успешных основателей и менеджеров современности | https://habrahabr.ru/post/295416/
+
+Рэнкинг самых прибыльных российских IT-компаний | https://habrahabr.ru/post/295308/
+
+Сильный доллар снижает уровень продаж ПК | https://habrahabr.ru/post/295242/
+
+SILICON ALLEY 100 – рейтинг самых влиятельных деятелей в IT-индустрии | https://habrahabr.ru/post/295196/
+
+Life Time Value – что это такое и какой метод подсчета LTV выбрать? | https://habrahabr.ru/company/appodeal/blog/294864/
+
+Самые инновационные страны мира по версии Business Insider | https://habrahabr.ru/post/295080/
+
+Apple и Google в третий раз стали лидерами рейтинга 100 лучших мировых брендов | https://habrahabr.ru/post/295056/
+
+Что такое Интернет Вещей? | https://habrahabr.ru/company/gotech_vc/blog/294930/
+
+YouTube получает деньги за просмотр рекламы ботами | https://habrahabr.ru/post/294764/
+
+Хотите заработать на мобильных играх? Выходите на индийский рынок | https://habrahabr.ru/post/294690/
+
+Все мы в банках. Данных, стеклянных и финансовых | https://habrahabr.ru/company/palitrumlab/blog/294676/
+
+Не пора ли завести личного Большого Брата? Государство — не всегда мы | https://habrahabr.ru/company/palitrumlab/blog/294626/
+
+Мобильная аудитория сервисов Google в России растет на фоне противоречивой репутации компании | https://habrahabr.ru/post/294580/
+
+Корпоративная социальная инфографика | https://habrahabr.ru/company/supereon/blog/294468/
+
+Исследователи выяснили, на каких сайтах проводят больше времени сотрудники российских компаний | https://habrahabr.ru/post/294444/
+
+Соцсети и мессенджеры — лидеры по трафику в РФ | https://habrahabr.ru/post/294428/
+
+Как это было? DataTalks #3: онлайн-опросы | https://habrahabr.ru/company/wargaming/blog/294312/
+
+Как мы участвовали в хакатоне | https://habrahabr.ru/company/supereon/blog/294328/
+
+Чисто технически: Как СМИ становятся интереснее с помощью разработчиков | https://habrahabr.ru/company/surfingbird/blog/294252/
+
+Как нельзя делать рекомендации контента: 5 ошибок российских медиа | https://habrahabr.ru/company/surfingbird/blog/294218/
+
+Рейтинг облачных-провайдеров России по степени готовности к взаимодействию с иностранными клиентами | https://habrahabr.ru/company/mediagrus/blog/294204/
+
+Исследование Content Review: в Иране, Пакистане и России самые низкие цены на мобильный интернет | https://habrahabr.ru/post/294202/
+
+Спрос на смартфоны в России растет рекордными темпами | https://habrahabr.ru/post/293994/
+
+Рейтинг языков программирования на GitHub и в России* | https://habrahabr.ru/company/willdev/blog/293980/
+
+«Яндекс.Маркет»: фотоаппараты подорожали на 20%, пылесосы — на 10%, а ноутбуки после декабря 2014 года не дешевели | https://habrahabr.ru/post/293974/
+
+Количественная оценка доверия, или сколько стоит ваша преданность | https://habrahabr.ru/post/293940/
+
+Мобильный трафик на сайты СМИ растет, но монетизировать его сложно | https://habrahabr.ru/post/293916/
+
+Объем покупок смартфонов в кредит возвращается на докризисный уровень | https://habrahabr.ru/post/293880/
+
+Как мы сравнивали КСС. Часть 2 | https://habrahabr.ru/company/supereon/blog/293840/
+
+Google перестал расти в Рунете: доля поисковика почти не меняется четыре месяца | https://habrahabr.ru/post/293816/
+
+Нестандартные способы монетизации игрового приложения | https://habrahabr.ru/company/appodeal/blog/293516/
+
+Рынок интернет-рекламы в РФ начал резко расти | https://habrahabr.ru/post/293804/
+
+УВР – система оценки идей и прототипов игровых проектов | https://habrahabr.ru/company/gotech_vc/blog/293796/
+
+Памятка будущему PM | https://habrahabr.ru/post/293764/
+
+Вопреки развитию онлайн-торговли в ближайшие 5-10 лет рынок офлайн-ретейлеров США сокращаться не будет | https://habrahabr.ru/post/293762/
+
+Поставки планшетов iPad в Россию упали в 6 раз | https://habrahabr.ru/post/293668/
+
+Рейтинг самых популярных в мире мессенджеров | https://habrahabr.ru/post/293656/
+
+Хостинг в законе. Где хостить сайт в контексте «локализации персональных данных» | https://habrahabr.ru/post/293568/
+
+Считаем ТИКи | https://habrahabr.ru/company/supereon/blog/293604/
+
+Большая 20-ка: Крупнейшие раунды европейских ИТ-инвестиций в 2014 году | https://habrahabr.ru/company/friifond/blog/293544/
+
+Размер интернет-аудитории в России достиг 80,1 млн человек | https://habrahabr.ru/post/293524/
+
+Самое популярное устройство для выхода в Интернет в Великобритании — смартфон | https://habrahabr.ru/post/293420/
+
+Аналитики Gartner оценили степень сокращения сегментов мирового рынка ИТ в 2015 году | https://habrahabr.ru/post/293414/
+
+8 фактов об онлайн-опросах, которые должен помнить каждый исследователь | https://habrahabr.ru/company/wargaming/blog/293400/
+
+Компания на БВО, в Эстонии и Гонконге – плюсы и минусы | https://habrahabr.ru/company/polyglot/blog/293394/
+
+Forbes опубликовал рейтинг 100 богатейших IT-предпринимателей мира | https://habrahabr.ru/post/293358/
+
+Xiaomi и Huawei обошли Apple в Китае | https://habrahabr.ru/post/293326/
+
+Apple и Google попытаются предсказать поведение пользователей | https://habrahabr.ru/post/293290/
+
+Как сделать российский бизнес международным, чтобы за это ничего не было | https://habrahabr.ru/company/solarstaff/blog/293288/
+
+Спрос на «умные» часы вырос почти в три раза за год, количество моделей выросло в шесть раз | https://habrahabr.ru/post/293220/
+
+Продюсер завтрашнего дня (часть 8) | https://habrahabr.ru/post/293186/
+
+Выручка Avito выросла на 47% | https://habrahabr.ru/post/293160/
+
+Революция Искусственного интеллекта — путь к Супер-интеллекту | https://habrahabr.ru/post/293156/
+
+За год Twitter потерял 450 сотрудников | https://habrahabr.ru/post/293120/
+
+Продюсер завтрашнего дня (часть 7) | https://habrahabr.ru/post/293096/
+
+7 вещей, которые будут уничтожены самоуправляемыми автомобилями | https://habrahabr.ru/post/293018/
+
+Самый популярный «офисный» поисковик — Yandex, а самая популярная социальная сеть — ВКонтакте | https://habrahabr.ru/post/292954/
+
+Продюсер завтрашнего дня (часть 6) | https://habrahabr.ru/post/292894/
+
+Продюсер завтрашнего дня (часть 5) | https://habrahabr.ru/post/292862/
+
+Опыт WPS Office на российской почве | https://habrahabr.ru/post/292834/
+
+За полгода выручка Huawei выросла на 30% | https://habrahabr.ru/post/292828/
+
+Продюсер завтрашнего дня (часть 4) | https://habrahabr.ru/post/292822/
+
+Каждый третий россиянин платит за контент в сети, каждый шестой — за онлайн-игры | https://habrahabr.ru/post/292810/
+
+Продюсер завтрашнего дня (часть 3) | https://habrahabr.ru/post/292760/
+
+Mail.ru Group стал лидером в неигровом сегменте рынка мобильных приложений России | https://habrahabr.ru/post/292684/
+
+Продюсер завтрашнего дня (часть 2) | https://habrahabr.ru/post/292672/
+
+Треть доходов от продаж и сопровождения систем управления предприятием остается в России | https://habrahabr.ru/post/292674/
+
+Китай станет крупнейшим рынком для мобильных игр: выручка производителей в этой стране составит 1/5 часть от мировой | https://habrahabr.ru/post/292650/
+
+Продюсер завтрашнего дня (часть 1) | https://habrahabr.ru/post/292638/
+
+Компания Lenovo показала рекордный рост продаж своих смартфонов на российском рынке | https://habrahabr.ru/post/292636/
+
+Все, что вы хотели узнать о Cortex – новой группе Twitter по разработкам, связанным с искусственным интеллектом | https://habrahabr.ru/post/292580/
+
+Прирост абонентов ШПД «Ростелекома» впервые превысил суммарный прирост конкурентов | https://habrahabr.ru/post/292500/
+
+«Яндекс» собирается увеличить количество мобильных разработчиков | https://habrahabr.ru/post/292490/
+
+На дорогие смартфоны в России приходится 25% выручки от продаж умных телефонов | https://habrahabr.ru/post/292466/
+
+Нам надо поговорить о стартапах | https://habrahabr.ru/post/292350/
+
+В первом полугодии российский рынок смартфонов и планшетов значительно сократился | https://habrahabr.ru/post/292330/
+
+Процентных ставок больше нет | https://habrahabr.ru/post/292324/
+
+Прибыль компании Samsung падает уже в течение семи месяцев | https://habrahabr.ru/post/292308/
+
+Смарт-технологии в автомобилях могут стать серьезным конкурентом для смартфонов | https://habrahabr.ru/post/292260/
+
+Гид Университета Иннополис по конкурсам и грантам | https://habrahabr.ru/company/innopolis_university/blog/292226/
+
+40% компаний могут уйти с рынка из-за цифровой революции | https://habrahabr.ru/post/292062/
+
+Почему не нужно учиться программировать | https://habrahabr.ru/company/kidsncode/blog/292032/
+
+Сохранение банковской тайны в Украине под угрозой | https://habrahabr.ru/company/lawboot/blog/291858/
+
+В зоне .ru стало меньше доменов | https://habrahabr.ru/post/291852/
+
+Дорога в 500 Мб: от любви до ненависти к Yota | https://habrahabr.ru/post/291726/
+
+Web Audio: время пришло | https://habrahabr.ru/company/molgav/blog/291724/
+
+Все сотовые операторы России зафиксировали отток абонентов | https://habrahabr.ru/post/291692/
+
+Новые вызовы для IT отрасли | https://habrahabr.ru/post/291686/
+
+Популярность платежных терминалов в России снижается | https://habrahabr.ru/post/291672/
+
+В какой день лучше писать на «Мегамозге»? | https://habrahabr.ru/company/fixico/blog/291632/
+
+«Молодежь не смотрит телевизор» – один из выводов ежегодного «Отчета о состоянии цифровых новостей» | https://habrahabr.ru/post/291614/
+
+Мессенджеры: развивая интернет | https://habrahabr.ru/company/chateam/blog/291578/
+
+25% установленных мобильных приложений никто не использует | https://habrahabr.ru/post/291536/
+
+Сотовые операторы России потеряли около 20 миллиардов рублей годовой выручки из-за популярности мессенджеров | https://habrahabr.ru/post/291488/
+
+«Любовь и ненависть» на карте России, лето 2015: исследование эмоционального состояния 25 млн пользователей социальных медиа | https://habrahabr.ru/company/brandanalytics/blog/291454/
+
+Интернет-магазины приучают покупателей платить онлайн | https://habrahabr.ru/post/291428/
+
+Социальные сети в России, весна 2015. Цифры, тренды, прогнозы | https://habrahabr.ru/company/brandanalytics/blog/291390/
+
+QR-код Шредингера: когда монохромный рисунок «оживет»? | https://habrahabr.ru/company/skbkontur/blog/291380/
+
+ТСД на Android — перспективы и существующие решения | https://habrahabr.ru/post/291306/
+
+К 2020 году у 2/3 населения Земли будут смартфоны | https://habrahabr.ru/post/291246/
+
+Треть проданных в 2015 году планшетов будут подключены к сети по 3G и LTE | https://habrahabr.ru/post/291108/
+
+Мировые продажи дронов активно растут | https://habrahabr.ru/post/291060/
+
+Темпы роста количества пользователей Интернета замедляются | https://habrahabr.ru/post/291022/
+
+Выручка Cisco на российском рынке снижается из-за санкций | https://habrahabr.ru/post/291018/
+
+Краткое исследование сервисов для бизнеса | https://habrahabr.ru/post/290958/
+
+Онлайн-продажи электроники и бытовой техники в рунете сократились на 10% | https://habrahabr.ru/post/290926/
+
+Интернет-проекты РБК в 2014 году сократили выручку | https://habrahabr.ru/post/290890/
+
+Алфавит венчурного инвестирования | https://habrahabr.ru/post/290634/
+
+Мой Универ — зачем и для кого мы делаем конструктор образовательных приложений | https://habrahabr.ru/company/moyuniver/blog/289748/
+
+Тенденции в e-commerce | https://habrahabr.ru/company/irupay/blog/290530/
+
+Разработка под Apple Watch: мифы и факты | https://habrahabr.ru/company/pomodoro/blog/290486/
+
+Эрик Шмидт и Джаред Коэн. Революция Data Science | https://habrahabr.ru/post/290458/
+
+Android опередил iOS по доходам от показов рекламы в соцсетях и играх на мобильных устройствах | https://habrahabr.ru/post/290404/
+
+Темпы роста AliExpress замедлились из-за девальвации рубля | https://habrahabr.ru/post/290402/
+
+Объем импорта персональных компьютеров в Россию сократился на 44% | https://habrahabr.ru/post/290364/
+
+«Яндекс» оценил риски для своего бизнеса | https://habrahabr.ru/post/290214/
+
+Стоимость Avito оценили почти в $1 млрд | https://habrahabr.ru/post/290186/
+
+Twitter считает Россию приоритетным рынком | https://habrahabr.ru/post/290152/
+
+Сериал: Big Data — как мечта. 8-я серия. Нетехническая. Модульная журналистика   | https://habrahabr.ru/company/brandanalytics/blog/290072/
+
+Американские IT-гиганты потеряют $20 миллиардов из-за усиления доллара | https://habrahabr.ru/post/290064/
+
+Xiaomi планирует нарастить выручку от мобильных услуг до $1 млрд | https://habrahabr.ru/post/290052/
+
+Кризис венчурных инвестиций неизбежен | https://habrahabr.ru/post/290034/
+
+Сериал: Big Data — как мечта. 7-я серия. Большие вакансии для Больших Данных | https://habrahabr.ru/company/brandanalytics/blog/290006/
+
+Падение рубля может способствовать росту рынка интернет-хостинга в РФ | https://habrahabr.ru/post/289964/
+
+Умный поиск или что можно улучшить в поиске на сайте | https://habrahabr.ru/company/smartsearch/blog/289866/
+
+InfoWatch в 2014 году увеличил выручку на 67% благодаря кризису | https://habrahabr.ru/post/289884/
+
+TNS Russia: рост аудитории Рунета замедляется | https://habrahabr.ru/post/289852/
+
+В России растут продажи «операторских» и бюджетных моделей смартфонов | https://habrahabr.ru/post/289824/
+
+Nokia может вернуться на рынок смартфонов уже в следующем году | https://habrahabr.ru/post/289788/
+
+Российские экспортёры ПО выигрывают от ослабления рубля | https://habrahabr.ru/post/289712/
+
+Сериал: Big Data — как мечта. 6-я серия. BD (Bolt Data) — Быстрые Big Data данные | https://habrahabr.ru/company/brandanalytics/blog/289700/
+
+Что такое 1С? 1С Франчайзинг.Часть 2 | https://habrahabr.ru/company/trinion/blog/289596/
+
+Что такое 1С? 1С Франчайзинг. Часть 1 | https://habrahabr.ru/company/trinion/blog/289594/
+
+Facebook тратит миллионы долларов на рекламу в оффлайне | https://habrahabr.ru/post/289532/
+
+Samsung занялся изучением Bitcoin | https://habrahabr.ru/post/289528/
+
+Программисты и языки программирования: кому платят больше всего? | https://habrahabr.ru/post/289516/
+
+Мировой рынок IPO сократился на 31% | https://habrahabr.ru/post/289508/
+
+В каких IT-компаниях хотят работать российские студенты | https://habrahabr.ru/post/289502/
+
+Сериал: Big Data — как мечта. Незапланированная 5-я серия: Большая игра. Частное мнение | https://habrahabr.ru/company/brandanalytics/blog/289500/
+
+Цукерберг обеспечивает бесплатным интернетом страны «третьего мира» | https://habrahabr.ru/post/289472/
+
+Простейший финансовый анализ компании | https://habrahabr.ru/post/289456/
+
+Яндекс: интернетом в России пользуются 72,3 миллиона человек | https://habrahabr.ru/post/289312/
+
+Tesla улучшила показатели продаж на 55% по сравнению с первым кварталом 2014 года | https://habrahabr.ru/post/289286/
+
+Сериал: Big Data — как мечта. 4-я серия. Революция мозгов | https://habrahabr.ru/company/brandanalytics/blog/289268/
+
+«Почта России» планирует потратить до 6 млрд на услуги внешнего дата-центра | https://habrahabr.ru/post/289194/
+
+Рынок краудфандинга в 2015 году вырастет в два раза и составит $34,4 миллиарда | https://habrahabr.ru/post/289178/
+
+Топ 10 мифов облачных технологий по версии Gartner | https://habrahabr.ru/company/veeam/blog/254399/
+
+Исследовательская компания IDC докладывает о росте рынка «умных» вещей | https://habrahabr.ru/post/289092/
+
+Сериал: Big Data — как мечта. 3-я серия. «Кнопка Обамы» | https://habrahabr.ru/company/brandanalytics/blog/289028/
+
+Сериал: Big Data — как мечта. 1-я серия | https://habrahabr.ru/company/brandanalytics/blog/287004/
+
+Cantor Fitzerald прогнозирует повышение капитализации Apple до $1 триллиона | https://habrahabr.ru/post/286958/
+
+MoneyTree. Навигатор венчурного рынка | https://habrahabr.ru/post/286934/
+
+The Walt Disney — самая прибыльная компания Голливуда в 2014 году | https://habrahabr.ru/post/286900/
+
+Bloomberg обвиняет «Лабораторию Касперского» в тесных связях с российской разведкой | https://habrahabr.ru/post/286890/
+
+У «Роснано» появились новые источники доходов и новая стратегия | https://habrahabr.ru/post/286872/
+
+Инфографика «Путешествие денег: туда и обратно за несколько секунд» | https://habrahabr.ru/company/payonline/blog/253533/
+
+Apple продолжает поиск партнеров для запуска интернет-телевидения | https://habrahabr.ru/post/286786/
+
+Сервис Uber привел к разорению крупнейшего игрока в нью-йоркском такси-бизнесе | https://habrahabr.ru/post/286758/
+
+Общественная палата против «антипиратского сбора» | https://habrahabr.ru/post/286752/
+
+Intel снижает прогноз по выручке за первый квартал на $1 млрд | https://habrahabr.ru/post/286700/
+
+Спрос на технику в России падает, несмотря на праздники | https://habrahabr.ru/post/286694/
+
+Qiwi уходит с зарубежных рынков | https://habrahabr.ru/post/286678/
+
+Кризис — хорошее время для инвестиций | https://habrahabr.ru/post/286652/
+
+В 2014 году российский рынок ИТ-услуг сократился на 15% | https://habrahabr.ru/post/286648/
+
+Аудитория интернет-ресурсов для туристов сократилась на 24% | https://habrahabr.ru/post/286572/
+
+Google Ventures в поисках бессмертия | https://habrahabr.ru/post/286542/
+
+Городская система видеонаблюдения Москвы: 3,85 млрд рублей в 2015 году | https://habrahabr.ru/post/286516/
+
+Схема авторизации с использованием электронных цифровых подписей вместо парольной защиты | https://habrahabr.ru/post/286508/
+
+«Эр-Телеком» планирует удвоить бизнес в ближайшие 5 лет | https://habrahabr.ru/post/286504/
+
+Пароли — это прошлый век, в дальнейшем требуются новые методы авторизации и хранения личных данных | https://habrahabr.ru/post/286476/
+
+Индекс Nasdaq Composite впервые за 15 лет превысил 5000 пунктов | https://habrahabr.ru/post/286470/
+
+FairSearch занял сторону «Яндекс» в конфликте с Google | https://habrahabr.ru/post/286464/
+
+Сервис OneTwoTrip привлек $8 млн от фонда Goldman Sachs | https://habrahabr.ru/post/286406/
+
+Цены на iPhone в России растут, но объем продаж не падает | https://habrahabr.ru/post/286404/
+
+Как Xiaomi планирует повысить продажи смартфонов на 30% | https://habrahabr.ru/post/286400/
+
+YotaPhone 2 начинает мировую экспансию | https://habrahabr.ru/post/286398/
+
+Почему большинство россиян стали жертвами кибермошенничества? | https://habrahabr.ru/post/286386/
+
+Samsung уступит Apple лидерство на мировом рынке смартфонов | https://habrahabr.ru/post/286370/
+
+Uber, похоже, уничтожает бизнес традиционных таксопарков | https://habrahabr.ru/post/286360/
+
+Задолженность абонентов российских операторов связи может достигнуть 29,5 млрд рублей | https://habrahabr.ru/post/286322/
+
+Microsoft собирается купить новостное приложение Prismatic | https://habrahabr.ru/post/286308/
+
+На российском рынке сократят долю импортного софта | https://habrahabr.ru/post/286298/
+
+9 марта компания Apple сделает то, что не делала в течение последних 5 лет | https://habrahabr.ru/post/286286/
+
+Apple нанимает специалистов по виртуальной реальности | https://habrahabr.ru/post/286264/
+
+Стартап Layer: старая сказка на новый лад | https://habrahabr.ru/post/286252/
+
+Сменился директор компании Huawei в России | https://habrahabr.ru/post/286236/
+
+По итогам 2014 года, игры и социальные сервисы – основные точки роста доходов Mail.ru Group | https://habrahabr.ru/post/286214/
+
+7 интригующих прогнозов в электронной коммерции на 2015 год | https://habrahabr.ru/company/payu/blog/286182/
+
+Объем продаж YotaPhone 2 аршином общим не измерить | https://habrahabr.ru/post/286166/
+
+Самые «умные» часы: краудфандинг, спрос, прогнозы, результаты | https://habrahabr.ru/post/286164/
+
+Добавьте в закладки несколько прорывных технологий | https://habrahabr.ru/post/286160/
+
+Кто собирается заработать на грядущем буме систем искусственного интеллекта? | https://habrahabr.ru/post/286116/
+
+Стартапы Pinterest и Snapchat готовятся к новому раунду финансирования | https://habrahabr.ru/post/286100/
+
+Продолжается передел акций Luxoft | https://habrahabr.ru/post/286084/
+
+Kickstarter: статистика успешных и провальных проектов | https://habrahabr.ru/company/alconost/blog/286044/
+
+Марк Майо станет главой нового подразделения Mozilla | https://habrahabr.ru/post/286058/
+
+Sony постепенно продает «электронные» подразделения | https://habrahabr.ru/post/286048/
+
+По итогам 2014 года рост чистой прибыли «Яндекса» составил 26% | https://habrahabr.ru/post/286018/
+
+Электромобиль Apple Car: миф или реальность? | https://habrahabr.ru/post/286002/
+
+Репортаж «Мегамозга» с конференции TEDx Moscow | https://habrahabr.ru/post/285990/
+
+Алмазная реанимация закона Мура | https://habrahabr.ru/post/285984/
+
+Цены на стартапы растут как снежный ком. Куда мы катимся? | https://habrahabr.ru/post/285968/
+
+Продажи смартфонов в этом году не вырастут, но и не упадут | https://habrahabr.ru/post/285956/
+
+Сколько жить осталось Google? | https://habrahabr.ru/post/285928/
+
+3 факта, которые вы хотели знать о Xiaomi, но боялись спросить | https://habrahabr.ru/post/285926/
+
+Apple, нефтяная компания? | https://habrahabr.ru/post/285890/
+
+Прогнозирование и технологические тупики | https://habrahabr.ru/post/285864/
+
+Российские студенты не вполне доверяют онлайн-образованию | https://habrahabr.ru/post/285828/
+
+Инвестфонд Life.Sreda, похоже, сворачивает свою деятельность в России | https://habrahabr.ru/post/285806/
+
+Технологии зашли в тупик в 1970-х | https://habrahabr.ru/post/285778/
+
+Твиттер-поддержка открытой мобильной экосистемы | https://habrahabr.ru/post/285762/
+
+Метод выявления «троллей» в сетевых сообществах на примере Q&AC | https://habrahabr.ru/post/284052/
+
+Рынок интернет-торговли в России в 2014 году превысил 683 миллиарда рублей | https://habrahabr.ru/post/284000/
+
+Впервые сократились поставки Android-смартфонов | https://habrahabr.ru/post/283932/
+
+Nokia увеличила прибыль за 4 квартал, но стоимость акций падает | https://habrahabr.ru/post/283912/
+
+Минкомсвязи подвело итоги «Часа кода»: в акции приняли участие более 7 миллионов школьников | https://habrahabr.ru/post/283850/
+
+Apple — скучная компания? | https://habrahabr.ru/post/283846/
+
+Глава Минкомсвязи России обсудил вопросы сотрудничества с министром информации Беларуси | https://habrahabr.ru/post/283830/
+
+2015: год Учащегося | https://habrahabr.ru/post/283822/
+
+«Facebook — это AOL нашего времени» или 90-е возвращаются | https://habrahabr.ru/post/283614/
+
+Котировки «Яндекса» и CTC Media рухнули до исторического минимума | https://habrahabr.ru/post/283598/
+
+10 ключевых стратегических технологий 2015 по версии Gartner | https://habrahabr.ru/company/veeam/blog/246865/
+
+Как уходящий год повлиял на наши зарплаты? | https://habrahabr.ru/post/246389/
+
+Рунет в картинках XVIII. Банковские карты в России и мире | https://habrahabr.ru/company/payonline/blog/242071/
+
+Как помочь софту в РФ | https://habrahabr.ru/post/238883/
+
+Фитнес-трекер позволил определить эпицентр землетрясения | https://habrahabr.ru/post/234509/
+
+Энергонезависимый дом: год успешного эксперимента | https://habrahabr.ru/post/233821/
+
+Apple и IBM стали союзниками в завоевании корпоративного рынка | https://habrahabr.ru/post/230157/
+
+Возможно ли создать сильный искусственный интеллект, не копируя человеческий мозг? | https://habrahabr.ru/post/223987/
+
+Советское культурное и научное наследие освобождается от оков копирайта. Расширение режима «общественного достояния» | https://habrahabr.ru/post/223701/
+
+Борьба с пиратством набирает оборот. А надо ли? А если надо, то как? Что думаешь ты? | https://habrahabr.ru/post/223369/
+
+Что такое IT-сообщество? | https://habrahabr.ru/post/221613/
+
+Какие требования сегодня могут быть выдвинуты и озвучены айтишниками? | https://habrahabr.ru/post/221471/
+
+От IT-проповедника до проектировщика медицинских роботов: будущие профессии в IT и робототехнике | https://habrahabr.ru/post/220021/
+
+Как мы деньги привлекали или 13 историй российских инвесторов | https://habrahabr.ru/post/219955/
+
+Нужны ли менеджеры в IT? | https://habrahabr.ru/post/219741/
+
+Google покупает Titan AeroSpace, несмотря на неопределенность с коммерческим использованием дронов | https://habrahabr.ru/post/219399/
+
+Кем работать мне тогда, чем заниматься? | https://habrahabr.ru/post/218505/
+
+Зачем Intel делает ставку на Google Chrome OS? | https://habrahabr.ru/post/218289/
+
+Рунет в картинках XIV. «Ростовщики без ничего святого» или самый быстрорастущий сегмент российского финансового рынка | https://habrahabr.ru/company/payonline/blog/217709/
+
+Почему компании отказываются от лучших сотрудников? | https://habrahabr.ru/post/217679/
+
+Исследование: будущее рынка дронов | https://habrahabr.ru/post/216801/
+
+Самолетом, поездом, машиной – что в будущем? | https://habrahabr.ru/post/216567/
+
+Кем быть в XXI веке, если папа и дедушка – энергетики? | https://habrahabr.ru/post/215347/
+
+Рунет в картинках XIII. Электронные кошельки в Рунете | https://habrahabr.ru/company/payonline/blog/214419/
+
+Атлас новых профессий-1. Биотехнологии и медицина | https://habrahabr.ru/post/214101/
+
+Почему Google Glass провалятся и почему это не остановит успех «умных» очков | https://habrahabr.ru/post/213465/
+
+Риски ИИ от LessWrong.com, часть 1: интервью с Шейном Леггом из DeepMind | https://habrahabr.ru/post/213069/
+
+IBM может избавиться от полупроводникового бизнеса | https://habrahabr.ru/post/211855/
+
+20 профессий будущего | https://habrahabr.ru/post/211220/
+
+Последствия поглощения Motorola Mobility альянсом IBM-Lenovo | https://habrahabr.ru/post/211008/
+
+Как лечат интернет-зависимых в Китае: репортаж Нью-Йорк Таймс | https://habrahabr.ru/post/210010/
+
+Google показал динамику популярности музыкальных направлений за последние 64 года | https://habrahabr.ru/post/209458/
+
+Парадокс предсказателя | https://habrahabr.ru/post/209306/
+
+Витгенштейн и Google Wave/Buzz/Plus | https://habrahabr.ru/post/208524/
+
+Патентная политика Apple в последние годы. Взгляд со стороны | https://habrahabr.ru/post/208428/
+
+Корейцы сделали наноробота для борьбы с раком | https://habrahabr.ru/post/208370/
+
+Почему за рыночной долей 80% может скрываться лишь половина пользователей смартфонов | https://habrahabr.ru/post/208154/
+
+2014 год глазами Айзека Азимова: предсказания из 1964 года | https://habrahabr.ru/post/208144/
+
+Уже скоро новое рабство: теперь с витаминами и минералами | https://habrahabr.ru/post/206850/
+
+Интеллект, язык и WikiPedia – есть ли взаимосвязь? | https://habrahabr.ru/post/207586/
+
+Hypercontext & Reality Operating System | https://habrahabr.ru/post/207068/
+
+Один прогноз, данный 15 лет назад | https://habrahabr.ru/post/206568/
+
+Рунет в картинках XI. Онлайн кредитование в России: возможности и перспективы | https://habrahabr.ru/company/payonline/blog/204136/
+
+Применение теории распознования образов в рекламной среде | https://habrahabr.ru/post/203020/
+
+Рунет в картинках — X. Мобильный Интернет в России (часть 2) | https://habrahabr.ru/company/payonline/blog/199362/
+
+Рунет в картинках — IX. Мобильный Интернет в России (часть первая) | https://habrahabr.ru/company/payonline/blog/199326/
+
+Узбеки и IT | https://habrahabr.ru/post/199264/
+
+Математическая модель предсказывает исход кампании на Кикстартере с 76%-й достоверностью через 4 часа после её начала | https://habrahabr.ru/post/198166/
+
+Как Github и StackOverflow могут свергнуть LinkedIn и другие порталы для поиска ИТ специалистов | https://habrahabr.ru/post/198014/
+
+Windows Phone 8 такая, какой её задумали разработчики | https://habrahabr.ru/post/196742/
+
+Опрос: почему люди увольняются | https://habrahabr.ru/post/195202/
+
+Рунет в картинках. Часть 8. Не дайте мошенникам украсть прибыль вашего интернет-магазина | https://habrahabr.ru/company/payonline/blog/193498/
+
+Рамочная программа Евросоюза «Горизонт 2020» | https://habrahabr.ru/post/191404/
+
+Глава Microsoft уходит в отставку. Оптимистичный вариант статьи | https://habrahabr.ru/post/191202/
+
+Есть ли в вашей компании электронная база знаний? | https://habrahabr.ru/post/190946/
+
+Индексируют ли вам заработную плату? | https://habrahabr.ru/post/190636/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 19 | https://habrahabr.ru/post/190542/
+
+Рунет в картинках. Шоппинг без границ | https://habrahabr.ru/company/payonline/blog/190290/
+
+Лайк порождает лайк: что влияет на рейтинг в интернете | https://habrahabr.ru/post/189612/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 18 | https://habrahabr.ru/post/188952/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 17 | https://habrahabr.ru/post/187742/
+
+ПЧЕЛИНЫЕ СОТЫ как перспективная ветвь развития компьютерных технологий | https://habrahabr.ru/post/186154/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 16 | https://habrahabr.ru/post/185978/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 15 | https://habrahabr.ru/post/185246/
+
+Рунет в картинках. Новый выпуск | https://habrahabr.ru/company/payonline/blog/185008/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 14 | https://habrahabr.ru/post/181858/
+
+Рунет в картинках. Выпуск 3. Гиганты Рунета — или в каких интернет-магазинах закупаются россияне? | https://habrahabr.ru/company/payonline/blog/180549/
+
+Опрос: Какие технологии использовались на AngelHack? | https://habrahabr.ru/post/180449/
+
+Рунет в картинках. Электронная коммерция в Рунете. Как россияне совершают покупки в Интернете | https://habrahabr.ru/company/payonline/blog/180413/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 13 | https://habrahabr.ru/post/179451/
+
+Освободи разум от Почты России — мысли по поводу идеальной почты | https://habrahabr.ru/post/176601/
+
+Я хочу сделать стартап, ждет ли меня успех? | https://habrahabr.ru/post/176377/
+
+У электронной коммерции будущего — «японское лицо» | https://habrahabr.ru/company/payonline/blog/176383/
+
+eBay планирует «заполонить планету» к 2015 году | https://habrahabr.ru/company/payonline/blog/176081/
+
+Оцифровка человека: мы не готовы | https://habrahabr.ru/post/175011/
+
+Как крупные корпорации убивают маленькие стартапы | https://habrahabr.ru/post/174335/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 12 | https://habrahabr.ru/post/173675/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 11 | https://habrahabr.ru/post/171355/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 10 | https://habrahabr.ru/post/170465/
+
+Как мы покупаем технологии | https://habrahabr.ru/post/169945/
+
+Шумиха вокруг скорейшего краха Nokia не обоснована или о чем же недоговаривают аналитики? | https://habrahabr.ru/post/168983/
+
+Android. Эволюция, статистика, факты | https://habrahabr.ru/post/167027/
+
+Что стопорит инновации в Силиконовой долине? | https://habrahabr.ru/company/alconost/blog/165847/
+
+Золотая и кремниевая лихорадки — что общего? | https://habrahabr.ru/post/163817/
+
+Готовы ли вы переехать из-за нового места работы? | https://habrahabr.ru/post/163955/
+
+013.jpg или Принцессы не какают | https://habrahabr.ru/post/162053/
+
+Рэй Курцвейл стал техническим директором Google | https://habrahabr.ru/post/162705/
+
+Каждые 3 месяца в США создается софтверная хай-тек компания стоимостью миллиард долларов | https://habrahabr.ru/post/162179/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 9 | https://habrahabr.ru/post/161939/
+
+Вы по поводу работы? Срочно в отдел кадров, к Андроиду! У него на 35 000% больше вакансий | https://habrahabr.ru/post/161727/
+
+Ежегодный отчет Мэри Микер о трендах в сети: Доля поставок Android+iOS растёт (45% против 35% у Windows) | https://habrahabr.ru/post/161541/
+
+Битва экосистем продолжается: Самых упорных могут затащить в Facebook через Whatsapp | https://habrahabr.ru/post/161383/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 8 | https://habrahabr.ru/post/161185/
+
+Windows 9 назовут «Windows Blue»? Появились первые детальные предположения о преемнике Windows 8 | https://habrahabr.ru/post/160991/
+
+Microsoft продала 40 миллионов лицензий Windows 8 — вот только кому? | https://habrahabr.ru/post/160811/
+
+Несколько дополнительных мыслей о будущем ИТ на 2012-17 гг | https://habrahabr.ru/post/160649/
+
+Естественная смерть монополий | https://habrahabr.ru/post/160607/
+
+Гадание на кофейной гуще, или каким будет IT через 5 лет? | https://habrahabr.ru/post/160587/
+
+Каталог компаний — экспортёров ИТ-решений Санкт-Петербурга | https://habrahabr.ru/post/160479/
+
+Промышленный интернет сможет добавить 15 триллионов долларов к мировому ВВП | https://habrahabr.ru/post/160463/
+
+Битвы экосистем: как технологические империи могут начать войну за контроль цифровой жизни пользователей | https://habrahabr.ru/post/160319/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 7 | https://habrahabr.ru/post/159829/
+
+О журналистах, социальных сетях и здравом смысле | https://habrahabr.ru/post/159841/
+
+Microsoft терпит неудачу? | https://habrahabr.ru/post/159809/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 6 | https://habrahabr.ru/post/159307/
+
+Введение в моделирование пешеходных потоков | https://habrahabr.ru/post/158975/
+
+Что случилось с AMD? | https://habrahabr.ru/post/158849/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 5 | https://habrahabr.ru/post/158811/
+
+Бюджеты на R&D или на что влияют исследования в микроэлектронике | https://habrahabr.ru/post/157715/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 4 | https://habrahabr.ru/post/156575/
+
+Железный ренессанс | https://habrahabr.ru/post/155983/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 3 | https://habrahabr.ru/post/155841/
+
+Google рассказал, где и как владельцы планшетов используют свои девайсы | https://habrahabr.ru/post/155741/
+
+О глобальном: моделирование создания/разрешения проблем | https://habrahabr.ru/post/155009/
+
+Капсула времени | https://habrahabr.ru/post/154325/
+
+Зачем делиться опытом или Зачем писать статьи на Хабр? | https://habrahabr.ru/post/154231/
+
+Потрясающая, но невидимая глубина | https://habrahabr.ru/post/152593/
+
+Кандидат на роль Стива Джобса | https://habrahabr.ru/post/152187/
+
+Freedom House опубликовала доклад «Свобода в интернете 2012». Россия в группе риска | https://habrahabr.ru/post/152167/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 2 | https://habrahabr.ru/post/152106/
+
+Курс лекций «Стартап». Питер Тиль. Стенфорд 2012. Занятие 1 | https://habrahabr.ru/post/151193/
+
+Как вести бизнес в мрачном свете кризиса доверия? | https://habrahabr.ru/post/150120/
+
+Существуют ли серые выплаты/зарплаты в вашей компании | https://habrahabr.ru/post/149745/
+
+Выберите множественную форму слова СЕРВЕР | https://habrahabr.ru/post/148780/
+
+Хотели бы вы, чтобы ваша вторая половинка работала бы вместе с вами? | https://habrahabr.ru/post/148221/
+
+Gmail, похоже, стал крупнейшим почтовым сервисом | https://habrahabr.ru/post/146826/
+
+Эмпирический анализ аппаратных сбоев на миллионе ПК | https://habrahabr.ru/post/146608/
+
+Цены на SSD продолжают снижаться | https://habrahabr.ru/post/146430/
+
+Инновации не прекратились, они просто ушли в облака | https://habrahabr.ru/post/144322/
+
+Золотой век Кремниевой долины окончен, и мы танцуем на её могиле | https://habrahabr.ru/post/144110/
+
+Что такое информационный объект | https://habrahabr.ru/post/143551/
+
+И опять краудфандинг: сегодня по-американски | https://habrahabr.ru/post/143353/
+
+Как вы снимаете стресс? | https://habrahabr.ru/post/142919/
+
+Алгоритм жизни с техническим складом ума | https://habrahabr.ru/post/142623/
+
+Компьютерная лингвистика бессильна нам помочь в обработке текстов | https://habrahabr.ru/post/142424/
+
+Bloomberg в 2007 году после релиза iPhone: «Apple продаст парочку устройств своим фанатам, но революции на рынке однозначно не сделает» | https://habrahabr.ru/post/142313/
+
+Разработчик ПО остаётся лучшей профессией в США | https://habrahabr.ru/post/142112/
+
+Итог опроса о складчине (1½ суток спустя) в ряду других примеров хабрахабровской складчины | https://habrahabr.ru/post/141651/
+
+Когда уже закончатся IPv4? | https://habrahabr.ru/post/139981/
+
+Если Вы все еще думаете, делать бизнес в интернете или нет | https://habrahabr.ru/post/139752/
+
+Катастрофа с инновациями в России | https://habrahabr.ru/post/138709/
+
+Современные языковые войны | https://habrahabr.ru/post/136574/
+
+Развитие IT на ближайшие 15-20 лет: про носители можно будет забыть | https://habrahabr.ru/post/136549/
+
+Youtube ratings | https://habrahabr.ru/post/136248/
+
+Хабрахабр — призёр РОТОР 2011 | https://habrahabr.ru/post/133982/
+
+Почему рушатся IT-компании | https://habrahabr.ru/post/127805/
+
+Технологизация современного человека — угроза идентичности | https://habrahabr.ru/post/127080/
+
+Частотный анализ украинского языка | https://habrahabr.ru/post/124553/
+
+В Южной Корее собираются заменить все бумажные книги электронными к 2015 году | https://habrahabr.ru/post/123296/
+
+Мгновенная передача данных в сети | https://habrahabr.ru/post/116650/
+
+Директор «Фонда Викимедиа» признала наличие у Википедии серьёзных проблем | https://habrahabr.ru/post/115487/
+
+Дружелюбный интерфейс или казуализация: добро или зло | https://habrahabr.ru/post/114963/
+
+Есть ли интернет на марсе или взгляд в будущее | https://habrahabr.ru/post/112109/
+
+Инженер-программист и математик — лучшие профессии 2011 года в США | https://habrahabr.ru/post/111664/
+
+Моё путешествие в будущее | https://habrahabr.ru/post/110174/
+
+Разочарование интернетом & Интернет не оправдал надежд | https://habrahabr.ru/post/106860/
+
+Перевод часов на зимнее время: экономика, здоровье или ...? | https://habrahabr.ru/post/106776/
+
+Магия чисел | https://habrahabr.ru/post/100010/
+
+Метаматериалы или какие возможности нас ждут в будущем | https://habrahabr.ru/post/98808/
+
+Apple, Google, Microsoft: кого ждёт процветание? | https://habrahabr.ru/post/85341/
+
+Исследование Forrester — Identity and Access Management | https://habrahabr.ru/post/76763/
+
+CIO анфас и в профиль — версия IBM | https://habrahabr.ru/post/76419/
+
+Кто есть кто в облаках, часть 2 | https://habrahabr.ru/post/73687/
+
+Кто есть кто в облаках, часть 1 | https://habrahabr.ru/post/73564/
+
+Диагностируем ложь… | https://habrahabr.ru/post/72704/
+
+Надвигающаяся битва между Apple, Google и Microsoft | https://habrahabr.ru/post/69237/
+
+Интернет 2008 в цифрах | https://habrahabr.ru/post/51501/
+
+Компании, которых не будет с нами в 2010 | https://habrahabr.ru/post/49093/
+
+Platform-A самая крупная рекламная сеть на рынке Интернет рекламы | https://habrahabr.ru/post/23647/
+
+Социальные сети. Впереди планеты всей | https://habrahabr.ru/post/21428/
+
+PPC реклама. Воруют ли наши клики? | https://habrahabr.ru/post/20840/
+
+Итоги. Интернет Индустрия.com 2007 | https://habrahabr.ru/post/31342/
+
+CTR позиций в поисковой выдаче | https://habrahabr.ru/post/13551/
+
+Будущие аватары смогут манипулировать людьми | https://habrahabr.ru/post/11974/
+
+«Live ink» — прорыв в технологиях представления информации | https://habrahabr.ru/post/8309/
+
+«Рамблер» берет качеством? | https://habrahabr.ru/post/6509/
+
+Родители против потребления детьми мобильного контента | https://habrahabr.ru/post/5338/
+
+В России «мобильна» только половина населения | https://habrahabr.ru/post/3458/
+
+J&P: Цифровой контент в России в 2006-2010 гг. | https://habrahabr.ru/post/3149/
+

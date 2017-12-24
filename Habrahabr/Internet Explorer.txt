@@ -1,0 +1,268 @@
+«Человек посередине», использующий отозванные сертификаты. Часть 2 | https://habrahabr.ru/company/neobit/blog/334714/
+
+Selenium под Windows: все с начала | https://habrahabr.ru/post/329256/
+
+Кроссбраузерная отправка формы с файлом или как переписать весь отправщик несколько раз после тестирования в IE | https://habrahabr.ru/post/325340/
+
+На следующей неделе Microsoft прекращает поддержку всех версий IE, кроме 11 | https://habrahabr.ru/post/274595/
+
+Рисуем вместе. Портрет пользователя ИЕ 8 анфас | https://habrahabr.ru/company/devexpress/blog/274193/
+
+За что Microsoft Edge ненавидит закладки? | https://habrahabr.ru/post/265419/
+
+Эмуляция CORS на стороне клиента: кроссбраузерное решение некоторых пользовательских задач без расширений | https://habrahabr.ru/post/265013/
+
+Букмарклеты в Internet Explorer 11: формат хранения, лимиты и негласные правила, коварный баг | https://habrahabr.ru/post/263443/
+
+Букмарклеты: если XPath недоступен, а селекторов и методов навигации по DOM не хватает | https://habrahabr.ru/post/262853/
+
+Поддержка DOM L3 XPath в Project Spartan | https://habrahabr.ru/post/253595/
+
+И Internet Explorer может быть полезным | https://habrahabr.ru/post/252155/
+
+Надёжный localStorage для букмарклетов | https://habrahabr.ru/post/249949/
+
+XSS-уязвимость нулевого дня в Internet Explorer позволяет атаковать любые сайты | https://habrahabr.ru/company/pt/blog/249809/
+
+Подробности о новом движке рендеринга Microsoft для «Project Spartan» | https://habrahabr.ru/company/microsoft/blog/248997/
+
+Internet Explorer: Переход к живому Edge-режиму — следующий шаг к тому, чтобы веб просто работал | https://habrahabr.ru/company/microsoft/blog/243215/
+
+Уязвимость 19-летней давности позволяет захватить компьютер через Internet Explorer | https://habrahabr.ru/company/pt/blog/243047/
+
+Анонс RemoteIE: тестируем свежую версию Internet Explorer на Windows, Mac OS X, iOS и Android | https://habrahabr.ru/company/microsoft/blog/242271/
+
+SA 3009008 для отключения SSL 3.0 в MS IE | https://habrahabr.ru/company/eset/blog/241979/
+
+Microsoft выпускает хотфикс для обновления MS14-051 | https://habrahabr.ru/company/eset/blog/233603/
+
+Microsoft закроет поддержку небезопасных версий Internet Explorer в 2016 г | https://habrahabr.ru/company/eset/blog/232779/
+
+Microsoft прекратит поддержку старых версий Internet Explorer к 2016 году | https://habrahabr.ru/post/232655/
+
+Internet Explorer будет блокировать устаревшие элементы управления ActiveX | https://habrahabr.ru/company/eset/blog/232567/
+
+Microsoft усиливает иммунитет Internet Explorer к атакам use-after-free | https://habrahabr.ru/company/eset/blog/231003/
+
+Запуск Internet Explorer Developer Channel | https://habrahabr.ru/company/microsoft/blog/226423/
+
+Новая уязвимость Internet Explorer эксплуатируется in-the-wild | https://habrahabr.ru/company/eset/blog/221025/
+
+Обновления Internet Explorer 11 для Windows и анонс IE11 для Windows Phone 8.1 | https://habrahabr.ru/company/microsoft/blog/218087/
+
+Новая IE 0day уязвимость используется для drive-by | https://habrahabr.ru/company/eset/blog/212619/
+
+MS отключает sandboxing для Internet Explorer 11 по умолчанию | https://habrahabr.ru/company/eset/blog/204084/
+
+IE11: Compatibility List vs. X-UA-Compatible | https://habrahabr.ru/post/201358/
+
+Официальный релиз IE11 для Windows 7 | https://habrahabr.ru/post/201312/
+
+Google прекращает поддержку браузера IE 9 | https://habrahabr.ru/post/201174/
+
+Веб-производительность: как Swish.com стал на 40% быстрее | https://habrahabr.ru/company/microsoft/blog/201108/
+
+IE11 preview для Windows 7, обновления для modern.ie, 25% скидка на Parallels для Mac | https://habrahabr.ru/company/microsoft/blog/187868/
+
+IE11 поддерживает WebGL, SPDY/3 и новые средства для разработчиков | https://habrahabr.ru/post/184698/
+
+IE 10, Windows 8 и Metro UI | https://habrahabr.ru/company/yandex/blog/177305/
+
+Internet Explorer 11 поддерживает WebGL | https://habrahabr.ru/post/174865/
+
+Обновление KB2670838 приводит к проблемам в Firefox | https://habrahabr.ru/post/174739/
+
+Internet Explorer vs. Число убийств в США | https://habrahabr.ru/post/174675/
+
+Опубликованы скриншоты Windows Blue и IE 11 | https://habrahabr.ru/post/174127/
+
+Один из разработчиков IE 5.0 рассказал, как они победили Netscape | https://habrahabr.ru/post/173329/
+
+modern.IE — тестирование сайтов для Internet Explorer стало проще! | https://habrahabr.ru/company/microsoft/blog/167787/
+
+Простейший способ делать закругленные углы любого типа в Internet Explorer 6,7,8 без JavaScript | https://habrahabr.ru/post/164595/
+
+IE позволяет отслеживать координаты мыши (даже в другом окне) | https://habrahabr.ru/post/162379/
+
+Вирусный ролик от команды IE про хейтеров браузера | https://habrahabr.ru/company/microsoft/blog/160953/
+
+Расширение LinguaLeo для Opera и Internet Explorer: переводите слова в один клик и улучшайте ваш английский! | https://habrahabr.ru/company/lingualeo/blog/160577/
+
+Бесплатные VM с Windows для тестирования сайтов на старых версиях IE | https://habrahabr.ru/post/158847/
+
+Internet Explorer 10 Preview для Windows 7 уже доступен | https://habrahabr.ru/post/158459/
+
+Mozilla подарила торт Microsoft | https://habrahabr.ru/post/156421/
+
+Yahoo будет игнорировать Do Not Track в Internet Explorer 10 | https://habrahabr.ru/post/156373/
+
+Internet Explorer 10 для Windows 7 в середине ноября | https://habrahabr.ru/post/155167/
+
+Такой опасный Internet Explorer… | https://habrahabr.ru/company/symantec/blog/151816/
+
+До свидания, Internet Explorer 8 | https://habrahabr.ru/post/151536/
+
+Попали под лошадь: «Афиша» в новой рекламе Internet Explorer | https://habrahabr.ru/company/rambler/blog/151334/
+
+6 примеров, роняющих IE6 | https://habrahabr.ru/post/148185/
+
+Код, от которого ломается Internet Explorer | https://habrahabr.ru/post/146297/
+
+Для пользователей IE7 интернет-магазин ввёл специальную комиссию | https://habrahabr.ru/post/145823/
+
+Selectivizr, IE8 и White Screen of Death | https://habrahabr.ru/post/142932/
+
+Создание Windows 8 и IE10 — подборка материалов за март'12 | https://habrahabr.ru/company/microsoft/blog/141701/
+
+Работоспособность Windows без IE | https://habrahabr.ru/post/140425/
+
+7 шагов, чтобы подготовиться к IE10 и Windows 8 | https://habrahabr.ru/company/microsoft/blog/139848/
+
+Создание Windows 8 и IE10 — подборка материалов за февраль'12 | https://habrahabr.ru/company/microsoft/blog/139777/
+
+Репутация логотипа Internet Explorer | https://habrahabr.ru/post/118063/
+
+Microsoft Internet Explorer 1.0 — 9.0 | https://habrahabr.ru/post/115702/
+
+Internet Explorer 9 RTM | https://habrahabr.ru/post/115460/
+
+Делаем свой Tracking Protection List для IE9 | https://habrahabr.ru/post/113881/
+
+Вышел Internet Explorer 9 RC | https://habrahabr.ru/post/113530/
+
+Вкладки под адресной строкой в IE9 | https://habrahabr.ru/post/111827/
+
+HTML5 Labs: добавляем в IE поддержку WebSockets и IndexedDB | https://habrahabr.ru/post/110451/
+
+76 новых материалов на русском | https://habrahabr.ru/post/109788/
+
+Интервью с Джоном Хрватином (John Hrvatin) | https://habrahabr.ru/post/109431/
+
+Наиболее полное руководство по Internet Explorer 9 для разработчиков (и не только), часть 6 | https://habrahabr.ru/post/107322/
+
+Вышел Internet Explorer 9 Platform Preview 6 | https://habrahabr.ru/post/107117/
+
+Встреча с Джоном Хрватином (John Hrvatin), IE Lead Program Manager | https://habrahabr.ru/post/107008/
+
+Internet Explorer 8 получил награду за высокий уровень защищенности | https://habrahabr.ru/post/105757/
+
+Mozilla растаптывает IE | https://habrahabr.ru/post/103686/
+
+В IE9b обнаружены проблемы с поддержкой CSS 2.1 | https://habrahabr.ru/post/104760/
+
+IE9 Презентация в Киеве, как это было | https://habrahabr.ru/post/104400/
+
+Почему, всё-таки, IE9 для XP не будет? | https://habrahabr.ru/post/103927/
+
+Скриншот бета-версии Internet Explorer 9 | https://habrahabr.ru/post/102673/
+
+Презентация Internet Explorer 9 Beta пройдет 15 сентября, открыт промо-сайт | https://habrahabr.ru/post/101644/
+
+Internet Explorer Platform Preview 4. Обзор | https://habrahabr.ru/post/101030/
+
+Улучшения в подсистеме кэширования Internet Explorer 9 | https://habrahabr.ru/post/99432/
+
+Internet Explorer 9: наиболее полное руководство разработчика (и не только), часть 4 | https://habrahabr.ru/post/97386/
+
+Internet Explorer 9 и Chrome 5 — Canvas | https://habrahabr.ru/post/97302/
+
+Internet Explorer 9 Platform Preview 3 | https://habrahabr.ru/post/97280/
+
+Internet Explorer 9: наиболее полное руководство разработчика (и не только), часть 3 | https://habrahabr.ru/post/95954/
+
+Internet Explorer 9 и Safari 5 — аппаратное ускорение | https://habrahabr.ru/post/95818/
+
+О настоящем и будущем SVG | https://habrahabr.ru/post/95670/
+
+Internet Explorer 9: наиболее полное руководство разработчика (и не только), часть 2 | https://habrahabr.ru/post/95238/
+
+Internet Explorer 9 — наиболее полное руководство разработчика (и не только) | https://habrahabr.ru/post/94968/
+
+Internet Explorer 9 (Second Preview) | https://habrahabr.ru/post/92849/
+
+IE9 поддерживает TIFF, JPEG XR и цветовые профили ICC 4 | https://habrahabr.ru/post/90598/
+
+Корпорация Microsoft поведала о том, как во браузере Internet Explorer 9 будет выглядеть строка User-Agent | https://habrahabr.ru/post/88803/
+
+Вести от IE Team после присоединения к SVG WG | https://habrahabr.ru/post/83243/
+
+IE8 стал самым популярным браузером | https://habrahabr.ru/post/82969/
+
+Обновление «странички для счастливых обладателей IE6» | https://habrahabr.ru/post/81784/
+
+Пора прекратить использовать IE6 | https://habrahabr.ru/post/81020/
+
+Nein, Internet Explorer! | https://habrahabr.ru/post/80998/
+
+Страничка для счастливых обладателей IE6 | https://habrahabr.ru/post/80319/
+
+Microsoft присоединяется к рабочей группе SVG | https://habrahabr.ru/post/80082/
+
+IE is Being Mean to Me | https://habrahabr.ru/post/78816/
+
+Визуальный поиск по товарам Softkey для IE8 | https://habrahabr.ru/post/77704/
+
+Глубокая трассировка в Internet Explorer | https://habrahabr.ru/post/75802/
+
+Internet Explorer 9: Первые подробности | https://habrahabr.ru/post/75695/
+
+IE6: Противостояние | https://habrahabr.ru/post/74558/
+
+ИЕ6 — Чахлик Невмирущий | https://habrahabr.ru/post/73292/
+
+Веб-слайсы | https://habrahabr.ru/post/72189/
+
+Бесплатная книга «Internet Explorer 8. Краткий обзор ключевых новинок» | https://habrahabr.ru/post/71150/
+
+IE7 vs. DXTransform или Как баги становятся фичами | https://habrahabr.ru/post/70190/
+
+IE8 и SmartScreen фильтр | https://habrahabr.ru/post/69050/
+
+Уязвимость в RubyOnRails затронула Twitter, но не пользователей IE8 | https://habrahabr.ru/post/68909/
+
+CNews открыл информационный ресурс и собственную сборку IE8 | https://habrahabr.ru/post/68636/
+
+Google сделал свой IE8 | https://habrahabr.ru/post/68211/
+
+Удобное дополнение к IE при написании обзоров | https://habrahabr.ru/post/68067/
+
+IE8 и режим InPrivate | https://habrahabr.ru/post/67928/
+
+Поддержка HTML 5 Networking Events | https://habrahabr.ru/post/64305/
+
+Поддержка HTML 5 DOM Storage | https://habrahabr.ru/post/63704/
+
+IE8 и поддержка стандартов — transparent PNG + opacity, а также data:URI + AlphaImageLoader | https://habrahabr.ru/post/63395/
+
+Простейший плагинчик для Internet Explorer при помощи html, javascript и .inf | https://habrahabr.ru/post/59740/
+
+Internet Explorer 8 — отключение «New tab page» | https://habrahabr.ru/post/59301/
+
+Визуальный поиск для IE8 | https://habrahabr.ru/post/58832/
+
+Нулевой символ внутри тега | https://habrahabr.ru/post/57562/
+
+Требует ли Internet Explorer 8 проверки подлинности системы Windows? | https://habrahabr.ru/post/55028/
+
+Эволюция ie в acid тестах | https://habrahabr.ru/post/55025/
+
+Internet Explorer 8 (официально) | https://habrahabr.ru/post/54978/
+
+Windows Internet Explorer 8 RTW | https://habrahabr.ru/post/54916/
+
+Собран финальный WIE 8.0 RTM | https://habrahabr.ru/post/52637/
+
+IE8: наиболее полное описание нововведений для программиста (и не только) | https://habrahabr.ru/post/48968/
+
+что разработчикам преподнесет Internet Explorer 8? | https://habrahabr.ru/post/48557/
+
+Internet Explorer 8 beta 2 доступен для загрузки на всех языках | https://habrahabr.ru/post/40091/
+
+IE8: Изменения в CSS, подробности для разработчиков | https://habrahabr.ru/post/39446/
+
+Конец CSS expressions | https://habrahabr.ru/post/38910/
+
+Новые механизмы обеспечения безопасности в IE 8 | https://habrahabr.ru/post/38664/
+
+Готовимся к 8 версии | https://habrahabr.ru/post/27284/
+

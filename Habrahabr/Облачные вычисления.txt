@@ -1,0 +1,928 @@
+Искусственный интеллект трансформирует информационную безопасность, но не стоит ждать мгновенных перемен | https://habrahabr.ru/company/vps_house/blog/344664/
+
+Как правильно выбрать базу данных для вашей организации | https://habrahabr.ru/company/tmaxsoft/blog/344418/
+
+Oracle Open World 2017: анонсы «Автономного AI» | https://habrahabr.ru/company/muk/blog/344230/
+
+Четыре релиза 1.0 от CNCF и главные анонсы про Kubernetes с KubeCon 2017 | https://habrahabr.ru/company/flant/blog/344098/
+
+Как мы помогаем быстро аттестоваться по требованиям ИБ тем, кто переезжает в облако | https://habrahabr.ru/company/technoserv/blog/344084/
+
+Что такое виртуализация и как работает виртуальный сервер | https://habrahabr.ru/company/vps_house/blog/344048/
+
+Облачные сервисы IBM Connections и Verse: обзор возможностей | https://habrahabr.ru/company/muk/blog/343982/
+
+EU GDPR: соблюдение требований регуляторов в сфере облачных вычислений | https://habrahabr.ru/company/parallels/blog/343836/
+
+Обзор услуги виртуальный рабочий стол | https://habrahabr.ru/post/343858/
+
+Google, Softline, GDG и #tceh организуют второй «Google Cloud Developer Meetup» | https://habrahabr.ru/company/softline/blog/343502/
+
+Сравниваем то, что нельзя: дешевый хостинг и облако на стеке VMware | https://habrahabr.ru/company/cloud4y/blog/343300/
+
+Как работают дата-центры: сегодня и завтра | https://habrahabr.ru/company/vps_house/blog/343282/
+
+Облачные технологии и моё будущее | https://habrahabr.ru/post/343226/
+
+Детям — мороженое, информационной системе — бэкап | https://habrahabr.ru/company/cloud4y/blog/343126/
+
+Семинар «Облака для критичных систем», 30 ноября, Санкт-Петербург | https://habrahabr.ru/company/dataline/blog/343024/
+
+Управляем Windows Server по SSH в облаке Azure Pack Infrastructure | https://habrahabr.ru/company/infobox/blog/342870/
+
+Drone CI в облаке AWS для DevExtreme | https://habrahabr.ru/company/devexpress/blog/342776/
+
+Компьютерное зрение, разработка облака и конкурс | https://habrahabr.ru/company/ivideon/blog/342618/
+
+Частное облако: «синяя изолента» для сурового энтерпрайза | https://habrahabr.ru/company/vtb/blog/342598/
+
+Новый бесплатный продукт Veeam Availability Console для сервис-провайдеров и крупных компаний | https://habrahabr.ru/company/veeam/blog/342474/
+
+Storage. Multi-tier software-defined storage. Почему, зачем и как реализовано на примере облака MIRhosting | https://habrahabr.ru/company/jelastic/blog/342278/
+
+Облака из неведомой страны. FAQ по облачным технологиям | https://habrahabr.ru/company/cloud4y/blog/342022/
+
+Попробуем оценить Kubernetes | https://habrahabr.ru/company/piter/blog/341670/
+
+Настраиваем VM Instance Google Cloud для задач машинного обучения | https://habrahabr.ru/post/341446/
+
+94% крупных и средних компаний морально готовы к “облакам”. Но только 24% могут сделать это прямо сейчас | https://habrahabr.ru/post/341310/
+
+Нет времени объяснять! или как подружить terraform с minikube и kubernetes | https://habrahabr.ru/post/340884/
+
+Встреча в Питере 16 ноября: Delivery-инфраструктура для компаний и отдельных проектов | https://habrahabr.ru/company/wrike/blog/340760/
+
+Бесплатная YouTube-трансляция DevOps-конференции DevOops 2017 | https://habrahabr.ru/company/jugru/blog/340320/
+
+Как я практику в универе сдавал и Nextcloud настраивал | https://habrahabr.ru/post/340322/
+
+VMware vCloud Director. Что нового в версии 9.0? | https://habrahabr.ru/company/cloud4y/blog/339128/
+
+Zyxel Nebula: обзор ключевых возможностей облачной сетевой экосистемы | https://habrahabr.ru/company/muk/blog/339024/
+
+DBaaS: базы данных в облаке | https://habrahabr.ru/company/technoserv/blog/337860/
+
+Cloud Fabric: как SDN помогает IT более гибко реагировать на изменения | https://habrahabr.ru/company/huawei/blog/337914/
+
+«Государство в Облаках» и один пример ГИС из нашей практики | https://habrahabr.ru/company/cloud4y/blog/336384/
+
+Как обеспечить производительность баз данных Microsoft SQL Server, размещаемых в облаке | https://habrahabr.ru/company/technoserv/blog/336070/
+
+Операция виртуализация: сравнение виртуального сервера и shared-хостинга | https://habrahabr.ru/company/cloudlite/blog/335902/
+
+Рынок источников бесперебойного питания вырос впервые за четыре года | https://habrahabr.ru/company/1cloud/blog/335558/
+
+Итак, вы решили развернуть OpenStack | https://habrahabr.ru/post/335530/
+
+Как настроить резервное копирование в S3-совместимое облако из системы Commvault | https://habrahabr.ru/company/technoserv/blog/335168/
+
+И снова Huawei Cloud Fabric: что такое SDN-архитектура и с чем её едят | https://habrahabr.ru/company/huawei/blog/334920/
+
+vCloud Director | https://habrahabr.ru/company/cloud4y/blog/335044/
+
+Сравнение цен на трафик у облачных провайдеров | https://habrahabr.ru/post/334632/
+
+Cравнение российских операторов предоставляющих облачные услуги | https://habrahabr.ru/post/334044/
+
+Подробно о новой версии Veeam Backup for Microsoft Office 365 и коротко о розыгрыше билетов на VMworld 2017 | https://habrahabr.ru/company/veeam/blog/334104/
+
+«Необходимость возникает с обеих сторон»: программный комитет DevOops о конференции и о DevOps | https://habrahabr.ru/company/jugru/blog/333916/
+
+Интеграция Apache CloudStack со сторонними системами. Подписка на события с помощью Apache Kafka | https://habrahabr.ru/post/333928/
+
+Openstack. Детективная история или куда пропадает связь? Часть третья | https://habrahabr.ru/post/333872/
+
+Настройка отказоустойчивого управляющего сервера Apache CloudStack с использованием репликации MariaDB Galera | https://habrahabr.ru/post/333590/
+
+Вышел первый накопитель на 64-слойной 3D TLC NAND от компании Intel | https://habrahabr.ru/company/1cloud/blog/332976/
+
+Публичное облако в стиле AWS EC2 на базе Apache CloudStack с использованием гипервизора KVM и хранилища NFS | https://habrahabr.ru/post/332528/
+
+Бэкап скриптами в облако Google Cloud Platform (GCP) за пять минут | https://habrahabr.ru/post/332474/
+
+Openstack. Детективная история или куда пропадает связь? Часть вторая. IPv6 и прочее | https://habrahabr.ru/post/332400/
+
+Легкий тест производительности облачных платформ AWS, Google Cloud и Microsoft Azure | https://habrahabr.ru/post/331822/
+
+Оптимизация расходов на AWS в SaaS-бизнесе | https://habrahabr.ru/post/331566/
+
+Ограничивать ли пользователей по ресурсам? | https://habrahabr.ru/post/331558/
+
+DevOops 2017 Piter: Новая конференция от JUG.ru Group, поговорим про DevOps | https://habrahabr.ru/company/jugru/blog/331346/
+
+Безопасность облачных решений: реальность или миф? | https://habrahabr.ru/company/ruvds/blog/331180/
+
+API от Watson и что эти инструменты могут дать вашему сервису или приложению | https://habrahabr.ru/company/ibm/blog/331206/
+
+Страны Юго-Восточной Азии переходят на гибридную модель хранения данных | https://habrahabr.ru/company/icl_services/blog/330966/
+
+Edge computing заменит Cloud computing? | https://habrahabr.ru/post/331066/
+
+Операция “Миграция”: если ваша почта где-то там, а надо, чтобы была здесь | https://habrahabr.ru/company/dataline/blog/330756/
+
+Сказки, которые Вам расскажут облачные провайдеры | https://habrahabr.ru/company/mclouds/blog/330300/
+
+IBM Watson и кибербезопасность: служба быстрого реагирования, которая работает круглосуточно | https://habrahabr.ru/company/ibm/blog/330250/
+
+Основные возможности Dell EMC Cloud для Microsoft Azure | https://habrahabr.ru/company/muk/blog/330180/
+
+Identity-as-a-Service (IDaaS). Что это? | https://habrahabr.ru/company/mclouds/blog/329964/
+
+Комплексная автоматизация с Ansible и OpenStack | https://habrahabr.ru/company/icl_services/blog/329556/
+
+Балансировка нагрузки в Облаках | https://habrahabr.ru/company/cloud4y/blog/329416/
+
+Облачное хранилище: нужна 100% совместимость с Amazon S3 API | https://habrahabr.ru/company/technoserv/blog/329338/
+
+Производительность ЦОД в твоём кармане | https://habrahabr.ru/company/mclouds/blog/328484/
+
+Новый возможный лидер среди ведущих облачных провайдеров — Penguin | https://habrahabr.ru/company/squadra-group/blog/328384/
+
+Docker в Китае: статистика использования и истории успеха | https://habrahabr.ru/company/flant/blog/328380/
+
+Карикатурный взгляд на работу в IT | https://habrahabr.ru/company/cloud4y/blog/328336/
+
+Мобилизация без «головной боли» | https://habrahabr.ru/company/dellemc/blog/328026/
+
+Рецепт идеального Хабропоста | https://habrahabr.ru/company/cloud4y/blog/327931/
+
+UC, API и AI: куда идут сервисы бизнес-коммуникаций | https://habrahabr.ru/company/uis/blog/327724/
+
+Скорость решает все! Только SSD! Опыт mClouds.ru | https://habrahabr.ru/company/mclouds/blog/327718/
+
+Nvidia опубликовала отчет о разработке и оптимизации актуальных GPU и сравнила их с TPU Google | https://habrahabr.ru/company/squadra-group/blog/327396/
+
+Анализ публикаций на Хабрахабре за последние полгода. Статистика, полезные находки и рейтинги | https://habrahabr.ru/company/cloud4y/blog/327352/
+
+Как Google Cloud защищает свои дата-центры от киберпреступников и внутренних ошибок | https://habrahabr.ru/company/kingservers/blog/327260/
+
+«Компьютер как устройство для общения» или о том, каким виделось будущее Интернета в 1968 | https://habrahabr.ru/company/cloud4y/blog/326912/
+
+Google обнародовала технические данные и назначение TPU | https://habrahabr.ru/company/squadra-group/blog/326308/
+
+Cisco CSR 1000v: Обзор возможностей. Часть 1 | https://habrahabr.ru/company/mclouds/blog/326086/
+
+Обновленный ботнет Mirai вернулся, став еще мощнее | https://habrahabr.ru/company/kingservers/blog/325844/
+
+Работаем в облаке на Hyper-V, часть 4: создание резервных копий виртуальной машины | https://habrahabr.ru/company/dataline/blog/325802/
+
+Дешевые облачные бекапы с шифрованием для дома | https://habrahabr.ru/post/325256/
+
+Necurs, один из крупнейших ботнетов мира, получил DDoS-модуль | https://habrahabr.ru/company/kingservers/blog/325302/
+
+Преимущества SDN: на примере интеграции VMware vSphere с Huawei Cloud Fabric | https://habrahabr.ru/company/huawei/blog/324990/
+
+Сколько стоит DDoS построить? Подсчет стоимости DDoS-атаки | https://habrahabr.ru/company/kingservers/blog/324844/
+
+Особенности выбора ЦОД для облачного провайдера. Региональный уклон | https://habrahabr.ru/company/mclouds/blog/324680/
+
+Миграция инфраструктуры в «облако» по шагам: какие возникают сложности и где | https://habrahabr.ru/company/croc/blog/324654/
+
+Pwn2Own 2017: итоги десятого по счету соревнования хакеров | https://habrahabr.ru/company/kingservers/blog/324480/
+
+Как облака меняют рынок колокации в дата-центрах | https://habrahabr.ru/company/hosting-cafe/blog/324442/
+
+Проверка Групп размещения (PG) Ceph на непротиворечивость в фоновом режиме и способы восстановления данных | https://habrahabr.ru/post/324472/
+
+Project Olympus: собственный вариант open-source серверного оборудования от Microsoft | https://habrahabr.ru/company/kingservers/blog/324354/
+
+Кластер хранилища Ceph на VMWare за 10 минут | https://habrahabr.ru/post/315646/
+
+Жидкостное охлаждение серверов как восходящий тренд в оборудовании для дата-центров | https://habrahabr.ru/company/kingservers/blog/324110/
+
+Оптимизация OSD Ceph на SSD/ NVMe | https://habrahabr.ru/post/324020/
+
+Сколько стоит облачный офис | https://habrahabr.ru/post/323994/
+
+Когда ломается «облако»: что можно сделать в этой ситуации? | https://habrahabr.ru/company/kingservers/blog/323660/
+
+«Умные города», или Smart Cities = Happy Citizens | https://habrahabr.ru/company/huawei/blog/323382/
+
+HPE SecureMail − лучшее ПО для безопасной электронной почты 2017 г | https://habrahabr.ru/company/muk/blog/323438/
+
+Куда уходят облака? Обзор исследования RightScale | https://habrahabr.ru/company/cloud4y/blog/323400/
+
+Amazon S3 около трех-четырех часов работал с перебоями, Medium, Slack, Coursera, Trello лежали | https://habrahabr.ru/post/322932/
+
+Семинар «Веб-проекты в облаке: основные риски, и как их избежать», 1 марта, дата-центр OST, Москва | https://habrahabr.ru/company/dataline/blog/322672/
+
+Upspin: новая глобальная файловая система от Google | https://habrahabr.ru/company/kingservers/blog/322480/
+
+Облачное решение для совместной работы Cisco Spark: обзор и настройка | https://habrahabr.ru/company/muk/blog/322402/
+
+Облачное ценообразование: AWS vs Azure vs Google vs Cloud4Y | https://habrahabr.ru/company/cloud4y/blog/318132/
+
+Nutanix AOS 5.0 — большое обновление | https://habrahabr.ru/company/nutanix/blog/321920/
+
+Juniper предлагает аппаратные средства BTI | https://habrahabr.ru/company/muk/blog/321908/
+
+Google запустила бета-версию Cloud Spanner — СУБД поколения NewSQL | https://habrahabr.ru/post/321880/
+
+Облачное видеонаблюдение: что должен каждый? | https://habrahabr.ru/company/intems/blog/320790/
+
+Основы Juniper Contrail, и как его поставить себе в лабу | https://habrahabr.ru/post/321656/
+
+Openstack. Детективная история или куда пропадает связь? Часть первая | https://habrahabr.ru/post/321442/
+
+Дизайн виртуализованного ЦОД | https://habrahabr.ru/post/321178/
+
+FlexPod – от теории к практике: слово инженерам (вебинар) | https://habrahabr.ru/company/muk/blog/320886/
+
+Где размещать контейнеры: на выделенном сервере или на виртуальной машине? | https://habrahabr.ru/company/hosting-cafe/blog/319438/
+
+Внедрение Docker для небольшого проекта в Production, часть 3 | https://habrahabr.ru/post/320872/
+
+Oracle Cloud Machine в датацентре предприятия | https://habrahabr.ru/company/muk/blog/320806/
+
+Terraform, Azure, Иркутск и еще 1207 слов о переносе игры в облако | https://habrahabr.ru/company/gameinsight/blog/319760/
+
+Внедрение Docker для небольшого проекта в Production, часть 2 | https://habrahabr.ru/post/320346/
+
+*aaS-словарь: 50 материалов на тему ИТ-терминологии | https://habrahabr.ru/company/it-grad/blog/319614/
+
+Windows 10 Creators Update: Повышенная безопасность и современные ИТ-инструменты | https://habrahabr.ru/company/microsoft/blog/319986/
+
+Четыре варианта стратегического планирования размещения IT-инфраструктуры | https://habrahabr.ru/company/squadra-group/blog/319878/
+
+«Флеш всему голова»: IBM анонсировала линейку массивов хранения данных для облака | https://habrahabr.ru/company/1cloud/blog/319714/
+
+Настройка SPICE-консоли виртуальных машин в OpenStack | https://habrahabr.ru/post/319072/
+
+IBM расширила возможности бессерверной платформы OpenWhisk | https://habrahabr.ru/company/ibm/blog/319058/
+
+Сохранность данных не смотря ни на что. Катастрофоустойчивое резервное копирование в облаке Azure Pack Infrastructure | https://habrahabr.ru/company/infobox/blog/318856/
+
+История гигабайта | https://habrahabr.ru/company/cloud4y/blog/318712/
+
+«SLA в облаке»: На что обратить внимание | https://habrahabr.ru/company/1cloud/blog/318432/
+
+Обработка и хранение данных: от древности до ЦОДов | https://habrahabr.ru/company/safedata/blog/317574/
+
+6 бесплатных CDN для ускорения и улучшения безопасности вашего сайта | https://habrahabr.ru/company/hosting-cafe/blog/317054/
+
+Максимальная доступность: Veeam Availability Suite 9.5 | https://habrahabr.ru/company/muk/blog/316918/
+
+От наскальной живописи к облаку: что дальше? | https://habrahabr.ru/company/cloud4y/blog/316588/
+
+Удаленное резервное копирование облачных ресурсов VMware через портал самообслуживания | https://habrahabr.ru/company/dataline/blog/316412/
+
+Информация на пороге бессмертия | https://habrahabr.ru/company/cloud4y/blog/315982/
+
+Какую информацию отправляют и хранят в облаке EPP и EDR решения | https://habrahabr.ru/company/panda/blog/315830/
+
+Настройка Virtual Private Network на AWS EC2 c OpenVPN на Linux | https://habrahabr.ru/post/315664/
+
+Эффективное энергопотребление в инфраструктурах Hyper-V | https://habrahabr.ru/company/cloud4y/blog/315460/
+
+Польские облака. Заметка о ценах (не только для украинцев) | https://habrahabr.ru/post/315418/
+
+Как бороться с низкой сетевой производительностью Hyper-V | https://habrahabr.ru/company/cloud4y/blog/314862/
+
+Сервер с лицензией Windows за 180 руб./мес. – Самый дешёвый VDS | https://habrahabr.ru/company/ultravds/blog/314664/
+
+Девайсы IoT – любимая цель DDoS атак | https://habrahabr.ru/company/cloud4y/blog/314334/
+
+Знакомство с хранилищем Ceph в картинках | https://habrahabr.ru/post/313644/
+
+Самая популярная сеть для суперкомпьютеров или Почему мы выбрали InfiniBand? | https://habrahabr.ru/company/simnetworks/blog/313750/
+
+«Что-почём в облаках» — обзор цен на украинском облачном рынке | https://habrahabr.ru/post/314290/
+
+Как мы отказоустойчивый кластер запускали | https://habrahabr.ru/company/first/blog/314106/
+
+Подборка полезных материалов по DevOps | https://habrahabr.ru/company/microsoft/blog/313684/
+
+Что нового в vSphere 6.5: Безопасность | https://habrahabr.ru/company/cloud4y/blog/313652/
+
+10 аргументов против миграции электронной почты в облако Microsoft | https://habrahabr.ru/company/pc-administrator/blog/313398/
+
+Windows Server 2016: облака – в массы | https://habrahabr.ru/company/ruvds/blog/313292/
+
+Бэкап с помощью Open Source решения — Bareos | https://habrahabr.ru/company/simnetworks/blog/313124/
+
+Разделяй и властвуй: многомерные политики безопасности | https://habrahabr.ru/company/cloud4y/blog/313080/
+
+Как выбрать облачного провайдера? | https://habrahabr.ru/company/simnetworks/blog/311106/
+
+OpenShift v 3 III. OpenShift Origin 1.3 | https://habrahabr.ru/post/312778/
+
+Windows Server 2016 — встречайте первыми на UltraVDS | https://habrahabr.ru/company/ultravds/blog/312586/
+
+OpenShift v3. Часть II. Продолжение знакомства. ROR4 | https://habrahabr.ru/post/312492/
+
+Cross-VC NSX: простота и гибкость множественных развертываний | https://habrahabr.ru/company/cloud4y/blog/312346/
+
+OpenShift xPaaS version 3. «Hello, world» | https://habrahabr.ru/post/312348/
+
+Установка Mikrotik Cloud Hosted Router на VPS хостинг Digital Ocean | https://habrahabr.ru/post/312292/
+
+Autoscaling — инструмент автоматического вертикального масштабирования ресурсов (CPU|RAM|HDD) | https://habrahabr.ru/company/netangels/blog/312174/
+
+Опыт использования AWS ECS в нашей инфраструктуре | https://habrahabr.ru/post/311976/
+
+Создание плагинов для vSphere с помощью HTML Client SDK Fling | https://habrahabr.ru/company/cloud4y/blog/311836/
+
+Как применение кодов избыточности в SDS помогает Яндексу дёшево и надёжно хранить данные | https://habrahabr.ru/company/yandex/blog/311806/
+
+Бэкап и восстановление почты из облака с помощью Veeam Backup for Microsoft Office 365 | https://habrahabr.ru/company/veeam/blog/311738/
+
+«Умерить аппетиты»: Несколько способов повышения энергоэффективности дата-центров | https://habrahabr.ru/company/it-grad/blog/310630/
+
+Работаем в облаке на базе Hyper-V, часть 2: развертывание Exchange Server | https://habrahabr.ru/company/dataline/blog/311306/
+
+Распределенный мониторинг: очередное расширение сети сервиса ХостТрекер | https://habrahabr.ru/company/host-tracker/blog/310596/
+
+«Умное» оружие – дитя блокчейна, облака и IoT | https://habrahabr.ru/company/cloud4y/blog/311290/
+
+Семинар «Эксплуатация дата-центра: работа с подрядчиками» | https://habrahabr.ru/company/dataline/blog/311116/
+
+Как мы чуть не потеряли 5 000 000 гривен в месяц из-за «неправильного» хостинга: история клиента | https://habrahabr.ru/company/simnetworks/blog/311040/
+
+Работаем в облаке на базе Hyper-V, часть 1: знакомство с панелью управления | https://habrahabr.ru/company/dataline/blog/310730/
+
+Обзор лучших докладов с конференции «Вокруг облака» | https://habrahabr.ru/company/simnetworks/blog/310692/
+
+Запуск облака Azure Pack Infrastructure от InfoboxCloud | https://habrahabr.ru/company/infobox/blog/310686/
+
+Space Computing на наглядном примере | https://habrahabr.ru/company/cloud4y/blog/310660/
+
+Монетизация OpenStack. От частного облака к готовому бизнесу за 72 часа | https://habrahabr.ru/company/priceplan/blog/310378/
+
+NetApp ONTAP Cloud: Amazon & Azure | https://habrahabr.ru/post/279907/
+
+Вызовы поискового облака. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/310258/
+
+Войны гипервизоров: To be continued | https://habrahabr.ru/company/cloud4y/blog/310002/
+
+PaaS, DBaaS, SaaS… Что все это значит? | https://habrahabr.ru/company/kingservers/blog/310022/
+
+Логика хостера: не пойман — не вор. Как доказать обратное. Обзор сервиса ХостТрекер, часть 3 | https://habrahabr.ru/company/host-tracker/blog/309110/
+
+Росистые вычисления «для чайников» | https://habrahabr.ru/company/cloud4y/blog/309456/
+
+Выбор оборудования для корпоративного облачного хранилища | https://habrahabr.ru/company/pc-administrator/blog/309390/
+
+Разговоры про облака и обзор других интересных докладов с конференции Datacenters Innovation Forum 2016 | https://habrahabr.ru/company/simnetworks/blog/309290/
+
+Все умрут, а я останусь: репликация и послеаварийное восстановление в облако с помощью Veeam Cloud Connect Replication | https://habrahabr.ru/company/dataline/blog/308984/
+
+Veeam анонсирует новые решения и функциональные возможности | https://habrahabr.ru/company/veeam/blog/308844/
+
+Кросс-облачная архитектура и VMware Cloud Foundation, единая платформа для управления SDDC | https://habrahabr.ru/company/cloud4y/blog/308876/
+
+Работаем с гибридным облаком: VMware vCloud Connector, часть 2 | https://habrahabr.ru/company/dataline/blog/308418/
+
+Самый используемый гипервизор? Xen | https://habrahabr.ru/post/307968/
+
+Мифы об облачных технологиях. Часть 2: Поговорим о качестве сервисов | https://habrahabr.ru/company/1cloud/blog/308276/
+
+Что такое облака и мифы о них в головах ИТшников: мнения, стереотипы и жизнь в «облаках» | https://habrahabr.ru/company/simnetworks/blog/308266/
+
+«Особенности памяти»: Что общего у кэша процессора и офисного клерка | https://habrahabr.ru/company/it-grad/blog/307488/
+
+MTC и IBM: облачные сервисы и современные приложения — это просто | https://habrahabr.ru/company/ibm/blog/308132/
+
+Установка VMware Tools на виртуальную машину Linux | https://habrahabr.ru/company/cloud4y/blog/307980/
+
+Что нового в MS Azure | https://habrahabr.ru/company/muk/blog/307876/
+
+Первый пост на хабре или Почему мы занимаемся облаками | https://habrahabr.ru/company/simnetworks/blog/307790/
+
+VMware Virtual SAN 6.2: технологическое будущее | https://habrahabr.ru/company/cloud4y/blog/307534/
+
+Cold Storage в облаке: Amazon, Google, Microsoft меняют рынок облачных сервисов хранения данных | https://habrahabr.ru/company/kingservers/blog/307262/
+
+Архитектура распределенных вычислений: от облака к туману и росе | https://habrahabr.ru/company/cloud4y/blog/307058/
+
+Работаем с гибридным облаком: VMware vCloud Connector, часть 1 | https://habrahabr.ru/company/dataline/blog/306904/
+
+Как не хранить секреты где придётся, или зачем нам Hashicorp Vault | https://habrahabr.ru/post/306812/
+
+Распределение ресурсов в больших кластерах высокой производительности. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/306786/
+
+Как развернуть Windows Nano Server (TP5) на vSphere | https://habrahabr.ru/company/cloud4y/blog/306490/
+
+Мобильная справочная: Aruba Mobile Engagement | https://habrahabr.ru/company/muk/blog/306240/
+
+Как перенести свой железный сервер в облака за 1 день | https://habrahabr.ru/company/ultravds/blog/306050/
+
+NetApp ONTAP: SnapMirror for SVM | https://habrahabr.ru/post/279911/
+
+NetApp virtual storage appliance: Data ONTAP-v | https://habrahabr.ru/post/279875/
+
+NetApp AltaVault: Резервное копирование и архивирование данных в облаке | https://habrahabr.ru/post/279849/
+
+Damn! Cloud computers! Выбор тонкого клиента для Parallels VDI | https://habrahabr.ru/company/ibs/blog/280073/
+
+Используем OpenShift (пример развертывания) | https://habrahabr.ru/post/277445/
+
+Целиком российское, конвергентное и … гиперконвергентное. Зачем мы сделали платформу «СКАЛА-Р» | https://habrahabr.ru/company/ibs/blog/273959/
+
+Как подружить 1С и Office 365 | https://habrahabr.ru/post/272597/
+
+Как мы испытывали российскую систему документооборота на конвергентной платформе «Скала-Р» | https://habrahabr.ru/company/ibs/blog/271235/
+
+Строим свое собственное отказоустойчивое облако на базе OpenNebula с Ceph, MariaDB Galera Cluster и OpenvSwitch | https://habrahabr.ru/post/270187/
+
+Рабочие места «в облаке»: Odin VDI и IBS | https://habrahabr.ru/company/ibs/blog/269799/
+
+Как российские облачные сервисы для бизнеса тормозят собственный рынок | https://habrahabr.ru/post/266883/
+
+Работа с Ansible — задачи с несколькими неизвестными | https://habrahabr.ru/post/266481/
+
+Linux и бесплатные облачные хранилища | https://habrahabr.ru/post/266293/
+
+Первый взгляд на Scaleway | https://habrahabr.ru/post/266059/
+
+Знакомьтесь: TurboBytes Pulse – сервис для поиска проблем в работе CDN | https://habrahabr.ru/post/261605/
+
+Эволюция сетей — новый стандарт 25/50/100 GbE | https://habrahabr.ru/post/259147/
+
+Автоматизация ресторана: 24 интересных инструмента | https://habrahabr.ru/post/258679/
+
+Основы Kubernetes | https://habrahabr.ru/post/258443/
+
+Сравнение цен на Европейские и Российские «облака» с SSD-дисками | https://habrahabr.ru/post/258229/
+
+Практический опыт работы с малоизвестными европейскими облачными хостингами | https://habrahabr.ru/post/257689/
+
+Как я в облака ходил | https://habrahabr.ru/post/257549/
+
+Можно ли говорить о применимости закона Мура в сфере IaaS | https://habrahabr.ru/company/1cloud/blog/257231/
+
+Сертификация Microsoft | https://habrahabr.ru/post/249331/
+
+Docker: интересные особенности базовых образов | https://habrahabr.ru/post/247903/
+
+Рост стоимости услуг облачных (и прочих аутсорсинговых) провайдеров | https://habrahabr.ru/post/244971/
+
+Добавление самостоятельной регистрации пользователями в ownCloud 6 | https://habrahabr.ru/post/243509/
+
+Почему облачные технологии стали популярными, в чем же инновация? | https://habrahabr.ru/post/242765/
+
+Сам себе AWS. Часть 1 | https://habrahabr.ru/post/239535/
+
+Wuala закрывает бесплатные аккаунты | https://habrahabr.ru/post/241927/
+
+DigitalOcean запускает сервер метаданных | https://habrahabr.ru/post/240555/
+
+Сам себе AWS. Часть 0 | https://habrahabr.ru/post/239583/
+
+Планирование приемо-сдаточных испытаний облачной площадки | https://habrahabr.ru/post/234213/
+
+DigitalOcean добавил возможность использования CoreOS | https://habrahabr.ru/post/235843/
+
+Dropbox ввёл единый тарифный план: 1TB — $9.99/месяц, $99/год | https://habrahabr.ru/post/234765/
+
+Функциональное и экономическое сравнение российских операторов предоставляющих облачные услуги. Версия 2.0 | https://habrahabr.ru/post/228157/
+
+Облако в штанах | https://habrahabr.ru/post/224961/
+
+Intel создаст первый в мире умный город (США) | https://habrahabr.ru/post/226149/
+
+Dropbox запустил приложение Carousel | https://habrahabr.ru/post/218871/
+
+Обзор российского рынка VMware-хостинга. Сравнение ведущих провайдеров корпоративного IaaS в России | https://habrahabr.ru/post/218287/
+
+Совершенство интернет-технологий или одна жизнь в офлайне — взгляд из прошлого | https://habrahabr.ru/post/216005/
+
+Google Drive в несколько раз снижает цены на облачные гигабайты | https://habrahabr.ru/post/215765/
+
+Skydrive официально переименован в OneDrive | https://habrahabr.ru/post/213161/
+
+С небес на землю. Или почему мы не переходим в облака | https://habrahabr.ru/post/210106/
+
+Будущее IT внутри компаний: меньше, качественнее, дешевле | https://habrahabr.ru/post/209450/
+
+Первый опыт работы с облаком Mail.ru | https://habrahabr.ru/post/209430/
+
+В Google Drive появилась лента активности пользователей | https://habrahabr.ru/post/209094/
+
+Как получить 36 терабайт в облаке бесплатно и навсегда | https://habrahabr.ru/post/208846/
+
+Рассуждения о Software Defined Storage: что не так с IO? | https://habrahabr.ru/post/124755/
+
+PlayStation Now: игры для PlayStation на планшете, ТВ, смартфоне | https://habrahabr.ru/post/208394/
+
+Лицензионное соглашение Облака Mail.Ru изменено | https://habrahabr.ru/post/207780/
+
+Обзор вариантов шифрования данных в облаках для Windows | https://habrahabr.ru/post/207306/
+
+Облако Mail.Ru — 1 терабайт бесплатно и навсегда | https://habrahabr.ru/post/206860/
+
+Мегафон — новый российский облачный оператор! | https://habrahabr.ru/post/205140/
+
+Google Compute Engine теперь доступен для всех | https://habrahabr.ru/post/204644/
+
+Национальная облачная платформа. Где деньги, Зин? | https://habrahabr.ru/post/203442/
+
+Яндекс запускает PaaS Cocaine | https://habrahabr.ru/post/198030/
+
+Собираем по немножко от сервисов Google и Redmine на своем сервере | https://habrahabr.ru/post/196588/
+
+Ещё 10 ТБ хранилища от китайцев — теперь раздаёт Alibaba (upd) | https://habrahabr.ru/post/195130/
+
+Мифы про облака | https://habrahabr.ru/post/194966/
+
+QuickOffice стал бесплатным. К нему Google добавляет по 10 Гб в Drive на два года | https://habrahabr.ru/post/194538/
+
+Серьёзно обновился Google Forms: прогресс-бары, валидация, Youtube-видео | https://habrahabr.ru/post/193182/
+
+Китайцы предлагают по 10Тб всем желающим | https://habrahabr.ru/post/192016/
+
+Mail.ru запустил своё облако, первым пользователям — до 100 ГБ бесплатно | https://habrahabr.ru/post/191392/
+
+1 Gb от Dropbox для пользователей Mailbox | https://habrahabr.ru/post/190738/
+
+Plug — домашнее облачное хранилище | https://habrahabr.ru/post/187650/
+
+Андроиды атакуют СПИД | https://habrahabr.ru/post/187642/
+
+Организация единой папки для облачных сервисов | https://habrahabr.ru/post/184410/
+
+Google предлагает отправлять ему жёсткие диски для загрузки больших объёмов данных в Cloud Storage | https://habrahabr.ru/post/183766/
+
+Copy Cloud Storage: 15 гигабайтов бесплатно | https://habrahabr.ru/post/180127/
+
+Облако в кармане | https://habrahabr.ru/post/178741/
+
+Xen Cloud Platform: Как поселить чужую VM в новый дом | https://habrahabr.ru/post/177679/
+
+Клиентский VPN к VMware vCloud Director 5.1 | https://habrahabr.ru/post/177263/
+
+Space Monkey: терабайтный NAS с бэкапом в P2P-облако за 10$ в месяц | https://habrahabr.ru/post/177055/
+
+Появилась русская локализация Dropbox | https://habrahabr.ru/post/176291/
+
+Дон Джонс. «Создание унифицированной системы IT-мониторинга в вашем окружении».Глава 5. Превращаем проблемы в решения | https://habrahabr.ru/post/175039/
+
+Распределенные вычисления BOINC теперь доступны и для Android-устройств | https://habrahabr.ru/post/174749/
+
+Дон Джонс. «Создание унифицированной системы IT-мониторинга в вашем окружении» Глава 4.Мониторинг: взгляд за пределы ЦОД | https://habrahabr.ru/post/174493/
+
+Дон Джонс. «Создание унифицированной системы IT-мониторинга в вашем окружении» Глава3.Соединяем всё в единый цикл управления ИТ | https://habrahabr.ru/post/174267/
+
+Dropbox: Новая функция Альбомы | https://habrahabr.ru/post/174093/
+
+Вышел Seafile 1.5 с подержкой LDAP и наличием CLI клиента | https://habrahabr.ru/post/172569/
+
+Многочасовой сбой облачных сервисов Microsoft | https://habrahabr.ru/post/172619/
+
+RoboEarth Cloud Engine: облачная платформа и «коллективный разум» для роботов | https://habrahabr.ru/post/172365/
+
+Публикация видео на канале пользователя YouTube | https://habrahabr.ru/post/171035/
+
+Песочница средствами SCVMM | https://habrahabr.ru/post/167665/
+
+Облако Selectel — о супер-хабраэффекте, небольшой оптимизации, и расходах за 2 года | https://habrahabr.ru/post/167063/
+
+Очередь сообщений (Message Queue) | https://habrahabr.ru/post/165981/
+
+Облачное будущее или системы хранения данных в наступившем году | https://habrahabr.ru/post/166071/
+
+Seafile обновился до версии 1.4 | https://habrahabr.ru/post/165927/
+
+Почему вы не используете облачную инфраструктуру/сервисы в своей компании? | https://habrahabr.ru/post/163291/
+
+Dropbox: взгляд изнутри | https://habrahabr.ru/post/163189/
+
+Google запустила и сделала бесплатным свой музыкальный сервис Google Music | https://habrahabr.ru/post/163169/
+
+Еще один клон Dropbox с возможностью установки своего сервера или ownCloud против Seafile | https://habrahabr.ru/post/162979/
+
+MegaCloud — альтернатива Dropbox | https://habrahabr.ru/post/162109/
+
+Индекс виртуализации | https://habrahabr.ru/post/161433/
+
+Google Drive теперь поддерживает публикацию веб-сайтов | https://habrahabr.ru/post/160833/
+
+Вышел Xen Cloud Platform 1.6 | https://habrahabr.ru/post/160497/
+
+Волна закрытий провайдерских DC++ | https://habrahabr.ru/post/159059/
+
+Влияние дела Megaupload на хранение данных в облаке | https://habrahabr.ru/post/157851/
+
+Облачное хранилище Jottacloud | https://habrahabr.ru/post/157491/
+
+Каким облачным сервисом для хранения данных Вы пользуетесь? | https://habrahabr.ru/post/156163/
+
+Оффлайн, новая тенденция облачных сервисов | https://habrahabr.ru/post/155493/
+
+Аутентификация в Office 365 (немного теории) | https://habrahabr.ru/post/155187/
+
+Подборка сервисов для расширения возможностей вашего Dropbox | https://habrahabr.ru/post/154993/
+
+Microsoft Office для iOS, Android и Symbian выйдет в марте 2013 | https://habrahabr.ru/post/154375/
+
+Свое облачное хранилище на основе ownCloud | https://habrahabr.ru/post/154047/
+
+Cisco тоже хочет в облака | https://habrahabr.ru/post/153275/
+
+Dropbox обновил интерфейс | https://habrahabr.ru/post/152435/
+
+Свое облако, в 10-15 раз дешевле Amazon EC2 | https://habrahabr.ru/post/151781/
+
+Отчет о конференции «Взгляд в электронное будущее» — #eFuture | https://habrahabr.ru/post/151552/
+
+Сравнивая и противопоставляя Windows Azure Table Storage и Windows Azure SQL Database | https://habrahabr.ru/post/151394/
+
+Google начала сдавать Chromebook в аренду | https://habrahabr.ru/post/151045/
+
+Быстрый старт первого проекта в Windows Azure. Веб-сайты. Миграция веб-сайта в Cloud Services | https://habrahabr.ru/post/150418/
+
+Windows Azure Virtual Machines — обзор новой функциональности | https://habrahabr.ru/post/150341/
+
+У Box.net(com) появился клиент для десктопов | https://habrahabr.ru/post/150088/
+
+Сервис «Яндекс.Диск» станет международным | https://habrahabr.ru/post/149992/
+
+OnLive официально объявила о передаче своих активов новому владельцу | https://habrahabr.ru/post/149923/
+
+Ubuntu One, получаем 20GB бесплатно | https://habrahabr.ru/post/149868/
+
+Сервис OnLive закрывается? | https://habrahabr.ru/post/149848/
+
+Еще один интересный облачный сервис с 15Gb бесплатного дискового пространства | https://habrahabr.ru/post/149653/
+
+IPsec с AmazonVPC в обход стандартных средств | https://habrahabr.ru/post/148434/
+
+Формула притяжения данных | https://habrahabr.ru/post/147827/
+
+В два раза больше места в Dropbox за ту же самую цену | https://habrahabr.ru/post/147538/
+
+Dropbox и предложение для владельцев HTC андроидов | https://habrahabr.ru/post/147481/
+
+Oracle, Microsoft и Red Hat: Три пути к облаку | https://habrahabr.ru/post/147338/
+
+Быстрый старт первого проекта в Windows Azure. Веб-сайты | https://habrahabr.ru/post/147204/
+
+Простое решение на bash для расшаривания музыки и фоток в Dropbox | https://habrahabr.ru/post/147095/
+
+Стас Протасов из Parallels ответил на вопросы хабрасообщества | https://habrahabr.ru/post/147101/
+
+Google запускает сервис облачных вычислений Compute Engine | https://habrahabr.ru/post/146728/
+
+Boxopus — скачиваем торренты в dropbox-аккаунт | https://habrahabr.ru/post/146413/
+
+Dropbox для iOS получил функцию автозагрузки фото и видео в облако и бонус до 3 Гб | https://habrahabr.ru/post/145870/
+
+Dropbox отказывается от папки Public в новых аккаунтах | https://habrahabr.ru/post/145864/
+
+Вышла Bitcasa для Linux | https://habrahabr.ru/post/145526/
+
+Встречайте обновленный Windows Azure. Небольшой обзор нововведений | https://habrahabr.ru/post/145471/
+
+Реинкарнация Bitcasa | https://habrahabr.ru/post/145300/
+
+Cubby — синхронизация файлов с облаком и без него | https://habrahabr.ru/post/145124/
+
+Dell начала тестирование прототипов ARM-серверов | https://habrahabr.ru/post/144896/
+
+EMC купила Syncplicity | https://habrahabr.ru/post/144326/
+
+GEFORCE GRID и NVIDIA VGX | https://habrahabr.ru/post/144229/
+
+[Перевод] Упрощаем работу с сервером, используя выборочную синхронизацию в Dropbox | https://habrahabr.ru/post/144178/
+
+OpenStack Swift. Не все три копии одинаково полезные | https://habrahabr.ru/post/144055/
+
+Практические советы по разделению данных на части. Генерация PartitionKey и RowKey для Azure Table Storage | https://habrahabr.ru/post/143838/
+
+Запуск Adobe Creative Cloud | https://habrahabr.ru/post/143628/
+
+Dropquest 2012 начнется на следующей неделе | https://habrahabr.ru/post/143207/
+
+Ещё одно облачное хранилище — LG Cloud | https://habrahabr.ru/post/143051/
+
+Осторожно! Обновление Яндекс.Диска | https://habrahabr.ru/post/142946/
+
+Хранение шифрованных данных в облаке средствами Mac OS X | https://habrahabr.ru/post/142942/
+
+Какой облачный сервис вы используете? | https://habrahabr.ru/post/142944/
+
+Файлы уходят в облака. Выбираем облако | https://habrahabr.ru/post/142935/
+
+Сквозная облачность | https://habrahabr.ru/post/142923/
+
+Dropbox: автозагрузка фото и видео для всех | https://habrahabr.ru/post/142915/
+
+Китайское правительство снова защитило своих: Google Drive заблокирован в Китае | https://habrahabr.ru/post/142902/
+
+SysAdmin Anywhere: Используем UDP Hole Punching для реализации удаленного рабочего стола | https://habrahabr.ru/post/142858/
+
+Google Drive против остальных облачных сервисов | https://habrahabr.ru/post/142857/
+
+Google прокомментировала ситуацию с правами на собственность файлов пользователей | https://habrahabr.ru/post/142806/
+
+Запуск Google Drive | https://habrahabr.ru/post/142750/
+
+Кроме 5 бесплатных гигабайт, в Google Drive можно будет докупить по 20 ГБ за 4 доллара в месяц (обновлено) | https://habrahabr.ru/post/142746/
+
+Развитие по разработке программного обеспечения на технологиях «облачных вычислений» | https://habrahabr.ru/post/142493/
+
+Запуск Google Drive состоится через неделю. Всем по 5 Гигабайт бесплатно | https://habrahabr.ru/post/142225/
+
+Яндекс запускает Диск | https://habrahabr.ru/post/141456/
+
+Кеширование данных на экземпляре и управление кешированием | https://habrahabr.ru/post/140955/
+
+Запуск Google Drive уже в апреле? | https://habrahabr.ru/post/140929/
+
+Обмен сообщениями между ролями и экземплярами | https://habrahabr.ru/post/140461/
+
+Обзор платформ для построения облаков | https://habrahabr.ru/post/140375/
+
+Объявлена поддержка php и git для AWS Elastic Beanstalk | https://habrahabr.ru/post/140447/
+
+50 гиг халявы от Самсунга на Dropbox | https://habrahabr.ru/post/139069/
+
+Cloudpaging — новая технология для переноса приложений в облака | https://habrahabr.ru/post/140045/
+
+Hewlett-Packard готовит конкурента Amazon Web Services | https://habrahabr.ru/post/139772/
+
+Стартап Space Monkey предлагает 1 Терабайт в облаке за $10 в месяц | https://habrahabr.ru/post/139653/
+
+Новые три фичи от Amazon Web Services | https://habrahabr.ru/post/139616/
+
+Очередные скидки от Amazon на сервисы AWS | https://habrahabr.ru/post/139506/
+
+Введение в теорию взаимодействующих последовательных процессов (CSP), часть 2 | https://habrahabr.ru/post/139129/
+
+DropBoх обновила android-клиент: тестерам новой функции дают по 3 Гб | https://habrahabr.ru/post/138799/
+
+Введение в теорию взаимодействующих последовательных процессов (Communicating Sequential Processes — CSP) | https://habrahabr.ru/post/138700/
+
+SkyDrive в Windows 8 | https://habrahabr.ru/post/138604/
+
+Google близка к запуску своего облачного сервиса хранения файлов Google Drive | https://habrahabr.ru/post/137925/
+
+Amazon Web Serviсes снижает стоимость сервиса S3 | https://habrahabr.ru/post/137790/
+
+Использование cdn Amazon Cloudfront в wordpress в картинках | https://habrahabr.ru/post/136933/
+
+Beta-тест Bitcasa своими руками | https://habrahabr.ru/post/137088/
+
+Облачная роботехника | https://habrahabr.ru/post/136994/
+
+Типы instance в amazon ec2 | https://habrahabr.ru/post/136829/
+
+Популярные вопросы по Office 365 | https://habrahabr.ru/post/136817/
+
+Размышления о «туманных вычислениях» | https://habrahabr.ru/post/136536/
+
+Этот год станет решающим для облачного ПО Red Hat и VMware | https://habrahabr.ru/post/136405/
+
+Microsoft позволит запускать Linux в Windows Azure | https://habrahabr.ru/post/135655/
+
+Fog computing | https://habrahabr.ru/post/135568/
+
+RedHat CEO: не попадитесь в «облачный» Vendor Lock-in | https://habrahabr.ru/post/134040/
+
+Общественный контроль за выборами с помощью облачных ИТ | https://habrahabr.ru/post/134168/
+
+Заметки на полях: облако типа IaaS | https://habrahabr.ru/post/132193/
+
+Требования к облачным платформам в РФ | https://habrahabr.ru/post/131289/
+
+API виртуальных машин и REST | https://habrahabr.ru/post/129662/
+
+Тюнинг для папки Public в Dropbox | https://habrahabr.ru/post/129240/
+
+Суперкластер из 30 тыс. ядер на Amazon EC2 | https://habrahabr.ru/post/128872/
+
+Небольшой обзор Amazon ElastiCache — нужен ли он типичному веб-проекту? | https://habrahabr.ru/post/127602/
+
+«Portability» — главный козырь облачной стратегии Red Hat | https://habrahabr.ru/post/126827/
+
+Amazon ElastiCache: реализация Memcached в облаке AWS | https://habrahabr.ru/post/126911/
+
+Что делать если в Ваш Amazon EC2 instance ударила молния? | https://habrahabr.ru/post/126729/
+
+SmartOS: полностью современная ОС | https://habrahabr.ru/post/126456/
+
+Ускоряемся с Windows Azure Accelerator | https://habrahabr.ru/post/125371/
+
+Symform предлагает обменять 150gb локального диска на 100gb облачного хранилища | https://habrahabr.ru/post/125153/
+
+Гугл + Фото + Андроид =? | https://habrahabr.ru/post/123826/
+
+Microsoft заплатил университету Небраски 250 000$ за использование Office 365 | https://habrahabr.ru/post/123520/
+
+SpyCloud: Разведка собирается хранить свои секреты в облаках | https://habrahabr.ru/post/123272/
+
+Найдет ли Red Hat «место под солнцем» на рынке облачного ПО? | https://habrahabr.ru/post/122799/
+
+Ростелеком. Неужели облако? | https://habrahabr.ru/post/121058/
+
+Гигагерцы задешево — Win 2008R2 Core на Amazon | https://habrahabr.ru/post/120474/
+
+Parking.ru: 503 | https://habrahabr.ru/post/120285/
+
+Складываем облака в одну корзину | https://habrahabr.ru/post/118912/
+
+Облака для обычного юзера | https://habrahabr.ru/post/118893/
+
+4 способа развернуть собственный аналог Dropbox | https://habrahabr.ru/post/118646/
+
+Отчёт о причинах сбоя Amazon EC2 | https://habrahabr.ru/post/118434/
+
+Почему я ещё не в облаках? Праздные размышления | https://habrahabr.ru/post/118400/
+
+Тест облачного хостинга от Selectel | https://habrahabr.ru/post/118235/
+
+AWS в дауне: почему небеса рухнули | https://habrahabr.ru/post/118001/
+
+Дата-центр Amazon EC2 упал, отправив в даун сотни сайтов и сервисов | https://habrahabr.ru/post/117933/
+
+Какие облачные хостинги вы всерьёз рассматривали? | https://habrahabr.ru/post/117646/
+
+Rackspace намного превосходит Amazon EC2 | https://habrahabr.ru/post/117554/
+
+Google App Engine (GAE) против Amazon Web Services (AWS) | https://habrahabr.ru/post/117146/
+
+На облаке компании Amazon собрали суперкластер | https://habrahabr.ru/post/117148/
+
+Автомобили Toyota переходят на Windows Azure | https://habrahabr.ru/post/117030/
+
+Сравнение SaaS и традиционного ПО | https://habrahabr.ru/post/116931/
+
+Windows Azure: Blob и Table дополняют друг друга | https://habrahabr.ru/post/116026/
+
+PaaS «все в одном» | https://habrahabr.ru/post/115725/
+
+Выпущено обновление Windows Azure SDK 1.4 | https://habrahabr.ru/post/115213/
+
+Релиз Xen Cloud Platform 1.0 | https://habrahabr.ru/post/114876/
+
+Репозиторий XCP переехал на github | https://habrahabr.ru/post/113948/
+
+FAQ: SQL Azure | https://habrahabr.ru/post/113379/
+
+Платформа OpenStack | https://habrahabr.ru/post/113355/
+
+FAQ: Windows Azure Platform, Windows Azure и конкуренты | https://habrahabr.ru/post/113312/
+
+От ИТ-шника до CIO… через «Облако» | https://habrahabr.ru/post/113290/
+
+В Москве запущен Windows Azure CDN | https://habrahabr.ru/post/113010/
+
+Безопасность датацентров Microsoft | https://habrahabr.ru/post/112961/
+
+Будни разработки облака, часть первая | https://habrahabr.ru/post/112227/
+
+Облачные вычисления, краткий обзор или статья для начальника | https://habrahabr.ru/post/111274/
+
+24 статьи про Windows Azure на русском языке | https://habrahabr.ru/post/111013/
+
+API Облачных сервисов — следующий этап в развитии PaaS. Как экономить больше используя облачные платформы | https://habrahabr.ru/post/109088/
+
+Hivext Cloud Platform — Архитектура низкого уровня | https://habrahabr.ru/post/107507/
+
+NASA собирается перенести свои вычислительные мощности в «облако» | https://habrahabr.ru/post/106754/
+
+В поисках «облачных» услуг за «незаоблачные» цены: тестируем Оversun-Scalaxy | https://habrahabr.ru/post/105139/
+
+CloudUSB: компьютер в кармане | https://habrahabr.ru/post/103900/
+
+Запущен сервис отслеживания параметров облачных провайдеров | https://habrahabr.ru/post/100626/
+
+Управление памятью гостевой машины в облаке | https://habrahabr.ru/post/97998/
+
+Учёт ресурсов в облаках | https://habrahabr.ru/post/95847/
+
+Проблема динамического выделения дискового пространства виртуальных машин | https://habrahabr.ru/post/97284/
+
+Чего боятся в облачных вычислениях? | https://habrahabr.ru/post/96607/
+
+Ghost in the Xen | https://habrahabr.ru/post/92375/
+
+Хранение данных в облаке Windows Azure | https://habrahabr.ru/post/91270/
+
+Создание своего диска в облаке и работа с ним | https://habrahabr.ru/post/87397/
+
+Windows Server и Azure объединились | https://habrahabr.ru/post/77771/
+
+Можно ли повлиять на ценовую политику Windows Azure? | https://habrahabr.ru/post/74708/
+
+Облачные вычисления: работа над ошибками | https://habrahabr.ru/post/69888/
+
+Публичный доступ к SQL Azure CTP открыт | https://habrahabr.ru/post/67442/
+
+SQL Azure | https://habrahabr.ru/post/66815/
+
+Windows Azure + WPF + Wikipedia = Wikipedia Explorer | https://habrahabr.ru/post/60599/
+
+Облачные вычисления: основы применения в сфере Интернет-стартапов | https://habrahabr.ru/post/60100/
+
+Русскоязычный ресурс про облако | https://habrahabr.ru/post/56594/
+
+Новый релиз Windows Azure и инструментов. PHP на Azure — это реальность. | https://habrahabr.ru/post/54997/
+
+Вышел обновленный Azure Services Training Kit | https://habrahabr.ru/post/51468/
+
+Перевод Azure Services Platform Девида Чеппела 2 часть | https://habrahabr.ru/post/50063/
+
+Перевод Azure Services Platform Девида Чеппела 1 часть | https://habrahabr.ru/post/50060/
+
+Создание облачного приложения | https://habrahabr.ru/post/49389/
+

@@ -1,0 +1,662 @@
+Git на практике | https://habrahabr.ru/post/342116/
+
+Вышел GitLab 10.2: Настраиваемые доски задач и GitLab Geo в общем доступе | https://habrahabr.ru/post/344200/
+
+Самотестируемая система с оповещениями на Laravel + Bitbucket + HipChat | https://habrahabr.ru/post/341724/
+
+Вышел GitLab 10.1: комментирование изображений и блокировка неподписанных коммитов | https://habrahabr.ru/company/softmart/blog/341458/
+
+Как правильно оформить Open Source проект | https://habrahabr.ru/post/341166/
+
+Сборка проектов с GitLab CI: один .gitlab-ci.yml для сотни приложений | https://habrahabr.ru/company/flant/blog/340996/
+
+Мониторинг событий git clone и git push на локальном GitLab сервере | https://habrahabr.ru/post/340768/
+
+Почему нужно перестать использовать Git rebase | https://habrahabr.ru/company/mailru/blog/340558/
+
+Нюансы шифрования в Git | https://habrahabr.ru/post/340076/
+
+Вышел GitLab 10.0: Авто-DevOps и групповые доски задач | https://habrahabr.ru/company/softmart/blog/339174/
+
+tig — улучшаем продуктивность работы с git | https://habrahabr.ru/post/337644/
+
+git rebase для начинающих | https://habrahabr.ru/post/337302/
+
+Вышел GitLab 9.5: Верификация коммитов GPG и шаблоны проектов | https://habrahabr.ru/company/softmart/blog/337246/
+
+Еще одна инструкция по пользованию git | https://habrahabr.ru/post/337196/
+
+Как я использую git | https://habrahabr.ru/post/336708/
+
+Почему GitHub не может хостить ядро Linux | https://habrahabr.ru/post/336470/
+
+Вышел GitLab 9.4: Связанные задачи и веб-мониторинг приложений | https://habrahabr.ru/company/softmart/blog/335064/
+
+В разрезе: новостной агрегатор на Android с бэкендом. Система контроля версий | https://habrahabr.ru/post/334514/
+
+GitLab CI для непрерывной интеграции и доставки в production. Часть 2: преодолевая трудности | https://habrahabr.ru/company/flant/blog/332842/
+
+GitLab CI: ветки больше не нужны | https://habrahabr.ru/company/Voximplant/blog/332792/
+
+GitLab CI для непрерывной интеграции и доставки в production. Часть 1: наш пайплайн | https://habrahabr.ru/company/flant/blog/332712/
+
+Вышел GitLab 9.3: Code Quality и межпроектные графики конвейеров | https://habrahabr.ru/company/softmart/blog/332204/
+
+Готовим git reset правильно | https://habrahabr.ru/post/330722/
+
+Подходы к версионированию изменений БД | https://habrahabr.ru/post/330662/
+
+Выстраиваем процесс разработки и CI pipeline, или Как разработчику стать DevOps для QA | https://habrahabr.ru/post/330366/
+
+Развертывание Redmine с помощью Capistrano | https://habrahabr.ru/company/southbridge/blog/330210/
+
+История создания Виртуальной Файловой Системы Git (GVFS, Git Virtual File System) | https://habrahabr.ru/post/330056/
+
+Вышел GitLab 9.2: Несколько исполнителей задачи, конвейеры по расписанию, локализация, альфа аварийного восстановления | https://habrahabr.ru/company/softmart/blog/330036/
+
+Перевод статьи: Лучшая практика создания Git Commit'ов от OpenStack | https://habrahabr.ru/post/329992/
+
+Самый большой репозиторий Git на свете | https://habrahabr.ru/company/everydaytools/blog/329878/
+
+Вышел GitLab 9.1: Service Desk, Burndown Charts и канареечные развертывания | https://habrahabr.ru/company/softmart/blog/327710/
+
+Вышла новая версия Clarive 6.8 | https://habrahabr.ru/company/softmart/blog/327060/
+
+Универсальная работа с VCS/SCM в рамках автоматизации с FutoIn CID | https://habrahabr.ru/post/326928/
+
+Вышел GitLab 9.0: Подгруппы и Deploy Boards | https://habrahabr.ru/company/softmart/blog/326456/
+
+Выделение подпроекта в отдельный репозиторий на github | https://habrahabr.ru/post/326132/
+
+Масштабирование Git (и кое-какая предыстория) | https://habrahabr.ru/post/325116/
+
+GitHub внедрил систему обнаружения коллизий SHA-1 | https://habrahabr.ru/post/324600/
+
+Немного о приватности реальных Git-репозиториев | https://habrahabr.ru/post/324530/
+
+Невидимые друзья вашего github-репозитория | https://habrahabr.ru/company/eastbanctech/blog/323760/
+
+Вносите изменения в код понемногу | https://habrahabr.ru/company/parallels/blog/323654/
+
+Безболезненное разрешение Merge конфликтов в Git | https://habrahabr.ru/post/323234/
+
+Представляем Upsource 2017.1 | https://habrahabr.ru/company/JetBrains/blog/322894/
+
+Линус Торвальс высказался о коллизиях SHA-1 в репозиториях Git: бояться нечего | https://habrahabr.ru/post/322622/
+
+Первый способ генерации коллизий для SHA-1 | https://habrahabr.ru/post/322478/
+
+Серия видеоуроков по Git для новичков | https://habrahabr.ru/post/322424/
+
+Версионирование артефактов сборки в Gradle используя git имена тегов, бранчей и коммитов | https://habrahabr.ru/post/321668/
+
+Вышел GitLab 8.16: Поддержка Google Container Engine, встроенный Prometheus + тайм-трекинг в CE | https://habrahabr.ru/company/softmart/blog/321418/
+
+Subversion vs. Git: Развенчивание мифов о развенчивании мифов | https://habrahabr.ru/post/320704/
+
+SQL инъекция в GitHub Enterprise | https://habrahabr.ru/post/319786/
+
+Малоизвестные Git-команды | https://habrahabr.ru/company/mailru/blog/318508/
+
+Вышел GitLab 8.15 | https://habrahabr.ru/company/softmart/blog/318926/
+
+Как я базу в GIT закачивал | https://habrahabr.ru/post/318904/
+
+Вышел GitLab 8.14 | https://habrahabr.ru/company/softmart/blog/317156/
+
+GitLab Flow | https://habrahabr.ru/company/softmart/blog/316686/
+
+Автоинкремент версий в pom.xml через Jenkinsfile | https://habrahabr.ru/post/316364/
+
+Автоматическое развёртывание Django из GitLab | https://habrahabr.ru/post/316054/
+
+Релиз GitLab 8.13 | https://habrahabr.ru/company/softmart/blog/315448/
+
+Как работает Git | https://habrahabr.ru/post/313890/
+
+Сделано в МТИ: система контроля версий Gitless | https://habrahabr.ru/post/313628/
+
+Питер Хинченс про Optimistic Merging: Сначала люди, потом код. Соберите правильное сообщество, и оно напишет нужный код | https://habrahabr.ru/company/edison/blog/313606/
+
+GitLab о политике управления проектами open source | https://habrahabr.ru/company/softmart/blog/313632/
+
+Ищем и анализируем ошибки в коде GitExtensions | https://habrahabr.ru/company/pvs-studio/blog/312526/
+
+Вышел GitLab 8.12 | https://habrahabr.ru/company/softmart/blog/311692/
+
+Логирование Git revision в Java с помощью Maven | https://habrahabr.ru/post/310738/
+
+GitLab CI: Учимся деплоить | https://habrahabr.ru/company/softmart/blog/310502/
+
+Несколько способов оптимизации работы с Git | https://habrahabr.ru/company/1cloud/blog/309704/
+
+Введение в GitLab CI | https://habrahabr.ru/company/softmart/blog/309380/
+
+Codefreeze и непрерывная поставка | https://habrahabr.ru/company/solarsecurity/blog/307880/
+
+GitLab Container Registry | https://habrahabr.ru/company/softmart/blog/309102/
+
+GitLab 8.11: канбан-доска и разрешение конфликтов одним кликом | https://habrahabr.ru/company/softmart/blog/308632/
+
+Сопоставляем неоднозначные термины в GitLab, GitHub и Bitbucket | https://habrahabr.ru/company/softmart/blog/308422/
+
+8 советов для более эффективной работы с Git | https://habrahabr.ru/company/softmart/blog/307526/
+
+Вышел GitLab 8.10 | https://habrahabr.ru/company/softmart/blog/306860/
+
+Эффективное использование Github | https://habrahabr.ru/company/2gis/blog/306166/
+
+Gogs: легковесный git-сервис | https://habrahabr.ru/company/selectel/blog/305422/
+
+Автоматизируем проверку кода или еще немного о pre-commit hook'ах | https://habrahabr.ru/post/302932/
+
+Rebase Flow. Способ приготовления и его поддержка в GitHub, GitLab, BitBucket | https://habrahabr.ru/company/at_consulting/blog/283326/
+
+GitHub поменял тарифы | https://habrahabr.ru/post/283312/
+
+Как создать идеальный Pull Request | https://habrahabr.ru/company/Voximplant/blog/279703/
+
+Что там в Git 2.8? Push, grep, rebase, config и прочие штуки | https://habrahabr.ru/post/281188/
+
+Новый дом для репозитория или история переезда на GitLab | https://habrahabr.ru/post/279681/
+
+Монолитные репозитории в Git | https://habrahabr.ru/post/280358/
+
+Поиск кода в Bitbucket Server | https://habrahabr.ru/post/280133/
+
+Критические уязвимости в клиенте и серверной части Git позволяют осуществлять удаленное выполнение кода | https://habrahabr.ru/company/pt/blog/279483/
+
+6 секретов Bitbucket | https://habrahabr.ru/post/278547/
+
+Ежедневные релизы — это не так уж страшно | https://habrahabr.ru/company/dataart/blog/276901/
+
+Как оформлять коммиты, чтобы потом не было больно | https://habrahabr.ru/company/Voximplant/blog/276695/
+
+Что новенького предлагает Git 2.7 | https://habrahabr.ru/post/276679/
+
+Небезопасный способ авторизации в GitLab CE с использованием LDAP аккаунтов и метод устранения уязвимости | https://habrahabr.ru/post/275403/
+
+Git и Github. Простые рецепты | https://habrahabr.ru/post/273897/
+
+Лучший Pull Request | https://habrahabr.ru/post/272531/
+
+Пользовательские плагины в JavaScript играх | https://habrahabr.ru/company/wargaming/blog/271357/
+
+Готовим ASP.NET 5, выпуск №6: Continuous Deployment с Visual Studio Team Services — полное руководство | https://habrahabr.ru/company/microsoft/blog/271173/
+
+Использование gitlab continuous integration для деплоя | https://habrahabr.ru/company/Voximplant/blog/269473/
+
+Совместное использование checkstyle и gerrit | https://habrahabr.ru/post/269705/
+
+Работа с Git без использования локальных веток | https://habrahabr.ru/post/269671/
+
+Достаточно Git-а, чтобы быть (менее) опасным | https://habrahabr.ru/post/268951/
+
+Хранение конфигов под версионным контролем | https://habrahabr.ru/post/267927/
+
+Развертываем инфраструктуру для разработки в облаке InfoboxCloud. Часть 1: Запускаем Gitlab | https://habrahabr.ru/company/infobox/blog/267813/
+
+19 советов по повседневной работе с Git | https://habrahabr.ru/company/mailru/blog/267595/
+
+git punish – команда которой мне всегда нехватало | https://habrahabr.ru/post/267025/
+
+Git для профессионального программиста | https://habrahabr.ru/company/piter/blog/266877/
+
+Подключение к Git по SSH в Windows без PuttyGen на примере BitBucket | https://habrahabr.ru/post/266667/
+
+Оптимизация работы git-сервера | https://habrahabr.ru/company/it-grad/blog/265957/
+
+YouTrack 6.5 — Баг-трекер для всей команды | https://habrahabr.ru/company/JetBrains/blog/265265/
+
+Система сборки для больших модульных проектов | https://habrahabr.ru/company/relex/blog/265001/
+
+Вышел Git for Windows 2.5.0 | https://habrahabr.ru/post/265039/
+
+Тайны потерянных коммитов в Git | https://habrahabr.ru/post/261743/
+
+Использование возможностей git-а в системе сборки модульного проекта | https://habrahabr.ru/company/relex/blog/260311/
+
+Вышел Upsource 2.0 с IDE-плагином, анализом Java-кода в Gradle-проектах, навигацией по JavaScript-коду и многим другим | https://habrahabr.ru/company/JetBrains/blog/258947/
+
+Модель ветвления и управления модулями git для большого проекта | https://habrahabr.ru/company/relex/blog/258505/
+
+Работа с сообщениями об ошибках — git | https://habrahabr.ru/company/southbridge/blog/256001/
+
+Альтернативы Git for Windows | https://habrahabr.ru/post/255443/
+
+GitHub анонсировал хранилище для больших файлов (LFS) | https://habrahabr.ru/post/255413/
+
+Установка gitolite на сервер Centos | https://habrahabr.ru/post/253413/
+
+Почему я не испытываю неприязни к Git: скрытая целостность | https://habrahabr.ru/company/pt/blog/253211/
+
+О Git, начинающих и статьях о Git для начинающих | https://habrahabr.ru/post/253029/
+
+Адаптируем BDD для разработки на 1С совместно с cucumber и 1Script | https://habrahabr.ru/post/252473/
+
+Что плохого в изменении *_defconfig при работе с исходниками ядра Linux | https://habrahabr.ru/post/252391/
+
+To Git, or not to Git | https://habrahabr.ru/company/piter/blog/245381/
+
+Git game или в поисках Линуса Торвальдса | https://habrahabr.ru/post/250025/
+
+Процесс Code Review с Atlassian Stash | https://habrahabr.ru/company/arcadia/blog/245531/
+
+Использование различных VCS репозиториев в PhpStorm | https://habrahabr.ru/post/246503/
+
+Уязвимость в Git: выполнение произвольных команд | https://habrahabr.ru/post/246377/
+
+Официальный релиз JetBrains Upsource 1.0: просмотр и рецензирование кода | https://habrahabr.ru/company/JetBrains/blog/245913/
+
+6-й санкт-петербургский Perl-воркшоп и хакатон Saint Perl 2014 | https://habrahabr.ru/company/regru/blog/245639/
+
+Оптимизируем рабочий процесс | https://habrahabr.ru/post/245349/
+
+Краткая инструкция: GitHub через Tor | https://habrahabr.ru/post/244869/
+
+Краткая инструкция: GitHub через I2P | https://habrahabr.ru/post/244861/
+
+Cемантическое слияние JSON файлов в Git | https://habrahabr.ru/post/244839/
+
+Git и Microsoft SQL Server | https://habrahabr.ru/post/240019/
+
+Pro Git, 2-е издание | https://habrahabr.ru/company/enterra/blog/241525/
+
+Git as Subversion | https://habrahabr.ru/company/mailru/blog/241095/
+
+Много бесплатных* инструментов от GitHub для студентов | https://habrahabr.ru/post/239581/
+
+Как я на домашнем компьютере файлы организовывал, синхронизировал и создавал резервные копии | https://habrahabr.ru/post/237817/
+
+Странный глюк Git, чуть не стоивший 10 часов работы | https://habrahabr.ru/post/236351/
+
+Как привлечь в свой проект мировых звезд программирования или интересная особенность GitHub | https://habrahabr.ru/post/236153/
+
+Установка GitLab на Slackware | https://habrahabr.ru/post/235591/
+
+Опрос по системам контроля версий | https://habrahabr.ru/post/233935/
+
+6 мифов, мешающих разработчикам использовать Git | https://habrahabr.ru/post/231839/
+
+Перенос кода с tfs на git | https://habrahabr.ru/company/microsoft/blog/228319/
+
+Git 2.0.0 | https://habrahabr.ru/post/225251/
+
+Почему мы для code review выбрали Bitbucket, а не GitHub | https://habrahabr.ru/post/224867/
+
+Git: за пределами возможного | https://habrahabr.ru/post/224805/
+
+Gitchain: смесь Гитхаба с Биткоином | https://habrahabr.ru/post/224779/
+
+Синхронизация структуры MySQL + Git | https://habrahabr.ru/post/221979/
+
+Использование перехватчиков (hooks) в Git для блокирования правки опубликованных коммитов | https://habrahabr.ru/post/221819/
+
+GIT Quiz- практикум по использованию git, для начинающих | https://habrahabr.ru/post/220485/
+
+GitHub Cheat Sheet | https://habrahabr.ru/post/219219/
+
+Дружим Git с Putty | https://habrahabr.ru/post/217869/
+
+Github Education — образование и Github | https://habrahabr.ru/post/216797/
+
+Git и Visual Studio: как правильно приготовить | https://habrahabr.ru/company/microsoft/blog/216037/
+
+Превращаем скучные логи Git'a в захватывающую анимацию | https://habrahabr.ru/post/214911/
+
+GitHub запустил Developer Program | https://habrahabr.ru/post/214949/
+
+Миграция кода из SVN на Git в TFS2013 | https://habrahabr.ru/company/microsoft/blog/214157/
+
+GIT — Использование mcdiff в качестве внешней DIFF-утилиты | https://habrahabr.ru/post/209400/
+
+Установка Atlassian STASH, грабли при установке в CentOS | https://habrahabr.ru/post/208732/
+
+Представляем аналитику посещаемости Гитхаба | https://habrahabr.ru/post/208458/
+
+10 000 000 репозиториев | https://habrahabr.ru/post/207146/
+
+Tig — консольный GUI для Git | https://habrahabr.ru/post/206606/
+
+Валидация Sql кода с помощью .net и git-hook | https://habrahabr.ru/post/205888/
+
+3 режима команды git reset: --soft, --mixed(по умолчанию), --hard | https://habrahabr.ru/post/203282/
+
+Брутфорс атака на GitHub | https://habrahabr.ru/post/203172/
+
+Git в помощь админу локалхоста | https://habrahabr.ru/post/202880/
+
+Правильные способы исключения файлов в Git | https://habrahabr.ru/post/202696/
+
+Изменение коммитов в Git | https://habrahabr.ru/post/201922/
+
+GitPHP в Badoo | https://habrahabr.ru/company/badoo/blog/200946/
+
+Простая установка сервера GIT на Windows | https://habrahabr.ru/post/199144/
+
+coviolations.io теперь beta | https://habrahabr.ru/company/coviolations/blog/198208/
+
+Гитхаб для правительств | https://habrahabr.ru/post/197870/
+
+Как релизится GitHub | https://habrahabr.ru/post/197026/
+
+Упал Github.com | https://habrahabr.ru/post/196214/
+
+GitHub: открытие файлов из Pull Request'ов и веток | https://habrahabr.ru/post/196058/
+
+Впечатления от сорокá дней ежедневной работы над открытым исходным кодом на Гитхабе | https://habrahabr.ru/post/195942/
+
+Тонкости благополучного git-merge | https://habrahabr.ru/post/195674/
+
+Как бесплатно получить Micro аккаунт на GitHub студенту в России | https://habrahabr.ru/post/195054/
+
+Git. Автоматическая проверка сообщения коммита на стороне сервера с помощью Python | https://habrahabr.ru/post/192190/
+
+Github визуализирует изменение кода 3D-моделей | https://habrahabr.ru/post/194180/
+
+GitHub всё скажет за тебя | https://habrahabr.ru/company/superjob/blog/166563/
+
+Git rebase «по кнопке» | https://habrahabr.ru/company/badoo/blog/193258/
+
+Цикл разработки через Github | https://habrahabr.ru/post/192614/
+
+GitHub добавляет двухфакторную аутентификацию | https://habrahabr.ru/post/192440/
+
+Вливание legacy-истории в дерево: нахождение оптимальной точки ответвления | https://habrahabr.ru/post/191696/
+
+Ungit — самый простой способ использовать Git | https://habrahabr.ru/post/191102/
+
+Новая страница Trending на GitHub | https://habrahabr.ru/post/190194/
+
+GitHub Flow: рабочий процесс Гитхаба | https://habrahabr.ru/post/189046/
+
+Мобильная версия GitHub | https://habrahabr.ru/post/186774/
+
+SparkleShare + SCM-Manager: Очень простая альтернатива DropBox для локальной сети под Windows | https://habrahabr.ru/post/186270/
+
+Github Releases: публикация релизов | https://habrahabr.ru/post/185444/
+
+Настройка собственного GIT / SVN / Mercurial сервера на базе SCM Manager для Tomcat под Debian | https://habrahabr.ru/post/184964/
+
+Команда математиков за полгода написала 600-страничную книгу, используя GitHub | https://habrahabr.ru/post/184716/
+
+Github ввел ограничение на максимальный размер файла в 100 мегабайт | https://habrahabr.ru/post/184248/
+
+GitRec: Персональные GitHub-рекомендации | https://habrahabr.ru/post/183824/
+
+Стиль именования коммитов | https://habrahabr.ru/post/183646/
+
+Bitbucket выпустил лимитированную серию брендированных футболок | https://habrahabr.ru/post/182526/
+
+Bitbucket достиг одного миллиона пользователей — летим праздновать в Сан-Франциско | https://habrahabr.ru/post/182210/
+
+FeatureBranch | https://habrahabr.ru/post/181924/
+
+Sphinx-документация на GitHub Pages | https://habrahabr.ru/post/180213/
+
+Ежедневная работа с Git | https://habrahabr.ru/post/174467/
+
+Чем опасен rebase-2, или как rebase мешал баг искать | https://habrahabr.ru/post/179673/
+
+Чем опасен rebase, или как получилось, что 2*3=5 | https://habrahabr.ru/post/179123/
+
+Зачем пользователи GIT-а редактируют свои коммиты | https://habrahabr.ru/post/179045/
+
+Git как удобная и простая альтернатива rsync и ftp для деплоя простых сайтов | https://habrahabr.ru/post/178965/
+
+Пять полезных советов при составлении коммит сообщения | https://habrahabr.ru/post/178355/
+
+Git FTP на примере в Windows | https://habrahabr.ru/post/178067/
+
+Изменение кодировки git репозитория | https://habrahabr.ru/post/178069/
+
+Коаны Гита | https://habrahabr.ru/post/175943/
+
+GitHub Pages переезжают на github.io | https://habrahabr.ru/post/175685/
+
+Работа с Git в Visual Studio 2012 | https://habrahabr.ru/company/microsoft/blog/175261/
+
+Github Visualizer — Сервис визуализации истории репозиториев с GitHub | https://habrahabr.ru/post/174375/
+
+Atlassian Bamboo в картинках | https://habrahabr.ru/post/170581/
+
+Enterprise-версия программы FizzBuzz с правильной архитектурой | https://habrahabr.ru/company/abbyy/blog/173885/
+
+Война закончена, все победили | https://habrahabr.ru/post/173663/
+
+Настраиваем SSH ключи на Node-ах Jenkins без ssh-доступа к ним | https://habrahabr.ru/post/173625/
+
+Git для Фоток. Большие репозитарии в Git | https://habrahabr.ru/post/173453/
+
+Kiln Harmony — Mercurial + git в одном репозитории | https://habrahabr.ru/post/173099/
+
+Перемещение и переименование файлов в GitHub | https://habrahabr.ru/post/173063/
+
+Githubizer: автодеплой с Гитхаба на сервер | https://habrahabr.ru/post/171195/
+
+GitHub в роли репозитория артефактов | https://habrahabr.ru/post/170815/
+
+Интерактивная обучалка ветвлению в Git | https://habrahabr.ru/post/169743/
+
+Сходство и различие между Mercurial и Git | https://habrahabr.ru/post/168675/
+
+Китай организует Man-in-the-middle атаку против пользователей github | https://habrahabr.ru/post/167727/
+
+Интеграция Team Foundation Services с Git и другие новые возможности | https://habrahabr.ru/company/microsoft/blog/167699/
+
+Github полностью переработал поиск | https://habrahabr.ru/post/166863/
+
+Разработка в Caché Studio с использованием TortoiseGit | https://habrahabr.ru/company/intersystems/blog/166503/
+
+Github заблокирован в Китае | https://habrahabr.ru/post/166531/
+
+Релиз GitLab 4.0 и GitLab CI | https://habrahabr.ru/post/165759/
+
+Измеряем OpenSource-присутствие человека с помощью github | https://habrahabr.ru/post/165157/
+
+Drupal + Git submodules: рецепты | https://habrahabr.ru/post/164019/
+
+Что нам стоит Git настроить! | https://habrahabr.ru/post/164297/
+
+GitHub: статистика за 2012 год | https://habrahabr.ru/company/epam_systems/blog/163939/
+
+Внутреннее устройство Git: хранение данных и merge | https://habrahabr.ru/company/badoo/blog/163853/
+
+Если вы используете Git и разрабатываете проект в IDE, которая умеет работать с Git'ом, каким Git-клиентом вы пользуетесь? | https://habrahabr.ru/post/163255/
+
+Новая версия github:gist | https://habrahabr.ru/post/162275/
+
+Pick your color — подбора цвета и идеи для развития | https://habrahabr.ru/post/161893/
+
+Git Rebase: руководство по использованию | https://habrahabr.ru/post/161009/
+
+Кнопка «Новый файл» на Github | https://habrahabr.ru/post/161577/
+
+how to: Как и зачем работать с svn через git | https://habrahabr.ru/company/wapstart/blog/159477/
+
+Git & Github глазами очевидца | https://habrahabr.ru/company/epam_systems/blog/159309/
+
+Простой релиз-менеджмент средствами Git | https://habrahabr.ru/post/159107/
+
+Групповая разработка сайтов через git — автоматическое создание/удаление сайтов из git-бранчей | https://habrahabr.ru/post/158855/
+
+Собираем документацию ProGit, под Windows | https://habrahabr.ru/post/158151/
+
+Машина времени в git | https://habrahabr.ru/post/157175/
+
+Git up и все все все | https://habrahabr.ru/post/155391/
+
+Обзор кода в комментариях | https://habrahabr.ru/post/153867/
+
+Установка Gitorious на Centos 6 | https://habrahabr.ru/post/154573/
+
+Безболезненная миграция с Gitosis на Gitolite | https://habrahabr.ru/post/153385/
+
+Быстрое развертывание небольших web-приложений на сервере посредством git push | https://habrahabr.ru/post/151997/
+
+Атака патентных троллей на Github | https://habrahabr.ru/post/151740/
+
+Поднимаем собственный git сервер GitBlit на хостинге Openshift | https://habrahabr.ru/post/151646/
+
+Завершён перевод книги «Pro Git» | https://habrahabr.ru/post/150673/
+
+Встречаем Veracity — новую распределенную систему контроля версий | https://habrahabr.ru/post/150191/
+
+Публикация сайтов Windows Azure с помощью Git | https://habrahabr.ru/company/microsoft/blog/150086/
+
+Фото после каждого коммита (Win) | https://habrahabr.ru/post/147882/
+
+«Gerrit Code Review»: краткое руководство с картинками | https://habrahabr.ru/company/badoo/blog/147508/
+
+Github впервые получает инвестиции | https://habrahabr.ru/post/147464/
+
+Github для Android | https://habrahabr.ru/post/147454/
+
+Изучить Github за 15 минут | https://habrahabr.ru/post/147192/
+
+Фотографируемся после каждого коммита (Linux, OSX) | https://habrahabr.ru/post/146418/
+
+Защита gitlab и gitolite от подбора паролей и ключей | https://habrahabr.ru/post/146130/
+
+Когда вы набираете букву «g» первою в строке адреса, то браузер прежде всего подсказывает вам… | https://habrahabr.ru/post/145349/
+
+Переезд проекта с SVN на Git | https://habrahabr.ru/post/144626/
+
+Andreessen Horowitz оценивает Github в полмиллиарда | https://habrahabr.ru/post/144327/
+
+GitHub выпустил клиент для Windows | https://habrahabr.ru/post/144233/
+
+Что скрывает от нас директория .git | https://habrahabr.ru/post/143079/
+
+Новые графики GitHub вашему вниманию | https://habrahabr.ru/post/142903/
+
+Используем Git в качестве инструмента для деплоя веб приложения | https://habrahabr.ru/post/140103/
+
+Проверка соблюдения стандартов кодирования РHP через git | https://habrahabr.ru/post/141447/
+
+Постигаем Git | https://habrahabr.ru/post/141160/
+
+Полуавтоматическое выставление номера версии с помощью git | https://habrahabr.ru/post/140835/
+
+Разработчики PHP перешли на Git | https://habrahabr.ru/post/140279/
+
+GitHub сделал страницу создателей файла | https://habrahabr.ru/post/139076/
+
+Изменение поведения git merge в релизе 1.7.10 | https://habrahabr.ru/post/138852/
+
+Jelastic + Luna = мини Github | https://habrahabr.ru/post/138657/
+
+Как откатить коммиты на github.com | https://habrahabr.ru/post/138590/
+
+Проблемы с производительностью Git на большом репозитории | https://habrahabr.ru/post/137615/
+
+Пара приемов работы с git | https://habrahabr.ru/post/137408/
+
+Что такое «git push problem: non fast forward» | https://habrahabr.ru/post/136847/
+
+Знакомство с gitolite | https://habrahabr.ru/post/136815/
+
+Gitlab 2.0 | https://habrahabr.ru/post/135276/
+
+Почему вы предпочитаете Git прочим DVCS? | https://habrahabr.ru/post/135099/
+
+GitHub совершенствует поддержку svn | https://habrahabr.ru/post/130883/
+
+GitLab: open source версия Github | https://habrahabr.ru/post/130570/
+
+Git 1.7.7 | https://habrahabr.ru/post/130520/
+
+GIT, AD и SSH. Или как управлять доступом в GIT через AD | https://habrahabr.ru/post/130187/
+
+Использовали ли вы DVCS, отличные от Git? | https://habrahabr.ru/post/129871/
+
+На Github — единая панель тикетов для всех проектов | https://habrahabr.ru/post/129293/
+
+На Github зарегистрировано более миллиона пользователей | https://habrahabr.ru/post/129029/
+
+PHP переходит на Git | https://habrahabr.ru/post/128110/
+
+Git и публикация сайта | https://habrahabr.ru/post/127213/
+
+GitHub теперь позволяет редактировать код с подсветкой синтаксиса | https://habrahabr.ru/post/126435/
+
+Pull request'ы на GitHub или Как мне внести изменения в чужой проект | https://habrahabr.ru/post/125999/
+
+Как начать работать с GitHub: быстрый старт | https://habrahabr.ru/post/125799/
+
+Windows.Git.Cygwin.SSH.Gitolite и руководство пользователя | https://habrahabr.ru/post/125152/
+
+GitHub Reflog v1.7.19 | https://habrahabr.ru/post/124505/
+
+Ещё раз о «Mercurial против Git» (с картинками) | https://habrahabr.ru/post/123700/
+
+Инструкция-шпаргалка для начинающих | https://habrahabr.ru/post/123111/
+
+Legit: sexy git CLI | https://habrahabr.ru/post/123046/
+
+Github обогнал Sourceforge и Google Code по количеству коммитов | https://habrahabr.ru/post/120535/
+
+Github отказывается от интернационализации | https://habrahabr.ru/post/119604/
+
+Dropbox как Git репозиторий | https://habrahabr.ru/post/119433/
+
+GitHub Reflog v1.5.16 | https://habrahabr.ru/post/119414/
+
+Подключение GitHub к Mylyn для Eclipse | https://habrahabr.ru/post/119048/
+
+Кнопка слияния на GitHub (Merge) | https://habrahabr.ru/post/118124/
+
+GitHub Reflog v1.4.20 | https://habrahabr.ru/post/117895/
+
+GitHub Reflog v1.4.12 | https://habrahabr.ru/post/117587/
+
+Issues 2.0: Новое поколение | https://habrahabr.ru/post/117187/
+
+Gitimmersion — Курс фундаментальных основ Git | https://habrahabr.ru/post/116462/
+
+Парень выложил свой геном на Github под открытой лицензией | https://habrahabr.ru/post/113778/
+
+Автоматизация создания соответствий исполняемых файлов исходным кодам в GIT | https://habrahabr.ru/post/110802/
+
+github лежит | https://habrahabr.ru/post/108133/
+
+Удачная модель ветвления для Git | https://habrahabr.ru/post/106912/
+
+Использование git во Flash разработке | https://habrahabr.ru/post/104704/
+
+Почему Git | https://habrahabr.ru/post/104198/
+
+Быстрые коммиты с git и fortune | https://habrahabr.ru/post/100721/
+
+Шуточный прокси для GIT | https://habrahabr.ru/post/99421/
+
+Шифрование важных файлов в Git | https://habrahabr.ru/post/95481/
+
+Git on Windows in Technicolor | https://habrahabr.ru/post/87199/
+
+Превращаем Midnight Commander в консольный браузер для GIT | https://habrahabr.ru/post/86756/
+
+Закончен предварительный перевод книги «Волшебство Git» | https://habrahabr.ru/post/80909/
+
+GITips & GITricks | https://habrahabr.ru/post/78058/
+
+ХХ полезных советов для пользователей Git среднего уровня. Часть 2 | https://habrahabr.ru/post/76084/
+
+Командная работа в Git | https://habrahabr.ru/post/75990/
+
+Внешние зависимости в гите: submodule или subtree? | https://habrahabr.ru/post/75964/
+
+ХХ полезных советов для пользователей Git среднего уровня. Часть 1 | https://habrahabr.ru/post/75728/
+
+Пример использования хуков (hooks) в git | https://habrahabr.ru/post/75063/
+
+Особенности настройки git под windows | https://habrahabr.ru/post/74839/
+
+Git Wizardry | https://habrahabr.ru/post/60347/
+
+Git Workflow | https://habrahabr.ru/post/60030/
+
+Tip по использованию Git под Windows | https://habrahabr.ru/post/43808/
+
+Собственный сервер Git на базе Ubuntu или Debian/GNU Linux | https://habrahabr.ru/post/43806/
+

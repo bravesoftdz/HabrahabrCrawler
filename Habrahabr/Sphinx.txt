@@ -1,0 +1,112 @@
+Андрей Карпов считает, что код проекта Manticore качественнее, чем код проекта Sphinx | https://habrahabr.ru/company/pvs-studio/blog/342298/
+
+«В активном поиске»: как мы выбирали поисковый механизм для DLP-системы | https://habrahabr.ru/company/solarsecurity/blog/340874/
+
+Как сделать генерацию LaTeX и PDF в Sphinx | https://habrahabr.ru/post/328182/
+
+Документация Linux ядра переходит на Python Sphinx | https://habrahabr.ru/post/316758/
+
+Как устроен поиск | https://habrahabr.ru/company/oleg-bunin/blog/310208/
+
+Встреча разработчиков про Sphinx, 18 июня (суббота) | https://habrahabr.ru/post/302984/
+
+Devconf 2016: Интервью с разработчиком SphinxSearch | https://habrahabr.ru/company/devconf/blog/302888/
+
+Чем заменить ELK для просмотра логов? | https://habrahabr.ru/post/283026/
+
+О поиске видео замолвите слово | https://habrahabr.ru/post/281653/
+
+Sphinx distribute. Ускоряем поиск | https://habrahabr.ru/post/263849/
+
+Система сбора отзывов Cackle Reviews с полнотекстовым поиском | https://habrahabr.ru/company/cackle/blog/261829/
+
+А вот про Sphinx 3.0 | https://habrahabr.ru/post/257789/
+
+Конвейер обработки текста в Sphinx | https://habrahabr.ru/post/246679/
+
+Query Builder библиотека для работы с SphinxQL | https://habrahabr.ru/post/242077/
+
+Поиск в Mediawiki при помощи Sphinx | https://habrahabr.ru/post/230073/
+
+Простой способ мониторинга времени отклика Sphinx индексов c помощью Zabbix | https://habrahabr.ru/post/226983/
+
+Индексирование Sphinx с удаленного сервера средствами PHP | https://habrahabr.ru/company/zfort/blog/225979/
+
+IST-Budget — наша история в госзакупках | https://habrahabr.ru/company/istbudget/blog/225875/
+
+Sphinx — Распределённый поиск. Выполнение REPLACE для distributed индекса | https://habrahabr.ru/post/222203/
+
+import sphinxapi без танцев или простая установка sphinxapi.py через pip | https://habrahabr.ru/post/220781/
+
+Embedded Sphinx, или поиск на роутере | https://habrahabr.ru/post/209184/
+
+Sphinx для ASP.NET через jTemplates | https://habrahabr.ru/post/208236/
+
+Searchanise: Поиск для e-commerce, бесплатно (без СМС) | https://habrahabr.ru/company/searchanise/blog/203234/
+
+Реализация условия «ИЛИ» в SphinxQL | https://habrahabr.ru/post/195918/
+
+Поиск через sphinx в django 1.6 admin | https://habrahabr.ru/post/188242/
+
+Sphinx встреча (Москва, 8 мая) | https://habrahabr.ru/company/sphinx/blog/178953/
+
+Полнотекстовый поиск в MongoDB | https://habrahabr.ru/post/174457/
+
+Как подружить Django и Sphinx? | https://habrahabr.ru/post/164869/
+
+Установка SphinxSE на Percona Server | https://habrahabr.ru/post/161461/
+
+Как подружить Sphinx с OpenShift для ThinkingSphinx под Rails | https://habrahabr.ru/post/157857/
+
+Мониторим количество документов в индексах Sphinx'а | https://habrahabr.ru/post/148459/
+
+Улучшаем релевантность поиска в sphinxsearch | https://habrahabr.ru/post/147745/
+
+Как найти девушку за 250 микросекунд | https://habrahabr.ru/company/mamba/blog/144084/
+
+Сегодня IndexTank выключает все свои сервера | https://habrahabr.ru/post/141820/
+
+Презентация: «Sphinx — полнотекстовый поиск на сайте, просто и доступно» | https://habrahabr.ru/post/137821/
+
+Sphinx: увеличиваем максимальный размер MVA | https://habrahabr.ru/post/134864/
+
+Про борьбу с качеством | https://habrahabr.ru/company/sphinx/blog/133790/
+
+Вышел 2.0.2, скоро слет пользователей и 2.0.3 | https://habrahabr.ru/company/sphinx/blog/132836/
+
+Пример Sphinx поиска на реальном проекте — магазин автозапчастей Tecdoc | https://habrahabr.ru/post/132118/
+
+Поиск по PDF, DOC, DOCX файлам с помощью Sphinx и PHP | https://habrahabr.ru/post/131089/
+
+Мастер-класс в Киеве, 18 июня (сб) | https://habrahabr.ru/company/sphinx/blog/121158/
+
+Новости 2.0.1-beta | https://habrahabr.ru/company/sphinx/blog/118892/
+
+Конференция пользователей Sphinx уже в это воскресенье | https://habrahabr.ru/company/sphinx/blog/106621/
+
+Создание ознакомительного поискового движка на Sphinx + php | https://habrahabr.ru/post/104690/
+
+Sphinx — не только для поиска! Моя история | https://habrahabr.ru/post/102749/
+
+вышел Sphinx 1.10-beta | https://habrahabr.ru/company/sphinx/blog/99819/
+
+Новости проекта Sphinx, весна 2010 | https://habrahabr.ru/company/sphinx/blog/92050/
+
+Полноценный .NET клиент для Sphinx | https://habrahabr.ru/post/72023/
+
+Sphinx — не только для поиска! | https://habrahabr.ru/post/64325/
+
+Ищем втрое быстрее: мульти-запросы и фасеточный поиск | https://habrahabr.ru/company/sphinx/blog/64318/
+
+Как устроено ранжирование | https://habrahabr.ru/company/sphinx/blog/62287/
+
+Мне кажется, я начал понимать, что ты имела в виду! | https://habrahabr.ru/company/sphinx/blog/61807/
+
+Как готовить SphinxQL | https://habrahabr.ru/company/sphinx/blog/61222/
+
+Sphinx и MSsql: проблемы… (fixed: уже нет проблем;-) | https://habrahabr.ru/post/60709/
+
+Про что рассказать? | https://habrahabr.ru/company/sphinx/blog/60628/
+
+Организуем релевантный поиск по разнородным данным с помощью Sphinx | https://habrahabr.ru/post/47908/
+

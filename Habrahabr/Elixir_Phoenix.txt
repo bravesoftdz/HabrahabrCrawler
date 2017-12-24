@@ -1,0 +1,88 @@
+Эликсир для джавистов. Часть первая | https://habrahabr.ru/post/344658/
+
+Приглашаем на конференцию FPConf 2017 | https://habrahabr.ru/company/railsclub/blog/341656/
+
+Работаем с биткоином на Эликсире | https://habrahabr.ru/post/341072/
+
+Когда Феникс успел убить Рейлс? | https://habrahabr.ru/post/339460/
+
+Анонс RamblerElixir #4 | https://habrahabr.ru/company/rambler-co/blog/339234/
+
+RailsClub 2017. Интервью с организатором elixir-lang.moscow Никитой Соболевым | https://habrahabr.ru/company/railsclub/blog/338412/
+
+Моки и явные контракты | https://habrahabr.ru/post/338066/
+
+Как Discord масштабировал Elixir на 5 млн одновременных пользователей | https://habrahabr.ru/post/335220/
+
+Начни изучать Elixir прямо сейчас! Перевод всей серии статей готов | https://habrahabr.ru/post/335048/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 10. Тестирование каналов | https://habrahabr.ru/post/333020/
+
+Почему изменения в новом Phoenix 1.3 так важны | https://habrahabr.ru/post/332898/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 9. Каналы | https://habrahabr.ru/post/332094/
+
+Phoenix Framework – Webpack вместо Brunch, деплой с помощью Distillery и немного systemd | https://habrahabr.ru/post/331598/
+
+Анонс RamblerElixir #3 | https://habrahabr.ru/company/rambler-co/blog/330290/
+
+Добавление to_string упрощает разработку и дебаг кода на Elixir'е | https://habrahabr.ru/post/328208/
+
+Как устроены протоколы в Elixir | https://habrahabr.ru/company/exante/blog/328528/
+
+Неудобно редактировать ERb/EEx шаблоны? Попробуйте Slim/Slime | https://habrahabr.ru/post/324332/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 8. Заканчиваем с комментариями | https://habrahabr.ru/post/323462/
+
+Анонс RamblerElixir #2 | https://habrahabr.ru/company/rambler-co/blog/323004/
+
+Elixir и Angular 2 безо всяких Hello, world!, или Реализуем работу с древовидным справочником, часть 1 | https://habrahabr.ru/post/322376/
+
+Деплой Elixir-приложений | https://habrahabr.ru/post/320096/
+
+Брошюра об Ecto – интерфейсе для работы с базами данных на Elixir | https://habrahabr.ru/post/318358/
+
+Использование rebar3 для управления проектами на Erlang | https://habrahabr.ru/post/319950/
+
+Расширение API от Vk для стикеров на Elixir | https://habrahabr.ru/post/318918/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 7. Добавляем комментарии / Новогодний анонс в заключении | https://habrahabr.ru/post/318790/
+
+Elixir в биоинформатике | https://habrahabr.ru/post/318104/
+
+Связь многие ко многим и upsert в Ecto 2.1 | https://habrahabr.ru/post/317602/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 6. Поддержка Markdown | https://habrahabr.ru/post/317550/
+
+Создание Elixir-приложения на примере. От инициализации до публикации | https://habrahabr.ru/post/317444/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 5. Подключаем ExMachina | https://habrahabr.ru/post/316996/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 4. Добавляем обработку ролей в контроллерах | https://habrahabr.ru/post/316368/
+
+Как Phoenix убивает React | https://habrahabr.ru/post/315666/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 3. Добавляем роли | https://habrahabr.ru/post/315252/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 2. Авторизация | https://habrahabr.ru/post/313482/
+
+Elixir: делаем код расширяемым с помощью Behaviour | https://habrahabr.ru/post/312442/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 1. Вступление | https://habrahabr.ru/post/311088/
+
+Техники в Elixir для начинающих: Метод проб и ошибок (перевод) | https://habrahabr.ru/post/310744/
+
+Пять перспективных языков программирования со светлым будущим | https://habrahabr.ru/post/310252/
+
+Elixir: Готовим парсинг правильно — yecc и leex | https://habrahabr.ru/post/309382/
+
+Клон Trello на Phoenix и React. Части 1-3 | https://habrahabr.ru/post/308056/
+
+Elixir: Как выглядит ООП в функциональном языке? | https://habrahabr.ru/post/307720/
+
+Elixir: начинаем работу с Plug | https://habrahabr.ru/post/306334/
+
+Почему я ставлю на Elixir | https://habrahabr.ru/post/269477/
+
+Как написать свой NIF в Elixir | https://habrahabr.ru/post/259467/
+

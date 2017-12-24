@@ -1,0 +1,154 @@
+Настройка Sublime Text 3, SW4 и STM32CubeMX для разработки STM32 под Linux | https://habrahabr.ru/post/343456/
+
+Java EE 8: краткий и весьма оптимистичный обзор новых возможностей | https://habrahabr.ru/company/piter/blog/342124/
+
+Клиент-сервер шаг — за — шагом, от однопоточного до многопоточного (Client-Server step by step) | https://habrahabr.ru/post/330676/
+
+Как запускать на SAP Cloud Platform сервлеты из Eclipse | https://habrahabr.ru/company/sap/blog/327510/
+
+IntelliJ против Eclipse: JetBrains Toolbox или Yatta Launcher? | https://habrahabr.ru/post/326190/
+
+Настраиваем бесплатную сборку для написания и отладки программ под микроконтроллеры на основе ядра ARM под Windows 10 | https://habrahabr.ru/post/325450/
+
+Про биологию, мега-стройки и магических животных | https://habrahabr.ru/company/efs/blog/324626/
+
+Eclipse как технологическая платформа для 1C:Enterprise Development Tools | https://habrahabr.ru/company/1c/blog/323508/
+
+Два в одном: USB хост и составное USB устройство | https://habrahabr.ru/post/305602/
+
+JavaFX наглядное создание простого приложения и нативная упаковка в Eclipse | https://habrahabr.ru/post/304856/
+
+Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель) | https://habrahabr.ru/company/cit/blog/273449/
+
+Разработка парсера, кодогенератора и редактора SQL с помощью EMFText | https://habrahabr.ru/company/cit/blog/271945/
+
+Введение в разработку предметно-ориентированных языков (DSL) с помощью EMFText | https://habrahabr.ru/company/cit/blog/270483/
+
+Руководство по поиску работы для MDA-специалиста (и немного про метод анализа иерархий, Xcore и Sirius) | https://habrahabr.ru/company/cit/blog/269291/
+
+Разработка визуального языка моделирования с помощью Sirius | https://habrahabr.ru/company/cit/blog/267335/
+
+Indoor навигация и позиционирование – доводилось ли вам «терять» машины на парковке? | https://habrahabr.ru/company/sap/blog/267433/
+
+Разработка метамодели с помощью Eclipse Modeling Framework (и немного про моделирование данных) | https://habrahabr.ru/company/cit/blog/266433/
+
+Редактор или IDE? Очередная попытка анализа | https://habrahabr.ru/post/265197/
+
+Объектный язык ограничений (и немного про метамодели) | https://habrahabr.ru/company/cit/blog/264963/
+
+Databene Benerator — бенерируй это | https://habrahabr.ru/post/262387/
+
+Создание HANA-приложения с использованием среды разработки Eclipse | https://habrahabr.ru/company/sap/blog/256761/
+
+1C: Enterprise Development Tools, или Eclipse на русском | https://habrahabr.ru/company/infostart/blog/255757/
+
+Программируем в облаке: обзор популярных IDE | https://habrahabr.ru/post/252767/
+
+Практикум «Intel IoT». Galileo Gen2 — Eclipse & libmraa+UPM | https://habrahabr.ru/company/intel/blog/249127/
+
+Настройка проекта C++ в Eclipse на примере приложения SFML | https://habrahabr.ru/post/241133/
+
+10 возможностей быть продуктивнее с Eclipse для Java разработчиков | https://habrahabr.ru/post/244713/
+
+Docker в браузере, или как создать и «расшарить» среду разработки | https://habrahabr.ru/post/243953/
+
+Мой первый Eclipse-плагин | https://habrahabr.ru/post/243297/
+
+Краткий обзор новых возможностей JPA-RS в EclipseLink | https://habrahabr.ru/post/240769/
+
+Идеальная среда разработки для PIC — личный опыт | https://habrahabr.ru/post/235731/
+
+Плагинизация с использованием Maven и Eclipse Aether | https://habrahabr.ru/post/218323/
+
+Программирование контроллеров ARM7 в Eclipse: как это делается. v2.0 | https://habrahabr.ru/post/215483/
+
+EasyEclipse: эклипс с человеческим лицом на Kickstarter | https://habrahabr.ru/post/214819/
+
+Настройка JavaCV в Windows 7 | https://habrahabr.ru/post/190104/
+
+Что популярнее среди Android и Java разработчиков — Eclipse или IntelliJ IDEA? | https://habrahabr.ru/post/179901/
+
+Пишем плагин для IntelliJ IDEA, добавляем функциональности редактору кода | https://habrahabr.ru/post/178217/
+
+Eclipse RCP Cookbook Part I | https://habrahabr.ru/post/174541/
+
+Desktop vs Cloud | https://habrahabr.ru/post/174409/
+
+Программирование ARM-контроллеров в Eclipse на Ubuntu: как это делается | https://habrahabr.ru/post/174195/
+
+Eclipse. Улучшенный поиск и подсветка блоков кода | https://habrahabr.ru/post/173991/
+
+Подключаем исходники Android в Eclipse | https://habrahabr.ru/post/172491/
+
+Eclipse for Java Developers. Навигация и редактирование | https://habrahabr.ru/post/168223/
+
+Настраиваем Eclipse PyDev под отладку Python 3.x с честным юникодом и кириллицей | https://habrahabr.ru/post/167559/
+
+Jelastic плагин для Eclipse | https://habrahabr.ru/company/jelastic/blog/158661/
+
+Создаем RESTful web service на Java с использованием Eclipse + Jersey + Glassfish3 | https://habrahabr.ru/post/150176/
+
+Визуальный тюнинг Eclipse под Linux | https://habrahabr.ru/post/149339/
+
+Темный Eclipse Juno? | https://habrahabr.ru/post/149057/
+
+Немного настройки Eclipse Juno: избавляемся от огромных табов и кнопки закрывания таба | https://habrahabr.ru/post/147417/
+
+Локализация плагинов Eclipse с помощью стандартного мастера локализации | https://habrahabr.ru/post/143742/
+
+Среды разработки на Java, или от Netbeans к Eclipse | https://habrahabr.ru/post/140745/
+
+Разработка простого Eclipse RCP приложения | https://habrahabr.ru/post/139340/
+
+Замерзающий Eclipse 3.7 под Mac | https://habrahabr.ru/post/137931/
+
+Встречайте Eclipse Indigo | https://habrahabr.ru/post/122804/
+
+Appcelerator покупает Aptana | https://habrahabr.ru/post/112121/
+
+Пишем своё первое приложение на Android | https://habrahabr.ru/post/109944/
+
+Mylyn Generic Web Templates Connector и баг-трекер PEAR | https://habrahabr.ru/post/109472/
+
+Темная цветовая палитра Eclipse при помощи Compiz Color Filter | https://habrahabr.ru/post/102870/
+
+Став хозяином Java, Oracle невольно сломал Eclipse | https://habrahabr.ru/post/101847/
+
+Eclipse, MPICH и PTP для пользователя. Настройка и запуск задач на кластере | https://habrahabr.ru/post/99459/
+
+Eclipse, MPICH и PTP для администратора. Настраиваем связку для работы с кластером | https://habrahabr.ru/post/99457/
+
+Microsoft помогает Eclipse | https://habrahabr.ru/post/73650/
+
+5 причин полюбить Mylyn | https://habrahabr.ru/post/72632/
+
+HTTP4E | https://habrahabr.ru/post/63194/
+
+Zend Studio 7.0 | https://habrahabr.ru/post/62150/
+
+Контрастная схема Eclipse/pyDev под TextMate | https://habrahabr.ru/post/51396/
+
+Eclipse PDT — Zend for Eclipse своими руками | https://habrahabr.ru/post/45408/
+
+Eclipse, pydev и подсветка кода | https://habrahabr.ru/post/46234/
+
+Запуск Eclipse в единственном экземпляре, как? | https://habrahabr.ru/post/44100/
+
+Version Tree для CVS | https://habrahabr.ru/post/44040/
+
+Впечатления от Eclipse-плагина PMD | https://habrahabr.ru/post/40931/
+
+Eclipse Tips #1 | https://habrahabr.ru/post/40785/
+
+Чудеса в Eclipse | https://habrahabr.ru/post/28999/
+
+Eclipse 3.4 «Ganymede» | https://habrahabr.ru/post/27912/
+
+Горячие клавиши в Eclipse | https://habrahabr.ru/post/25683/
+
+Еще один способ установки плагинов для Eclipse | https://habrahabr.ru/post/25533/
+
+Настраиваем Eclipse для работы с Ext — GWT | https://habrahabr.ru/post/25262/
+
+Испорченный PDT | https://habrahabr.ru/post/17262/
+

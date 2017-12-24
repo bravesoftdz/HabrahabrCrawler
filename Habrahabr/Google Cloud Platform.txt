@@ -1,0 +1,40 @@
+Google, Softline, GDG и #tceh организуют второй «Google Cloud Developer Meetup» | https://habrahabr.ru/company/softline/blog/343502/
+
+Чат-бот понимающий человеческую речь на Dialogflow | https://habrahabr.ru/post/342762/
+
+Настраиваем VM Instance Google Cloud для задач машинного обучения | https://habrahabr.ru/post/341446/
+
+Как найти лучшие авиабилеты в интерфейсе гугл-таблицы | https://habrahabr.ru/post/339166/
+
+Снижаем цены на локальные SSD-накопители в «вытесняемых» инстансах и инстансах по требованию | https://habrahabr.ru/company/google/blog/335706/
+
+Google Developers Group и Softline организуют первый в России «Google Cloud Developer Meetup #1» | https://habrahabr.ru/company/softline/blog/331652/
+
+Вы — не Google | https://habrahabr.ru/company/infopulse/blog/330708/
+
+Дело было вечером. Автомасштабируемый веб-сервис с балансировкой нагрузки на примере Bitrix в Google Cloud Platform | https://habrahabr.ru/post/330664/
+
+Тестируем облачные платформы из Топ-3 | https://habrahabr.ru/post/328916/
+
+Google I/O Extended 2017 в 20 городах России | https://habrahabr.ru/company/google/blog/328394/
+
+Surf Studio: машинное обучение в production | https://habrahabr.ru/company/google/blog/325896/
+
+Как Discord индексирует миллиарды сообщений | https://habrahabr.ru/post/324902/
+
+Рассказ о том, как я ездил на Google Next 17. Краткая выжимка по анонсам и самому важному | https://habrahabr.ru/company/Voximplant/blog/324906/
+
+Узкие места в облаках: истории Pokemon Go и Trivia Crack | https://habrahabr.ru/post/321196/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 3) | https://habrahabr.ru/company/google/blog/323908/
+
+Система BBR: регулирование заторов непосредственно по заторам | https://habrahabr.ru/post/322430/
+
+Трансляция TensorFlow Developer Summit | https://habrahabr.ru/post/321906/
+
+Сравнение решений по балансировке высоконагруженных систем | https://habrahabr.ru/post/321560/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 2) | https://habrahabr.ru/company/google/blog/320192/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 1) | https://habrahabr.ru/company/google/blog/319772/
+

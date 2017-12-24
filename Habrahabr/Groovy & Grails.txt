@@ -1,0 +1,148 @@
+[Питер] Встреча JUG.ru с Олегом Ненашевым из CloudBees — Groovy DSL в Jenkins и Pipeline. Реализации и подводные грабли | https://habrahabr.ru/company/jugru/blog/343754/
+
+Интеграционные тесты для Java с помощью TestContainers. Меньше безумия, больше порядка, и всё это автоматически | https://habrahabr.ru/company/jugru/blog/343298/
+
+Приглашаем на Atlassian Meetup 12 декабря | https://habrahabr.ru/company/mailru/blog/342960/
+
+Использование buildSrc для внедрения дополнительной логики в Gradle | https://habrahabr.ru/company/jugru/blog/342914/
+
+Олег Ненашев, Кирилл Толкачёв и Александр Тарасов про Groovy DSL и Pipeline в Jenkins на jug.msk.ru | https://habrahabr.ru/company/jugru/blog/334374/
+
+Динамическое подключение внешних собственных модулей и плагинов в Gradle | https://habrahabr.ru/post/330162/
+
+Феншуйная автоматизация CI & CD с помощью Jenkins и Jira | https://habrahabr.ru/company/yamoney/blog/328092/
+
+Использование Spring Groovy-контекста для создания конфигурируемого, интерактивного графического UI | https://habrahabr.ru/company/simbirsoft/blog/328402/
+
+CrateDB: снаружи как PostgreSQL, а внутри Elasticsearch | https://habrahabr.ru/post/323742/
+
+Компиляция Java программ и разрешение зависимостей в runtime | https://habrahabr.ru/post/318544/
+
+Модуляризация в JavaSE без OSGI и Jigsaw | https://habrahabr.ru/post/317578/
+
+Сигнализация для холодильника. Не жизнь, а «малина» c RaspberryPi 3 | https://habrahabr.ru/post/314898/
+
+Управляем автоматом на Groovy/Java. Как ЧПУ станку в домашней мастерской не превратиться в мульт героев «двое из ларца» | https://habrahabr.ru/post/314462/
+
+«Выходить на сцену — мой способ не отставать от технологий»  : интервью с Барухом Садогурским из JFrog | https://habrahabr.ru/company/jugru/blog/311254/
+
+Упаковка jvm приложения в docker образ | https://habrahabr.ru/post/310530/
+
+Превращаем Java/JVM приложение в демона | https://habrahabr.ru/post/307868/
+
+Интервью с Барухом Садогурским: идеальный стэк технологий для Enterprise-разработки | https://habrahabr.ru/company/luxoft/blog/302668/
+
+Тестируй плагины для Gradle правильно | https://habrahabr.ru/post/282924/
+
+Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE | https://habrahabr.ru/post/281473/
+
+Встречайте IntelliJ IDEA 2016.1 | https://habrahabr.ru/company/JetBrains/blog/280019/
+
+Вспомнить всё: Java-конференция JET. 28 сентября 2015. Отчёт | https://habrahabr.ru/post/279377/
+
+java.net.URL или старый конь борозды не испортит | https://habrahabr.ru/post/276719/
+
+Конфигурация приложений с помощью github | https://habrahabr.ru/post/275225/
+
+Gradle: управляя зависимостями | https://habrahabr.ru/company/redmadrobot/blog/275515/
+
+Автоматизация Jira на Groovy | https://habrahabr.ru/company/billing/blog/271805/
+
+Отладка Groovy скриптов с Grape на основе maven aether | https://habrahabr.ru/post/274875/
+
+JOIN the dark side of the SQL | https://habrahabr.ru/post/274315/
+
+Java вместо Groovy | https://habrahabr.ru/post/273683/
+
+Что нам стоит сайт распарсить. Основы webdriver API | https://habrahabr.ru/post/272105/
+
+DevOps: отправляем метрики и спим спокойно | https://habrahabr.ru/post/269793/
+
+Уличная магия в скриптах или что связывает Groovy, Ivy и Maven? | https://habrahabr.ru/post/270145/
+
+Проект Groovy намерен присоединиться к Apache Software Foundation | https://habrahabr.ru/post/253151/
+
+Pivotal прекращает разработку Groovy & Grails с 31 марта | https://habrahabr.ru/post/248227/
+
+Как подружился Ebean с Gradle и помирился с IntelliJ Idea | https://habrahabr.ru/post/240343/
+
+Анонс второй встречи Java User Group Екатеринбург | https://habrahabr.ru/company/naumen/blog/230497/
+
+Анонс первой встречи Java User Group EKB | https://habrahabr.ru/company/naumen/blog/220987/
+
+Развертываем приложение на Heroku c помощью Gradle | https://habrahabr.ru/post/220389/
+
+Развертываем Ratpack приложение на Heroku | https://habrahabr.ru/post/220341/
+
+Пишем REST API на Vert.x. Часть 1: настройка окружения | https://habrahabr.ru/post/218733/
+
+Чем старше Spring, тем больше контекстов | https://habrahabr.ru/company/jugru/blog/218203/
+
+Проект Lazybones — «Лентяй», который работает за вас | https://habrahabr.ru/post/218205/
+
+Трансформации AST — Первый шаг к тяжёлым веществам | https://habrahabr.ru/post/215343/
+
+Подробно о задачах Gradle | https://habrahabr.ru/post/167227/
+
+Аналог cmd из Python для Groovy | https://habrahabr.ru/post/212457/
+
+MacroGroovy — работа с AST на Groovy ещё никогда не была такой простой | https://habrahabr.ru/post/205084/
+
+Groovy vs Java для JavaFX | https://habrahabr.ru/company/codeorchestra/blog/199050/
+
+Ratpack — талантливо перепето | https://habrahabr.ru/post/190452/
+
+Конфигурирование через скрипты вместо XML и JSON на примере realtime multiplayer игры | https://habrahabr.ru/post/182632/
+
+Использование Liquibase без головной боли. 10 советов из опыта реальной разработки | https://habrahabr.ru/post/179425/
+
+Управление миграциями БД с Liquibase | https://habrahabr.ru/post/178665/
+
+Создаем свой язык на Groovy | https://habrahabr.ru/post/174683/
+
+ContactManager, часть 3. Тестирование контроллеров с помощью MockMvc | https://habrahabr.ru/post/171911/
+
+Validation DSL на Groovy | https://habrahabr.ru/post/160085/
+
+Веб разработка с Gaelyk | https://habrahabr.ru/post/160281/
+
+Backdoor в вашем приложении на Java | https://habrahabr.ru/post/149427/
+
+Groovy и трансформации AST на службе безопасности приложения | https://habrahabr.ru/post/145977/
+
+Groovy как лучшая Java | https://habrahabr.ru/post/145363/
+
+Groovy как скриптовый язык и DSL для Java | https://habrahabr.ru/post/145138/
+
+Интеграция Groovy в JEE приложение | https://habrahabr.ru/post/145158/
+
+Как нам отджейсонить недоступную модель | https://habrahabr.ru/post/144407/
+
+Про Правильные Инструменты | https://habrahabr.ru/post/144297/
+
+Шаблоны *.docx с использованием скриптлетов Groovy | https://habrahabr.ru/post/142350/
+
+Тестируем в браузере с помощью Geb | https://habrahabr.ru/post/139233/
+
+Особенности неявного приведения типов в Groovy | https://habrahabr.ru/post/135797/
+
+Решение проблемы кодировки в GSP-страницах (без Grails) | https://habrahabr.ru/post/129285/
+
+Пишем deploy-скрипт для Grails | https://habrahabr.ru/post/124035/
+
+Полнотекстовый поиск в Grails | https://habrahabr.ru/post/114363/
+
+Grails, jQuery, AJAX: делаем anchor-навигацию. Часть 2, финальная | https://habrahabr.ru/post/108650/
+
+Grails, jQuery, AJAX: делаем anchor-навигацию. Часть 1 | https://habrahabr.ru/post/108611/
+
+Grails, jQuery, AJAX: первое знакомство | https://habrahabr.ru/post/92248/
+
+Релиз Groovy 1.7 | https://habrahabr.ru/post/79054/
+
+Портирование linux.org.ru на grails / приглашаю принять участие | https://habrahabr.ru/post/57047/
+
+Groovy 1.6 released! | https://habrahabr.ru/post/52352/
+
+Grails 1.1 Beta 1 Released | https://habrahabr.ru/post/45766/
+

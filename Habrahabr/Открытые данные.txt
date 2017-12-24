@@ -1,0 +1,470 @@
+Как в Интернете проверить автомобиль перед покупкой: используем доступные базы данных и логику | https://habrahabr.ru/company/cloud4y/blog/344390/
+
+Как мы расписание общественного транспорта в 2ГИС добавляли | https://habrahabr.ru/company/2gis/blog/343924/
+
+Анализируй это — Lenta.ru | https://habrahabr.ru/post/343838/
+
+Парсер на PHP-коленке или как я свою музыкальную коллекцию пополнял | https://habrahabr.ru/post/343294/
+
+«Пишите письма…» или тренируемся работать с данными по обращениям граждан в правительство Москвы (DataScience) | https://habrahabr.ru/post/343216/
+
+Как мы музицировали с нейронными сетями | https://habrahabr.ru/post/342306/
+
+Совет по открытым данным: Рабочая группа по связанным данным, Открытость ПФР и Рослесхоза | https://habrahabr.ru/company/infoculture/blog/341638/
+
+Датасет: ассоциации к словам и выражениям русского языка | https://habrahabr.ru/post/341406/
+
+«4 свадьбы и одни похороны» или линейная регрессия для анализа открытых данных правительства Москвы | https://habrahabr.ru/post/340698/
+
+Как вычислить (город пользователя) по IP | https://habrahabr.ru/company/hflabs/blog/340466/
+
+Хакатон Budget tools: создайте проект для Минфина России | https://habrahabr.ru/company/infoculture/blog/340492/
+
+Кто вы – талантливый стратег или эффективный тактик? Проверьте на хакатоне Budget Sprint 2.0 | https://habrahabr.ru/company/infoculture/blog/339862/
+
+Топливо для ИИ: подборка открытых датасетов для машинного обучения | https://habrahabr.ru/company/mailru/blog/339496/
+
+Создатель Open Data Science о Slack, xgboost и GPU | https://habrahabr.ru/company/jugru/blog/339386/
+
+Нужны ли вам данные о финансах? | https://habrahabr.ru/company/infoculture/blog/338468/
+
+Генерация родословного дерева на основе данных Wikipedia | https://habrahabr.ru/post/338190/
+
+Как определить мобильного оператора и домашний регион по номеру телефона | https://habrahabr.ru/post/337338/
+
+Актуальные данные по телефонным кодам российских городов | https://habrahabr.ru/post/337184/
+
+Интересные приложения для Android с открытым исходным кодом | https://habrahabr.ru/post/336434/
+
+Измеряем динамику упоминания сущностей в информационном поле | https://habrahabr.ru/post/336144/
+
+Что можно узнать о квартире из открытых справочников | https://habrahabr.ru/company/hflabs/blog/335450/
+
+Как угодить кинозрителю и не потерять деньги: составляем план закупок при помощи ML | https://habrahabr.ru/company/goto/blog/333746/
+
+Хакатон «Budget-Pro»: первый шаг к победе в конкурсе | https://habrahabr.ru/company/infoculture/blog/335066/
+
+10 типов структур данных, которые нужно знать + видео и упражнения | https://habrahabr.ru/company/netologyru/blog/334914/
+
+Поиск лучшего места в мире для ветряка | https://habrahabr.ru/post/334804/
+
+Данные: красивые и ужасные | https://habrahabr.ru/company/cloud4y/blog/334234/
+
+«Data mining сейчас — это преимущество на рынке»: о конференции SmartData и больших данных | https://habrahabr.ru/company/jugru/blog/334174/
+
+Starbucks следует открыть публичный доступ к своим API | https://habrahabr.ru/company/fondy/blog/322800/
+
+Вуз или техникум: куда поступать, чтобы удачно трудоустроиться и хорошо зарабатывать? | https://habrahabr.ru/company/ibs/blog/332726/
+
+VK Streaming API Contest | https://habrahabr.ru/company/vkontakte/blog/332054/
+
+Табы, пробелы и ваша зарплата — какая связь? | https://habrahabr.ru/company/mailru/blog/331696/
+
+SmartData — новая конференция по большим и умным данным от JUG.ru Group | https://habrahabr.ru/company/jugru/blog/331686/
+
+Дизайн города, основанный на данных. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/331586/
+
+Совет по открытым данным: раскрытие транспортных данных | https://habrahabr.ru/company/infoculture/blog/330864/
+
+Как обучать вычислительному мышлению? | https://habrahabr.ru/company/wolfram/blog/330102/
+
+Карта артистов, неуклюжий поиск связей в данных и как можно изобрести велосипед | https://habrahabr.ru/post/329250/
+
+Как стать специалистом по Data science: итоги открытого семинара в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/329220/
+
+Анализ взаимосвязи навыков с помощью графов в R | https://habrahabr.ru/post/328868/
+
+Классификация объявлений из соц. сетей. В поисках лучшего решения | https://habrahabr.ru/post/328282/
+
+Исследование положения глаз у более 1000000 лиц: правило золотого сечения или правило третей? | https://habrahabr.ru/company/wolfram/blog/327078/
+
+Галлюцинируй как Трамп, или мини-анализ Рекуррентных Нейронных Сетей | https://habrahabr.ru/post/326966/
+
+Почему на то, чтобы найти точное значение постоянной Планка, понадобилось 100 лет? | https://habrahabr.ru/company/wolfram/blog/326390/
+
+R, GIS и fuzzyjoin: восстанавливаем статистические данные для регионов NUTS | https://habrahabr.ru/post/325564/
+
+Делаем спеллчекер на фонетических алгоритмах своими руками | https://habrahabr.ru/post/325364/
+
+Совет по открытым данным: планы Рослесхоза и Роспатента и раскрытие картографических данных | https://habrahabr.ru/company/infoculture/blog/324554/
+
+Добавляем в Splunk бесплатные фиды IP Reputation | https://habrahabr.ru/post/324340/
+
+Открытые данные со стороны разработчика | https://habrahabr.ru/post/324326/
+
+EMC DPO: как защитить свои товары от подделок | https://habrahabr.ru/post/322696/
+
+День открытых данных в Москве | https://habrahabr.ru/company/infoculture/blog/322100/
+
+Как открытые API меняют облик сферы платежей | https://habrahabr.ru/company/payonline/blog/312398/
+
+Совет по открытым данным: вести с полей | https://habrahabr.ru/company/infoculture/blog/318596/
+
+Использование Github в качестве хранилища пользовательских данных | https://habrahabr.ru/post/317662/
+
+Самая нужная программа на свете | https://habrahabr.ru/post/316814/
+
+О том почему «открытые данные Сбербанка» это не открытые данные и что нам с этим делать | https://habrahabr.ru/company/infoculture/blog/316186/
+
+Женщины и убийства: есть ли тут взаимосвязь? [часть 2 из 2] | https://habrahabr.ru/post/312694/
+
+Выборы-2016. Часть 2 — удивительное рядом и оно разрешено | https://habrahabr.ru/post/313372/
+
+Выборы-2016. Часть 1 — результаты и сравнения | https://habrahabr.ru/post/313270/
+
+Хакатон по данным криминальной статистики | https://habrahabr.ru/company/infoculture/blog/312482/
+
+Женщины и убийства: есть ли тут взаимосвязь? [часть 1 из 2] | https://habrahabr.ru/post/311970/
+
+Обработка голосовых запросов в Telegram с помощью Yandex SpeechKit Cloud | https://habrahabr.ru/post/311578/
+
+Как я начал писать сторонние проекты, чтобы набраться опыта | https://habrahabr.ru/post/310264/
+
+Визуализация и работа с историческими данными: интерактивные карты и linked data базы знаний для изучения истории | https://habrahabr.ru/post/309448/
+
+Графические модели на основе гауссовых копул | https://habrahabr.ru/post/309182/
+
+Конференция по эффективному альтруизму EA Global 2016 — прямая трансляция | https://habrahabr.ru/post/307272/
+
+Пересечение морд доменов топ 1,000,000 по N-граммам | https://habrahabr.ru/post/307250/
+
+О развитии сферы открытых данных в Украине | https://habrahabr.ru/post/306414/
+
+Пропорции в искусстве. Есть ли что-то лучше золотого сечения? Исследование более 1 000 000 старых и современных картин | https://habrahabr.ru/company/wolfram/blog/304326/
+
+WRIO Internet OS. Архитектура: Linked Data и JSON-LD | https://habrahabr.ru/post/304298/
+
+Равертывание Emercoin blockchain с веб-кошельком на RedHat/CentOS 7 и Ubuntu 16.04 | https://habrahabr.ru/post/304100/
+
+Достучаться до госорганов или что делать, если в открытых данных кто-то не прав? | https://habrahabr.ru/company/infoculture/blog/304080/
+
+Составы команд на Евро 2016: сравнение европейских футбольных лиг | https://habrahabr.ru/post/303706/
+
+Выбор детского сада в Москве | https://habrahabr.ru/post/303622/
+
+Работа мечты и бесплатный кластер на 1 миллион мета-данных | https://habrahabr.ru/company/palitrumlab/blog/303702/
+
+Некачественный мир открытых госфинансов | https://habrahabr.ru/company/infoculture/blog/303470/
+
+API hh.ru. Быстрый старт | https://habrahabr.ru/company/hh/blog/303168/
+
+Анализируем как успешное трудоустройство и зарплата зависят от вуза, специальности и региона | https://habrahabr.ru/company/ibs/blog/302930/
+
+Делаем собственный сервис по определению WHOIS любого домена | https://habrahabr.ru/post/302494/
+
+Перепись российского и русскоязычного сообщества по открытым данным | https://habrahabr.ru/company/infoculture/blog/302140/
+
+Новые производные функций Бесселя выведены с помощью языка Wolfram Language | https://habrahabr.ru/company/wolfram/blog/301862/
+
+Рост хоккеистов: анализируем данные всех чемпионатов мира в текущем веке | https://habrahabr.ru/post/301340/
+
+Как мы рисовали road shields на карте | https://habrahabr.ru/post/301320/
+
+Как мы парсили декларации о доходах при помощи открытых данных | https://habrahabr.ru/post/301436/
+
+Выбор школы в Москве the hard way | https://habrahabr.ru/post/283564/
+
+Кто и как зарабатывает на открытых государственных финансовых данных? | https://habrahabr.ru/company/infoculture/blog/283444/
+
+Из командной строки за знаниями | https://habrahabr.ru/post/282067/
+
+Бедный Путин или как мы участвовали в хакатоне по дата-журналистике | https://habrahabr.ru/post/282439/
+
+Как понадеяться на МЧС и сгинуть в лесах Карелии — вредные советы от опытного туриста | https://habrahabr.ru/post/282145/
+
+Социальное неравенство и зарплаты чиновников | https://habrahabr.ru/post/281422/
+
+Анатомия взлома: Sony | https://habrahabr.ru/company/varonis/blog/281126/
+
+Частотный словарь запрещённых сайтов | https://habrahabr.ru/post/280470/
+
+Шаг за шагом: Трансляция данных на flightradar24 | https://habrahabr.ru/post/280454/
+
+1 000 000 жилых домов России | https://habrahabr.ru/post/279833/
+
+Анализ результатов выборов в Госдуму. Готовимся к голосованию 2016 года | https://habrahabr.ru/post/279157/
+
+Успехи импортозамещения или занимательная статистика на основе Реестра федеральных государственных информационных систем | https://habrahabr.ru/post/278771/
+
+Как самостоятельно проанализировать рынок труда | https://habrahabr.ru/post/278651/
+
+Как мы участвовали в хакатоне по дата журналистике. Социально значимое: Государству виднее | https://habrahabr.ru/post/278155/
+
+Проблема вредоносного ПО для PoS – терминалов в гостиничной индустрии | https://habrahabr.ru/company/varonis/blog/277477/
+
+Анализ активности пользователей и разработчиков | https://habrahabr.ru/company/kolibrios/blog/276707/
+
+Тематическая картография: одномерные карты | https://habrahabr.ru/post/274937/
+
+Почему и зачем писать open-source код? | https://habrahabr.ru/post/274791/
+
+Сводные данные о зарегистрированных доменах второго уровня в зоне .RU | https://habrahabr.ru/post/274681/
+
+Об открытых данных Федерального Казначейства. Доклад к следующему общественному совету в феврале 2016 года | https://habrahabr.ru/company/infoculture/blog/273439/
+
+Про открытые данные, проектах на их основе и о том что происходит с открытыми государственными данными в России | https://habrahabr.ru/company/infoculture/blog/272965/
+
+Кружки при московских школах. Какие, сколько стоят, влияют ли на результаты ЕГЭ | https://habrahabr.ru/post/271923/
+
+Найди коррупционера. Анализ данных чиновников из проектов Канцелярской сотни (с примерами на R) | https://habrahabr.ru/post/271773/
+
+Вычисляемые знания по анатомии в Wolfram Language | https://habrahabr.ru/company/wolfram/blog/271643/
+
+Как мы участвовали в Smart Data Hack. Headhunter и Труд всем | https://habrahabr.ru/post/270921/
+
+Исследование результатов ЕГЭ, ГИА и олимпиад для московских школ. Из каких школ в какие ВУЗы поступают | https://habrahabr.ru/post/270675/
+
+Конкурс kaggle по анализу данных анкетирования населения | https://habrahabr.ru/post/270131/
+
+О проектах на открытых данных, поиске финансирования общественных проектов и об открытых данных о госфинансах | https://habrahabr.ru/company/infoculture/blog/270127/
+
+Тематическая картография: общие вопросы | https://habrahabr.ru/post/268877/
+
+Московские школы. Как мы участвовали во втором хакатоне по открытым данным | https://habrahabr.ru/post/268839/
+
+Тысяча и один блистер. Поиск лекарств с завышенной ценой | https://habrahabr.ru/post/265655/
+
+SYNful knock на ОС маршрутизаторов Cisco Systems | https://habrahabr.ru/company/it-grad/blog/267057/
+
+Работа с данными среднего размера в Python. Pandas и Seaborn | https://habrahabr.ru/post/266289/
+
+Как я писал карту дождей | https://habrahabr.ru/post/266453/
+
+Карта дождей | https://habrahabr.ru/post/266303/
+
+Видео про эффективный альтруизм | https://habrahabr.ru/post/265885/
+
+Ко-кластеризация: cегментирование данных вдоль и поперёк | https://habrahabr.ru/post/265489/
+
+«Кто на первой базе» — новый географический справочник от Mapzen | https://habrahabr.ru/post/265661/
+
+Таблицы сопряженности: лог-линейные модели и Марковские сети | https://habrahabr.ru/post/264801/
+
+Офис как Платформа, выпуск №3: Power BI. Получаем данные из REST API | https://habrahabr.ru/company/microsoft/blog/264645/
+
+Таблицы сопряженности и факторизация неотрицательных матриц | https://habrahabr.ru/post/264375/
+
+Анализ открытых данных в R, часть 1 | https://habrahabr.ru/post/264153/
+
+Office как Платформа, выпуск №2: Power BI – новый подход к созданию бизнес-аналитики | https://habrahabr.ru/company/microsoft/blog/264051/
+
+Опрос: Какие данные открывать налоговой службе? | https://habrahabr.ru/company/infoculture/blog/263451/
+
+Исторические бюджеты с 1866 и долгая дорога по превращению их в открытые данные | https://habrahabr.ru/company/infoculture/blog/263187/
+
+DataTalks #3: онлайн-опросы | https://habrahabr.ru/company/wargaming/blog/262559/
+
+Статистический анализ ассоциативных правил в результатах опросов | https://habrahabr.ru/post/262005/
+
+Поиск ассоциативных правил в результатах опросов | https://habrahabr.ru/post/258789/
+
+Как я участвовал в хакатоне про открытые данные | https://habrahabr.ru/post/261329/
+
+Открытые правоохранительные данные — статистика и данные по каждому преступлению | https://habrahabr.ru/company/infoculture/blog/261177/
+
+Общая концепция направления SafeCityNET | https://habrahabr.ru/post/260995/
+
+Гаджеты становятся «ближе к телу». Пять фактов, о которых вас хотят предупредить эксперты по информационной безопасности | https://habrahabr.ru/company/varonis/blog/260513/
+
+«Приоткрытые данные» / Заметки по следам совета по открытым данным 15 июня | https://habrahabr.ru/company/infoculture/blog/260389/
+
+Встреча в Минфине с разработчиками по теме открытых данных — 16 июня | https://habrahabr.ru/company/infoculture/blog/260127/
+
+Маленькие хитрости сбора паспортных данных | https://habrahabr.ru/post/259121/
+
+Технологии Semantic Web | https://habrahabr.ru/company/itis/blog/258405/
+
+Трехмерные фигуры Сома как идея для детского конструктора | https://habrahabr.ru/company/masterkit/blog/258351/
+
+Граф жизни сайта, или визуализация связи между страницами | https://habrahabr.ru/post/258213/
+
+Замок для конструктора | https://habrahabr.ru/company/masterkit/blog/258009/
+
+Победитель конкурса — «Куботроник» | https://habrahabr.ru/company/masterkit/blog/257741/
+
+Открытая бухгалтерия в Министерстве образования и науки Украины | https://habrahabr.ru/post/257069/
+
+Ищем название для открытого проекта | https://habrahabr.ru/company/masterkit/blog/256549/
+
+Открытый доступ к результатам научных исследований | https://habrahabr.ru/post/256441/
+
+Геолокация без GPS (часть 1) | https://habrahabr.ru/post/256321/
+
+Сериал: Big Data — как мечта. Незапланированная 5-я серия: Большая игра. Частное мнение | https://habrahabr.ru/company/palitrumlab/blog/255547/
+
+R в качестве инструмента мониторинга цен | https://habrahabr.ru/post/255173/
+
+Новое в Wolfram Language: функция WikipediaData для интеграции с Википедией и обработки её данных | https://habrahabr.ru/company/wolfram/blog/254345/
+
+33 млн судебных решений различных судов РФ стали открытыми данными | https://habrahabr.ru/post/253815/
+
+Rivulet — аудио плеер для торрентов | https://habrahabr.ru/post/253597/
+
+Ричард Столлман: Почему нам нужны свободные цифровые схемы железа | https://habrahabr.ru/post/253250/
+
+Классификация неструктурированных данных – зачем она нужна? | https://habrahabr.ru/company/varonis/blog/252047/
+
+Владельцы данных – мысли на тему, за и против | https://habrahabr.ru/company/varonis/blog/251291/
+
+Новое исследование: избыточные права доступа сотрудников к конфиденциальной информации подвергают компанию опасности и повышают риски | https://habrahabr.ru/company/varonis/blog/250107/
+
+Алгоритм формирования блокчейна | https://habrahabr.ru/company/dcoin/blog/249779/
+
+Национальный план Германии по реализации Хартии открытых данных G8 | https://habrahabr.ru/company/infoculture/blog/249281/
+
+День открытых данных 21 февраля пройдет по всему миру | https://habrahabr.ru/company/infoculture/blog/249093/
+
+«Открытые финансовые данные: возможности их использования» | https://habrahabr.ru/company/infoculture/blog/248889/
+
+О том, как устроены открытые данные в России | https://habrahabr.ru/company/infoculture/blog/248801/
+
+Собираем плохие данные — 2. 1.5 года спустя, про то как не надо публиковать открытые данные | https://habrahabr.ru/company/infoculture/blog/248521/
+
+Сервис для определения имени абонента по телефонному номеру | https://habrahabr.ru/post/247575/
+
+Извлечение данных из фотохостинга | https://habrahabr.ru/post/243851/
+
+Ложные корреляции по открытым данным Пермского края | https://habrahabr.ru/post/242333/
+
+Инструменты для перевода произведений в общественное достояние | https://habrahabr.ru/post/239523/
+
+Простой способ оценки понятности текста на русском языке | https://habrahabr.ru/post/239511/
+
+Что такое «Понятный русский язык» с точки зрения технологий. Заглянем в метрики удобочитаемости текстов | https://habrahabr.ru/company/infoculture/blog/238875/
+
+Конкурс Apps4Russia 2014. Открытые данные и «понятность» языка, денег и правил | https://habrahabr.ru/company/infoculture/blog/237605/
+
+Как открытые данные помогут предсказать преступления | https://habrahabr.ru/post/237649/
+
+Сервис данных по выборам и кандидатам | https://habrahabr.ru/post/235977/
+
+Поищем Hype Cycle в Google Trends!? | https://habrahabr.ru/post/234081/
+
+Будущее Веб, которого не будет | https://habrahabr.ru/post/228909/
+
+Гитхаб учёным: DOI для репозиториев и льготные академические аккаунты | https://habrahabr.ru/post/223549/
+
+Опрос — Открытые данные Минфина | https://habrahabr.ru/company/infoculture/blog/222933/
+
+Безопасное шифрованное хранилище данных и особенности работы с ним | https://habrahabr.ru/company/simnetworks/blog/222799/
+
+Как порталы открытых данных могут стимулировать рост экономики и инноваций | https://habrahabr.ru/company/fabernovel/blog/221281/
+
+Занимательная статистика от HFLabs | https://habrahabr.ru/company/hflabs/blog/217849/
+
+«Санкции» и наука: 42% элитных российских научных журналов принадлежат США | https://habrahabr.ru/company/cyberleninka/blog/217701/
+
+Единый != единственный? Реестр запрещенных сайтов | https://habrahabr.ru/post/216701/
+
+Яндекс посчитал, когда работают и не работают разные организации | https://habrahabr.ru/company/yandex/blog/214673/
+
+Гарантированная отложенная доставка сообщения | https://habrahabr.ru/post/214403/
+
+Госзатраты: мониторинг госрасходов, API и соревнование для разработчиков | https://habrahabr.ru/company/infoculture/blog/213303/
+
+Сервис-подход публикации или передачи данных строго не ранее указанной даты и/или только в определенной геолокации | https://habrahabr.ru/post/212141/
+
+День открытых данных 22 февраля в Москве | https://habrahabr.ru/company/infoculture/blog/212131/
+
+Истинные причины блокировок сайтов. Исследование по открытым данным | https://habrahabr.ru/post/208060/
+
+Карта российской науки: резонансный или резонёрский проект? | https://habrahabr.ru/company/cyberleninka/blog/205394/
+
+Школа открытых данных. Первые 7 занятий и обратная связь | https://habrahabr.ru/company/infoculture/blog/203892/
+
+Собираем «Плохие данные» (bad data) | https://habrahabr.ru/company/infoculture/blog/203886/
+
+Открытые данные уже здесь | https://habrahabr.ru/post/203850/
+
+API для поиска конгрессменов и выборов от Google на основе открытых проектов | https://habrahabr.ru/company/infoculture/blog/203062/
+
+Об информационной свободе | https://habrahabr.ru/post/200888/
+
+Полезные ресурсы по открытым данным в России | https://habrahabr.ru/company/infoculture/blog/201892/
+
+API для Российской общественной инициативы. Шаг 2.2: опыт США в работе с данными электронных петиций — API Белого Дома | https://habrahabr.ru/company/infoculture/blog/201376/
+
+Как нельзя публиковать открытые данные и почему не все XML файлы одинаково полезны | https://habrahabr.ru/company/infoculture/blog/201260/
+
+API для Российской общественной инициативы. Шаг 2.1: опыт Великобритании в работе с данными электронных петиций | https://habrahabr.ru/company/infoculture/blog/201130/
+
+Образовательные ресурсы и материалы по открытым данным | https://habrahabr.ru/company/infoculture/blog/201118/
+
+API для Российской общественной инициативы. Шаг 1: сбор и анализ данных | https://habrahabr.ru/company/infoculture/blog/200682/
+
+Открытые данные Москвы и соревнование API Challenge на их основе | https://habrahabr.ru/company/infoculture/blog/200458/
+
+Почему Открытые данные — это культура работы с информацией на примере Росздравнадзора | https://habrahabr.ru/company/infoculture/blog/199056/
+
+О сайте gdemvd.ru | https://habrahabr.ru/post/199014/
+
+Совет по открытым данным: террабайты Минкультуры, выше в рейтинге G8 и о том куда идет Минэкономразвития | https://habrahabr.ru/company/infoculture/blog/198644/
+
+Росстат обещает открываться, но не забесплатно | https://habrahabr.ru/company/infoculture/blog/198474/
+
+Открытые данные из существующих государственных порталов | https://habrahabr.ru/company/infoculture/blog/198198/
+
+Несколько мифов об открытом доступе к науке (Open Access) | https://habrahabr.ru/company/cyberleninka/blog/197946/
+
+Базы знаний. Часть 1 — введение | https://habrahabr.ru/post/195650/
+
+Спасем крупнейшую медиатеку в рунете. Вся база rutracker у Вас на компьютере | https://habrahabr.ru/post/195454/
+
+Идеи для проектов по открытым данным и ближайшие хакатоны и соревнования на которые еще можно успеть | https://habrahabr.ru/post/193626/
+
+История открытых данных и Хакатон Яндекса | https://habrahabr.ru/company/yandex/blog/193336/
+
+Опрос-проверка социальной магии | https://habrahabr.ru/post/193342/
+
+Обсуждение проекта ТЗ портала открытых данных | https://habrahabr.ru/post/193222/
+
+Экспертный совет рассматривает первую общественную инициативу, набравшую 100 тыс. подписей на РОИ | https://habrahabr.ru/post/193188/
+
+Используем почтовые индексы в своём приложении во благо | https://habrahabr.ru/post/190122/
+
+Университет MIT выложил бесплатно лекции в Сеть | https://habrahabr.ru/post/188184/
+
+РИА Новости запустило портал открытых данных | https://habrahabr.ru/post/186974/
+
+Конкурс мобильных приложений для города Moscow App Contest’13 | https://habrahabr.ru/company/google/blog/186920/
+
+Создание своего хаба для публикации открытых данных | https://habrahabr.ru/post/186708/
+
+Принят закон об открытых данных | https://habrahabr.ru/post/182738/
+
+Чтение официальных данных о численности муниципальных образований с параметрами форматирования текста с помощью библиотеки xlrd | https://habrahabr.ru/post/182548/
+
+Конкурс Apps4Russia 2013 — открытые данные на которых можно заработать деньги | https://habrahabr.ru/post/177543/
+
+Неочевидное использование открытых данных | https://habrahabr.ru/post/177129/
+
+Открытые данные, Росстат, Прокуратура и все-все-все | https://habrahabr.ru/post/176449/
+
+Открытое правительство и все остальные госструктуры как платформы | https://habrahabr.ru/post/175993/
+
+Конкурс приложений на открытых данных полиции | https://habrahabr.ru/post/175875/
+
+Открытые репозитории кода по открытым данным и открытому государству | https://habrahabr.ru/post/175855/
+
+Реестр стационарных объектов наблюдения (комплексы ФВФ) | https://habrahabr.ru/post/173721/
+
+Запущен портал открытых данных правительства Москвы | https://habrahabr.ru/post/167529/
+
+Открытые данные в России. Готовим приоритеты для госорганов. Опрос | https://habrahabr.ru/post/151446/
+
+Раскрытие данных городских служб: Роудмэп | https://habrahabr.ru/post/130178/
+
+О том как создаются и финансируются общественные проекты в области e-Government | https://habrahabr.ru/post/119282/
+
+Открытые данные электоральной статистики России | https://habrahabr.ru/post/119063/
+
+Международные открытые данные и конкурс Всемирного Банка | https://habrahabr.ru/post/117477/
+
+Впечатления от конференции «Государство в XXI веке» | https://habrahabr.ru/post/117436/
+
+Информационное общество и повторное использование информации | https://habrahabr.ru/post/117344/
+
+Открытые данные как основа основ | https://habrahabr.ru/post/117343/
+
+Статистика арбитражной системы. Открытые данные | https://habrahabr.ru/company/pravo/blog/96615/
+

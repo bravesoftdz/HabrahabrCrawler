@@ -1,0 +1,90 @@
+Extended Validation не работает | https://habrahabr.ru/post/344516/
+
+Эксплуатация Heap Overflow с использованием JavaScript | https://habrahabr.ru/post/342458/
+
+iOS Safari 11 теперь умеет WebRTC | https://habrahabr.ru/company/flashphoner/blog/339396/
+
+Safari 11 и WebRTC: подводные камни видеозвонков | https://habrahabr.ru/company/Voximplant/blog/338312/
+
+Новые инструменты Safari для отладки WebRTC | https://habrahabr.ru/company/Voximplant/blog/335570/
+
+Selenium: для любителей яблок | https://habrahabr.ru/post/334048/
+
+CSS и iOS Safari | https://habrahabr.ru/post/332872/
+
+Особенности –webkit-box или как «подружить» flexbox со старыми Safari | https://habrahabr.ru/post/330410/
+
+Словарное расширение для браузера: больше, чем онлайн-переводчик | https://habrahabr.ru/company/skyeng/blog/326802/
+
+Почему я как разработчик ненавижу iOS | https://habrahabr.ru/post/312080/
+
+Судя по всему, лучшие времена браузера Safari позади | https://habrahabr.ru/post/310118/
+
+Позвольте представить, Shadow DOM API на основе слотов | https://habrahabr.ru/post/304112/
+
+Закладка в OS X, продлевающая работу от батарейки для избранных приложений | https://habrahabr.ru/post/276787/
+
+Сайт CrashSafari.com отправляет айфоны в перезагрузку | https://habrahabr.ru/post/275987/
+
+Уведомления на разных платформах, какие они бывают? Бонус на смарт-часах Moto 360 | https://habrahabr.ru/company/pushall/blog/269439/
+
+Альфа-версия SocketPush — универсальные уведомления для всех браузеров + 3 миллиона бесплатных уведомлений | https://habrahabr.ru/company/pushall/blog/269263/
+
+Расширение для нормального выделения текста внутри ссылки в браузерах | https://habrahabr.ru/post/249091/
+
+Adobe Flash Player Sandbox Mode доступен для Safari Mac OS X | https://habrahabr.ru/company/eset/blog/198822/
+
+Вышла бета Safari 6.1 | https://habrahabr.ru/post/191116/
+
+Apple очищает WebKit от наследия Chromium | https://habrahabr.ru/post/175579/
+
+Возвращаем старый Web Inspector в Safari 6 | https://habrahabr.ru/post/163479/
+
+Веб аудио оффлайн в Safari под iOS 6 | https://habrahabr.ru/post/160465/
+
+Пишем и публикуем плагин к веб-браузеру Safari | https://habrahabr.ru/post/152917/
+
+Ускорение в 3,7 раза после удаления Sleep() в WebKit | https://habrahabr.ru/post/150728/
+
+Обзор Mobile Safari iOS 6 для веб-разработчиков | https://habrahabr.ru/post/145912/
+
+Краткий обзор Safari 5.1 Developer Preview | https://habrahabr.ru/post/120775/
+
+Расширение для Сафари «Музыка из Контакта» | https://habrahabr.ru/post/111573/
+
+Обновление Habrex до версии 1.3.8 | https://habrahabr.ru/post/96346/
+
+Первое обновление Habrex | https://habrahabr.ru/post/96315/
+
+Habrex — расширение для Habra-голиков для Safari 5 | https://habrahabr.ru/post/96133/
+
+Выпущен Safari 5 | https://habrahabr.ru/post/95801/
+
+Секреты Safari 4 | https://habrahabr.ru/post/52902/
+
+Способ вызвать краш браузера Safari | https://habrahabr.ru/post/47002/
+
+Safari 4.0 build (526.12.2) | https://habrahabr.ru/post/27212/
+
+Stumbi: плагин StumbleUpon для Safari | https://habrahabr.ru/post/26278/
+
+Лицензия Safari и установка на Windows | https://habrahabr.ru/post/22513/
+
+Apple — врет | https://habrahabr.ru/post/21995/
+
+Новые возможности HTML и CSS в Safari 3.1 | https://habrahabr.ru/post/21958/
+
+Близится финальный релиз браузера Safari for Windows | https://habrahabr.ru/post/18262/
+
+Safari 3.0.4 Beta для Windows | https://habrahabr.ru/post/16245/
+
+Анализ производительности Safari 3 под Windows | https://habrahabr.ru/post/31287/
+
+Используем Safari 3 по полной | https://habrahabr.ru/post/31278/
+
+WebKit теперь понимает @font-face | https://habrahabr.ru/post/14841/
+
+9 вещей, которые Firefox должен украсть у Safari | https://habrahabr.ru/post/14530/
+
+Firefox и Safari — Разница в отображении изображений | https://habrahabr.ru/post/14378/
+

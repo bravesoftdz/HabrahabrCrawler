@@ -1,0 +1,240 @@
+OpenStreetMap, как получить координаты адреса, часть простая | https://habrahabr.ru/post/320562/
+
+Состоялся запуск OpenStreetView | https://habrahabr.ru/post/308246/
+
+Яндекс.Карты (а также Google Maps и др.), когда вы начнёте использовать mesh-сети? | https://habrahabr.ru/post/307074/
+
+Закрытый гештальт и много мяса на украинской картографической конференции | https://habrahabr.ru/company/mailru/blog/303928/
+
+Как мы рисовали road shields на карте | https://habrahabr.ru/post/301320/
+
+Дорожная сеть OpenStreetMap | https://habrahabr.ru/company/mailru/blog/280970/
+
+«Спутник/Карты» в новом стиле | https://habrahabr.ru/company/rostelecom/blog/280159/
+
+Ariadna. Зачем нужен еще один геокодер для ОСМ? | https://habrahabr.ru/post/277043/
+
+Вафли против технологий на FOSDEM 2016 | https://habrahabr.ru/company/mailru/blog/276471/
+
+OpenStreetMap как источник геоданных | https://habrahabr.ru/post/270513/
+
+Понятия естественного языка против формальных классификаций в OpenStreetMap | https://habrahabr.ru/post/269733/
+
+Скажи мне, где ты, и я скажу тебе, где ты | https://habrahabr.ru/post/268643/
+
+Дизайн карты: как и почему | https://habrahabr.ru/post/267725/
+
+Под капотом рендеринга навигационных данных в MAPS.ME | https://habrahabr.ru/company/mailru/blog/266693/
+
+О дублировании тайлов веб-карт | https://habrahabr.ru/post/265807/
+
+Пешеходный роутинг — новый вызов для OpenStreetMap | https://habrahabr.ru/company/mailru/blog/265249/
+
+Установка и настройка генерации тайлов на основе OSM данных под Windows | https://habrahabr.ru/post/265329/
+
+В погоне за самим собой, или отличный способ начать свой день | https://habrahabr.ru/company/wolfram/blog/263537/
+
+Рендеринг в MAPS.ME | https://habrahabr.ru/company/mailru/blog/262903/
+
+История роутинга в проекте MAPS.ME | https://habrahabr.ru/company/mailru/blog/262185/
+
+Установка OpenStreetMap Nominatim для нахождения широты и долготы по введенному адресу | https://habrahabr.ru/post/259667/
+
+Русификация и мультиязычность карт OpenStreetMap | https://habrahabr.ru/post/259141/
+
+Солнечные затмения: из прошлого в будущее, от Земли до Юпитера (исследование, проведённое с помощью Wolfram Language) | https://habrahabr.ru/company/wolfram/blog/257455/
+
+Визуализация данных OpenStreetMap в 3D налету с помощью Unity3D | https://habrahabr.ru/post/256785/
+
+Как это работает: архитектура тайлового бэкенда карт «Спутника» | https://habrahabr.ru/company/rostelecom/blog/252921/
+
+Меняем почтовые индексы на адреса из трех слов с помощью реверсивного геокодирования | https://habrahabr.ru/company/what3words/blog/250561/
+
+OpenCage — самый мощный инструмент для геокодирования | https://habrahabr.ru/company/what3words/blog/251497/
+
+Делаем карту кабельных трасс «на коленке» | https://habrahabr.ru/post/251459/
+
+Highload ++ 2014 глазами докладчика, который очень любит Processing Large-Scale Graph Data разными нехорошими способами | https://habrahabr.ru/post/245215/
+
+Postgis тип данных Geometry на примере импортированных OpenStreetMap карт | https://habrahabr.ru/post/245015/
+
+Как использовать покадровую фотосъемку камерой GoPro для сервиса «Mapillary» | https://habrahabr.ru/post/242463/
+
+Недостающие карты: как проект расшифровки генома человека, только для городов | https://habrahabr.ru/post/240911/
+
+Строим маршруты с помощью OpenStreetMap, OSRM и Leaflet | https://habrahabr.ru/post/230951/
+
+Как создать легенду | https://habrahabr.ru/post/229911/
+
+Геокодер OSM на Java | https://habrahabr.ru/post/222875/
+
+Зачем миру нужен OpenStreetMap | https://habrahabr.ru/post/217291/
+
+Печатаем OSM (Часть 1) | https://habrahabr.ru/post/211524/
+
+Небось не каждый день нашему брату достаётся рисовать Краснохолм | https://habrahabr.ru/post/211430/
+
+Карты для всех, даром | https://habrahabr.ru/post/207232/
+
+Импортируем OpenStreetMap в MySQL | https://habrahabr.ru/post/200902/
+
+Модуль, упрощающий работу с OpenLayers и системами мониторинга | https://habrahabr.ru/post/181840/
+
+Карты в браузере без сети: open source наносит ответный удар | https://habrahabr.ru/post/170129/
+
+Неизбежность нодокалипсиса | https://habrahabr.ru/post/169993/
+
+Геокодирование адреса в координаты и геолокация текущего местоположения в OpenLayers | https://habrahabr.ru/post/166215/
+
+Украинский земельный кадастр использует OSM в качестве карты по умолчанию | https://habrahabr.ru/post/164659/
+
+Как рисовали Зеленоград | https://habrahabr.ru/post/161975/
+
+Цифровая модель рельефа с использованием SRTM данных | https://habrahabr.ru/post/161201/
+
+OpenStreetMap переходит на Leaflet вместо OpenLayers | https://habrahabr.ru/post/160081/
+
+Загрузка картографии проекта OpenStreetMap.org в навигаторы GARMIN без слота под карты памяти | https://habrahabr.ru/post/158461/
+
+Какими онлайн-картами (не спутниковыми снимками) вы регулярно пользуетесь? | https://habrahabr.ru/post/146637/
+
+Структура данных проекта OpenStreetMap, заглянем под юбку сервису | https://habrahabr.ru/post/146503/
+
+Немного OSM и OpenLayers для корпоративных систем | https://habrahabr.ru/post/145552/
+
+Установка и настройка генератора тайлов на основе OSM данных в Ubuntu или Debian | https://habrahabr.ru/post/144675/
+
+Отображаем карты OpenStreetMap на iPhone 4 с учётом сетчаточного дисплея при помощи Leaflet | https://habrahabr.ru/post/143584/
+
+OpenStreetMap: разбор лицензионных соглашений и российского законодательства | https://habrahabr.ru/company/pravo/blog/142707/
+
+Мониторинг на коленке | https://habrahabr.ru/post/142689/
+
+OpenStreetMap на каждый день | https://habrahabr.ru/post/142129/
+
+Рендеринг мира | https://habrahabr.ru/post/142089/
+
+OpenStreetMap: три новых руководящих лицензионных соглашения | https://habrahabr.ru/company/pravo/blog/141876/
+
+OpenStreetMap News №16: новая лицензия и удаление данных, OSM теперь на сайте №1 в Японии и в ПРОГОРОДе, карта по требованию для поиска пропавшего ребёнка | https://habrahabr.ru/post/141148/
+
+OpenStreetMap News №15: +90% на osm.org, лучший сервис роутинга, объекты Википедии на карте, транспорт Владивостока | https://habrahabr.ru/post/140277/
+
+OpenStreetMap News №14: Apple и геокешеры тоже уходят от Google Maps, мониторинг транспорта в СПб — на OSM, а наши линуксоиды продолжают игнорировать этот успех свободы | https://habrahabr.ru/post/139641/
+
+OpenStreetMap News №13: foursquare и скорая помощь используют OSM, OSM представлен в парламенте Франции, ЕС рекомендует OSM, новые спутниковые снимки, создан Совет Российского OSM | https://habrahabr.ru/post/139200/
+
+Вышла библиотека Leaflet версии 0.3 | https://habrahabr.ru/post/138159/
+
+С IP-адресов Google осуществлён акт вандализма в отношении карт проекта OpenStreetMap | https://habrahabr.ru/post/136437/
+
+2011 год в проекте OSM. Красивая визуализация правок на глобусе | https://habrahabr.ru/post/135622/
+
+OpenStreetMap News №12: ДубльГИС (2ГИС) использует OSM, рисуем трассу Москва-СПб, видоурок по редактированию карты на русском | https://habrahabr.ru/post/135346/
+
+OpenStreetMap News №11: полмиллиона участников, новые стили карт на официальном сайте, переводим на русский название городов мира, конференция в Подмосковье, журнал об открытых данных | https://habrahabr.ru/post/134587/
+
+Полмиллиона участников! И будет ещё больше! | https://habrahabr.ru/post/133661/
+
+OpenStreetMap News №10: OSM на российском ТВ, статистика по улицам России, цель OSM — быть проще для обычных людей, интересные скриншоты карты | https://habrahabr.ru/post/133354/
+
+OpenStreetMap News №9: как рисовали Рим, рост нагрузки на сайт, семинары «Открытые карты Пермского края», русские — самые болтливые | https://habrahabr.ru/post/131740/
+
+OpenStreetMap в помощь велосипедистам | https://habrahabr.ru/post/131466/
+
+OpenStreetMap News №8 | https://habrahabr.ru/post/130008/
+
+Загрузка карты Грузии на OpenStreetMap закончена! | https://habrahabr.ru/post/127993/
+
+Нас в России уже более 10 тысяч человек! | https://habrahabr.ru/post/127719/
+
+Лицензия OpenStreetMap и Flickr (Creative Commons BY-SA версии 2.0) переведена на русский язык | https://habrahabr.ru/post/127692/
+
+OpenStreetMap News №7 | https://habrahabr.ru/post/127590/
+
+Конференция State of the Map Europe 2011 | https://habrahabr.ru/post/124797/
+
+Помогите OpenStreetMap, пока остывает ваш кофе | https://habrahabr.ru/post/123990/
+
+Пользователи открытых свободных географических карт (да и не только их) получили возможность использовать многочисленные открытые свободные значки | https://habrahabr.ru/post/123539/
+
+Вкратце о чтении блога «ШТОСМ» в ленте друзей в LiveJournal | https://habrahabr.ru/post/122822/
+
+OpenStreetMap News №6 | https://habrahabr.ru/post/122011/
+
+Kothic JS: рендерер OpenStreetMap, поддерживающий MapCSS/0.2, портировали на джаваскрипт, рисующий по холсту | https://habrahabr.ru/post/121291/
+
+Mapjumper — расширение для Chrome | https://habrahabr.ru/post/120299/
+
+Mapping party в Донецке 4 июня | https://habrahabr.ru/post/120148/
+
+OpenStreetMap News №5 | https://habrahabr.ru/post/119634/
+
+Появилась «Leaflet» — новая open source JavaScript-библиотека для любых карт | https://habrahabr.ru/post/119371/
+
+OpenStreetMap пользуются в ООН и отмечают решающую роль этой карты | https://habrahabr.ru/post/118069/
+
+OpenStreetMap News №4 | https://habrahabr.ru/post/117784/
+
+В проекте OpenStreetMap наблюдается серьёзный спад, роспуск неизбежен | https://habrahabr.ru/post/116608/
+
+Набег на Саранск: как за одни выходные сделать карту целого города | https://habrahabr.ru/post/115978/
+
+OpenStreetMap News №3 | https://habrahabr.ru/post/115348/
+
+Использование OpenStreetMap совместно с SQL Server | https://habrahabr.ru/post/113788/
+
+Где популярен OpenStreetMap? | https://habrahabr.ru/post/115227/
+
+OpenStreetMap News №2 | https://habrahabr.ru/post/115019/
+
+Секрет логотипа OpenStreetMap. Что означают цифры внутри лупы? | https://habrahabr.ru/post/114668/
+
+На OpenStreetMap началась большая загрузка карты Грузии, созданной волонтёрами | https://habrahabr.ru/post/114466/
+
+Как редактировать OpenStreetMap (видеопример) | https://habrahabr.ru/post/114105/
+
+Что новенького в моём районе? Отслеживайте правки OpenStreetMap с помощью списка наблюдения! | https://habrahabr.ru/post/113307/
+
+OpenStreetMap News №1 | https://habrahabr.ru/post/113230/
+
+Несколько фактов об OpenStreetMap на основе данных Alexa.com | https://habrahabr.ru/post/113202/
+
+Википедия любит OpenStreetMap | https://habrahabr.ru/post/112046/
+
+OpenLinkMap — путеводитель по ссылкам из OpenStreetMap | https://habrahabr.ru/post/112031/
+
+OpenStreetBrowser — поиск кафе, банкоматов, магазинов и многого другого на свободной карте OpenStreetMap | https://habrahabr.ru/post/110956/
+
+10 самых значимых событий на мировом рынке ГИС в 2010 году | https://habrahabr.ru/post/110720/
+
+Трёхмерные здания из OpenStreetMap | https://habrahabr.ru/post/110479/
+
+OpenStreetMap и kosmosnimki.ru: смешать, но не взбалтывать | https://habrahabr.ru/post/109670/
+
+Вы смотрели как прорисованы и выглядят знакомые вам места (дом, работа, дача) на OpenStreetMap? | https://habrahabr.ru/post/109227/
+
+На сайте OpenStreetMap запущен новый полностью переписанный редактор Potlatch 2 | https://habrahabr.ru/post/109037/
+
+Основатель OpenStreetMap переходит на работу в Microsoft, а OSM получает доступ к спутниковым снимкам Bing | https://habrahabr.ru/post/108699/
+
+OSM и карта лежачих полицейских в навигаторах | https://habrahabr.ru/post/108226/
+
+The True Mapping Party. Как мы делали карту Великих Лук | https://habrahabr.ru/post/105807/
+
+OpenStreetMap в университетах. Почему бы и нет? | https://habrahabr.ru/post/105718/
+
+OpenStreetMap и карты пожаров России: проект недели | https://habrahabr.ru/post/101922/
+
+OpenStreetBugs — лёгкий способ сообщить об ошибке в OpenStreetMap | https://habrahabr.ru/post/93795/
+
+Работа с OSM под Linux | https://habrahabr.ru/post/91171/
+
+Визуализация правок OpenStreetMap на глобусе | https://habrahabr.ru/post/85836/
+
+Визуализация правок Гаити в OpenStreetMap | https://habrahabr.ru/post/85236/
+
+Спасатели на Гаити используют OpenStreetMap | https://habrahabr.ru/post/83513/
+
+Загрузка русских карт с OpenStreetMap в Garmin Oregon 300 | https://habrahabr.ru/post/73910/
+

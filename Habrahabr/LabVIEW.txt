@@ -1,0 +1,30 @@
+Программирование микрокомпьютера LEGO NXT Mindstorms 2.0. Введение | https://habrahabr.ru/post/274519/
+
+Исправляем Alt-Tab в LabView | https://habrahabr.ru/post/260723/
+
+Олимпиада по программированию в LabVIEW. Решение команды-победительницы | https://habrahabr.ru/post/260289/
+
+ПЛК100 + LabVIEW + джойстик v2.0 | https://habrahabr.ru/post/249295/
+
+ПЛК100 + LabVIEW + джойстик | https://habrahabr.ru/post/248357/
+
+Термокоса под управлением Arduino и LabVIEW | https://habrahabr.ru/post/242377/
+
+Обзор некоторых разноплановых виртуальных приборов среды LabVIEW в помощь разработчику (с исходниками) | https://habrahabr.ru/post/234895/
+
+Расширение возможностей стандартных робототехнических конструкторов с использованием LabView | https://habrahabr.ru/post/233259/
+
+LabView в робототехнике — создание SCADA системы для управления роботом | https://habrahabr.ru/post/223395/
+
+LabVIEW и вариабельность сердечного ритма (+исходники) | https://habrahabr.ru/post/181834/
+
+Аналог игры Wack-a-mole на LabVIEW | https://habrahabr.ru/post/173113/
+
+Lego представила Mindstorms EV3 | https://habrahabr.ru/post/164971/
+
+А будет ли дождь? | https://habrahabr.ru/post/164735/
+
+Создание отчетов в GLPI | https://habrahabr.ru/post/131155/
+
+LabVIEW — первое знакомство | https://habrahabr.ru/post/57859/
+

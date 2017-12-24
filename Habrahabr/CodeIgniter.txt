@@ -1,0 +1,132 @@
+Регистрация и авторизация пользователя на сайте — одним кликом — через кастомную кнопку Facebook. 2017 | https://habrahabr.ru/post/325514/
+
+CodeIgniter 4 | https://habrahabr.ru/post/275657/
+
+Пара полезностей для CodeIgniter | https://habrahabr.ru/post/268239/
+
+Как я Google API с CodeIgniter A3M подружить пытался и что из этого вышло | https://habrahabr.ru/post/266339/
+
+Релиз CodeIgniter 3.0.0 | https://habrahabr.ru/post/254603/
+
+Интеграция phpBB в сайт (Codeigniter). Сквозная авторизация | https://habrahabr.ru/post/253773/
+
+Наш любимый CodeIgniter обрёл новый дом | https://habrahabr.ru/company/ua-hosting/blog/240109/
+
+Делаем авторизацию на Codeigniter 2.0 при помощи ajax и HMVC | https://habrahabr.ru/post/235175/
+
+CodeIgniter 3.0 — будет! | https://habrahabr.ru/post/231847/
+
+CodeIgniter стал прекрасней, благодаря Bonfire | https://habrahabr.ru/post/205492/
+
+Ajax загрузка файлов средствами jQuery и CodeIgniter | https://habrahabr.ru/post/200916/
+
+Как я делал мультиязычность на Codeigniter | https://habrahabr.ru/post/199268/
+
+Встраивание своей классовой структуры в проект на CodeIgniter | https://habrahabr.ru/post/178749/
+
+Стандарт разработки приложений на CodeIgniter | https://habrahabr.ru/post/167857/
+
+Расширение помощника CAPTCHA для Codeigniter | https://habrahabr.ru/post/161635/
+
+Грамотное определение языка пользователя | https://habrahabr.ru/post/159129/
+
+Пакеты(packages) в Fuelphp | https://habrahabr.ru/post/156449/
+
+Поддержка пространства имен в PHP 5.3. Примеры работы на ImageCMS | https://habrahabr.ru/company/imagecms/blog/148733/
+
+HyperActive Record – недо-ORM на CodeIgniter | https://habrahabr.ru/post/148462/
+
+Google Cloud Messaging: Библиотека для Codeigniter и пара отличий Google Cloud Messaging и Apple Push Notifications | https://habrahabr.ru/post/147592/
+
+Стоит ли продолжать работу с CodeIgniter в существующем проекте? | https://habrahabr.ru/company/imagecms/blog/141791/
+
+CodeIgniter Command Line library — небольшой ассистент для работы с CLI | https://habrahabr.ru/post/141448/
+
+Grocery CRUD, или как я облегчил себе жизнь на неделю | https://habrahabr.ru/post/140744/
+
+Codeigniter Notify (UPD:16.06.12) | https://habrahabr.ru/post/140293/
+
+Эволюция ImageCMS или что нужно, чтобы стать серьезным конкурентом на рынке CMS | https://habrahabr.ru/company/imagecms/blog/139828/
+
+Миграции баз данных — интеграция с вашим приложением | https://habrahabr.ru/post/133395/
+
+Миграции баз данных — обзор библиотеки и ее использование | https://habrahabr.ru/post/133312/
+
+Использование драйверов в CodeIgniter | https://habrahabr.ru/post/132494/
+
+Codeigniter: делаем сессии наконец стабильными (прежде всего для авторизаций) | https://habrahabr.ru/post/130853/
+
+Каркас для web-приложений, построенный на CodeIgniter | https://habrahabr.ru/post/130387/
+
+Интеграция шаблонизатора Twig в CodeIgniter 2 | https://habrahabr.ru/post/129537/
+
+Альтернатива mysql_pconnect для драйвера mysqli в php 5.3 | https://habrahabr.ru/post/129482/
+
+Консоль для CodeIgniter | https://habrahabr.ru/post/126833/
+
+CodeIgniter 2.0.0 Released | https://habrahabr.ru/post/112753/
+
+Доменная (LDAP) аутентификация в Codeigniter | https://habrahabr.ru/post/111160/
+
+Как сделать FULLTEXT поиск в CMS на CodeIgniter | https://habrahabr.ru/post/110557/
+
+Добавляем так недостающий parse_string() | https://habrahabr.ru/post/95167/
+
+Новости CodeIgniter — 2.0 soon | https://habrahabr.ru/post/87359/
+
+Доработка стандартного механизма обработки ошибок в CodeIgniter | https://habrahabr.ru/post/74381/
+
+Вышел CodeIgniter 1.7.2 | https://habrahabr.ru/post/69382/
+
+CodeIgniter + lighttpd = ЧПУ | https://habrahabr.ru/post/65408/
+
+Гибкий base_url | https://habrahabr.ru/post/58237/
+
+CodeIgniter Debug Toolbar | https://habrahabr.ru/post/55477/
+
+Автодополнение функций CodeIgniter в NetBeans | https://habrahabr.ru/post/55333/
+
+MVC на примере CodeIgniter | https://habrahabr.ru/post/52610/
+
+Расширение класса Form_validation поддержкой значений полей по умолчанию | https://habrahabr.ru/post/52412/
+
+CodeIgniter 1.7.1 | https://habrahabr.ru/post/51697/
+
+Руководство пользователя на русском в формате chm | https://habrahabr.ru/post/48988/
+
+CodeIgniter 1.7.0 | https://habrahabr.ru/post/43148/
+
+ЧПУ + GET | https://habrahabr.ru/post/42172/
+
+Правильная интеграция Doctrine в CodeIgniter | https://habrahabr.ru/post/41661/
+
+Барахолка с нуля. Часть 1 | https://habrahabr.ru/post/41620/
+
+Решение проблемы с русскими символами в URL | https://habrahabr.ru/post/40465/
+
+Планирую написать цикл статей о разработке сайта с нуля на Codeigniter. Как вам? | https://habrahabr.ru/post/40414/
+
+Почему нужно использовать php-framework’и, на примере codeigniter | https://habrahabr.ru/post/38696/
+
+Codeigniter with PEAR | https://habrahabr.ru/post/37929/
+
+Вложенные папки для библиотек | https://habrahabr.ru/post/36772/
+
+Создание PDF в CodeIgniter c помощью R&OS pdf class | https://habrahabr.ru/post/31681/
+
+Codeigniter — облегчаем себе жизнь (расширяем модель) | https://habrahabr.ru/post/30535/
+
+Codeigniter — облегчаем себе жизнь (расширяем базовый контроллер) | https://habrahabr.ru/post/30521/
+
+CodeIgniter Textmate bundle (+E-Texteditor (Windows)) | https://habrahabr.ru/post/28381/
+
+CodeIgniter русМоддинг | https://habrahabr.ru/post/28319/
+
+CodeIgniter 1.6.3 | https://habrahabr.ru/post/28303/
+
+баг с запретом символа процента перепрятан | https://habrahabr.ru/post/28273/
+
+Отправка почты в CodeIgniter | https://habrahabr.ru/post/27421/
+
+CodeIgniter 1.6.2 | https://habrahabr.ru/post/25467/
+

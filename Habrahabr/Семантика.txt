@@ -1,0 +1,434 @@
+Функция, сценарий и аппроксимация событий | https://habrahabr.ru/post/344890/
+
+Две компетенции аналитика | https://habrahabr.ru/post/344856/
+
+Проекционное моделирование | https://habrahabr.ru/post/344738/
+
+Что скрыто за термином моделирование | https://habrahabr.ru/post/343316/
+
+Пирожки в Go | https://habrahabr.ru/post/343788/
+
+«Автоматический детектор спама». Или «О чем предупреждали Хемингуэй, Хаксли и Постман?» | https://habrahabr.ru/post/343268/
+
+Фундаментальная ошибка системной инженерии | https://habrahabr.ru/post/342496/
+
+Происхождение объектов учета | https://habrahabr.ru/post/342236/
+
+Роли, их моделирование в ИС | https://habrahabr.ru/post/342188/
+
+Выбираем поставщика IT-решений и сохраняем рассудок | https://habrahabr.ru/company/roi4cio/blog/341906/
+
+Русскоязычный чат-бот Boltoon: создаем виртуального собеседника | https://habrahabr.ru/post/340190/
+
+В поисках разума: можно ли сделать “универсальный” чат-бот с помощью нейронных сетей? | https://habrahabr.ru/company/meanotek/blog/339872/
+
+Моделирование объектов, функций и операций. Мереологические отношения между объектами данного типа | https://habrahabr.ru/post/339788/
+
+Семантическая разметка: LaTeX, DocBook или ??? | https://habrahabr.ru/post/339436/
+
+Генерация коротких текстов с ограничивающими условиями — для рекламы и других целей | https://habrahabr.ru/company/meanotek/blog/339240/
+
+Типы моделей | https://habrahabr.ru/post/336272/
+
+Как Яндекс научил искусственный интеллект понимать смысл документов | https://habrahabr.ru/company/yandex/blog/336094/
+
+Красочный код: как цвет помогает в работе с кодом | https://habrahabr.ru/post/335692/
+
+Как работает нейронный машинный перевод? | https://habrahabr.ru/company/lokalise/blog/334342/
+
+Как запутать аналитика — 5. Понятийный аппарат | https://habrahabr.ru/post/332822/
+
+Как запутать аналитика — 4. Вероятность и точность | https://habrahabr.ru/post/332668/
+
+Как запутать аналитика. Часть третья. Глаголы и числительные | https://habrahabr.ru/post/332506/
+
+Как запутать аналитика. Часть вторая: что такое моделирование предметной области? | https://habrahabr.ru/post/332064/
+
+Как запутать аналитика. Часть первая | https://habrahabr.ru/post/331882/
+
+Понятия: множество, тип, атрибут | https://habrahabr.ru/post/330196/
+
+Моделирование конструкций. Требования к моделлеру | https://habrahabr.ru/post/329576/
+
+Учим робота слушать разговоры | https://habrahabr.ru/company/uis/blog/329456/
+
+Упущенные возможности BigData | https://habrahabr.ru/post/329390/
+
+Нейронные сети, генетические алгоритмы и прочее… Мифы и реальность. Версия II | https://habrahabr.ru/post/328668/
+
+Как давать определения? | https://habrahabr.ru/post/328228/
+
+Понятие системы и конструкции. Их место в проектировании информационных систем | https://habrahabr.ru/post/328192/
+
+Классификация конструкций: примеры и заблуждения | https://habrahabr.ru/post/327688/
+
+TypeScript в Slack | https://habrahabr.ru/post/326854/
+
+Как говорить с искусственным интеллектом? | https://habrahabr.ru/company/wolfram/blog/326570/
+
+Зачем использовать статические типы в JavaScript? (Преимущества и недостатки) | https://habrahabr.ru/post/326394/
+
+Векторные модели и русская литература | https://habrahabr.ru/post/326380/
+
+Зачем использовать статические типы в JavaScript? (Пример статической типизации на Flow) | https://habrahabr.ru/post/326304/
+
+Кластеризация текстовых документов по семантическим признакам (часть вторая: описание моделей) | https://habrahabr.ru/post/324998/
+
+Технологический стек классификации текстов на естественных языках | https://habrahabr.ru/post/324686/
+
+Кластеризация текстовых документов по семантическим признакам (часть первая: описание алгоритма) | https://habrahabr.ru/post/324540/
+
+Нейронные сети, генетические алгоритмы и прочее… Мифы и реальность | https://habrahabr.ru/post/321140/
+
+Строгое определение понятий: объект, состояние, событие, бизнес-операция и бизнес- функция | https://habrahabr.ru/post/319442/
+
+Трудности в моделировании операций стандартными способами. Моделирование 4-объектов, постановка задачи | https://habrahabr.ru/post/319032/
+
+Постановка задачи: Объекты учета и моделирование отношений между ними | https://habrahabr.ru/post/318924/
+
+Натягиваем ФП на ООП | https://habrahabr.ru/post/318908/
+
+Трудности на пути создания «универсальной» метамодели для моделирования предметных областей | https://habrahabr.ru/post/318874/
+
+Кнопка или ссылка? | https://habrahabr.ru/post/317728/
+
+Сравнение технологических подходов к решению задач по извлечению данных | https://habrahabr.ru/post/315994/
+
+Искусственный интеллект в поиске. Как Яндекс научился применять нейронные сети, чтобы искать по смыслу, а не по словам | https://habrahabr.ru/company/yandex/blog/314222/
+
+ASO оптимизация. Составление семантического ядра для магазинов приложений | https://habrahabr.ru/post/314068/
+
+Упрощаем бинарный поиск в Excel — реализация Double VLOOKUP Trick с помощью UDF | https://habrahabr.ru/post/313476/
+
+Лекции Техносферы. 2 семестр. Информационный поиск (весна 2016) | https://habrahabr.ru/company/mailru/blog/312972/
+
+Как собрать биграммы для корпуса любого размера на домашнем компьютере | https://habrahabr.ru/post/312490/
+
+Парсинг резюме | https://habrahabr.ru/post/301936/
+
+Визуализация и работа с историческими данными: интерактивные карты и linked data базы знаний для изучения истории | https://habrahabr.ru/post/309448/
+
+Семантический перенос строк | https://habrahabr.ru/post/307388/
+
+От Англии до Таинственного острова вместе с героями романов Жюля Верна | https://habrahabr.ru/company/abbyy/blog/305970/
+
+Вторые ряды ассоциаций, или как заставить робота читать «между строк» | https://habrahabr.ru/post/304324/
+
+WRIO Internet OS. Архитектура: Linked Data и JSON-LD | https://habrahabr.ru/post/304298/
+
+Зачем нужно моделировать индивидуальные и типовые сценарии? | https://habrahabr.ru/post/304242/
+
+Опрос: насколько строго вы следуете стандартам и лучшим практикам на фронтенде? | https://habrahabr.ru/post/303918/
+
+Вам Telegramma: SPARQL-инъекции и CSRF через Telegram-сообщения в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/282173/
+
+Как мы делали систему выделения информации из текста на естественном языке для банка АО «Банк ЦентрКредит» (Казахстан) | https://habrahabr.ru/company/meanotek/blog/302308/
+
+Введение в продолжения и макросы на Scheme | https://habrahabr.ru/post/302186/
+
+Не мы такие — жизнь такая: Тематический анализ для самых нетерпеливых | https://habrahabr.ru/company/surfingbird/blog/301922/
+
+Сосчитать незримое: достоверно определяем словарный запаc | https://habrahabr.ru/company/skyeng/blog/301214/
+
+Insider API: поиск трендов и быстрая навигация в текстах соц. и традиционных медиа | https://habrahabr.ru/post/270607/
+
+Из командной строки за знаниями | https://habrahabr.ru/post/282067/
+
+Создание экспертной системы в Wi!Mi 1.1 | https://habrahabr.ru/post/280974/
+
+Частотный словарь запрещённых сайтов | https://habrahabr.ru/post/280470/
+
+Четыре слова, которые нельзя (исследование русской обсценной лексики на материалах соц.медиа) | https://habrahabr.ru/company/palitrumlab/blog/280450/
+
+Русский нейросетевой чатбот | https://habrahabr.ru/company/meanotek/blog/280268/
+
+Логическая витрина для доступа к большим данным | https://habrahabr.ru/post/280051/
+
+Word2Vec: классификация текстовых документов | https://habrahabr.ru/post/277563/
+
+Создание онтологии в Protégé 5.0 | https://habrahabr.ru/post/277413/
+
+Реализация семантического новостного агрегатора с широкими поисковыми возможностями | https://habrahabr.ru/post/277351/
+
+Отношение «часть – целое» в темпоральной/событийной онтологии | https://habrahabr.ru/post/276987/
+
+Концептуальное описание индивидов | https://habrahabr.ru/post/276271/
+
+Исходные коды библиотеки нейронных сетей на F# для .NET Framework | https://habrahabr.ru/company/meanotek/blog/276115/
+
+Пирожки в дистрибутивной семантике | https://habrahabr.ru/post/275913/
+
+Классы, множества, группы, системы | https://habrahabr.ru/post/275865/
+
+Некоторые современные подходы в области обработки естественного языка | https://habrahabr.ru/post/274577/
+
+FactRuEval — соревнование по выделению именованных сущностей и извлечению фактов | https://habrahabr.ru/company/abbyy/blog/273965/
+
+Война, мир и ABBYY Compreno: продолжение нашего романа с Толстым | https://habrahabr.ru/company/abbyy/blog/273301/
+
+«Задачник» для ABBYY Compreno | https://habrahabr.ru/company/abbyy/blog/272813/
+
+Практические аспекты автоматической генерации уникальных текстов для SEO | https://habrahabr.ru/company/meanotek/blog/271965/
+
+Интенсив по немецкому: как ABBYY Compreno учит новые языки | https://habrahabr.ru/company/abbyy/blog/271601/
+
+Как решить проблему машинного понимания естественного языка | https://habrahabr.ru/post/271321/
+
+Библиотека машинного обучения Google TensorFlow – первые впечатления и сравнение с собственной реализацией | https://habrahabr.ru/company/meanotek/blog/271053/
+
+Семантические технологии просто и доступно на примере родословных | https://habrahabr.ru/post/270857/
+
+Понятия естественного языка против формальных классификаций в OpenStreetMap | https://habrahabr.ru/post/269733/
+
+Алгоритм извлечения информации в ABBYY Compreno. Часть 2 | https://habrahabr.ru/company/abbyy/blog/269273/
+
+Алгоритм извлечения информации в ABBYY Compreno. Часть 1 | https://habrahabr.ru/company/abbyy/blog/269191/
+
+Сколько твитов нужно, чтобы узнать ваш характер? | https://habrahabr.ru/company/palitrumlab/blog/267247/
+
+Что именно заставляет глубинное обучение и нейронные сети работать хорошо? | https://habrahabr.ru/company/meanotek/blog/266961/
+
+ACM SIGIR 2015: ключевые тренды развития поисковых технологий | https://habrahabr.ru/company/textocat/blog/265113/
+
+API для валидатора от Яндекса. А также почему валидаторы микроразметки выдают разные ответы? | https://habrahabr.ru/company/yandex/blog/265965/
+
+Hybrid Conf — первая конференция о programmatic-advertising в России | https://habrahabr.ru/company/targetix/blog/264195/
+
+Text Analytics as Commodity: обзор приложений текстовой аналитики | https://habrahabr.ru/company/textocat/blog/259035/
+
+Как можно использовать искусственный интеллект для решения SEO-задач | https://habrahabr.ru/post/262809/
+
+Сентимент анализ текста | https://habrahabr.ru/company/palitrumlab/blog/262595/
+
+Анализ тональности в социальных медиа на русском языке при помощи RussianSentimentAnalyzer API | https://habrahabr.ru/post/262213/
+
+Простой метод для извлечения соотношений и фактов из текста | https://habrahabr.ru/company/meanotek/blog/262271/
+
+Анализ отзывов посетителей ресторанов с Meanotek NeuText API | https://habrahabr.ru/company/meanotek/blog/260507/
+
+Автоматическая генерация осмысленных уникальных текстов | https://habrahabr.ru/company/meanotek/blog/259355/
+
+Как я научился делать мир лучше в HeadHunter | https://habrahabr.ru/company/hh/blog/258933/
+
+Технологии Semantic Web | https://habrahabr.ru/company/itis/blog/258405/
+
+Сериал: Big Data — как мечта. 9-я серия: Почему IBM был вынужден купить «Алхимиков» за $100млн | https://habrahabr.ru/company/palitrumlab/blog/258607/
+
+Открыта регистрация на конференцию по компьютерной лингвистике «Диалог» | https://habrahabr.ru/company/abbyy/blog/258485/
+
+Создание своей модели для извлечения информации из текста с помощью web-API от Meanotek | https://habrahabr.ru/company/meanotek/blog/258211/
+
+Извлечение упоминаний сущностей и поиск в Textocat API | https://habrahabr.ru/company/textocat/blog/256165/
+
+Концептуальное моделирование: How Many? How Much? | https://habrahabr.ru/post/257217/
+
+Chatbot на нейронных сетях | https://habrahabr.ru/company/meanotek/blog/256987/
+
+Особенности концептуального моделирования предметной области | https://habrahabr.ru/post/256823/
+
+Драйвер-паки и их индексы | https://habrahabr.ru/company/driverpack/blog/254429/
+
+Не очень большие данные и определение тональности текста | https://habrahabr.ru/post/256787/
+
+Сравнение субъектно-событийного подхода с существующими BPM системами | https://habrahabr.ru/post/256607/
+
+Классификация предложений с помощью нейронных сетей без предварительной обработки | https://habrahabr.ru/company/meanotek/blog/256593/
+
+Субъектно-событийный подход к моделированию сложных систем | https://habrahabr.ru/post/256509/
+
+Темпорально-релятивистское онтологическое пространство | https://habrahabr.ru/post/256331/
+
+Как мы придумывали систему анализа текстов | https://habrahabr.ru/company/meanotek/blog/256303/
+
+WEB 3.0. От сайтоцентризма к юзероцентризму, от анархии к плюрализму | https://habrahabr.ru/post/256083/
+
+Философия эволюции и эволюция интернета | https://habrahabr.ru/post/255745/
+
+Моделирование функциональных и физических событий в логической парадигме | https://habrahabr.ru/post/254445/
+
+Создание семантических сайтов с помощью веб-компонентов и JSON-LD | https://habrahabr.ru/post/253479/
+
+Deep Learning, NLP, and Representations | https://habrahabr.ru/post/253227/
+
+Класс объектов или объекты класса? | https://habrahabr.ru/post/252467/
+
+Новый инструмент проверки структурированных данных, документация и не только | https://habrahabr.ru/company/google/blog/250179/
+
+Новый инвариант натурального числа. Теорема и доказательство | https://habrahabr.ru/post/249427/
+
+Word2Vec в примерах | https://habrahabr.ru/post/249215/
+
+На тему моделирования предметной области в терминах ООП | https://habrahabr.ru/post/249193/
+
+Особенности моделирования предметной области с помощью ООП | https://habrahabr.ru/post/249165/
+
+Зачем нам нужен понятный язык? | https://habrahabr.ru/company/infoculture/blog/248501/
+
+Онтоинженер: от сотворения мира к порождению сущностей | https://habrahabr.ru/company/abbyy/blog/246039/
+
+BPMN: Моделирование физических событий | https://habrahabr.ru/post/247457/
+
+Физические и функциональные объекты (Продолжение) | https://habrahabr.ru/post/247225/
+
+Что такое событие, или зачем четырехмерная геометрия бизнес-аналитику? | https://habrahabr.ru/post/246991/
+
+Знакомство с парадигмами построения моделей предметной области | https://habrahabr.ru/post/246313/
+
+Имитационное моделирование: создание терминов | https://habrahabr.ru/post/246307/
+
+Онтоинженер: работа по понятиям | https://habrahabr.ru/company/abbyy/blog/245509/
+
+Информационные объекты или причина одного заблуждения | https://habrahabr.ru/post/246017/
+
+Не только Яндексу. Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам | https://habrahabr.ru/company/yandex/blog/246003/
+
+Моделирование функциональных объектов | https://habrahabr.ru/post/245267/
+
+В поисках Святого Грааля бизнес-анализа | https://habrahabr.ru/post/245241/
+
+Десять типичных вопросов на собеседованиях на знание HTML | https://habrahabr.ru/post/244929/
+
+Препроцессоры и метаязыки в программах исправления ошибок | https://habrahabr.ru/post/244905/
+
+Триггеры, права доступа и версионность в точке доступа SPARQL | https://habrahabr.ru/post/240295/
+
+Простой способ оценки понятности текста на русском языке | https://habrahabr.ru/post/239511/
+
+Что такое «Понятный русский язык» с точки зрения технологий. Заглянем в метрики удобочитаемости текстов | https://habrahabr.ru/company/infoculture/blog/238875/
+
+Заглянем под капот: Microsoft Outlook 2013 Attachments Reminder | https://habrahabr.ru/post/236049/
+
+Редактор структурированных данных общего назначения | https://habrahabr.ru/post/231757/
+
+Тестирование лингвистических технологий: соревнования по автоматическому разрешению кореферентности и анафоры | https://habrahabr.ru/company/abbyy/blog/229515/
+
+Любительский подход к компьютерной лингвистике | https://habrahabr.ru/post/229403/
+
+Сложный и противоречивый мир синтаксиса микроразметки. Почему стандартов так много? Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/221881/
+
+Создание сетей терминов на основе анализа текстов | https://habrahabr.ru/post/219243/
+
+Как устроен мир семантической микроразметки | https://habrahabr.ru/company/yandex/blog/211638/
+
+«Чем это сделать?»: поиск API — методики и проблемы | https://habrahabr.ru/post/204124/
+
+Базы знаний. Часть 2. Freebase: делаем запросы к Google Knowledge Graph | https://habrahabr.ru/post/177217/
+
+Базы знаний. Часть 1 — введение | https://habrahabr.ru/post/195650/
+
+Semantic Forms для MediaWiki | https://habrahabr.ru/post/181474/
+
+Яндекс поддержал Wikidata | https://habrahabr.ru/company/yandex/blog/182360/
+
+ISO 15926 vs Семантика: сравнительный анализ семантических моделей | https://habrahabr.ru/post/178973/
+
+Semantic MediaWiki | https://habrahabr.ru/post/173877/
+
+Редактор онтологий на естественном языке | https://habrahabr.ru/post/173015/
+
+Цитатник в облаках | https://habrahabr.ru/post/169761/
+
+Технологии Semantic Web для интеграции информационных систем | https://habrahabr.ru/post/167419/
+
+Как и для чего мы сделали свой валидатор микроразметки | https://habrahabr.ru/company/yandex/blog/165727/
+
+Создание частотного словаря на основе анализа библиотеки художественной литературы | https://habrahabr.ru/post/162323/
+
+Text Mining Framework (Java) | https://habrahabr.ru/post/158165/
+
+Идеальное хранилище документов | https://habrahabr.ru/post/148670/
+
+Универсальный валидатор микроразметки в Яндекс.Вебмастере | https://habrahabr.ru/company/yandex/blog/148737/
+
+SPARQL запросы к содержимому HTML страниц | https://habrahabr.ru/post/147579/
+
+Семантическая сеть, ARC2 и PHP | https://habrahabr.ru/post/142159/
+
+Немного о Microdata | https://habrahabr.ru/post/141216/
+
+Wikidata: первый новый проект Wikimedia Foundation с 2006 года | https://habrahabr.ru/post/141150/
+
+С чего начинаются онтологии | https://habrahabr.ru/post/140696/
+
+Открыт офис W3C в России | https://habrahabr.ru/post/138393/
+
+Информационные интеллектуальные сети и Семантический Веб | https://habrahabr.ru/post/116574/
+
+Тим Бернерс-Ли: Facebook может фрагментировать Сеть | https://habrahabr.ru/post/108687/
+
+Виртуальный хор | https://habrahabr.ru/post/107255/
+
+Настоящее семантической паутины | https://habrahabr.ru/post/106499/
+
+Осенняя школа Semantic Web в ИТМО | https://habrahabr.ru/post/105809/
+
+Google приобрёл компанию Metaweb и базу знаний Freebase | https://habrahabr.ru/post/99461/
+
+RDF Это просто | https://habrahabr.ru/post/94707/
+
+FOAF и пример | https://habrahabr.ru/post/83560/
+
+Графический редактор на HTML5 + JS | https://habrahabr.ru/post/83665/
+
+Web 3.0 или жизнь без рекламы? | https://habrahabr.ru/post/79698/
+
+Внедрение семантических данных в HTML | https://habrahabr.ru/post/79399/
+
+Семантическая паутина — что мы можем делать уже сейчас | https://habrahabr.ru/post/79371/
+
+Элементы семантической паутины | https://habrahabr.ru/post/79210/
+
+Семантическое будущее Веба — SemanticFuture.Net | https://habrahabr.ru/post/77090/
+
+Сравнительный анализ фреймворков для работы с онтологиями под .NET и Java | https://habrahabr.ru/post/60334/
+
+Машинная обработка естественных языков: Apache UIMA | https://habrahabr.ru/post/56461/
+
+Новый перевод стандарта W3C — Sparql protocol for RDF | https://habrahabr.ru/post/52776/
+
+Семантический веб как операционная система: с пользователями и правами доступа! | https://habrahabr.ru/post/52003/
+
+SEMANTIC WEB for the WORKING ONTOLOGIST | https://habrahabr.ru/post/51751/
+
+Простой RDF-репозиторий на PHP и MySQL для начинающих | https://habrahabr.ru/post/49769/
+
+Как мы будем взаимодействовать с сетью данных? | https://habrahabr.ru/post/47093/
+
+Какие тенденции Web 3.0 будут наиболее актуальны в ближайшее время? | https://habrahabr.ru/post/35553/
+
+Семантический поиск: мифы и реальность | https://habrahabr.ru/post/31600/
+
+Конференция SemTech 2008 | https://habrahabr.ru/post/26251/
+
+i360. Семантика во всем | https://habrahabr.ru/post/31562/
+
+Про понимание Web 3.0 рекламодателями хабра и мною. | https://habrahabr.ru/post/18825/
+
+FOAF for dummies | https://habrahabr.ru/post/18263/
+
+RDF for dummies | https://habrahabr.ru/post/17946/
+
+Семантическому вебу — крутые адреса! | https://habrahabr.ru/post/17808/
+
+Большая паранойя 2. Алчность наносит ответный удар. | https://habrahabr.ru/post/17570/
+
+Семантизация Wordpress. | https://habrahabr.ru/post/17359/
+
+Библиотека 3.0 | https://habrahabr.ru/post/16643/
+
+Геопространственные данные | https://habrahabr.ru/post/16026/
+
+W3C: Логотип семантической сети и юзербары | https://habrahabr.ru/post/15639/
+
+Что ж такое этот загадочный третий веб? | https://habrahabr.ru/post/14849/
+
+Вышло расширение Firefox Tabulator | https://habrahabr.ru/post/13999/
+
+SIOC теперь в подчинении W3C | https://habrahabr.ru/post/13497/
+
+Отчет Multimedia Semantics Incubator Group на W3C | https://habrahabr.ru/post/31224/
+
+Как создать соединения между обсуждениями с помощью SIOC | https://habrahabr.ru/post/31186/
+
+Как создать соединению между обсуждениями с помощью SIOC | https://habrahabr.ru/post/31175/
+

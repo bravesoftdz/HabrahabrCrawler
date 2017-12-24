@@ -1,0 +1,2300 @@
+Нагрузочное тестирование на фреймворке Gatling | https://habrahabr.ru/company/tinkoff/blog/344818/
+
+Исследование движений глаз: айтрекинг без видеокамеры и иные решения | https://habrahabr.ru/company/neurodatalab/blog/344782/
+
+Разработка через приемочные тесты (ATDD). Что это такое, и с чем его едят | https://habrahabr.ru/post/344588/
+
+Как написать UI-тесты с использованием Instagram-аккаунтов и не получить блок | https://habrahabr.ru/post/344408/
+
+Python Meetup 14.11.2017: Python в Порту, Aiohttp и снова тесты | https://habrahabr.ru/company/wargaming/blog/344234/
+
+Selenium: Накачиваем Мышцы | https://habrahabr.ru/post/344340/
+
+ISTQBить или не ISTQBить? Подготовка к сертификации Test Manager Advanced Level | https://habrahabr.ru/company/luxoft/blog/344452/
+
+Митап BugBusters: Все о Selenium, эффективных автоматизаторах и буднях нагрузочных тестировщиков | https://habrahabr.ru/company/yamoney/blog/344412/
+
+Пять идей «на вооружение», или Впечатления от московского «Гейзенбага» | https://habrahabr.ru/post/344346/
+
+Переход из тестировщика в руководители проектов | https://habrahabr.ru/company/mobileup/blog/344266/
+
+TeamCity 2017.2: 100 бесплатных билд конфигураций, Docker, .NET CLI, композитные билды и улучшения в Kotlin DSL | https://habrahabr.ru/company/JetBrains/blog/344166/
+
+Selenium Manager: история одного интерфейса | https://habrahabr.ru/company/badoo/blog/344030/
+
+Шоу, учебник, справочник и договор: анонс бесплатной YouTube-трансляции Heisenbug 2017 Moscow | https://habrahabr.ru/company/jugru/blog/343948/
+
+Tcl/Tk. Тематические виджеты TTK и дизайнер TKproE-2.20 | https://habrahabr.ru/post/343930/
+
+Строгая типизация в нестрогих тестах | https://habrahabr.ru/post/343720/
+
+Тестирование LLVM | https://habrahabr.ru/post/343594/
+
+Регрессионные тесты на утечки памяти, или как написать memory profiler для .NET приложений | https://habrahabr.ru/company/ascon/blog/343684/
+
+Интеграционные тесты для Java с помощью TestContainers. Меньше безумия, больше порядка, и всё это автоматически | https://habrahabr.ru/company/jugru/blog/343298/
+
+Обзор программы Heisenbug 2017 Moscow: сколько нужно тестировщиков, чтобы запустить тесты на атомной электростанции? | https://habrahabr.ru/company/jugru/blog/343020/
+
+Особенности ручного тестирования в ALM Works и Одноклассниках | https://habrahabr.ru/company/jugru/blog/342954/
+
+Когда стоит переходить к автоматизации тестирования | https://habrahabr.ru/company/jugru/blog/342780/
+
+Берегите ревьюверов: методы автоматизации анализа кода | https://habrahabr.ru/company/efs/blog/342634/
+
+Тестирование ssd P4800X | https://habrahabr.ru/post/342714/
+
+Dive into ICO | https://habrahabr.ru/post/342534/
+
+Будни тестировщика, или при чем тут Пирамида Маслоу | https://habrahabr.ru/company/yamoney/blog/342276/
+
+Топ 10 инструментов автоматизации тестирования 2018 | https://habrahabr.ru/post/342234/
+
+Не трогайте логи руками. Часть 2: как мы внедряли Unified Logfile Analyser | https://habrahabr.ru/company/efs/blog/342112/
+
+Тестирование глазами разработчика: инструменты, мифы, ситуации | https://habrahabr.ru/company/dataart/blog/342098/
+
+Пишем действительно тестируемый код | https://habrahabr.ru/company/jugru/blog/341944/
+
+В поисках самого лучшего способа тестирования системы | https://habrahabr.ru/company/jugru/blog/341852/
+
+Тестирование debian пакетов в Travis-CI | https://habrahabr.ru/post/341674/
+
+Kotlin DSL: Теория и Практика | https://habrahabr.ru/company/haulmont/blog/341402/
+
+MockK — библиотека для mocking-а в Kotlin | https://habrahabr.ru/post/341202/
+
+Тестирование redux | https://habrahabr.ru/post/340706/
+
+Основные показатели процесса QA | https://habrahabr.ru/company/luxoft/blog/340192/
+
+Поиск и исправление багов в исходниках PHP | https://habrahabr.ru/company/mailru/blog/340242/
+
+Айтрекинг: доступные решения и их особенности | https://habrahabr.ru/company/neurodatalab/blog/339424/
+
+Анализ доклада Никиты Макарова о револьвере, мнемонике, заведующем складом и других полезных вещах | https://habrahabr.ru/company/jugru/blog/335276/
+
+Как устроено тестирование BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/339352/
+
+О перехвате трафика: 4-10% зашифрованного HTTPS-трафика сегодня перехватывается | https://habrahabr.ru/company/parallels/blog/339242/
+
+Как я участвовал в bug bounty от Xiaomi и что мне за это было | https://habrahabr.ru/post/338776/
+
+Comodo Group сообщают о четырехкратном увеличении числа киберугроз | https://habrahabr.ru/company/vasexperts/blog/338482/
+
+Не трогайте логи руками! Как сократить время на анализ с помощью автотестов | https://habrahabr.ru/company/efs/blog/338164/
+
+Быстрая разработка скриптов мониторинга с помощью Bash, Outthentic и Sparrow | https://habrahabr.ru/post/338144/
+
+Моки и явные контракты | https://habrahabr.ru/post/338066/
+
+Немного о безопасности терминалов в МФЦ | https://habrahabr.ru/post/338012/
+
+Обзор инструментария для нагрузочного и перформанс-тестирования | https://habrahabr.ru/company/jugru/blog/337928/
+
+10 интересных нововведений в JUnit 5 | https://habrahabr.ru/post/337700/
+
+Охотники за багами: тестировщики АСКОН проходят испытание хитрыми вопросами | https://habrahabr.ru/company/ascon/blog/337472/
+
+Allure 2: тест-репорты нового поколения | https://habrahabr.ru/company/jugru/blog/337386/
+
+Критический анализ старых и синтез новых знаний сделают Тестирование ПО наукой | https://habrahabr.ru/post/337344/
+
+Мобильные приложения и их тестировщики: all you need to know | https://habrahabr.ru/company/tdb/blog/337234/
+
+7 правил хорошего тона при написании Unit-тестов | https://habrahabr.ru/company/wrike/blog/337188/
+
+Avito Automation meetup — слайды, видео, отзывы, фото | https://habrahabr.ru/company/avito/blog/337118/
+
+Осторожнее с тем, что измеряете — MJIT vs TruffleRuby: в 2,1 раза медленнее или в 4,2 раза быстрее | https://habrahabr.ru/post/337100/
+
+Оживляя динозавров: TDD vs Test-Last | https://habrahabr.ru/post/336916/
+
+Для повышения надежности и безопасности банковского программного обеспечения используйте PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/336898/
+
+Тестирование на фабрике: «Чёрный ящик» и короткий цикл тестирования | https://habrahabr.ru/company/yadro/blog/336822/
+
+Перевод статьи Ганса Бувалды «Тестирование на основе действий» | https://habrahabr.ru/company/luxoft/blog/336740/
+
+Как подготовиться к экзамену ISTQB? Тестировщики краснодарской студии Plarium делятся опытом | https://habrahabr.ru/company/plarium/blog/336636/
+
+Десктопные GUI-тесты на Python. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/336476/
+
+Юнит тесты. Первый шаг к качеству | https://habrahabr.ru/post/336030/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 3 | https://habrahabr.ru/post/336026/
+
+Мутационное тестирование | https://habrahabr.ru/post/334394/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 2 | https://habrahabr.ru/post/335924/
+
+Mountebank: гибкое мокирование web API | https://habrahabr.ru/post/335900/
+
+Почему нельзя полагаться на пользовательские отчёты об ошибках | https://habrahabr.ru/company/parallels/blog/335858/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 1 | https://habrahabr.ru/post/335830/
+
+Автоматизируй мне тестирование полностью, дёшево, навсегда: анонс QA-митапа в Avito 26 августа | https://habrahabr.ru/company/avito/blog/335760/
+
+Немного про «ашипки» в программном обеспечении и помощь теории конечного автомата | https://habrahabr.ru/post/335544/
+
+UI-тесты для iOS: почему нужно поверить в дружбу QA и разработки, но не обольщаться | https://habrahabr.ru/company/funcorp/blog/335328/
+
+Разворачиваем Emercoin testnet и получаем много бесплатных монет | https://habrahabr.ru/company/emercoin/blog/335338/
+
+Colibri-ui — наше решение по автоматизации тестирования мобильного приложения | https://habrahabr.ru/company/alfa/blog/335278/
+
+Несколько слов о тестировании сложных аппаратных комплексов | https://habrahabr.ru/company/yadro/blog/335306/
+
+Как проверить свой сайт на целостность контента: видит ли клиент то, что должен? | https://habrahabr.ru/company/host-tracker/blog/334938/
+
+Виртуальная сетевая среда для тестирования сетевых протоколов. Используем QEMU+YOCTO+TAP | https://habrahabr.ru/post/335038/
+
+TDD React.js-приложений | https://habrahabr.ru/post/335020/
+
+В разрезе: новостной агрегатор на Android с бэкендом. Система последовательной интеграции | https://habrahabr.ru/post/334730/
+
+Модульное тестирование Pega приложений: меняем жизнь к лучшему с Ninja | https://habrahabr.ru/company/lanit/blog/334648/
+
+Тестирование прототипов при разработке программного продукта | https://habrahabr.ru/company/netologyru/blog/334694/
+
+Перевод статьи Ганса Бувалды «Основные принципы проектирования тестов» | https://habrahabr.ru/company/luxoft/blog/334612/
+
+Четверть миллиона за «жука»: Microsoft начинает активную борьбу с багами | https://habrahabr.ru/company/1cloud/blog/334552/
+
+Смок тестирование на небольшом проекте: как началось и какие результаты | https://habrahabr.ru/post/334544/
+
+Как уязвимость платежной системы раскрывала данные кредитных карт | https://habrahabr.ru/post/333930/
+
+Настройка push-нотификаций для своего сервиса | https://habrahabr.ru/company/host-tracker/blog/334038/
+
+Selenium: для любителей яблок | https://habrahabr.ru/post/334048/
+
+Когда в России ждать 5G | https://habrahabr.ru/company/ru_mts/blog/333966/
+
+Особенности национальной SMS-авторизации | https://habrahabr.ru/post/333558/
+
+Ядро автоматизации тестирования в микросервисной архитектуре | https://habrahabr.ru/company/avito/blog/333644/
+
+Visual Tcl. Разработка графического пользовательского интерфейса для утилит командной строки (Продолжение) | https://habrahabr.ru/post/333742/
+
+Переход на embedded PostgreSQL в unit-тестах | https://habrahabr.ru/company/hh/blog/333616/
+
+Selenium: проще пареной репы… | https://habrahabr.ru/post/333568/
+
+Качество, что за зверь и как его обнаружить | https://habrahabr.ru/post/333460/
+
+Какой firewall лучше всех? Лидеры среди UTM и Enterprise Firewalls (Gartner 2017) | https://habrahabr.ru/company/tssolution/blog/333338/
+
+Автоматизируем десктопный GUI на Python + pywinauto: как подружиться c MS UI Automation | https://habrahabr.ru/post/323962/
+
+24-ядерный CPU, а я не могу сдвинуть курсор | https://habrahabr.ru/post/332816/
+
+Linux все еще не торт | https://habrahabr.ru/company/virtuozzo/blog/332740/
+
+Руководство: Cucumber + Java | https://habrahabr.ru/post/332754/
+
+Первая российская материнская плата массового сегмента | https://habrahabr.ru/company/stss/blog/320798/
+
+Анонс Гейзенбаг 2017 Moscow: удваиваем пользу | https://habrahabr.ru/company/jugru/blog/332704/
+
+Как я нашёл баг в процессорах Intel Skylake | https://habrahabr.ru/post/332552/
+
+Интеграция ХостТрекера со Slack. Стабильность сайта: как держать всех в курсе | https://habrahabr.ru/company/host-tracker/blog/332422/
+
+The incredible machine или мой самый лучший тест | https://habrahabr.ru/post/331230/
+
+«Важно расставлять приоритеты»: о тестировании в Сбербанк-Технологиях | https://habrahabr.ru/company/jugru/blog/332016/
+
+Как эффективнее читать данные с диска (при условии, что у вас .Net) | https://habrahabr.ru/company/dbtc/blog/331668/
+
+Интеграция сценарного тестирования в процесс разработки решений на базе платформы 1С | https://habrahabr.ru/post/331532/
+
+Интеграция инструментов статистического анализа кода для OpenStack на Jenkins CI | https://habrahabr.ru/post/331698/
+
+Пример построения процесса тестирования OpenStack на Jenkins CI | https://habrahabr.ru/post/331690/
+
+Ставим Selenium Grid на колеса Apache Mesos | https://habrahabr.ru/company/alfa/blog/331434/
+
+Как улучшить legacy-код | https://habrahabr.ru/post/331328/
+
+Автоматизация тестирования Windows-приложений с использованием Winium | https://habrahabr.ru/post/331292/
+
+Компетентность не имеет пола: о гендерном балансе и тренде развития женского кодинга | https://habrahabr.ru/company/efs/blog/331194/
+
+Производительность lambda-выражений в Java 8 | https://habrahabr.ru/post/331030/
+
+Автоматизация тестирования OpenStack | https://habrahabr.ru/post/330776/
+
+Цена ошибки: кто и сколько платит за промахи программистов? | https://habrahabr.ru/company/pvs-studio/blog/330762/
+
+Как создать современную CI/CD-цепочку с помощью бесплатных облачных сервисов | https://habrahabr.ru/company/southbridge/blog/329262/
+
+Принципы тестирования программного обеспечения. Личный перевод из книги «Искусство тестирования» Г. Майерса | https://habrahabr.ru/post/330746/
+
+Гейзенбаг 2.0: как прошла в Петербурге конференция по тестированию | https://habrahabr.ru/company/jugru/blog/330614/
+
+«Интересная тема для обсуждения — относительность тестового покрытия»: T-Systems о тестировании | https://habrahabr.ru/company/jugru/blog/330122/
+
+Окно в сердце конференции Гейзенбаг 2017 Piter | https://habrahabr.ru/company/jugru/blog/329698/
+
+В преддверии Гейзенбага: Grid Dynamics о тестировании | https://habrahabr.ru/company/jugru/blog/330104/
+
+Как мы улучшали TFS | https://habrahabr.ru/company/otkritie/blog/330078/
+
+[обновлено] Как нагрузочное тестирование процессинга обошлось нам в €157 000 и почему никого не уволили | https://habrahabr.ru/company/yamoney/blog/329926/
+
+Андрей Сатарин, Яндекс: «Самая главная ошибка — непонимание системы» | https://habrahabr.ru/company/jugru/blog/329974/
+
+Фишинг «своими руками». Опыт компании «Актив», часть вторая | https://habrahabr.ru/company/aktiv-company/blog/329538/
+
+Самые интересные доклады с конференции Analyst Days 2017 | https://habrahabr.ru/company/nixsolutions/blog/329932/
+
+Психология тестирования (конечно же, не исчерпывающая). Личный перевод из книги «Искусство тестирования» Г. Майерса | https://habrahabr.ru/post/329966/
+
+Unit-тесты: что, как и когда тестировать? | https://habrahabr.ru/company/jugru/blog/329372/
+
+BDD — рабочий метод или TDD в модной обертке? | https://habrahabr.ru/company/jugru/blog/329468/
+
+Mobile Dimension разработал «планшет для консультантов торгового зала» по заказу М.Видео | https://habrahabr.ru/company/mobile_dimension/blog/329566/
+
+Делаем deface сайта с помощью XSS | https://habrahabr.ru/post/328276/
+
+Топ-10 докладов конференции Гейзенбаг 2016 Moscow | https://habrahabr.ru/company/jugru/blog/328918/
+
+Как с помощью руководства пользователя повысить качество информационной системы | https://habrahabr.ru/company/lanit/blog/329358/
+
+Непрерывная интеграция (CI) для GitHub проектов на С/C++ с CMake-сборкой | https://habrahabr.ru/post/329264/
+
+Selenium под Windows: все с начала | https://habrahabr.ru/post/329256/
+
+Нагрузочное тестирование: с чего начать и куда смотреть | https://habrahabr.ru/company/jugru/blog/329174/
+
+Автоматизация нагрузочного тестирования банковского ПО для терминалов | https://habrahabr.ru/company/jetinfosystems/blog/329014/
+
+Гейзенбаг 2017 Piter: Call for Testing | https://habrahabr.ru/company/jugru/blog/328532/
+
+Автоматизация тестирования: кто должен этим заниматься, кому это нужно и как меняется эта область | https://habrahabr.ru/company/jugru/blog/328860/
+
+Создание JPEG из ниоткуда | https://habrahabr.ru/post/328652/
+
+Как победить день сурка → Автоматизация тестирования нового интерфейса КОМПАС-3D v17 | https://habrahabr.ru/company/ascon/blog/327266/
+
+Как устроено тестирование у разработчиков КОМПАС-3D | https://habrahabr.ru/company/ascon/blog/327582/
+
+Тестирование: простая дорожка в IT или серьезная затея? | https://habrahabr.ru/company/jugru/blog/327362/
+
+Откуда взялись в Google ненадёжные тесты | https://habrahabr.ru/post/327394/
+
+Новый Intel NUC 7-го поколения — обзор, сравнение, тестирование | https://habrahabr.ru/company/stss/blog/327386/
+
+Selenium за 60 секунд | https://habrahabr.ru/post/327184/
+
+Тестирование параллельных процессов | https://habrahabr.ru/post/327292/
+
+О карте МегаФона — технические подробности, часть 2 | https://habrahabr.ru/company/megafon/blog/327090/
+
+МТС и Ericsson тестируют 5G в движении на стадионе «Спартак» – ОНЛАЙН-трансляция | https://habrahabr.ru/company/ru_mts/blog/326910/
+
+Книга «Экстремальное программирование: разработка через тестирование» | https://habrahabr.ru/company/piter/blog/326662/
+
+Генератор тестовых данных для C++ | https://habrahabr.ru/post/326576/
+
+No Bugs, No Flaws или о надежности систем как таковых | https://habrahabr.ru/post/326506/
+
+Cloud-AI – искусственный интеллект в облаке, нашедший 10 уязвимостей LinkedIn | https://habrahabr.ru/company/cloud4y/blog/326212/
+
+Automation QA — это отдельная команда? | https://habrahabr.ru/post/326020/
+
+Как в «Додо Пицца» потеряли 8 миллионов за один час из-за технической ошибки, а потом вернули | https://habrahabr.ru/company/yamoney/blog/325762/
+
+Конференция DUMP-2017: секция «Тестирование» | https://habrahabr.ru/company/it_people/blog/325516/
+
+Конференция разработчиков DUMP: последние новости и финальная программа | https://habrahabr.ru/company/it_people/blog/325148/
+
+Всё, что вы хотели знать о стек-трейсах и хип-дампах. Часть 2 | https://habrahabr.ru/company/jugru/blog/325064/
+
+Карты пользовательского интерфейса | https://habrahabr.ru/post/325058/
+
+Всё, что вы хотели знать о стек-трейсах и хип-дампах. Часть 1 | https://habrahabr.ru/company/jugru/blog/324932/
+
+[Бесплатная пицца] Взлом сайта доставки пиццы, взлом mobidel.ru | https://habrahabr.ru/post/321116/
+
+Автоматизация мобильных приложений с SeeTest Automation | https://habrahabr.ru/company/tinkoff/blog/324766/
+
+Как оценить качество системы A/B-тестирования | https://habrahabr.ru/company/hh/blog/321386/
+
+Кодогенерация, Selenoid, HtmlElements в работе автотестировщика | https://habrahabr.ru/company/wrike/blog/324418/
+
+Сага о том, как Java-разработчики должны тестировать свои приложения. Часть 2 | https://habrahabr.ru/company/jugru/blog/323922/
+
+Сага о том, как Java-разработчики должны тестировать свои приложения. Часть 1 | https://habrahabr.ru/company/jugru/blog/323920/
+
+Конференция по тестированию Гейзенбаг: Видеозаписи докладов-2016 и работа над ошибками в 2017-м | https://habrahabr.ru/company/jugru/blog/323628/
+
+Предварительная программа DUMP готова. Выступят докладчики из Dropbox, JetBrains, Mozilla, Mail.Ru, Яндекса, Rambler&Co | https://habrahabr.ru/company/it_people/blog/323616/
+
+Нагрузочное тестирование на Gatling | https://habrahabr.ru/company/tinkoff/blog/323316/
+
+Проблемы тестирования: почему 100% покрытие кода это плохо | https://habrahabr.ru/company/pt/blog/323294/
+
+Что нового в подходах к автоматизированному тестированию? Выясняем 15 марта в Питере | https://habrahabr.ru/company/wrike/blog/323324/
+
+Сравнение производительности процессоров Intel разных поколений | https://habrahabr.ru/company/stss/blog/323016/
+
+Про ScalaCheck. Свойства. Часть 3 | https://habrahabr.ru/post/323038/
+
+Selenium: новая надежда | https://habrahabr.ru/post/322742/
+
+Автоматизация по методологии BDD. Наш опыт успешного внедрения | https://habrahabr.ru/company/tinkoff/blog/322688/
+
+NetApp FlexClone: Как технология ускоряющая разработку | https://habrahabr.ru/post/280105/
+
+Как в Twitch проводят A/B тестирование | https://habrahabr.ru/post/322452/
+
+Личный опыт: интеграция TeamCity и сервера символов | https://habrahabr.ru/company/pt/blog/322350/
+
+[Багхантинг] Blind XSS уязвимость на сайтах службы поддержки omnidesk | https://habrahabr.ru/post/322134/
+
+Как приручить автотесты | https://habrahabr.ru/company/wrike/blog/322218/
+
+Уведомление о проблемах с вашим сайтом через Телеграм и другие возможности Хосттрекера | https://habrahabr.ru/company/host-tracker/blog/321840/
+
+Тестирование смарт контрактов Ethereum на примере DAO | https://habrahabr.ru/post/321362/
+
+How-to: инструменты для проведения конкурентного анализа программных продуктов | https://habrahabr.ru/company/pt/blog/321354/
+
+Переход с CruiseControl.NET на Jenkins в команде разработчиков PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/321346/
+
+Блеск и нищета автоматизации тестирования | https://habrahabr.ru/company/wrike/blog/321290/
+
+Как тестировать контейнеры RoR с GitLab CI в контейнере | https://habrahabr.ru/post/320982/
+
+Оповестить любой ценой о падении сайта. Практические советы | https://habrahabr.ru/company/host-tracker/blog/320690/
+
+Эксклюзивные кадры монтажа ретранслятора МТС на солнечных батареях в Каменном море (ВИДЕО) | https://habrahabr.ru/company/ru_mts/blog/320534/
+
+Все лучшее из методологии Lean Startup, и как с этим жить тестировщикам | https://habrahabr.ru/company/tuturu/blog/320326/
+
+Автоматизация нагрузочного тестирования: связка Jmeter + TeamCity + Grafana | https://habrahabr.ru/company/pt/blog/320228/
+
+Про ScalaCheck. Генераторы (Часть 2) | https://habrahabr.ru/post/320104/
+
+dock: простая библиотека модульного тестирования кода на С++ | https://habrahabr.ru/post/319858/
+
+MIT запустил Moral Machine: эксперимент по изучению того, как должны поступать беспилотные машины | https://habrahabr.ru/post/319728/
+
+Создание кастомных Go-профилей с помощью pprof. Запоминаем стеки | https://habrahabr.ru/company/badoo/blog/318336/
+
+Как мы заново открыли TFS | https://habrahabr.ru/post/319662/
+
+Тестирование с базой данных в .NET | https://habrahabr.ru/post/319568/
+
+Доставляем себе в офис чашку горячего кофе одной командой консоли с помощью TestCafe | https://habrahabr.ru/post/318452/
+
+Про ScalaCheck | https://habrahabr.ru/post/319456/
+
+Как использовать SELF XSS в формах входа/восстановления пароля/регистрации | https://habrahabr.ru/post/319316/
+
+Опыт использования self-hosted continuous integration систем | https://habrahabr.ru/post/318524/
+
+Laravel Dusk уже близко | https://habrahabr.ru/post/318704/
+
+Что-то не то с тестированием в .NET (Java и т.д.) | https://habrahabr.ru/post/318642/
+
+Может ли компания с десятками тысяч сотрудников быть Agile: опыт МТС | https://habrahabr.ru/company/ru_mts/blog/318338/
+
+Автоматизация тестирования по методологии Scrum | https://habrahabr.ru/company/simbirsoft/blog/317916/
+
+Гейзенбаг: Версия 1.0 | https://habrahabr.ru/company/jugru/blog/317938/
+
+Что общего у мобильного QA и осьминога | https://habrahabr.ru/company/badoo/blog/317964/
+
+Каникулы Василия или использование МТС ошибки учёта трафика для длительной блокировки счёта | https://habrahabr.ru/post/317984/
+
+О карте МегаФона — технические подробности | https://habrahabr.ru/company/megafon/blog/317740/
+
+Модульное тестирование в современных командах | https://habrahabr.ru/post/317788/
+
+Как мы уже 4 года выживаем в условиях двух релизов в день | https://habrahabr.ru/company/badoo/blog/317700/
+
+Cambium даёт новую жизнь вашим перегруженным сетям на Ubiquiti: новая программа для операторов | https://habrahabr.ru/company/comptek/blog/317482/
+
+Анализ покрытия кода тестами в Ruby | https://habrahabr.ru/post/317326/
+
+Неуловимые баги: ошибки, ускользнувшие от всех тестов и проверок | https://habrahabr.ru/company/parallels/blog/317270/
+
+Первый баг на Марсе | https://habrahabr.ru/company/pvs-studio/blog/315496/
+
+Система отчётов: как получать 50 млн. отчетов и сохранить Дзен | https://habrahabr.ru/company/parallels/blog/317116/
+
+Результаты опроса по автоматизированному тестированию: 411 ответов в 2016 | https://habrahabr.ru/post/314798/
+
+Покрываем проект smoke-тестами, пока он не сгорел | https://habrahabr.ru/company/badoo/blog/316874/
+
+RamQA #06 — 29 ноября в 19:00 | https://habrahabr.ru/company/rambler-co/blog/316300/
+
+Worldwide-биллинг Badoo глазами QA | https://habrahabr.ru/company/badoo/blog/316050/
+
+Как МТС с помощью ретранслятора на солнечных батареях запустил 3G и LTE в горах | https://habrahabr.ru/company/ru_mts/blog/315958/
+
+Тестируем бесшовный WiFi с помощью голосового трафика | https://habrahabr.ru/post/315788/
+
+Зловреды-вымогатели для IoT опаснее «традиционных» зловредов | https://habrahabr.ru/company/parallels/blog/315730/
+
+Тестирование в React | https://habrahabr.ru/company/infowatch/blog/315760/
+
+Однажды встретились JMeter и незнакомка… | https://habrahabr.ru/post/314408/
+
+Уязвимость старой Ubuntu через аудиофайл, проигрываемый эмуляцией процессора 1975 года | https://habrahabr.ru/post/315378/
+
+Про веб-клиент 1С | https://habrahabr.ru/company/1c/blog/315414/
+
+TDD не работает | https://habrahabr.ru/post/314994/
+
+Декомпиляция Java-методов на продуктивном приложении под нагрузкой – миф или реальность? | https://habrahabr.ru/company/jetinfosystems/blog/314874/
+
+Анализируем производительность сервера Oracle SPARC T7-2 | https://habrahabr.ru/company/jetinfosystems/blog/314810/
+
+Стоит ли бояться DevOps-а современному QA | https://habrahabr.ru/company/jugru/blog/314644/
+
+Аtomic-тесты и файнтюнинг производительности | https://habrahabr.ru/company/parallels/blog/314740/
+
+Практическое пособие «Как вывести из себя программиста» | https://habrahabr.ru/company/1cloud/blog/314586/
+
+Bug Inside: крохотный шанс сделать громадную ошибку на Pentium | https://habrahabr.ru/company/pvs-studio/blog/314534/
+
+goader — консольный бенчмарк с уклоном на запись-чтение файлов | https://habrahabr.ru/post/314220/
+
+Роcкомнадзор: держим ухо востро. Как вовремя заметить внесение в список | https://habrahabr.ru/company/host-tracker/blog/314392/
+
+Сложности нагрузочного тестирования – интервью с Владимиром Ситниковым (Netcracker) и Андреем Дмитриевым | https://habrahabr.ru/company/jugru/blog/314346/
+
+TailSampler — паралельная отправка GET-запросов в Apache.JMeter | https://habrahabr.ru/post/312352/
+
+Как устроено тестирование «тяжелого» банковского софта в немецкой фирме | https://habrahabr.ru/post/314140/
+
+Как делают Wi-Fi-сеть в общественном транспорте | https://habrahabr.ru/company/ru_mts/blog/314134/
+
+Тестирование распределенных систем, — интервью с Андреем Сатариным, Яндекс | https://habrahabr.ru/company/jugru/blog/313908/
+
+Как я сходил на первый в России «Testathon», хакатон для тестировщиков | https://habrahabr.ru/company/badoo/blog/314046/
+
+Мгновенная диагностика сайтов. Обзор сервиса ХостТрекер, часть 4 | https://habrahabr.ru/company/host-tracker/blog/313780/
+
+TDD все еще сравнивают с TLD — мнения экспертов | https://habrahabr.ru/post/313584/
+
+QIWI Security Development Lifecycle | https://habrahabr.ru/company/qiwi/blog/313530/
+
+The Pros & Cons of Test-Driven Development | https://habrahabr.ru/company/jugru/blog/313514/
+
+Как МТС строит публичные Wi-Fi-сети для бизнеса с идентификацией пользователей | https://habrahabr.ru/company/ru_mts/blog/313168/
+
+OpenShift + Jenkins + Bitbucket, непрерывная интеграция и публикация из коробки | https://habrahabr.ru/post/313146/
+
+«Керосинка» против «Патриотов»: как американские военные программисты научились правильно округлять | https://habrahabr.ru/company/pvs-studio/blog/312890/
+
+Как я создавал бесшовный Wi-Fi | https://habrahabr.ru/post/312948/
+
+Генерация автоматических тестов: Excel, XML, XSLT, далее — везде | https://habrahabr.ru/post/312520/
+
+Эволюция тестового окружения: Интервью с Игорем Хролом (Toptal) и Антоном Семенченко (COMAQA.BY и CoreHard) | https://habrahabr.ru/company/jugru/blog/312266/
+
+Встреча Logeek Night для Java и QA специалистов Караганды | https://habrahabr.ru/company/luxoft/blog/312212/
+
+Внедрение Альфа тестирования и альфа лаборатории в проектах | https://habrahabr.ru/post/311734/
+
+Автоматизация тестирования: «беспилотник» Acronis Kernel | https://habrahabr.ru/company/acronis/blog/282682/
+
+Позволит ли формальная верификация кода микроядра создавать сверхнадежные ОС | https://habrahabr.ru/post/311366/
+
+Toyota: 81 514 нарушений в коде | https://habrahabr.ru/company/pvs-studio/blog/310862/
+
+Unit-тестирование в сложных приложениях | https://habrahabr.ru/post/310826/
+
+Первый митап RamQA | https://habrahabr.ru/company/rambler-co/blog/311050/
+
+Виртуализация на Oracle SPARC T7-2 – результаты наших тестов | https://habrahabr.ru/company/jetinfosystems/blog/311016/
+
+Что означает методология DevOps для тестировщиков? | https://habrahabr.ru/company/luxoft/blog/310998/
+
+Почему иногда «падает» сеть мобильных операторов? | https://habrahabr.ru/company/ru_mts/blog/310480/
+
+TEST Labs 2016. Онлайн конференция для тестировщиков. 24 сентября | https://habrahabr.ru/company/luxoft/blog/310370/
+
+Logeek Night в Воронеже | https://habrahabr.ru/company/luxoft/blog/310176/
+
+Опрос. Современное состояние автоматизированного тестирования 2016 | https://habrahabr.ru/post/309912/
+
+Баг-убийца. Фигак, фигак и Therac-25 | https://habrahabr.ru/company/pvs-studio/blog/307788/
+
+Как работает Центр оперативного управления мобильной сетью МТС. Ответы на ваши вопросы | https://habrahabr.ru/company/ru_mts/blog/309760/
+
+Сферическое тестирование в вакууме: Как есть, как должно быть, как будет | https://habrahabr.ru/company/jugru/blog/309502/
+
+«Архитектуры приложений»: немного о бессерверных архитектурах | https://habrahabr.ru/company/it-grad/blog/309026/
+
+Введение в GitLab CI | https://habrahabr.ru/company/softmart/blog/309380/
+
+Тестируем Web UI на F# и canopy | https://habrahabr.ru/post/309240/
+
+Тестируем IVR на Asterisk с помощью… Asterisk | https://habrahabr.ru/post/309156/
+
+Создаем заглушки сервисов для интеграционного тестирования на Apache Camel (с использованием Scala DSL) | https://habrahabr.ru/company/cit/blog/306792/
+
+Переписываем сценарии тестирования на Clojure за 24 часа | https://habrahabr.ru/post/308734/
+
+Гейзенбаг — новая конференция по тестированию от JUG.ru Group | https://habrahabr.ru/company/jugru/blog/308612/
+
+Один день из жизни тестировщика системы локального позиционирования | https://habrahabr.ru/company/rtl-service/blog/308342/
+
+Выбираем html-парсер для Apache.JMeter | https://habrahabr.ru/post/308254/
+
+Плагин CsvLogWriter для JMeter | https://habrahabr.ru/post/308098/
+
+Как работает Центр оперативного управления мобильной сетью МТС | https://habrahabr.ru/company/ru_mts/blog/308044/
+
+Тестирование рекурсии | https://habrahabr.ru/post/307640/
+
+Космическая ошибка: $370 000 000 за Integer overflow | https://habrahabr.ru/company/pvs-studio/blog/306748/
+
+Обнаружен новый механизм взлома облачных виртуальных машин | https://habrahabr.ru/post/307828/
+
+Сценарное тестирование в помощь программисту 1С | https://habrahabr.ru/post/307808/
+
+Статическое тестирование кода на уязвимости: каким должен быть идеальный анализатор? | https://habrahabr.ru/post/307794/
+
+Компилятор LLVM для MultiClet: бенчмарк WhetStone | https://habrahabr.ru/post/307512/
+
+Маленький, но очень полезный патч в Selenium | https://habrahabr.ru/company/badoo/blog/307502/
+
+Для чего нужен мониторинг доступности сайтов? Обзор сервиса ХостТрекер | https://habrahabr.ru/company/host-tracker/blog/307462/
+
+Cambium cnPilot – недорогой WiFi, который нас удивил | https://habrahabr.ru/company/comptek/blog/307300/
+
+Через тернии к сборке | https://habrahabr.ru/company/rtl-service/blog/307398/
+
+Когда юнит-тестирование действительно необходимо | https://habrahabr.ru/company/Voximplant/blog/307324/
+
+Чем может удивить облачный WiFi? * | https://habrahabr.ru/company/comptek/blog/306658/
+
+Mongoose: инструмент для тестирования производительности СХД | https://habrahabr.ru/post/306448/
+
+Польза от Grafana для отдела тестирования | https://habrahabr.ru/company/rtl-service/blog/306406/
+
+Как настроить расширяемую систему для регрессионного тестирования на телефонах: опыт мобильной Почты Mail.Ru | https://habrahabr.ru/company/mailru/blog/306236/
+
+Впечатления от лучших докладов на конференции SQA Days | https://habrahabr.ru/company/nixsolutions/blog/306058/
+
+Отчёт с прошедшего 17 июня QA MeetUp | https://habrahabr.ru/company/mailru/blog/305862/
+
+Как мы тестируем взаимодействие с Facebook | https://habrahabr.ru/company/badoo/blog/305736/
+
+Печатать с удовольствием | https://habrahabr.ru/post/305158/
+
+Грабли A/B тестирования — встреча с Романом Поборчим, Санкт-Петербург | https://habrahabr.ru/post/304430/
+
+Как подружить юнит-тестирование с базой данных | https://habrahabr.ru/company/arcadia/blog/304322/
+
+Учимся на ошибках в организации контроля качества | https://habrahabr.ru/company/badoo/blog/301764/
+
+Тестирование. Ошибки при сертификации или ISTQB мне очень нужен | https://habrahabr.ru/post/304030/
+
+Микросервисы как архитектура: выжать по максимуму | https://habrahabr.ru/post/303778/
+
+Началось соревнование «Make with Ada» для разработчиков встраиваемых систем | https://habrahabr.ru/post/303804/
+
+Опыт автоматизации тестирования серверного REST API с помощью Jmeter | https://habrahabr.ru/company/rtl-service/blog/303584/
+
+Как стать тестировщиком или каких знаний мы ждём от джуниора | https://habrahabr.ru/company/rambler-co/blog/303254/
+
+Как построить грамотную систему тестирования? Инсайты от QA-экспертов: видео и презентации с митапа в Wrike | https://habrahabr.ru/company/wrike/blog/302798/
+
+Тестирование хранилищ данных | https://habrahabr.ru/company/tinkoff/blog/302670/
+
+Приглашаем на встречу Moscow Software Testing Club 4 июня | https://habrahabr.ru/company/mailru/blog/302474/
+
+DUMP-2016: видео всех докладов в одном посте. Бесплатно. Без СМС | https://habrahabr.ru/company/it_people/blog/302286/
+
+Бесплатный семинар «Холодоснабжение ЦОД: как не перегреться летом», 8 июня, дата-центр NORD 4 | https://habrahabr.ru/company/dataline/blog/302148/
+
+Тестируем проект на SaltStack c помощью KitchenCI | https://habrahabr.ru/company/plesk/blog/301812/
+
+Опыт автоматизации тестирования стабильности работы сервера RTLS под внутренней нагрузкой | https://habrahabr.ru/company/rtl-service/blog/302138/
+
+Как нам помог Docker в написании тестов | https://habrahabr.ru/company/getintent/blog/301868/
+
+Функциональное тестирование программ на Qt | https://habrahabr.ru/post/301702/
+
+Тест производительности: удивительно и просто | https://habrahabr.ru/post/171475/
+
+Автотесты в функциональном стиле | https://habrahabr.ru/post/301166/
+
+Особенности тестирования технологии C/R в Linux | https://habrahabr.ru/post/283504/
+
+Как построить грамотную систему тестирования? Инсайты от QA-экспертов 19 мая в Питере | https://habrahabr.ru/company/wrike/blog/283004/
+
+Разработчики в край обленились? | https://habrahabr.ru/company/ua-hosting/blog/283022/
+
+QA: Conference. Сибирь | https://habrahabr.ru/company/luxoft/blog/282824/
+
+Как тестируют антивирусное ПО | https://habrahabr.ru/post/282548/
+
+Интеграция PVS-Studio в CI процесс | https://habrahabr.ru/company/aligntechnology/blog/282473/
+
+Использование arduino для автоматизации тестирования устройств | https://habrahabr.ru/company/rtl-service/blog/282163/
+
+7 онлайн сканеров для поиска открытых портов на сервере | https://habrahabr.ru/company/hosting-cafe/blog/281943/
+
+Серверный шкаф с интеллектуальным активным шумоподавлением | https://habrahabr.ru/company/stss/blog/279245/
+
+PyNSK #7 — апрельская встреча Новосибирского Python сообщества | https://habrahabr.ru/post/281867/
+
+Свободу тестам | https://habrahabr.ru/company/infopulse/blog/281785/
+
+GECOn 2016: Первая Гомельская IT-конференция (24 апреля) | https://habrahabr.ru/post/281775/
+
+Паттерны и антипаттерны Cucumber BDD | https://habrahabr.ru/company/luxoft/blog/281643/
+
+Программное обеспечение для тестирования и наладки устройств и сетей на базе MODBUS | https://habrahabr.ru/post/281430/
+
+Пополнение в лёгком весе. Или новые малопортовые коммутаторы Ubiquiti | https://habrahabr.ru/company/comptek/blog/281408/
+
+Реализация мониторинга и интеграционного тестирования информационной системы с использованием Scalatest. Часть 2 | https://habrahabr.ru/company/cit/blog/281354/
+
+Тестирование аудио-конференций с помощью онлайн-радио Pandora | https://habrahabr.ru/company/Voximplant/blog/281276/
+
+Новая линейка 4-мегапиксельных IP-камер от Ubiquiti – серия UniFi G3 | https://habrahabr.ru/company/comptek/blog/281108/
+
+QA: Conference. Сертификаты и репортажная лента в трансляции | https://habrahabr.ru/company/luxoft/blog/281054/
+
+Тестирование GUI приложений с помощью оптического распознавания текстов | https://habrahabr.ru/post/280984/
+
+Проверить свой сайт с Марса? Нет ничего невозможного | https://habrahabr.ru/company/host-tracker/blog/280464/
+
+Исследовательское тестирование: когда его стоит применять и как это делать | https://habrahabr.ru/company/redmadrobot/blog/280618/
+
+QA: Conference. Множество новостей, новые доклады, прямой эфир | https://habrahabr.ru/company/luxoft/blog/280524/
+
+Как разрабатывается 1С:ERP (и не только) | https://habrahabr.ru/company/1c/blog/280394/
+
+Тестирование в F# | https://habrahabr.ru/post/280410/
+
+Секреты тестирования Ethernet каналов | https://habrahabr.ru/company/metrotek/blog/264295/
+
+Бесплатный кластер (Proxmox + Nexenta) | https://habrahabr.ru/company/stss/blog/279589/
+
+QA: Conference. Вторая волна докладчиков | https://habrahabr.ru/company/luxoft/blog/279753/
+
+Профессионализм и TDD | https://habrahabr.ru/post/279713/
+
+Тестирование. Фундаментальная теория | https://habrahabr.ru/post/279535/
+
+Особенности национальной поддержки: на 6 языках из Москвы, плюс команды Дели, Бангалора, Бухареста и Токио | https://habrahabr.ru/company/acronis/blog/279479/
+
+Как превратить поездку на конференцию в крутые выходные? | https://habrahabr.ru/company/it_people/blog/279445/
+
+Ixia выпустила интеллектуальный network packet broker — Vision ONE | https://habrahabr.ru/company/muk/blog/279187/
+
+Где формируем модель для UI при Domain Driven Design? Сравнение производительности различных архитектурных решений | https://habrahabr.ru/post/279331/
+
+Программа конференции DUMP-2016: посмотрите, кто выступает в этом году | https://habrahabr.ru/company/it_people/blog/278973/
+
+Как устроено наше тестирование и почему QA участвует в постановке задач нашим разработчикам | https://habrahabr.ru/company/acronis/blog/278941/
+
+Тестирование базы данных. Версия разработчика | https://habrahabr.ru/post/278841/
+
+QA: Conference. Рассказываем про доклады | https://habrahabr.ru/company/luxoft/blog/278699/
+
+Маргарет Гамильтон: «Пацаны, я вас на Луну отправлю» | https://habrahabr.ru/company/edison/blog/278585/
+
+Опубликованы записи докладов конференции ALM Summit 2016 | https://habrahabr.ru/company/microsoft/blog/278501/
+
+Как мы автоматизируем тестирование с помощью управления выпусками — Часть 2 | https://habrahabr.ru/company/microsoft/blog/278475/
+
+Если бы программисты делали блины (по кошерным методологиям) | https://habrahabr.ru/post/278437/
+
+Видеоконференцсвязь Mind — оптимальный выбор для бизнеса | https://habrahabr.ru/company/stss/blog/277013/
+
+Нагрузочное тестирование – этап обеспечения качества продукта | https://habrahabr.ru/company/tinkoff/blog/277643/
+
+Как мы автоматизируем тестирование с помощью управления выпусками — Часть 1 | https://habrahabr.ru/company/microsoft/blog/277601/
+
+Параллельное выполнение тестов с учетом контекста с использованием Visual Studio 2015 Update 1 | https://habrahabr.ru/company/microsoft/blog/277583/
+
+Написание кастомных правил для анализатора кода Kiuwan | https://habrahabr.ru/company/softmart/blog/277291/
+
+Конференция для разработчиков DUMP-2016: Екатеринбург, 8 апреля | https://habrahabr.ru/company/it_people/blog/276939/
+
+Ежедневные релизы — это не так уж страшно | https://habrahabr.ru/company/dataart/blog/276901/
+
+Тестирование и теория графов: инсталлятор | https://habrahabr.ru/company/infopulse/blog/276705/
+
+Нагрузочное тестирование из облака | https://habrahabr.ru/company/hpe/blog/276663/
+
+Трансляция конференций и вебинаров с использованием протокола SIP | https://habrahabr.ru/post/276487/
+
+PyNSK #6 — шестая встреча Новосибирского Python сообщества | https://habrahabr.ru/post/276441/
+
+Использование SikuliX в фоновом режиме на Cloud9 | https://habrahabr.ru/company/infopulse/blog/275717/
+
+Кластеризация с FT — everRun от Stratus Technologies | https://habrahabr.ru/post/275687/
+
+QA: Conference приглашает спикеров | https://habrahabr.ru/company/luxoft/blog/275675/
+
+Docker: Окружение для тестирования | https://habrahabr.ru/post/275513/
+
+Взлом банковских карт, автомобилей и мессенджеров и др. особенности обучения на лучшей магистратуре Нидерландов | https://habrahabr.ru/company/innopolis_university/blog/275161/
+
+Советы и рекомендации по развёртыванию процесса автоматизация тестирования с нуля | https://habrahabr.ru/post/275171/
+
+Анализируй это или о качестве программного обеспечения | https://habrahabr.ru/company/softmart/blog/275037/
+
+Кто вы, пишущие на Gherkin? Или корнишон в поисках целевой аудитории | https://habrahabr.ru/post/275013/
+
+Сервер в кармане: разворачиваем ONLYOFFICE на Intel NUC'ах | https://habrahabr.ru/company/teamlab/blog/275009/
+
+Детали test-first, которых так не хватало | https://habrahabr.ru/company/mailru/blog/274771/
+
+Материалы с Azov Developers Meetup 2015 | https://habrahabr.ru/company/arcadia/blog/274311/
+
+Почему я перепроверяю записанные данные, или История одного расследования | https://habrahabr.ru/post/274235/
+
+QA: Conference | https://habrahabr.ru/company/luxoft/blog/274229/
+
+Эффективные UI-тесты на Selenide | https://habrahabr.ru/post/274071/
+
+Как убить смартфон Sony Xperia C2305 с помощью роутера D-Link DIR-300 | https://habrahabr.ru/post/274037/
+
+Применение Selenium WebDriver для тестирования MS Dynamics CRM | https://habrahabr.ru/post/274001/
+
+Использование JMeter для организации распределенной нагрузки | https://habrahabr.ru/company/dataart/blog/273967/
+
+Игра в больницу или как мы изучали и тестировали работу системы здравоохранения одной из европейских стран | https://habrahabr.ru/company/simbirsoft/blog/273621/
+
+Про организацию рабочего процесса | https://habrahabr.ru/company/1c/blog/273591/
+
+Тестируем российскую серверную платформу E-Class от «Т-Платформы» | https://habrahabr.ru/company/stss/blog/273247/
+
+Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов | https://habrahabr.ru/post/273401/
+
+Ответственность вендора. Кто отвечает за аварии? | https://habrahabr.ru/company/itoolabs/blog/273225/
+
+Интересная багофича 1С при работе с контекстом управляемой формы | https://habrahabr.ru/post/273155/
+
+Покрытие графов в тестировании ПО, часть 2 | https://habrahabr.ru/company/infopulse/blog/273139/
+
+Визуальные тесты с Galen Framework. Улучшаем читабильность кода | https://habrahabr.ru/post/272213/
+
+Отечественный производитель серверов = самосбор? | https://habrahabr.ru/company/stss/blog/271481/
+
+Покрытие графов в тестировании ПО, часть 1 | https://habrahabr.ru/company/infopulse/blog/271991/
+
+Как посчитать время на тестирование | https://habrahabr.ru/company/dataart/blog/272193/
+
+Нагрузим все: демонстрация решения ІXIA для нагрузочных тестов | https://habrahabr.ru/company/muk/blog/271577/
+
+Тестирование вёрстки на визуальные регрессии с помощью PhantomCSS | https://habrahabr.ru/post/271379/
+
+Приглашаем на Azov Developers Meetup — 12 декабря в Таганроге | https://habrahabr.ru/company/arcadia/blog/271631/
+
+Тестировщик в ответе за всё | https://habrahabr.ru/company/edison/blog/271495/
+
+Автоматизация тестирования вебсайта: Pytest, Allure, Selenium + несколько секретных ингредиентов | https://habrahabr.ru/company/acronis/blog/271049/
+
+Итоги GeekWeek. Как трудоустроиться, на чем разрабатывать и какие системы использовать | https://habrahabr.ru/company/geekbrains/blog/271395/
+
+Вышел NUnit 3.0 | https://habrahabr.ru/post/270967/
+
+Тестирование областей определения или нечто большее, чем анализ граничных значений | https://habrahabr.ru/company/infopulse/blog/270909/
+
+666-й пост: страхи и суеверия айтишников | https://habrahabr.ru/company/mailru/blog/270785/
+
+Как рассчитать дальность связи на оборудовании Ubiquiti. Новая версия калькулятора AirLink | https://habrahabr.ru/company/comptek/blog/270541/
+
+Как WiFi срывается с цепи, или Без проводов и поводков | https://habrahabr.ru/company/comptek/blog/270265/
+
+Оценка тестового покрытия на проекте | https://habrahabr.ru/post/270365/
+
+SWAPY с новым генератором кода | https://habrahabr.ru/post/270247/
+
+Тестирование функционала Symantec Backup Hot-Add. Увеличение скорости копирования и восстановления данных | https://habrahabr.ru/company/trinity/blog/269753/
+
+PyTest | https://habrahabr.ru/post/269759/
+
+Реализация мониторинга и интеграционного тестирования информационной системы с использованием Scalatest. Часть1 | https://habrahabr.ru/company/cit/blog/269293/
+
+TDD по-фольксвагеновски | https://habrahabr.ru/post/269035/
+
+Сервис нагрузочного тестирование loadme | https://habrahabr.ru/post/268503/
+
+Производительное юнит-тестирование веб-приложений на примере yii2 и codeception | https://habrahabr.ru/post/268381/
+
+Как писать тестируемый код | https://habrahabr.ru/company/mailru/blog/267277/
+
+Как мониторить появление нежелательного контента на Вашем сайте | https://habrahabr.ru/company/host-tracker/blog/267935/
+
+Новое в Runkit 1.0.4: PHP 5.6+, closures везде и еще 12 новых фич | https://habrahabr.ru/post/267495/
+
+Новый курс «Основы тестирования программного обеспечения» на Универсариуме | https://habrahabr.ru/company/mailru/blog/267619/
+
+Как работают над Chromium | https://habrahabr.ru/post/267559/
+
+Серверы Huawei: функциональное тестирование | https://habrahabr.ru/company/jetinfosystems/blog/267421/
+
+Тестирование сайтов с помощью сборок: что это такое и как работает | https://habrahabr.ru/post/267135/
+
+Разнообразные тесты безопасности сети: обзор решений компании IXIA | https://habrahabr.ru/company/muk/blog/266533/
+
+Healthcare IT: или как выкинуть $34 млн | https://habrahabr.ru/post/266549/
+
+Традиционное тестирование скоро умрет | https://habrahabr.ru/post/266309/
+
+Healthcare IT: или как превысить бюджет на 420% | https://habrahabr.ru/post/266093/
+
+QA в наше время. «Принцип Свитчера» или почему отрасли критически не хватает компетенции | https://habrahabr.ru/post/265893/
+
+SpiderTest: используй силу CI | https://habrahabr.ru/company/cit/blog/265773/
+
+Бесплатная библиотека Self-learning – более 20 курсов по ключевым направлениям Software Engineering | https://habrahabr.ru/company/luxoft/blog/265339/
+
+Видео с LoveQA митапа | https://habrahabr.ru/company/badoo/blog/264497/
+
+SpiderTest: автотесты своими руками | https://habrahabr.ru/company/cit/blog/264355/
+
+Используем CircleCI для тестирования и деплоя iOS приложений | https://habrahabr.ru/post/264075/
+
+Моя система тестирования и повышения качества GSM-шлюза. Часть вторая | https://habrahabr.ru/post/264045/
+
+Самые элитные IP-адреса | https://habrahabr.ru/post/253343/
+
+Юнит-тесты в Caché – это просто | https://habrahabr.ru/company/intersystems/blog/263677/
+
+Python meetup — 2 года | https://habrahabr.ru/company/wargaming/blog/263507/
+
+Winium.Desktop: Selenium для desktop-приложений под Windows | https://habrahabr.ru/company/2gis/blog/263347/
+
+Новый взгляд на MindMap в тестировании | https://habrahabr.ru/company/cit/blog/263159/
+
+Как провести Testing Dojo | https://habrahabr.ru/company/2gis/blog/263157/
+
+Строим стенд производительности на примере сервера Set Retail 10 | https://habrahabr.ru/company/crystal_service/blog/262709/
+
+Комбинаторное тестирование: генерация тестовых данных и не только | https://habrahabr.ru/company/infopulse/blog/261381/
+
+Автоматизация тестирования веб-приложения с использованием Selenium WebDriver, Python, и Behave | https://habrahabr.ru/post/262929/
+
+Databene Benerator — бенерируй это | https://habrahabr.ru/post/262387/
+
+Build-Deploy-Test. Непрерывная интеграция | https://habrahabr.ru/company/icl_services/blog/262173/
+
+Нагрузочное тестирование CMS «1С-Битрикс» | https://habrahabr.ru/company/bitrix/blog/262029/
+
+TEST Labs 2015. Онлайн конференция для тестировщиков и тест-менеджеров. 25 июля | https://habrahabr.ru/company/luxoft/blog/261959/
+
+Создание эмулятора JMS-приложения при помощи JMeter | https://habrahabr.ru/post/261767/
+
+Как контролировать время отклика или как быстро грузится Ваш сайт? | https://habrahabr.ru/company/host-tracker/blog/261525/
+
+Среда для виртуальных машин Dell VDI | https://habrahabr.ru/company/dellemc/blog/261385/
+
+Сталкиваем лбами производителей WiFi оборудования. (Дико извиняюсь, но Ruckus опять всех сделал) | https://habrahabr.ru/company/comptek/blog/261361/
+
+2 в 1: премьера «официального» ноутбука на открытии официального youtube-канала | https://habrahabr.ru/company/reactos/blog/261313/
+
+Тестирование на другом языке: что делать, если вы его не знаете | https://habrahabr.ru/post/261221/
+
+HP StormRunner Load. Практическое руководство. Часть III | https://habrahabr.ru/company/hpe/blog/261091/
+
+Тестирование на основе диаграмм состояний сущности | https://habrahabr.ru/company/infopulse/blog/261061/
+
+Какой была главная русскоязычная конференция тестировщиков 2015-го года? | https://habrahabr.ru/company/sqalab/blog/260673/
+
+Блокировка по access_log, легкий способ прострелить ногу или устранение конкурентов | https://habrahabr.ru/post/260647/
+
+Дублирование логики — единственный способ верификации ПО | https://habrahabr.ru/post/260447/
+
+Запуск HP ALM-тестов используя Jenkins | https://habrahabr.ru/company/hpe/blog/260331/
+
+Лекции Техносферы. 2 семестр. Методы обеспечения качества и тестирования web-приложений | https://habrahabr.ru/company/mailru/blog/260105/
+
+Тестирование модулей RequireJS в Symfony2 | https://habrahabr.ru/company/SECL_GROUP/blog/259901/
+
+Бесплатный вебинар по функциональному тестированию от TestCafe | https://habrahabr.ru/company/devexpress/blog/258501/
+
+Как я однажды взломал онлайн-казино | https://habrahabr.ru/post/258513/
+
+Запуск нагрузочных тестов, сделанных в JMeter при помощи StormRunner Load | https://habrahabr.ru/company/hpe/blog/258303/
+
+Тестируем инфраструктуру как код | https://habrahabr.ru/company/express42/blog/256725/
+
+Автоматическое тестирование JavaFX приложений | https://habrahabr.ru/company/crystal_service/blog/257981/
+
+Часть 2 — Синезис. Почему демонстрация видеоаналитики в офисах так сильно отличается от реальной работы в жизни? | https://habrahabr.ru/post/258025/
+
+LoveQA митап на РИТ++ | https://habrahabr.ru/company/badoo/blog/257945/
+
+Как использовать Twitter на технических конференциях? | https://habrahabr.ru/company/sqalab/blog/257837/
+
+Тестовые данные для HL7 сообщений | https://habrahabr.ru/post/257613/
+
+Почему демонстрация видеоаналитики в офисах так сильно отличается от реальной работы в жизни? | https://habrahabr.ru/post/257565/
+
+Обзор частых вопросов по тестированию ПО на собеседованиях и ответы на них | https://habrahabr.ru/post/257529/
+
+Конференция DUMP-2015: как это было | https://habrahabr.ru/company/it_people/blog/257385/
+
+Почему не RemoteFX, а также подробнее о технологиии NVIDIA GRID VGPU | https://habrahabr.ru/post/257425/
+
+Какие тесты вам нужны? Часть 2. Матрица видов тестирования | https://habrahabr.ru/post/257159/
+
+Какие тесты вам нужны? Часть 1. О целях и задачах, что влияют на выбор тестов | https://habrahabr.ru/post/246211/
+
+Расширяем Selenium WebDriver. Пишем робота для RSDN, не думая о контексте | https://habrahabr.ru/post/257049/
+
+Аудит одного «медленного» приложения в одном крупном концерне | https://habrahabr.ru/post/256975/
+
+JMeter: забудьте про BeanShell Sampler | https://habrahabr.ru/post/250731/
+
+HP StormRunner Load. Практическое руководство. Часть II | https://habrahabr.ru/company/hpe/blog/256805/
+
+HP StormRunner Load. Практическое руководство. Часть I | https://habrahabr.ru/company/hpe/blog/256729/
+
+Тестирование математических алгоритмов | https://habrahabr.ru/post/256713/
+
+Поиск ошибок в облаке с научной точки зрения: нежданное приключение CEO | https://habrahabr.ru/company/wolfram/blog/256521/
+
+CCTV на OS X | https://habrahabr.ru/post/256373/
+
+Интервью с Джеймсом Бахом для DUMP2015 | https://habrahabr.ru/post/255747/
+
+PODAM Java объекты для Unit-тестирования | https://habrahabr.ru/company/crystal_service/blog/255425/
+
+Результаты опроса по автоматизированному тестированию: 620 ответов | https://habrahabr.ru/post/255127/
+
+Риски и метрики в автоматизации тестирования | https://habrahabr.ru/company/crystal_service/blog/254957/
+
+Визуализация качества кода с PhpMetrics | https://habrahabr.ru/post/254941/
+
+Как повысить производительность бесплатно, без регистрации и смс | https://habrahabr.ru/company/dellemc/blog/254599/
+
+Батяня-комбат для разработчика: специально обученные чуваки, которые как консильери в мафии | https://habrahabr.ru/company/tceh/blog/254459/
+
+Процесс разработки и тестирования демонов | https://habrahabr.ru/company/badoo/blog/254087/
+
+О влиянии апплета на работу iPhone в сети LTE | https://habrahabr.ru/company/yota/blog/254223/
+
+Библиотека эмуляции терминала ROTE и Lua привязки | https://habrahabr.ru/post/254089/
+
+Каких ответов я жду на собеседовании по тестированию | https://habrahabr.ru/post/254209/
+
+Про MAC-таблицы в коммутаторах | https://habrahabr.ru/post/254183/
+
+Как стать автоматизатором тестирования? | https://habrahabr.ru/post/253867/
+
+Тестирование полки Intel® Storage System JBOD 2000 Family | https://habrahabr.ru/company/trinity/blog/253763/
+
+Тестируем Chef cookbook | https://habrahabr.ru/post/253139/
+
+Рекс Блэк на SQA Days-17: «Не гнаться за пустыми фантазиями, а сосредоточиться на получении опыта» | https://habrahabr.ru/company/sqalab/blog/253183/
+
+Конференция DUMP-2015: секция «Тестирование» | https://habrahabr.ru/company/it_people/blog/252993/
+
+CDN в рюкзаке. Как мы сделали переносной CDN | https://habrahabr.ru/company/cdnvideo/blog/252649/
+
+Стандартный тест RFC2544 | https://habrahabr.ru/post/252741/
+
+Авто-регистрация тестов на С средствами языка | https://habrahabr.ru/post/252439/
+
+Адаптируем BDD для разработки на 1С совместно с cucumber и 1Script | https://habrahabr.ru/post/252473/
+
+Хабраэффект для 130 000 камер Москвы | https://habrahabr.ru/company/dit/blog/252375/
+
+Обзор сессий конференции Microsoft Ignite | https://habrahabr.ru/company/microsoft/blog/252309/
+
+Превращаем бесполезный фидбек в полезный: работа с сообществом Plesk | https://habrahabr.ru/company/parallels/blog/252151/
+
+Настройка TeamCity в Azure — постоянно-доступная система для командной работы в облаке | https://habrahabr.ru/company/microsoft/blog/252023/
+
+Блог департамента информационных технологий города Москвы на «Хабрахабре» | https://habrahabr.ru/company/dit/blog/251711/
+
+Качество сетей передачи данных. Транспорт | https://habrahabr.ru/post/251693/
+
+Футуристическое мышление | https://habrahabr.ru/post/251647/
+
+Patch Management. Тестирование ежемесячных обновлений ПО | https://habrahabr.ru/company/icl_services/blog/251575/
+
+Качество сетей передачи данных. Программные и аппаратные измерения | https://habrahabr.ru/post/250821/
+
+Методы мониторинга в системах DWDM (Часть 2) | https://habrahabr.ru/post/250709/
+
+Импортозамещение Часть 1. Или как я изучал Huawei FusionCloud Desktop | https://habrahabr.ru/post/250705/
+
+Опрос. Автоматизированное тестирование | https://habrahabr.ru/post/250465/
+
+ИТ весна в Минске | https://habrahabr.ru/company/sqalab/blog/250113/
+
+Я пользовался диктовкой и управлением голосом неделю и вот что получилось | https://habrahabr.ru/post/249999/
+
+Образовательные программы для студентов финансовых и IT специальностей! | https://habrahabr.ru/company/moex/blog/249883/
+
+За кулисами закрытого бета-тестирования Skyforge | https://habrahabr.ru/company/mailru/blog/249791/
+
+Wallaby.js — маленький зверь с большим будущим | https://habrahabr.ru/post/249473/
+
+Простое сравнение производительности HTTPS, SPDY и HTTP/2 | https://habrahabr.ru/post/249219/
+
+Главное преимущество Go | https://habrahabr.ru/post/248857/
+
+Тестирование с инструментами Microsoft — полевой опыт | https://habrahabr.ru/company/microsoft/blog/248747/
+
+10 причин, почему вы не являетесь тестировщиком | https://habrahabr.ru/company/luxoft/blog/248535/
+
+Автоматизированное тестирование сервисов, использующих протокол MQ с помощью JMeter | https://habrahabr.ru/post/248453/
+
+Еще раз о Hyper-Threading | https://habrahabr.ru/post/248359/
+
+Автоматизация тестирования с применением Ruby и WATIR | https://habrahabr.ru/company/luxoft/blog/248203/
+
+Десятый вебинар Luxoft серии LTS: Николас Френкел «Как улучшить ваши тесты с помощью мутационного тестирования» | https://habrahabr.ru/company/luxoft/blog/248085/
+
+Удаленная лаборатория тестирования драйверов | https://habrahabr.ru/company/driverpack/blog/247963/
+
+Судный день QA | https://habrahabr.ru/company/luxoft/blog/248051/
+
+Разработка vs. Тестирование, или куда податься выпускнику ФВТ | https://habrahabr.ru/company/luxoft/blog/247759/
+
+Свежая выпечка от TestCafe — 14.2 release | https://habrahabr.ru/company/devexpress/blog/246591/
+
+За план тестирования замолвите слово | https://habrahabr.ru/post/247637/
+
+В команде нет автотестеров – что делать? | https://habrahabr.ru/company/acronis/blog/247109/
+
+Живой код конференции DevCon 2015 | https://habrahabr.ru/company/microsoft/blog/247005/
+
+Обучение тестировщиков. Практический опыт и советы | https://habrahabr.ru/company/mailru/blog/245291/
+
+Семейный фильтр Яндекса дал сбой | https://habrahabr.ru/post/246643/
+
+Пишем максимально эффективный тест-кейс | https://habrahabr.ru/post/246463/
+
+TeamCity 9.0: импорт проектов, настройки в VCS, фоновая очистка и панды | https://habrahabr.ru/company/JetBrains/blog/246315/
+
+Тестирование GWT приложений архитектуры MVP | https://habrahabr.ru/post/246285/
+
+Курс от Яндекса о том, что должен знать каждый разработчик, который хочет делать большие системы. Модное слово DevOps и другое | https://habrahabr.ru/company/yandex/blog/245869/
+
+Тесты, которые тестируют тесты | https://habrahabr.ru/post/245097/
+
+VexorCI: как мы готовим файлы конфигураций | https://habrahabr.ru/company/vexorci/blog/244829/
+
+Юнит тесты на Си — нет ничего проще | https://habrahabr.ru/post/244835/
+
+Открыта регистрация на конференцию DevCon 2015 | https://habrahabr.ru/company/microsoft/blog/244757/
+
+Интегрируем AutoMapper с DI-контейнерами на примере Unity | https://habrahabr.ru/post/244699/
+
+Аналитический отчёт по трейсу Microsoft SQL Server | https://habrahabr.ru/company/npo-comp/blog/243587/
+
+Забавные баги | https://habrahabr.ru/company/ua-hosting/blog/244479/
+
+Самопальный фрэймворк Arachnidium для тестирования web и мобильных приложений. Part 2. Немного о настройках | https://habrahabr.ru/post/244329/
+
+Валидация и верификация требований к системе | https://habrahabr.ru/post/244337/
+
+Вердикт тестировщика или количественная оценка системы по результатам тестирования | https://habrahabr.ru/post/243597/
+
+Мемы в Parallels: «Релиз будет 1 мая… А сегодня какое мая?» | https://habrahabr.ru/company/parallels/blog/243875/
+
+Экспертиза задания на примере задачи о проверке анализатора РБНФ деклараций | https://habrahabr.ru/post/243513/
+
+JarvisJS: Функциональное тестирование веб-приложений | https://habrahabr.ru/company/jarvisjs/blog/243329/
+
+VexorCI под капотом | https://habrahabr.ru/company/vexorci/blog/243231/
+
+Самопальный фрэймворк Arachnidium для тестирования web и мобильных приложений. Get started! | https://habrahabr.ru/post/242947/
+
+Альтернативная классификация багов | https://habrahabr.ru/post/242931/
+
+Codeship.io: бесплатный CI сервер для приватного репозитория Github/Bitbucket | https://habrahabr.ru/post/242685/
+
+Доклад с SQA Days — Тест-дизайн: проще читать или проще писать | https://habrahabr.ru/company/sqalab/blog/242385/
+
+Доклад с SQA Days — Автоматизация тестирования: отбрасываем лишнее и проверяем суть | https://habrahabr.ru/company/sqalab/blog/241772/
+
+Кухонные принадлежности в тестировании: или что выбрать из онлайн-ресурсов для тестирования продуктов? | https://habrahabr.ru/post/242025/
+
+Бюрократия баг-трекера | https://habrahabr.ru/post/241955/
+
+От велосипеда к… | https://habrahabr.ru/post/241798/
+
+Курсы этичного хакинга и тестирования на проникновение | https://habrahabr.ru/company/pentestit/blog/240995/
+
+История одного бага в автомате для видеопокера | https://habrahabr.ru/post/240799/
+
+Классификация видов тестирования | https://habrahabr.ru/company/npo-comp/blog/223833/
+
+Баг не воспроизводится… Что делать?! | https://habrahabr.ru/post/240715/
+
+Группа тестирования в Scrum-проекте | https://habrahabr.ru/company/npo-comp/blog/240589/
+
+Полуавтоматическая регистрация юнит-тестов на чистом С | https://habrahabr.ru/post/240565/
+
+Выход больших iPad отложен из-за шестых «айфонов» | https://habrahabr.ru/company/gttf/blog/239881/
+
+SQA Days-16. Восемь причин поучаствовать | https://habrahabr.ru/company/sqalab/blog/239785/
+
+Облачные автотесты Selenium + Ubuntu (пошаговая инструкция) | https://habrahabr.ru/post/239645/
+
+Test::Spec: плюсы, минусы и особенности | https://habrahabr.ru/company/regru/blog/239417/
+
+Системы хранения данных: как выбирать?! | https://habrahabr.ru/company/parallels/blog/239381/
+
+Тестирование встраиваемых систем — один аспект, о котором почему-то мало говорят | https://habrahabr.ru/post/239403/
+
+Интересный способ запуска Selenium тестов на заднем плане | https://habrahabr.ru/post/239363/
+
+Эй, iCloud, где мои заметки? | https://habrahabr.ru/company/neobit/blog/239297/
+
+Планирование трудозатрат на тестирование — доклад с SQA Days 15 | https://habrahabr.ru/company/sqalab/blog/239011/
+
+Случайность в автотестах | https://habrahabr.ru/company/mailru/blog/238927/
+
+Лайфхаки ручного тестирования на мобилках от 2ГИС — Доклад с конференции SQA Days 15 | https://habrahabr.ru/company/sqalab/blog/238707/
+
+Швейцарские ученые готовы лечить паралич | https://habrahabr.ru/company/gttf/blog/238695/
+
+Sony: мы научим вас смотреть на мир чужими глазами | https://habrahabr.ru/company/gttf/blog/238573/
+
+Интервью с Matthieu Herrb: тестирование сервера X.Org | https://habrahabr.ru/post/234291/
+
+Автотесты – барское дело | https://habrahabr.ru/post/238353/
+
+Тестирование в Airbnb | https://habrahabr.ru/company/airbnb/blog/238267/
+
+После 1,5 ПБ записи в живых остались два SSD-накопителя | https://habrahabr.ru/post/237973/
+
+Пишем тестопригодный javascript | https://habrahabr.ru/post/237615/
+
+Тестирование Adobe AIR приложений в системе HockeyApp | https://habrahabr.ru/post/237255/
+
+Платформа для тестирования мобильных приложений Ubertesters: опыт внедрения | https://habrahabr.ru/post/237283/
+
+Continuous Delivery в Яндексе. Как разогнать свой цикл разработки, используя только Open Source решения | https://habrahabr.ru/company/yandex/blog/237017/
+
+Teatro.io – облачный сервис для демонстрации результатов веб-разработки в один клик | https://habrahabr.ru/company/railsclub/blog/236617/
+
+Автоматизированное тестирование — это просто! Как я тестировал Печкина | https://habrahabr.ru/post/236561/
+
+Valgrind — это хорошо, но недостаточно | https://habrahabr.ru/company/pvs-studio/blog/236293/
+
+C днём тестировщика | https://habrahabr.ru/company/mailru/blog/235947/
+
+Серия лабораторных работ по управлению тестированием с Microsoft Test Manager 2013 | https://habrahabr.ru/company/microsoft/blog/235157/
+
+tSqlt — модульное тестирование в Sql Server | https://habrahabr.ru/post/234673/
+
+Экстремальное программирование в стиле тестеров-крутотенечек! | https://habrahabr.ru/post/234749/
+
+Секреты Metasploit | https://habrahabr.ru/post/234719/
+
+Внедрение TestLink — основные шаги от идеи на внедрение до своего лого в отчетах | https://habrahabr.ru/post/234633/
+
+Нагрузочное тестирование Skyforge. Год спустя | https://habrahabr.ru/company/mailru/blog/234223/
+
+TestLink — боль и слёзы тестировщика или панацея? Опыт внедрения | https://habrahabr.ru/post/234483/
+
+Software Project Management Conference: почему важно не пропустить главную конференцию, посвященную управлению ИТ проектами | https://habrahabr.ru/company/sqalab/blog/234227/
+
+Инженерная культура, которую мы потеряли? | https://habrahabr.ru/post/233851/
+
+Как внедрить у себя back-to-back-тестирование. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/233455/
+
+SQA Days-16: опыт, знания, дружеская атмосфера | https://habrahabr.ru/company/sqalab/blog/233215/
+
+Теория вашего первого A/B анализа | https://habrahabr.ru/company/paysto/blog/233145/
+
+Allure — фреймворк от Яндекса для создания простых и понятных отчётов автотестов [для любого языка] | https://habrahabr.ru/company/yandex/blog/232697/
+
+Imagrium: Фреймворк для автоматизации кросс-платформенного тестирования мобильных приложений | https://habrahabr.ru/post/232525/
+
+Dalek.js — простое функциональное тестирование веб-приложений | https://habrahabr.ru/post/232191/
+
+Чистое и грязное тестовые окружения | https://habrahabr.ru/company/acronis/blog/232099/
+
+Как использовать .NET из LoadRunner | https://habrahabr.ru/post/231875/
+
+Джентльменский набор тестировщика по версии ZeptoLab | https://habrahabr.ru/company/ZeptoLab/blog/231671/
+
+Библиотека для автоматизации приемочного тестирования в мобильных приложениях | https://habrahabr.ru/post/231731/
+
+О метриках тестирования: code coverage для тестировщиков | https://habrahabr.ru/post/231583/
+
+Собеседование на должность Automation QA Engineer | https://habrahabr.ru/post/230925/
+
+Команда автоматизации тестирования Unity 3D | https://habrahabr.ru/post/230907/
+
+Удаленное тестирование. Советы бывалого фрилансера | https://habrahabr.ru/company/mailru/blog/230799/
+
+Браузерный робот на Sikuli IDE для игры MusicWars | https://habrahabr.ru/post/230705/
+
+Путь к непрерывной интеграции. Selenium + TeamCity | https://habrahabr.ru/post/230519/
+
+Тестирование верстки новостного сайта c адаптивным дизайном | https://habrahabr.ru/company/eastbanctech/blog/230291/
+
+Построение надежных веб-приложений на React: Часть 3, тестирование с Jasmine | https://habrahabr.ru/post/229987/
+
+Различные профили Visual Studio и установка расширений к ним | https://habrahabr.ru/post/230097/
+
+Continuous Integration в 10 строках кода или зачем нужны BuildBot, Jenkins, TeamCity и подобные | https://habrahabr.ru/post/229873/
+
+Использование продуктов Acronis в автоматизации тестирования | https://habrahabr.ru/company/acronis/blog/229417/
+
+Применение FitNesse для .Net приложений | https://habrahabr.ru/post/228967/
+
+Нагрузочное тестирование базы данных. ContiPerf + DBUnit | https://habrahabr.ru/post/228719/
+
+Тестирование в Яндексе. Сам себе web-service over SSH, или как сделать заглушку для целого сервиса | https://habrahabr.ru/company/yandex/blog/228691/
+
+Разработка и тестирование модуля АСКУЭ | https://habrahabr.ru/post/228291/
+
+Yota Team Rescue Rangers! или Один день из жизни тестировщика Yota | https://habrahabr.ru/company/yota/blog/228551/
+
+Astrobench: тестирование производительности JavaScript кода | https://habrahabr.ru/post/228223/
+
+Режим «Разделенного экрана» или Split Screen своими руками | https://habrahabr.ru/post/227749/
+
+Использование персонажей и сценариев в тестировании Календаря | https://habrahabr.ru/company/mailru/blog/227743/
+
+5 уроков для разработчиков высоконагруженных систем | https://habrahabr.ru/post/227595/
+
+Тестирование в Яндексе. Что мы узнали о фреймворке Appium, и можно ли его применять для серьёзных задач | https://habrahabr.ru/company/yandex/blog/227571/
+
+Test Labs 2014. ОНЛАЙН конференция для тестировщиков и тест-менеджеров. 28 июня | https://habrahabr.ru/company/luxoft/blog/226675/
+
+Проверка SSD на выносливость: запись 1 петабайта | https://habrahabr.ru/post/226513/
+
+Как тестировать код финализатора (c#). Послесловие: тест все-таки упал | https://habrahabr.ru/post/226391/
+
+TDD мертв. Да здравствует тестирование | https://habrahabr.ru/post/226303/
+
+Метод самостоятельного определения времени отклика LCD экрана монитора или телевизора | https://habrahabr.ru/post/225829/
+
+DevCon 2014: как это было (+ много фото) | https://habrahabr.ru/company/microsoft/blog/225495/
+
+Тестирование производительности платформы Docsvision c Visual Studio | https://habrahabr.ru/company/docsvision/blog/225129/
+
+Как тестировать не-публичные методы в .NET | https://habrahabr.ru/post/224733/
+
+Тестирование через абстрактные классы в TestNG | https://habrahabr.ru/post/224077/
+
+Автоматизация тестирования. Начало пути | https://habrahabr.ru/post/223831/
+
+Месяц поиска уязвимостей: как мы к нему готовились и как его пережили | https://habrahabr.ru/company/mailru/blog/223775/
+
+Отгремела «самая общительная конференция тестировщиков» SQA Days 15 | https://habrahabr.ru/company/sqalab/blog/223355/
+
+Visual Website Optimizer — сплит тестирование ландинг пейдж на основном домене и домене третьего уровня | https://habrahabr.ru/post/223335/
+
+Создание репортов о тестировании Android-приложений с помощью Spoon и Emma | https://habrahabr.ru/post/222977/
+
+Обзор LoadRunner 12 | https://habrahabr.ru/company/performance_lab/blog/222777/
+
+Как мы запрос в 100 раз ускоряли, или не все хеш-функции одинаково плохи | https://habrahabr.ru/post/222565/
+
+Тестирование Web UI с Викой в удовольствие или Виртуальный Интеллект в тестировании | https://habrahabr.ru/company/ifree/blog/222191/
+
+Magic Tester. Как неподготовленный человек замечает ошибки, и как научить тому же робота | https://habrahabr.ru/company/yandex/blog/221379/
+
+Как настроить интеграцию между Bugzilla и 3SL Cradle | https://habrahabr.ru/post/221551/
+
+Тестировщик — больше, чем профессия | https://habrahabr.ru/post/221447/
+
+Автоматизация приемочного тестирования Selenium + .NET Web Api + AngularJs | https://habrahabr.ru/post/221169/
+
+Качество кода Open Source впервые превзошло качество кода проприетарных проектов на C/C++ | https://habrahabr.ru/post/220769/
+
+SAS сети и DAS решения: от теории к практике | https://habrahabr.ru/company/etegro/blog/220613/
+
+TestCafe: Краткая история обретения гармонии в функциональном тестировании (с картинками) | https://habrahabr.ru/company/devexpress/blog/212491/
+
+Переход на PHP 5.5 и юнит-тесты | https://habrahabr.ru/company/badoo/blog/220211/
+
+Теория большого кода – 28-29 мая на конференции DevCon 2014 | https://habrahabr.ru/company/microsoft/blog/220171/
+
+BDD-разработка на django | https://habrahabr.ru/post/219665/
+
+DevCon 2014: анонс второй волны спикеров и докладов | https://habrahabr.ru/company/microsoft/blog/219821/
+
+Новый Asimo Robot от Honda — самый человечный из всех | https://habrahabr.ru/company/telebreeze/blog/219589/
+
+Автоматизация приемочного тестирования Android приложений с помощью Calabash | https://habrahabr.ru/post/219655/
+
+A/B Анализ для начинающих. Как понять, что именно работает на вас? | https://habrahabr.ru/company/paysto/blog/218351/
+
+Как гироскопом на руле машину измеряли | https://habrahabr.ru/post/218029/
+
+Как стать тестировщиком мирового уровня? | https://habrahabr.ru/company/sqalab/blog/218135/
+
+Про важность документирования | https://habrahabr.ru/post/218089/
+
+Математика для тестировщиков | https://habrahabr.ru/company/sqalab/blog/217743/
+
+Создаем «Восхитительный» продукт (Minimum Delightful Product) | https://habrahabr.ru/post/217379/
+
+Автотесты без боли | https://habrahabr.ru/company/ifree/blog/216453/
+
+Введение в программирование через поведение (BDD) | https://habrahabr.ru/post/216923/
+
+DevCon 2014: анонс первой волны спикеров и докладов | https://habrahabr.ru/company/microsoft/blog/216883/
+
+Билд-светофор: история еще одного внедрения | https://habrahabr.ru/company/nordavind/blog/216743/
+
+Gremlins.js — monkey testing библиотека для веб приложений | https://habrahabr.ru/post/216805/
+
+Volvo следит за тем, чтобы вы не уснули | https://habrahabr.ru/company/telebreeze/blog/216619/
+
+Периферийное сканирование JTAG: тестирование опытных образцов электроники | https://habrahabr.ru/company/promwad/blog/216411/
+
+Видео докладов с конференции LoveQA. Вторая часть | https://habrahabr.ru/company/badoo/blog/216255/
+
+Автоматическое тестирование Parallels Cloud Server | https://habrahabr.ru/post/204292/
+
+Автоматизация тестовой инфраструктуры в Поиске | https://habrahabr.ru/company/mailru/blog/215691/
+
+О роли _албанского в тестировании | https://habrahabr.ru/company/2gis/blog/215613/
+
+Приходите на юбилейную XV Международную конференцию Software Quality Assurance Days | https://habrahabr.ru/company/sqalab/blog/215529/
+
+Тестирование на платформе 1С: Предприятие 8. Практическая часть | https://habrahabr.ru/post/215409/
+
+Автоматизация системного интеграционного тестирования | https://habrahabr.ru/post/215363/
+
+Monkeyrunner. Pixel-perfect тестирование web-страниц на Android | https://habrahabr.ru/post/215211/
+
+Подводные камни при системном тестировании модулей под Magento | https://habrahabr.ru/post/215025/
+
+Конференция DUMP-2014: секция «Тестирование» | https://habrahabr.ru/company/it_people/blog/214857/
+
+Тестирование на платформе 1С: Предприятие 8 | https://habrahabr.ru/post/214651/
+
+Видео докладов с конференции LoveQA. Первая часть | https://habrahabr.ru/company/badoo/blog/214627/
+
+Rolls-Royce планирует строить гигантские беспилотные корабли для морских грузоперевозок | https://habrahabr.ru/post/214007/
+
+Тестирование ритейл систем | https://habrahabr.ru/company/performance_lab/blog/213997/
+
+Суровая жизнь тестировщика игр | https://habrahabr.ru/post/213787/
+
+Автотесты. А не отдать ли на аутсорс? | https://habrahabr.ru/post/213477/
+
+Анонс! DevCon 2014 становится международной конференцией | https://habrahabr.ru/company/microsoft/blog/213395/
+
+Как не надо тестировать программы для бизнеса | https://habrahabr.ru/post/213325/
+
+Xcode и Travis: запуск тестов на множестве конфигураций | https://habrahabr.ru/post/212615/
+
+BFT – Потоковое тестирование | https://habrahabr.ru/company/ifree/blog/212567/
+
+Этот крошечный чип делает интернет в 4 раза быстрее | https://habrahabr.ru/post/212631/
+
+DevCon 2014: самая курортная конференция | https://habrahabr.ru/company/microsoft/blog/212575/
+
+Зачем язык Verilog программисту микроконтроллеров | https://habrahabr.ru/post/212507/
+
+Приятное тестирование с Espresso | https://habrahabr.ru/post/212425/
+
+Ещё раз о том, как не надо делать розыгрыши призов | https://habrahabr.ru/post/212373/
+
+Бесплатное тестирование мобильных приложений (Samsung Apps) | https://habrahabr.ru/post/211989/
+
+Мифы про юзабилити и его тестирование | https://habrahabr.ru/post/211322/
+
+Почему использование юнит тестов это отличная инвестиция в качественную архитектуру | https://habrahabr.ru/post/210518/
+
+Сканирование с поддержкой JavaScript/Ajax/DomMutation или SlimerJS + CasperJS + Magic = Profit | https://habrahabr.ru/post/211060/
+
+Любишь читать захватывающие книги – люби и жилет носить… | https://habrahabr.ru/post/211026/
+
+LoveQA. Первая мини-конференция Badoo для тестировщиков | https://habrahabr.ru/company/badoo/blog/210990/
+
+Стресстест Apache и Nginx на EC2 MicroInstance | https://habrahabr.ru/post/210950/
+
+Книга «How Google Tests Software» теперь на русском! | https://habrahabr.ru/post/210634/
+
+За кулисами SQA Days. Руководство к действию | https://habrahabr.ru/company/sqalab/blog/210538/
+
+Тестирование хранимых функций с помощью pgTAP | https://habrahabr.ru/post/209932/
+
+Тестируем: сравнение производительности IMX6 и OMAP4 | https://habrahabr.ru/company/promwad/blog/209844/
+
+Тестировщики — роль второго плана? | https://habrahabr.ru/post/209822/
+
+Алгоритм построения покрывающих наборов | https://habrahabr.ru/post/187882/
+
+Selenium и BrowserMobProxy: вместе веселее! | https://habrahabr.ru/post/209752/
+
+Перевод статьи Хенрика Книберга «ATDD from Trenches» (ATDD с передовой) | https://habrahabr.ru/post/209576/
+
+Небольшое введение в Scalatest | https://habrahabr.ru/post/209578/
+
+Заготовка для схемы данных с тестами, CI, без преферанса | https://habrahabr.ru/post/209584/
+
+ActiveRecord vs DAO – Тест потребления памяти и скорости выполнения запросов | https://habrahabr.ru/company/arnion/blog/209568/
+
+Как я тестировал IDE компании «Мультиклет» | https://habrahabr.ru/post/209346/
+
+SWD.Starter: Быстрый старт автоматизации тестирования UI на C# + Selenium WebDriver + PageObjects | https://habrahabr.ru/post/208822/
+
+Новый конкурент Google Glass от Epson | https://habrahabr.ru/company/telebreeze/blog/208642/
+
+Selenium: от инструмента к стандарту | https://habrahabr.ru/post/208638/
+
+Поддержка обратной связи геймпадом в WoT | https://habrahabr.ru/post/208478/
+
+Создание понятных отчетов о тестировании | https://habrahabr.ru/company/performance_lab/blog/207512/
+
+Опыт работы с TDD и размышления о том, как надо тестировать код | https://habrahabr.ru/post/207448/
+
+Как написать автоматический тест на алгоритмическую сложность? | https://habrahabr.ru/company/tiktokcoach/blog/206544/
+
+Автоматизация тестирования Android приложений с помощью UIAutomator | https://habrahabr.ru/company/intel/blog/205864/
+
+DARPA планирует исправлять уязвимости в критически важном ПО при помощи геймеров | https://habrahabr.ru/post/205978/
+
+Continuous Integration вместе с buildbot: а зачем? | https://habrahabr.ru/post/205670/
+
+Прототипируем приложение: сценарии, анимация, иконки, юзабилити-тест на примере Моего Мира | https://habrahabr.ru/company/mailru/blog/205658/
+
+Грабли при использовании общих .dll | https://habrahabr.ru/company/acronis/blog/205476/
+
+Отладка native-кода под Android: ручное и автоматизированное тестирование | https://habrahabr.ru/company/intel/blog/204642/
+
+Сегодня праздник у ребят | https://habrahabr.ru/post/205296/
+
+Облачные ci: travis-ci и drone.io | https://habrahabr.ru/company/coviolations/blog/204900/
+
+«Билайн» и бета-тестеры | https://habrahabr.ru/company/beeline/blog/204680/
+
+Continuous Integration вместе с buildbot: введение | https://habrahabr.ru/post/204700/
+
+Яндекс.Танк и автоматизация нагрузочного тестирования | https://habrahabr.ru/company/pt/blog/204224/
+
+Тестирование в Яндексе: ObjectBuilders для описания и генерации синтетических тестовых данных | https://habrahabr.ru/company/yandex/blog/204192/
+
+Социальная сеть без сервера. История разработки iOS-клиента и backend | https://habrahabr.ru/post/198864/
+
+TDD for Responsive Design. Или как автоматизировать тестирование отображения сайта для разных устройств с помощью Galen Framework | https://habrahabr.ru/post/203506/
+
+Как матрица эмоций может помочь в тестировании юзабилити программного обеспечения | https://habrahabr.ru/post/203264/
+
+Нагрузочный тест на Go, версия 2 | https://habrahabr.ru/post/203328/
+
+Билл Гейтс финансирует создание тонких графеновых презервативов | https://habrahabr.ru/post/203262/
+
+Автоматическое тестирование iOS приложений | https://habrahabr.ru/post/202910/
+
+Тестирование: явный выбор карьеры | https://habrahabr.ru/post/202868/
+
+SQA Days 14. Подводим итоги | https://habrahabr.ru/company/sqalab/blog/202396/
+
+Тестирование в Яндексе: строим свой Лунапарк | https://habrahabr.ru/company/yandex/blog/202446/
+
+Может ли быть слишком много автоматизации в самолете? | https://habrahabr.ru/post/202328/
+
+Отладка самолета? Это очень просто! | https://habrahabr.ru/post/202184/
+
+Наши танки. История нагрузочного тестирования в Яндексе | https://habrahabr.ru/company/yandex/blog/202020/
+
+Как ExpressionTrees помогают тестировать WebApi | https://habrahabr.ru/post/202044/
+
+Всегда начеку: как важна внимательность | https://habrahabr.ru/post/201806/
+
+Логирование Apache JMeter в БД Oracle в режиме on-line | https://habrahabr.ru/company/performance_lab/blog/200164/
+
+Использование скриншотов для тестирования | https://habrahabr.ru/post/201374/
+
+Test Labs 2013 часть II. 16 ноября. Онлайн конференция для тестировщиков | https://habrahabr.ru/company/luxoft/blog/201132/
+
+Как мы тестируем поиск в Яндексе. Screenshot-based тестирование блоков результатов | https://habrahabr.ru/company/yandex/blog/200968/
+
+Обзор чехла-батареи для Nexus 4 от Mugen Power | https://habrahabr.ru/post/200542/
+
+Автоматические тесты в облаке | https://habrahabr.ru/post/200446/
+
+Опыт от Яндекса. Как делать свой отчет для автотестов | https://habrahabr.ru/company/yandex/blog/200364/
+
+Универсальный автотест, или как мы автоматизировали ручные тесты API в nanoCAD | https://habrahabr.ru/company/nanosoft/blog/199402/
+
+Не надо бояться солнечных панелей | https://habrahabr.ru/post/200054/
+
+Тестирование инсталляторов: Автоматизируем вход в Windows | https://habrahabr.ru/post/199234/
+
+Как 45 минут терять по $172 222 в секунду | https://habrahabr.ru/post/198766/
+
+Как тестировать только то, что нужно | https://habrahabr.ru/company/microsoft/blog/198696/
+
+Тестирование инсталляторов в Windows, когда надо быстро и дешево | https://habrahabr.ru/post/197586/
+
+Oracle OpenScript: система автоматизированного функционального тестирования | https://habrahabr.ru/post/197436/
+
+Холодильник против | https://habrahabr.ru/company/virt2real/blog/197318/
+
+Процесс тестирования мобильных приложений | https://habrahabr.ru/company/touchinstinct/blog/197060/
+
+Вперед за идеями | https://habrahabr.ru/company/sqalab/blog/196802/
+
+Секреты тестирования интерфейсов в ТКС Банке | https://habrahabr.ru/company/tinkoff/blog/196632/
+
+Сказ о Selenium тестировании | https://habrahabr.ru/post/196152/
+
+Автоматизированное создание отчета по тестированию | https://habrahabr.ru/post/195820/
+
+Обновился Google Testing Framework | https://habrahabr.ru/post/194584/
+
+Nikon CoolPix S01: маленькая фотокамера для дам и не только | https://habrahabr.ru/company/smartgadget/blog/194396/
+
+Не пропустите! Сегодня, 17 сентября. Вебинар «Тестирование ПО с помощью Visual Studio и Windows Azure» | https://habrahabr.ru/company/microsoft/blog/194044/
+
+Ещё о тестировании в Яндексе роботами | https://habrahabr.ru/company/yandex/blog/193918/
+
+Тестовое задание QA | https://habrahabr.ru/post/193902/
+
+Нагрузочное тестирование в Skyforge, или Боты – санитары сервера. Часть 2 | https://habrahabr.ru/company/mailru/blog/193452/
+
+Первый компьютерный баг найден 66 лет назад | https://habrahabr.ru/post/193264/
+
+Разработка автоматизированных тестов на базе Selenium WebDriver 2.x | https://habrahabr.ru/post/193174/
+
+Тестирование: 20 принципов новичка | https://habrahabr.ru/post/193138/
+
+Хит-парад факапов: top-5 наших любимых багов в честь Дня тестировщика | https://habrahabr.ru/company/maxifier/blog/192932/
+
+С днём тестировщика! | https://habrahabr.ru/company/infopulse/blog/193008/
+
+Про Selenium и один «велосипед» | https://habrahabr.ru/post/192742/
+
+Автоматизация тестирования программных систем | https://habrahabr.ru/post/192286/
+
+Data-Driven тесты в MS-Test для модульного и приёмочного тестирования | https://habrahabr.ru/post/192720/
+
+MK 809III Android Mini PC: компьютер в кармане | https://habrahabr.ru/company/smartgadget/blog/192662/
+
+Code coverage в Badoo | https://habrahabr.ru/company/badoo/blog/192538/
+
+Прочесть большую статью — сложно… Тестировать сложный продукт – легко | https://habrahabr.ru/company/dnevnik_ru/blog/192572/
+
+Python. Генерация юнит-тестов | https://habrahabr.ru/post/192512/
+
+Разработка и тестирование на открытых технологиях в облаке на примере Node.js, Riak, Ruby on Rails и десятков других | https://habrahabr.ru/company/microsoft/blog/192484/
+
+Путь к Selenium 3.0 | https://habrahabr.ru/post/192346/
+
+Разработка нового профессионального стандарта в области информационных технологий | https://habrahabr.ru/company/nordavind/blog/192002/
+
+SWD Page Recorder: Записывает PageObject-классы для Selenium WebDriver | https://habrahabr.ru/post/191802/
+
+За кулисами EuroSTAR. Или взгляд на организацию конференции со стороны председателя программного комитета Майкла Болтона | https://habrahabr.ru/post/191458/
+
+Много тестов не бывает | https://habrahabr.ru/post/191164/
+
+Интерактивное тестирование — стоит ли овчинка выделки | https://habrahabr.ru/post/191488/
+
+Нагрузочное тестирование в Skyforge, или Боты – санитары сервера. Часть 1 | https://habrahabr.ru/company/mailru/blog/191378/
+
+Разработка и тестирование приложений в облаке: часть третья, популярные сценарии | https://habrahabr.ru/company/microsoft/blog/191344/
+
+Браузеры и частота их падения | https://habrahabr.ru/post/191308/
+
+Yii, непрерывная интеграция — как не сломать все | https://habrahabr.ru/post/191210/
+
+Разработка и тестирование приложений в облаке: часть вторая | https://habrahabr.ru/company/microsoft/blog/190988/
+
+Электромобиль Tesla S сломал оборудование для проведения краш-тестов | https://habrahabr.ru/post/190912/
+
+PVS-Studio наконец то добрался до Boost | https://habrahabr.ru/company/pvs-studio/blog/190888/
+
+Процесс разработки и выкатка релизов в Badoo. Автоматическое тестирование. Девелоперское окружение | https://habrahabr.ru/company/badoo/blog/190572/
+
+Извлекаем пользу из Selenium и Jenkins CI | https://habrahabr.ru/post/190642/
+
+Разработка и тестирование приложений в облаке: часть первая | https://habrahabr.ru/company/microsoft/blog/190522/
+
+Тестируем CSS в Selenium IDE | https://habrahabr.ru/post/190358/
+
+Вышел test.it v1.1.0 — что дальше? | https://habrahabr.ru/post/190200/
+
+Обзор Wexler.Tab 7b: планшет «за два рубля» | https://habrahabr.ru/company/smartgadget/blog/189546/
+
+Клиентские тесты на Lettuce + Selenium | https://habrahabr.ru/post/189778/
+
+Гаджет-эддикция: обзор одной коллекции | https://habrahabr.ru/company/smartgadget/blog/189416/
+
+Запуск тестов Siesta из консоли с помощью PhantomJS | https://habrahabr.ru/post/189144/
+
+test.it — тестирование JavaScript или мой велосипед с вложенностью и подробным выводом | https://habrahabr.ru/post/188268/
+
+CodedUI или Ranorex? Автоматизация функционального тестирования .NET приложений | https://habrahabr.ru/company/2gis/blog/188302/
+
+Тестирование сканеров безопасности веб-приложений: подходы и критерии | https://habrahabr.ru/company/pt/blog/187636/
+
+AspectMock — тестируем любой PHP код | https://habrahabr.ru/post/187622/
+
+Шоколадная электроника | https://habrahabr.ru/post/186344/
+
+Простой и быстрый фреймворк для стресс-тестирования приложений | https://habrahabr.ru/post/186100/
+
+PowerMock(+Mockito) +TestNG и имитация вызова (mock) статических методов | https://habrahabr.ru/post/185834/
+
+Как тестировать электронику на производстве: анализ современных технологий | https://habrahabr.ru/company/promwad/blog/185356/
+
+2ГИС для Android: хорошие новости | https://habrahabr.ru/company/2gis/blog/185314/
+
+Походная книга тестировщика | https://habrahabr.ru/post/184962/
+
+Тестирование в Яндексе. Матчеры: когда они полезны и как легко их использовать | https://habrahabr.ru/company/yandex/blog/184634/
+
+Добро пожаловать на светлую сторону continuous integration | https://habrahabr.ru/company/JetBrains/blog/184202/
+
+Притча о покрытии кода тестами | https://habrahabr.ru/post/184160/
+
+День рождения Пола Маккартни и баг с кешированием в Википедии | https://habrahabr.ru/post/183802/
+
+Jenkins CI — вещи, которых мне не хватало | https://habrahabr.ru/post/183558/
+
+Масляное охлаждение корпуса (продолжение) | https://habrahabr.ru/post/181708/
+
+Эксперимент в Яндексе: как роботы помогают тестировать сервисы | https://habrahabr.ru/company/yandex/blog/182976/
+
+Как тестировать код финализатора (c#) | https://habrahabr.ru/post/182702/
+
+Использование автоматизированных верификационных средств для тестирования ПО в соответствии со стандартами DO-178B/C (КТ-178В), EN 50126, IEC 61508, ISO 26262, FDA, IEC 62304 | https://habrahabr.ru/post/182564/
+
+Как оценить инструменты для тестирования встроенного ПО | https://habrahabr.ru/post/182544/
+
+DevCon 2013: как это было (+ много фото) | https://habrahabr.ru/company/microsoft/blog/182368/
+
+Улучшаем тестирование путем использования реального трафика | https://habrahabr.ru/post/182202/
+
+Step-by-step: настройка SpecFlow для русскоязычного проекта при написании тестов в среде .Net | https://habrahabr.ru/post/182160/
+
+Исполняемая спецификация: SpecFlow от А до Я | https://habrahabr.ru/post/182032/
+
+Тестирование проекта Ext.Js на Selenium | https://habrahabr.ru/post/181660/
+
+Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 4: Наконец-то пишем тесты | https://habrahabr.ru/post/181558/
+
+Оптимальная параллелизация юнит-тестов или 17000 тестов за 4 минуты | https://habrahabr.ru/company/badoo/blog/181488/
+
+DevCon 2013: второй день конференции, смотрите прямую трансляцию основной программы! | https://habrahabr.ru/company/microsoft/blog/181099/
+
+Опрос о StackOverflow | https://habrahabr.ru/post/181394/
+
+DevCon 2013: первый день конференции, смотрите прямую трансляцию основной программы! | https://habrahabr.ru/company/microsoft/blog/181097/
+
+Data Driven Tests & SpecFlow | https://habrahabr.ru/post/181311/
+
+Корпус с масляным охлаждением компонентов | https://habrahabr.ru/post/181003/
+
+Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 3: WebPages — описываем страницы | https://habrahabr.ru/post/180705/
+
+Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 2.2: Selenium API wrapper — WebElement | https://habrahabr.ru/post/180357/
+
+Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 2.1: Selenium API wrapper — Browser | https://habrahabr.ru/post/180047/
+
+Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 1: Введение | https://habrahabr.ru/post/178321/
+
+Как я Android для тестирования выбирал | https://habrahabr.ru/post/179531/
+
+DevCon 2013: анонс программы конференции | https://habrahabr.ru/company/microsoft/blog/178983/
+
+Автоматизация тестирования Web-приложений | https://habrahabr.ru/post/178407/
+
+Как я реализовывал А/Б-тестирование на PHP | https://habrahabr.ru/post/177959/
+
+Я хочу писать тесты | https://habrahabr.ru/post/177799/
+
+Как начать писать тесты за 10 шагов по 10 минут | https://habrahabr.ru/company/infopulse/blog/177581/
+
+Контроль целостности кода функций | https://habrahabr.ru/company/pt/blog/177189/
+
+Тестирование приложений на Canvas: рецепты на примере тестирования API Яндекс.Карт | https://habrahabr.ru/company/yandex/blog/177163/
+
+Пара слов о книге «Professional TDD with C#» | https://habrahabr.ru/post/176637/
+
+Почему хороший разработчик радуется дефектам? | https://habrahabr.ru/post/175601/
+
+Как быстро найти баги, мешающие релизу | https://habrahabr.ru/post/175327/
+
+Дайджест предстоящих IT-событий на апрель 2013 года | https://habrahabr.ru/company/it_dominanta/blog/174311/
+
+Джейсон Зандер подтвердил своё участие в конференции DevCon 2013 | https://habrahabr.ru/company/microsoft/blog/174421/
+
+Использование Selenium WebDriver для автоматического тестирования веб-интерфейса Яндекс.Почты | https://habrahabr.ru/company/yandex/blog/173769/
+
+Жизнь насекомых, или Как мы ловим «баги» в обновлениях антивирусных баз | https://habrahabr.ru/company/kaspersky/blog/173753/
+
+Анонс второй волны спикеров и 25-и докладов конференции DevCon 2013 | https://habrahabr.ru/company/microsoft/blog/173719/
+
+Тестируем память с помощью Memtest86+ и VirtualBox | https://habrahabr.ru/post/173591/
+
+ContactManager, часть 3. Тестирование контроллеров с помощью MockMvc | https://habrahabr.ru/post/171911/
+
+Мониторинг веб-приложении при помощи браузера | https://habrahabr.ru/post/172373/
+
+Функциональные мониторинги в Яндексе | https://habrahabr.ru/post/170797/
+
+PowerMock (+Mockito): новый взгляд на unit-тестирование | https://habrahabr.ru/post/172239/
+
+Selenium 2.0 — WebDriver. Впечатления, проблемы и советы по использованию | https://habrahabr.ru/post/171703/
+
+Весеннее потепление на DevCon 2013: цены на билеты тают | https://habrahabr.ru/company/microsoft/blog/171615/
+
+Браузер дешевле светофора | https://habrahabr.ru/post/171505/
+
+Практические советы по составлению портфолио для тестировщиков | https://habrahabr.ru/post/171025/
+
+Дайджест предстоящих IT-событий на март 2013 года | https://habrahabr.ru/company/it_dominanta/blog/170663/
+
+Как можно защитить диссертацию по QA в России? | https://habrahabr.ru/post/170585/
+
+Тестируем интеграцию с внешними сервисами | https://habrahabr.ru/post/170637/
+
+Билд-светофор в офисе | https://habrahabr.ru/post/169097/
+
+Анонс первой волны ключевых спикеров конференции DevCon 2013 | https://habrahabr.ru/company/microsoft/blog/170587/
+
+Databene Benerator — генерация тестовых данных | https://habrahabr.ru/post/169713/
+
+PostgreSQL на разных фс (ext3, ext4, xfs) | https://habrahabr.ru/post/169513/
+
+AIDA. Автоматизация работы с Git, JIRA и TeamCity | https://habrahabr.ru/company/badoo/blog/169417/
+
+Юнит-тестирование для чайников | https://habrahabr.ru/post/169381/
+
+Маленькие гении: тестируем приложения вместе с детьми | https://habrahabr.ru/company/littlebeetle/blog/169375/
+
+От DevCon с любовью! Только 4 дня низкая цена + ачивка для влюбленных | https://habrahabr.ru/company/microsoft/blog/169113/
+
+Девять кругов автоматизированного тестирования | https://habrahabr.ru/post/168451/
+
+Тестирование производительности: подводные камни | https://habrahabr.ru/company/etnasoft/blog/168651/
+
+Жизнь без тестировщиков: миф или реальность? | https://habrahabr.ru/post/168643/
+
+5 причин быть тестировщиком | https://habrahabr.ru/post/168541/
+
+Не обманывайте своих заказчиков | https://habrahabr.ru/post/168391/
+
+Сборка Symfony2 проектов с использованием Jenkins | https://habrahabr.ru/post/168383/
+
+Нагрузочное тестирование с помощью Selenium | https://habrahabr.ru/post/168137/
+
+Анонс интенсивного тренинга по тестированию ПО в рамках DevCon 2013 | https://habrahabr.ru/company/microsoft/blog/167603/
+
+Автоматизированное функциональное тестирование Windows приложений с использованием Ranorex | https://habrahabr.ru/post/167347/
+
+Помните о реальном мире | https://habrahabr.ru/post/167061/
+
+Заметки о безопасности. Восстановление пароля | https://habrahabr.ru/post/167013/
+
+CruiseControl.Net: уведомляем о билдах по Skype | https://habrahabr.ru/post/166809/
+
+Думайте при разработке | https://habrahabr.ru/post/166331/
+
+TextTest — кроссплатформенный фреймворк на python для тестирования GUI и не только. Часть 2 | https://habrahabr.ru/post/165833/
+
+TextTest — кроссплатформенный фреймворк на python для тестирования GUI и не только. Часть 1 | https://habrahabr.ru/post/165617/
+
+Тестирование в Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/165877/
+
+29 февраля 2013 года в РЖД | https://habrahabr.ru/post/165769/
+
+Тестирование сервера 1С, СУБД MSSQL2008 на ОС Windows 2008 на IBM x3650 M3 с 1 процессором | https://habrahabr.ru/company/advanserv/blog/165695/
+
+Как создать нагрузочный тест с помощью Apache Jmeter | https://habrahabr.ru/post/165159/
+
+Тестируем ОС в качестве веб-сервера | https://habrahabr.ru/post/165141/
+
+Вебинар: Sikuli – простые примеры правильной автоматизации (Java) | https://habrahabr.ru/post/164679/
+
+Множественные Assertion’ы без прерываний в одном юнит-тесте на примере NUnit | https://habrahabr.ru/post/164479/
+
+Source code как способ думать | https://habrahabr.ru/post/164277/
+
+«Работает — не трогай». Стоит ли нарушать правила? | https://habrahabr.ru/post/164207/
+
+Подробнее о Sikuli в автоматизации тестирования | https://habrahabr.ru/post/163883/
+
+Автоматический анализ покрытия кода с использованием OpenCover + плюшки | https://habrahabr.ru/post/163895/
+
+Тестируем сайт на игровых консолях. Часть II | https://habrahabr.ru/company/netcat/blog/163021/
+
+Интервью с Джеффом «Cheezy» Морганом | https://habrahabr.ru/company/JetBrains/blog/162863/
+
+Тестируем сайт на игровых консолях. Часть I | https://habrahabr.ru/company/netcat/blog/162855/
+
+Тестируем приложение nodejs | https://habrahabr.ru/post/162555/
+
+Смартпот: самый простой способ выращивать растения | https://habrahabr.ru/post/162703/
+
+Обзор зарплат «Тестировщиков» | https://habrahabr.ru/company/it_dominanta/blog/162359/
+
+Dell PowerEdge R820 | https://habrahabr.ru/company/advanserv/blog/162037/
+
+«Призраки» на мониторах, техподдержка Apple и тесты | https://habrahabr.ru/post/161255/
+
+Марсианский код: лекция о том, как программировали Curiosity | https://habrahabr.ru/post/161031/
+
+Применение принципа DRY в RSpec | https://habrahabr.ru/post/160915/
+
+SSD не для всех, или как я общался с Fusion-io ioDrive Duo | https://habrahabr.ru/company/advanserv/blog/160413/
+
+Автоматизация тестирования программных систем | https://habrahabr.ru/post/160257/
+
+Войнушка местного масштаба, зато со стратегией и миссией, или управление тестированием для менеджеров верхнего звена | https://habrahabr.ru/post/160231/
+
+В календаре Android 4.2 отсутствует декабрь | https://habrahabr.ru/post/159135/
+
+Тестирование в Яндексе. Фреймворк HTML Elements: чего не хватает в Page Object, и как это исправить | https://habrahabr.ru/company/yandex/blog/158787/
+
+Утилита FileCorrupter для тестирования продуктов на «битых» входных данных | https://habrahabr.ru/company/officerecovery/blog/158189/
+
+Анонс новых инженерных тренингов | https://habrahabr.ru/company/scrumtrek/blog/157569/
+
+ISTQB сертификация для тестировщиков: зачем и как | https://habrahabr.ru/post/157555/
+
+Эффективность автоматического тестирования приложений | https://habrahabr.ru/post/157205/
+
+Как мы автоматизировали тестирование приложений на canvas | https://habrahabr.ru/company/teamlab/blog/156979/
+
+Симулятор для тестирования ПО АСУТП: Пример | https://habrahabr.ru/post/151125/
+
+Автоматизируем сбор информации о падениях программы | https://habrahabr.ru/post/156255/
+
+Как правильно составлять баг-репорты | https://habrahabr.ru/post/156099/
+
+Распространенные ошибки при составлении баг-репортов | https://habrahabr.ru/post/156069/
+
+Вирусность. Формула или фортуна? | https://habrahabr.ru/post/155497/
+
+Кодируем на лету в base64 и стреляем в MongoDB из JMeter с помощью BeanShell | https://habrahabr.ru/post/155297/
+
+Sparkfun.com FREE day или *как вы относитесь к recaptcha* | https://habrahabr.ru/post/155161/
+
+Page Object Model + Webdriver. Пример реализации на одном тесте | https://habrahabr.ru/post/155109/
+
+Возвращение Series 40 | https://habrahabr.ru/post/154515/
+
+FitNesse + TeamCity — добавь проекту тонуса | https://habrahabr.ru/post/154725/
+
+Selenium 2. Remote Control vs Webdriver | https://habrahabr.ru/post/151715/
+
+Обзор двух крэдлов для HTC Desire S производства Mugen Power | https://habrahabr.ru/post/153729/
+
+Использование снов для тестирования проекта | https://habrahabr.ru/post/153569/
+
+Watir WebDriver как средство автоматизации тестирования | https://habrahabr.ru/company/regru/blog/153049/
+
+Что такое Selenium WebDriver? | https://habrahabr.ru/post/152971/
+
+Таппи! Робот-тестер мобильных устройств | https://habrahabr.ru/post/152881/
+
+Что такое Selenium? | https://habrahabr.ru/post/152653/
+
+Автоматизация тестирования Android приложений | https://habrahabr.ru/company/intel/blog/152122/
+
+RoboHornet: новый подход к тестированию производительности браузеров | https://habrahabr.ru/post/152305/
+
+Юнит тесты Vs функциональные тесты — взгляд руководителя и разработчика | https://habrahabr.ru/post/151926/
+
+Selenide: удобные тесты на Selenium WebDriver | https://habrahabr.ru/post/143269/
+
+Еще раз о невыносимой легкости тестирования | https://habrahabr.ru/post/151511/
+
+Легкий способ провалить тестирование | https://habrahabr.ru/post/151292/
+
+Тестирование: из грязи в князи | https://habrahabr.ru/post/151279/
+
+Изолирование кода во время тестирования с помощью Microsoft Fakes (Shims) | https://habrahabr.ru/post/151185/
+
+Поздравляем с днем Тестировщика! | https://habrahabr.ru/company/infopulse/blog/151130/
+
+С днем тестировщика '12! | https://habrahabr.ru/post/151124/
+
+Примеры использования Moq | https://habrahabr.ru/post/150859/
+
+Введение во фреймворки (Часть 2) | https://habrahabr.ru/post/150603/
+
+Введение во фреймворки (Часть 1) | https://habrahabr.ru/post/150508/
+
+BDD наоборот | https://habrahabr.ru/company/luxoft/blog/150597/
+
+Тестирование табличных данных с hamcrest на Java | https://habrahabr.ru/company/luxoft/blog/150368/
+
+Практика рефакторинга в больших проектах | https://habrahabr.ru/post/150027/
+
+Тестирование — это не поиск ошибок! | https://habrahabr.ru/post/149903/
+
+Сбор статистики загрузки веб-страниц | https://habrahabr.ru/post/149717/
+
+Полезные метрики для оценки проектов | https://habrahabr.ru/post/141671/
+
+Исследование изменений в базе данных посредством контрольных сумм | https://habrahabr.ru/post/149431/
+
+Вышел Codeception 1.1 | https://habrahabr.ru/post/149275/
+
+Автоматическая проверка кода для PHP | https://habrahabr.ru/post/149239/
+
+Кастомная обработка jUnit тестов в TeamCity | https://habrahabr.ru/post/149063/
+
+Пятерка фактов о белорусском рынке труда QA специалистов | https://habrahabr.ru/post/148889/
+
+Экспериментальное определение характеристик кэш-памяти | https://habrahabr.ru/post/148839/
+
+Диагностика в картинках: понимаем состояние продукта с помощью таблиц и графиков | https://habrahabr.ru/post/148812/
+
+Автоматическое тестирование ASP.NET приложения через CUITe — особенности | https://habrahabr.ru/post/147902/
+
+Об исследовательском тестировании в Microsoft Test Manager 2012 | https://habrahabr.ru/post/148598/
+
+Что такое исследовательское тестирование? | https://habrahabr.ru/post/148479/
+
+Использование сообществ для тестирования. Лекция-дискуссия в рамках Ciklum Speakers' Corner от QA менеджера Unity 3D | https://habrahabr.ru/company/Ciklum/blog/147537/
+
+Continuous Testing в .NET | https://habrahabr.ru/post/147055/
+
+Работа с Java VisualVM при проведении нагрузочного тестирования | https://habrahabr.ru/company/luxoft/blog/146988/
+
+Заблуждения программистов об именах | https://habrahabr.ru/post/146901/
+
+Скринкаст: Знакомство с Codeception | https://habrahabr.ru/post/146662/
+
+Программа Intel Fast Access для разработчиков ПО | https://habrahabr.ru/company/intel/blog/146425/
+
+Сертификация QA специалиста по ISTQB. Базовый уровень (CTFL) | https://habrahabr.ru/company/luxoft/blog/146064/
+
+Юнит-тестирование в Qt | https://habrahabr.ru/post/146449/
+
+Тестирование эмулятора BlueStacks | https://habrahabr.ru/post/146087/
+
+Тестирование операционной системы JoliOS | https://habrahabr.ru/post/146426/
+
+Заблуждения программистов относительно времени | https://habrahabr.ru/post/146109/
+
+dotCover 2.0 — совместимость с VS2012 RC и встроенное средство запуска юнит-тестов | https://habrahabr.ru/company/JetBrains/blog/146106/
+
+Тестирование: Ручное или Автоматизированное? | https://habrahabr.ru/post/145974/
+
+SPDY не так быстр на реальных сайтах | https://habrahabr.ru/post/145928/
+
+CircleCI — обзор нового сервиса Continuous Integration | https://habrahabr.ru/post/144462/
+
+Java: Тестирование алгоритмов компрессии – 16 файлов, 5 типов | https://habrahabr.ru/post/145712/
+
+Bomberman Online и хабраэффект — 450 игроков на одной карте. Отчёт и детали игрового движка | https://habrahabr.ru/post/145505/
+
+5 мифов о тестировании | https://habrahabr.ru/company/alee/blog/144975/
+
+Жадный алгоритм в A/B-тестировании | https://habrahabr.ru/post/144977/
+
+Разработка ПО авионики | https://habrahabr.ru/post/144686/
+
+Второй день трансляции с DevCon'12! Ещё больше докладов | https://habrahabr.ru/company/microsoft/blog/144443/
+
+Смотрите конференцию DevCon’12 онлайн 23 и 24 мая! | https://habrahabr.ru/company/microsoft/blog/144356/
+
+Создаем облако для тестирования ПО | https://habrahabr.ru/post/143891/
+
+Какие приложения Вы тестируете? | https://habrahabr.ru/post/143894/
+
+Тестирование видеокодеков. Эпизод II: энкодеры атакуют | https://habrahabr.ru/company/intel/blog/143393/
+
+Тестирование в стиле TSA | https://habrahabr.ru/post/143616/
+
+Google books знает всю правду о тестирование и istqb | https://habrahabr.ru/post/143286/
+
+Saga: проверяем покрытие кода тестами | https://habrahabr.ru/post/143172/
+
+Фаззинг браузера Chrome: 6000 инстансов, 50 млн вариантов в сутки | https://habrahabr.ru/post/142958/
+
+Симулятор для тестирования ПО АСУТП | https://habrahabr.ru/post/142596/
+
+Тестирование видеокодеков. Эпизод I: скрытая проблема | https://habrahabr.ru/company/intel/blog/142187/
+
+Fake S3 для офлайновой разработки и экономии денег | https://habrahabr.ru/post/142566/
+
+Тестирование, при помощи SoapUI, веб-сервиса, возвращающего список элементов | https://habrahabr.ru/post/142429/
+
+Waterfall — итеративная методология разработки | https://habrahabr.ru/post/142023/
+
+Что значат для вас юнит-тесты? | https://habrahabr.ru/post/141769/
+
+Нагрузочное тестирование с Visual Studio 2010 | https://habrahabr.ru/post/141690/
+
+О первопроходцах | https://habrahabr.ru/post/141672/
+
+Автоматизация тестирования / Настройка Cucumber, Capybara & Selenium-WebDriver | https://habrahabr.ru/post/141259/
+
+Модуль Mock: макеты-пустышки в тестировании | https://habrahabr.ru/post/141209/
+
+Assert. Что это? | https://habrahabr.ru/post/141080/
+
+Поможем человеку сравнить картинки, или о Тестировании Локализации приложения | https://habrahabr.ru/post/140971/
+
+Система автоматизированного проектирования (САПР). Кто кого? | https://habrahabr.ru/post/140815/
+
+Почему я вернулся в Microsoft? | https://habrahabr.ru/post/140656/
+
+Опубликован перевод документации по Selenium | https://habrahabr.ru/post/140483/
+
+Введение в JMeter | https://habrahabr.ru/post/140310/
+
+Динамическое (нелинейное) тестирование GUI | https://habrahabr.ru/post/138963/
+
+Протестируем по-быстрому? Это не сработает | https://habrahabr.ru/post/138313/
+
+Сигнализация своими руками | https://habrahabr.ru/post/137024/
+
+Selenium: работаем с элементами страницы, используя @FindBy и PageFactory | https://habrahabr.ru/post/134462/
+
+Тестерские конференции мира. Продолжение | https://habrahabr.ru/company/sqalab/blog/133416/
+
+Тестерские конференции Европы или повод пошопиться? | https://habrahabr.ru/company/sqalab/blog/133385/
+
+Автоматический запуск unit-тестов для C | https://habrahabr.ru/post/133315/
+
+Что вы применяете для автоматизированного тестирование iOS приложений? | https://habrahabr.ru/post/132790/
+
+Tsung: Нагрузочное тестирование Web-приложений | https://habrahabr.ru/post/132459/
+
+Автоматическое тестирование в PHP | https://habrahabr.ru/post/132102/
+
+Ускоряем Selenium-тесты | https://habrahabr.ru/post/130912/
+
+TDD на примере UrlBuilder | https://habrahabr.ru/post/130574/
+
+ReactOS: Операция PI | https://habrahabr.ru/post/130446/
+
+Автоматизация Flex-приложений при помощи Java + Selenium + FlexMonkium | https://habrahabr.ru/post/129829/
+
+Философия бага – описание ошибки | https://habrahabr.ru/post/128309/
+
+C профессиональным праздником! | https://habrahabr.ru/post/128087/
+
+Использование Dummynet для эмуляции узкого канала под Windows | https://habrahabr.ru/post/127639/
+
+Эмуляция сетевых проблем с помощью WANem | https://habrahabr.ru/post/127274/
+
+Real-life unit tests | https://habrahabr.ru/post/127114/
+
+Классификация багов | https://habrahabr.ru/post/126920/
+
+Типы багов: этимология и энтомология | https://habrahabr.ru/post/104952/
+
+Быстрое создание нагрузочных тестов на JMeter для web-сайтов | https://habrahabr.ru/post/126042/
+
+Quality assurance management | https://habrahabr.ru/post/125607/
+
+7 способов бюджетного обучения для тестировщиков | https://habrahabr.ru/post/124501/
+
+Распараллеливание тестов или одна голова — хорошо, а две головы — лучше | https://habrahabr.ru/post/123994/
+
+Консольный cucumber и capybara при помощи Selenium и Hudson | https://habrahabr.ru/post/123565/
+
+Оценка количества ошибок в программе. Парная оценка, Исторический опыт | https://habrahabr.ru/post/123473/
+
+Автоматизация через интеграцию. Промо-версия. UPD | https://habrahabr.ru/post/123215/
+
+Пользователи в помощь тестировщику веб-проекта | https://habrahabr.ru/post/123348/
+
+Опыт работы тестировщиком на сайте fixber | https://habrahabr.ru/post/123134/
+
+Автоматизированное тестирование мобильных приложений | https://habrahabr.ru/post/123026/
+
+Оценка количества ошибок в программе. Модель Миллса | https://habrahabr.ru/post/122912/
+
+Полнота тестирования программ | https://habrahabr.ru/post/122098/
+
+Результаты опроса: 301 ответ! | https://habrahabr.ru/post/120981/
+
+Slash и backslash: вехи на пути | https://habrahabr.ru/post/120652/
+
+Опрос. Инструменты автоматизации тестирования | https://habrahabr.ru/post/119040/
+
+Семь правил тестировщика | https://habrahabr.ru/post/119007/
+
+Стандартный_тест_на_обработку_длинного_заголовка | https://habrahabr.ru/post/118902/
+
+Шатокуа о тестировании | https://habrahabr.ru/post/116381/
+
+Создать отдел тестирования — просто | https://habrahabr.ru/post/87697/
+
+Конференция SQA Days: как (не)обычные тестировщики меняют мир? | https://habrahabr.ru/post/115314/
+
+Разработчики не любят тестировщиков. Потому что не умеют их использовать | https://habrahabr.ru/post/114836/
+
+Тестирование игр в Иннове: рассказ о работе отдела | https://habrahabr.ru/post/114140/
+
+Рецепт нагрузочного тестирования на JMeter | https://habrahabr.ru/post/113914/
+
+Вдохновение для юнит-тестов | https://habrahabr.ru/post/113487/
+
+Три самых полезных навыка, которые я приобрел 5 лет назад | https://habrahabr.ru/post/113069/
+
+Взгляд на процесс собеседования начинающего QA-специалиста | https://habrahabr.ru/post/112935/
+
+Тесты для тестов | https://habrahabr.ru/post/112851/
+
+Как развиваться начинающему тестировщику? | https://habrahabr.ru/post/111829/
+
+Hudson => Jenkins. Oracle не сдаётся | https://habrahabr.ru/post/111690/
+
+Selenium: ожидание завершения всех AJAX-запросов | https://habrahabr.ru/post/111649/
+
+Автоматизация тестирования: минусы | https://habrahabr.ru/post/111292/
+
+Чем отличаются настоящие тестировщики от поддельных? | https://habrahabr.ru/post/110476/
+
+Хроники сообществ тестировщиков | https://habrahabr.ru/post/110409/
+
+Основные положения тестирования | https://habrahabr.ru/post/110307/
+
+Вероятностное Unit-тестирование. (Chaos driven Unit Testing.) | https://habrahabr.ru/post/110007/
+
+Мастер-класс «Эффективная автоматизация тестирования Java UI. Jemmy library» | https://habrahabr.ru/post/109414/
+
+Функциональное тестирование веб-приложений без боли | https://habrahabr.ru/post/109077/
+
+Непрерывная интеграция на примере Hudson | https://habrahabr.ru/post/108928/
+
+Откуда вы пришли в тестирование? | https://habrahabr.ru/post/108853/
+
+Конференция тестировщиков eTalks QA 2010 | https://habrahabr.ru/post/108563/
+
+Меньше слов — больше смысла | https://habrahabr.ru/post/107448/
+
+Как визуально автоматизировать тестирование игры с помощью языка AutoIt3: превью | https://habrahabr.ru/post/107104/
+
+Тестировщики, хотите знать, как положительным образом влиять на менеджеров? | https://habrahabr.ru/post/106599/
+
+Тестировщики, хотите знать, как положительным образом влиять на программистов? | https://habrahabr.ru/post/106565/
+
+Два подхода к тестированию производительности. Выбираем | https://habrahabr.ru/post/106493/
+
+Ну очень простая идея, которая повышает эффективность тестирования в разы | https://habrahabr.ru/post/106406/
+
+«Что желаете на гарнир к тестам?» | https://habrahabr.ru/post/106400/
+
+Почему тестирование — это тупо и скучно? | https://habrahabr.ru/post/106257/
+
+Выступление Kevin Nilsen на Code Camp 2010 | https://habrahabr.ru/post/106055/
+
+Майкл Болтон снова в России с тренингом Rapid Software Testing, 17-18 ноября | https://habrahabr.ru/post/105133/
+
+Коллеги, с праздником! | https://habrahabr.ru/post/103841/
+
+«Тихий» релиз LoadRunner 11 | https://habrahabr.ru/post/103495/
+
+Каково соотношение тестировщиков и разработчиков в вашей компании? | https://habrahabr.ru/post/102422/
+
+Одиссея тестировщика | https://habrahabr.ru/post/99872/
+
+7 бесплатных сервисов для проверки сайтов (о которых вы могли и не знать) | https://habrahabr.ru/post/99318/
+
+О тестировании одной игры с картинками | https://habrahabr.ru/post/98203/
+
+Ссылка: живая демонстрация Ping-pong programming | https://habrahabr.ru/post/97910/
+
+Живут, как тестировщик с программистом | https://habrahabr.ru/post/96973/
+
+Особенности краудсорсинга тестирования для заказчика | https://habrahabr.ru/post/95226/
+
+Отладка тест-плана JMeter | https://habrahabr.ru/post/88714/
+
+Процесс ручного тестирования: А что бы нам такое заавтоматизировать? | https://habrahabr.ru/post/87035/
+
+Какие статьи о тестировании вам было бы интересно прочитать и обсудить? | https://habrahabr.ru/post/85692/
+
+Простой нагрузочный тест с Apache JMeter | https://habrahabr.ru/post/84190/
+
+Тестирование производительности: онлайн-тренинг с домашними заданиями | https://habrahabr.ru/post/83714/
+
+Будущее тестирования | https://habrahabr.ru/post/83274/
+
+Будущее тестирования | https://habrahabr.ru/post/83035/
+
+TestRail: как сначала подумать, а потом протестировать | https://habrahabr.ru/post/81737/
+
+Тестирование по спецификации | https://habrahabr.ru/post/81848/
+
+Зачем изучать чужие ошибки? | https://habrahabr.ru/post/81390/
+
+Виды тестирования и подходы к их применению | https://habrahabr.ru/post/81226/
+
+Эссе о валидации данных | https://habrahabr.ru/post/72796/
+
+Как вы ведете учет ручных тестов? TestManagement-системой или иначе? (опрос для статьи/конференции) | https://habrahabr.ru/post/72509/
+
+О модульном тестировании на C++ и о CxxTest | https://habrahabr.ru/post/69160/
+
+SQA Days 2009 Piter: полная подборка материалов 5-й конференции тестировщиков | https://habrahabr.ru/post/69157/
+
+Descriptive Programming в QuickTest Pro | https://habrahabr.ru/post/69138/
+
+С днем тестера! | https://habrahabr.ru/post/69078/
+
+Software Quality Assurance Days | https://habrahabr.ru/post/68779/
+
+Тестируем UI с помощью Coded UI Test | https://habrahabr.ru/post/65632/
+
+Моя объединенная теория багов | https://habrahabr.ru/post/65062/
+
+Категории программных тестов | https://habrahabr.ru/post/64874/
+
+Настройка IDE для автоматического запуска тестов | https://habrahabr.ru/post/64737/
+
+Мультик про Quality Management | https://habrahabr.ru/post/57065/
+
+Автоматизация тестирования «по-китайски» | https://habrahabr.ru/post/56811/
+
+Конференция SQA Days 2009: программа выступлений | https://habrahabr.ru/post/56620/
+
+Software Quality Assurance Days-2009 | https://habrahabr.ru/post/54605/
+
+Экстремальное программирование, знакомство с Behavior Driven Development и RSpec | https://habrahabr.ru/post/52929/
+
+Видео докладов с конференции SQA Days (Минск) | https://habrahabr.ru/post/49153/
+
+Непопулярные аспекты тестирования | https://habrahabr.ru/post/48727/
+
+Тестирование ПО: как объяснить руководителю, что 2 х 2=4? | https://habrahabr.ru/post/45759/
+
+Кто выполняет системное тестирование у вас в команде? | https://habrahabr.ru/post/45899/
+
+С днем тестировщика! | https://habrahabr.ru/post/39403/
+
+Артефакты, необходимые для тестирования | https://habrahabr.ru/post/39056/
+
+Видео с третьей международной конференции SQA Days 2008 — тестирование веб-приложений | https://habrahabr.ru/post/30802/
+
+Весь покрытый тестами, абсолютно весь | https://habrahabr.ru/post/18118/
+
+Инструменты автоматизированного тестирования: что чем? | https://habrahabr.ru/post/17599/
+
+13 ресурсов экспертов с мировым уровнем в области разработки ПО | https://habrahabr.ru/post/15011/
+
+Русскоязычные ресурсы, полезные для тестировщика | https://habrahabr.ru/post/14989/
+
+МСК — II-я конференция специалистов по качеству ПО | https://habrahabr.ru/post/14275/
+
+Антивирус Касперского 7.0 | https://habrahabr.ru/post/5353/
+
+Тестирование производительности ПО | https://habrahabr.ru/post/5202/
+
+Kaspersky for Vista | https://habrahabr.ru/post/2678/
+
+Skype 3.0.0.205 | https://habrahabr.ru/post/1204/
+
+WinRAR 3.70 Beta 2 | https://habrahabr.ru/post/1203/
+

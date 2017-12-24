@@ -1,0 +1,254 @@
+Критика 1С | https://habrahabr.ru/post/344616/
+
+Как IaaS помогает франчайзи «1С»: опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/344414/
+
+1С Управление торговлей редакция 11. Обзор | https://habrahabr.ru/company/trinion/blog/343390/
+
+Африканский эксперимент Битрикс24 | https://habrahabr.ru/post/341616/
+
+Отчетность в 1С: Система Компоновки Данных (СКД), идея и архитектура | https://habrahabr.ru/company/1c/blog/336258/
+
+История с хэппи-эндом: интеграция «Битрикс24» с Asterisk | https://habrahabr.ru/company/bitrix/blog/334120/
+
+Дело было вечером. Автомасштабируемый веб-сервис с балансировкой нагрузки на примере Bitrix в Google Cloud Platform | https://habrahabr.ru/post/330664/
+
+Электронная подпись в Битрикс24. Теория и опыт внедрения | https://habrahabr.ru/post/330126/
+
+Подключаем Композит | https://habrahabr.ru/post/325926/
+
+Куда ушли сайты со «средним» бюджетом, или как делать по 80 проектов в год с помощью Маркетплейса | https://habrahabr.ru/company/bitrix/blog/323662/
+
+Некоторые приёмы работы в Битрикс на SQL и BASH | https://habrahabr.ru/post/323152/
+
+Интернет-магазин на «1С-Битрикс» и кассы: требования закона 54-ФЗ | https://habrahabr.ru/company/bitrix/blog/321818/
+
+Как МТС «затачивает» свои геолокационные сервисы под корпоративных клиентов | https://habrahabr.ru/company/ru_mts/blog/321574/
+
+Стандартный обмен 1С-Битрикс на BASH: Подробный разбор скрипта инкрементальной выгрузки | https://habrahabr.ru/post/321266/
+
+Стандартный обмен 1С-Битрикс на BASH: инкрементальная выгрузка XML файлов каталога import и offers | https://habrahabr.ru/post/321096/
+
+Модуль импорта товаров в Битрикс | https://habrahabr.ru/post/315848/
+
+Что такое Bitrix | https://habrahabr.ru/company/trinion/blog/315538/
+
+Про дружбу удава со слоном, или наш опыт интеграции Битрикс24 с телефонией Cisco | https://habrahabr.ru/post/313108/
+
+1С в облаках | https://habrahabr.ru/company/1c/blog/312456/
+
+1С,.Net Core. Динамическая компиляция класса обертки для получения событий .Net объекта в 1С | https://habrahabr.ru/post/309850/
+
+Функциональная безопасность, Часть 2 из 7. МЭК 61508: кем быть, Шерлоком Холмсом или Дата Туташхиа? | https://habrahabr.ru/post/309636/
+
+Как достичь рейтинга А+ для SSL-сертификата на вашем сайте, и другие аспекты безопасности хостинга | https://habrahabr.ru/company/bitrix/blog/309536/
+
+.Net Core, 1C, динамическая компиляция, Scripting API | https://habrahabr.ru/post/309340/
+
+Способы интеграции с 1С | https://habrahabr.ru/company/1c/blog/308420/
+
+1С, Linux, Excel, Word, OpenXML,ADO и Net Core | https://habrahabr.ru/post/308216/
+
+Cистематическая уязвимость сайтов, созданных на CMS 1С-Битрикс | https://habrahabr.ru/post/307734/
+
+Асинхронное программирование в 1С через .Net Native ВК | https://habrahabr.ru/post/307360/
+
+Кроссплатформенное использование классов .Net в 1С через Native ВК. Или замена COM на Linux II | https://habrahabr.ru/post/307188/
+
+Компонент «Оформление заказа» в новой версии платформы «1С-Битрикс» (часть 2) | https://habrahabr.ru/company/bitrix/blog/282954/
+
+Компонент «Оформление заказа» в новой версии платформы «1С-Битрикс» (часть 1) | https://habrahabr.ru/company/bitrix/blog/282948/
+
+Об Управлении заказами на новой платформе «1С-Битрикс» | https://habrahabr.ru/company/bitrix/blog/282944/
+
+React в браузерах и на мобильных платформах | https://habrahabr.ru/company/bitrix/blog/305702/
+
+Почему взламывают даже защищённые CMS на безопасном хостинге | https://habrahabr.ru/company/bitrix/blog/305704/
+
+Bitrix — UrlRewrite (feat. Juggernaut) | https://habrahabr.ru/post/305382/
+
+Кроссплатформенное использование классов .Net в 1С через Native ВК. Или замена COM на Linux | https://habrahabr.ru/post/304542/
+
+Кроссплатформенное использование классов .Net из неуправляемого кода. Или аналог IDispatch на Linux | https://habrahabr.ru/post/304482/
+
+Комментарии к задаче в Битрикс24 при коммите для Mercurial | https://habrahabr.ru/post/303718/
+
+BitrixFramework: берем все в свои руки | https://habrahabr.ru/post/303774/
+
+1С: Битрикс, защита произвольных форм от спама | https://habrahabr.ru/company/cleantalk/blog/302800/
+
+Какие CMS спамят чаще? | https://habrahabr.ru/company/cleantalk/blog/301498/
+
+Быстрый переход на новую платформу | https://habrahabr.ru/company/bitrix/blog/282946/
+
+Чат-боты: собеседники на все случаи | https://habrahabr.ru/company/bitrix/blog/282702/
+
+Исповедь Битрикс хейтера | https://habrahabr.ru/post/282333/
+
+Обзор обзора минусов Битрикс, или чувак читает только первые 5 страниц | https://habrahabr.ru/post/282317/
+
+Разработка чат-бота для Битрикс24 | https://habrahabr.ru/post/282077/
+
+Битрикс дарит знания — все материалы #FailOverConf | https://habrahabr.ru/company/bitrix/blog/281925/
+
+#FailOverConf 8 апреля! Выходим на финишную прямую… | https://habrahabr.ru/company/bitrix/blog/280534/
+
+Установка Битрикс24 на IIS сервер с использованием MSSQL и AD | https://habrahabr.ru/post/280402/
+
+Минусы Битрикса, или Битрикс глазами программиста | https://habrahabr.ru/post/280226/
+
+#FailOverConf 8 апреля! Бесплатно, без смс, но с регистрацией | https://habrahabr.ru/company/bitrix/blog/279883/
+
+Как написать кастомную активити для бизнес-процесса для облачного Битрикс24 | https://habrahabr.ru/post/279477/
+
+Битрикс, HMVC и немного бреда… | https://habrahabr.ru/post/279017/
+
+Ultima 2C — бесплатное решение класса ERP II на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/277037/
+
+ООП-конструктор админки для Битрикс | https://habrahabr.ru/post/276481/
+
+1C-Битрикс на Raspberry Pi 2 | https://habrahabr.ru/company/bitrix/blog/276409/
+
+Автоматизация вывода виджета Яндекс.Карты на платформе 1C Bitrix | https://habrahabr.ru/post/275021/
+
+Знакомый незнакомец. What is Битрикс24? | https://habrahabr.ru/company/bitrix/blog/274165/
+
+Экспорт двух и более каталогов из Битрикс в 1С по запросу | https://habrahabr.ru/post/273129/
+
+Архитектура и технологические подходы к обработке BigData на примере «1С-Битрикс BigData: Персонализация» | https://habrahabr.ru/company/bitrix/blog/272041/
+
+Программируем 1С на Ruby | https://habrahabr.ru/post/271835/
+
+ООП в 1С своими руками. Как имитировать свои классы и объекты, и зачем это нужно | https://habrahabr.ru/post/271731/
+
+Сортировка товаров и показ выбранного пользователем количества товаров в 1С-Битрикс | https://habrahabr.ru/post/271307/
+
+Безвозмездно, то есть даром: бесплатное ERP-решение для скромного e-commerce бизнеса на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/271171/
+
+Небольшие размышления про альтернативы и про «убийц» 1С | https://habrahabr.ru/post/270407/
+
+Как нам обустроить альтернативу 1С | https://habrahabr.ru/post/270087/
+
+Как легко и быстро поставить свой прелоадер на стандартный AJAX Битрикса? | https://habrahabr.ru/post/268221/
+
+Два типа приложений для «Битрикс24» | https://habrahabr.ru/company/bitrix/blog/268095/
+
+Плохая «Весна» или как причины задержек искали | https://habrahabr.ru/post/268035/
+
+Как я перестал беспокоиться и стал коммитить в GIT на большом 1С-Битрикс проекте | https://habrahabr.ru/post/266573/
+
+Как нам обойтись без 1С? | https://habrahabr.ru/post/267847/
+
+Контроль активности с Google reCAPTCHA | https://habrahabr.ru/post/267689/
+
+И снова про 1С | https://habrahabr.ru/company/1c/blog/267321/
+
+Архитектурные решения в системе телефонии «Битрикс24» | https://habrahabr.ru/company/bitrix/blog/263915/
+
+Адаптивные сайты, или Как добиться благосклонности Google | https://habrahabr.ru/company/bitrix/blog/263433/
+
+Что нужно знать о Битриксе некоторым потенциальным покупателям | https://habrahabr.ru/post/263011/
+
+Чуть более адаптивный сайт на 1C-Bitrix, аналог классов видимости от bootstrap | https://habrahabr.ru/post/262533/
+
+Нагрузочное тестирование CMS «1С-Битрикс» | https://habrahabr.ru/company/bitrix/blog/262029/
+
+Быстрая разработка на 1С-Битрикс или как я познакомился с gulp | https://habrahabr.ru/post/261467/
+
+Нужно ли переезжать на хостинг в Россию, или Отказоустойчивость по 242-ФЗ | https://habrahabr.ru/company/bitrix/blog/259573/
+
+Куда смотреть если сайт постоянно взламывают, или как я отлавливал зловреда на сайте одного из клиентов | https://habrahabr.ru/post/255899/
+
+FAMP на pfsense с помощью PHP-FPM | https://habrahabr.ru/post/254965/
+
+Установка FAMP на pfsense | https://habrahabr.ru/post/254847/
+
+Оптимизация ISPmanager под проекты на Битриксе или как я скрестил ISPmanager и VMBitrix (Битрикс окружение) | https://habrahabr.ru/post/254273/
+
+Электронная цифровая подпись (ЭЦП) документов в 1С за пару кликов с использованием утилиты КРИПТО-ПРО PDF | https://habrahabr.ru/post/253681/
+
+Запускаем PHPUnit тесты для проекта на 1С-Битрикс | https://habrahabr.ru/post/253561/
+
+Что такое 1С. О сложной системе простыми словами | https://habrahabr.ru/company/trinion/blog/250893/
+
+Как Битрикс чуть Новый Год не погубил | https://habrahabr.ru/post/247769/
+
+Описание одной интеграции 1С и Битрикс, и почему я не рекомендую своим клиентам использовать такую интеграцию | https://habrahabr.ru/company/trinion/blog/246429/
+
+Компоненты авторизации и регистрации в CMS 1C-Bitrix | https://habrahabr.ru/post/244959/
+
+Почему 1С — это хорошо | https://habrahabr.ru/post/244885/
+
+Почему 1С это плохо и почему так не любят 1С программистов | https://habrahabr.ru/company/trinion/blog/244727/
+
+Поучительная история о том, что может случиться с сайтом на shared-хостинге | https://habrahabr.ru/post/234071/
+
+Как доставлять e-mail уведомления клиентам в условиях невозможности прописать обратную DNS зону | https://habrahabr.ru/post/232261/
+
+Как не застрять в колесе неудач и построить правильный бизнес. Внедрение бизнес- процессов | https://habrahabr.ru/post/224519/
+
+Игра шаблонов. Как примирить Битрикс со сторонним шаблонизатором вывода | https://habrahabr.ru/post/220563/
+
+Импорт данных в интернет-магазины: алгоритм, который упростит вам жизнь | https://habrahabr.ru/post/220187/
+
+Организация командной разработки интернет-проекта (с использованием Git и 1С-Битрикс) | https://habrahabr.ru/post/219569/
+
+Создание своего WebRTC приложения на платформе 1С-Битрикс | https://habrahabr.ru/company/bitrix/blog/216539/
+
+Расширяем функционал обмена заказами между 1С-Битрикс и 1С Предприятие УТ 11 | https://habrahabr.ru/post/216219/
+
+Создаём шаблон 1С-Битрикс на базе Bootstrap вёрстки | https://habrahabr.ru/post/212163/
+
+Прямая запись в справочник 1C: Предприятие через Linq на примере работы с пользователями Asp.Net | https://habrahabr.ru/post/210654/
+
+Импорт данных в интернет-магазины | https://habrahabr.ru/post/209040/
+
+Отладка с помощью XDebug и PhpStorm на примере сайта 1С-Битрикс | https://habrahabr.ru/post/209024/
+
+Highload инфоблоки и работа с ними | https://habrahabr.ru/post/207700/
+
+How-to: Прозрачная NTLM авторизация на корпоративном портале | https://habrahabr.ru/post/207086/
+
+Как сделать модуль 1С-Битрикс | https://habrahabr.ru/post/196376/
+
+Интеграция Java и 1С через .Net framework на примере Apache PDFBox | https://habrahabr.ru/post/193212/
+
+1С-Битрикс — CMS от маркетологов. Плюсы и минусы | https://habrahabr.ru/post/190084/
+
+Методология разработки на 1С-Битрикс – опыт дурака | https://habrahabr.ru/post/189630/
+
+Как заставить интернет-магазин выдерживать нагрузку 280 000 посетителей в час? | https://habrahabr.ru/company/adv/blog/189016/
+
+ZendFramework + Bitrix | https://habrahabr.ru/post/187382/
+
+Простейший способ реализации переключения цен в 1С-Битрикс | https://habrahabr.ru/post/184898/
+
+Доступ к SOAP веб-сервисам 1С из JavaScript и Html | https://habrahabr.ru/post/184540/
+
+Некоторые секреты подключения веб-интерфейса 1C 8.2 | https://habrahabr.ru/post/183754/
+
+Звонки внутри организации с Корпоративного портала | https://habrahabr.ru/post/178467/
+
+Обработка изображений 1С средствами .Net framework при выгрузке на веб-сайт | https://habrahabr.ru/post/176717/
+
+Самопальная ORM для Битрикс | https://habrahabr.ru/post/175705/
+
+Плагин Bitrix Painkiller для Sublime Text 2 ускоряет разработку на Битрикс | https://habrahabr.ru/post/175337/
+
+Контроль товарных остатков в системах 1С | https://habrahabr.ru/post/174673/
+
+Опыт передачи файлов большого объема по защищенному протоколу из 1С на сайт | https://habrahabr.ru/company/Centrobit/blog/165441/
+
+Интегрцаия шаблона на 1С-Битрикс | https://habrahabr.ru/post/162881/
+
+Битрикс + Bitcoin. Пишем решение для Маркетплейс. Часть 1 | https://habrahabr.ru/post/161479/
+
+Битрикс. Интеграция. Реализация каталога с двумя структурами групп номенклатуры | https://habrahabr.ru/post/159507/
+
+Производительность VPS: сколько вешать в граммах? | https://habrahabr.ru/post/151852/
+
+Обзор CRM-систем: Битрикс24, AmoCRM, ASoft CRM | https://habrahabr.ru/post/144135/
+
+MarketPlace в цифрах | https://habrahabr.ru/post/143947/
+
+Тест на СОВМЕСТИМОсть | https://habrahabr.ru/company/Centrobit/blog/140995/
+

@@ -1,0 +1,1932 @@
+История победы на международном соревновании по распознаванию документов команды компании SmartEngines | https://habrahabr.ru/company/smartengines/blog/344550/
+
+Рубрика «Читаем статьи за вас». Октябрь — Ноябрь 2017 | https://habrahabr.ru/company/ods/blog/343822/
+
+Сверточная сеть на python. Часть 1. Определение основных параметров модели | https://habrahabr.ru/company/ods/blog/344008/
+
+Эволюция «img»: Gif без формата GIF | https://habrahabr.ru/company/edison/blog/343958/
+
+Нейросеть для определения лиц, встроенная в смартфон | https://habrahabr.ru/post/343810/
+
+Капсульные сети от Хинтона | https://habrahabr.ru/company/recognitor/blog/343726/
+
+Можно ли запихнуть распознавание номеров в любой тамагочи? | https://habrahabr.ru/company/recognitor/blog/343512/
+
+Биороботы нашего времени — избавляемся от рутины вместе с Telegram. Реальный кейс без фантазий | https://habrahabr.ru/company/vds/blog/342916/
+
+Как Discord каждый день изменяет размер 150 млн картинок с помощью Go и C++ | https://habrahabr.ru/post/343414/
+
+Текстовые капчи легко распознаются нейронными сетями глубокого обучения | https://habrahabr.ru/post/343222/
+
+Космическая съёмка Земли | https://habrahabr.ru/company/tinkoff/blog/342028/
+
+Использование SVG в качестве Placeholder’a | https://habrahabr.ru/company/edison/blog/342848/
+
+Компьютерное зрение, разработка облака и конкурс | https://habrahabr.ru/company/ivideon/blog/342618/
+
+Обнаружение птиц с помощью Azure ML Workbench | https://habrahabr.ru/company/microsoft/blog/342056/
+
+Pediatric Bone Age Challenge. Deep Learning и много, много костей | https://habrahabr.ru/company/ods/blog/341408/
+
+Сжимаем несжимаемое – как уменьшить дистрибутив мобильного приложения | https://habrahabr.ru/company/playrix/blog/342202/
+
+Глобальная теплокарта Strava: теперь в 6 раз горячее | https://habrahabr.ru/post/341900/
+
+Театр и ИТ: Шекспиру и не снилось | https://habrahabr.ru/company/lanit/blog/341848/
+
+Глубокое обучение с R и Keras на примере Carvana Image Masking Challenge | https://habrahabr.ru/company/ods/blog/340212/
+
+Взлом Bitcoin по телевизору: обфускуй, не обфускуй, все равно получим QR | https://habrahabr.ru/company/edison/blog/341212/
+
+Убираем радиальное искажение с фото и видео при помощи библиотеки openCV и языка python | https://habrahabr.ru/post/341160/
+
+Конкурс Topcoder «Konica-Minolta Pathological Image Segmentation Challenge». Заметки участника | https://habrahabr.ru/company/avito/blog/340400/
+
+Качественное уменьшение изображений за константное время | https://habrahabr.ru/post/340966/
+
+Оптимизация метода Виолы и Джонса для платформы Эльбрус | https://habrahabr.ru/company/smartengines/blog/340918/
+
+Пишем движок трёхмерного ретро-шутера с нуля | https://habrahabr.ru/post/340234/
+
+Приглашение на Meetup по компьютерному зрению в Avito, 28 октября | https://habrahabr.ru/company/avito/blog/340324/
+
+Смена пола и расы на селфи с помощью нейросетей | https://habrahabr.ru/company/ods/blog/340154/
+
+На пути к естественному интеллекту | https://habrahabr.ru/company/jugru/blog/339806/
+
+Ежемесячная рубрика «Читаем статьи за вас». Сентябрь 2017 | https://habrahabr.ru/company/ods/blog/339094/
+
+OpenCV. Поиск дорожных знаков методом контурного анализа в Android | https://habrahabr.ru/post/339506/
+
+Распознавание дорожных знаков с помощью CNN: Spatial Transformer Networks | https://habrahabr.ru/company/newprolab/blog/339484/
+
+Оцифровка и аппроксимация графиков функций при помощи Wolfram Mathematica и Graph Digitizer | https://habrahabr.ru/post/339332/
+
+Компьютерное зрение. Ответы экспертов Intel | https://habrahabr.ru/company/intel/blog/338926/
+
+3 кейса применения анализа данных в сфере недвижимости. Data Science Week 2017. Обзор. Часть 1 | https://habrahabr.ru/company/newprolab/blog/339116/
+
+Хакатон от ABBYY | https://habrahabr.ru/company/abbyy/blog/338742/
+
+Kaggle: как наши сеточки считали морских львов на Алеутских островах | https://habrahabr.ru/company/ods/blog/337548/
+
+Компьютерное зрение. Задайте вопрос эксперту Intel | https://habrahabr.ru/company/intel/blog/337810/
+
+Ежемесячная рубрика «Читаем статьи за вас». Август 2017 | https://habrahabr.ru/company/ods/blog/336624/
+
+Конкурс идей от ABBYY – как выиграть новый iPhone | https://habrahabr.ru/company/abbyy/blog/337756/
+
+Сегментация лица на селфи без нейросетей | https://habrahabr.ru/company/ods/blog/336594/
+
+Бот в муравейнике | https://habrahabr.ru/post/337440/
+
+О различении объектов по цвету | https://habrahabr.ru/post/337294/
+
+Ориентация мобильного робота, выбор способа регистрации особых точек изображений | https://habrahabr.ru/post/337214/
+
+Нейросетевая игра в имитацию | https://habrahabr.ru/company/ods/blog/322514/
+
+Прототип проекта стоимостью $86 миллионов в 57 строках кода | https://habrahabr.ru/company/badoo/blog/336766/
+
+Быстрая регистрация особых точек изображений с помощью голосования биграфа | https://habrahabr.ru/post/336494/
+
+Android: эволюция фоторедактора ВКонтакте | https://habrahabr.ru/company/vkontakte/blog/336400/
+
+Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих | https://habrahabr.ru/company/ods/blog/335998/
+
+Как побороть распространенные артефакты графики | https://habrahabr.ru/company/playrix/blog/336304/
+
+Веб-камера, Node.js и OpenCV: делаем систему распознавания лиц | https://habrahabr.ru/company/ruvds/blog/335770/
+
+Уменьшение размера файла сборки Android в Unity | https://habrahabr.ru/post/335454/
+
+Как программно разметить спутниковую фотографию? Решение задачи Dstl Satellite Imagery Feature Detection | https://habrahabr.ru/company/mailru/blog/335164/
+
+37 причин, почему ваша нейросеть не работает | https://habrahabr.ru/post/334944/
+
+Как я сделал самый быстрый ресайз изображений. Часть 3, числа с фиксированной точкой | https://habrahabr.ru/post/334790/
+
+Подлинность ваших видео теперь неоспорима благодаря Prover | https://habrahabr.ru/company/emercoin/blog/334650/
+
+Распознавание дорожных знаков с помощью CNN: Инструменты для препроцессинга изображений | https://habrahabr.ru/company/newprolab/blog/334618/
+
+Artisto: опыт запуска нейросетей в production | https://habrahabr.ru/company/oleg-bunin/blog/334530/
+
+Создание шейдера дыма на GLSL | https://habrahabr.ru/post/333718/
+
+Что читать о нейросетях | https://habrahabr.ru/company/mailru/blog/333862/
+
+Британские спутниковые снимки 2: как все было на самом деле | https://habrahabr.ru/company/ods/blog/330118/
+
+Deep Learning, теперь и в OpenCV | https://habrahabr.ru/company/intel/blog/333612/
+
+EBU R128/BS.1770-3: Пакетная нормализация громкости аудио/видео файлов, ч2 | https://habrahabr.ru/post/333686/
+
+Smart IDReader SDK — добавляем распознавание в Android приложения | https://habrahabr.ru/company/smartengines/blog/332670/
+
+Создание шейдеров | https://habrahabr.ru/post/333002/
+
+Автоматическое распознавание текста в видео | https://habrahabr.ru/post/332840/
+
+Бинарная сегментация изображений методом фиксации уровня (Level set method) | https://habrahabr.ru/post/332692/
+
+Рынок систем детекции и распознавания: Эмоции и «эмоциональные вычисления» | https://habrahabr.ru/company/neurodatalab/blog/332466/
+
+Отжиг и вымораживание: две свежие идеи, как ускорить обучение глубоких сетей | https://habrahabr.ru/post/332534/
+
+Цветовая сегментация для чайников | https://habrahabr.ru/post/332464/
+
+Автоэнкодеры в Keras, часть 6: VAE + GAN | https://habrahabr.ru/post/332074/
+
+Автоэнкодеры в Keras, Часть 5: GAN(Generative Adversarial Networks) и tensorflow | https://habrahabr.ru/post/332000/
+
+Размеры растровых изображений: пиксели, DPI, PPI, сантиметры — вы ничего не путаете? | https://habrahabr.ru/post/331864/
+
+Как HBO делала приложение Not Hotdog для сериала «Кремниевая долина» | https://habrahabr.ru/post/331740/
+
+Автоэнкодеры в Keras, Часть 4: Conditional VAE | https://habrahabr.ru/post/331664/
+
+Сглаживание изображений фильтром анизотропной диффузии Перона и Малика | https://habrahabr.ru/post/331618/
+
+Использование MapXtreme .Net | https://habrahabr.ru/post/331590/
+
+Автоэнкодеры в Keras, Часть 3: Вариационные автоэнкодеры (VAE) | https://habrahabr.ru/post/331552/
+
+CameraTablet — как сделать графический планшет при помощи веб-камеры | https://habrahabr.ru/post/331288/
+
+Об использовании видеокамер с распознаванием символов на низкопроизводительных вычислительных устройствах | https://habrahabr.ru/post/331226/
+
+Оптическое распознавание символов на микроконтроллере | https://habrahabr.ru/post/330936/
+
+Наслаждайтесь миллиардами цветов с 10-битным HEVC | https://habrahabr.ru/company/intel/blog/330568/
+
+Поддержка исследователей в области Deep Learning | https://habrahabr.ru/company/newprolab/blog/330820/
+
+Нейрокурятник: часть 4 — итоговая модель и код на прод | https://habrahabr.ru/post/330738/
+
+Создаём динамическую обложку ВКонтакте | https://habrahabr.ru/post/330682/
+
+Эволюционные стратегии как масштабируемая альтернатива обучению с подкреплением | https://habrahabr.ru/post/330342/
+
+Сравнение Эльбрус-4С и Эльбрус-8С в нескольких задачах машинного зрения | https://habrahabr.ru/company/smartengines/blog/329858/
+
+Чип для умных камер ELISE — одно из самых высокотехнологичных изделий России 2017 года. Плата для разработчиков и камера | https://habrahabr.ru/post/329864/
+
+Оценка качества алгоритмов распознавания лиц | https://habrahabr.ru/company/ntechlab/blog/329412/
+
+Оцениваем эффективность Guetzli – время оптимизации и степень сжатия | https://habrahabr.ru/company/webo/blog/329766/
+
+Smart IDReader SDK — как добавить распознавание в iOS приложение за 5 минут — теперь и на Github | https://habrahabr.ru/company/smartengines/blog/329574/
+
+Нейронные сети в детектировании номеров | https://habrahabr.ru/company/recognitor/blog/329636/
+
+Прокторинг в онлайн-экзаменах: как это работает? | https://habrahabr.ru/company/stepic/blog/329420/
+
+Автопилот своими силами: sensor fusion с телефона и открытые обучающие данные | https://habrahabr.ru/post/329484/
+
+Нейрокурятник часть 2: про бота, который постит фотографии | https://habrahabr.ru/post/328940/
+
+Онлайн видеостриминг с платы Orange Pi One | https://habrahabr.ru/post/328892/
+
+Многорукий бандит в задаче поиска объектов в видеопотоке | https://habrahabr.ru/company/smartengines/blog/328764/
+
+Создание JPEG из ниоткуда | https://habrahabr.ru/post/328652/
+
+Deep Learning против рака. Конкурс Intel | https://habrahabr.ru/company/intel/blog/328424/
+
+Обзор исходного кода Quake 2 | https://habrahabr.ru/post/328128/
+
+Опасайтесь прозрачных пикселей | https://habrahabr.ru/post/328386/
+
+Сегментация текстовых строк документов на символы с помощью сверточных и рекуррентных нейронных сетей | https://habrahabr.ru/company/smartengines/blog/328000/
+
+Компьютерное зрение на примере приложения для IKEA. Часть 1 | https://habrahabr.ru/post/327704/
+
+Детектирование и отслеживание множественных объектов в видеопотоке на FPGA | https://habrahabr.ru/post/327162/
+
+Псевдотонирование изображений: одиннадцать алгоритмов и исходники | https://habrahabr.ru/post/326936/
+
+Как я сделал самый быстрый ресайз изображений. Часть 2, SIMD | https://habrahabr.ru/post/326900/
+
+Фильтрация изображения методом математической морфологии на FPGA | https://habrahabr.ru/post/325808/
+
+Архаичные алгоритмы сжатия видео эпохи FMV-игр | https://habrahabr.ru/post/325968/
+
+Kaggle: Британские спутниковые снимки. Как мы взяли третье место | https://habrahabr.ru/company/ods/blog/325096/
+
+Intel Media SDK стал open source проектом | https://habrahabr.ru/company/intel/blog/325720/
+
+Автопилот своими силами. Часть 1 — набираем обучающие данные | https://habrahabr.ru/post/325704/
+
+Второе почетное. Заметки участника конкурса Dstl Satellite Imagery Feature Detection | https://habrahabr.ru/company/avito/blog/325632/
+
+This is Science: наблюдая за ростом растений | https://habrahabr.ru/post/325596/
+
+Учим TensorFlow рисовать кириллицу | https://habrahabr.ru/post/325510/
+
+Вращение изображения на FPGA | https://habrahabr.ru/post/325236/
+
+Бесплатные инструменты сжатия изображений для ускорения работы сайта | https://habrahabr.ru/company/hosting-cafe/blog/325262/
+
+Реинкарнация графического отладчика PIX для DirectX 12 | https://habrahabr.ru/company/infopulse/blog/325202/
+
+«Предъявите документы» или что поможет распознать паспорт | https://habrahabr.ru/company/abbyy/blog/325094/
+
+Расчет корректирующего КИХ-фильтра на ПЛИС | https://habrahabr.ru/post/324986/
+
+FLIF – идеальный формат для изображений? | https://habrahabr.ru/company/webo/blog/324952/
+
+Руководство начинающего программиста графических шейдеров | https://habrahabr.ru/company/infopulse/blog/324476/
+
+Изменение размера изображения с учётом содержимого | https://habrahabr.ru/post/324284/
+
+Common Bird Census, или биоинформатика в орнитологии. Проект в хорошие руки | https://habrahabr.ru/post/324098/
+
+Фильтрация изображения на FPGA | https://habrahabr.ru/post/324070/
+
+Еще один алгоритм для восстановления смазанных изображений | https://habrahabr.ru/post/324052/
+
+LIFT: Learned Invariant Feature Transform | https://habrahabr.ru/post/323688/
+
+Урок photoshop. Как вырезать сложный объект из фона | https://habrahabr.ru/post/323480/
+
+Pix2Pix: Как работает генератор кошечек | https://habrahabr.ru/post/323374/
+
+Распознавание образов и научное знание | https://habrahabr.ru/post/323030/
+
+Умная кормушка: Machine Learning, Raspberry Pi, Telegram, немножко магии обучения + инструкция по сборке | https://habrahabr.ru/post/322520/
+
+Технология JPEG: анализ пространства решений | https://habrahabr.ru/post/322554/
+
+Нейронные сети: практическое применение | https://habrahabr.ru/post/322392/
+
+MWC-2017. Новые технологии для мобильного распознавания (3 видео + ссылки на демо в App store и Google play) | https://habrahabr.ru/company/smartengines/blog/322400/
+
+Как я сделал самый быстрый ресайз изображений. Часть 1, общие оптимизации | https://habrahabr.ru/post/322352/
+
+Создаём нейронную сеть InceptionV3 для распознавания изображений | https://habrahabr.ru/post/321834/
+
+Простая технология классификации распознанных страниц деловых документов на основе метода Template Matching | https://habrahabr.ru/company/smartengines/blog/321782/
+
+Как я сделал самый быстрый ресайз изображений. Часть 0 | https://habrahabr.ru/post/321744/
+
+Детектор движения на основе биоинспирированного модуля OpenCV | https://habrahabr.ru/post/321618/
+
+Kaggle и Linux. Digit Recognizer for analysts (для начинающих аналитиков) | https://habrahabr.ru/post/321350/
+
+Анализ и перевод языка пришельцев с помощью Wolfram Language | https://habrahabr.ru/post/321048/
+
+Собственный алгоритм 2. Поиск похожих изображений | https://habrahabr.ru/post/320994/
+
+Создание анаморфных искажений в Unity | https://habrahabr.ru/post/320926/
+
+Материалы журналов Университета ИТМО: исследования в сфере обработки изображений и компьютерного моделирования | https://habrahabr.ru/company/spbifmo/blog/320842/
+
+Собственный алгоритм поиска похожих изображений. Теория | https://habrahabr.ru/post/320720/
+
+Нескучный SCRUM и сегментация изображения для выделения Post-it наклеек | https://habrahabr.ru/post/320456/
+
+"… и в каждой шутке есть доля шутки" | https://habrahabr.ru/post/320116/
+
+Установка OpenCV в Windows для чайников и подключение библиотеки в Code Blocks | https://habrahabr.ru/post/318846/
+
+Типичные ошибки начинающих работать с изображениями | https://habrahabr.ru/post/319606/
+
+Мобильный OCR. Как всё начиналось (часть 2) | https://habrahabr.ru/company/abbyy/blog/319242/
+
+Распознавание чеков в Google Docs с помощью ABBYY OCR SDK | https://habrahabr.ru/post/319042/
+
+«Галоп пикселя — часть четвертая» — Анимация света и тени | https://habrahabr.ru/post/318678/
+
+Логика сознания. Часть 9. Искусственные нейронные сети и миниколонки реальной коры | https://habrahabr.ru/post/317712/
+
+Оптимизация кода для платформы Эльбрус на простых примерах | https://habrahabr.ru/company/smartengines/blog/317672/
+
+OpenCV: установка таймаута на ожидание кадра в классе VideoCapture | https://habrahabr.ru/post/317624/
+
+Сервис такси разыгрывает базу контактов клиентов и водителей | https://habrahabr.ru/post/317242/
+
+Deep Learning: Cочетание глубокой сверточной нейронной сети с рекуррентной нейронной сетью | https://habrahabr.ru/company/microsoft/blog/316456/
+
+«Великий уравнитель» или способ решить проблему выравнивания по высоте | https://habrahabr.ru/company/SECL_GROUP/blog/316406/
+
+Квантизация изображений | https://habrahabr.ru/post/315490/
+
+Deep Learning: Transfer learning и тонкая настройка глубоких сверточных нейронных сетей | https://habrahabr.ru/company/microsoft/blog/314934/
+
+Как технологии ABBYY помогают улучшить работу систем обнаружения утечек данных | https://habrahabr.ru/company/abbyy/blog/314830/
+
+Как собрать RidgeRun SDK | https://habrahabr.ru/post/314848/
+
+Itseez, дважды Intel Company | https://habrahabr.ru/company/intel/blog/314794/
+
+Синтез изображений с помощью глубоких нейросетей. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/314508/
+
+Как pdf (изображения) преобразовать в текстовый txt-файл | https://habrahabr.ru/post/314274/
+
+Фонд перспективных исследований: конкурс на лучшую интеллектуальную технологию дешифрирования аэрокосмической информации | https://habrahabr.ru/company/fpi_russia/blog/313828/
+
+Информационное моделирование зданий (BIM): как построить стадион (или другое здание) с первого раза и под контролем | https://habrahabr.ru/company/croc/blog/313716/
+
+Просто, мощно, навсегда. Элекард CodecWorks 990 — программный лайв транскодер для AVC и HEVC | https://habrahabr.ru/company/intel/blog/313544/
+
+Google Cloud Vision API‎. Будущее Computer Vision as a service настало? | https://habrahabr.ru/post/312714/
+
+Почему супер-мега-про машинного обучения за 15 минут всё же не стать | https://habrahabr.ru/company/recognitor/blog/312472/
+
+Устранение перспективных искажений и разгибание кривых строк на фотографиях книжных разворотов | https://habrahabr.ru/company/abbyy/blog/312570/
+
+Новые возможности Intel RealSense SDK 2016 R2 | https://habrahabr.ru/company/intel/blog/312856/
+
+Как стать супер-мега-про машинного обучения за 15 минут | https://habrahabr.ru/post/311832/
+
+Колыбель для AI | https://habrahabr.ru/post/311558/
+
+Обзор топологий глубоких сверточных нейронных сетей | https://habrahabr.ru/company/mailru/blog/311706/
+
+Как мы помогали проводить медицинскую перепись в Республике Бангладеш | https://habrahabr.ru/company/abbyy/blog/312058/
+
+Новая программа способна восстанавливать информацию, скрытую с помощью пикселизации | https://habrahabr.ru/company/panda/blog/311866/
+
+EBU R128/BS.1770-3: Пакетная нормализация громкости аудио/видео файлов | https://habrahabr.ru/post/311758/
+
+[SC]Работаем со сканером | https://habrahabr.ru/company/tinkoff/blog/310562/
+
+Где распознают лица | https://habrahabr.ru/company/gotech_vc/blog/311026/
+
+О новых успехах противостояния (СР УВЧ!*) | https://habrahabr.ru/post/310638/
+
+Сжатие мобильной графики в формат ETC1 и открытая утилита | https://habrahabr.ru/company/playrix/blog/310484/
+
+DetectNet: Deep Neural Network для Object Detection в DIGITS | https://habrahabr.ru/post/310332/
+
+Анимированные QR коды | https://habrahabr.ru/post/310052/
+
+Что такое свёрточная нейронная сеть | https://habrahabr.ru/post/309508/
+
+Batch Normalization для ускорения обучения нейронных сетей | https://habrahabr.ru/post/309302/
+
+Обзор задач компьютерного зрения в медицине | https://habrahabr.ru/post/309152/
+
+Использование графических эффектов в приложениях UWP с помощью Win2D | https://habrahabr.ru/post/308310/
+
+Распознавание штрих и QR кодов в приложениях UWP | https://habrahabr.ru/post/307732/
+
+Быстрее быстрого или глубокая оптимизация Медианной фильтрации для GPU Nvidia | https://habrahabr.ru/post/308214/
+
+В ожидании Linux версии: проверка кода графического редактора Inkscape | https://habrahabr.ru/company/pvs-studio/blog/307786/
+
+Adobe AIR + Starling + растеризация векторной графики | https://habrahabr.ru/post/307766/
+
+Pokemon Go и IBM Watson: когда AI встречается с AR | https://habrahabr.ru/company/ibm/blog/307648/
+
+Стилизация изображений с помощью нейронных сетей: никакой мистики, просто матан | https://habrahabr.ru/company/mailru/blog/306916/
+
+Распознавание образов в R с использованием сверточных нейронных сетей из пакета MXNet | https://habrahabr.ru/company/infopulse/blog/307242/
+
+Модифицированный алгоритм Geometry Buffer Anti-Aliasing | https://habrahabr.ru/post/307366/
+
+Kaggle – наша экскурсия в царство оверфита | https://habrahabr.ru/post/307078/
+
+Самое главное о нейронных сетях. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/307260/
+
+Сколько нужно нейронов, чтобы узнать, разведён ли мост Александра Невского? | https://habrahabr.ru/post/307218/
+
+Как мы сделали конвертер и плеер для CinemaDNG на CUDA | https://habrahabr.ru/post/306566/
+
+Изучаем OpenGL ES2 для Android Урок №3. Освещение | https://habrahabr.ru/post/306928/
+
+Сегментация страницы — обзор | https://habrahabr.ru/company/abbyy/blog/306510/
+
+Сколько нужно нейронов, чтобы распознать сводку моста? | https://habrahabr.ru/post/306798/
+
+Обучение машины — забавная штука: современное распознавание лиц с глубинным обучением | https://habrahabr.ru/post/306568/
+
+Как оптимизировать игру с помощью полигональных атласов | https://habrahabr.ru/company/playrix/blog/306554/
+
+TerraServer бесполезный сервис или упущенная возможность? | https://habrahabr.ru/company/ua-hosting/blog/306358/
+
+Переход от режима Hand в Intel RealSense SDK R4 (v6.0) к режиму Cursor в Intel RealSense SDK 2016 R1 | https://habrahabr.ru/company/intel/blog/306010/
+
+Один пиксель вместо тысячи слов | https://habrahabr.ru/post/306210/
+
+Оптимизация обработки изображений с использованием GPU на примере Медианной фильтрации | https://habrahabr.ru/post/305964/
+
+Свободный формат Lepton сжимает файлы JPEG на 22% без потерь | https://habrahabr.ru/post/305740/
+
+Вышел GIMP 2.9.4 | https://habrahabr.ru/post/305710/
+
+Как мы помогли крупному бразильскому банку справиться с последствиями деноминации | https://habrahabr.ru/company/abbyy/blog/304716/
+
+Распознавание паспорта РФ на платформе Эльбрус. Часть 1 | https://habrahabr.ru/company/smartengines/blog/304750/
+
+Об относительной яркости, или насколько живучим бывает легаси | https://habrahabr.ru/post/304210/
+
+Дополненная реальность и социализация людей на новом уровне | https://habrahabr.ru/post/304116/
+
+Сравнение камер переднего обзора Intel RealSense SR300 и F200 | https://habrahabr.ru/company/intel/blog/303508/
+
+Нейронная сеть как предиктор для кодирования изображений формата PNG | https://habrahabr.ru/post/303842/
+
+ComputerVision (Ruby & OpenCV) | https://habrahabr.ru/company/dataart/blog/303482/
+
+Ещё раз про быстрый JPEG на CUDA | https://habrahabr.ru/post/303306/
+
+Intel Media SDK 2016 R2 — что нового? | https://habrahabr.ru/company/intel/blog/302966/
+
+Инструменты Intel для создателей видео кодеков | https://habrahabr.ru/company/intel/blog/302718/
+
+Эволюция нейросетей для распознавания изображений в Google: Inception-ResNet | https://habrahabr.ru/post/303196/
+
+Система распознавания отображаемых данных объекта | https://habrahabr.ru/post/302722/
+
+Повышение производительности мультимедиа приложений с помощью аппаратного ускорения | https://habrahabr.ru/company/intel/blog/301698/
+
+Эволюция нейросетей для распознавания изображений в Google: Inception-v3 | https://habrahabr.ru/post/302242/
+
+Рисуйте, рисуйте, рисуйте: скоро выйдет Inkscape 0.92 | https://habrahabr.ru/post/271727/
+
+Structure from motion | https://habrahabr.ru/post/301522/
+
+Pillow-SIMD | https://habrahabr.ru/post/301576/
+
+Совсем не нейронные сети | https://habrahabr.ru/company/recognitor/blog/277163/
+
+Разведка и инженерное дело: 3D-модели зданий, развязок и карьеров по фото | https://habrahabr.ru/company/croc/blog/301178/
+
+Распознаем лица на фото с помощью Python и OpenCV | https://habrahabr.ru/post/301096/
+
+Эволюция нейросетей для распознавания изображений в Google: GoogLeNet | https://habrahabr.ru/post/301084/
+
+Готическое распознавание: как мы помогали оцифровывать Национальную библиотеку Латвии | https://habrahabr.ru/company/abbyy/blog/300918/
+
+«Таких моментов я не то что не помню, а даже не припоминаю!» | https://habrahabr.ru/post/300948/
+
+Сжатие и передача потокового видео по TCP с помощью OpenCV | https://habrahabr.ru/post/301018/
+
+Давайте соберем клеща-мозгоеда под микроскопом или focus-stacking фотографий из консоли | https://habrahabr.ru/post/283492/
+
+Поиск линии корешка на фотографиях книжных разворотов | https://habrahabr.ru/company/abbyy/blog/283264/
+
+Щелевая съёмка: реализация на bash (ffmpeg + imagemagick) | https://habrahabr.ru/post/283122/
+
+Множество уязвимостей в ImageMagick, одна из которых ведёт к RCE | https://habrahabr.ru/post/282896/
+
+Переводчик из машины, или как научить МФУ переводить документы | https://habrahabr.ru/company/abbyy/blog/282636/
+
+PaintCAD Mobile — пиксель арт на телефоне | https://habrahabr.ru/post/282309/
+
+Заметки с MBC Symposium: применение deep learning в моделировании мозга | https://habrahabr.ru/post/282277/
+
+Весенняя встреча Pattern Recognition and Computer Vision Colloquium 2016 в Праге: как это было | https://habrahabr.ru/post/281791/
+
+На что смотрит свёрточная нейросеть, когда видит наготу | https://habrahabr.ru/post/282071/
+
+От паспортного сканера к автономному распознающему устройству | https://habrahabr.ru/company/smartengines/blog/281857/
+
+Разделение отсканированных вместе фотографий (Python 3 + OpenCV3) | https://habrahabr.ru/post/281669/
+
+Плохой код пакета для создания 2D-анимаций Toonz | https://habrahabr.ru/company/pvs-studio/blog/281138/
+
+Обзор дескрипторов изображения Local Binary Patterns (LBP) и их вариаций | https://habrahabr.ru/post/280888/
+
+Делаем автономную фотобудку на raspberry pi | https://habrahabr.ru/post/279785/
+
+Обработка «видео 360», очистка изображения: алгоритм и его реализация на C# | https://habrahabr.ru/post/279739/
+
+Облачные хранилища для тематических данных | https://habrahabr.ru/post/279615/
+
+Параллельные функции шума и случайных чисел для ядер OpenCL | https://habrahabr.ru/company/intel/blog/279393/
+
+Об одном забавном подходе к фильтрации унимодальных сигналов | https://habrahabr.ru/company/smartengines/blog/279427/
+
+Вэнивар Буш: «Как мы можем мыслить» (As We May Think) | https://habrahabr.ru/company/edison/blog/279241/
+
+Обзор книжного сканера Qidenus SMART book scan 3.0 в Одесском городском архиве | https://habrahabr.ru/company/muk/blog/279185/
+
+Vision-based SLAM: стерео- и depth-SLAM | https://habrahabr.ru/company/singularis/blog/279035/
+
+FLIF — свободный формат сжатия изображений | https://habrahabr.ru/post/278745/
+
+Видеоаналитика 2.0 или при чём тут оставленные предметы. Часть 1 | https://habrahabr.ru/company/videointellect/blog/278383/
+
+Бинаризация изображений: алгоритм Брэдли | https://habrahabr.ru/post/278435/
+
+JavaScript-парсер для искателей сокровищ фотографических глубин | https://habrahabr.ru/company/intel/blog/278401/
+
+Паспортный сканер своими руками | https://habrahabr.ru/company/smartengines/blog/278257/
+
+[ScanDoc] предобработка сканов | https://habrahabr.ru/company/tinkoff/blog/278073/
+
+Как робот 3D сканирует | https://habrahabr.ru/company/artec3d/blog/277885/
+
+Использование сверточных сетей для поиска, выделения и классификации | https://habrahabr.ru/company/recognitor/blog/277781/
+
+Vision-based SLAM: монокулярный SLAM | https://habrahabr.ru/company/singularis/blog/277537/
+
+Глубокое обучение в гараже — Возвращение смайлов | https://habrahabr.ru/post/277403/
+
+Глубокое обучение в гараже — Две сети | https://habrahabr.ru/post/277345/
+
+Vision-based SLAM: tutorial | https://habrahabr.ru/company/singularis/blog/277109/
+
+От FineReader к решениям для ввода данных: как начиналось направление DataCapture в ABBYY | https://habrahabr.ru/company/abbyy/blog/277081/
+
+Нейрореволюция в головах и сёлах | https://habrahabr.ru/post/277069/
+
+Навигация квадрокоптера с использованием монокулярного зрения | https://habrahabr.ru/company/singularis/blog/276595/
+
+Пользовательские жесты, Kinect + Unity. Часть 2 | https://habrahabr.ru/company/singularis/blog/276455/
+
+Распознаем эмоции в приложении UWP с помощью API Project Oxford | https://habrahabr.ru/post/276411/
+
+Все погодные аномалии 2015 года за 8 минут | https://habrahabr.ru/post/276473/
+
+Сжатие текстур в Android: сравнение форматов и примеры кода | https://habrahabr.ru/company/intel/blog/276089/
+
+Формат BPG может заменить анимированный GIF и не только его | https://habrahabr.ru/post/276033/
+
+Фальшивомонетчики против банкиров: стравливаем adversarial networks в Theano | https://habrahabr.ru/post/275429/
+
+Пользовательские жесты, Kinect + Unity. Часть 1 | https://habrahabr.ru/company/singularis/blog/275451/
+
+Microsoft выложила на Github инструментарий CNTK для глубинного обучения | https://habrahabr.ru/post/275887/
+
+Облачный ресайзинг изображений | https://habrahabr.ru/post/275739/
+
+Используем WebP сегодня | https://habrahabr.ru/post/275735/
+
+«Галоп пикселя — часть третья» — Анимация | https://habrahabr.ru/post/275703/
+
+Linux в кармане — на службе у фотографа | https://habrahabr.ru/post/275595/
+
+Google Cloud Storage c Java: изображения и другие файлы в облаках | https://habrahabr.ru/post/275211/
+
+Постановка задачи компьютерного зрения | https://habrahabr.ru/post/274725/
+
+GIF изнутри | https://habrahabr.ru/post/274917/
+
+Пример реализации методов обработки и распознавания изображений на Android | https://habrahabr.ru/post/274323/
+
+Работа над дизайном космических рептилоидов: блуждание по лабиринтам возможностей | https://habrahabr.ru/post/274055/
+
+Сегментация фона в Intel RealSense SDK | https://habrahabr.ru/company/intel/blog/273663/
+
+Intel RealSense SDK и Oculus Rift DK2 | https://habrahabr.ru/company/intel/blog/273289/
+
+Как мы сделали ABBYY FineReader, или история, произошедшая 20 лет назад | https://habrahabr.ru/company/abbyy/blog/273219/
+
+Нелокальный алгоритм для сглаживания изображений | https://habrahabr.ru/post/273159/
+
+Robo code game challenge | https://habrahabr.ru/company/singularis/blog/272729/
+
+Как сжать плоского кота | https://habrahabr.ru/post/273047/
+
+Калибровка Kinect v2 с помощью OpenCV на Python | https://habrahabr.ru/post/272629/
+
+Легко ли распознать информацию на банковской карточке? | https://habrahabr.ru/company/smartengines/blog/272607/
+
+Детализация, отражения и пост-эффекты в GTA V | https://habrahabr.ru/company/ua-hosting/blog/272521/
+
+Новость позвала в дорогу: сверхбыстрый энергоэффективный оптический сопроцессор для больших данных | https://habrahabr.ru/post/272255/
+
+Depth Enabled Photography — фото с двойным дном | https://habrahabr.ru/company/intel/blog/272157/
+
+Распознавание бирманского языка: теперь мы умеем даже это | https://habrahabr.ru/company/abbyy/blog/271977/
+
+Как происходит рендеринг кадра в GTA V | https://habrahabr.ru/company/ua-hosting/blog/271931/
+
+Векторный, открытый и удобный: Inkscape 0.91 | https://habrahabr.ru/post/271559/
+
+Хроники лаборатории: как мы молотый кофе считали софтом для анализа клеточных структур | https://habrahabr.ru/post/271405/
+
+Как устроена видеоаналитика | https://habrahabr.ru/post/271207/
+
+Видеонаблюдение и аналитика Macroscop в деталях | https://habrahabr.ru/company/stss/blog/267929/
+
+Project Naptha — выделяй, копируй и переводи тексты с любых картинок | https://habrahabr.ru/post/270875/
+
+Летние школы Itseez по компьютерному зрению: как это было | https://habrahabr.ru/company/intel/blog/270481/
+
+Шрифты в условиях экстремальной экономии | https://habrahabr.ru/company/kolibrios/blog/269495/
+
+Конвертация видео файла в gif | https://habrahabr.ru/post/269315/
+
+Использование изображений, доступных для чтения и записи, в OpenCL 2.0 | https://habrahabr.ru/company/intel/blog/268851/
+
+История Photoshop | https://habrahabr.ru/post/268575/
+
+Фоны старых квестов — методы разработки, секреты, советы | https://habrahabr.ru/post/268477/
+
+Простой графический редактор с использованием OpenCV | https://habrahabr.ru/post/268115/
+
+Венгерский алгоритм в задаче слежения за множеством движущихся объектов | https://habrahabr.ru/post/267651/
+
+Бот для сапера с изюминкой | https://habrahabr.ru/post/267047/
+
+ABBYY помогает в оцифровке редких изданий Сахалинской библиотеки | https://habrahabr.ru/company/abbyy/blog/266987/
+
+Поиск периодических элементов защиты Паспорта РФ с помощью преобразования Фурье: часть вторая | https://habrahabr.ru/company/smartengines/blog/266917/
+
+Группируем одинаковые приложения из разных магазинов по иконке | https://habrahabr.ru/post/266749/
+
+Как я писал карту дождей | https://habrahabr.ru/post/266453/
+
+Распознать нельзя оставить картинкой, или кое-что о сложных случаях оптического распознавания текста | https://habrahabr.ru/company/abbyy/blog/266551/
+
+Обзор алгоритмов сегментации | https://habrahabr.ru/company/intel/blog/266347/
+
+«Сладкое» программирование, или Как выделить этикетку с банки варенья в Mathematica? | https://habrahabr.ru/company/wolfram/blog/266517/
+
+Карта дождей | https://habrahabr.ru/post/266303/
+
+Vision and Sports Summer School 2015 в Праге: как это было | https://habrahabr.ru/post/265917/
+
+Дополненная реальность на Qt | https://habrahabr.ru/post/265713/
+
+Фурье-вычисления для сравнения изображений | https://habrahabr.ru/post/266129/
+
+Цветовая деконволюция на Wolfram Mathematica | https://habrahabr.ru/post/266101/
+
+Метод широкополосного сигнала (библиотека классов) | https://habrahabr.ru/post/266087/
+
+Как разобрать обезьяньи кишки на составные части. Изучаем цветовую деконволюцию | https://habrahabr.ru/post/265961/
+
+Фурье-обработка цифровых изображений | https://habrahabr.ru/post/265781/
+
+Промышленное видеонаблюдение: снимаем технологические данные с камер и предсказываем аварийные ситуации | https://habrahabr.ru/company/croc/blog/265523/
+
+Идентификация материальных объектов с помощью оптического маркера | https://habrahabr.ru/post/265209/
+
+Стабилизация таймлапс-видео на калькуляторе (IPython+OpenCV) | https://habrahabr.ru/post/265155/
+
+Аугментация (augmentation, “раздутие”) данных для обучения нейронной сети на примере печатных символов | https://habrahabr.ru/company/smartengines/blog/264677/
+
+Упрощаем работу с алгоритмами компьютерного зрения при помощи пакета OpenCV Intel INDE | https://habrahabr.ru/company/intel/blog/264477/
+
+Об ограничениях в применимости метрики Минковского в цифровой обработке данных | https://habrahabr.ru/post/264451/
+
+«Весь Толстой в один клик»: как мы это делали | https://habrahabr.ru/company/abbyy/blog/264119/
+
+Ускорение обработки изображений в Android | https://habrahabr.ru/company/intel/blog/263843/
+
+Шпионские штучки в Wolfram Language, или как спрятать в картинке всё что угодно | https://habrahabr.ru/company/wolfram/blog/263783/
+
+Реализация алгоритма Преобразование Хафа (Hough Transform) (+визуализация работы) | https://habrahabr.ru/post/263493/
+
+Почему непросто показать все цвета в одномерном пространстве, и сколько раз это можно сделать | https://habrahabr.ru/company/yandex/blog/263375/
+
+Как устроен цвет | https://habrahabr.ru/company/yandex/blog/262735/
+
+Сервис распознавания котов | https://habrahabr.ru/company/ibm_bluemix/blog/262911/
+
+Материалы Третьей конференции «Технологии Wolfram» (СПбГЭУ, 2015) | https://habrahabr.ru/company/wolfram/blog/262719/
+
+Сборка Tesseract OCR под MinGW | https://habrahabr.ru/post/262483/
+
+Как нейронные сети рисуют картины | https://habrahabr.ru/company/io/blog/262267/
+
+«Галоп пикселя — часть вторая» — перспектива, цвет, анатомия и прикладные упражнения | https://habrahabr.ru/post/261987/
+
+WebP vs BPG | https://habrahabr.ru/company/io/blog/261971/
+
+Устройство WebP | https://habrahabr.ru/company/io/blog/261651/
+
+Как заменить однородный фон прозрачным с помощью Imagemagick | https://habrahabr.ru/company/io/blog/261529/
+
+Создание эффекта Дросте в Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/261571/
+
+Поиск четырёхугольников документов на мобильных устройствах | https://habrahabr.ru/company/smartengines/blog/260533/
+
+OpenCV и иллюзия кругов на воде | https://habrahabr.ru/post/261477/
+
+Детекция кожи в Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/261413/
+
+Методы аутентификации по сетчатке глаза | https://habrahabr.ru/post/261309/
+
+Сравнение анимации GIF, WebP, APNG, BPG | https://habrahabr.ru/company/io/blog/261083/
+
+Детектор эллипсов в реальном времени | https://habrahabr.ru/post/261099/
+
+Как определить лицо на фотографии с помощью PHP | https://habrahabr.ru/company/io/blog/260579/
+
+Augmented reality для Dota2 | https://habrahabr.ru/post/260353/
+
+Умный кроп на основе энтропии | https://habrahabr.ru/company/io/blog/259997/
+
+Об организации рабочего процесса фотографа. (Сравнивая с мнением журнала What Digital Camera) | https://habrahabr.ru/post/260081/
+
+Автоматизированное создание диаграмм в xkcd-стиле: из серьёзного в забавное | https://habrahabr.ru/company/wolfram/blog/260017/
+
+Проблемы распознавания ID-документов на мобильных устройствах на примере машинно-читаемых зон | https://habrahabr.ru/company/smartengines/blog/259649/
+
+Как определить дубликаты картинок с помощью PHP | https://habrahabr.ru/company/io/blog/259549/
+
+Как я png в 4 раза уменьшал | https://habrahabr.ru/post/259613/
+
+Релиз OpenCV 3.0 с поддержкой Python 3 | https://habrahabr.ru/post/259583/
+
+Поиск периодических элементов защиты Паспорта РФ с помощью преобразования Фурье | https://habrahabr.ru/company/smartengines/blog/259251/
+
+Внезапный диван леопардовой расцветки | https://habrahabr.ru/post/259191/
+
+Image Catalyst 2.5 | https://habrahabr.ru/post/215213/
+
+Сегментация кровеносных сосудов | https://habrahabr.ru/post/259017/
+
+Анализ изображений и видео. Обнаружение текста на изображениях | https://habrahabr.ru/company/yandex/blog/258573/
+
+JPEG 2000, JPEG-XR и WebP в стране упущенных возможностей | https://habrahabr.ru/company/io/blog/258545/
+
+Установка OpenCV 3.0.0-rc1 (с использованием IPP и TBB) на Intel Edison Yocto. USB-камера в OpenCV | https://habrahabr.ru/company/intel/blog/258159/
+
+Два противоположных направления ВИДЕОАНАЛИТИКИ: «жесткая» и «гибкая», кто сильней? | https://habrahabr.ru/post/258451/
+
+Оптимизация картинок для Google PageSpeed | https://habrahabr.ru/company/io/blog/258363/
+
+Оптимизация стоимости при работе с Amazon S3 | https://habrahabr.ru/company/io/blog/258029/
+
+Часть 2 — Синезис. Почему демонстрация видеоаналитики в офисах так сильно отличается от реальной работы в жизни? | https://habrahabr.ru/post/258025/
+
+Искусственный интеллект в Wolfram Language: проект по идентификации изображений | https://habrahabr.ru/company/wolfram/blog/258003/
+
+Загрузка и хранение фотографий в Web приложениях | https://habrahabr.ru/company/io/blog/257533/
+
+Анализ изображений и видео. Сегментация изображений | https://habrahabr.ru/company/yandex/blog/257121/
+
+Быстрое сшивание панорамы | https://habrahabr.ru/company/intel/blog/256533/
+
+Анализ изображений и видео. Классификация изображений и распознавание объектов | https://habrahabr.ru/company/yandex/blog/256459/
+
+Функции IPP c поддержкой бордюров для обработки изображений в нескольких потоках | https://habrahabr.ru/company/intel/blog/255931/
+
+Как мы научили iPhone футбольные клубы распознавать | https://habrahabr.ru/company/dataart/blog/256385/
+
+Поиск по подобию. Поиск нечетких дубликатов. Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/256291/
+
+Построение признаков и сравнение изображений: локальные признаки. Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/255985/
+
+Ретро-стиль в фототехнике: где кончается мода и начинается потребность? | https://habrahabr.ru/post/255949/
+
+Технология распознавания этикеток на примере ярлыков из IKEA (2 видео) | https://habrahabr.ru/company/smartengines/blog/255699/
+
+Построение признаков и сравнение изображений: глобальные признаки. Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/255627/
+
+Делаем скриншоты правильно: практические советы | https://habrahabr.ru/company/alconost/blog/255373/
+
+Контроль версий для дизайнеров | https://habrahabr.ru/company/toptechphoto/blog/255403/
+
+Сравнительный анализ сканеров РГБ | https://habrahabr.ru/company/elar/blog/254765/
+
+Сравнение библиотек глубокого обучения на примере задачи классификации рукописных цифр | https://habrahabr.ru/company/intel/blog/254747/
+
+Морфологическая обработка изображений. Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/254955/
+
+Построение аналитических выражений… для любых объектов — от теоремы Пифагора до розовой пантеры и сэра Исаака Ньютона в Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/254841/
+
+Говорящая панда или что можно сделать с FFmpeg и OpenCV на Android | https://habrahabr.ru/post/254737/
+
+Планирование оптимизации с Unity | https://habrahabr.ru/company/intel/blog/254353/
+
+Основы пространственной и частотной обработки изображений. Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/254249/
+
+Deconvolutional Neural Network | https://habrahabr.ru/company/nordavind/blog/253859/
+
+Распознавание Паспорта РФ на мобильном телефоне. (UPD: 28.03.2015 + выложили программу в App Store) | https://habrahabr.ru/company/smartengines/blog/252703/
+
+Ошибка в формуле проверки условия Делоне | https://habrahabr.ru/post/252925/
+
+22 photoshop-плагина для фронтенд-разработчика | https://habrahabr.ru/post/252287/
+
+Осваиваем техническое зрение на примере Bioloid STEM и HaViMo2.0 | https://habrahabr.ru/company/robotgeeks/blog/251781/
+
+7 советов по созданию GIF анимаций | https://habrahabr.ru/post/251709/
+
+McPaintio — программа, преобразующая изображение в набор мышиных команд, рисующих это изображение | https://habrahabr.ru/post/251653/
+
+Ekspozzer — создание панорамы из видео, усреднение видеопотока | https://habrahabr.ru/post/251297/
+
+Введение в курс «Анализ изображений и видео». Лекции от Яндекса | https://habrahabr.ru/company/yandex/blog/251161/
+
+Всероссийская перепись населения: как тоссятся ваши данные | https://habrahabr.ru/company/croc/blog/251015/
+
+Как работает мозг? | https://habrahabr.ru/post/250625/
+
+Взлом пароля на Mac с Arduino и OpenCV | https://habrahabr.ru/post/250347/
+
+Преобразование растрового графика в таблицу данных | https://habrahabr.ru/post/250441/
+
+Используем SVG (часть первая) | https://habrahabr.ru/post/250129/
+
+Чтобы распознавать картинки, не нужно распознавать картинки | https://habrahabr.ru/post/249661/
+
+Проект 3D ГИС городского пространства | https://habrahabr.ru/post/249487/
+
+Система автоматической оценки возраста по изображениям лиц | https://habrahabr.ru/company/nordavind/blog/248991/
+
+Как мы выиграли Intel RealSense хакатон | https://habrahabr.ru/company/intel/blog/249009/
+
+Панорамный пассивный радиолокатор | https://habrahabr.ru/post/248969/
+
+Deep learning и Caffe на новогодних праздниках | https://habrahabr.ru/post/249089/
+
+«Галоп пикселя — часть первая» — базовые понятия, этапы взросления, прикладные упражнения | https://habrahabr.ru/post/247333/
+
+Лучшие плагины Photoshop для веб-дизайнера | https://habrahabr.ru/post/247581/
+
+Pillow 2.7 — Существенное улучшение качества и производительности | https://habrahabr.ru/post/247219/
+
+Другая сторона Go: рисуем анализируя данные | https://habrahabr.ru/post/247169/
+
+Создание фотомозаик с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/247149/
+
+Средство управления видео метаданными Video Metadata Framework SDK — новогодний подарок Intel | https://habrahabr.ru/company/intel/blog/246835/
+
+Система хранения медиа данных с 10G доступом | https://habrahabr.ru/post/245993/
+
+Детекторы углов | https://habrahabr.ru/post/244541/
+
+Алгоритм TILT или нестандартное использование ранга матрицы | https://habrahabr.ru/post/245497/
+
+Расширяя полотно картины Ван Гога “Звездная ночь” с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/244729/
+
+Эквализация гистограмм для повышения качества изображений | https://habrahabr.ru/post/244507/
+
+Распознаем штрихкоды на изображениях с помощью Python и OpenCV | https://habrahabr.ru/company/enterra/blog/244163/
+
+И ещё раз про распознавание номеров | https://habrahabr.ru/company/recognitor/blog/243919/
+
+Форматирование изображений с помощью Canvas | https://habrahabr.ru/post/229809/
+
+Восстановление трехмерных моделей активным параллаксным методом | https://habrahabr.ru/post/243771/
+
+Разоблачение рекламной статьи Intel | https://habrahabr.ru/post/243475/
+
+Ликбез: методы ресайза изображений | https://habrahabr.ru/post/243285/
+
+Еще один cкрипт генерации иконок для Android | https://habrahabr.ru/post/243059/
+
+Укрощение строптивого (на самом деле, нет) FineReader | https://habrahabr.ru/company/abbyy/blog/240361/
+
+Распознавание и автоматическое решение уравнений | https://habrahabr.ru/post/241281/
+
+На пути к профессиональному использованию современных OCR. Understanding FineReader | https://habrahabr.ru/company/abbyy/blog/239531/
+
+Оптические приборы вытесняют ведро Третьякова | https://habrahabr.ru/post/239945/
+
+Imgur предлагает перейти на gifv: как gif, только легче, качественнее и без тормозов | https://habrahabr.ru/post/239875/
+
+Optical Character Recognition силами .NET | https://habrahabr.ru/post/239803/
+
+Что будет если смешать орехи, Arduino, OpenCV и Delphi. Часть 2 | https://habrahabr.ru/post/238783/
+
+Что будет если смешать орехи, Arduino, OpenCV и Delphi. Часть 1 | https://habrahabr.ru/post/238629/
+
+Метод ADI для непосредственного наблюдения экзопланет — как это работает | https://habrahabr.ru/post/205480/
+
+Шумоподавление путем объединения изображений на Java | https://habrahabr.ru/post/237423/
+
+Как бороться с репостами или пара слов о перцептивных хешах | https://habrahabr.ru/post/237307/
+
+Поиск простого на сложном: tips & tricks | https://habrahabr.ru/post/236309/
+
+Биометрическая система на мобильном телефоне | https://habrahabr.ru/post/236209/
+
+Как делают гигантские зеркала для телескопов | https://habrahabr.ru/post/236147/
+
+Защита бумажных листов договора от подмены текста | https://habrahabr.ru/post/235833/
+
+Вряд ли когда-нибудь будет построен телескоп больше этого | https://habrahabr.ru/post/235507/
+
+Работа с графическими объектами в Android | https://habrahabr.ru/company/intel/blog/233889/
+
+Новая технология Disney синтезирует «смотрибельное» видео из нескольких любительских записей | https://habrahabr.ru/post/232917/
+
+Увидеть незримое | https://habrahabr.ru/post/232515/
+
+«Кассини» получил снимок «глаза Сатурна» | https://habrahabr.ru/post/232481/
+
+Голливуду запрещают печатать фальшивые доллары | https://habrahabr.ru/post/232051/
+
+Новая технология подстраивает изображение на дисплее для людей с нарушениями зрения | https://habrahabr.ru/company/medgadgets/blog/231885/
+
+Эксперимент интеграции видео расширения в систему аудио-распознавания речи | https://habrahabr.ru/post/231821/
+
+«Путевые» фотографии межпланетной станции Rosetta: с 2005 года по настоящее время | https://habrahabr.ru/post/231085/
+
+Проект McMoon: новые технологии дают второе рождение фотографиям Луны программы Lunar Orbiter 60-х годов | https://habrahabr.ru/post/230535/
+
+Некоторые методы поиска нечетких дубликатов видео | https://habrahabr.ru/post/230489/
+
+Mozilla выпустила улучшенный JPEG-кодировщик | https://habrahabr.ru/post/230099/
+
+Создание тестовой базы данных изображений губ пользователей в различных состояниях для увеличения точности работы системы | https://habrahabr.ru/post/230053/
+
+Книги не бывают плоскими… | https://habrahabr.ru/company/elar/blog/229973/
+
+Реализация и апробация алгоритма распознавания мимики | https://habrahabr.ru/post/229949/
+
+Синтез оптимального алгоритма распознавания мимики | https://habrahabr.ru/post/229895/
+
+Что нам стоит сеть построить | https://habrahabr.ru/post/229851/
+
+Определение доминирующих признаков классификации и разработка математической модели изображений мимики | https://habrahabr.ru/post/229817/
+
+Поиск и анализ цветового пространства оптимального для построения выделяющихся объектов на заданном классе изображений | https://habrahabr.ru/post/229757/
+
+Sol 647: новая «живая» панорама Curiosity на Марсе | https://habrahabr.ru/post/229685/
+
+Распознавание красоты лиц | https://habrahabr.ru/post/229549/
+
+Как приручить дракона с помощью технологий Intel? | https://habrahabr.ru/company/intel/blog/229205/
+
+Генерация картинок для Android приложения из SVG | https://habrahabr.ru/post/229395/
+
+Распознавание текста в ABBYY FineReader (2/2) | https://habrahabr.ru/company/abbyy/blog/228251/
+
+Сканирование фотопленки при помощи DSLR | https://habrahabr.ru/post/228487/
+
+Structure from Motion — классическая реализация | https://habrahabr.ru/post/228525/
+
+Работа каскада Хаара в OpenCV в картинках: теория и практика | https://habrahabr.ru/company/recognitor/blog/228195/
+
+Проекционный экран своими руками | https://habrahabr.ru/post/228121/
+
+Об одном алгоритме сжатия случайных сигналов (с потерями) | https://habrahabr.ru/post/227993/
+
+«Взлом» SmartDeblur 2.2 | https://habrahabr.ru/post/227593/
+
+Вышел графический редактор Paint.NET 4.0 | https://habrahabr.ru/post/227555/
+
+Атмосферное поглощение или как оценить загрязнёность воздуха | https://habrahabr.ru/post/227515/
+
+Портативный и точный: беспроводной сканер Dacuda PocketScan | https://habrahabr.ru/post/227343/
+
+Модель натурального ряда чисел (нрч). Спираль Улама | https://habrahabr.ru/post/227253/
+
+Решение задачи линейной регрессии с помощью быстрого преобразования Хафа | https://habrahabr.ru/post/226935/
+
+Про котиков, собак, машинное обучение и deep learning | https://habrahabr.ru/post/226347/
+
+Обзор Windows­-приложений для наведения порядка в фотоархивах | https://habrahabr.ru/post/226123/
+
+Объяснение фотореалистичной живописи Яна Вермеера | https://habrahabr.ru/post/225997/
+
+Распознавание автомобильных номеров в деталях | https://habrahabr.ru/company/recognitor/blog/225913/
+
+Распознавание текста в ABBYY FineReader (1/2) | https://habrahabr.ru/company/abbyy/blog/225215/
+
+Самая полная фотография видимой Вселенной от Hubble | https://habrahabr.ru/post/225209/
+
+Как программисты ищут отличия | https://habrahabr.ru/post/224727/
+
+Автоматическое выделение меток | https://habrahabr.ru/post/224339/
+
+Когда AES(☢) = ☠ — криптобинарный фокус | https://habrahabr.ru/post/224205/
+
+Документ в перспективе, что с ним делать? Корректировка результатов бесконтактного сканирования и фотографий документов | https://habrahabr.ru/post/223507/
+
+Распознавание номеров: от А до 9. Часть 3 | https://habrahabr.ru/company/recognitor/blog/223441/
+
+Поклонник Tron создал для себя виртуальную реальность при помощи 3 Kinect-ов и Oculus Rift | https://habrahabr.ru/post/222907/
+
+Восход Земли «глазами» аппарата Lunar Reconnaissance Orbiter | https://habrahabr.ru/post/222831/
+
+Не соблаговолите ли больше не нарушать, сэр (мэм)? | https://habrahabr.ru/company/recognitor/blog/222539/
+
+Подключение Macbook Pro к 10G Ethernet сети | https://habrahabr.ru/post/222319/
+
+Разбор RAW в браузере: как мы это делали | https://habrahabr.ru/company/toptechphoto/blog/221907/
+
+Распознавание номеров: от А до 9 | https://habrahabr.ru/company/recognitor/blog/221891/
+
+Sol 610: «живая» панорама Марса и Curiosity | https://habrahabr.ru/post/221677/
+
+Пятьдесят оттенков инфракрасного | https://habrahabr.ru/post/221649/
+
+Виртуализируем впечатления от отдыха | https://habrahabr.ru/company/megavisor/blog/220825/
+
+Съёмка показаний счетчика на телефон с последующим распознаванием | https://habrahabr.ru/post/220869/
+
+Эффект параллакса (3D) с помощью Lens Blur в Google Camera | https://habrahabr.ru/post/220557/
+
+Расширение к браузеру для извлечения текста из изображений | https://habrahabr.ru/post/220471/
+
+Цифровая стабилизация изображения со стационарных камер — корреляционный подход | https://habrahabr.ru/post/219815/
+
+Новый алгоритм распознавания изображений от Google способен распознавать CAPTCHA с точностью 99,8% | https://habrahabr.ru/post/219767/
+
+FineReader 12: новое в интерфейсе и сложности конвертирования достижений в проценты | https://habrahabr.ru/company/abbyy/blog/214681/
+
+Автоматическая очистка фона изображений | https://habrahabr.ru/post/219305/
+
+Любите ли вы их так сильно, чтобы посмотреть, что у них внутри? | https://habrahabr.ru/company/elar/blog/219273/
+
+Бот для аркады. Часть №2: подключаем OpenCV | https://habrahabr.ru/post/216757/
+
+Радиотелескоп | https://habrahabr.ru/post/218805/
+
+Curiosity сфотографировал загадочное яркое свечение на Марсе | https://habrahabr.ru/post/218769/
+
+Повышение визуального качества для фотографий документов | https://habrahabr.ru/company/abbyy/blog/218285/
+
+Функциональная обработка изображений в D | https://habrahabr.ru/post/218429/
+
+Проявщики RAW-файлов для Mac OS X RPP и Aperture: «Яблочный эксклюзив» в руках фотолюбителя | https://habrahabr.ru/post/218213/
+
+Один крутой Gist: whiteboardCleaner | https://habrahabr.ru/post/218195/
+
+Ученые получили новые снимки работы нейронов мозга | https://habrahabr.ru/post/218075/
+
+Signed Distance Field или как сделать из растра вектор | https://habrahabr.ru/post/215905/
+
+Viz — Новый модуль 3D визуализации в библиотеке OpenCV | https://habrahabr.ru/company/intel/blog/217021/
+
+Поиск людей на фотографиях на Android с помощью OpenCV | https://habrahabr.ru/post/217377/
+
+Библиотека компьютерного зрения CCV 0.6 с новым классификатором изображений | https://habrahabr.ru/post/217319/
+
+Итоги прошедших месяцев: Seed, Oriense-1, OrPI, OrCC, StartupCup, Технопарк | https://habrahabr.ru/company/oriense/blog/217187/
+
+Использование проявщика RAWTherapee в прикладных задачах фотолюбителя | https://habrahabr.ru/post/216465/
+
+RASW: Улучшаем метод Виолы-Джонса | https://habrahabr.ru/post/216019/
+
+OpenCV участвует в Google Summer of Code 2014 | https://habrahabr.ru/company/intel/blog/215923/
+
+Применяем визуальные эффекты к изображениям в Django | https://habrahabr.ru/post/215811/
+
+Как мы спасали глаза с OpenCV | https://habrahabr.ru/company/eyedoc/blog/215771/
+
+НАСА объявило конкурс компьютерных алгоритмов | https://habrahabr.ru/post/215785/
+
+Двойная камера нового HTC One позволит изменять фокус уже у сделанной фотографии | https://habrahabr.ru/post/215753/
+
+Умная обрезка картинок с использованием точки фокуса | https://habrahabr.ru/post/215645/
+
+Полезный Open Source и как мы научили Zxing разговаривать на другом языке | https://habrahabr.ru/company/eastbanctech/blog/214967/
+
+Google Earth будущего: HD-видеоcъемка с орбиты почти в режиме реального времени | https://habrahabr.ru/post/214979/
+
+Mozilla оптимизирует формат JPEG | https://habrahabr.ru/post/214813/
+
+Визуальный анализ качества кода | https://habrahabr.ru/post/214165/
+
+Массивно-параллельная стабилизация изображения | https://habrahabr.ru/post/214027/
+
+Google выпустил карту лесов мира: Global Forest Watch | https://habrahabr.ru/post/213831/
+
+Миниатюрный датчик покажет врачам артерии пациента изнутри | https://habrahabr.ru/post/213601/
+
+Умный видеоплеер или просто распознавание жестов | https://habrahabr.ru/post/213417/
+
+Применение преобразования Пуассона для бесшовного наложения изображений | https://habrahabr.ru/post/213403/
+
+Биатлон 2014. Как на одном названии 1000 долларов заработать | https://habrahabr.ru/company/papabubadiop/blog/213317/
+
+Fish on Wheels: самоходный аквариум с золотой рыбкой на основе Arduino + Beagleboard | https://habrahabr.ru/post/212541/
+
+Смазанная фотография и конкурс: выбор победителя | https://habrahabr.ru/company/kolibrios/blog/211160/
+
+The Human Brain Project: откуда мы знаем, как устроен мозг? | https://habrahabr.ru/post/211997/
+
+Методика локализации лиц с использованием метода быстрого сравнения на основе алгоритма OSAD (выдержка из публикации) | https://habrahabr.ru/company/innopolis_university/blog/212039/
+
+Поиск изображений по фрагменту | https://habrahabr.ru/post/211773/
+
+RawTherapee в связке с GIMP: выбор неудачников или рабочие инструменты фотолюбителя? | https://habrahabr.ru/post/211636/
+
+Как мы портировали OpenCV на WindowsRT | https://habrahabr.ru/company/intel/blog/210832/
+
+Создание игры на ваших глазах — часть 2: Шейдеры для стилизации картинки под ЭЛТ/LCD | https://habrahabr.ru/post/211140/
+
+Подсчет расстояния Хэмминга на большом наборе данных | https://habrahabr.ru/post/211264/
+
+Google внес в Street View снимки 300 городов России | https://habrahabr.ru/post/211158/
+
+Обработка цифровых снимков в ДЗЗ (дистанционном зондировании земли) | https://habrahabr.ru/post/210810/
+
+Нестандартное применение IT в быту: парсинг, перцептивный хеш, сравнение изображений = оптимизация расходов | https://habrahabr.ru/post/210388/
+
+Пространственно-временная обработка изображений на GPU | https://habrahabr.ru/post/210286/
+
+Forth и шейдеры | https://habrahabr.ru/post/209730/
+
+Мозг обрабатывает изображения за 13 миллисекунд | https://habrahabr.ru/post/209776/
+
+Основы теории цвета. Система CIE XYZ | https://habrahabr.ru/post/209738/
+
+Пару слов о распознавании образов | https://habrahabr.ru/post/208090/
+
+В Photoshop добавили поддержку 3D-печати и Perspective Warp | https://habrahabr.ru/post/209272/
+
+Программу NameTag для распознавания лиц правозащитники назвали «жуткой» | https://habrahabr.ru/post/208982/
+
+Pngquant — библиотека и утилита командной строки для сжатия png с потерями | https://habrahabr.ru/post/208964/
+
+GPU NVIDIA позволят проводить операции на работающем сердце | https://habrahabr.ru/post/208830/
+
+Камера Эйнштейна: как один фотограф изображает время | https://habrahabr.ru/post/208820/
+
+Вычисление фрактальной размерности Минковского для плоского изображения | https://habrahabr.ru/post/208368/
+
+Инженеры Google рассказали об успехах в распознавании номеров домов с фотографий StreetView | https://habrahabr.ru/post/208330/
+
+Обучение OpenCV каскада Хаара | https://habrahabr.ru/post/208092/
+
+Видеонаблюдение на Raspberry Pi | https://habrahabr.ru/post/208058/
+
+Какого цвета Луна? | https://habrahabr.ru/post/207824/
+
+Служба Automator, загружающая изображения на Яндекс.Фотки | https://habrahabr.ru/post/207818/
+
+Восстановление лиц по отражению в зрачке | https://habrahabr.ru/post/207678/
+
+Portable Network Javascript | https://habrahabr.ru/post/207582/
+
+NASA выложила в открытый доступ 17000 фотографий программы «Аполлон» | https://habrahabr.ru/post/207510/
+
+Поиск чёрных дыр на домашнем компьютере | https://habrahabr.ru/post/207196/
+
+Глобальная карта ветров почти в режиме реального времени | https://habrahabr.ru/post/206554/
+
+Соревнования по распознаванию изображений ImageNet 2013 | https://habrahabr.ru/company/nordavind/blog/206342/
+
+Изобретаем JPEG | https://habrahabr.ru/post/206264/
+
+Поиск кропнутых дубликатов изображений с помощью перцептуальных хешей | https://habrahabr.ru/post/205398/
+
+Орел украл камеру у экологов, запечатлев свой полет и самого себя | https://habrahabr.ru/post/205148/
+
+Фотореалистичная живопись пальцем на iPad | https://habrahabr.ru/post/204744/
+
+Оптимизация обработки изображений на C++ с использованием SIMD. Медианный фильтр | https://habrahabr.ru/post/204682/
+
+Что нам так и не показал «Марс-3»? | https://habrahabr.ru/post/204562/
+
+OpenVX: стандарт компьютерного зрения | https://habrahabr.ru/company/intel/blog/204236/
+
+Стоит ли оптимизировать обработку изображений на С++ при помощи SIMD? | https://habrahabr.ru/post/204234/
+
+Создание конструктора кирпичной кладки для сайта | https://habrahabr.ru/post/203840/
+
+Nokia: теперь флуоресцентный детектор наночастиц и вирусов | https://habrahabr.ru/post/203812/
+
+Создание обоев для двух и более дисплеев PC | https://habrahabr.ru/post/203774/
+
+Нейрозагадка | https://habrahabr.ru/post/203470/
+
+Северное сияние прямо в вашем браузере в виде панорамного фильма | https://habrahabr.ru/post/203438/
+
+Компьютерное зрение. Лекция для Малого ШАДа Яндекса | https://habrahabr.ru/company/yandex/blog/203136/
+
+Комета C/2012 S1 (ISON) в поле зрения STEREO или как её наблюдать, если погода плохая | https://habrahabr.ru/post/202602/
+
+Выявление фальшивых фотографий через несовместимые тени | https://habrahabr.ru/post/202434/
+
+4 миллиарда лет истории Марса за две минуты | https://habrahabr.ru/post/202260/
+
+Живой Марс | https://habrahabr.ru/post/201916/
+
+Портативный 3D-сканер Sense 3D может «отсканировать» человека | https://habrahabr.ru/post/201744/
+
+То, что вы хотели знать про оптический поток, но стеснялись спросить | https://habrahabr.ru/post/201406/
+
+Как работает автоматическое выделение документа на изображении в программе ABBYY FineScanner? | https://habrahabr.ru/company/abbyy/blog/200448/
+
+Робот уже точно всегда выигрывает в «камень-ножницы-бумага» | https://habrahabr.ru/post/200788/
+
+Использование каскада Хаара для сравнения изображений | https://habrahabr.ru/post/198338/
+
+Астрофотография в каждый дом | https://habrahabr.ru/post/200640/
+
+Получаем тип и размеры изображения без скачивания его целиком, используя Python | https://habrahabr.ru/post/199440/
+
+Oriense. Разработка устройств помощи слепым и слабовидящим | https://habrahabr.ru/company/oriense/blog/199192/
+
+Яндекс научился распознавать и объединять серии изображений | https://habrahabr.ru/company/yandex/blog/198830/
+
+Челябинский метеорит: систематизированы фото и видео материалы | https://habrahabr.ru/post/198272/
+
+Автономный робот команды НАМТ на «Робокросс-2013» и «Eurathlon 2013» | https://habrahabr.ru/post/197652/
+
+Работа с растром на низком уровне для начинающих | https://habrahabr.ru/post/196578/
+
+О космической доброте и Челябинском метеорите | https://habrahabr.ru/post/196282/
+
+Роботы, проекторы, обработка изображений: видео «Box» | https://habrahabr.ru/post/196026/
+
+3D принтер воспроизводит точные копии картин (включая текстуру и «рельеф») | https://habrahabr.ru/post/195238/
+
+Опять XMP тэги лиц. Все плохо, но это поправимо | https://habrahabr.ru/post/193946/
+
+В ноутбуках следующего поколения от Asus, Dell, HP, Lenovo появится 3D-камера с распознаванием жестов | https://habrahabr.ru/post/193916/
+
+Применение локальных бинарных шаблонов к решению задачи распознавания лиц | https://habrahabr.ru/post/193658/
+
+Восход Луны с МКС: фотография с орбиты | https://habrahabr.ru/post/193494/
+
+SATA-контроллер, смазанная фотография и конкурс | https://habrahabr.ru/company/kolibrios/blog/192558/
+
+Яндекс, роботы и Сибирь — как мы сделали систему поиска по загруженному изображению | https://habrahabr.ru/company/yandex/blog/192404/
+
+Как я упрощаю себе жизнь работая за компьютером и в IRL | https://habrahabr.ru/post/192180/
+
+Южный полюс Марса: фото высокого разрешения | https://habrahabr.ru/post/192714/
+
+Панорама солнечного гало | https://habrahabr.ru/post/191844/
+
+В правительстве Великобритании обычных секретарей поменяют на виртуальных | https://habrahabr.ru/post/190926/
+
+eDavid: робот-художник | https://habrahabr.ru/post/190716/
+
+Google Research: Быстрое, точное выявление 100 000 категорий объектов на одной машине | https://habrahabr.ru/post/190460/
+
+3D сканер от MakerBot поступит в продажу уже на следующей неделе | https://habrahabr.ru/post/190438/
+
+Последствия падения «челябинского метеорита»: видео-модель от NASA | https://habrahabr.ru/post/190210/
+
+Разработка Ubi Interactive и Microsoft превращает любую поверхность в сенсорный дисплей | https://habrahabr.ru/post/190190/
+
+Настройка JavaCV в Windows 7 | https://habrahabr.ru/post/190104/
+
+Фраза «перезалил на habrastorage» теряет смысл | https://habrahabr.ru/post/189610/
+
+Мини-принтер LG: карманная фотолаборатория | https://habrahabr.ru/company/LG_Russia/blog/188318/
+
+Aquatop Display: обычная ванная в качестве сенсорного дисплея? Нет проблем | https://habrahabr.ru/post/189428/
+
+Оптимизация изображений bash-скриптом | https://habrahabr.ru/post/154683/
+
+Будущее цифровой фотографии | https://habrahabr.ru/post/189166/
+
+Пример сегментации изображений средствами PHP | https://habrahabr.ru/post/189068/
+
+Сканеры и копиры Xerox могут менять цифры в документах при копировании | https://habrahabr.ru/post/189010/
+
+В Сеть выложена 150-гигапиксельная панорама Токио | https://habrahabr.ru/post/188924/
+
+Порядок в фото- и видеоархиве с помощью методики и пары скриптов | https://habrahabr.ru/post/188094/
+
+Фабрика картинок — как оно работает? Часть 2 | https://habrahabr.ru/post/188034/
+
+Project Logan: новое поколение графики для мобильных устройств от NVIDIA | https://habrahabr.ru/post/187948/
+
+Компьютерное зрение помогает искать потерявшихся собак | https://habrahabr.ru/company/nordavind/blog/187886/
+
+NASA опубликовало фото Земли, вид с колец Сатурна | https://habrahabr.ru/post/187704/
+
+97-летний художник рисует картины в Microsoft Paint | https://habrahabr.ru/post/187674/
+
+DarkJPEG: cтеганография для всех | https://habrahabr.ru/post/187402/
+
+Честный glow и скорость | https://habrahabr.ru/post/186482/
+
+Техника для проверки подлинности денег | https://habrahabr.ru/post/185806/
+
+Замена фона в Гимпе — рабочее решение | https://habrahabr.ru/post/186014/
+
+Секретность карт, координат и ДДЗ на бытовом уровне | https://habrahabr.ru/post/185648/
+
+В Сеть выложили 34-гигапиксельную панораму Праги | https://habrahabr.ru/post/184928/
+
+Изображения: форматы и сжатие (2/3) | https://habrahabr.ru/company/tradingview/blog/184660/
+
+Ученые создали наиболее детальную 3D модель мозга человека | https://habrahabr.ru/post/184580/
+
+В Стэнфордском университете создали новый тип «бионического глаза» | https://habrahabr.ru/post/184348/
+
+Гигапиксельная панорама Марса от Curiosity | https://habrahabr.ru/post/184044/
+
+Алгоритм seam carving для изменения размера изображения | https://habrahabr.ru/post/183638/
+
+Команда Джеффри Хинтона победила в конкурсе компьютерного зрения ImageNet с двукратным преимуществом | https://habrahabr.ru/post/183380/
+
+Окрашивание изображений | https://habrahabr.ru/post/183226/
+
+NASA представило наиболее детальную топографическую карту Антарктики за последние 10 лет | https://habrahabr.ru/post/182222/
+
+Распознавание бланков психологического тестирования с нуля | https://habrahabr.ru/post/181878/
+
+Знакомство с шейдерами на примере GPUImage | https://habrahabr.ru/post/181794/
+
+GlacierWorks и Microsoft создали интерактивный сайт об Эвересте | https://habrahabr.ru/post/181330/
+
+Компьютерный алгоритм пытается соединить 320 000 фрагментов рукописей | https://habrahabr.ru/post/181201/
+
+«Охота на тайл» — тайлящаяся текстура за 5 минут на базе фотографии (цикл: Работа с текстурами и изображениями) | https://habrahabr.ru/post/180893/
+
+А давайте я вам расскажу про градиенты! | https://habrahabr.ru/post/180839/
+
+Детектирование и локализация произвольного текста на изображениях, полученных с помощью фотокамер мобильных телефонов | https://habrahabr.ru/post/180609/
+
+Изображения: форматы и сжатие (1/3) | https://habrahabr.ru/company/tradingview/blog/180381/
+
+Панорама в 9600 км за 15 минут | https://habrahabr.ru/post/180257/
+
+Убираем пыль с 1000 фотографий с помощью Gimp и Script-Fu | https://habrahabr.ru/post/179817/
+
+Clipping magic: онлайн-инструмент для вырезания картинки из фона на базе технологий искусственного интеллекта | https://habrahabr.ru/post/179851/
+
+Приложение MedRef для Google Glass позволяет идентифицировать человека по изображению лица | https://habrahabr.ru/post/179691/
+
+Японский старик создает удивительные картины с помощью Excel (Подождите, Excel?) | https://habrahabr.ru/post/179295/
+
+Лентикулярные билборды со скрытым текстом для маленьких людей | https://habrahabr.ru/post/178791/
+
+Широкоугольная линза с нулевыми искажениями сделана по образцу глаза насекомого | https://habrahabr.ru/post/178657/
+
+Как роботы-автомобили Google «видят» мир? | https://habrahabr.ru/post/178613/
+
+Pixtr: автоматическое улучшение фотопортретов | https://habrahabr.ru/post/178005/
+
+NASA: видео результатов трёхлетних наблюдений за Солнцем | https://habrahabr.ru/post/177705/
+
+Новый фильтр увеличения резкости от Adobe будет платным | https://habrahabr.ru/post/177269/
+
+Monosnap обновился до второй версии | https://habrahabr.ru/company/monosnap/blog/176201/
+
+Генерация случайных лиц в PaperJS | https://habrahabr.ru/post/176691/
+
+Облачная платформа Lagoa для 3D-рендеринга | https://habrahabr.ru/post/176611/
+
+В финале Microsoft Imagine Cup 2013 от Украины будет принимать участие проект CamTouch | https://habrahabr.ru/post/176365/
+
+Сохранение изображения с помощью libpng | https://habrahabr.ru/post/176163/
+
+Яблоко или груша? | https://habrahabr.ru/post/175757/
+
+Blind Deconvolution — автоматическое восстановление смазанных изображений | https://habrahabr.ru/post/175717/
+
+Декодирование изображений из мозга человека | https://habrahabr.ru/post/175627/
+
+Первые телевизионные изображения Земли с первого погодного искусственного спутника (53 года назад) | https://habrahabr.ru/post/175421/
+
+Рунический процессинг | https://habrahabr.ru/company/abbyy/blog/174789/
+
+О приёме снимков Земли с метеорологических спутников | https://habrahabr.ru/post/169873/
+
+Опубликована самая подробная карта реликтового излучения Вселенной | https://habrahabr.ru/post/173841/
+
+Видимость сквозь турбулентную атмосферу. Компьютерная коррекция изображений удаленных объектов | https://habrahabr.ru/post/173791/
+
+Жестовое управление для Android устройств на GTC 2013 | https://habrahabr.ru/post/173733/
+
+Щелевая съёмка: Ловля птичек с помощью питона | https://habrahabr.ru/post/173115/
+
+Moedls: смартфон + лазер = 3D сканер | https://habrahabr.ru/post/173207/
+
+Ангелы на фотографии или «НЛО из принтера 2» | https://habrahabr.ru/post/172825/
+
+Построение системы оптического распознавания структурной информации на примере Imago OCR | https://habrahabr.ru/post/172651/
+
+Распознавание пола в изображениях и видео | https://habrahabr.ru/post/172463/
+
+Измерение контраста в черно-белых изображениях | https://habrahabr.ru/post/172399/
+
+Компания MakerBot представила настольный 3D сканер | https://habrahabr.ru/post/172317/
+
+Обработка изображений разреженными масками | https://habrahabr.ru/post/172231/
+
+Метаданные фото-архива. XMP тэги лиц. [HowTo] | https://habrahabr.ru/post/172217/
+
+Google поставил редирект с Picasa Web Albums на Google+ Photos | https://habrahabr.ru/post/171767/
+
+Space Invaders в космосе | https://habrahabr.ru/post/171761/
+
+CeBIT 2013: Очки дополненной реальности SMI, следящие за глазами | https://habrahabr.ru/post/171729/
+
+Yarr — dataflow-фреймворк (обработки изображений) на Хаскеле | https://habrahabr.ru/post/170571/
+
+Первая игра, которую делают с помощью фотограмметрии | https://habrahabr.ru/post/171393/
+
+Бот для шашек (часть 1) | https://habrahabr.ru/post/171277/
+
+Использование OpenCV в Delphi | https://habrahabr.ru/post/170909/
+
+Логотип по стандартам HTML5 или Как поставить векторную картинку на веб-страницу | https://habrahabr.ru/post/170577/
+
+Распознавание коридоров в тексте | https://habrahabr.ru/post/170485/
+
+В Сеть выложили 320 гигапиксельную панораму Лондона | https://habrahabr.ru/post/170249/
+
+Вычисление оптического потока методом Лукаса-Канаде. Теория | https://habrahabr.ru/post/169055/
+
+Детектирование ладоней и пальцев на изображении | https://habrahabr.ru/post/169709/
+
+Вейвлет-сжатие «на пальцах»: практика | https://habrahabr.ru/post/169615/
+
+Опубликован исходный код Photoshop 1.0 | https://habrahabr.ru/post/169371/
+
+Вейвлет-сжатие «на пальцах» | https://habrahabr.ru/post/168517/
+
+Опенсурс ПО в оперативной полиграфии | https://habrahabr.ru/post/168665/
+
+Немножко философский пост про то, как мы в глаза смотрели | https://habrahabr.ru/post/167849/
+
+Камера-модуль для Raspberry Pi будет стоить $25 и снимать FullHD-видео | https://habrahabr.ru/post/168589/
+
+1,8 гигапиксельная камера для подглядывания от DARPA | https://habrahabr.ru/post/168157/
+
+Matlab-бот, тёплый ламповый | https://habrahabr.ru/post/166651/
+
+Как я пленки цифровал, и не только | https://habrahabr.ru/post/166649/
+
+Полноэкранная анимация в iOS игре, или как быть если графику не реально загрузить в память | https://habrahabr.ru/post/166447/
+
+nanoCAD 4.5: растровое редактирование | https://habrahabr.ru/company/nanosoft/blog/166157/
+
+Создание прототипа программы обработки изображений | https://habrahabr.ru/post/166149/
+
+Метаданные для организации хранения фото-архива | https://habrahabr.ru/post/165899/
+
+ViBe — алгоритм вычитания фона | https://habrahabr.ru/post/165677/
+
+Реконструкция портрета Ван Гога | https://habrahabr.ru/post/165621/
+
+Самодельный рентгеновский компьютерный томограф | https://habrahabr.ru/post/165519/
+
+Исследовать Марс вместе с NASA | https://habrahabr.ru/post/165405/
+
+Простейшая кластеризация изображени методом к-средних (k-means) | https://habrahabr.ru/post/165087/
+
+Опыт создания каталога и индексации семейного фотоархива. Индексация и оцифровка фотопленок | https://habrahabr.ru/post/164829/
+
+Проект «робот-грузчик»: определение ориентации | https://habrahabr.ru/post/164979/
+
+Делаем сами фотографии в стиле Lytro | https://habrahabr.ru/post/164753/
+
+Концепт-арт — история, назначение, проблемы связанные с ним, и способы его создания | https://habrahabr.ru/post/164451/
+
+Играемся с изображениями в Python | https://habrahabr.ru/post/163663/
+
+Ищем отличия в изображениях | https://habrahabr.ru/post/163585/
+
+2-гигапиксельная фотография Эвереста | https://habrahabr.ru/post/163263/
+
+Kodak уже нашла покупателей на свои патенты | https://habrahabr.ru/post/163233/
+
+Google выложил в свободный доступ древнейшие библейские рукописи | https://habrahabr.ru/post/163127/
+
+Зоологический краудсорсинг | https://habrahabr.ru/post/162847/
+
+Оцифровка крупных негативов | https://habrahabr.ru/post/162773/
+
+Руководителем Intel может стать гендиректор Nvidia Джен-Сен Хуан | https://habrahabr.ru/post/162653/
+
+Apple и Google вместе купят патенты компании Kodak | https://habrahabr.ru/post/161953/
+
+Конкурс по алгоритмам компьютерного зрения. Призы достаются всем | https://habrahabr.ru/company/ivideon/blog/161701/
+
+Просмотр изображений OpenCV во время отладки C++ кода в Visual Studio | https://habrahabr.ru/post/161605/
+
+Vice.com рассекретил местоположение Джона Макафи через метаданные EXIF | https://habrahabr.ru/post/161297/
+
+Взлом старой каптчи сайта Хабрахабр | https://habrahabr.ru/post/161159/
+
+Алгоритм аннотирования иллюстраций или почему бы программисту не быть немного дизайнером? | https://habrahabr.ru/post/161063/
+
+Прецизионный поворот растрового изображения на произвольный угол | https://habrahabr.ru/post/160401/
+
+Ушел из жизни Брюс Байер, «отец цифровой фотографии» | https://habrahabr.ru/post/160137/
+
+Делаем превью сайтов в стиле Yandex Браузера | https://habrahabr.ru/post/159961/
+
+Японский сканер оцифровывает книгу в 250 страниц за минуту | https://habrahabr.ru/post/159791/
+
+Intel поглощает разработчика ARM-чипов — компанию ZiiLabs | https://habrahabr.ru/post/159665/
+
+Робот рисует портреты почти как человек | https://habrahabr.ru/post/159509/
+
+Наложение текста и картинок на изображение с помощью библиотек MagickWand и GD | https://habrahabr.ru/post/159209/
+
+Конкурс «Интернет-математика: Яндекс.Карты» — опыт нашего участия и описание победившего алгоритма | https://habrahabr.ru/company/intel/blog/158645/
+
+На фотографиях Lytro теперь можно менять перспективу и цвет | https://habrahabr.ru/post/159143/
+
+Инженер Google разработал сверхбыстрый сканер — 1000 страниц за 90 минут | https://habrahabr.ru/post/158457/
+
+Системы распознавания номеров на практике | https://habrahabr.ru/company/croc/blog/158719/
+
+Распознавание эскизных изображений | https://habrahabr.ru/post/158589/
+
+Простой хромакей по цветовой компоненте RGB | https://habrahabr.ru/post/158479/
+
+Кластеризация дубликатов в поиске по картинкам | https://habrahabr.ru/company/yandex/blog/158067/
+
+Инструменты для оптимизации сайта под Retina | https://habrahabr.ru/post/158101/
+
+Kinect сможет моделировать объекты | https://habrahabr.ru/post/157781/
+
+Конкурс Ivideon. Продолжение | https://habrahabr.ru/company/ivideon/blog/157749/
+
+MIPS продала свои патенты, и потом была куплена Imagination | https://habrahabr.ru/post/157633/
+
+NVIDIA повернулась лицом к Linux | https://habrahabr.ru/post/157611/
+
+Отрезаем голову в nginx | https://habrahabr.ru/post/157457/
+
+Таинственные текстуры в пустыне Такла-Макан на Google Earth получили объяснение | https://habrahabr.ru/post/157405/
+
+OpenCV 2.4.3 | https://habrahabr.ru/company/intel/blog/157281/
+
+Универсальный интерфейс для синхронизации изображений/видео на разных устройствах | https://habrahabr.ru/post/157021/
+
+Технологии трекинга и сканирования с помощью обычной веб-камеры | https://habrahabr.ru/post/156821/
+
+Гига-фотография Млечного Пути в разрешении 108199x81503 или очередная история «xyz хватит всем» | https://habrahabr.ru/post/156427/
+
+Активные модели внешнего вида | https://habrahabr.ru/post/155759/
+
+Распознавание плоских объектов OpenCV 2.4 | https://habrahabr.ru/post/155651/
+
+Графический формат JNG — чем полезен, как устроен, чем сконвертить, посмотреть и загрузить | https://habrahabr.ru/post/155547/
+
+Простой способ передачи информации через видеосигнал | https://habrahabr.ru/post/155061/
+
+Фильтрация ложных соответствий между изображениями при помощи динамического графа соответствий | https://habrahabr.ru/post/154975/
+
+Щелевая съёмка: сжатие времени по горизонтали | https://habrahabr.ru/post/154911/
+
+Искусство подделки фотографий до цифровой эпохи | https://habrahabr.ru/post/154721/
+
+Нейросеть Google приступила к работе | https://habrahabr.ru/post/153945/
+
+Оптическое распознавание символов в Linux | https://habrahabr.ru/post/153617/
+
+Как мы корректировали фото с Curiosity, чтобы узнать, какого же цвета Марс | https://habrahabr.ru/post/153435/
+
+Автоматический ввод капчи – теория и практика покорения Интернет | https://habrahabr.ru/post/153413/
+
+Техподдержка Apple: фиолетовые блики на снимках iPhone 5 — это нормально, держите камеру правильно | https://habrahabr.ru/post/153155/
+
+Оператор Local Binary Patterns в задаче классификации текстур | https://habrahabr.ru/post/153109/
+
+Восстановление расфокусированных и смазанных изображений. Повышаем качество | https://habrahabr.ru/post/152885/
+
+Алгоритм Particle Filter в компьютерном зрении: стереовидение | https://habrahabr.ru/post/152553/
+
+Как я с камерами воевал, или ГМТ в неумелых руках | https://habrahabr.ru/post/152437/
+
+В MIT разработали систему построения карт в реальном времени для спасателей | https://habrahabr.ru/post/152337/
+
+Используем JPEG с прозрачностью | https://habrahabr.ru/post/152225/
+
+Exactmouse — точная мышь + цвет с экрана | https://habrahabr.ru/post/152181/
+
+Компьютерное зрение с использованием человеческого мозга | https://habrahabr.ru/post/151936/
+
+Комикс Xkcd на 13 гигапикселов | https://habrahabr.ru/post/151862/
+
+А вот робот-турникет, который узнаёт вас в лицо | https://habrahabr.ru/company/croc/blog/151680/
+
+Новая версия Adobe Photoshop не будет работать в среде Windows XP | https://habrahabr.ru/post/151597/
+
+В новый микроскоп IBM видно межатомные связи в молекуле | https://habrahabr.ru/company/ibm/blog/151574/
+
+GIF-сокеты. Коммуникации в реальном времени через анимированный GIF | https://habrahabr.ru/post/151538/
+
+Модель освещения для двумерных хоррор-игр | https://habrahabr.ru/post/151514/
+
+Быстрое размытие по Гауссу | https://habrahabr.ru/post/151157/
+
+Канадские фермеры создали самый большой в мире QR-код | https://habrahabr.ru/post/151350/
+
+В скриншотах игры WoW обнаружены цифровые водяные знаки (userID, time, realm) | https://habrahabr.ru/post/151297/
+
+Слежение за пальцами руки с Microsoft Kinect | https://habrahabr.ru/post/151258/
+
+ФБР рассказало о новой системе распознавания лиц | https://habrahabr.ru/post/151206/
+
+Размытие изображения фильтром Kuwahara | https://habrahabr.ru/post/151112/
+
+Восстановление неравномерно освещенных изображений | https://habrahabr.ru/post/150767/
+
+Свободный редактор GIMP — теперь нативное приложение для Mac OS X | https://habrahabr.ru/post/150580/
+
+Плоская линза создаёт идеальное изображение | https://habrahabr.ru/post/150333/
+
+Оптимизация алгоритма проверки условия Делоне через уравнение описанной окружности и его применение | https://habrahabr.ru/post/149911/
+
+True-Color GIF | https://habrahabr.ru/post/149728/
+
+Японцы разработали новый метод трехмерного сканирования объектов | https://habrahabr.ru/post/149675/
+
+Компьютерное зрение на Java для Android. Обзор библиотеки BoofCV | https://habrahabr.ru/post/149607/
+
+Полноцветная печать с разрешением 100 000 DPI на дифракционном пределе | https://habrahabr.ru/post/149489/
+
+Curiosity провёл первый уикенд на Марсе за обновлением софта | https://habrahabr.ru/post/149476/
+
+Захват изображений с веб-камеры через QCamera | https://habrahabr.ru/post/148775/
+
+Программный захват с вебкамеры | https://habrahabr.ru/post/148692/
+
+Как работает Lytro, или ещё один обзор | https://habrahabr.ru/post/148497/
+
+Qt + OpenCV. Runtime и Widget для CvCapture (устройства видеозахвата) | https://habrahabr.ru/post/148467/
+
+Nokia готовит «нечто удивительное» — смартфоны с постфокусными камерами? | https://habrahabr.ru/post/148381/
+
+Генетический алгоритм для генерации лиц | https://habrahabr.ru/post/148283/
+
+Фото после каждого коммита (Win) | https://habrahabr.ru/post/147882/
+
+Восстановление расфокусированных и смазанных изображений. Практика | https://habrahabr.ru/post/147828/
+
+Фабрика картинок — как оно работает? Часть 1 | https://habrahabr.ru/post/147829/
+
+Super-resolution из единственной фотографии | https://habrahabr.ru/post/147807/
+
+CCV: современная библиотека компьютерного зрения | https://habrahabr.ru/post/147482/
+
+Фотография атомной тени | https://habrahabr.ru/post/147428/
+
+Просмотр RAW-файлов средствами Windows | https://habrahabr.ru/post/147193/
+
+JPEG сжатие картинки с альфа-каналом или SVG masks | https://habrahabr.ru/post/146804/
+
+Современные аналоговые компьютеры: есть будущее? | https://habrahabr.ru/post/146680/
+
+Краткая история проекта OpenCV | https://habrahabr.ru/company/intel/blog/146434/
+
+Фотографируемся после каждого коммита (Linux, OSX) | https://habrahabr.ru/post/146418/
+
+Формирование высокоуровневых признаков с помощью широкомасштабного эксперимента по обучению без учителя | https://habrahabr.ru/post/146077/
+
+Krakako — плагин для Adobe Photoshop | https://habrahabr.ru/post/145994/
+
+Четверть века исполнилось формату GIF | https://habrahabr.ru/post/145906/
+
+Японцы разработали виртуальных аватаров | https://habrahabr.ru/post/145853/
+
+Телеприставка Intel с распознаванием лиц | https://habrahabr.ru/post/145594/
+
+Применение SURF для создания маркера дополненной реальности | https://habrahabr.ru/post/144845/
+
+Триангуляция против эффекта Доплера: битва технологий на футбольном поле | https://habrahabr.ru/post/144723/
+
+Как работает приложение InstaCRT? | https://habrahabr.ru/post/144612/
+
+Продемонстрированы возможности камеры Project Glass от Google | https://habrahabr.ru/post/144593/
+
+Реализации прогрессивной загрузки изображений | https://habrahabr.ru/post/144402/
+
+Подавление шумов как задача диффузии | https://habrahabr.ru/post/144288/
+
+Жестовый контроллер Leap Motion — новое слово в распознавании жестов | https://habrahabr.ru/post/144231/
+
+121-мегапиксельный снимок Земли | https://habrahabr.ru/post/143805/
+
+Adobe разрешила пользователям старых версий Creative Suite не платить за патчи безопасности | https://habrahabr.ru/post/143752/
+
+Кластеризация дубликатов в Яндекс.Картинках | https://habrahabr.ru/post/143667/
+
+Песочница с дополненной реальностью из Калифорнийского университета | https://habrahabr.ru/post/143434/
+
+Google открыл ключевую технологию Street View | https://habrahabr.ru/post/143205/
+
+Плотностный алгоритм кластеризации пространственных данных с присутствием шума — DBSCAN | https://habrahabr.ru/post/143151/
+
+Технология построения 3D-моделей объектов по набору изображений | https://habrahabr.ru/post/143094/
+
+Сервис Flickr подвергся значительным изменениям | https://habrahabr.ru/post/142863/
+
+Матричные фильтры обработки изображений | https://habrahabr.ru/post/142818/
+
+Пишем свой Core Image Filter | https://habrahabr.ru/post/142697/
+
+Опубликованы цены на «облачный» Photoshop | https://habrahabr.ru/post/142671/
+
+Google Earth добавляет снимки с воздушных шаров | https://habrahabr.ru/post/142348/
+
+Основы настройки алгоритмов непропорционального масштабирования в Web-to-Print | https://habrahabr.ru/company/BrandMaker/blog/141529/
+
+Рендеринг наоборот. Преобразование Хафа на GPU | https://habrahabr.ru/post/141438/
+
+Джеймс Кэмерон отредактировал «Титаник 3D» после того, как астрофизик указал на ошибку | https://habrahabr.ru/post/141274/
+
+Face.com API определяет возраст по фотографии | https://habrahabr.ru/post/141117/
+
+Простой скринсейвер с использованием библиотеки CImg, C++ | https://habrahabr.ru/post/141011/
+
+Проблема с конвертированием eps-файла в векторный формат из GSView под Windows (x64) | https://habrahabr.ru/post/140992/
+
+Поможем человеку сравнить картинки, или о Тестировании Локализации приложения | https://habrahabr.ru/post/140971/
+
+Краткое описание библиотеки CImg | https://habrahabr.ru/post/140935/
+
+Сверхбыстрая камера позволяет заглянуть за угол | https://habrahabr.ru/post/140657/
+
+Hitachi Kokusai Electric разработала новую систему распознавания лиц | https://habrahabr.ru/post/140604/
+
+Photoshop CS6 Beta | https://habrahabr.ru/post/140501/
+
+Создаем движущиеся картинки с помощью Processing | https://habrahabr.ru/post/140411/
+
+Kinect for Windows помогает подбирать одежду | https://habrahabr.ru/post/140165/
+
+Tilt-Shift фотографии своими руками | https://habrahabr.ru/post/140135/
+
+В Кембридже разработали технологию удаления тонера с листа бумаги | https://habrahabr.ru/post/140115/
+
+Факторный анализ вектора критериев в задачах распознавания образов | https://habrahabr.ru/post/139899/
+
+Масштабирование печатных макетов в три клика | https://habrahabr.ru/company/BrandMaker/blog/140007/
+
+Быстрое сжатие изображений по алгоритму JPEG на CUDA | https://habrahabr.ru/post/139970/
+
+Android SDK: боремся с ограничением размера памяти для картинок | https://habrahabr.ru/post/139717/
+
+Идентификация расы человека | https://habrahabr.ru/post/139745/
+
+«Движущиеся фото» от Microsoft Research | https://habrahabr.ru/post/139556/
+
+Способы персонализации директ-мейла | https://habrahabr.ru/company/BrandMaker/blog/139486/
+
+Реализация RGB-алгоритма изменения контраста изображения | https://habrahabr.ru/post/139428/
+
+Анализ данных аэрофотосъемки | https://habrahabr.ru/post/139408/
+
+Синхронная и асинхронная загрузка изображения из сети с последующей обработкой | https://habrahabr.ru/post/139265/
+
+Pixelapse — система контроля версий для дизайнеров | https://habrahabr.ru/post/138685/
+
+Пиксельные искажения с билинейной фильтрацией в HTML5 canvas | https://habrahabr.ru/post/138668/
+
+Новая технология позволяет убирать случайных «попутчиков» с фотографии | https://habrahabr.ru/post/138520/
+
+Программа KLIK: распознавание лиц под iOS (бесплатно) | https://habrahabr.ru/post/138506/
+
+Программа Remove убирает лишних людей с фотографии | https://habrahabr.ru/post/138361/
+
+Artensoft Tilt Shift Generator создает эффект миниатюры в фотографии | https://habrahabr.ru/post/138210/
+
+Как роботы видят мир? | https://habrahabr.ru/post/137973/
+
+Алгоритм ImageZero (IZ): быстрое сжатие без потери качества | https://habrahabr.ru/post/137624/
+
+Context Free: язык для генерации изображений | https://habrahabr.ru/post/137264/
+
+Восстановление расфокусированных и смазанных изображений | https://habrahabr.ru/post/136853/
+
+Прототип Lane Departure Warning или как напомнить водителю о том, что жить ему осталось не очень долго | https://habrahabr.ru/post/136294/
+
+Детектирование эллиптических частиц на микрофотографии. Новый алгоритм поиска эллипсов на изображении | https://habrahabr.ru/post/135332/
+
+Viola Jones на собственной шкуре, часть 1. Настройка проекта под OpenCV | https://habrahabr.ru/post/135244/
+
+Дисплей объемного изображения с механической разверткой на основе OLED матриц | https://habrahabr.ru/post/135158/
+
+Facebook улучшил алгоритмы машинного обучения, пользователи напуганы | https://habrahabr.ru/post/135048/
+
+Сборка OpenCV с поддержкой изображений с широким динамическим диапазоном формата EXR | https://habrahabr.ru/post/134855/
+
+Новая технология позволяет быстро встраивать новые объекты в изображения | https://habrahabr.ru/post/134508/
+
+Пять научных открытий, сделанных с помощью Google Earth | https://habrahabr.ru/post/134393/
+
+Применение Octave для вычисления центра вращения звездного поля | https://habrahabr.ru/post/134352/
+
+Побеждаем «эффект домино» | https://habrahabr.ru/company/BrandMaker/blog/134292/
+
+Алгоритм детектирования теней на видеоизображении | https://habrahabr.ru/post/134197/
+
+Результаты конкурса по восстановлению документов после шредера | https://habrahabr.ru/post/134047/
+
+Фокусы обработки фотографии: HDR | https://habrahabr.ru/post/133890/
+
+Исследование рынка систем распознавания эмоций | https://habrahabr.ru/post/133686/
+
+Панорамная головка. Что выбрать: готовые решение или самодельный вариант | https://habrahabr.ru/post/133200/
+
+Решение задачи «Яндекс интернет математика — 2011». Определение визуальной схожести изображений | https://habrahabr.ru/post/132555/
+
+Фото и видеофайлы в домашней коллекции — обработка и хранение | https://habrahabr.ru/post/132492/
+
+Швейцарские ученые создали компьютерную систему, отслеживающую ход спортивных матчей | https://habrahabr.ru/post/132456/
+
+Самая дорогая в мире фотография | https://habrahabr.ru/post/132447/
+
+Восстановление документов после шредера (приз $50 000) | https://habrahabr.ru/post/131474/
+
+Боремся с цветопередачей фотографий в интернете | https://habrahabr.ru/post/130527/
+
+Панорамная камера-мяч даёт вид вокруг на 360° | https://habrahabr.ru/post/130514/
+
+PNG — not GIF! | https://habrahabr.ru/post/130472/
+
+Реалистичный авиасимулятор с обзором в 360 градусов | https://habrahabr.ru/post/130383/
+
+Основы стереозрения | https://habrahabr.ru/post/130300/
+
+Исправление смазанных фотографий в новой версии Photoshop | https://habrahabr.ru/post/130198/
+
+Математическая модель работы автофокуса в глазу человека | https://habrahabr.ru/post/130181/
+
+Бинаризация (практика часть ?) | https://habrahabr.ru/post/129898/
+
+Как дуэт блогеров меняет индустрию модных фотографий анимированными синемаграфами | https://habrahabr.ru/post/129838/
+
+Папоротники как метод распознавания образов | https://habrahabr.ru/post/129685/
+
+Рендеринг искусственных объектов на фотографии | https://habrahabr.ru/post/129568/
+
+The Foundry Nuke. Введение | https://habrahabr.ru/post/129437/
+
+Марковские сети (MRF) на примере «умной» сегментации | https://habrahabr.ru/post/129070/
+
+Zoomify: В поисках целой картинки | https://habrahabr.ru/post/129106/
+
+Сегментация изображения | https://habrahabr.ru/post/128768/
+
+Точное выделение контуров на изображениях | https://habrahabr.ru/post/128803/
+
+Методы нахождения границ изображения | https://habrahabr.ru/post/128753/
+
+Повышение четкости изображений на основе частотной фильтрации в Matlab | https://habrahabr.ru/post/128541/
+
+Как NASA обрабатывает изображения, полученные телескопом Хаббл — видео | https://habrahabr.ru/post/126399/
+
+Поиск по изображениям — гугл и не только | https://habrahabr.ru/post/126136/
+
+Беспорядки в Англии и автоматическое распознавание лиц | https://habrahabr.ru/post/126087/
+
+DARPA создает систему анализа изображений | https://habrahabr.ru/post/125573/
+
+Как современные кодеки изображений жмут звук. JPEG2000 vs MP3 | https://habrahabr.ru/post/125528/
+
+В Windows 7 и Vista появилась поддержка RAW-файлов от 120+ камер | https://habrahabr.ru/post/125072/
+
+Пакетная обработка изображений в Picasa с помощью ImageMagick | https://habrahabr.ru/post/125063/
+
+Алгоритм морфологического сглаживания MLAA для CPU | https://habrahabr.ru/post/124913/
+
+Измерение деформации конструкций методом фотограмметрии | https://habrahabr.ru/post/123935/
+
+Система учета на базе OCR системы | https://habrahabr.ru/post/123395/
+
+Размышления о восстановлении испорченного изображения | https://habrahabr.ru/post/122607/
+
+Фотографии без фокуса | https://habrahabr.ru/post/122490/
+
+Алгоритм быстрого нахождения похожих изображений | https://habrahabr.ru/post/122372/
+
+Подсчет объектов на бинарном изображении. Часть 2 | https://habrahabr.ru/post/119706/
+
+«Выглядит похоже». Как работает перцептивный хэш | https://habrahabr.ru/post/120562/
+
+Восстановление изображений при помощи нейросетей | https://habrahabr.ru/post/120473/
+
+3D иллюзии | https://habrahabr.ru/post/120384/
+
+Новый алгоритм для депикселизации графики | https://habrahabr.ru/post/120324/
+
+Обработка ИК-снимков выявила ещё 17 пирамид в Египте | https://habrahabr.ru/post/119980/
+
+Лаборатория при МГУ решает главную проблему России | https://habrahabr.ru/post/119945/
+
+Быстрая маркировка изображений с использованием внешних контуров | https://habrahabr.ru/post/119461/
+
+Подсчет объектов на бинарном изображении. Часть 1 | https://habrahabr.ru/post/119244/
+
+Захват видео с сетевых камер, часть 2 | https://habrahabr.ru/post/117735/
+
+Сравнение изображений и генерация картинки отличий на Ruby | https://habrahabr.ru/post/117789/
+
+Захват видео с сетевых камер, часть 1 | https://habrahabr.ru/post/115808/
+
+Алгоритмы заливки изображений, популярно и с видео | https://habrahabr.ru/post/116374/
+
+Распознавание некоторых современных CAPTCHA | https://habrahabr.ru/post/116222/
+
+Измерение расстояния до объекта и его скорости | https://habrahabr.ru/post/115661/
+
+Комментарий к алгоритму выделения контуров Канни | https://habrahabr.ru/post/114766/
+
+Детектор границ Канни | https://habrahabr.ru/post/114589/
+
+Обобщение медианного фильтра | https://habrahabr.ru/post/114551/
+
+О градиенте изображения | https://habrahabr.ru/post/114489/
+
+Алгоритмы выделения контуров изображений | https://habrahabr.ru/post/114452/
+
+Детектирование округлостей на изображении средствами MATLAB | https://habrahabr.ru/post/114335/
+
+Детектирование округлостей на изображении (на примере микрофотографий) | https://habrahabr.ru/post/114249/
+
+Сегментация изображений методом квантилей | https://habrahabr.ru/post/114153/
+
+Обнаружение объектов методом Оцу | https://habrahabr.ru/post/112079/
+
+GIMP Script-fu: быстрое изучение и написание простых скриптов на Scheme (+ пакетная обработка бесплатно) | https://habrahabr.ru/post/111387/
+
+Классификация и выделение объектов на изображениях | https://habrahabr.ru/post/108212/
+
+Декодирование JPEG для чайников | https://habrahabr.ru/post/102521/
+
+Конвертируем .bmp в .png, с помощью Python и PIL | https://habrahabr.ru/post/102463/
+
+Распознавание дорожных знаков (OpenCV) | https://habrahabr.ru/post/61048/
+

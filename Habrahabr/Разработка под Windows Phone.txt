@@ -1,0 +1,678 @@
+Разработка менеджера тем в UWP-приложении | https://habrahabr.ru/post/336054/
+
+Xamarin.Forms для WPF и UWP разработчиков | https://habrahabr.ru/post/331308/
+
+История разработки и жизни одной маленькой игры. Релиз | https://habrahabr.ru/post/331458/
+
+История разработки и жизни одной маленькой игры. Начало | https://habrahabr.ru/post/330790/
+
+Поддержка SVG и режим CompactOverlay в приложениях UWP | https://habrahabr.ru/post/327644/
+
+Аутентификация и идентификация по голосу с помощью когнитивных сервисов Microsoft | https://habrahabr.ru/post/323312/
+
+LocoLaser: переводим приложения в Google Sheets | https://habrahabr.ru/post/323318/
+
+Приложение, которое мы сделали для РЖД | https://habrahabr.ru/company/iteco/blog/323404/
+
+WCF REST сервисы и UWP приложения | https://habrahabr.ru/post/322202/
+
+Telerik UI для UWP стал Open Source | https://habrahabr.ru/post/321466/
+
+Обзор кросс-платформенных решений для разработки мобильных приложений | https://habrahabr.ru/post/319348/
+
+Видеонаблюдение на Windows Phone 10 | https://habrahabr.ru/company/ivideon/blog/318818/
+
+Тестирование UWP приложений с помощью Appium | https://habrahabr.ru/post/316858/
+
+Используем Entity Framework Core с приложением универсальной платформы Windows | https://habrahabr.ru/post/310516/
+
+Работаем с Azure IoT устройствами из приложений UWP | https://habrahabr.ru/post/303866/
+
+Дистрибуция неопубликованных в Store приложений Windows 10 | https://habrahabr.ru/post/308718/
+
+Использование графических эффектов в приложениях UWP с помощью Win2D | https://habrahabr.ru/post/308310/
+
+Распознавание штрих и QR кодов в приложениях UWP | https://habrahabr.ru/post/307732/
+
+Представляем новый UWP Community Toolkit | https://habrahabr.ru/post/308020/
+
+Создаем мобильную игру на Monogame, решая типичные проблемы начинающего разработчика | https://habrahabr.ru/post/307454/
+
+Как легко работать с OneDrive из приложений UWP | https://habrahabr.ru/post/307130/
+
+Работа с Facebook API из приложений UWP | https://habrahabr.ru/post/307026/
+
+Простой, естественный вопрос: какие бывают библиотеки UWP? | https://habrahabr.ru/post/305674/
+
+Intel Edison, Windows Phone и Microsoft Azure: облачный союз пульта и светодиода | https://habrahabr.ru/company/intel/blog/304506/
+
+3 греха мобильной разработки на Mobius 2016 | https://habrahabr.ru/company/jugru/blog/302400/
+
+Мобильная платформа 1С: Предприятия в действии | https://habrahabr.ru/company/1c/blog/302396/
+
+Qt Quick Controls 2 — обещанного три года ждут | https://habrahabr.ru/post/282505/
+
+Небольшое сравнение производительности UWP/WinRT API языковых проекций | https://habrahabr.ru/post/280722/
+
+Новшества C# 7 | https://habrahabr.ru/post/280978/
+
+Диаграммы и другие полезности для UWP приложений | https://habrahabr.ru/post/278805/
+
+Приглашаем всех на первый хакатон в истории Ставропольского края | https://habrahabr.ru/company/reactos/blog/279139/
+
+Доступ к данным MySQL из приложения UWP без использования сервисов | https://habrahabr.ru/post/277655/
+
+Приложение Windows 10 с данными в облаке с помощью Azure Mobile Apps | https://habrahabr.ru/post/277567/
+
+Не упусти шанс попасть на //Build: разработай или обнови UWP приложение и участвуй в Race to Build 2016 | https://habrahabr.ru/company/microsoft/blog/277617/
+
+Windows Phone как экспериментальная платформа | https://habrahabr.ru/company/badoo/blog/276827/
+
+Вышла новая версия Visual Studio Tools for Unity | https://habrahabr.ru/company/microsoft/blog/276775/
+
+Распознаем эмоции в приложении UWP с помощью API Project Oxford | https://habrahabr.ru/post/276411/
+
+История одного прогресс-бара | https://habrahabr.ru/company/2gis/blog/275489/
+
+Полезные дополнения к ReSharper | https://habrahabr.ru/post/274327/
+
+Векторизация, небольшой баг и семистильный костыль | https://habrahabr.ru/post/274797/
+
+Windows 10 Digest. Ноябрь-декабрь 2015 | https://habrahabr.ru/company/microsoft/blog/273339/
+
+Обновление Windows 10 SDK — сборка 10586 | https://habrahabr.ru/company/microsoft/blog/273209/
+
+Анимированное изменение ориентации экрана в приложении Windows Phone | https://habrahabr.ru/post/272875/
+
+Добавление jump lists в приложение UWP | https://habrahabr.ru/post/272613/
+
+Конструируй свою реальность: хакатон по виртуальной реальности пройдет 19-20 декабря 2015 г. в Гиперкубе | https://habrahabr.ru/company/microsoft/blog/272289/
+
+Смена фона рабочего стола и экрана блокировки из C#/XAML приложения UWP | https://habrahabr.ru/post/271943/
+
+Бесплатные вебинары на Неделе стартапов – подключайтесь | https://habrahabr.ru/company/microsoft/blog/271491/
+
+Winium: теперь для Windows Phone | https://habrahabr.ru/company/2gis/blog/271217/
+
+Windows 10 по 10. Выпуск #4. Придание финального лоска UWP-приложению | https://habrahabr.ru/company/microsoft/blog/270303/
+
+10-17 ноября приглашаем принять участие в акции для мобильных разработчиков и пользователей – Russian AppFest | https://habrahabr.ru/company/microsoft/blog/269797/
+
+Application Lifecycle в приложениях Windows 8.1 и UWP | https://habrahabr.ru/post/269399/
+
+28 октября 10:00 (MSK) присоединяйтесь к онлайн-трансляции Windows Camp //Labs | https://habrahabr.ru/company/microsoft/blog/269551/
+
+3 способа задать разметку для различных устройств в C#/XAML приложениях Windows UWP | https://habrahabr.ru/post/268695/
+
+Портируем C#/XAML приложение Windows 8.1 на UWP | https://habrahabr.ru/post/268017/
+
+Windows 10 по 10. Выпуск #3. Использование Кортаны для взаимодействия с пользователями | https://habrahabr.ru/company/microsoft/blog/267987/
+
+Летающие панельки от нас улетели… О навигации и кнопке «Назад» в C#/XAML приложениях Windows 10 | https://habrahabr.ru/post/267789/
+
+История света и тени в одной маленькой, но гордой игре | https://habrahabr.ru/post/260691/
+
+Windows 10 для разработчиков v2 | https://habrahabr.ru/company/microsoft/blog/267397/
+
+Приложение на прокачку. Как ускорить загрузку C#/XAML приложения Windows Store | https://habrahabr.ru/post/267131/
+
+Компилируемые привязки данных в приложениях Windows 10 | https://habrahabr.ru/post/265993/
+
+Сенсоры контекста в Windows 10 | https://habrahabr.ru/company/microsoft/blog/265963/
+
+.NET Native – что это означает для разработчиков под универсальную Windows-платформу (UWP)? | https://habrahabr.ru/company/microsoft/blog/265889/
+
+С Днём Знаний! Конференции, курсы, документация и другие ресурсы для разработчиков от Microsoft | https://habrahabr.ru/company/microsoft/blog/265857/
+
+Windows 10 по 10. Выпуск #2. Взаимодействие с пользователями через живые плитки и уведомления | https://habrahabr.ru/company/microsoft/blog/265777/
+
+Windows 10 по 10. Выпуск #1. Как повысить заметность и частоту установок | https://habrahabr.ru/company/microsoft/blog/265445/
+
+Работа с базой данных SQLite с помощью обертки SQLitePCL | https://habrahabr.ru/post/265303/
+
+Триггеры и фоновые задания в приложениях Windows Store | https://habrahabr.ru/post/264199/
+
+История одного клона | https://habrahabr.ru/post/263945/
+
+Добавляем гамбургер в меню приложения Windows 10 | https://habrahabr.ru/post/263363/
+
+Началась регистрация на MBLTdev 15 — международную конференцию мобильных разработчиков | https://habrahabr.ru/company/e-Legion/blog/263381/
+
+Адаптация под различные экраны приложений Windows Store | https://habrahabr.ru/post/262747/
+
+Руководство по переносу приложений на базе Marmalade на платформу Windows 10 | https://habrahabr.ru/company/microsoft/blog/262665/
+
+Истории о разработчиках: Lazybit Team, команда-победитель российского финала Imagine Cup 2015 | https://habrahabr.ru/company/microsoftlumia/blog/260653/
+
+Новый 2ГИС под Windows Phone: архитектура и стек технологий | https://habrahabr.ru/company/2gis/blog/259335/
+
+Почему Windows Phone стала лучшей платформой для запуска игры «Крутящий момент» | https://habrahabr.ru/company/microsoftlumia/blog/258575/
+
+Делаем приложение push'истым | https://habrahabr.ru/post/257209/
+
+Истории о разработчиках: российская Brainy Studio, победитель Imagine Cup | https://habrahabr.ru/company/microsoftlumia/blog/255501/
+
+Поговори со мной, Windows Phone | https://habrahabr.ru/post/254865/
+
+Анализ обратной связи по техническим лекциям | https://habrahabr.ru/company/jugru/blog/254699/
+
+Windows 10 для разработчиков | https://habrahabr.ru/company/microsoft/blog/254691/
+
+Создание универсального веб-приложения сайта Habrahabr.ru при помощи Web App Template | https://habrahabr.ru/company/microsoft/blog/254507/
+
+Microsoft запустила новую мобильную ОС — MS-DOS Mobile | https://habrahabr.ru/post/254607/
+
+SQLite. Готовимся к Windows 10 (Universal App Platform) | https://habrahabr.ru/post/254313/
+
+Расширение функциональности элементов управления Windows с помощью AttachedProperty | https://habrahabr.ru/post/254305/
+
+Project Spartan уже почти здесь | https://habrahabr.ru/post/254041/
+
+Превью инструментов и SDK для разработки приложений под Windows 10 | https://habrahabr.ru/company/microsoft/blog/253821/
+
+Автоматическое выделение ссылок в универсальных приложениях Windows | https://habrahabr.ru/company/edusty/blog/253635/
+
+Новая программа лояльности для разработчиков от Microsoft | https://habrahabr.ru/company/microsoft/blog/253511/
+
+Виртуальная реальность на Windows Phone с помощью Unity3d | https://habrahabr.ru/company/microsoft/blog/253489/
+
+Online-трансляция открытия технологической экспедиции Microsoft Developer Tour | https://habrahabr.ru/company/microsoft/blog/253305/
+
+Технологическая экспедиция Microsoft начнется 18 марта в Санкт-Петербурге | https://habrahabr.ru/company/payonline/blog/253283/
+
+Создания Windows Runtime компонента на Visual C++ | https://habrahabr.ru/post/252759/
+
+Особенности работы с файлами в приложениях на разных мобильных платформах | https://habrahabr.ru/company/edusty/blog/252601/
+
+Звуковые эффекты в приложениях Windows Phone 8 | https://habrahabr.ru/post/252829/
+
+Мобильное приложение для губернатора и агента по продажам | https://habrahabr.ru/company/eos/blog/252271/
+
+Конференция Mobius 2015 по мобильной разработке: анонс докладов | https://habrahabr.ru/company/jugru/blog/252273/
+
+3-2-1-Поехали! Microsoft Developer Tour по России, Беларуси и Казахстану | https://habrahabr.ru/company/microsoft/blog/252171/
+
+История Imagine Cup 2014 глазами Brainy Studio | https://habrahabr.ru/company/microsoft/blog/252147/
+
+Возрастной рейтинг игр магазина Windows понятным языком | https://habrahabr.ru/post/248809/
+
+Application Insights – собираем телеметрию Windows Phone и Windows приложений | https://habrahabr.ru/company/microsoft/blog/250501/
+
+Разработать мобильное приложение и выиграть — интервью с главой департамента мобильной разработки Александром Богдановичем | https://habrahabr.ru/company/ximad/blog/250163/
+
+«Трудности» перевода приложений для Windows Store | https://habrahabr.ru/post/249543/
+
+Анонс конференции Mobius 2015: доклады по iOS, Android и Mobile Security | https://habrahabr.ru/company/jugru/blog/250081/
+
+Правильное оперирование XAML-ресурсами | https://habrahabr.ru/post/249819/
+
+Зачем мы сделали приложение Билайн под Windows Phone и что в этой ОС есть такого, чего нет в iOS и Android | https://habrahabr.ru/company/beeline/blog/249777/
+
+Внимание, конкурс идей приложений для Microsoft и Mojio | https://habrahabr.ru/company/microsoftlumia/blog/249005/
+
+Как получить удобный доступ к XAML-ресурсам из Code-Behind | https://habrahabr.ru/post/249105/
+
+WRL и BindableAttribute | https://habrahabr.ru/post/248787/
+
+MugenMvvmToolkit — кроссплатформенный MVVM фреймворк | https://habrahabr.ru/post/236745/
+
+Топ игр и приложений 2014 года в российском Магазине Windows Phone | https://habrahabr.ru/company/microsoftlumia/blog/247119/
+
+С Новым годом! | https://habrahabr.ru/company/microsoft/blog/246967/
+
+OpenGL ES 1.1 в Windows 8 и Windows Phone 8.1 | https://habrahabr.ru/post/246911/
+
+Знакомьтесь, сервис HockeyApp – ваш помощник для анализа работы мобильных приложений | https://habrahabr.ru/company/microsoft/blog/246169/
+
+Бета нового 2ГИС под Windows Phone (офлайн!) | https://habrahabr.ru/company/2gis/blog/246057/
+
+Создание универсальных веб-приложений при помощи Web App Template | https://habrahabr.ru/company/microsoft/blog/245945/
+
+Обзор возможностей App Annie для Windows и Windows Phone разработчиков | https://habrahabr.ru/company/microsoft/blog/245845/
+
+Windows Ad Mediator – усовершенствованный способ монетизации приложений на Windows Phone | https://habrahabr.ru/company/microsoft/blog/245573/
+
+Встреча по кроссплатформенной разработке для Windows, iOS, Android – 18 декабря, Москва | https://habrahabr.ru/company/microsoft/blog/245157/
+
+Карьера разработчика в Финляндии: большое интервью с Михаилом Самариным | https://habrahabr.ru/company/jugru/blog/245061/
+
+WinJS + универсальные приложения. Изучаем навигацию | https://habrahabr.ru/company/microsoft/blog/243163/
+
+Использование сервиса AdDuplex для универсальных приложений | https://habrahabr.ru/company/microsoft/blog/244621/
+
+Обнови приложение и получи комплексный пакет продвижения | https://habrahabr.ru/company/microsoft/blog/244413/
+
+Интервью с Руди Хайном: девелопер бестселлеров делится секретами успеха своих приложений | https://habrahabr.ru/company/microsoftlumia/blog/244379/
+
+Как отправлять push-уведомления на Windows Universal app | https://habrahabr.ru/company/edusty/blog/243383/
+
+Локализация по кнопке «Build» | https://habrahabr.ru/post/243237/
+
+WinJS + универсальные приложения. Изучаем ListView | https://habrahabr.ru/company/microsoft/blog/242903/
+
+Встреча разработчиков игр для мобильных устройств, 27 ноября, Москва | https://habrahabr.ru/company/microsoft/blog/243221/
+
+О том, как память текла, а я не мог понять, почему | https://habrahabr.ru/post/242893/
+
+Установка библиотеки WinJS 3.0 | https://habrahabr.ru/company/microsoft/blog/241863/
+
+Капитан Америка vs VirtualSurfaceImageSource | https://habrahabr.ru/post/242311/
+
+Используем AngularJS в Windows Phone 8.1 приложениях | https://habrahabr.ru/company/microsoft/blog/242427/
+
+Статистика и аналитика для мобильного приложения: используем Flurry в Windows Phone 8 | https://habrahabr.ru/company/tinkoff/blog/240315/
+
+Инструментарий Lumia SensorCore SDK вышел из стадии бета-тестирования | https://habrahabr.ru/company/microsoftlumia/blog/240661/
+
+Монетизация Windows Phone приложения при помощи рекламы | https://habrahabr.ru/post/240311/
+
+WinJS 3.0 – релиз для всех платформ | https://habrahabr.ru/company/microsoft/blog/240333/
+
+Семинар для разработчиков заказных решений на Windows Phone 21 октября | https://habrahabr.ru/company/microsoft/blog/239937/
+
+Поделись историей успеха и выиграй годовую подписку MSDN! | https://habrahabr.ru/company/microsoft/blog/239615/
+
+Знакомимся с элементами управления библиотеки WinJS | https://habrahabr.ru/company/microsoft/blog/238709/
+
+Reactive Extensions: клиент для условного api со стратегией Cache-Aside & Refresh-Ahead | https://habrahabr.ru/post/237559/
+
+Lumia SensorCore SDK: новые возможности для разработки мобильных приложений. Часть 2: Создание приложения | https://habrahabr.ru/company/microsoft/blog/239027/
+
+Первый митап для мобильных разработчиков в Microsoft | https://habrahabr.ru/company/microsoft/blog/238941/
+
+Майкрософт и ФРИИ приглашают на серию студенческих хакатонов Imagine Cup | https://habrahabr.ru/company/microsoft/blog/238849/
+
+Lumia SensorCore SDK: новые возможности для разработки мобильных приложений. Часть 1: Обзор | https://habrahabr.ru/company/microsoft/blog/238761/
+
+Новый сервис от Fortumo.com для операторского биллинга покупок в Windows Phone и Windows приложениях | https://habrahabr.ru/company/microsoft/blog/237685/
+
+Использование SQLite в Windows и Windows Phone приложениях на JavaScript | https://habrahabr.ru/company/microsoft/blog/237643/
+
+WinJS + универсальные приложения. Изучаем FlipView | https://habrahabr.ru/company/microsoft/blog/237333/
+
+Ночной хакатон Games Coding Night на игромире | https://habrahabr.ru/company/microsoft/blog/237351/
+
+Windows Phone + WinJS. Изучаем Pivot | https://habrahabr.ru/company/microsoft/blog/236437/
+
+Работаем с уведомлениями в Windows Phone 8.1 | https://habrahabr.ru/company/microsoft/blog/234727/
+
+Советы по размещению приложений в странах, требующих возрастной оценки | https://habrahabr.ru/company/microsoft/blog/234565/
+
+App Studio – новая версия онлайн конструктора приложений от Microsoft | https://habrahabr.ru/company/microsoft/blog/233831/
+
+Истории о разработчиках: Trekkit Traveller | https://habrahabr.ru/company/microsoftlumia/blog/233879/
+
+Работа с SOAP сервисом из Windows Phone 8.1 приложения | https://habrahabr.ru/post/233799/
+
+Как я вышел на рынок мобильных игр, постоял и ушел. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/233487/
+
+Универсальная игра под Windows 8.1 RT и Windows Phone 8.1 | https://habrahabr.ru/post/233319/
+
+Семинар и мини-хакатон по обновлению приложений до Windows Phone 8.1 в офисе Microsoft | https://habrahabr.ru/company/microsoft/blog/233211/
+
+Дизайн-линч: проектирование приложений для WP с экспертом Дэйвом Кроуфордом | https://habrahabr.ru/company/microsoftlumia/blog/230835/
+
+Lumia в летнюю ночь: как создавалась фотоинсталляция на фестивале MSND | https://habrahabr.ru/company/microsoftlumia/blog/230373/
+
+Превращаем Windows Store приложение в универсальное | https://habrahabr.ru/company/microsoft/blog/230303/
+
+Как встроить в Windows и Windows Phone приложения механизм оценивания | https://habrahabr.ru/company/microsoft/blog/230169/
+
+Обновляем Windows Phone 8.0 приложение до Windows Phone 8.1(XAML) | https://habrahabr.ru/company/microsoft/blog/229931/
+
+Обновляем Windows Phone Silverlight 8.0 приложение до Windows Phone Silverlight 8.1 | https://habrahabr.ru/company/microsoft/blog/230015/
+
+WinJS на Windows Phone 8.1 | https://habrahabr.ru/company/microsoft/blog/229811/
+
+Новая Windows Phone 8.1. Что делать разработчику приложений? | https://habrahabr.ru/company/microsoft/blog/229727/
+
+Работа с данными в мобильных приложениях. Реализуем offline хранилище и синхронизацию данных используя Microsoft Azure и SQLite | https://habrahabr.ru/company/microsoft/blog/229041/
+
+Четыре совета от инди-разработчика игр: как добиться трех миллионов загрузок | https://habrahabr.ru/company/microsoft/blog/228907/
+
+Живые плитки Windows Phone | https://habrahabr.ru/company/infopulse/blog/228619/
+
+Новые Imaging SDK и SensorCore SDK для Lumia уже доступны для загрузки | https://habrahabr.ru/company/microsoftlumia/blog/227879/
+
+Портирование приложения Windows 8.1 на Windows Phone 8.0 с разбором проблем | https://habrahabr.ru/post/227197/
+
+Первый опыт разработки под Windows Phone: In-App Purchasing | https://habrahabr.ru/post/226777/
+
+Советы по сопровождению мобильного приложения для начинающего разработчика | https://habrahabr.ru/post/225459/
+
+Девайсы и плюшки для Unity-разработчиков под Windows и Windows Phone | https://habrahabr.ru/company/microsoft/blog/225125/
+
+Взлеты и падения Windows Phone: взгляд изнутри | https://habrahabr.ru/post/225061/
+
+4Blend HDR, путь к успеху: от победы в конкурсе Nokia Developer до популярности в «Магазине Windows Store» | https://habrahabr.ru/company/microsoftlumia/blog/223941/
+
+Imagine Cup 2014: путь к победе | https://habrahabr.ru/post/223403/
+
+Imagine Cup 2014 глазами C4L | https://habrahabr.ru/post/222739/
+
+Imagine Cup 2014, как это было или трехлетний путь к финалу | https://habrahabr.ru/post/221735/
+
+Imagine Cup 2014. Как это было | https://habrahabr.ru/post/221607/
+
+Использование Yandex MapKit совместно с элементами управления Pivot и Panorama | https://habrahabr.ru/post/221477/
+
+Разработка игры для Windows Phone 7.5-8.1 | https://habrahabr.ru/post/221275/
+
+MVVM Framework для Windows Phone своими руками. Часть 1 | https://habrahabr.ru/post/221077/
+
+Интеграция OneNote Services API в мобильные приложения | https://habrahabr.ru/post/220169/
+
+Представляем новые инструментарии для разработчиков Nokia Imaging SDK 1.2 BETA и SensorCore SDK | https://habrahabr.ru/company/microsoftlumia/blog/219929/
+
+Шаринг кода между WP, Win8. Часть 2 | https://habrahabr.ru/company/mailru/blog/219779/
+
+Безопасное использование HTTP заголовка IfModifiedSince в PCL библиотеках | https://habrahabr.ru/post/219809/
+
+7 советов по продвижению приложений для Windows Store | https://habrahabr.ru/company/microsoft/blog/219545/
+
+Про то, как получить грант 70 000€ на приложение Windows Phone | https://habrahabr.ru/company/microsoft/blog/219065/
+
+Qt теперь и на Windows Phone | https://habrahabr.ru/post/218419/
+
+Шаринг кода между платформами WP7, WP8, Win8. Основы | https://habrahabr.ru/company/mailru/blog/217691/
+
+Музыка для бабушки от внука-программиста | https://habrahabr.ru/post/217407/
+
+За кулисами MixRadio: от начала разработки до платформы Nokia X | https://habrahabr.ru/company/microsoftlumia/blog/215031/
+
+Представляем Nokia Imaging SDK 1.1 c поддержкой Windows 8.1 и Windows RT 8.1 | https://habrahabr.ru/company/microsoftlumia/blog/214363/
+
+WinPhone: пути к совершенству | https://habrahabr.ru/post/210778/
+
+Доступ к файловой системе из Portable Class Library (PCL) | https://habrahabr.ru/post/210666/
+
+Windows Phone — DataTemplateSelector | https://habrahabr.ru/post/208512/
+
+Новогодний подарок от Nokia | https://habrahabr.ru/post/207938/
+
+Использование Portable Class Libraries c поддержкой Windows Phone 7.5 в Visual Studio 2013 | https://habrahabr.ru/post/207690/
+
+Одновременная поддержка Windows Phone 7 и Windows Phone 8 | https://habrahabr.ru/company/e-Legion/blog/207500/
+
+Локализация ApplicationBar с помощью Binding | https://habrahabr.ru/post/206962/
+
+Портирование и локализация приложения на Windows Phone 8 | https://habrahabr.ru/post/206852/
+
+Nokia DVLUP приходит на Хабрахабр | https://habrahabr.ru/company/microsoftlumia/blog/205644/
+
+Работаем с Nokia Imaging SDK | https://habrahabr.ru/company/microsoftlumia/blog/204852/
+
+Участвуйте в European AppCup 2014 — конкурсе разработчиков приложений для Windows 8 и Windows Phone | https://habrahabr.ru/company/microsoft/blog/204734/
+
+Проектирование и дизайн приложений для Windows: смотрите онлайн сегодня в 10:00 (MSK) | https://habrahabr.ru/company/microsoft/blog/204612/
+
+Адаптация приложений Windows Phone для больших экранов | https://habrahabr.ru/company/mailru/blog/204036/
+
+Выпущены Яндекс.Навигатор и SpeechKit для Windows Phone | https://habrahabr.ru/company/microsoft/blog/203862/
+
+Конкурс: Telegram для Windows Phone — 3 млн. рублей в первом туре | https://habrahabr.ru/company/microsoft/blog/203582/
+
+Конкурс на создание мессенджера под Windows Phone | https://habrahabr.ru/post/203324/
+
+Обновления в Nokia Imaging SDK и Nokia Music API | https://habrahabr.ru/company/microsoftlumia/blog/203134/
+
+Управление питанием через Mikrotik+Windows Phone | https://habrahabr.ru/post/200668/
+
+Windows Phone 8: Создаем приложение. Матрица. Часть 3. MVVM | https://habrahabr.ru/post/201240/
+
+Smart Resize и другие победители Nokia Future / Capture | https://habrahabr.ru/company/microsoftlumia/blog/201574/
+
+Сегодня в 10:00 (MSK) смотрите онлайн-трансляцию «Разработка приложений с общим кодом для платформы Windows» | https://habrahabr.ru/company/microsoft/blog/201340/
+
+Веселее вместе: единая регистрация в магазины приложений Windows и Windows Phone | https://habrahabr.ru/company/microsoft/blog/201196/
+
+Corona SDK будет поддерживать Windows Phone 8 и Windows Store | https://habrahabr.ru/post/200086/
+
+Простая локализация названия приложений Windows Phone | https://habrahabr.ru/post/199498/
+
+Nokia запускает новую программу лояльности для разработчиков DVLUP | https://habrahabr.ru/company/microsoftlumia/blog/199038/
+
+Запуск игры под Windows Phone 8 | https://habrahabr.ru/post/198594/
+
+AppsMafia: Хакатон в Москве (9 – 10 ноября) | https://habrahabr.ru/company/microsoft/blog/198356/
+
+Анонсированно и доступно разработчикам 3-е обновление Windows Phone 8 | https://habrahabr.ru/company/microsoft/blog/197562/
+
+Контроль покрытия кода при unit-тестировании в Windows Phone | https://habrahabr.ru/post/196992/
+
+Commands in MVVM | https://habrahabr.ru/post/196960/
+
+Contact searcher для Windows Phone | https://habrahabr.ru/post/196324/
+
+Windows Phone 8: Создаем приложение. Матрица. Часть 2 | https://habrahabr.ru/post/195760/
+
+Как делать хорошие приложения (под Windows 8 и не только) | https://habrahabr.ru/company/microsoft/blog/196174/
+
+Через тернии в маркет | https://habrahabr.ru/post/195796/
+
+Windows Phone 8: Создаем приложение. Матрица. Часть 1 | https://habrahabr.ru/post/195422/
+
+Идеи для конкурса Nokia | https://habrahabr.ru/post/193720/
+
+В Windows Phone Store за $19 | https://habrahabr.ru/company/microsoft/blog/191754/
+
+Остался один день действия специального предложения на регистрацию в Windows Phone Store | https://habrahabr.ru/company/microsoft/blog/191398/
+
+Москва, 12 сентября, Windows Camp — приходи, будет интересно! | https://habrahabr.ru/company/microsoft/blog/190582/
+
+Интеграция дизайна с помощью Blend | https://habrahabr.ru/company/e-Legion/blog/190168/
+
+MVVM Navigation toolkit для Windows Store и Windows Phone 8 | https://habrahabr.ru/post/189988/
+
++1 миллиард загрузок из Windows Phone Store за полгода | https://habrahabr.ru/company/microsoft/blog/189256/
+
+Анонс вебинара. Разработка Windows Phone/.NET приложений на платформе «Backendless» | https://habrahabr.ru/company/backendless/blog/188310/
+
+Build 2013 для разработчиков под Windows Phone и дополнительные новости | https://habrahabr.ru/company/microsoft/blog/188334/
+
+Новые конкурсы для разработчиков на Windows Phone 8 | https://habrahabr.ru/company/microsoftlumia/blog/187466/
+
+Простейшая реализация кроссплатформенного мультиплеера на примере эволюции одной .NET игры. Часть вторая, более техническая | https://habrahabr.ru/post/187282/
+
+Новые Nokia Imaging SDK и графические приложения: подробности | https://habrahabr.ru/company/microsoftlumia/blog/187188/
+
+Простейшая реализации кросс-платформенного мультиплеера на примере эволюции одной .NET игры | https://habrahabr.ru/post/186486/
+
+Кроссплатформенное программирование под современные мобильные Windows-платформы | https://habrahabr.ru/company/mailru/blog/185218/
+
+Видеостена из двухсот Nokia | https://habrahabr.ru/company/microsoftlumia/blog/185194/
+
+Интеграция дизайна мобильных приложений. Часть 2: iOS, Windows Phone | https://habrahabr.ru/post/184654/
+
+Внедрение рекламы в приложение для Windows Phone 8 при помощи NAX | https://habrahabr.ru/company/microsoftlumia/blog/184194/
+
+Моя вариация на тему SegmentedControl в Windows Phone | https://habrahabr.ru/post/181348/
+
+Начало Windows Phone 8 Development: урок 4. Связь с сервисами и привязка к данным | https://habrahabr.ru/post/180341/
+
+Начало Windows Phone 8 Development: урок 2. Доступ к локальному хранилищу приложения | https://habrahabr.ru/post/180321/
+
+Начало Windows Phone 8 Development: урок 3. Навигация по страницам и передача параметров | https://habrahabr.ru/post/180335/
+
+Начало Windows Phone 8 Development: урок 1. Макет приложения и обработчик событий | https://habrahabr.ru/post/180301/
+
+Мобильный маркетинг и проектирование приложений на AppClub { build, monetize } #6 Kyiv | https://habrahabr.ru/company/devrainsolutions/blog/180041/
+
+Пишем свой Watermark TextBox и PasswordBox для Win8/RT, Windows Phone | https://habrahabr.ru/post/179605/
+
+Шаблон проекта с MVVM, локализацией и многим другим | https://habrahabr.ru/post/179435/
+
+Статистика по Windows Phone на базе Lomogram | https://habrahabr.ru/company/devrainsolutions/blog/179393/
+
+Каталог инструментов для разработки мобильных приложений | https://habrahabr.ru/post/178497/
+
+HttpClient для переносимых библиотек и Windows Phone | https://habrahabr.ru/post/178413/
+
+Async/await в Windows Phone 7.x и 8 | https://habrahabr.ru/post/178101/
+
+Windows Phone и непрерывная интеграция в TeamCity | https://habrahabr.ru/post/175661/
+
+Пятый раунд голосования конкурса Windows Phone Next App Star | https://habrahabr.ru/company/microsoft/blog/175149/
+
+Четвёртый раунд голосования конкурса Windows Phone Next App Star | https://habrahabr.ru/company/microsoft/blog/174941/
+
+Украинские законы в новом приложении ipLex для Windows Phone 8 | https://habrahabr.ru/company/iplexgroup/blog/174729/
+
+AppClub { build, monetize } #5 снова соберет мобильных экспертов и стартаперов | https://habrahabr.ru/company/devrainsolutions/blog/174303/
+
+Начался третий раунд голосования конкурса Windows Phone Next App Star | https://habrahabr.ru/company/microsoft/blog/174299/
+
+Как написать своё VoIP-приложение с работой в фоне под Windows Phone | https://habrahabr.ru/company/viber/blog/174287/
+
+2 российских финалиста конкурса Windows Phone Next App Star прошли во второй раунд! | https://habrahabr.ru/company/microsoft/blog/174177/
+
+Вопрос команде разработчиков Windows Phone SDK | https://habrahabr.ru/post/173865/
+
+3 российских финалиста конкурса Windows Phone Next App Star | https://habrahabr.ru/company/microsoft/blog/173551/
+
+Сетка в дизайне интерфейсов для Windows Phone: строгий учитель или добрый помощник? (Часть 2) | https://habrahabr.ru/company/microsoft/blog/173363/
+
+Совершенно секретно или статичный IP на Windows Phone | https://habrahabr.ru/post/173325/
+
+AMA с Аланом Менделевичем — руководителем AdDuplex | https://habrahabr.ru/company/devrainsolutions/blog/172615/
+
+Сетка в дизайне интерфейсов для Windows Phone: строгий учитель или добрый помощник? (Часть 1) | https://habrahabr.ru/company/microsoft/blog/172387/
+
+Интеграция дизайна. Каждый пиксель имеет значение. Часть 2 | https://habrahabr.ru/company/microsoft/blog/171175/
+
+Интеграция дизайна. Каждый пиксель имеет значение. Часть 1 | https://habrahabr.ru/company/microsoft/blog/170719/
+
+Новый практический обучающий курс по Windows Phone 8 | https://habrahabr.ru/company/microsoft/blog/170709/
+
+Новости и предложения разрабочтикам Windows Phone с MWC | https://habrahabr.ru/company/microsoft/blog/170655/
+
+Бесплатная школа разработчиков Windows Phone/Windows 8 в Санкт-Петербурге | https://habrahabr.ru/company/e-Legion/blog/170233/
+
+Portable Prism | https://habrahabr.ru/post/169471/
+
+Winsana – клиент для сервиса управления задачами Asana на вашем Windows Phone | https://habrahabr.ru/company/devrainsolutions/blog/169421/
+
+Приглашаем мобильных разработчиков и стартаперов на AppClub { build, monetize } #4 в Киеве | https://habrahabr.ru/company/devrainsolutions/blog/169137/
+
+Разработка приложения «Шереметьево» для Windows Phone глазами разработчика | https://habrahabr.ru/post/168309/
+
+Reminiscence — изящный платформер для Windows Phone | https://habrahabr.ru/company/devrainsolutions/blog/168263/
+
+История одного приложения или Борьба за производительность | https://habrahabr.ru/company/devrainsolutions/blog/167001/
+
+Интервью с разработчиками Windows 8 и Windows Phone приложений | https://habrahabr.ru/company/devrainsolutions/blog/166629/
+
+Пример принципа DRY в Windows Phone 7 | https://habrahabr.ru/company/infopulse/blog/165521/
+
+Коварные анимации на Windows Phone | https://habrahabr.ru/post/165485/
+
+Разработка игры под Windows Phone | https://habrahabr.ru/post/164969/
+
+Опыт создания игры для смартфонов | https://habrahabr.ru/post/164725/
+
+1 миллион загрузок в Windows Phone Store | https://habrahabr.ru/company/devrainsolutions/blog/163411/
+
+Как из мобильного приложения сделать продукт | https://habrahabr.ru/company/devrainsolutions/blog/162251/
+
+TouchDevelop — создание приложений на сенсорных устройствах прямо из браузера | https://habrahabr.ru/company/luxoft/blog/161083/
+
+В Украине открылся Windows Store | https://habrahabr.ru/company/devrainsolutions/blog/161865/
+
+Что день грядущий нам готовит | https://habrahabr.ru/post/160923/
+
+AppClub Kyiv { build, monetize } — клуб для мобильных энтузиастов и профессионалов | https://habrahabr.ru/company/devrainsolutions/blog/160721/
+
+О портировании мобильных приложений на платформы Windows Phone и Windows 8 | https://habrahabr.ru/company/devrainsolutions/blog/160175/
+
+Игру для Kinect, от нечего делать | https://habrahabr.ru/post/159957/
+
+Lomogram – фото редактор для Windows Phone | https://habrahabr.ru/company/devrainsolutions/blog/159497/
+
+Молодая, динамично развивающаяся компания… | https://habrahabr.ru/company/devrainsolutions/blog/159381/
+
+Прототип голосового списка покупок для WP8, Win8, Android c бекендом в Azure за 2,5 часа | https://habrahabr.ru/post/158481/
+
+Попытка установить Windows Phone 8 SDK в Windows 7 | https://habrahabr.ru/post/157427/
+
+Восстановление приложения при запуске со стартового экрана без потери предыдущего состояния в WP8 | https://habrahabr.ru/post/157379/
+
+$8 за регистрацию в Windows Phone Dev Center | https://habrahabr.ru/post/157243/
+
+Встречайте: долгожданный Windows Phone 8.0 SDK | https://habrahabr.ru/company/microsoft/blog/156969/
+
+Отдам проект в добрые руки | https://habrahabr.ru/post/156719/
+
+Стоит ли писать приложения под Windows 8? | https://habrahabr.ru/company/e-Legion/blog/155615/
+
+Opera выйдет на Windows Phone 8 | https://habrahabr.ru/company/apps4all/blog/153193/
+
+Не спешите радоваться появлению вашей страны в Windows Phone Dev Center | https://habrahabr.ru/post/151340/
+
+ISN Digest #0. Использование сенсоров и оптимизация энергопотребления в приложениях под Windows 8 | https://habrahabr.ru/company/intel/blog/151145/
+
+Портирование Windows Phone приложений на Windows 8 | https://habrahabr.ru/company/e-Legion/blog/151044/
+
+Локализуем Application Title у WindowsPhone приложения: пособие по сокращению геморроя | https://habrahabr.ru/post/149747/
+
+Nokia Developer Days: видеозаписи докладов | https://habrahabr.ru/company/microsoftlumia/blog/148865/
+
+Инвайты в Windows Store до его открытия российским разработчикам | https://habrahabr.ru/company/apps4all/blog/148279/
+
+Презентации с Nokia Developer Days | https://habrahabr.ru/company/microsoftlumia/blog/147188/
+
+Мы написали книгу! Практический опыт издания книги о программировании | https://habrahabr.ru/post/146613/
+
+Доступ к картинкам в изолированном хранилище | https://habrahabr.ru/post/146581/
+
+Мини reverse engineering и модификация Windows Phone приложений | https://habrahabr.ru/post/146538/
+
+Windows Phone + Caliburn.Micro + Autofac | https://habrahabr.ru/post/145583/
+
+Немного статистики WP7 приложения для русского и английского рынков | https://habrahabr.ru/post/145482/
+
+Как создавать эффективные мобильные решения для предприятий | https://habrahabr.ru/post/145156/
+
+Облегченная разработка WP7 приложений при помощи Caliburn.Micro framework (ч.1) | https://habrahabr.ru/post/144600/
+
+Управление состояниями UI при разработке под Windows Phone | https://habrahabr.ru/post/144836/
+
+Бесплатная Visual Studio 11 будет работать только с Metro UI | https://habrahabr.ru/company/apps4all/blog/144538/
+
+Not another internet radio — Tune Your Mood WP7 | https://habrahabr.ru/post/144143/
+
+Microsoft и Nokia стартовали аттракцион невиданной щедрости | https://habrahabr.ru/post/144053/
+
+Обновление до Windows Phone 8. Хватит спекулировать, оно будет | https://habrahabr.ru/post/143645/
+
+Видео с конференции #MBLT12 | https://habrahabr.ru/company/e-Legion/blog/143232/
+
+Итоги инициативы поддержки разработчиков Windows Phone приложений в MCP-клубах и User Group-ах | https://habrahabr.ru/company/microsoft/blog/142252/
+
+Пишем «Змейку» для Windows Phone 7 | https://habrahabr.ru/company/microsoftlumia/blog/141943/
+
+Срочно в номер. Вебинар: Windows Phone — обновление SDK, поддержка 256 Мб устройств и разработка для них | https://habrahabr.ru/company/microsoft/blog/141394/
+
+Понимание XAML | https://habrahabr.ru/post/141069/
+
+Pianorama для WP7 | https://habrahabr.ru/company/e-Legion/blog/140861/
+
+Обновление Windows Phone SDK 7.1.1: 256 Мб устройства и Windows 8 | https://habrahabr.ru/company/microsoft/blog/140843/
+
+Упрощаем разработку под WP7 с библиотекой WPExtensions | https://habrahabr.ru/post/140678/
+
+Marketplace запущен в Украине, Казахстане и 21 стране | https://habrahabr.ru/company/microsoft/blog/140563/
+
+Как создавался «Кинопоиск» для Windows Phone | https://habrahabr.ru/company/microsoftlumia/blog/140089/
+
+Windows Phone 7 XNA: гнем пиксели или нет шейдерам | https://habrahabr.ru/post/137869/
+
+Фонарик для Windows Phone 7 | https://habrahabr.ru/post/133968/
+
+Новый курс по разработке под Windows Phone, обновление центра Windows Phone и все-все-все … | https://habrahabr.ru/company/microsoft/blog/129853/
+
+Разрабатывайте приложения для Windows Phone Mango на HTML5 и JavaScript | https://habrahabr.ru/company/microsoft/blog/128073/
+
+Добавление настроек приложения в Settings | https://habrahabr.ru/post/126245/
+
+Обзор Windows Azure Toolkit for Windows Phone 7 | https://habrahabr.ru/company/microsoft/blog/118569/
+

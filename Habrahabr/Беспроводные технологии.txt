@@ -1,0 +1,866 @@
+Утренний дозор, или вступайте в радио-робингуды | https://habrahabr.ru/post/344860/
+
+Вторая волна cnPilot | https://habrahabr.ru/company/comptek/blog/342864/
+
+Как мы учили умную розетку замерять мощность | https://habrahabr.ru/company/rubetek/blog/344170/
+
+Гаджет моего тела (Часть #2) | https://habrahabr.ru/company/technoserv/blog/344400/
+
+Биллинговые системы будущего, и как они изменяют рынок связи | https://habrahabr.ru/company/billing/blog/344236/
+
+Корпоративный «фарш» для небольших сетей | https://habrahabr.ru/company/cisco/blog/343732/
+
+Гаджет моего тела (Часть #1) | https://habrahabr.ru/company/technoserv/blog/343972/
+
+Беспроводное «волокно» Siklu | https://habrahabr.ru/company/comptek/blog/342930/
+
+Быстрый старт с NRF51822 | https://habrahabr.ru/post/343166/
+
+Направленный Bluetooth-маяк (iBeacon) и полный мобильный факап | https://habrahabr.ru/post/343136/
+
+От Александра Белла до «большой тройки»: краткая история развития биллинговых систем | https://habrahabr.ru/company/billing/blog/343102/
+
+Вторая волна, накрывшая нас. Стандарт, который ждали | https://habrahabr.ru/company/pilot/blog/343004/
+
+Ежики на колесах: как мы поддерживаем качество связи в Москве | https://habrahabr.ru/company/megafon/blog/342786/
+
+Подбор оборудования для WLAN: как не потратить деньги зря | https://habrahabr.ru/company/zyxel/blog/342754/
+
+Как мы создавали новый тип тарифов «Включайся» | https://habrahabr.ru/company/megafon/blog/342638/
+
+Atmega328p + ENC28J60 = мост между UART и Ethernet | https://habrahabr.ru/post/342424/
+
+Как забраться в голову к посетителю, или о Wi-Fi-аналитике | https://habrahabr.ru/company/tp_link_russia/blog/341560/
+
+Решение вопроса с инетом на даче | https://habrahabr.ru/post/340708/
+
+Мир, в котором IPv6 придуман хорошо | https://habrahabr.ru/post/340626/
+
+Почему смарт-антенна наилучшее решение для беспроводных сетей с большой плотностью клиентских устройств | https://habrahabr.ru/company/zyxel/blog/340438/
+
+Безопасность Wi-Fi под угрозой из-за множества обнаруженных в WPA2 уязвимостей | https://habrahabr.ru/post/340180/
+
+Роуминг в сетях WiFi — 802.11i/r/k/v/OKC, что нам действительно нужно и как это распознать | https://habrahabr.ru/post/340140/
+
+Неспутниковые системы позиционирования и навигации | https://habrahabr.ru/company/technoserv/blog/339756/
+
+Zyxel Nebula: обзор ключевых возможностей облачной сетевой экосистемы | https://habrahabr.ru/company/muk/blog/339024/
+
+Интернет там, где его нет, или Стационарная связь на базе 3G-LTE | https://habrahabr.ru/company/mailru/blog/338944/
+
+Атакуем DHCP часть 3. DHCP + Apple = MiTM | https://habrahabr.ru/post/338864/
+
+Атакуем DHCP часть 2. DHCP + WiFi = MiTM | https://habrahabr.ru/post/338860/
+
+35 Гбит/с — как Megafon и Huawei поставили рекорд скорости 5G | https://habrahabr.ru/company/megafon/blog/337204/
+
+Wi-Fi сети в ритейле: типовые сценарии и подбор оборудования | https://habrahabr.ru/company/tp_link_russia/blog/338010/
+
+Эксплойт BlueBorne на Android, iOS, Linux и Windows: более 8 миллиардов устройств критически уязвимы | https://habrahabr.ru/company/cloud4y/blog/337782/
+
+День защиты СКС — как снять с Wi-Fi больше гигабита | https://habrahabr.ru/company/comptek/blog/337258/
+
+Huawei Agile Distributed Wi-Fi Solution: что это? Часть вторая | https://habrahabr.ru/company/lanit/blog/337162/
+
+Подводные камни настройки Mikrotik SXT LTE | https://habrahabr.ru/post/336076/
+
+Построение беспроводных сетей любых размеров на базе оборудования TP-Link | https://habrahabr.ru/company/tp_link_russia/blog/335674/
+
+Законы Авери для надёжности Wi-Fi | https://habrahabr.ru/post/335380/
+
+Как контролировать состояние корпоративной беспроводной сети при помощи Extreme NSight | https://habrahabr.ru/company/pilot/blog/334646/
+
+Bluetooth mesh – архитектура и безопасность сети | https://habrahabr.ru/post/334794/
+
+WI-FI в метро: Поймай меня, если сможешь. Сложности конфигурирования динамических сетей | https://habrahabr.ru/company/maximatelecom/blog/334734/
+
+Bluetooth mesh — базовые составляющие сети | https://habrahabr.ru/post/334478/
+
+Как следить за опознанными летающими объектами при помощи Raspberry Pi | https://habrahabr.ru/post/334360/
+
+Идеальная домашняя сеть или «сам себе злобный перфекционист» | https://habrahabr.ru/company/qrator/blog/334338/
+
+Outdoor Wi-Fi: уличные Wi-Fi сети и мосты на оборудовании TP-Link | https://habrahabr.ru/company/tp_link_russia/blog/334248/
+
+Кубок конфедераций: что стоит за беспроблемной связью на стадионе | https://habrahabr.ru/company/megafon/blog/334022/
+
+Bluetooth SIG анонсирует bluetooth mesh сеть | https://habrahabr.ru/post/333792/
+
+Extreme Networks 802.11ac Wave 2 ─ беспроводные решения нового поколения | https://habrahabr.ru/company/muk/blog/334024/
+
+Как построить маленькую, но хорошую сеть? | https://habrahabr.ru/company/cisco/blog/332938/
+
+WI-FI в метро: архитектура сети и подземные камни | https://habrahabr.ru/company/maximatelecom/blog/332538/
+
+Ретроспектива. 10 лет Yota и 10 любопытных фактов о компании | https://habrahabr.ru/company/yota/blog/332008/
+
+Как магазин в торговом центре узнаёт вас по Wi-Fi (точнее, по MAC-адресу) — на базе обычных хотспотов | https://habrahabr.ru/company/croc/blog/331894/
+
+Как грамотно развернуть Wi-Fi в отеле: типовые вопросы и решения | https://habrahabr.ru/company/tp_link_russia/blog/331342/
+
+Частоты и емкость сети — все, о чем вы хотели спросить | https://habrahabr.ru/company/megafon/blog/331082/
+
+Edge computing заменит Cloud computing? | https://habrahabr.ru/post/331066/
+
+Удваиваем ёмкость радиосети. Результаты внедрения Cambium Elevate на сетях операторов | https://habrahabr.ru/company/comptek/blog/328846/
+
+Второй раз он закинул невод. Изучаем второе поколение Airmax AC | https://habrahabr.ru/company/comptek/blog/328840/
+
+У природы нет плохих законов. Generation 5, или что же будет работать после LTE? | https://habrahabr.ru/company/technoserv/blog/328776/
+
+Сотовая связь хоть в тайге: три поколения передвижных базовых станций | https://habrahabr.ru/company/megafon/blog/328446/
+
+Оптические новинки от Ubiquiti | https://habrahabr.ru/company/comptek/blog/328494/
+
+Угрозы для беспроводной корпоративной сети WPA2-Enterprise и способы защиты | https://habrahabr.ru/company/dataline/blog/327542/
+
+Быстрый роуминг (802.11r) в WiFi сети на базе Lede (aka OpenWRT) | https://habrahabr.ru/post/327166/
+
+Mobile Device Manager Plus — долгожданное совершенство или все еще нет? | https://habrahabr.ru/company/squadra-group/blog/326964/
+
+Флагманы линейки Cisco Wi-Fi появились в России | https://habrahabr.ru/company/cisco/blog/326274/
+
+AP Failover и AP Fallback в реализации Cisco Unified Wireless | https://habrahabr.ru/post/325354/
+
+Из каких девайсов сегодня состоит рынок «интернета вещей» в России | https://habrahabr.ru/company/ru_mts/blog/325348/
+
+Организация HotSpot на оборудовании MikroTik с авторизацией через SMS | https://habrahabr.ru/post/325344/
+
+CAPWAP State Machine в реализации Cisco Unified Wireless: состояние Join | https://habrahabr.ru/post/325274/
+
+CAPWAP State Machine в реализации Cisco Unified Wireless: состояние Discovery | https://habrahabr.ru/post/325196/
+
+Как протестировать каналы связи интернет-магазина перед распродажами | https://habrahabr.ru/post/321142/
+
+Интерфейсы контроллеров HPE Aruba и Cisco | https://habrahabr.ru/company/cbs/blog/324112/
+
+Обзор семейства коммутаторов HPE Aruba, новые возможности ArubaOS 16.X | https://habrahabr.ru/company/hpe/blog/323858/
+
+Четыре основные угрозы, которые позволяют превращать IoT гаджеты в армию ботнетов | https://habrahabr.ru/company/kingservers/blog/323744/
+
+Облачное решение для совместной работы Cisco Spark: обзор и настройка | https://habrahabr.ru/company/muk/blog/322402/
+
+Корпоративный wifi на UBNT с порталом и доменной аутентификацией | https://habrahabr.ru/post/321726/
+
+BLE под микроскопом. Часть 3 | https://habrahabr.ru/post/321052/
+
+Huawei Agile Distributed Wi-Fi Solution: Что это? Часть первая | https://habrahabr.ru/post/320546/
+
+Как «подружить» Mitel SIP-DECT и Астериск | https://habrahabr.ru/post/320330/
+
+Как подготовиться к 802.11ac Wave2 или мультигигабитные коммутаторы Cisco (с поддержкой технологии NBASE-T/802.3bz) | https://habrahabr.ru/company/cisco/blog/319910/
+
+Как избежать самовозбуждения усилителя сотовой связи | https://habrahabr.ru/post/319820/
+
+BLE под микроскопом 2 | https://habrahabr.ru/post/319388/
+
+BLE под микроскопом | https://habrahabr.ru/post/319244/
+
+Роуминг в Wi-Fi сетях без использования контроллера | https://habrahabr.ru/post/318764/
+
+Агрегация несущих в LTE или на что обратить внимание при покупке следующего смартфона | https://habrahabr.ru/post/318588/
+
+Умный дом NooLite. Сценарий №1 — «Хозяин дома» | https://habrahabr.ru/post/318162/
+
+Властелин Wi-Fi: Aruba ClearPass | https://habrahabr.ru/company/muk/blog/318028/
+
+UniFi Mesh — всё меньше компромиссов | https://habrahabr.ru/company/comptek/blog/317966/
+
+У вас здесь есть Wi-Fi? | https://habrahabr.ru/company/huawei/blog/317684/
+
+Сила тока: как мобильная связь изменила наше отношение к энергоресурсам | https://habrahabr.ru/company/yota/blog/317634/
+
+Wi-Fi на Linux станет быстрее | https://habrahabr.ru/post/317548/
+
+OpenWRT + OpenVPN: точечный обход блокировок | https://habrahabr.ru/post/317354/
+
+Как правильно настроить Wi-Fi | https://habrahabr.ru/post/317220/
+
+Лаборатория «МегаФона»: как сотовый оператор тестирует технику | https://habrahabr.ru/company/megafon/blog/315262/
+
+Мобильная связь и интернет в разных странах мира | https://habrahabr.ru/company/yota/blog/316578/
+
+Новое поколение продуктов Cambium Networks: ePMP Elevate | https://habrahabr.ru/post/316564/
+
+Linux WiFi из командной строки с wpa_supplicant | https://habrahabr.ru/post/315960/
+
+Пара распространённых заблуждений про радиоканалы RFID и Wi-Fi (и RFID как точки Wi-Fi) | https://habrahabr.ru/company/croc/blog/315562/
+
+История вышек связи 2: формы и виды | https://habrahabr.ru/company/yota/blog/315436/
+
+Ловим чужой WiFi на расстоянии 1 км | https://habrahabr.ru/company/remo/blog/315348/
+
+Настройка системы внутренней навигации при помощи инструментов Aruba | https://habrahabr.ru/company/muk/blog/314770/
+
+Вне зоны доступа: аномальные территории связи | https://habrahabr.ru/company/yota/blog/314256/
+
+Полезные мелочи в дата-центре: Wi-Fi IP KVM | https://habrahabr.ru/company/dataline/blog/313448/
+
+Всякие технологичные инфраструктурные игрушки для публичных мест — передаю привет Скайнету | https://habrahabr.ru/company/croc/blog/313494/
+
+Тестирование решения EnGenius ezMaster | https://habrahabr.ru/post/313100/
+
+Партнерство Cisco и Apple для трансформации бизнеса через мобильность | https://habrahabr.ru/company/cisco/blog/312828/
+
+Квантовая связь: перспективы | https://habrahabr.ru/company/yota/blog/312574/
+
+Ни единого разрыва: как мы создавали беспроводную сеть для 3000 устройств | https://habrahabr.ru/company/mailru/blog/312580/
+
+Все о Cisco FastLocation | https://habrahabr.ru/post/311722/
+
+Излучение сотовой связи: опасно? | https://habrahabr.ru/company/yota/blog/311312/
+
+Борьба с хроническими заболеваниями в эпоху гиперподключённости | https://habrahabr.ru/company/dellemc/blog/311186/
+
+Как МегаФон и Nokia в Нижнем Новгороде 5G-сети демонстрировали | https://habrahabr.ru/company/megafon/blog/310838/
+
+Квадрант Gartner для беспроводных и проводных сетей 2016 | https://habrahabr.ru/company/cbs/blog/310728/
+
+История вышек связи: «главная телебашня страны» | https://habrahabr.ru/company/yota/blog/310674/
+
+Выясняем, как увеличить зону покрытия WiFi | https://habrahabr.ru/company/remo/blog/310612/
+
+Wi-Fi позиционирование «дешево и сердито». О частоте замеров или возможно ли Wi-Fi позиционирование в реальном времени? | https://habrahabr.ru/post/309308/
+
+Что мы знаем о 5G-сетях | https://habrahabr.ru/company/yota/blog/309068/
+
+Да здравствует Wi-Fi позиционирование в Enterprise | https://habrahabr.ru/post/307878/
+
+Настройка wifi авторизации через sms под ubuntu 16.04 | https://habrahabr.ru/post/307338/
+
+Мобильная справочная: Aruba Mobile Engagement | https://habrahabr.ru/company/muk/blog/306240/
+
+Почему не взлетает позиционирование на основе Wi-Fi | https://habrahabr.ru/post/306044/
+
+Подготовка произвольного LTE модема для работы с сим-картой для модема Yota на примере Huawei E3272 | https://habrahabr.ru/post/302924/
+
+Восстановление прошивки устройств ePMP от Cambium Networks через TFTP | https://habrahabr.ru/post/301570/
+
+Отключение аналогового спутникового ТВ: 4 года спустя (часть 2) | https://habrahabr.ru/post/282792/
+
+Отключение аналогового спутникового ТВ: 4 года спустя (часть 1) | https://habrahabr.ru/post/282728/
+
+Методы оптимизации приема/передачи в сетях Wi-Fi | https://habrahabr.ru/company/cbs/blog/281485/
+
+ePMP AP Lite | Использование лицензий на ePMP 1000 Cambium Networks | https://habrahabr.ru/post/279431/
+
+AirPlay сервер и бэкап Time Machine на MTK-роутерах (и не только) | https://habrahabr.ru/post/279369/
+
+Что нужно знать при конфигурации мощности передатчика ePMP 1000 от Cambium Networks | https://habrahabr.ru/post/278463/
+
+Разъем своими руками для ESP8266 ESP-12 | https://habrahabr.ru/post/277825/
+
+Mikrotik — Дополнительные настройки для Yota | https://habrahabr.ru/post/277435/
+
+Делаем беспроводной сетевой мост на 2-х Mikrotik | https://habrahabr.ru/post/274983/
+
+HotSpot с помощью Cisco WLC5508, FreeRadius, MySQL и Easyhotspot | https://habrahabr.ru/post/275155/
+
+Основные особенности стандарта 802.11ac | https://habrahabr.ru/company/cbs/blog/274267/
+
+Wi-Fi Alliance анонсировал новый тип Wi-Fi для IoT и устройств с низким энергопотреблением | https://habrahabr.ru/post/274613/
+
+Возвращаем авто-логин в Wi-Fi-сеть московского метро в Android | https://habrahabr.ru/post/268793/
+
+Собираем свой OpenWRT на роутер Tp-Link TL-WR741ND v.4.25 c vlan, openvpn, ротацией провайдеров и блэкджеком | https://habrahabr.ru/post/264299/
+
+Проблема с мобильным трафиком МТС в некоторых регионах, или лыжи не едут? | https://habrahabr.ru/post/264207/
+
+Настраиваем Ubiquiti Wi-Fi и Cisco (Гостевой DHCP и VLANs) | https://habrahabr.ru/post/263431/
+
+Портирование OpenWRT на новое устройство на примере ASUS DSL N12U | https://habrahabr.ru/post/261115/
+
+Настройка беспроводного моста (Wireless Bridge) на QDSL-1040WU | https://habrahabr.ru/post/259797/
+
+Практический порядок расчёта и построения УКВ-радиотрассы | https://habrahabr.ru/post/257731/
+
+Инфраструктура Сети Радиодоступа как инвестиция | https://habrahabr.ru/post/257479/
+
+Еще один проект на ESP8266 и счетчик воды | https://habrahabr.ru/post/256247/
+
+Эволюция скорости передачи данных в сетях Wi-Fi | https://habrahabr.ru/post/254559/
+
+Тамагочи в качестве ключа для домофона и проездного в метро | https://habrahabr.ru/post/253513/
+
+Странности реализации Wi-Fi в метро Москвы | https://habrahabr.ru/post/251599/
+
+HotSpot — заметки на полях | https://habrahabr.ru/post/250237/
+
+Bluetooth v4.2: что же действительно нового и как это работает? | https://habrahabr.ru/post/248499/
+
+Опыт создания домашнего Wi-Fi маршрутизатора. Часть 2. Установка и настройка ПО | https://habrahabr.ru/post/245809/
+
+Экономим на Интернете в небольшом офисе | https://habrahabr.ru/post/246359/
+
+BLE от Nordic Semiconductor. Начало работы со стеком с применением чипа nRF51822 | https://habrahabr.ru/post/246241/
+
+Поддельное BLE-устройство на nRF24l01 | https://habrahabr.ru/post/245671/
+
+Опыт создания домашнего Wi-Fi маршрутизатора. Общий обзор | https://habrahabr.ru/post/245421/
+
+Осваиваем CC430 — микроконтроллеры с радиомодулем: фотофиниш своими руками | https://habrahabr.ru/post/245035/
+
+Проект «Outernet» определился с методом доставки контента и запускает компанию по сбору денег на приёмник | https://habrahabr.ru/post/243113/
+
+Проектирование СШП шестиугольной фрактальной микрополосковой НЕантенны, или будь бдителен | https://habrahabr.ru/post/239989/
+
+Как выбранная сеть влияет на скорость интернета телефона, или проблемы LTE сетей СНГ региона | https://habrahabr.ru/post/238979/
+
+Прослушивание мобильных телефонов и их защита | https://habrahabr.ru/post/238923/
+
+Wi-Fi по паспорту будет только для платных точек доступа | https://habrahabr.ru/post/238835/
+
+Управление любой AV-техникой с телефона. ИК-приёмопередатчик для JACK 3.5 | https://habrahabr.ru/post/238491/
+
+Одна на всех | https://habrahabr.ru/post/238147/
+
+Детектирование включенного телевизора с помощью фотодиода | https://habrahabr.ru/post/237475/
+
+Место под… антенну | https://habrahabr.ru/post/235463/
+
+Провайдеры США просят запретить развитие муниципального высокоскоростного интернета | https://habrahabr.ru/post/235123/
+
+Взаимодействие с hi-tech миром глазами Intel | https://habrahabr.ru/post/234395/
+
+От Google CardBoard к автоматическому запуску карт в машине | https://habrahabr.ru/post/233593/
+
+Дверной замок. RFID | https://habrahabr.ru/post/233139/
+
+Wi-fi по паспорту. Опровержение! | https://habrahabr.ru/post/232693/
+
+Компания uBeam представила технологию беспроводной зарядки устройств на основе ультразвука | https://habrahabr.ru/post/232685/
+
+Мэр Лондона пообещал полное покрытие города 5G в 2020 году | https://habrahabr.ru/post/231335/
+
+General Motors оснастит некоторые модели «Кадиллаков» беспроводными зарядками для телефонов | https://habrahabr.ru/post/231435/
+
+Евросоюз объединяет усилия с Южной Кореей по подготовке к десятилетию 5G | https://habrahabr.ru/post/231357/
+
+Как установить связь с 36-летним космическим зондом с помощью GNU Radio | https://habrahabr.ru/post/229777/
+
+Переделка беспроводного USB Wi-Fi адаптера TP-LINK TL-WN722N в адаптер Philips PTA01 для телевизора Philips 55PFL7606H и других | https://habrahabr.ru/post/229535/
+
+Звук на стол и с собой: обзор Creative T30 Wireless и Airwave HD | https://habrahabr.ru/post/229141/
+
+802.11ad (WiGig) — дальность и полезность | https://habrahabr.ru/post/228779/
+
+Лазерное послание из космоса | https://habrahabr.ru/post/227303/
+
+Wi-Fi microSD Adapter: добавляем Wi-Fi модуль к фотокамере | https://habrahabr.ru/post/227215/
+
+Google собирается запустить 180 микроспутников для «интернетизации» удаленных регионов | https://habrahabr.ru/post/224933/
+
+СС1101 под управлением PIC-контроллера или построение одноранговой сети для радиоинженера | https://habrahabr.ru/post/224521/
+
+Прямая трансляция запуска Союз ТМА–13М №713 | https://habrahabr.ru/post/224493/
+
+Использование MultiSSID в жизни | https://habrahabr.ru/post/223511/
+
+Skylock — беспроводный вело-замок на солнечных батареях | https://habrahabr.ru/post/223117/
+
+Ethernet-шлюз nooLite PR1132 — управление светом со смартфона и планшета | https://habrahabr.ru/post/222663/
+
+Мало «железных» кнопок на телефоне? Поправимо! | https://habrahabr.ru/post/222639/
+
+Превращение обычного электрического конвектора в беспроводной | https://habrahabr.ru/post/222085/
+
+Беспроводная передача энергии на 5 метров | https://habrahabr.ru/post/219857/
+
+Анонсировано появление в 2015 году 10 Гбит Wi-Fi | https://habrahabr.ru/post/219443/
+
+DARPA превратит устаревшие беспилотники в летающие Wi-Fi точки доступа | https://habrahabr.ru/post/219331/
+
+Chromecast получил новые возможности — Поддержка «живых» трансляций | https://habrahabr.ru/post/218659/
+
+Воздушный шар Google Loon обогнул Землю за рекордные 22 дня | https://habrahabr.ru/post/218409/
+
+«Волшебная палочка» для покупок Amazon Dash | https://habrahabr.ru/post/218373/
+
+Панель управления умным домом. iPhone в стене | https://habrahabr.ru/post/217765/
+
+Контроллер Wi-Fi точек доступа на Mikrotik | https://habrahabr.ru/post/217657/
+
+Logitech Wave (К350). Год спустя | https://habrahabr.ru/post/217009/
+
+Парящий ветрогенератор BAT: электричество, сотовая связь, Wi-Fi и метеостанция | https://habrahabr.ru/post/216963/
+
+MNP: Как все устроено* | https://habrahabr.ru/post/216537/
+
+Logitech G700. Год спустя | https://habrahabr.ru/post/216199/
+
+Ubiquiti UniFi история восстановления прошивок на AP Long Range и Outdoor | https://habrahabr.ru/post/216075/
+
+Подводный беспроводной «интернет» | https://habrahabr.ru/post/216081/
+
+Голландия одобрила оператор-независимые SIM-карты | https://habrahabr.ru/post/215929/
+
+Загадочная pCell, или DIDO под микроскопом | https://habrahabr.ru/post/215845/
+
+MWC2014: MIMO 2x2:2 в телефонах, роутеры в SFP-модулях… | https://habrahabr.ru/post/215421/
+
+Сеть Wi-Fi: Одноканальная Архитектура vs Многоканальная Архитектура | https://habrahabr.ru/post/215299/
+
+Miracle Machine: вино из воды | https://habrahabr.ru/post/215241/
+
+Wireless Tech Field Day 6 — видео | https://habrahabr.ru/post/214323/
+
+Тарифы мобильного интернета без абонентской платы | https://habrahabr.ru/post/214175/
+
+МегаФон запустил 4G+ | https://habrahabr.ru/post/213927/
+
+TCP/IP по аудиоканалу | https://habrahabr.ru/post/213157/
+
+[Рекомендую] Wi-Fi инженеру на заметку — радиоразведка (подкаст и PDF) | https://habrahabr.ru/post/213107/
+
+(Частоты 5150-5350 и 5650-6425 МГц) Информация из радиочастотного центра | https://habrahabr.ru/post/213051/
+
+Ubiquiti AirGrid M5 HP 27dBi — Разворачивание сетевого моста. Личный опыт | https://habrahabr.ru/post/212891/
+
+Мир без аварий | https://habrahabr.ru/post/212409/
+
+Немного подробнее про проект «Outernet» | https://habrahabr.ru/post/212061/
+
+Google обнародовал Cast Software Development Kit (Chromecast SDK) | https://habrahabr.ru/post/211298/
+
+OpenWrt + VPNclient для роутера с 4mb ROM | https://habrahabr.ru/post/211174/
+
+Все, что Вы хотели знать о Chromecast или как сделать обычный телевизор чуть умнее за 35$ | https://habrahabr.ru/post/209022/
+
+Play Pure Drive — «умная» теннисная ракетка для всех | https://habrahabr.ru/post/208578/
+
+Всемирная база паролей к сетям Wi-Fi на вашем мобильнике | https://habrahabr.ru/post/208160/
+
+Первая передача текстового сообщения с помощью запаха | https://habrahabr.ru/post/207742/
+
+Apple патентует компьютер с беспроводной зарядкой и проектором вместо монитора | https://habrahabr.ru/post/207736/
+
+Ubiquiti NanoBridge M5: первый опыт установки или wifi-мост «из коробки» | https://habrahabr.ru/post/206282/
+
+Башня Тесла: электротехнический расчет | https://habrahabr.ru/post/206290/
+
+Cisco vs Aruba: аргументы исчерпаны? | https://habrahabr.ru/post/206138/
+
+3G-интернет на 33 км | https://habrahabr.ru/post/206100/
+
+Cybiko Xtreme — социальный коммуникатор для школьников и студентов | https://habrahabr.ru/post/206060/
+
+Как работала Башня Тесла по передаче энергии — собственное «расследование» | https://habrahabr.ru/post/205900/
+
+Qualcomm запускает альтернативу iBeacon | https://habrahabr.ru/post/205646/
+
+Apple планирует запустить iBeacon в 254 американских магазинах | https://habrahabr.ru/post/205160/
+
+[Пятничное] Красноречивая картинка о состоянии дел на рынке корпоративных WLAN | https://habrahabr.ru/post/205062/
+
+Здание превратили в работающий «Кубик Рубика» при помощи Arduino | https://habrahabr.ru/post/204920/
+
+Технический отчёт о разработке системы бесконтактной зарядки мобильных девайсов «Powell» | https://habrahabr.ru/post/203186/
+
+В США и Европе можно будет использовать электронные устройства в полете | https://habrahabr.ru/post/202912/
+
+Каждый пользователь — мини-провайдер (идея для бизнеса) | https://habrahabr.ru/post/202418/
+
+Радиомодем за 7 долларов | https://habrahabr.ru/post/201366/
+
+Бесплатный Wi-Fi в московском метро. Еще раз | https://habrahabr.ru/post/201254/
+
+[Ответ] Построение уличной WiFi сети | https://habrahabr.ru/post/201222/
+
+Беспроводной звук. Часть 1. Препарируем Bluetooth | https://habrahabr.ru/post/201000/
+
+Построение уличной WiFi сети | https://habrahabr.ru/post/201056/
+
+Технология SRVCC в мобильных сетях 4-го поколения | https://habrahabr.ru/post/200868/
+
+LTE в Омске | https://habrahabr.ru/post/199158/
+
+Устройство беспроводного контроллера Cisco и получение рутового доступа к нему | https://habrahabr.ru/post/197906/
+
+Что такое MANET или почему WiFi не решение всех телекоммуникационных проблем | https://habrahabr.ru/post/197860/
+
+NailDisplay: «Прозрачный» ноготь или дисплей, который всегда с тобой | https://habrahabr.ru/post/197400/
+
+Ловля интернетов в глухой деревне с помощью 3G антенны | https://habrahabr.ru/post/197106/
+
+Радиофицированный торшер или еще «2 копейки» в копилку «умного дома» | https://habrahabr.ru/post/195884/
+
+Революционные проекты, над которыми сейчас работает Google | https://habrahabr.ru/post/195530/
+
+RFID-системы стандарта EPC Gen2 | https://habrahabr.ru/post/194908/
+
+Бюджетный UHF RFID считыватель и его развитие | https://habrahabr.ru/post/194408/
+
+Сети 802.11ac для самых смелых | https://habrahabr.ru/post/194116/
+
+Передача «скрытого» радиосигнала | https://habrahabr.ru/post/194058/
+
+IFA 2013. Новинки компании Philips. Акустика и телевизоры | https://habrahabr.ru/post/192906/
+
+Управляем любой AV-техникой с телефона. ИК-приёмопередатчик для Raspberry | https://habrahabr.ru/post/193572/
+
+Обзор беспроводной Bluetooth аудиосистемы Klipsch KMC 3 | https://habrahabr.ru/post/193310/
+
+WiFi радио из старой магнитолы | https://habrahabr.ru/post/190422/
+
+Беспроводной Arduino c радиусом действия более километра | https://habrahabr.ru/post/191652/
+
+Беспроводные сети Motorola на базе архитектуры WING5 | https://habrahabr.ru/post/191310/
+
+Технические особенности Mercedes S-Class | https://habrahabr.ru/post/190532/
+
+4G на смартфоне. Личный опыт | https://habrahabr.ru/post/190138/
+
+HOT Watch: «умные» часы с возможностью разговора… по ладони | https://habrahabr.ru/post/190078/
+
+Технологии автомобильной промышленности. Взгляд на IT | https://habrahabr.ru/post/190022/
+
+Демон без проводов — Обзор Bloody R8 от A4Tech | https://habrahabr.ru/post/189406/
+
+RFID метка для пельменей | https://habrahabr.ru/post/189208/
+
+Наивные размышления о варианте Интернета-2 | https://habrahabr.ru/post/187944/
+
+Пошаговая прошивка OpenWRT на роутер TP-LINK TL-WR741ND из Windows | https://habrahabr.ru/post/186760/
+
+Sip через Wi-Fi + UniFi. Опыт использования и модернизация | https://habrahabr.ru/post/185898/
+
+Ближайшее будущее Wi-Fi: сертификация Voice Enterprise | https://habrahabr.ru/post/184204/
+
+Mobile Backhaul для небольшого мобильного оператора | https://habrahabr.ru/post/184132/
+
+Как быстро сделать из таракана киборга | https://habrahabr.ru/post/183028/
+
+Проект WiSee: распознаем жесты человека в соседней комнате, используя только Wi-Fi | https://habrahabr.ru/post/182212/
+
+Беспроводные системы Juniper — первое знакомство | https://habrahabr.ru/post/181868/
+
+Google работает над киберпанковскими штуками | https://habrahabr.ru/post/181918/
+
+Ближайшее будущее Wi-Fi: как обстоят дела с 802.11ac | https://habrahabr.ru/post/181297/
+
+Осталось 27 дней до вывода на орбиту первого спутника O3b | https://habrahabr.ru/post/180951/
+
+Мобильное приложения для управления умным домом на базе Z-Wave с помощью OpenRemote | https://habrahabr.ru/post/180749/
+
+Samsung успешно протестировала беспроводную связь на скорости 1 ГБ/с | https://habrahabr.ru/post/179555/
+
+Учёные встроили радиочипы в бумагу | https://habrahabr.ru/post/178725/
+
+Получение радиолюбительской категории | https://habrahabr.ru/post/178329/
+
+4G на смартфонах: в России с 10.04.2013 | https://habrahabr.ru/post/176367/
+
+Исследовательский проект Nokia — готовый прототип телефона, заряжающийся от энергии радиоволн | https://habrahabr.ru/post/174171/
+
+BAT: беспроводная летающая мышь, которая способна предотвратить синдром запястного канала | https://habrahabr.ru/post/172309/
+
+Отчёт о техническом обслуживании базовой станции стандартов GSM и UMTS | https://habrahabr.ru/post/172093/
+
+10 девайсов, которые вы можете проапгрейдить, немного поковырявшись с электроникой | https://habrahabr.ru/post/171941/
+
+Беспроводные коммуникации «умного дома» | https://habrahabr.ru/post/171613/
+
+Wireless Field Tech Day 4 [+материалы] | https://habrahabr.ru/post/169685/
+
+Для чего нужен режим H-REAP/FlexConnect для беспроводных точек доступа Cisco | https://habrahabr.ru/post/169511/
+
+Bluetooth-стерео-гарнитура Jabra Halo 2 и ноутбук | https://habrahabr.ru/post/168881/
+
+Бесплатного wi-fi в московском метро пока не будет | https://habrahabr.ru/post/168305/
+
+NASA отправило «Мону Лизу» на Луну. Лазером | https://habrahabr.ru/post/166883/
+
+Мобильный сотрудник на Aruba Networks | https://habrahabr.ru/post/166561/
+
+Пошаговая прошивка OpenWRT на роутер TP-LINK TL-WR741ND | https://habrahabr.ru/post/165739/
+
+Настраиваем VPN для андроида | https://habrahabr.ru/post/164301/
+
+Беспроводная передача данных, ISM-диапазон | https://habrahabr.ru/post/164215/
+
+Стыковка Союз-ТМА07М с МКС в прямом эфире | https://habrahabr.ru/post/163529/
+
+Беспроводное аудио от Creative, часть 1 | https://habrahabr.ru/post/163487/
+
+DARPA начинает разработку систем дальней радиосвязи на 100 Гбит/c | https://habrahabr.ru/post/162953/
+
+Новый контроллер от Aruba Networks — серия 72хх — первый взгляд | https://habrahabr.ru/post/162581/
+
+Лондонские такси оснастят скоростными точками доступа | https://habrahabr.ru/post/162199/
+
+Взгляд изнутри: RFID и другие метки | https://habrahabr.ru/post/161401/
+
+Городская инфраструктура для Nokia Lumia 920 | https://habrahabr.ru/post/161363/
+
+Самодельная внешняя антенна для стандарта CDMA2000/EVDO (операторы Intertelecom, PeopleNet) | https://habrahabr.ru/post/161129/
+
+Bluetooth-стикер поможет найти ключи, рюкзак или пульт ДУ | https://habrahabr.ru/post/161021/
+
+Австралийские учёные объединят стадо коров в беспроводную сенсорную сеть | https://habrahabr.ru/post/160335/
+
+Пространственное мультиплексирование: просто о сложном. Часть 1 | https://habrahabr.ru/post/150362/
+
+Повышение пропускной способности сильно загруженных сетей WiFi в 4-7 раз | https://habrahabr.ru/post/158949/
+
+О вреде сотовых телефонов | https://habrahabr.ru/post/158809/
+
+Теория радиоволн: аналоговая модуляция | https://habrahabr.ru/post/158493/
+
+Теория радиоволн: антенны | https://habrahabr.ru/post/158273/
+
+Теория радиоволн: ликбез | https://habrahabr.ru/post/158161/
+
+Особенности Wi-Fi в Apple iOS и последствия для сетей организаций | https://habrahabr.ru/post/157233/
+
+Сетевая инфраструктура систем РТЛС | https://habrahabr.ru/post/155883/
+
+Краткий обзор мобильного роутера TP-Link MR3040 | https://habrahabr.ru/post/155829/
+
+Сети ZigBee. Зачем и почему? | https://habrahabr.ru/post/155037/
+
+Превращаем роутер в XBee-to-Ethernet Gateway | https://habrahabr.ru/post/154185/
+
+Весь Киев планируют покрыть бесплатной сетью Wi-Fi | https://habrahabr.ru/post/154061/
+
+Нестандартный подход к организации WLAN | https://habrahabr.ru/post/153069/
+
+С борта МКС впервые по лазерному каналу была передана широкополосная информация на наземный пункт | https://habrahabr.ru/post/153555/
+
+Мобильная автоматизация колокольного звона | https://habrahabr.ru/post/152273/
+
+В Apple объяснили почему в новом iPhone 5 нет беспроводной зарядки и NFC | https://habrahabr.ru/post/151400/
+
+Браслет Amico поможет найти свою половинку | https://habrahabr.ru/post/151344/
+
+TP-Link начал выпуск Wi-Fi-роутера 750Мбит/с | https://habrahabr.ru/post/151033/
+
+Автоматизация офисного освещения | https://habrahabr.ru/post/150938/
+
+Apple страхуется от Samsung и активно скупает LTE-патенты | https://habrahabr.ru/post/150854/
+
+Базовая станция 4G LTE на обычном ПК | https://habrahabr.ru/post/150809/
+
+Диагностические перчатки Med Sensation | https://habrahabr.ru/post/150556/
+
+Марсоход Curiosity и рэпер Will.i.am провели первый межпланетный концерт | https://habrahabr.ru/post/150450/
+
+Опыт организации WiFi на конференции | https://habrahabr.ru/post/149858/
+
+2800 автомобилей с WiFi попробуют не столкнуться друг с другом | https://habrahabr.ru/post/150262/
+
+Для тех у кого MIMO прошло мимо… | https://habrahabr.ru/post/150225/
+
+802.11ac: что нам нужно знать о новом стандарте Wi-Fi | https://habrahabr.ru/post/149806/
+
+Актуальные вопросы про RFID | https://habrahabr.ru/post/149374/
+
+Wi-Fi: неочевидные нюансы (на примере домашней сети) | https://habrahabr.ru/post/149447/
+
+Wi-Fi: неочевидные нюансы (на примере домашнего Wi-Fi) [часть 1] | https://habrahabr.ru/post/149418/
+
+AT&T прекратит поддержку сетей 2G через пять лет | https://habrahabr.ru/post/149097/
+
+Настройка беспроводных сетей на контроллере Cisco | https://habrahabr.ru/post/148903/
+
+LTE в регионах или мы тоже не лыком шиты | https://habrahabr.ru/post/148924/
+
+В США одобрены медицинские «съедобные» чипы | https://habrahabr.ru/post/148913/
+
+Автономный роутер для 4G Мегафона | https://habrahabr.ru/post/148585/
+
+[CLI Tip]: Как сделать краткую выжимку-обзор running-config'а | https://habrahabr.ru/post/148516/
+
+Кольцо с RFID для проезда в лондонской подземке | https://habrahabr.ru/post/147383/
+
+Обзор беспроводного 3G-роутера Huawei E560 | https://habrahabr.ru/post/146978/
+
+Интернет и IPTV в коттедж: трудный, но успешный опыт | https://habrahabr.ru/post/146911/
+
+Bluetooth и WiFi — нежелательное соседство | https://habrahabr.ru/post/146858/
+
+Hone Bluetooth Dongle поможет ключам не теряться | https://habrahabr.ru/post/146660/
+
+2,56 терабита/c в «закрученных» волнах | https://habrahabr.ru/post/146615/
+
+iRobot оснастила своих роботов пультом ДУ | https://habrahabr.ru/post/146133/
+
+Загадочный UMTS-900 | https://habrahabr.ru/post/146103/
+
+Провайдер Karma поощряет пользователей делиться трафиком | https://habrahabr.ru/post/145846/
+
+Подключение точек доступа к контроллеру Cisco Wi-Fi | https://habrahabr.ru/post/145677/
+
+Первоначальная настройка Wi-Fi контроллера Cisco | https://habrahabr.ru/post/145082/
+
+Как удалось подружить роутер TP-LINK и мобильные девайсы | https://habrahabr.ru/post/144716/
+
+Современная домашняя сеть и кинотеатр на диване + Апдейт (про транскодинг) | https://habrahabr.ru/post/144680/
+
+QR-коды на пивных бокалах | https://habrahabr.ru/post/144537/
+
+Knut — беспроводные сенсоры для дома или офиса | https://habrahabr.ru/post/144385/
+
+Домашняя беспроводная сеть для просмотра HD-видео: мечта или реальность? | https://habrahabr.ru/post/144390/
+
+Стандарт для беспроводных коммуникаций на теле человека | https://habrahabr.ru/post/144292/
+
+4G LTE интернет Мегафон | https://habrahabr.ru/post/144239/
+
+Wi-Fi быстрее в 20 раз | https://habrahabr.ru/post/144145/
+
+Сравнение производительности 802.11ac Draft и 802.11n | https://habrahabr.ru/post/144050/
+
+Беспроводной интернет (4G+3G) против проводного. Кто победит? | https://habrahabr.ru/post/143826/
+
+Softbank разрабатывает летающие мобильные сотовые станции | https://habrahabr.ru/post/143521/
+
+Тренд, который изменит всё | https://habrahabr.ru/post/143416/
+
+Локация внутри помещений от Nokia | https://habrahabr.ru/post/143027/
+
+Программа от Navizon позволяет искать находящиеся поблизости смартфоны с Wi-Fi | https://habrahabr.ru/post/142568/
+
+Обзор роутера NETGEAR WNDR3800 | https://habrahabr.ru/post/140340/
+
+WI-FI. Пытаемся улучшить | https://habrahabr.ru/post/142044/
+
+Necomimi ушки | https://habrahabr.ru/post/141849/
+
+Project Glass — Очки будущего от Google или «почувствуй себя терминатором» | https://habrahabr.ru/post/141422/
+
+LightRadio от Alcatel-Lucent: смерть традиционных базовых станций? | https://habrahabr.ru/post/140970/
+
+WiGig пробил 1-ваттный барьер, скоро появится в смартфонах | https://habrahabr.ru/post/140807/
+
+LTE, 3G, Фемто или Wi-Fi? Где маркетинг, а где разумная бизнес-модель? | https://habrahabr.ru/post/140682/
+
+Cardsharing: Передача DW кодов по сети | https://habrahabr.ru/post/140535/
+
+Huawei анонсировала технологию Beyond LTE | https://habrahabr.ru/post/140467/
+
+Беспроводная передача HD-видео и звука с использованием видеосендеров, дайджест — весна'12 | https://habrahabr.ru/post/139220/
+
+Краткое сравнение 11n vs 11ac vs 11ad. И какие услуги мы увидим в будущем | https://habrahabr.ru/post/139765/
+
+FON — бесплатный Wi-Fi по всему миру | https://habrahabr.ru/post/139953/
+
+Бездомных в Техасе используют как передвижные хотспоты | https://habrahabr.ru/post/139838/
+
+Радиообследование (Site Survey) зоны покрытия сети Wi-Fi | https://habrahabr.ru/post/138637/
+
+3D-стилус с использованием эхолокации | https://habrahabr.ru/post/139111/
+
+Тестирование бесплатного Wi-Fi в московском метро | https://habrahabr.ru/post/139083/
+
+Sony и Tokyo Tech разработали новые чипы беспроводной связи (6 Гбит/сек) | https://habrahabr.ru/post/138712/
+
+Беспроводная передача HD-видео и звука по Wi-Fi, дайджест — весна'12 | https://habrahabr.ru/post/138670/
+
+Intel разрабатывает процессор с беспроводным модулем связи | https://habrahabr.ru/post/138567/
+
+Проект «Solve for X»: представлен новый способ увеличения радиуса действия радиосвязи | https://habrahabr.ru/post/138042/
+
+Дешёвые RFID напечатали на бумаге | https://habrahabr.ru/post/138059/
+
+Подходы к планированию и проектированию развитой сети Wi-Fi | https://habrahabr.ru/post/137609/
+
+Терагерцовая антенна размером 255 х 341 нанометра | https://habrahabr.ru/post/137218/
+
+Следующее поколение Wi-Fi — кратко о 802.11ac | https://habrahabr.ru/post/136728/
+
+Intel патентует новый способ подключения Wi-Fi устройств к беспроводным сетям | https://habrahabr.ru/post/136285/
+
+Broadcom наладила выпуск чипов IEEE 802.11ac | https://habrahabr.ru/post/135773/
+
+Новый закон требует Wi-Fi во всех ресторанах столицы Малайзии | https://habrahabr.ru/post/135643/
+
+Уязвимость в протоколе Wi-Fi Protected Setup | https://habrahabr.ru/post/135500/
+
+4G сети оказывают влияние на 75% GPS-приемников: закулисные войны | https://habrahabr.ru/post/134482/
+
+Broadcom готовит новый стандарт беспроводной связи | https://habrahabr.ru/post/134426/
+
+WiFi-AC — новое поколение Wi-Fi | https://habrahabr.ru/post/134298/
+
+xBounds — беспроводная видеокарта для Android | https://habrahabr.ru/post/134255/
+
+Bluetooth-клавиатура: десять лет без смены батареек | https://habrahabr.ru/post/134253/
+
+Twine: «умный дом» с простым интерфейсом | https://habrahabr.ru/post/133421/
+
+Терагерцовый модем показал скорость 1,5 Гбит/с | https://habrahabr.ru/post/133398/
+
+Компания Freescale представила универсальную медицинскую платформу | https://habrahabr.ru/post/133028/
+
+Google опубликовал способ скрыть точку доступа от использования её в своих сервисах геолокации | https://habrahabr.ru/post/132691/
+
+MU-MIMO, или чем OFDM в WiMAX/LTE отличается от OFDM в 802.11a/g/n | https://habrahabr.ru/post/132247/
+
+Новый чип SiRFstarV для навигации внутри зданий и с облачной платформой | https://habrahabr.ru/post/131957/
+
+Владельцам Wi-Fi оборудования вменяют обязанность ГЛОНАССирования | https://habrahabr.ru/post/131868/
+
+Переключаем WiFi в режим точки доступа в Windows | https://habrahabr.ru/post/130271/
+
+Беспроводная сеть поможет медикам следить за дыханием пациента | https://habrahabr.ru/post/129391/
+
+Программный анализатор спектра на обычной WiFi-карте | https://habrahabr.ru/post/129118/
+
+Почему в WiMax и LTE используют OFDM | https://habrahabr.ru/post/129101/
+
+Массовые проявления «аллергии на Wi-Fi» в Америке | https://habrahabr.ru/post/128732/
+
+Апгрейд Wi-Fi чипсетов сэкономит до 44% заряда аккумулятора | https://habrahabr.ru/post/128657/
+
+Моделирование в ns-2. Приближение пропускной способности модели беспроводной сети стандарта 802.11b к реальной | https://habrahabr.ru/post/111237/
+
+FreeRADIUS for WPA & WPA2 Enterprise: Windows 7, Android, Symbian, iPhone | https://habrahabr.ru/post/128405/
+
+Дмитрий Медведев: Wi-Fi необходим 24 часа в сутки в каждом университете | https://habrahabr.ru/post/128362/
+
+Бесплатный Wi-Fi появится в московском метро | https://habrahabr.ru/post/128346/
+
+Новый стандарт Wi-Fi | https://habrahabr.ru/post/128041/
+
+Матричные штрих-коды: мост между реальным и виртуальным миром | https://habrahabr.ru/post/127789/
+
+Одежда — лучшая антенна | https://habrahabr.ru/post/127320/
+
+Практика радиосвязи, как она есть | https://habrahabr.ru/post/127235/
+
+Разворачивание Unifi сети. Личный опыт от и до | https://habrahabr.ru/post/275843/
+
+Бесплатный WiFi для всех жителей Лондона (512 Кбит/с) | https://habrahabr.ru/post/125728/
+
+Локальная сеть на светодиодах (800 Mbps) | https://habrahabr.ru/post/125505/
+
+Беспилотник WASP научился перехватывать GSM-трафик | https://habrahabr.ru/post/125495/
+
+Представлен новый стандарт IEEE 802.22 | https://habrahabr.ru/post/125289/
+
+Поиск и управление устройствами в сетях GSM и CDMA (анонс доклада Black Hat) | https://habrahabr.ru/post/125182/
+
+Беспроводные чипы от Renesas Electronics Corp могут работать без аккумуляторов | https://habrahabr.ru/post/122183/
+
+Устройство для подмены новостей в WiFi-трафике | https://habrahabr.ru/post/120258/
+
+Использование Wi-Fi и мобильных телефонов в Европе могут ограничить | https://habrahabr.ru/post/119933/
+
+Каждой лампочке — по IP-адресу | https://habrahabr.ru/post/119477/
+
+Seagate выпустила беспроводный винчестер с аккумулятором | https://habrahabr.ru/post/119446/
+
+Трансляция WiFi на пустых телечастотах | https://habrahabr.ru/post/118335/
+
+Бесконтактная подзарядка для мобильных устройств | https://habrahabr.ru/post/117854/
+
+Кое-что о Wi-Fi | https://habrahabr.ru/post/117761/
+
+Бразильская полиция будет использовать hi-tech очки для обнаружения преступников в 2014 году | https://habrahabr.ru/post/117651/
+
+Беспроводное HD-видео: экстенедеры-видеосендеры, или заменители проводов | https://habrahabr.ru/post/105614/
+
+Беспроводное видео: встроенные беспроводные видеокарты | https://habrahabr.ru/post/100815/
+
+Беспроводное видео: внешние беспроводные видеокарты | https://habrahabr.ru/post/99928/
+

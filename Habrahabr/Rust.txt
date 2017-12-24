@@ -1,0 +1,298 @@
+Rust vs. C++ на алгоритмических задачах | https://habrahabr.ru/post/344282/
+
+Скриптуем на WebAssembly, или WebAssembly без Web | https://habrahabr.ru/post/344246/
+
+Выпуск Rust 1.22 (и 1.22.1) | https://habrahabr.ru/post/343058/
+
+Exonum 0.3 — что мы улучшили в новой версии фреймворка для разработки блокчейнов | https://habrahabr.ru/company/bitfury/blog/342970/
+
+Как создать блокчейн-проект на Exonum: краткое руководство | https://habrahabr.ru/company/bitfury/blog/342208/
+
+Небольшая история о команде `yes` в Unix | https://habrahabr.ru/post/342002/
+
+Выпуск Rust 1.21 | https://habrahabr.ru/post/340170/
+
+Игрушечный фронтенд для LLVM, написанный на Rust: Руководство для начинающих | https://habrahabr.ru/post/338420/
+
+Go быстрее Rust, Mail.Ru Group сделала замеры | https://habrahabr.ru/post/338268/
+
+RustGo: вызов Rust из Go с почти нулевым оверхедом | https://habrahabr.ru/post/337348/
+
+Concurrency паттерны в Rust из Java | https://habrahabr.ru/post/337232/
+
+Выпуск Rust 1.20 | https://habrahabr.ru/post/337058/
+
+Внутри супер-быстрого CSS-движка: Quantum CSS (aka Stylo) | https://habrahabr.ru/post/336722/
+
+«Ржавая» IP-камера: прошивка на Rust | https://habrahabr.ru/company/erlyvideo/blog/334912/
+
+Microsoft не изолировала Windows Defender в песочнице, так что это сделал я | https://habrahabr.ru/post/334792/
+
+Выпуск Rust 1.19 | https://habrahabr.ru/post/334068/
+
+Выпуск Rust 1.18 | https://habrahabr.ru/post/330778/
+
+Функциональный Rust: Готовим говядину | https://habrahabr.ru/post/283450/
+
+Новый Rust-митап уже 18 мая в ЛК: приходите – будет полезно | https://habrahabr.ru/company/kaspersky/blog/328500/
+
+Выпуск Rust 1.17 | https://habrahabr.ru/post/327708/
+
+Передача намерений | https://habrahabr.ru/post/326896/
+
+Пишем Telegram-бота на Rust, который будет запускать код на… Rust? | https://habrahabr.ru/post/326830/
+
+Опрос разработчиков от StackOverflow (2017) | https://habrahabr.ru/post/325636/
+
+Что я изменил бы в Go | https://habrahabr.ru/company/mailru/blog/325046/
+
+Пробуем делать web-frontend на Rust (WebAssembly) | https://habrahabr.ru/post/325008/
+
+Rust, Eclipse и STM32 | https://habrahabr.ru/post/324646/
+
+Выпуск Rust 1.16 | https://habrahabr.ru/post/324448/
+
+Прекрасные конечные автоматы на Rust | https://habrahabr.ru/post/324382/
+
+Изменение размера изображения с учётом содержимого | https://habrahabr.ru/post/324284/
+
+Разработка игр на Rust. Моя история | https://habrahabr.ru/post/323120/
+
+Ускоряем Node.js с помощью Rust | https://habrahabr.ru/post/323106/
+
+Графическое описание владения и заимствования в Rust | https://habrahabr.ru/post/322140/
+
+Черная магия метапрограммирования: как работают макросы в Rust 1.15 | https://habrahabr.ru/post/321620/
+
+Свершилось! Процедурные макросы в Rust 1.15 | https://habrahabr.ru/post/321564/
+
+Введение в CDRS, Apache Cassandra driver полностью написанный на Rust | https://habrahabr.ru/post/321594/
+
+Борьба с проверкой заимствования | https://habrahabr.ru/post/319808/
+
+Соревнование Underhanded Rust 2016 | https://habrahabr.ru/post/318122/
+
+Второй митап сообщества любителей Rust в «Лаборатории Касперского» | https://habrahabr.ru/company/kaspersky/blog/315502/
+
+Выпуск Rust 1.13 | https://habrahabr.ru/post/315192/
+
+Выпуск Rust 1.12.1 | https://habrahabr.ru/post/314702/
+
+RailsClub 2016: интервью со Steve Klabnik | https://habrahabr.ru/company/railsclub/blog/312746/
+
+Анонс Rust 1.12 | https://habrahabr.ru/post/311384/
+
+Складываем числа на Rust | https://habrahabr.ru/post/310572/
+
+Syncookied — OpenSource ddos protection system | https://habrahabr.ru/post/301892/
+
+Пять перспективных языков программирования со светлым будущим | https://habrahabr.ru/post/310252/
+
+Введение в futures-rs: асинхронщина на Rust [перевод] | https://habrahabr.ru/post/310234/
+
+Почему я отказался от Rust | https://habrahabr.ru/post/309968/
+
+Статическая и динамическая типизация | https://habrahabr.ru/post/308484/
+
+Анонс Rust 1.11 | https://habrahabr.ru/post/308124/
+
+Куча способов переиспользовать код в Rust | https://habrahabr.ru/post/307616/
+
+RailsClub 2016: 22 октября в Москве выступит создатель Ruby Yukihiro Matsumoto и не только он | https://habrahabr.ru/company/railsclub/blog/307416/
+
+Rust: for и итераторы | https://habrahabr.ru/post/306702/
+
+Rust: & и ref в паттернах | https://habrahabr.ru/post/306582/
+
+Мифы и легенды о переполнении целых чисел в Rust | https://habrahabr.ru/post/282958/
+
+Введение в Iron: плавим руду на Rust | https://habrahabr.ru/post/305714/
+
+Код Rust включен в Firefox 48 | https://habrahabr.ru/post/305536/
+
+Анонс Rust 1.10 | https://habrahabr.ru/post/305486/
+
+Большие бинари в моем Rust? | https://habrahabr.ru/post/305246/
+
+Разработка игр на Rust. Обзор экосистемы | https://habrahabr.ru/post/303976/
+
+Анонс Rust 1.9 | https://habrahabr.ru/post/301994/
+
+CoLaboratory: Rust — поговорим о Rust в «Лаборатории Касперского» 17 мая | https://habrahabr.ru/post/283202/
+
+Rust: От &str к Cow | https://habrahabr.ru/post/282708/
+
+Утечки не нарушают безопасность памяти | https://habrahabr.ru/post/281370/
+
+Анонс Rust 1.8 | https://habrahabr.ru/post/281152/
+
+Rust и Swift (третья, четвёртая, пятая и шестая части) | https://habrahabr.ru/post/280902/
+
+man!(C => D => Rust) | https://habrahabr.ru/post/280904/
+
+Rust через его основополагающие принципы | https://habrahabr.ru/post/280882/
+
+Установка Rust на Windows | https://habrahabr.ru/post/280790/
+
+man!(D => Rust).basics | https://habrahabr.ru/post/280642/
+
+Советы по написанию библиотек на Rust | https://habrahabr.ru/post/280482/
+
+Rust и Swift (вступление, первая и вторая части) | https://habrahabr.ru/post/280274/
+
+Работа с С-объединениями (union) в Rust FFI | https://habrahabr.ru/post/280063/
+
+Модули расширения Python на Rust | https://habrahabr.ru/company/dataart/blog/279561/
+
+Почему владение/заимствование в Rust такое сложное? | https://habrahabr.ru/post/278779/
+
+Анонс Rust 1.7 | https://habrahabr.ru/post/278649/
+
+Rust в деталях, часть 2 | https://habrahabr.ru/post/278635/
+
+Traits из коробки | https://habrahabr.ru/post/277461/
+
+Neon: Node + Rust | https://habrahabr.ru/post/277453/
+
+Rust и парадокс Блаба | https://habrahabr.ru/post/275801/
+
+Немного о static | https://habrahabr.ru/post/275791/
+
+Немного о константах | https://habrahabr.ru/post/275763/
+
+Анонс Rust 1.6 | https://habrahabr.ru/post/275593/
+
+Немного о модульной системе языка Rust(часть 2) | https://habrahabr.ru/post/275533/
+
+Немного о модульной системе языка Rust | https://habrahabr.ru/post/275467/
+
+Rust 1.5: Cargo с блэкджеком | https://habrahabr.ru/post/275157/
+
+Архитектура браузерного движка Servo | https://habrahabr.ru/post/274815/
+
+ProDBG переходит на Rust | https://habrahabr.ru/post/274767/
+
+Rust в 2016 году | https://habrahabr.ru/post/274757/
+
+Создание функции на Rust, которая возвращает String или &str | https://habrahabr.ru/post/274565/
+
+String и &str в функциях Rust | https://habrahabr.ru/post/274485/
+
+Создание функции на Rust, которая принимает String или &str | https://habrahabr.ru/post/274455/
+
+Rayon: параллелизм данных в Rust | https://habrahabr.ru/post/274299/
+
+Фреймворк для процедурных макросов в Rust | https://habrahabr.ru/post/274225/
+
+Сравниваем Swift и Rust | https://habrahabr.ru/post/272681/
+
+Начинаем использовать Rust | https://habrahabr.ru/post/270137/
+
+Обработка ошибок в Rust | https://habrahabr.ru/post/270371/
+
+Создаём REST-сервис на Rust. Часть 5: обработчики, рефакторинг, и макросы | https://habrahabr.ru/post/269903/
+
+Выпущен Rust 1.4 | https://habrahabr.ru/post/269809/
+
+Rust попал в индекс TIOBE | https://habrahabr.ru/post/268849/
+
+Создаём REST-сервис на Rust. Часть 4: переходим к REST API | https://habrahabr.ru/post/268617/
+
+Rust в деталях: пишем масштабируемый чат с нуля, часть 1 | https://habrahabr.ru/post/268609/
+
+Создаём REST-сервис на Rust. Часть 3: обновляем базу из консоли | https://habrahabr.ru/post/267779/
+
+Создаём REST-сервис на Rust. Часть 2: читаем INI; multirust | https://habrahabr.ru/post/267661/
+
+Создаём REST-сервис на PostgreSQL и Rust. Часть 1: прототип | https://habrahabr.ru/post/267477/
+
+Rust, дисциплинирующий язык программирования | https://habrahabr.ru/company/piter/blog/267203/
+
+Почему мы занимаемся переводом книги с английского на площадке GitHub | https://habrahabr.ru/post/266813/
+
+Заимствование и время существования в Rust | https://habrahabr.ru/post/266715/
+
+Анонс Rust 1.2 | https://habrahabr.ru/post/264387/
+
+Пишем свой упрощенный OpenGL на Rust — часть 3 (растеризатор) | https://habrahabr.ru/post/262235/
+
+Почему Go и Rust не враги, а друзья | https://habrahabr.ru/post/262889/
+
+Почему Go и Rust не соперники, а чертовы враги | https://habrahabr.ru/post/262841/
+
+Почему Go и Rust не соперники | https://habrahabr.ru/post/262779/
+
+Пишем свой упрощенный OpenGL на Rust — часть 2 (проволочный рендер) | https://habrahabr.ru/post/261739/
+
+Пишем свой упрощенный OpenGL на Rust — часть 1 (рисуем линию) | https://habrahabr.ru/post/261629/
+
+Сравнение производительности языков на примере простейшего классификатора | https://habrahabr.ru/post/261201/
+
+Основы Rust – Глава 2. Использование переменных и типов | https://habrahabr.ru/post/260759/
+
+Основы Rust. Глава 1 — Знакомство с Rust | https://habrahabr.ru/post/260147/
+
+Сравниваем Nim и Rust | https://habrahabr.ru/post/259993/
+
+Ржавая очевидность | https://habrahabr.ru/post/259299/
+
+Анонс Rust 1.0 | https://habrahabr.ru/post/258069/
+
+Абстракции без накладных расходов: типажи в Rust | https://habrahabr.ru/post/257775/
+
+Пиши на Rust — запускай везде. Взаимодействие Rust и C | https://habrahabr.ru/post/257687/
+
+Сопоставление с образцом, изменения и перемещения в Rust | https://habrahabr.ru/post/256941/
+
+Многопоточность в Rust | https://habrahabr.ru/post/256211/
+
+Релиз Rust 1.0 Beta | https://habrahabr.ru/post/254961/
+
+Rust 1.0: текущее состояние и окончательное расписание выхода версий | https://habrahabr.ru/post/250577/
+
+Heartbleed на Rust | https://habrahabr.ru/post/249537/
+
+Релиз Rust 1.0 Alpha | https://habrahabr.ru/post/247521/
+
+Rust: абстракции и безопасность, совершенно бесплатно (видеозапись с выступления на митапе Saratov Open-IT) | https://habrahabr.ru/post/244537/
+
+Стабильность как результат | https://habrahabr.ru/post/243315/
+
+В Rust 1.0 исключений не будет | https://habrahabr.ru/post/242269/
+
+Почему ваша первая реализация FizzBuzz на Rust может не работать | https://habrahabr.ru/post/240617/
+
+Числовые классы типов в Rust | https://habrahabr.ru/post/239151/
+
+Свежий взгляд на Rust | https://habrahabr.ru/post/239067/
+
+На пути к Rust 1.0 | https://habrahabr.ru/post/237199/
+
+Mozilla наметила план для выпуска Rust 1.0 | https://habrahabr.ru/post/237059/
+
+Rust: как код может быть одновременно быстрым и безопасным. Рассказ Степана Кольцова в Яндексе | https://habrahabr.ru/company/yandex/blog/235789/
+
+Rust на примерах. Часть 2 | https://habrahabr.ru/post/233621/
+
+Rust на примерах. Часть 1 | https://habrahabr.ru/post/232829/
+
+[Перевод] Почему Go не так хорош | https://habrahabr.ru/post/228849/
+
+Вышел rust 0.11.0 | https://habrahabr.ru/post/228485/
+
+Сравнение D и C++ и Rust на примерах | https://habrahabr.ru/post/225507/
+
+Сравнение Rust и С++ на примерах | https://habrahabr.ru/post/225003/
+
+Зачем нам нужен Rust? | https://habrahabr.ru/post/224607/
+
+Вышел Rust 0.10 | https://habrahabr.ru/post/218359/
+
+Вышел Rust 0.9 | https://habrahabr.ru/post/208664/
+
+Ключевые возможности Rust | https://habrahabr.ru/post/191916/
+
+Обзор языка программирования Rust | https://habrahabr.ru/post/135712/
+
+Язык программирования Rust | https://habrahabr.ru/post/129079/
+

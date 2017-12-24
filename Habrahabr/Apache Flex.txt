@@ -1,0 +1,42 @@
+Маппинг в C# на примере сериализатора для AMF | https://habrahabr.ru/post/320446/
+
+Настройка сборки Flex 4.14 проекта с использованием flexmojos 7.* | https://habrahabr.ru/post/262221/
+
+Разработка ММО РПГ – практическое руководство. Эпизод 1 | https://habrahabr.ru/company/starnigames/blog/254799/
+
+Яков Файн: «Мы не будем нанимать индийских программистов только потому, что они стоят половину» | https://habrahabr.ru/company/caspowa/blog/250091/
+
+CTOcast #4: Яков Файн (Farata Systems, SuranceBay) | https://habrahabr.ru/company/caspowa/blog/249461/
+
+Dependency Injection; Хорошо, но как? | https://habrahabr.ru/post/243625/
+
+Компилируем под iOS быстрее с AIR 4 | https://habrahabr.ru/post/188986/
+
+Библиотеки, которые еще могут пригодиться | https://habrahabr.ru/post/226305/
+
+Сборка flex/as3 проекта с использованием gradle | https://habrahabr.ru/post/180435/
+
+Сборка flex проекта с использованием maven | https://habrahabr.ru/post/178997/
+
+Статическая переменная инициализируется 2 раза | https://habrahabr.ru/post/178367/
+
+Сборка приложений под Android с использованием AIR SDK 3.6 в Linux | https://habrahabr.ru/post/170541/
+
+Flex Config. Описание синтаксиса конфигурационного файла | https://habrahabr.ru/post/155207/
+
+Использование flex-config.xml | https://habrahabr.ru/post/155177/
+
+Caché + Java + Flex. Особенности интеграции технологий. Часть 3 | https://habrahabr.ru/company/intersystems/blog/150454/
+
+Caché + Java + Flex. Часть 2 | https://habrahabr.ru/company/intersystems/blog/150031/
+
+Caché + Java + Flex, или как мы делали систему управления учебным планированием | https://habrahabr.ru/company/intersystems/blog/149704/
+
+Java-клиент для FlexMonkey, или Java-style LocalConnection | https://habrahabr.ru/post/148706/
+
+Генерация DTO и remote интерфейсов из Java в ActionScript | https://habrahabr.ru/post/144872/
+
+Сотрудник по фамилии Нуль обрушил корпоративное ПО | https://habrahabr.ru/post/142956/
+
+ASP.NET и Flex — дружба навек | https://habrahabr.ru/post/128001/
+

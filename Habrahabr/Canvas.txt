@@ -1,0 +1,310 @@
+Список лучших инструментов для web-анимации | https://habrahabr.ru/post/341554/
+
+Укрощение Змейки с помощью реактивных потоков | https://habrahabr.ru/company/infopulse/blog/338910/
+
+Как мы отмечали 256 день года и рисовали пиксели через API | https://habrahabr.ru/company/skbkontur/blog/338716/
+
+Пишем игру змейка с помощью JavaScript + Canvas | https://habrahabr.ru/post/334434/
+
+Canvas & SVG: работаем с графикой | https://habrahabr.ru/company/simbirsoft/blog/332750/
+
+Canvas — почти как SVG | https://habrahabr.ru/post/332192/
+
+Введение в Pixi.js или пишем мини-игру за 20 минут | https://habrahabr.ru/post/330174/
+
+Производительность WebGL-приложений | https://habrahabr.ru/company/oleg-bunin/blog/328526/
+
+Как Reddit создал r/Place | https://habrahabr.ru/company/badoo/blog/326984/
+
+Круглый график на Canvas | https://habrahabr.ru/post/325428/
+
+Создание вашей первой игры на Phaser. Часть 3 — Создание игрового мира | https://habrahabr.ru/post/325384/
+
+Создание вашей первой игры на Phaser. Часть 2 — Загрузка ресурсов | https://habrahabr.ru/post/325220/
+
+Создание вашей первой игры на Phaser. Часть 1 — Введение | https://habrahabr.ru/post/324896/
+
+Создание вашей первой игры на Phaser. Часть 0 — Подготовка к работе | https://habrahabr.ru/post/324894/
+
+VR/AR в браузере. Как быстро влиться и сделать свое первое приложение, используя WebVR API | https://habrahabr.ru/company/tuturu/blog/324570/
+
+KeepDraw.js — javascript framework для рисования на canvas | https://habrahabr.ru/post/320488/
+
+Карточная игра на JavaScript и Canvas, или персональный Лас-Вегас. Часть 1 | https://habrahabr.ru/post/320080/
+
+Отрисовка карт с условными координатами | https://habrahabr.ru/post/317024/
+
+Транслируем в Facebook красиво: титры и их кастомизатор | https://habrahabr.ru/post/316664/
+
+WebRTC: Делаем peer to peer игру на javascript | https://habrahabr.ru/company/badoo/blog/315812/
+
+Как я писал игру на конкурс, или чудесное превращение «Линий» в «Морской бой» | https://habrahabr.ru/post/313682/
+
+NanoFL: краткое описание возможностей | https://habrahabr.ru/company/nanofl/blog/311086/
+
+FConsole — инструмент для отладки PIxi.js (Canvas/WebGL) приложений | https://habrahabr.ru/post/308804/
+
+ThreeJS Editor | https://habrahabr.ru/post/307334/
+
+Спидометр на HTML5 Canvas | https://habrahabr.ru/post/306664/
+
+Растянуть Canvas и элементы внутри него по всей клиентской области | https://habrahabr.ru/post/306008/
+
+Нейронные сети на Javascript | https://habrahabr.ru/post/304414/
+
+Оптимизируем React приложение для отображения списка элементов | https://habrahabr.ru/post/304340/
+
+Как ONLYOFFICE помирил два поколения формул Microsoft | https://habrahabr.ru/company/teamlab/blog/281134/
+
+Интерактивное видео и с чем его едят | https://habrahabr.ru/company/innopolis_university/blog/280372/
+
+jsPDF + canvas: экспорт в PDF многостраничной таблицы на русском языке | https://habrahabr.ru/post/278047/
+
+Сборка гибридного приложения под Android | https://habrahabr.ru/post/277729/
+
+Про использование React с элементом canvas | https://habrahabr.ru/post/276585/
+
+Простейшие клеточные автоматы и их практическое применение | https://habrahabr.ru/post/273393/
+
+Одиннадцать важных функций ONLYOFFICE, которых нет ни в MS Office Online, ни в Google Docs | https://habrahabr.ru/company/teamlab/blog/275471/
+
+Анимация падающего снега на Canvas эффективнее анимации на DOM в несколько раз | https://habrahabr.ru/post/274535/
+
+Asterisk: каждый звонок как прыгающий мячик | https://habrahabr.ru/post/274155/
+
+Пользовательские плагины в JavaScript играх | https://habrahabr.ru/company/wargaming/blog/271357/
+
+100 строк на canvas-е: часть 1 | https://habrahabr.ru/post/270255/
+
+Рецепт вращения планет в космосе на HTML5 + JavaScript | https://habrahabr.ru/post/268975/
+
+Браузерная 3D WebGL игра с возможностью установки в IndexedDB | https://habrahabr.ru/post/268919/
+
+Карта Московского Метро. SVG-версия | https://habrahabr.ru/post/268199/
+
+Визуализация кристаллических 3d-структур в браузере без плагинов | https://habrahabr.ru/post/265673/
+
+Xonix на Javascript с картинками | https://habrahabr.ru/post/261853/
+
+Скруглы — border-radius inset для картинок | https://habrahabr.ru/post/259603/
+
+Моделирование объектов для анимации на Canvas | https://habrahabr.ru/post/259465/
+
+Пересчет изображений под разные картографические проекции в webGL | https://habrahabr.ru/post/258415/
+
+HTML-страница на Canvas | https://habrahabr.ru/post/258331/
+
+Знакомимся с Fabric.js. Часть 4-я | https://habrahabr.ru/post/257401/
+
+Рисование эллипса под произвольным углом в canvas на JavaScript | https://habrahabr.ru/post/255485/
+
+Конвертируем svg to png | https://habrahabr.ru/post/254973/
+
+Знакомимся с Fabric.js. Часть 3-я | https://habrahabr.ru/post/254763/
+
+Разработка векторного редактора на JavaScript (часть вторая, с исходниками) | https://habrahabr.ru/post/254291/
+
+Интерактивная карта торгового центра на HTML5 canvas | https://habrahabr.ru/company/arcadia/blog/251335/
+
+PCE.js и старое железо в браузере | https://habrahabr.ru/post/231169/
+
+Создание игр без Canvas | https://habrahabr.ru/post/252897/
+
+Konva.js — HTML5 2d canvas framework | https://habrahabr.ru/post/250897/
+
+Кривые Безье-де Кастельжо. Canvas HTML5 | https://habrahabr.ru/post/249103/
+
+Караоке на HTML5 canvas | https://habrahabr.ru/post/248783/
+
+Звездное небо на webGL с использованием three.js | https://habrahabr.ru/post/247571/
+
+Форматирование изображений с помощью Canvas | https://habrahabr.ru/post/229809/
+
+Солнечная система на graphics2d.js | https://habrahabr.ru/post/243457/
+
+Graphics2D.js — объекты, интерактивность, анимация на canvas… И ничего лишнего | https://habrahabr.ru/post/239261/
+
+Бесплатные офисные приложения: редактируй это! | https://habrahabr.ru/post/241187/
+
+Pixi-editor — простая рисовалка на pixi.js | https://habrahabr.ru/post/234545/
+
+Разработка векторного редактора на JavaScript (сложности и идеи) | https://habrahabr.ru/post/233453/
+
+Фреймворк RPG JS v2 для создания браузерной 2D онлайн-игры | https://habrahabr.ru/post/227103/
+
+Муравей Лэнгтона на JS и Canvas | https://habrahabr.ru/post/226957/
+
+Как я делал виджет управления мощностью для своего браузерного симулятора космических полетов | https://habrahabr.ru/post/224173/
+
+Звездное Небо на Canvas. Созвездия | https://habrahabr.ru/post/214373/
+
+Использование Audio API для создания вокодера | https://habrahabr.ru/post/211905/
+
+Генератор космических кораблей из арматуры | https://habrahabr.ru/post/210622/
+
+Генерация деревьев на HTML5 Canvas | https://habrahabr.ru/post/210614/
+
+Пробуем Audio API на примере написания визуализатора | https://habrahabr.ru/post/210422/
+
+Microsoft, к доске! Или чему Office365 может поучиться у редактора на Canvas | https://habrahabr.ru/post/209190/
+
+Разработка тайловой игры на JavaScript (Robbo) | https://habrahabr.ru/post/207920/
+
+Генерация лабиринтов алгоритмом Эйлера в 30 строк | https://habrahabr.ru/post/203478/
+
+HTML5 Canvas Схема пригородного движения ж/д сообщения Москвы и МО | https://habrahabr.ru/post/203462/
+
+Змейка на Canvas | https://habrahabr.ru/post/202014/
+
+Решение проблемы border-radius + overflow:hidden с помощью canvas | https://habrahabr.ru/post/179525/
+
+Полноценные события мыши на графических элементах Canvas | https://habrahabr.ru/post/195966/
+
+Написание клиента-бота для schemaverse | https://habrahabr.ru/post/195322/
+
+Генератор случайных котов за 8 шагов | https://habrahabr.ru/post/195142/
+
+Rainyday.js | https://habrahabr.ru/post/194900/
+
+Карта Московского Метро на Canvas | https://habrahabr.ru/post/193778/
+
+Esboza — векторный редактор online & фреймворк (Часть вторая) | https://habrahabr.ru/post/176779/
+
+Звездное небо на Canvas | https://habrahabr.ru/post/189692/
+
+Карта с проекциями из Proj4js на Canvas | https://habrahabr.ru/post/187176/
+
+Реалистичный дым на Canvas | https://habrahabr.ru/post/185482/
+
+LibCanvas: На пути к звёздам | https://habrahabr.ru/post/181554/
+
+Элементарный симулятор полёта спутника | https://habrahabr.ru/post/181664/
+
+Тестирование приложений на Canvas: рецепты на примере тестирования API Яндекс.Карт | https://habrahabr.ru/company/yandex/blog/177163/
+
+Генерация случайных лиц в PaperJS | https://habrahabr.ru/post/176691/
+
+Гиперпространство на JavaScript | https://habrahabr.ru/post/176325/
+
+Игры с физикой благодаря HTML5 и JS. Программист симулирует движение ткани | https://habrahabr.ru/post/174659/
+
+Github Visualizer — Сервис визуализации истории репозиториев с GitHub | https://habrahabr.ru/post/174375/
+
+Изометрический сапёр на LibCanvas (html5) | https://habrahabr.ru/post/168705/
+
+Классический сапёр на html5 и LibCanvas | https://habrahabr.ru/post/168435/
+
+Искусственный интеллект. Моделируем спасательную операцию | https://habrahabr.ru/post/167973/
+
+Знакомимся с Fabric.js. Часть 2-я | https://habrahabr.ru/post/167119/
+
+Physics Snake. С нуля. Часть первая | https://habrahabr.ru/post/167007/
+
+Ещё одна «Солнечная cистема» на HTML5 Canvas | https://habrahabr.ru/post/164899/
+
+Солнечная система на LibCanvas | https://habrahabr.ru/post/163893/
+
+История одного хабраспора | https://habrahabr.ru/post/163703/
+
+just2d — создаем «идеальный» игровой движок. Шаг 1 | https://habrahabr.ru/post/163581/
+
+Своя игра с JavaScript и Canvas | https://habrahabr.ru/post/163373/
+
+Javascript: Рисуем с помощью кривых Безье | https://habrahabr.ru/post/163073/
+
+W3C объявили о завершении работы над спецификациями HTML 5 и Сanvas 2D, а также о начале работы над HTML 5.1 | https://habrahabr.ru/post/162931/
+
+Знакомимся с Fabric.js. Часть 1-я | https://habrahabr.ru/post/162367/
+
+Buildy: песочница для взрослых на HTML5 | https://habrahabr.ru/post/158797/
+
+Как выглядят 100 000 звёзд | https://habrahabr.ru/post/158701/
+
+JPG, прозрачность, Canvas, анимация | https://habrahabr.ru/post/154103/
+
+Web Workers работа с Canvas | https://habrahabr.ru/post/151722/
+
+Т-фракталы на JavaScript Canvas | https://habrahabr.ru/post/145801/
+
+Киберпанк, матрицы и canvas | https://habrahabr.ru/post/149098/
+
+Работа с изометрическими матрицами. Часть 1 | https://habrahabr.ru/post/145141/
+
+WebGl-2d.js: Реализация Canvas 2D API на WebGL | https://habrahabr.ru/post/145034/
+
+Lake.js: плагин к jQuery для отражения иллюстраций как бы в воде озера | https://habrahabr.ru/post/143275/
+
+Игра Input/Output или развлекаемся в ожидании Google IO 2012 | https://habrahabr.ru/post/142553/
+
+Рисуем карту изображения мышкой | https://habrahabr.ru/post/142419/
+
+Web-Drawing библиотеки: Paper.js Vs. Processing.js Vs. Raphael.js | https://habrahabr.ru/post/140286/
+
+Как раскрыть мощь HTML5 Canvas для игр | https://habrahabr.ru/company/microsoft/blog/141482/
+
+Canvas с аппаратным ускорением в Google Chrome | https://habrahabr.ru/post/141156/
+
+Создание соединительных стрелок для блочных элементов используя canvas | https://habrahabr.ru/post/140856/
+
+BrowserQuest — многопользовательская игра на canvas | https://habrahabr.ru/post/140806/
+
+Выводим текст на HTML5 Canvas | https://habrahabr.ru/post/140235/
+
+Пиксельные искажения с билинейной фильтрацией в HTML5 canvas | https://habrahabr.ru/post/138668/
+
+3D Роза методом Монте-Карло | https://habrahabr.ru/post/137762/
+
+Код StarchartJs раскрыт под лицензией MIT | https://habrahabr.ru/post/135573/
+
+Рисование по Canvas через WebSockets, или как работала наша демка на HTML5 Camp | https://habrahabr.ru/company/microsoft/blog/134097/
+
+FiveGUI — красивые кнопочки для canvas'a | https://habrahabr.ru/post/133953/
+
+Диаграмма процентовки «за и против» на canvas | https://habrahabr.ru/post/131818/
+
+Анимация спрайтов при помощи CSS, JS и Canvas | https://habrahabr.ru/post/130193/
+
+Верхом на танке — Часть 1 — Поле боя | https://habrahabr.ru/post/127694/
+
+Обработка 2D столкновений с использованием LibCanvas | https://habrahabr.ru/post/124869/
+
+Новый Javascript фреймворк основаный на Scriptographer | https://habrahabr.ru/post/123415/
+
+Основы LibCanvas — практика | https://habrahabr.ru/post/121047/
+
+Основы LibCanvas — теория | https://habrahabr.ru/post/121046/
+
+Еще одно Canvas руководство [4]: The end | https://habrahabr.ru/post/119621/
+
+[Графический редактор на Canvas] Мягкая кисть | https://habrahabr.ru/post/119891/
+
+Создание фреймворка для Canvas: объекты и мышь | https://habrahabr.ru/post/119773/
+
+Canvas F.A.Q | https://habrahabr.ru/post/119772/
+
+Анимация и Canvas | https://habrahabr.ru/post/119585/
+
+[Графический редактор на Canvas] Кисть для скетчей | https://habrahabr.ru/post/119429/
+
+Как написать ПингПонг при помощи LibCanvas | https://habrahabr.ru/post/119420/
+
+Еще одно Canvas руководство [3]: Рисование изображений и текста, сохранение изображения и состояния | https://habrahabr.ru/post/119305/
+
+FAQ по Canvas: задавайте вопросы | https://habrahabr.ru/post/119364/
+
+Еще одно Canvas руководство [2]: Стилизация, градиенты, тени | https://habrahabr.ru/post/119284/
+
+Еще одно Canvas руководство [1]: Canvas элемент, прямоугольники, пути | https://habrahabr.ru/post/119238/
+
+Пятнашки на LibCanvas | https://habrahabr.ru/post/118567/
+
+Canvas: пятнадцать минут на пятнашки | https://habrahabr.ru/post/118356/
+
+Three.js — 3d движок на Javascript | https://habrahabr.ru/post/117772/
+
+Canvas Indicator — альтернатива для AjaxLoad.gif | https://habrahabr.ru/post/114080/
+
+HTML5 CANVAS шаг за шагом: Изображения | https://habrahabr.ru/post/111385/
+
+CANVAS шаг за шагом: Основы | https://habrahabr.ru/post/111308/
+

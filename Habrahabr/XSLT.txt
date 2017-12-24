@@ -1,0 +1,88 @@
+Семантическая разметка: LaTeX, DocBook или ??? | https://habrahabr.ru/post/339436/
+
+Как я разбирал docx с помощью XSLT | https://habrahabr.ru/company/intersystems/blog/321044/
+
+Генерация автоматических тестов: Excel, XML, XSLT, далее — везде | https://habrahabr.ru/post/312520/
+
+SSI сайт: HTML, XML, XSLT | https://habrahabr.ru/post/276491/
+
+Angular XSLT module | https://habrahabr.ru/post/268825/
+
+Публикация DITA в PDF с использованием DITA Open Toolkit. Разметка страниц — обзор layout-master | https://habrahabr.ru/post/266497/
+
+Публикация DITA в PDF с использованием DITA Open Toolkit | https://habrahabr.ru/post/266021/
+
+Dagaz: Вновь об XSLT | https://habrahabr.ru/post/245849/
+
+PHPStamp — честная генерация DOCX документов из шаблона | https://habrahabr.ru/post/244421/
+
+JSXML или работа с xml\xslt в javascript | https://habrahabr.ru/post/239859/
+
+PHP-расширение dom_varimport: быстрое преобразования вложенных массивов в DOMDocument | https://habrahabr.ru/post/219907/
+
+Xalan, Saxon и 8 ферзей | https://habrahabr.ru/post/203004/
+
+Импорт KeePass БД паролей в KWallet | https://habrahabr.ru/post/190880/
+
+JAXB и XSLT с использованием StAX | https://habrahabr.ru/post/185360/
+
+Пагинатор (постраничная навигация) на XSLT | https://habrahabr.ru/post/174977/
+
+Использование XSLT для предотвращения XSS путем фильтрации пользовательского контента | https://habrahabr.ru/post/171557/
+
+Zend Framework: XSL и самостоятельная сериализация Views | https://habrahabr.ru/post/166631/
+
+Easyweb: Новогоднее обновление | https://habrahabr.ru/post/164397/
+
+Easyweb — XSLT-движок для веба | https://habrahabr.ru/post/162997/
+
+Использование xslt-шаблонов в реальных проектах | https://habrahabr.ru/post/151241/
+
+Добавляем сахар в XSLT | https://habrahabr.ru/post/143103/
+
+Случайная сортировка и вывод случайных элементов в XSLT | https://habrahabr.ru/post/141673/
+
+Многоуровневое меню в XSLT | https://habrahabr.ru/post/138997/
+
+Постраничная навигация в XSLT | https://habrahabr.ru/post/138740/
+
+Производительный и читабельный XSLT: сборник советов | https://habrahabr.ru/post/124854/
+
+Облако тегов средствами XSLT | https://habrahabr.ru/post/114983/
+
+Решение проблем обработки XSLT на стороне клиента (часть 2) | https://habrahabr.ru/post/107883/
+
+XPath наглядно | https://habrahabr.ru/post/107004/
+
+Решение проблем обработки XSLT на стороне клиента | https://habrahabr.ru/post/105242/
+
+Преобразование даты в международный формат(UTC). Шаблон для версий XSLT от 1.0 | https://habrahabr.ru/post/106216/
+
+Другая книга про XSLT | https://habrahabr.ru/post/102822/
+
+Timestamp из даты-времени с помощью XSLT | https://habrahabr.ru/post/95771/
+
+Почти год как закрыт xmlhack.ru | https://habrahabr.ru/post/94183/
+
+Кроссбраузерные HTML инклуды \(^_^)/ | https://habrahabr.ru/post/90373/
+
+Преобразование FB2 в XHTML с сохранением вложенных рисунков | https://habrahabr.ru/post/75827/
+
+Проверка равенства, неравенства, идентичности узлов в XPath | https://habrahabr.ru/post/70181/
+
+Получение дерева уникальных элементов при помощи цепочного преобразования | https://habrahabr.ru/post/68364/
+
+Дерево в выпадающем списке средствами XSLT | https://habrahabr.ru/post/65077/
+
+Локализация с помощью сущностей | https://habrahabr.ru/post/61501/
+
+Три редкоиспользуемые оси в XPath | https://habrahabr.ru/post/52680/
+
+Рекурсивные шаблоны в XSLT | https://habrahabr.ru/post/47545/
+
+Правильный textarea в XSLT с методом вывода XML | https://habrahabr.ru/post/27666/
+
+Практический XSLT. Использование в качестве шаблонизатора. Часть 2 | https://habrahabr.ru/post/22339/
+
+Практический XSLT. Использование в качестве шаблонизатора | https://habrahabr.ru/post/22236/
+

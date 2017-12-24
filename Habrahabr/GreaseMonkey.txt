@@ -1,0 +1,102 @@
+Свой шаблон отклика-письма на HeadHunter (и moikrug) без Copy-Paste | https://habrahabr.ru/post/259881/
+
+Userscripts.org: ищем альтернативы | https://habrahabr.ru/post/226053/
+
+Как запускать расширения Хрома не из магазина WebStore | https://habrahabr.ru/post/226063/
+
+Интерфейс Firefox 29+ и его кастомизация | https://habrahabr.ru/post/221771/
+
+Новый хаб «Chrome Extensions» (с октября 2014 — «Расширения для браузеров») | https://habrahabr.ru/post/217641/
+
+Подготовка поста к печати | https://habrahabr.ru/post/210424/
+
+Как я достроил Хабрахабр | https://habrahabr.ru/post/197736/
+
+Человеческий парсер на Selenium WD | https://habrahabr.ru/post/186496/
+
+Редактирование своей статьи на Хабре через выделение цитаты в HabrAjax; поддержка Iceweasel | https://habrahabr.ru/post/177427/
+
+Новая тема HabrAjax | https://habrahabr.ru/post/154923/
+
+Угадываем знаменитость | https://habrahabr.ru/post/154801/
+
+Более лучший навигатор по комментариям | https://habrahabr.ru/post/152063/
+
+«Пользовательские скрипты могут быть добавлены только из Интернет-магазина Chrome»? Нет, не только | https://habrahabr.ru/post/150693/
+
+Дао роста полей | https://habrahabr.ru/post/148188/
+
+Пример воздействия масс-эффекта на количество скачиваний | https://habrahabr.ru/post/144112/
+
+Получение кроссдоменных данных в Google Chrome через юзерскрипт (обход бага) | https://habrahabr.ru/post/142862/
+
+Вкладка «Всё» от 23 апреля — просмотр вопросов и ответов без перезагрузки страниц | https://habrahabr.ru/post/142765/
+
+Управление шарингами и лайками на Хабряксе | https://habrahabr.ru/post/142360/
+
+Факторы популярности юзерскриптов на примере одного сайта | https://habrahabr.ru/post/142103/
+
+Создание кроссбраузерной оболочки для пользовательских скриптов | https://habrahabr.ru/post/140825/
+
+Изменения на Хабре глазами разработчика со стороны | https://habrahabr.ru/post/140019/
+
+Habrahabr Sausage Navigation | https://habrahabr.ru/post/116965/
+
+Просмотр видео не уходя с сайта | https://habrahabr.ru/post/116311/
+
+Обновляем счётчик сообщений Вконтакте без перезагрузки страницы | https://habrahabr.ru/post/111092/
+
+Приведение дизайна Jira к читабельному виду | https://habrahabr.ru/post/109139/
+
+Кнопка Evernote site memory для Хабра | https://habrahabr.ru/post/104606/
+
+Улучшаем Google Calendar | https://habrahabr.ru/post/97144/
+
+ГОСТы по GreaseMonkey'вски | https://habrahabr.ru/post/90615/
+
+Электронная регистрация на поезд РЖД — экспорт билета в Гугл- и Яндекс.Календарь | https://habrahabr.ru/post/90154/
+
+Доработка скрипта быстрого показа кармы (FF, Chrome, Opera) | https://habrahabr.ru/post/88727/
+
+HabrTree — скрипт сворачивающий по оценке | https://habrahabr.ru/post/87467/
+
+Навигация между лучшими комментариями | https://habrahabr.ru/post/78958/
+
+Экспорт Дней рождения из вКонтакте в Google Calendar | https://habrahabr.ru/post/75966/
+
+Автообновление скриптов в следующей версии Greasemonkey | https://habrahabr.ru/post/74309/
+
+Используем jQuery в скриптах GreaseMonkey | https://habrahabr.ru/post/74067/
+
+Пишем кроссбраузерный UserJS. Пример №3: TwitPic thumbnails | https://habrahabr.ru/post/74012/
+
+Пишем кроссбраузерный UserJS. Пример №2: переопределяем alert() | https://habrahabr.ru/post/73928/
+
+Решение проблемы с созданием нового скрипта | https://habrahabr.ru/post/73908/
+
+Пишем кроссбраузерный UserJS. Пример №1: меняем логотип Яндексу | https://habrahabr.ru/post/73901/
+
+Счетчик задач в GMail | https://habrahabr.ru/post/73096/
+
+Nice alert | https://habrahabr.ru/post/70850/
+
+Faviconize Google | https://habrahabr.ru/post/70209/
+
+vkontakte audio leech mod for downthemall | https://habrahabr.ru/post/49464/
+
+Старый favicon в Google | https://habrahabr.ru/post/49184/
+
+БесКликовость для всех | https://habrahabr.ru/post/44893/
+
+HabraGoogle | https://habrahabr.ru/post/43241/
+
+Обновление пользовательских скриптов. Версия TBMS. | https://habrahabr.ru/post/39690/
+
+Укрощаем GreaseMonkey | https://habrahabr.ru/post/39431/
+
+Пишем свой первый скрипт для Greasemonkey | https://habrahabr.ru/post/39214/
+
+Habrahabr: Просмотр предыдущего комментария в дереве | https://habrahabr.ru/post/38332/
+
+HabraImprover | https://habrahabr.ru/post/38275/
+

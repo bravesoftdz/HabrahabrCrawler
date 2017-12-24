@@ -1,0 +1,214 @@
+По следам кибердетектива | https://habrahabr.ru/post/338078/
+
+По следам Petya: находим и эксплуатируем уязвимость в программном обеспечении | https://habrahabr.ru/company/neobit/blog/335046/
+
+SHA2017 CTF: Нужно больше трафика | https://habrahabr.ru/post/335012/
+
+Гремлины и ELFийская магия: а что, если ELF-файл — это контейнер? | https://habrahabr.ru/company/neobit/blog/332918/
+
+Результаты первого тура CTFzone | https://habrahabr.ru/company/bizone/blog/333858/
+
+Постквантовая криптография и закат RSA — реальная угроза или мнимое будущее? | https://habrahabr.ru/company/neobit/blog/332942/
+
+Решение promo task от BI.ZONE CTF | https://habrahabr.ru/company/pm/blog/332930/
+
+Hard Reverse или особенности реверса файлов для архитектуры PowerPC Big-Endian | https://habrahabr.ru/company/neobit/blog/330004/
+
+NeoQUEST-2017: что ждёт гостей на юбилейной «Очной ставке»? | https://habrahabr.ru/company/neobit/blog/330014/
+
+BI.ZONE объявляет выборы президента CTFzone | https://habrahabr.ru/company/bizone/blog/329994/
+
+YUBITSEC CTF: Изучайте реверс или +925 очков рейтинга за несколько минут | https://habrahabr.ru/post/327290/
+
+VulnHub: Новая серия — hackfest2016 Quaoar | https://habrahabr.ru/post/326622/
+
+«Человек посередине», использующий отозванные сертификаты. Часть 1 | https://habrahabr.ru/company/neobit/blog/325490/
+
+UFOCTF 2017: декомпилируем Python в задании King Arthur (PPC600) | https://habrahabr.ru/post/325580/
+
+Криптовалюта Ethereum: пишем эксплойт под уязвимый умный контракт и получаем токены | https://habrahabr.ru/company/neobit/blog/324456/
+
+[NeoQuest2017] 6 планета или «Слишком много всего…» | https://habrahabr.ru/post/324360/
+
+Розовый скафандр, криптовалюта и генномодифицированный iOS: задания online-этапа NeoQUEST-2017 и немного статистики | https://habrahabr.ru/company/neobit/blog/323838/
+
+Что делать если вас заперли в rbash | https://habrahabr.ru/post/324132/
+
+[NeoQuest2017] «МУЛЬТИПАСПОРТ!» и розовый скафандр | https://habrahabr.ru/post/323830/
+
+NeoQuest 2017: Выбираемся из додекаэдра, не запуская ничего в qemu | https://habrahabr.ru/post/323820/
+
+[NeoQuest2017] «В поиске землян» и не только… | https://habrahabr.ru/post/323778/
+
+NeoQuest 2017: Реверс андроид приложения в задании «Почини вождя!» | https://habrahabr.ru/post/323656/
+
+Exploit Exercises: Введение в эксплуатацию бинарных уязвимостей на примере Protostar | https://habrahabr.ru/post/320460/
+
+Поиск уязвимости методом фаззинга и разработка шеллкода для её эксплуатации | https://habrahabr.ru/company/neobit/blog/321912/
+
+VulnHub: Выкидываем неугодных из IRC в Wallaby's Nightmare | https://habrahabr.ru/post/321384/
+
+Анализ взаимодействия мобильных Android-приложений с API социальных сетей Facebook, Instagram, ВКонтакте | https://habrahabr.ru/company/neobit/blog/320650/
+
+Hack.me: Ещё одна площадка для оттачивания навыков в области ИБ | https://habrahabr.ru/post/320694/
+
+Регистрация открыта или NeoQUEST, ты просто космос | https://habrahabr.ru/company/neobit/blog/319534/
+
+Эй, телевизор, ты что, самый «умный»? | https://habrahabr.ru/company/neobit/blog/320188/
+
+VulnHub: Погружаемся в хакинг в стиле сериала Mr. Robot | https://habrahabr.ru/post/320106/
+
+VulnHub: USV 2016. CTF в Румынии, какие они? | https://habrahabr.ru/post/319586/
+
+VulnHub: Реверсим всё что можно в DC416 Baffle | https://habrahabr.ru/post/318860/
+
+Exploit Exercises или ещё один сайт для любителей VulnHub | https://habrahabr.ru/post/319380/
+
+VulnHub: Разбираем самый короткий квест DC416 Fortress | https://habrahabr.ru/post/319204/
+
+VulnHub: Слепая эксплуатация и Брайнфак в DC416 Basement | https://habrahabr.ru/post/318998/
+
+33C3 CTF Эксплуатируем уязвимость LaTeX'а в задании pdfmaker | https://habrahabr.ru/post/318850/
+
+VulnHub: Разбор IMF 1 и очередное переполнение буфера | https://habrahabr.ru/post/318814/
+
+CTFzone write-ups — Grand Finale | https://habrahabr.ru/company/bizone/blog/318652/
+
+VulnHub: Эксплуатируем уязвимость переполнения буфера в Lord Of The Root | https://habrahabr.ru/post/318238/
+
+VulnHub: Разбор DC416 Dick Dastardly | https://habrahabr.ru/post/318372/
+
+VulnHub Разбор заданий с CTF SkyDog: 2016 — Catch Me If You Can | https://habrahabr.ru/post/317878/
+
+VulnHub Разбор HackDay: Albania | https://habrahabr.ru/post/317822/
+
+VulnHub Решение простого 64Base: Boot2Root | https://habrahabr.ru/post/317346/
+
+CTFzone write-ups — Deeper into the WEB | https://habrahabr.ru/company/bizone/blog/317422/
+
+Записки с M*CTF | https://habrahabr.ru/post/317336/
+
+CTFzone write-ups — MISC it all up | https://habrahabr.ru/company/bizone/blog/316846/
+
+CTFzone write-ups – Shall I reverse it? | https://habrahabr.ru/company/bizone/blog/316420/
+
+CTFzone write-ups – Going 300, going 500, OSINT sold | https://habrahabr.ru/company/bizone/blog/316166/
+
+CTFzone write-ups – First comes Forensics | https://habrahabr.ru/company/bizone/blog/315954/
+
+[ZeroNights2016] [CTFzone] Без 100 грамм не разберёшься | https://habrahabr.ru/post/315898/
+
+[ZeroNights2016] [CTFzone] Разбор полётов за 50 | https://habrahabr.ru/post/315876/
+
+Решение пасхалки из анонса CTF от Bi.Zone | https://habrahabr.ru/company/bizone/blog/315338/
+
+CTF от Bi.Zone на ZeroNights2016 | https://habrahabr.ru/company/bizone/blog/315026/
+
+Epic CTF-battle от QIWI и «Информзащиты» на ZeroNights 2016 – ₽250К победителям | https://habrahabr.ru/company/qiwi/blog/311410/
+
+Как не надо делать сети | https://habrahabr.ru/post/311368/
+
+О разработке предстоящего CTF с оффлайн квестом для всеукраинской битвы хакеров | https://habrahabr.ru/post/308270/
+
+«Противостояние» глазами защитника: Рассказ о PHDays CTF от участника соревнований | https://habrahabr.ru/company/pt/blog/304638/
+
+В Питере быть: доклады «очной ставки» NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/304028/
+
+Путешествие в Onionland: взлом скрытого сервиса из даркнета в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/282778/
+
+Это все потому, что у кого-то слишком маленькая экспонента: атака Хастада на RSA в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/303264/
+
+Вам Telegramma: SPARQL-инъекции и CSRF через Telegram-сообщения в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/282173/
+
+О нетрадиционном способе использования компьютерной мыши | https://habrahabr.ru/company/neobit/blog/282782/
+
+Facebook выложил на Гитхаб свою платформу для проведения CTF — Facebook CTF | https://habrahabr.ru/post/283380/
+
+Разбор заданий с Google CTF 2016: Mobile | https://habrahabr.ru/post/282846/
+
+Forensic VS шрёдер: получение доступа к удаленным файлам | https://habrahabr.ru/company/neobit/blog/264597/
+
+Полиция против мафии или занимательная статистика online-этапа NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/280348/
+
+Получаем доступ к облаку XenServer через доступ к одной виртуальной машине | https://habrahabr.ru/company/neobit/blog/264555/
+
+Открыта регистрация на NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/277247/
+
+Kaspersky Industrial CTF: время защищать подстанции, и время ломать подстанции | https://habrahabr.ru/company/kaspersky/blog/268243/
+
+Битва с роботом, опасности социальных сетей и хакнутый WiFi: как прошел NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/264369/
+
+Хардкорный олдскул: QEMU и реверс образа флоппика | https://habrahabr.ru/company/neobit/blog/261081/
+
+StepCTF’15: как мы проводили CTF на Stepic | https://habrahabr.ru/company/stepic/blog/261195/
+
+Масоны выбирают солнце: взлом программы для Sun Solaris & SPARC в задании NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/255079/
+
+Доклады и конкурсы на NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/255629/
+
+Простая криптография: частотный и дифференциальный криптоанализ в задании NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/258893/
+
+NeoQUEST-2015: HeartBleed, Android и немного реверса | https://habrahabr.ru/company/neobit/blog/258169/
+
+Как я проходил первый хак квест CTF Ratazana | https://habrahabr.ru/post/258065/
+
+Форензика и стеганография в видеофайле: разбор заданий online-этапа NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/257737/
+
+SibSUTIS CTF 2015: Как мы проводили свои студенческие соревнования | https://habrahabr.ru/post/252303/
+
+Открыта регистрация на NeoQUEST-2015: «Сокровища масонов» | https://habrahabr.ru/company/neobit/blog/248567/
+
+No cON Name CTF 2014 Final | https://habrahabr.ru/post/245011/
+
+Безумная тачка, полулегальный TPM и жидкий азот: чем запомнился NeoQUEST-2014 | https://habrahabr.ru/company/neobit/blog/230579/
+
+DEF CON CTF 22 Final | https://habrahabr.ru/post/234191/
+
+Приглашаю на большой CTF-турнир по информационной безопасности | https://habrahabr.ru/company/croc/blog/232999/
+
+«Отмороженный» компьютер и полезный «Хрюкер»: чем удивит NeoQUEST-2014 | https://habrahabr.ru/company/neobit/blog/227537/
+
+PHDays IV CTF: как это было | https://habrahabr.ru/company/pt/blog/226803/
+
+Доклады и конкурсы на NeoQUEST-2014 | https://habrahabr.ru/company/neobit/blog/222009/
+
+Битвы хакеров: разбор заданий PHDays CTF и CTF Quals | https://habrahabr.ru/company/pt/blog/221991/
+
+Итоги и разбор заданий онлайн-тура NeoQUEST-2014 | https://habrahabr.ru/company/neobit/blog/216373/
+
+NeoQUEST-2014: регистрация объявляется открытой | https://habrahabr.ru/company/neobit/blog/209726/
+
+Итоги PHDays CTF Quals | https://habrahabr.ru/company/pt/blog/210866/
+
+Как попасть на PHDays IV CTF? Участвовать в CTF Quals | https://habrahabr.ru/company/pt/blog/210180/
+
+Делаем USB-ключ из Arduino для обхода беспарольной авторизации | https://habrahabr.ru/company/neobit/blog/196576/
+
+Поле битвы — гипервизор | https://habrahabr.ru/company/neobit/blog/197912/
+
+PHDays III CTF: взгляд изнутри (часть 2) | https://habrahabr.ru/company/pt/blog/186800/
+
+PHDays III CTF: взгляд изнутри (часть 1) | https://habrahabr.ru/company/pt/blog/186310/
+
+Телевизор-шпион, или опасности использования рисоварок: доклады и конкурсы на NeoQUEST-2013 | https://habrahabr.ru/company/neobit/blog/185450/
+
+NeoQUEST – 2013: начало регистрации | https://habrahabr.ru/company/neobit/blog/166513/
+
+PHDays CTF Quals: BINARY 500, или как спрятать флаг ниже плинтуса | https://habrahabr.ru/company/pt/blog/164057/
+
+PHDays CTF Quals | https://habrahabr.ru/company/pt/blog/160541/
+
+CTF для разработчиков приложений от Stripe | https://habrahabr.ru/company/apps4all/blog/150097/
+
+DEFCON'20 / DEFCON'20 CTF. Материалы, overview | https://habrahabr.ru/post/149045/
+
+Positive Hack Days CTF 2012. Как это было | https://habrahabr.ru/company/pt/blog/145792/
+
+Командное взаимодействие во время соревнований CTF | https://habrahabr.ru/post/141312/
+
+Разбор полетов: хакспейс по итогам PHDays CTF Afterparty 2011 | https://habrahabr.ru/company/pt/blog/140484/
+
+DEFCON 19 CTF Final. Team IV took 4th place | https://habrahabr.ru/post/126589/
+
+CTF в России | https://habrahabr.ru/post/64216/
+

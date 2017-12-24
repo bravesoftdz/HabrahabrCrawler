@@ -1,0 +1,42 @@
+Behind the scene of TOP-1 supercomputer | https://habrahabr.ru/post/340318/
+
+Сглаживание изображений фильтром анизотропной диффузии Перона и Малика | https://habrahabr.ru/post/331618/
+
+Новые «плюшки» компилятора – безопасней, быстрее, совершеннее | https://habrahabr.ru/company/intel/blog/329938/
+
+Неинициализированные переменные: ищем ошибки | https://habrahabr.ru/company/intel/blog/318494/
+
+В C++17 до сих пор нет нормальных многомерных массивов, которые были в Fortran начиная с Fortran 90 | https://habrahabr.ru/post/317300/
+
+История языков программирования: как Fortran позволил пользователям общаться с ЭВМ на «ты» | https://habrahabr.ru/post/309914/
+
+Синий. Нет! Жёлтый! — или — Дают ли новые языки программирования прирост скорости разработки | https://habrahabr.ru/post/308550/
+
+Чистим лук (но не плачем): методики оптимизации | https://habrahabr.ru/company/intel/blog/301428/
+
+«Фортран – живее всех живых» или «Что нового у дедушки ifort» | https://habrahabr.ru/company/intel/blog/266079/
+
+Оптимизация циклов: нужны блоки | https://habrahabr.ru/company/intel/blog/265095/
+
+«Ра-а-авняйсь, смирно!». Выравниваем данные | https://habrahabr.ru/company/intel/blog/262933/
+
+Сказ о том, как «цифирь» не сошлась | https://habrahabr.ru/company/intel/blog/261681/
+
+Fortran 2003: учим Фортран и С дружить | https://habrahabr.ru/company/intel/blog/255305/
+
+«Нежданчики» языка Фортран | https://habrahabr.ru/company/intel/blog/254235/
+
+Ужасный баг в Portland Group C++ компиляторе | https://habrahabr.ru/post/249817/
+
+Фракталы, Fortran и OpenMP | https://habrahabr.ru/post/242221/
+
+Знакомство с Coarray Fortran: будем параллельны? | https://habrahabr.ru/company/intel/blog/203618/
+
+О бедном Фортране замолвите слово | https://habrahabr.ru/post/202680/
+
+Интероперабельность: Фортран и C# | https://habrahabr.ru/post/178717/
+
+Самое первое руководство по Фортрану | https://habrahabr.ru/company/ibm/blog/158353/
+
+Компиляция программного проекта на Fortran | https://habrahabr.ru/post/148906/
+

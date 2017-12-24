@@ -1,0 +1,720 @@
+Решаем Open Day CrackMe, таск Pizza | https://habrahabr.ru/post/344866/
+
+ReactOS 0.4.7: Павел Дуров больше не Пюыщн | https://habrahabr.ru/company/reactos/blog/344344/
+
+Биткоин — коллос на глиняных ногах | https://habrahabr.ru/post/344112/
+
+Открываем зимний конкурс CrackMe: ломай-ревёрсь | https://habrahabr.ru/company/kaspersky/blog/343692/
+
+Hik or Hack? (НЕ)безопасность Интернета вещей на примере IP-камеры Hikvision | https://habrahabr.ru/company/neobit/blog/343144/
+
+Вопрос: действительно ли программное обеспечение использует новые наборы инструкций? | https://habrahabr.ru/company/intel/blog/342282/
+
+Создание ремейков игр с помощью эмуляции: proof of concept | https://habrahabr.ru/post/343290/
+
+Когда хакеры быстрее антивирусов | https://habrahabr.ru/company/group-ib/blog/343064/
+
+Ковыряем криптолокер, назовём его — «nekema» | https://habrahabr.ru/post/342574/
+
+Подробный разбор решения crackme01_x64 | https://habrahabr.ru/post/342676/
+
+WeChat. Сериализуем объект — получаем СМС | https://habrahabr.ru/company/bringo/blog/339772/
+
+Реверс-инжиниринг игры Strike Commander | https://habrahabr.ru/post/339838/
+
+Ищем сокровища в исходном коде Aladdin | https://habrahabr.ru/post/339936/
+
+Врайтап осеннего crackme от «Лаборатории Касперского» | https://habrahabr.ru/post/339892/
+
+Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% | https://habrahabr.ru/post/339938/
+
+WhatsApp, что внутри? | https://habrahabr.ru/company/bringo/blog/339224/
+
+Реверс-инжиниринг первых умных часов Seiko UC-2000 | https://habrahabr.ru/post/338116/
+
+Итоги второго хакатона по ReactOS: мы переходим на GitHub | https://habrahabr.ru/company/reactos/blog/339218/
+
+Декомпиляция RNC ProPack длиной в 5 лет | https://habrahabr.ru/post/339138/
+
+Разбираем WeChat — второй по популярности мессенджер в мире | https://habrahabr.ru/company/bringo/blog/338940/
+
+Дампим память и пишем maphack | https://habrahabr.ru/post/338734/
+
+ReactOS 0.4.6 доступен для загрузки | https://habrahabr.ru/company/reactos/blog/337772/
+
+Как воскресить Ягуара за тысячу часов? | https://habrahabr.ru/post/337566/
+
+Обходим коммерческую защиту методом black box и пишем packet hack для lineage 2 | https://habrahabr.ru/post/336842/
+
+Реверс-инжиниринг вредоносного мошеннического скрипта | https://habrahabr.ru/company/mailru/blog/336232/
+
+Ломаем хаКс полностью. Читаем машинные коды как открытую книгу | https://habrahabr.ru/post/335970/
+
+ReactOS версус Windows XP SP3: эпическая битва в 3DMark | https://habrahabr.ru/company/reactos/blog/335954/
+
+Эмулятор в эмуляторе для проигрывания чиптюн-мелодий на YM2149F | https://habrahabr.ru/post/335508/
+
+Избранное: ссылки по reverse engineering | https://habrahabr.ru/company/dsec/blog/334832/
+
+Проклятые Земли — Улучшаем бег и опыт с напарниками | https://habrahabr.ru/post/335498/
+
+Timebug часть 2: интересные решения от EA Black Box | https://habrahabr.ru/post/335432/
+
+Убершейдеры в эмуляторе GameCube/Wii: восхитительное решение нерешаемой проблемы | https://habrahabr.ru/post/334868/
+
+Второй Hackfest в истории ReactOS начнется 14 августа 2017 | https://habrahabr.ru/company/reactos/blog/334932/
+
+Спасите самолет (задача со звездочкой) | https://habrahabr.ru/company/itsumma/blog/334884/
+
+Как мы мультиплеер для NFS MW писали | https://habrahabr.ru/post/334744/
+
+Взлом игры Clocktower — The First Fear | https://habrahabr.ru/post/332882/
+
+Анализ исходного кода Doom 3 | https://habrahabr.ru/post/333836/
+
+Gamecube — устройство файловой системы | https://habrahabr.ru/post/334042/
+
+Как EA усложнили нам жизнь, или как мы чинили баг 12-летней давности | https://habrahabr.ru/post/333676/
+
+«Ваш следующий шаг к блокчейну»: релиз платформы Exonum от Bitfury Group | https://habrahabr.ru/company/bitfury/blog/333446/
+
+Прокачиваем NES Classic Mini — продолжение | https://habrahabr.ru/post/333418/
+
+Реверс-инжиниринг одной строчки JavaScript | https://habrahabr.ru/post/333372/
+
+Немного о багах в BIOS/UEFI ноутбуков Lenovo/Fujitsu/Toshiba/HP/Dell | https://habrahabr.ru/company/aladdinrd/blog/332908/
+
+Уязвимость ВКонтакте: отправляем сообщение с кодом восстановления страницы на чужой номер | https://habrahabr.ru/post/332684/
+
+Взлом Age of Mythology: отключение тумана войны | https://habrahabr.ru/post/330842/
+
+No place to hide — как сервисы агрессивного маркетинга преследуют вас | https://habrahabr.ru/post/331222/
+
+Исходный код Quake III | https://habrahabr.ru/post/330818/
+
+Hard Reverse или особенности реверса файлов для архитектуры PowerPC Big-Endian | https://habrahabr.ru/company/neobit/blog/330004/
+
+Xenoblade Chronicles — разбор игровых данных | https://habrahabr.ru/post/330612/
+
+Патчим прошивку Android за 5 минут | https://habrahabr.ru/post/330566/
+
+Браузеры на основе Chromium — теперь и в ReactOS | https://habrahabr.ru/company/reactos/blog/330356/
+
+Внутренняя структура игры Contra | https://habrahabr.ru/post/330308/
+
+Как работает лазерная рулетка: реверс-инжиниринг | https://habrahabr.ru/post/327642/
+
+HexRaysPyTools: декомпилируй с удовольствием | https://habrahabr.ru/company/dsec/blog/329788/
+
+Недокументированные возможности Windows: регистрация событий доступа к ключам реестра | https://habrahabr.ru/company/bizone/blog/329568/
+
+Реверс-инжиниринг игры Lost Vikings | https://habrahabr.ru/post/329448/
+
+30 000 скачиваний ReactOS v.0.4.5 за 5 дней | https://habrahabr.ru/company/reactos/blog/329314/
+
+Баг в NTFS, или как подвесить всю систему | https://habrahabr.ru/company/aladdinrd/blog/329166/
+
+Как устроены протоколы в Elixir | https://habrahabr.ru/company/exante/blog/328528/
+
+PHDays HackQuest 2017: RanSomWare — небольшой криптор на GO | https://habrahabr.ru/post/328114/
+
+Обзор исходного кода Quake 2 | https://habrahabr.ru/post/328128/
+
+Использование инструментов исследования NES-игр на примере разбора формата компрессии игры Felix The Cat | https://habrahabr.ru/post/328516/
+
+Как удалённо отлаживать через WinDbg не включая отладочный режим Windows | https://habrahabr.ru/post/327128/
+
+Что ждет нас в ReactOS версии 0.4.5? | https://habrahabr.ru/company/reactos/blog/327620/
+
+Как три школьника взломали исходный код Final Fantasy V, чтобы локализовать её | https://habrahabr.ru/post/327578/
+
+YUBITSEC CTF: Изучайте реверс или +925 очков рейтинга за несколько минут | https://habrahabr.ru/post/327290/
+
+Анализ исходного кода и защиты от копирования Prince of Persia | https://habrahabr.ru/post/326714/
+
+Погоня за первой пасхалкой | https://habrahabr.ru/post/326744/
+
+Про технику безопасности, ядерную физику и любовь: о противоречиях современной ИТ-архитектуры фронтальных решений | https://habrahabr.ru/company/efs/blog/326790/
+
+Доверенная загрузка Шрёдингера. Intel Boot Guard | https://habrahabr.ru/company/dsec/blog/326556/
+
+Реверс-инжиниринг радиоуправляемого танка с помощью GNU Radio и HackRF | https://habrahabr.ru/post/325894/
+
+Проверяем честность игры в рулетку на смарт-контракте Ethereum | https://habrahabr.ru/post/325988/
+
+Архаичные алгоритмы сжатия видео эпохи FMV-игр | https://habrahabr.ru/post/325968/
+
+Читаем бинарные файлы iOS-приложений. Часть 2: Swift | https://habrahabr.ru/company/solarsecurity/blog/325644/
+
+Облегчаем реверсинг Golang бинарников или зачем вообще писать скрипты в IDA | https://habrahabr.ru/post/325498/
+
+Дзен социального программирования | https://habrahabr.ru/post/325232/
+
+Это не шутки — остались считанные сутки… до дедлайна на GSoC 2017 | https://habrahabr.ru/company/reactos/blog/325390/
+
+Прогнозы по развитию программ-вымогателей в 2017 году | https://habrahabr.ru/company/acronis/blog/323288/
+
+Анализ исходного кода Quake | https://habrahabr.ru/post/324804/
+
+Устраняем ошибки в Building resources при сборке android-приложения с помощью Apktool | https://habrahabr.ru/post/324776/
+
+Недокументированные возможности Windows: скрываем изменения в реестре от программ, работающих с неактивным реестром | https://habrahabr.ru/company/bizone/blog/324746/
+
+Анализ исходного кода Another World | https://habrahabr.ru/post/324550/
+
+Немного о приватности реальных Git-репозиториев | https://habrahabr.ru/post/324530/
+
+Угадай фильтр по импульсной характеристике | https://habrahabr.ru/post/324522/
+
+Читаем бинарные файлы iOS-приложений | https://habrahabr.ru/company/solarsecurity/blog/323346/
+
+По следу Cobalt: тактика логической атаки на банкоматы в расследовании Group-IB | https://habrahabr.ru/company/group-ib/blog/323996/
+
+NeoQuest 2017: Выбираемся из додекаэдра, не запуская ничего в qemu | https://habrahabr.ru/post/323820/
+
+NeoQuest 2017: Реверс андроид приложения в задании «Почини вождя!» | https://habrahabr.ru/post/323656/
+
+Exploit Exercises: Введение в эксплуатацию бинарных уязвимостей на примере Protostar | https://habrahabr.ru/post/320460/
+
+Исследование защиты PVS-Studio | https://habrahabr.ru/post/323250/
+
+Поэтический дискурс с привкусом реверс-инжиниринга | https://habrahabr.ru/post/323034/
+
+Решение задач зимнего CrackMe | https://habrahabr.ru/company/kaspersky/blog/323116/
+
+Смотрим внутренности отечественного 28нм MIPS процессора — Baikal-T1 | https://habrahabr.ru/company/zeptobars/blog/322884/
+
+Анализ исходного кода движка Doom: рендеринг | https://habrahabr.ru/post/322598/
+
+Капитан Слоупок докладывает: состоялся релиз ReactOS 0.4.4 | https://habrahabr.ru/company/reactos/blog/322334/
+
+Модификация стоковых прошивок для Android. Часть 5. Революция c Xposed Framework | https://habrahabr.ru/post/318202/
+
+PrestaShop. О глюке в многоуровневой навигации | https://habrahabr.ru/post/321398/
+
+Реверс-инжиниринг сообщений Protocol Buffers | https://habrahabr.ru/post/321790/
+
+Исследование защиты ArtMoney. Часть первая | https://habrahabr.ru/post/255767/
+
+Защита игр GameBoy Advance от эмуляции | https://habrahabr.ru/post/321198/
+
+Недокументированные возможности Windows: точки остановки для ключей реестра | https://habrahabr.ru/company/bizone/blog/321288/
+
+ReactOS на FOSDEM 2017 | https://habrahabr.ru/company/reactos/blog/321258/
+
+Прокачиваем NES Classic Mini | https://habrahabr.ru/post/321064/
+
+Механизм защиты от клонирования адаптеров XELTEK | https://habrahabr.ru/post/320870/
+
+Дизассемблируй это: «Лаборатория Касперского» объявляет старт зимнего конкурса CrackMe | https://habrahabr.ru/company/kaspersky/blog/320634/
+
+SQL инъекция в GitHub Enterprise | https://habrahabr.ru/post/319786/
+
+Продолжение эпопеи с USB-стеком | https://habrahabr.ru/company/reactos/blog/319694/
+
+VulnHub: Реверсим всё что можно в DC416 Baffle | https://habrahabr.ru/post/318860/
+
+VulnHub: Слепая эксплуатация и Брайнфак в DC416 Basement | https://habrahabr.ru/post/318998/
+
+One Core API чтоб править Windows | https://habrahabr.ru/company/reactos/blog/319110/
+
+У «Казаков» секретов нет | https://habrahabr.ru/post/318870/
+
+VulnHub: Разбор IMF 1 и очередное переполнение буфера | https://habrahabr.ru/post/318814/
+
+Мы хотим сделать вам новогодний подарок, но нам нужна ваша помощь | https://habrahabr.ru/company/reactos/blog/318798/
+
+VulnHub: Эксплуатируем уязвимость переполнения буфера в Lord Of The Root | https://habrahabr.ru/post/318238/
+
+Китайские камеры Jovision и их OEM клоны. Мистификация безопасности | https://habrahabr.ru/post/318572/
+
+Взлом на борту самолёта | https://habrahabr.ru/post/318228/
+
+Создание инструментов для исследования NES-игр | https://habrahabr.ru/post/317796/
+
+Как я Дота-лигу открывал. Часть 2 | https://habrahabr.ru/post/316620/
+
+еее JavaScript (запускаем ReactOS в браузере) | https://habrahabr.ru/company/reactos/blog/316444/
+
+Как я взломал свою ip-камеру и нашел там бекдор | https://habrahabr.ru/post/316296/
+
+Вышел ReactOS 0.4.3 под кодовым именем «Haters gonna hate» | https://habrahabr.ru/company/reactos/blog/315518/
+
+Анализ вредоносного расширения Google chrome | https://habrahabr.ru/post/315038/
+
+Bug Inside: крохотный шанс сделать громадную ошибку на Pentium | https://habrahabr.ru/company/pvs-studio/blog/314534/
+
+Власти США разрешили исследователям заниматься пентестами и реверс-инжинирингом без юридических последствий | https://habrahabr.ru/company/pt/blog/314112/
+
+В ReactOS появилась обещанная год назад поддержка печати | https://habrahabr.ru/company/reactos/blog/314026/
+
+Советские «Эльбрусы» — обзор архитектуры | https://habrahabr.ru/post/313376/
+
+Реверс-инжиниринг «Казаков», часть третья: напёрстки в LAN | https://habrahabr.ru/post/312686/
+
+Реверс-инжиниринг процедурной генерации в No Man's Sky | https://habrahabr.ru/post/312998/
+
+Транспондер DST40: принцип работы, история появления и взлома, а также немного практики по брутфорсу | https://habrahabr.ru/post/275745/
+
+Ядро Linux, спрятанное внутри Windows 10 | https://habrahabr.ru/post/312734/
+
+Обходим детектирование виртуальной машины программами в VMWare | https://habrahabr.ru/post/311492/
+
+Google Photos не может удалять файлы с SD карты | https://habrahabr.ru/post/311238/
+
+Возвращаем драйверам AMD поддержку DirectX12 старыми процессорами | https://habrahabr.ru/post/310864/
+
+USB killer Type-C | https://habrahabr.ru/post/310442/
+
+Как Dolphin Emulator победил последнюю непокорённую игру GameCube | https://habrahabr.ru/post/309996/
+
+Как рендерится кадр нового Doom | https://habrahabr.ru/post/309844/
+
+Разбор графики Supreme Commander | https://habrahabr.ru/post/309368/
+
+Архитектура JETPLOW – NSA бэкдор в моей подставке под кофе | https://habrahabr.ru/company/dsec/blog/309560/
+
+Ретроспективная презентация очередного релиза ReactOS | https://habrahabr.ru/company/reactos/blog/309458/
+
+Реверс-инжиниринг визуальных новелл (часть 2) | https://habrahabr.ru/post/309414/
+
+Reverse engineering тестового crackme от Лаборатории Касперского v2.0 | https://habrahabr.ru/post/308566/
+
+Reverse engineering тестового crackme от Лаборатории Касперского | https://habrahabr.ru/post/308548/
+
+Перехват функций .NET/CLR | https://habrahabr.ru/post/307088/
+
+Telegram пишет в syslog сообщения вставленные из буфера обмена, в том числе и в секретных чатах | https://habrahabr.ru/post/306298/
+
+Control Flow Guard. Принцип работы и методы обхода на примере Adobe Flash Player | https://habrahabr.ru/company/dsec/blog/305960/
+
+Исследуем защиту и восстанавливаем аркады Namco System ES1 | https://habrahabr.ru/post/304014/
+
+Методы модификации машинного кода: «селекция» vs. «генная инженерия» | https://habrahabr.ru/post/249419/
+
+Пациент нулевого дня | https://habrahabr.ru/company/reactos/blog/304114/
+
+Первый подтвержденный случай реального использования ReactOS | https://habrahabr.ru/company/reactos/blog/303618/
+
+Опыт полезной модификации UEFI: возвращаем Thinkpad W520 законную поддержку быстрой памяти | https://habrahabr.ru/post/303602/
+
+Оживление старого кода или как сделать хорошо приложению, которому плохо | https://habrahabr.ru/post/303164/
+
+Протокол управления CD-чейнджером | https://habrahabr.ru/post/303144/
+
+Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте | https://habrahabr.ru/post/302570/
+
+Шестое чувство Facebook | https://habrahabr.ru/post/302506/
+
+Проигрываем звук на DualShock4 с компьютера | https://habrahabr.ru/post/302356/
+
+ReactOS 0.4.2 будет превосходным | https://habrahabr.ru/company/reactos/blog/302044/
+
+Ассемблер/дизассемблер клавиатурных раскладок Windows с помощью flat assembler | https://habrahabr.ru/post/301882/
+
+Реверсинг Android клиента музыкального сервиса Zaycev.net и имплементация api на go | https://habrahabr.ru/post/301838/
+
+Использование потолочных часов в качестве информационного табло | https://habrahabr.ru/post/301830/
+
+Изучаем Bootmgr. Часть 1 — инструментарий и основные принципы отладки начальных этапов загрузки ОС Windows | https://habrahabr.ru/post/301334/
+
+Релиз ReactOS 0.4.1 и ответ на вопрос «Можно ли пропатчить ReactOS под KDE4?» | https://habrahabr.ru/company/reactos/blog/301028/
+
+Куй релизы пока горячо — предрелизное тестирование версии 0.4.1 | https://habrahabr.ru/company/reactos/blog/283288/
+
+Используем недокументированное API сайта captionbot.ai | https://habrahabr.ru/post/283112/
+
+Разбор заданий с Google CTF 2016: Mobile | https://habrahabr.ru/post/282846/
+
+Русский перевод выступления Алекса Ионеску «Сумасшедшая попытка переписать Windows с нуля» | https://habrahabr.ru/company/reactos/blog/282800/
+
+Intel ME. Как избежать восстания машин? | https://habrahabr.ru/company/dsec/blog/282546/
+
+Устройство NVRAM в UEFI-совместимых прошивках, часть четвертая | https://habrahabr.ru/post/281901/
+
+Устройство NVRAM в UEFI-совместимых прошивках, часть третья | https://habrahabr.ru/post/281469/
+
+Реверс-инжиниринг визуальных новелл | https://habrahabr.ru/post/281595/
+
+Устройство NVRAM в UEFI-совместимых прошивках, часть вторая | https://habrahabr.ru/post/281412/
+
+Устройство NVRAM в UEFI-совместимых прошивках, часть первая | https://habrahabr.ru/post/281242/
+
+Уязвимости в MyChat от NetworkSoftwareSolutions (устранённые и нет) | https://habrahabr.ru/post/280910/
+
+Реверс-инжиниринг лазерного датчика расстояния | https://habrahabr.ru/post/274879/
+
+Изучаем дерево исходников Windows 10: от телеметрии до open source | https://habrahabr.ru/company/pt/blog/279215/
+
+Мошенничество со ставками на спорт | https://habrahabr.ru/post/279411/
+
+Реверс-инжиниринг «Казаков», часть вторая: увеличение очереди | https://habrahabr.ru/post/278611/
+
+Мы ищем тебя, чтобы помочь тебе заработать 5000$ этим летом | https://habrahabr.ru/company/reactos/blog/278869/
+
+Безопасность прошивок на примере подсистемы Intel Management Engine | https://habrahabr.ru/company/dsec/blog/278549/
+
+Реверс протокола СКУД RS485 от Perco. Берегите линии своих СКУД от вторжения | https://habrahabr.ru/post/277405/
+
+Представляем ReactOS 0.4 | https://habrahabr.ru/company/reactos/blog/277417/
+
+Реверс-инжиниринг и замедление «Казаков» | https://habrahabr.ru/post/277067/
+
+Глубинное обучение и работа мозга: Когда наступит технологическая сингулярность | https://habrahabr.ru/company/it-grad/blog/276299/
+
+Анализ Android малвари-матрешки | https://habrahabr.ru/post/276619/
+
+Контроль над браслетом в ритме BlueZ | https://habrahabr.ru/post/276343/
+
+Безопасность прошивок на примере промышленных коммутаторов Hirschmann и Phoenix Contact | https://habrahabr.ru/company/dsec/blog/276345/
+
+Передаем привет с FOSDEM 2016 | https://habrahabr.ru/company/reactos/blog/276229/
+
+Исследование распространенной малвари под Android | https://habrahabr.ru/post/276211/
+
+Взлом Kaspersky Crackme: исследование защитного механизма (Часть 1) | https://habrahabr.ru/post/276149/
+
+Реверс-инжиниринг протокола датчика метеостанции TFA Spring | https://habrahabr.ru/post/275659/
+
+Steam CEG от Valve и с чем его едят. Все сложное — просто | https://habrahabr.ru/post/274773/
+
+Steam CEG от Valve и с чем его едят. Введение | https://habrahabr.ru/post/274741/
+
+Обезвреживаем бомбу с Radare2 | https://habrahabr.ru/post/274617/
+
+Сказ о компрессоре, который можно называть, но не помню, как | https://habrahabr.ru/post/274461/
+
+Релиз близко… | https://habrahabr.ru/company/reactos/blog/272197/
+
+Как мы себя заново писали, или как потерять исходники и не подать виду | https://habrahabr.ru/company/mailru/blog/271829/
+
+Рабдологический абак Клода Перро | https://habrahabr.ru/company/ua-hosting/blog/271479/
+
+СУБД ЛИНТЕР Бастион успешно протестирована на ReactOS | https://habrahabr.ru/company/reactos/blog/269869/
+
+Steam Protocol v2 | https://habrahabr.ru/post/269061/
+
+Что там у ReactOS? | https://habrahabr.ru/company/reactos/blog/269017/
+
+Steam Files. Часть 2 — BLOB, CDR, VDF, PAK, VPK | https://habrahabr.ru/post/268921/
+
+Добавление нового семейства процессоров в IDA pro | https://habrahabr.ru/post/268339/
+
+Эксплоит на миллион | https://habrahabr.ru/company/ua-hosting/blog/267465/
+
+Создание нативного iOS плагина для Unity3d. Недокументированные возможности | https://habrahabr.ru/post/266893/
+
+Практическое руководство по взлому (и защите) игр на Unity | https://habrahabr.ru/post/266345/
+
+Реверс-инжиниринг полёта Бэтмена | https://habrahabr.ru/post/266385/
+
+ReactOS-Хакфест или еще один вариант про… кодить последний месяц лета | https://habrahabr.ru/company/reactos/blog/265931/
+
+Как мы проводили конкурс hardware hack на Chaos Constructions 2015 | https://habrahabr.ru/company/metrotek/blog/265873/
+
+Анализ защиты Sony PlayStation 4 | https://habrahabr.ru/post/265235/
+
+Атака на архиваторы. Скрываемся в одном архиве от трех программ | https://habrahabr.ru/post/265051/
+
+Расковыриваем сжатие ресурсов в Might and Magic III | https://habrahabr.ru/post/264947/
+
+ReactOS Hackfest начался | https://habrahabr.ru/company/reactos/blog/264379/
+
+О сколько нам открытий чудных готовит Office Microsoft | https://habrahabr.ru/post/264313/
+
+Многострадальный notepad: ошибка, которую не исправляют уже 13 лет | https://habrahabr.ru/post/264081/
+
+Как же работает этот загадочный HTC Dot View? | https://habrahabr.ru/post/263763/
+
+Исследование Oracle Form при помощи Java Development API(JDAPI) | https://habrahabr.ru/post/263675/
+
+Поддержка службы печати в ReactOS — совсем скоро | https://habrahabr.ru/company/reactos/blog/263441/
+
+Получение root доступа к ONT Sercomm RV6688 методом замыкания контактов | https://habrahabr.ru/post/263277/
+
+Магия Ctrl-C Ctrl-V, или как перестать сохранять картинки и начать жить | https://habrahabr.ru/post/263175/
+
+Исследование Crackme Chiwaka1 | https://habrahabr.ru/post/263093/
+
+Разбор форматов: 3d-модели изнутри | https://habrahabr.ru/post/263009/
+
+«Pimp my game», или как «прокачивать» игры без API | https://habrahabr.ru/post/262647/
+
+Эффективное кодирование видео в Linux c Nvidia NVENC: часть 2, дополнительная | https://habrahabr.ru/post/262563/
+
+Модернизация IDA Pro. Debugger-плагин. Часть I. Теория | https://habrahabr.ru/post/262433/
+
+Реверс AGTH для воссоздания альтернативного GUI | https://habrahabr.ru/post/262311/
+
+Telnet и echo — кто прав, кто виноват | https://habrahabr.ru/post/262207/
+
+Безумные опыты по «внедрению» Windows 3.11 продолжаются | https://habrahabr.ru/company/reactos/blog/262113/
+
+Алгоритмы атаки и защиты мобильной рекламной сети | https://habrahabr.ru/post/262097/
+
+Учим telnet.exe правильной игре в MUD'ы | https://habrahabr.ru/post/262009/
+
+Lines и теория вероятностей | https://habrahabr.ru/post/261931/
+
+Загадка о файле-невидимке | https://habrahabr.ru/post/261733/
+
+Архитектура Skype изнутри и его транспортные протоколы | https://habrahabr.ru/post/261725/
+
+Разбор форматов: упакованные хешированные ресурсы | https://habrahabr.ru/post/261561/
+
+Расширяем функционал «блокнота» | https://habrahabr.ru/post/261541/
+
+«Прокачиваем» notepad.exe | https://habrahabr.ru/post/261507/
+
+2 в 1: премьера «официального» ноутбука на открытии официального youtube-канала | https://habrahabr.ru/company/reactos/blog/261313/
+
+Продолжаем разбираться с «историческими причинами» в cmd.exe | https://habrahabr.ru/post/261233/
+
+Избавляемся от «исторических причин» в cmd.exe | https://habrahabr.ru/post/260991/
+
+Грязные решения в реверс-инжиниринге | https://habrahabr.ru/post/260861/
+
+Исключения для хардкорщиков. Особенности обработки эксепшенов в динамически размещаемом коде | https://habrahabr.ru/company/xakep/blog/260577/
+
+В ReactOS значительно улучшили поддержку тем оформления | https://habrahabr.ru/company/reactos/blog/260215/
+
+Исследование защиты игры Charm Solitaire | https://habrahabr.ru/post/260071/
+
+Устройство игрового движка для NES на примере игр «Capcom» | https://habrahabr.ru/post/259761/
+
+Разбираемся с поддержкой x64 в WPE Pro | https://habrahabr.ru/post/259459/
+
+Исследование формата карты уровней NES-игры «Jackal» | https://habrahabr.ru/post/259483/
+
+Реверс-инжиниринг мерцающего светодиода (+RGB) | https://habrahabr.ru/company/zeptobars/blog/259405/
+
+Устройство уровней в NES-играх | https://habrahabr.ru/post/259171/
+
+Видео от пользователя: ReactOS установлен и работает на «современном» компьютере | https://habrahabr.ru/company/reactos/blog/258863/
+
+Исследование защиты Wing IDE | https://habrahabr.ru/post/258613/
+
+Разбор форматов: звуковой пакет в Unreal Engine | https://habrahabr.ru/post/258397/
+
+Модифицированный драйвер из ReactOS упрощает жизнь под Windows на Chromebook | https://habrahabr.ru/company/reactos/blog/258135/
+
+Исследование чужого чита для FarCry 4 | https://habrahabr.ru/post/258055/
+
+Разбор форматов: звук в некоторых играх на Unreal Engine | https://habrahabr.ru/post/257793/
+
+Trojan-Downloader.Win32.Cabby.cemx — Часть вторая — Функционал | https://habrahabr.ru/post/257681/
+
+Правим баг без исходных кодов | https://habrahabr.ru/post/257591/
+
+Видео от пользователя: MacOS внутри ReactOS | https://habrahabr.ru/company/reactos/blog/257589/
+
+Интервью о тестировании + скриншоты приложений, работающих в ReactOS, присланные тестерами | https://habrahabr.ru/company/reactos/blog/257421/
+
+Trojan-Downloader.Win32.Cabby.cemx — Часть первая — Распаковка | https://habrahabr.ru/post/257413/
+
+Реверс-инжиниринг TL431, крайне распространенной микросхемы, о которой вы и не слышали | https://habrahabr.ru/post/257387/
+
+Как заработать очки, даже не запуская игру | https://habrahabr.ru/post/257125/
+
+Реверс-инжиниринг целочисленного деления на константу | https://habrahabr.ru/post/256827/
+
+Да какого, блин, хрена, D-Link⁈ | https://habrahabr.ru/post/256777/
+
+Заглянем за кулисы разработки: подборка исходных кодов классических игр | https://habrahabr.ru/post/256679/
+
+Взламываем D-Link DIR-890L | https://habrahabr.ru/post/256451/
+
+Исследуем результат работы php-транслятора | https://habrahabr.ru/post/233129/
+
+Доклад Алексея Брагина на Russian Open Source Summit 2015 | https://habrahabr.ru/company/reactos/blog/256029/
+
+Исследование защиты игры Limbo. Кейген | https://habrahabr.ru/post/255935/
+
+Исследование защиты PVS-Studio | https://habrahabr.ru/post/255741/
+
+Reverse Engineering ESP8266 — часть 2 | https://habrahabr.ru/post/255153/
+
+Reverse Engineering ESP8266 — часть 1 | https://habrahabr.ru/post/255135/
+
+Видео от пользователя: Windows 3.11 внутри ReactOS | https://habrahabr.ru/company/reactos/blog/254985/
+
+Исследование мобильного jar трояна | https://habrahabr.ru/post/254201/
+
+DIY управление телевидением Дом.ru с планшета при помощи ардуино | https://habrahabr.ru/post/254185/
+
+Результаты Radare Summer of Code 2014 и организация нового RSoC/GSoC 2015 | https://habrahabr.ru/post/252905/
+
+Как крадут деньги, которых нет. Или кое-что новенькое о криптовалютах | https://habrahabr.ru/company/group-ib/blog/252963/
+
+Hotpatch. Патчим память ядра Windows | https://habrahabr.ru/post/252275/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 4.5 | https://habrahabr.ru/post/251841/
+
+Работы по модернизации эксплорера в ReactOS завершены | https://habrahabr.ru/company/reactos/blog/251757/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 4 | https://habrahabr.ru/post/251479/
+
+«Реверс-инжиниринг» клиентского приложения в образовательном центре | https://habrahabr.ru/post/251705/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 3 | https://habrahabr.ru/post/251353/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 2 | https://habrahabr.ru/post/251199/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 1 | https://habrahabr.ru/post/251149/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 0 | https://habrahabr.ru/post/251137/
+
+Откуда берутся бреши в безопасности программ? | https://habrahabr.ru/company/reactos/blog/250749/
+
+Возвращаем оригинальные страницы меню в Phoenix SCT UEFI | https://habrahabr.ru/post/250611/
+
+Технический отчет о деятельности преступной группы, занимающейся целевыми атаками — Anunak | https://habrahabr.ru/company/group-ib/blog/250627/
+
+Получен доступ к диагностической консоли iPhone | https://habrahabr.ru/post/250579/
+
+Визуализация и декодирование данных с магнитных АТМ-карт | https://habrahabr.ru/post/250329/
+
+OpenOCD, ThreadX и ваш процессор | https://habrahabr.ru/post/249991/
+
+Еще немного реверс-инжиниринга UEFI PEI-модулей на другом полезном примере | https://habrahabr.ru/post/249939/
+
+Приключения на FOSDEM 2015 | https://habrahabr.ru/company/reactos/blog/249917/
+
+Делаем кастомную прошивку для телефонов Grandstream | https://habrahabr.ru/post/249855/
+
+Простые приемы реверс-инжиниринга UEFI PEI-модулей на полезном примере | https://habrahabr.ru/post/249655/
+
+Реверс-инжиниринг протокола парктроника. Танец маленьких бит | https://habrahabr.ru/post/249409/
+
+Приглашение на FOSDEM 2015 | https://habrahabr.ru/company/reactos/blog/249347/
+
+Управление «умной» BLE лампой без смартфона | https://habrahabr.ru/post/249289/
+
+Разбор формата файлов локализации Microsoft Office | https://habrahabr.ru/post/248597/
+
+Снимаем образы с картриджей для Dendy/Famicom/NES | https://habrahabr.ru/post/248459/
+
+Уязвимость MS14-063 в драйвере FastFat в ОС Windows. Разбор полетов | https://habrahabr.ru/post/248089/
+
+Алгоритм поиска неисправности в драйвере LED лампы или Эркюль Пуаро отдыхает | https://habrahabr.ru/post/247975/
+
+Безопасность Parse в iOS приложении | https://habrahabr.ru/post/247541/
+
+Маленький новогодний сюрприз. Встречайте, RAM-disk и PXE-загрузка по сети | https://habrahabr.ru/company/reactos/blog/247193/
+
+ReactOS Tech Talk на факультете ВМК МГУ | https://habrahabr.ru/company/reactos/blog/246525/
+
+О ReactOS из первых рук или «очная ставка» с Алексеем Брагиным | https://habrahabr.ru/company/reactos/blog/246113/
+
+Контейнеры для Windows: за 10 лет до Microsoft | https://habrahabr.ru/company/parallels/blog/245533/
+
+Новая графическая оболочка рабочего стола включена в основную кодовую базу ReactOS | https://habrahabr.ru/company/reactos/blog/244811/
+
+Реверс-инженеринг GPS замка WatchLock для личного использования | https://habrahabr.ru/post/243481/
+
+Разбор Heads-up Display из горнолыжной маски Recon Instruments MOD Live. Попытка починить… | https://habrahabr.ru/post/243465/
+
+ReactOS 0.3.17 — «нумерологический» релиз операционной системы | https://habrahabr.ru/company/reactos/blog/243295/
+
+Исследуем китайские роутеры на RT5350 | https://habrahabr.ru/post/238713/
+
+В поиске бесплатных билетов, исследование игры Аэрофлота | https://habrahabr.ru/post/238463/
+
+Анализ Simplelocker-a — вируса-вымогателя для Android | https://habrahabr.ru/company/pentestit/blog/237207/
+
+Как мы (почти) победили DirCrypt | https://habrahabr.ru/post/235487/
+
+Отключение ASLR при отладке third-party приложения под iOS | https://habrahabr.ru/post/210858/
+
+Реверс-инжиниринг и патч игры на Unity3d | https://habrahabr.ru/post/234101/
+
+McSema — декомпилятор кода в LLVM | https://habrahabr.ru/post/232871/
+
+Реверс-инжиниринг прошивки китайского Android-планшета | https://habrahabr.ru/company/xakep/blog/231825/
+
+Альтернативные методы трассировки приложений | https://habrahabr.ru/company/xakep/blog/231813/
+
+Анализ sms-бота для Android. Часть II | https://habrahabr.ru/company/pentestit/blog/231427/
+
+Анализ sms-бота для Android. Часть I | https://habrahabr.ru/company/pentestit/blog/231425/
+
+Разлочиваем велокомпьютер VDO A4 до A8 | https://habrahabr.ru/post/228973/
+
+Как запатчить 11 разных прошивок и не сойти с ума от разнообразия | https://habrahabr.ru/post/228317/
+
+Внедрение кода с пользой | https://habrahabr.ru/post/227455/
+
+Siemens SGold: I/O сниффер | https://habrahabr.ru/post/226575/
+
+Атака на чёрный ящик. Реверс-инжиниринг виртуализированного и мутированного кода | https://habrahabr.ru/post/225963/
+
+Написание бота для Stronghold Kingdoms | https://habrahabr.ru/post/225663/
+
+Steam Files. Часть 1 — GCF/NCF | https://habrahabr.ru/post/224027/
+
+Взламываем D-Link DSP-W215 Smart Plug: Опять, снова, еще раз | https://habrahabr.ru/post/224063/
+
+Взламываем D-Link DSP-W215 Smart Plug. Снова и опять | https://habrahabr.ru/post/223991/
+
+Взламываем D-Link DSP-W215 Smart Plug. Снова | https://habrahabr.ru/post/223973/
+
+Steam Protocol 2 и Steam Files — Введение | https://habrahabr.ru/post/223961/
+
+Пару слов о перехвате HTTP/HTTPS трафика iOS приложений | https://habrahabr.ru/post/223561/
+
+Взламываем D-Link DSP-W215 Smart Plug | https://habrahabr.ru/post/223313/
+
+Реверс-инжинеринг и написание бота для flash игры на Go | https://habrahabr.ru/post/223013/
+
+Reverse-инжиниринг Caesar III (часть 2, Рисование города) | https://habrahabr.ru/post/222943/
+
+Про Сталина, Дурова, печеньки и параметр EncryptedPasswd | https://habrahabr.ru/post/220521/
+
+Кого атакует BillGates? | https://habrahabr.ru/post/220027/
+
+Удаление Whitelist в bios ноутбуков на примере Lenovo X230 | https://habrahabr.ru/post/219893/
+
+Исследуем Linux Botnet «BillGates» | https://habrahabr.ru/post/213973/
+
+Переполненяем стек в fprintf на Linksys WRT120N | https://habrahabr.ru/post/213205/
+
+Исследуем обфускацию прошивки Linksys WRT120N | https://habrahabr.ru/post/213191/
+
+Как воплотить в жизнь мечту детства и запрограммировать что-нибудь для Dendy | https://habrahabr.ru/post/201864/
+
+Доступ к скрытым настройкам UEFI BIOS от Insyde | https://habrahabr.ru/post/182676/
+
+Исследуем игру с аркадного автомата ч. 1 | https://habrahabr.ru/post/179067/
+
+В официальном издании Age of Empires Collector's Edition на DVD используются крэки из сети | https://habrahabr.ru/post/168269/
+
+Security Reverse Engineering vk.com | https://habrahabr.ru/post/156517/
+
+Как мирный reverse engineering помог чуть-чуть улучшить приложение Яндекс.Деньги | https://habrahabr.ru/post/155925/
+
+Отладка приложений для Android без исходных кодов: native методы | https://habrahabr.ru/post/151192/
+
+Reversing Google Play Store | https://habrahabr.ru/post/151996/
+
+Reverse-engineering одного вируса для Android | https://habrahabr.ru/post/151608/
+
+Отладка приложений для Android без исходного кода на Java: пару слов о breakpoints | https://habrahabr.ru/post/150862/
+
+Отладка приложений для Android без исходного кода на Java | https://habrahabr.ru/post/150825/
+
+Немного огня на чистом CSS (Firefox) | https://habrahabr.ru/post/149392/
+
+Мини reverse engineering и модификация Windows Phone приложений | https://habrahabr.ru/post/146538/
+
+Машина Тьюринга восстановлена из уплотнённого кода | https://habrahabr.ru/post/146444/
+
+Создание прокси-dll для запуска DirectDraw игр в окне | https://habrahabr.ru/post/133956/
+
+CRACKL@B Contest 2010. Анализ первого задания | https://habrahabr.ru/post/135848/
+
+Анализ Crackme #1 от PE_Kill | https://habrahabr.ru/post/135255/
+
+Коварный и ужасный sndrec32.exe | https://habrahabr.ru/post/89763/
+
+Расширение функциональности готовых программ | https://habrahabr.ru/post/51857/
+

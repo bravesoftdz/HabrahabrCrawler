@@ -1,0 +1,2560 @@
+Суррогаты | https://habrahabr.ru/post/344844/
+
+Как я стала тестировщиком. Спойлер: не сразу | https://habrahabr.ru/company/yamoney/blog/344784/
+
+18 новых IT-специальностей которые появились из-за криптовалют | https://habrahabr.ru/post/344760/
+
+Как быть тимлидом, если работаешь с людьми из разных продуктовых команд | https://habrahabr.ru/company/tuturu/blog/344668/
+
+Война клонов или как привлекать таланты | https://habrahabr.ru/company/raiffeisenbank/blog/344710/
+
+Иннополис глазами жителя Москвы | https://habrahabr.ru/company/infowatch/blog/344610/
+
+Фэйковый дизайн | https://habrahabr.ru/company/edison/blog/344310/
+
+Пускаю слюни, пишу код | https://habrahabr.ru/company/philtech/blog/344462/
+
+Обзор зарплат тестировщиков или стоит ли работать за еду? | https://habrahabr.ru/company/agima/blog/344430/
+
+Команда разработчиков Renga: как мы достигли идиллии, работая без менеджеров | https://habrahabr.ru/company/ascon/blog/343840/
+
+Взламываем собеседования: по алгоритмам, по архитектуре, поведенческие и прочее | https://habrahabr.ru/company/edison/blog/344018/
+
+Трудности обучения: как «лирику» подружиться с технологией | https://habrahabr.ru/company/regionsoft/blog/344110/
+
+История переезда системного администратора в Германию. Часть первая: поиск работы и виза | https://habrahabr.ru/post/343914/
+
+Латентные паразиты | https://habrahabr.ru/post/343696/
+
+Как программистам не дают больше ничем заниматься | https://habrahabr.ru/post/343570/
+
+Как становятся профессионалами в Университете ИТМО: Олимпиада «Я — профессионал», трек «Фотоника» | https://habrahabr.ru/company/spbifmo/blog/343586/
+
+Запускаем сервис зарплат на «Моём круге» | https://habrahabr.ru/company/moikrug/blog/343578/
+
+Формулируй это: как мы переписывали текст вакансии и скатились до решения математического неравенства | https://habrahabr.ru/company/funcorp/blog/343402/
+
+Дайджест событий для HR-специалистов в IT-области на декабрь 2017 | https://habrahabr.ru/company/moikrug/blog/343542/
+
+Олимпиада «Я — профессионал», трек «Информационная и кибербезопасность» | https://habrahabr.ru/company/spbifmo/blog/343510/
+
+Opensource нам строить и жить помогает: интервью разработчика Yii Framework Александра Макарова | https://habrahabr.ru/company/skyeng/blog/343490/
+
+Дайджест IT событий на декабрь | https://habrahabr.ru/company/everydaytools/blog/343380/
+
+Вот — новый поворот? От педагогики к андрагогике, от андрагогики к хьютагогике | https://habrahabr.ru/company/lanit/blog/343396/
+
+Ошибки операторов ПДн, связанные с кадровой работой | https://habrahabr.ru/company/cloud4y/blog/343378/
+
+Облачные технологии и моё будущее | https://habrahabr.ru/post/343226/
+
+Криптовалюты и виртуальная экономика | https://habrahabr.ru/post/343186/
+
+Работа мечты и поступление в вуз без экзаменов. Олимпиада «Я — профессионал» трек «Компьютерные науки» | https://habrahabr.ru/company/spbifmo/blog/343046/
+
+Разбор задач второго этапа Школы программистов HeadHunter 2017 | https://habrahabr.ru/company/hh/blog/342942/
+
+Голосуем за школьное обучение информатике | https://habrahabr.ru/post/342896/
+
+Почему у вас нет будущего без стратегии? | https://habrahabr.ru/company/mobio/blog/342880/
+
+Туту.ру: Как провести День айтишника своими силами и недорого | https://habrahabr.ru/company/tuturu/blog/342628/
+
+[Ответ программиста из Google] Есть ли жизнь после 35-40 лет? (для разработчика софта) | https://habrahabr.ru/company/edison/blog/342696/
+
+Карьера или наука: почему в Университете ИТМО не нужно выбирать что-то одно | https://habrahabr.ru/company/spbifmo/blog/342688/
+
+Великолепные придурки в разработке | https://habrahabr.ru/company/parallels/blog/342644/
+
+Советы самому себе в молодости (дизайнерская версия) | https://habrahabr.ru/company/edison/blog/342608/
+
+7 привычек успешных Site Reliability Engineers (по версии New Relic) | https://habrahabr.ru/company/flant/blog/342590/
+
+Почему программисты не получают работу: четыре страшилки | https://habrahabr.ru/post/342518/
+
+Вице-президент Shazam по странам EMEA, LATAM и Канады Джош Партридж: «Айтишникам не хватает понимания бизнес-процессов» | https://habrahabr.ru/company/innopolis_university/blog/342450/
+
+Россия vs Германия. Инсайд о процессах тех. поддержки, качественном сервисе и русских хакерах | https://habrahabr.ru/company/okdesk/blog/342390/
+
+Стажеры | https://habrahabr.ru/company/pm/blog/342430/
+
+Где крупные компании ищут инновации. Интервью с Дмитрием Изместьевым о развитии стартапов | https://habrahabr.ru/company/lanit/blog/342338/
+
+Правдивая история роботизации, начинающаяся с одного простого графика | https://habrahabr.ru/company/parallels/blog/342360/
+
+Будни тестировщика, или при чем тут Пирамида Маслоу | https://habrahabr.ru/company/yamoney/blog/342276/
+
+Новый выпуск Oh, My Code — Облако, Perl и хорошие программисты | https://habrahabr.ru/company/mailru/blog/342284/
+
+Как искать IT вакансии в ЕС | https://habrahabr.ru/company/itroles/blog/341978/
+
+Рейтинг ИТ-работодателей Санкт-Петербурга и Москвы: результаты опроса разработчиков | https://habrahabr.ru/company/moikrug/blog/342258/
+
+Как программисты-самоучки в реальности получают работу | https://habrahabr.ru/post/342156/
+
+4 слова | https://habrahabr.ru/company/tm/blog/342110/
+
+За пять дней я прошел собеседования в пяти компаниях Силиконовой долины и получил пять предложений о работе | https://habrahabr.ru/company/everydaytools/blog/342104/
+
+Побег из гнезда успеха или Проблемы больших компаний | https://habrahabr.ru/post/342012/
+
+Система мотивации: морковка спереди или морковка сзади | https://habrahabr.ru/company/parallels/blog/341956/
+
+Мета-взгляд на проблемы (не)образованной молодежи | https://habrahabr.ru/post/341834/
+
+Анализ файлов robots.txt крупнейших сайтов | https://habrahabr.ru/post/341774/
+
+Нет, у меня нет сторонних проектов, чтобы вам показать | https://habrahabr.ru/post/341676/
+
+Из пользователя в разработчики САПР | https://habrahabr.ru/company/ascon/blog/341652/
+
+Кошка сдохла, хвост облез | https://habrahabr.ru/post/341654/
+
+Дайджест событий для HR-специалистов в IT-области на ноябрь 2017 | https://habrahabr.ru/company/moikrug/blog/341620/
+
+Какие языки программирования самые популярные: статистика ИТ-платформ | https://habrahabr.ru/company/it-grad/blog/341486/
+
+Какие самые нелюбимые языки программирования? | https://habrahabr.ru/post/341516/
+
+Не путайте разработку ПО и программирование | https://habrahabr.ru/company/alconost/blog/341304/
+
+Про туалетную бумагу, DevOps и 582 банка | https://habrahabr.ru/company/raiffeisenbank/blog/341250/
+
+Повышение качества отбора персонала на основе данных | https://habrahabr.ru/post/341220/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 2 — «Заграница») | https://habrahabr.ru/company/okdesk/blog/341118/
+
+Как правильно оформить Open Source проект | https://habrahabr.ru/post/341166/
+
+Как руководить людьми, у которых больше технического опыта, чем у вас | https://habrahabr.ru/company/edison/blog/340892/
+
+Чем похожи крутые нетворкеры и выступающие публично? 5 качеств, которым можно позавидовать | https://habrahabr.ru/company/mailru/blog/341030/
+
+Кто такой fullstack-дизайнер | https://habrahabr.ru/company/netologyru/blog/341056/
+
+Дайджест IT-событий на ноябрь | https://habrahabr.ru/company/everydaytools/blog/341000/
+
+Cisco Sales Associate Program | https://habrahabr.ru/company/cisco/blog/340954/
+
+13 сюрпризов неайтишной компании | https://habrahabr.ru/post/340952/
+
+Процесс найма глазами разработчиков: результаты опроса «Моего круга» | https://habrahabr.ru/company/moikrug/blog/340836/
+
+Как я перестал продавать еду на улице и стал работать в топовых технологических компаниях | https://habrahabr.ru/company/edison/blog/340602/
+
+Burn-out или выгорание | https://habrahabr.ru/post/340496/
+
+Деловая переписка на английском языке: фразы и советы | https://habrahabr.ru/company/netologyru/blog/340358/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 1 — Россия) | https://habrahabr.ru/company/okdesk/blog/340426/
+
+Понедельник начинается в субботу: 28 лет ЛАНИТ | https://habrahabr.ru/company/lanit/blog/340412/
+
+Вводим на «Моём круге» поиск кандидатов по пользователям «Хабрахабра» | https://habrahabr.ru/company/moikrug/blog/339992/
+
+Уехавшие: три истории выпускников Школы программистов HeadHunter | https://habrahabr.ru/company/hh/blog/339834/
+
+«Лучшие практики» для построения отношений руководителя-гуманитария с разработчиками | https://habrahabr.ru/company/cloud4y/blog/339818/
+
+44 урока управления технарями | https://habrahabr.ru/company/lanit/blog/339712/
+
+Круги друзей, столкновения муравьев и русская рулетка: необычные вопросы на интервью в финансовых компаниях | https://habrahabr.ru/company/itinvest/blog/339740/
+
+Как собеседовать инженеров-программистов | https://habrahabr.ru/post/339720/
+
+Постановка задач для начинающих тимлидов | https://habrahabr.ru/post/339556/
+
+С Днем учителя! Особенно если вы преподаете в ИТ | https://habrahabr.ru/company/lanit/blog/339346/
+
+Кому из айтишников на Руси жить хорошо (а кому будет еще лучше) | https://habrahabr.ru/company/agima/blog/339216/
+
+Дайджест событий для HR-специалистов в IT-области на октябрь 2017 | https://habrahabr.ru/company/moikrug/blog/338958/
+
+Три карьерных пути в IT: основатель, руководитель или наёмный работник | https://habrahabr.ru/post/339118/
+
+Из жизни оборотней | https://habrahabr.ru/company/parallels/blog/338912/
+
+Mars Information Services: добро пожаловать в Mars | https://habrahabr.ru/company/marsis/blog/338886/
+
+Из маркетолога в тестировщицу ПО — смена профессии после 40? Почему бы и нет | https://habrahabr.ru/company/raiffeisenbank/blog/338328/
+
+Опасная игра. Стоит ли полагаться на команду из джуниоров | https://habrahabr.ru/company/alconost/blog/338802/
+
+Это заблуждение, что технический директор занимается исключительно техническими вопросами | https://habrahabr.ru/company/lanit/blog/338684/
+
+Как попасть в Технопарк Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/338714/
+
+Эволюция: из стажеров в интерны | https://habrahabr.ru/company/parallels/blog/338512/
+
+ИТ-чемпионат «Гонки Героев», или первый проект ЛАНИТ на военном полигоне «Алабино» | https://habrahabr.ru/company/lanit/blog/338488/
+
+Этапы развития проекта обучения Java Online Projects: как это было, взгляд изнутри | https://habrahabr.ru/post/338442/
+
+ИТ против ИИ: отберут ли машины работу у своих создателей? | https://habrahabr.ru/company/spbifmo/blog/338410/
+
+Как поделить одного инструктора на всех, чтобы каждому досталось по два. Best practice в обучении ИТ | https://habrahabr.ru/company/lanit/blog/338308/
+
+Не хочу учиться, хочу… | https://habrahabr.ru/company/parallels/blog/338194/
+
+Sci-fi для стартапа: как связаны технологическое предпринимательство и научная фантастика | https://habrahabr.ru/company/spbifmo/blog/337996/
+
+Пару слов о неминуемом повороте в развитии IT-отрасли | https://habrahabr.ru/post/337878/
+
+Вводим рейтинг участника Dribbble и Behance на «Моём круге» | https://habrahabr.ru/company/moikrug/blog/337950/
+
+Эволюция разработчика | https://habrahabr.ru/company/alconost/blog/337910/
+
+Найм тестировщиков — по обе стороны баррикад | https://habrahabr.ru/company/agima/blog/337818/
+
+«Восточный» — наш космодром | https://habrahabr.ru/company/lanit/blog/337770/
+
+Детский сад, штаны на лямках: откуда берутся программисты | https://habrahabr.ru/company/parallels/blog/337674/
+
+Время сорваться с крючка: превращаем эмоции в союзников | https://habrahabr.ru/company/everydaytools/blog/337352/
+
+Как войти в IT: новый набор в Школу программистов HeadHunter | https://habrahabr.ru/company/hh/blog/337256/
+
+Пошаговый план старта на Upwork #2 | https://habrahabr.ru/post/337200/
+
+Как перестать беспокоиться и начать говорить | https://habrahabr.ru/company/yamoney/blog/337178/
+
+Пошаговый план старта на Upwork | https://habrahabr.ru/post/337136/
+
+Процедура выбора позиции | https://habrahabr.ru/post/336984/
+
+Как звезда бразильских сериалов случайно помогла открыть IT-компанию в России | https://habrahabr.ru/company/itsumma/blog/336938/
+
+Несколько полезных улучшений в профиле компании на «Моём круге» | https://habrahabr.ru/company/moikrug/blog/336884/
+
+Дайджест событий для HR-специалистов в IT-области на сентябрь 2017 | https://habrahabr.ru/company/moikrug/blog/336874/
+
+Ты не компилятор | https://habrahabr.ru/post/336838/
+
+Как руководить интровертами без вреда для здоровья | https://habrahabr.ru/company/first/blog/336720/
+
+Современный найм — отстой | https://habrahabr.ru/post/336778/
+
+Как правильно оценить предложение о работе | https://habrahabr.ru/company/spice/blog/336682/
+
+Управление разработкой технологически сложных интернет-приложений в условиях острой нехватки времени | https://habrahabr.ru/post/336540/
+
+Работа и жизнь в Болгарии | https://habrahabr.ru/post/336474/
+
+Внезапное желание стать разработчиком. Личный опыт | https://habrahabr.ru/post/336442/
+
+Как правильно чесать панду | https://habrahabr.ru/company/yamoney/blog/336290/
+
+Краткая реакция на материал о Xored | https://habrahabr.ru/post/336270/
+
+Четыре типажа программистов | https://habrahabr.ru/post/336248/
+
+Не виноватая я. Он сам пришел | https://habrahabr.ru/post/336092/
+
+Поработать в Швеции | https://habrahabr.ru/post/335938/
+
+Test Management for JIRA и его применение при разработке программного обеспечения | https://habrahabr.ru/post/335932/
+
+Офис Avito: work hard, play hard | https://habrahabr.ru/company/avito/blog/335896/
+
+Путешествие за бугор и обратно: как не надо устраиваться работать за рубежом | https://habrahabr.ru/post/335876/
+
+Oh, My Code — новая передача про управление в IT на канале Технострим | https://habrahabr.ru/company/mailru/blog/335280/
+
+Как провести неидеальное собеседование тестировщика и почему идеальных не бывает | https://habrahabr.ru/company/yamoney/blog/335612/
+
+Как участие в профессиональных ИТ-сообществах влияет на карьеру | https://habrahabr.ru/company/moikrug/blog/335344/
+
+Как повысить шансы при поиске работы и получить максимум приглашений на перспективные собеседования при минимуме времени | https://habrahabr.ru/post/335286/
+
+Увольнять, нанимать, повышать — культура вашей компании. Анатомия редиски | https://habrahabr.ru/company/raiffeisenbank/blog/334870/
+
+Эти токсичные, токсичные собеседования | https://habrahabr.ru/company/exante/blog/335096/
+
+Как мы ищем (и почему находим) крутых разработчиков. Опыт HR и советы соискателям | https://habrahabr.ru/company/skyeng/blog/335170/
+
+Охота на работу мечты | https://habrahabr.ru/post/334954/
+
+Дайджест событий для HR-специалистов в IT-области на август 2017 | https://habrahabr.ru/company/moikrug/blog/334732/
+
+hh и в продакшн: как выпустить новую фичу | https://habrahabr.ru/company/hh/blog/334562/
+
+У нас длинные руки: 7 зарубежных площадок, на которых можно найти удалённую работу | https://habrahabr.ru/company/parallels/blog/334486/
+
+Команда веб-студии: система роста, аттестация и мотивация | https://habrahabr.ru/company/twins/blog/334458/
+
+Ужасный рекрутер, ужасный кандидат | https://habrahabr.ru/company/pm/blog/334268/
+
+Почему хорошие люди покидают крупные IT-компании? | https://habrahabr.ru/company/alconost/blog/334228/
+
+Вводим рейтинг участника GitHub и StackOverflow на «Моём круге» | https://habrahabr.ru/company/moikrug/blog/334102/
+
+Увольнение – это маленькая смерть. Как сохранить ценного специалиста решившего уволиться? | https://habrahabr.ru/company/parallels/blog/334056/
+
+Черты великого продакт-менеджера | https://habrahabr.ru/company/parallels/blog/333698/
+
+Вводим рейтинг участника «Хабра» и «Тостера» на «Моём круге» | https://habrahabr.ru/company/moikrug/blog/332878/
+
+Анонимный трудоголик: как мотивировать самого себя | https://habrahabr.ru/company/regionsoft/blog/332800/
+
+Анализ в управлении системами | https://habrahabr.ru/company/cloud4y/blog/332434/
+
+Задачи с собеседований. Три адекватные задачки на «подумать» | https://habrahabr.ru/post/332088/
+
+Скорочтение: работает или нет? Часть 3: простые советы | https://habrahabr.ru/company/spbifmo/blog/331750/
+
+Как организовать Performance Review в IT-компании: опыт Badoo | https://habrahabr.ru/company/badoo/blog/331570/
+
+Когда мне вышлют оффер? Подсказки для соискателей от HR-менеджера | https://habrahabr.ru/company/appodeal/blog/331666/
+
+Антипаттерны для поиска соискателей | https://habrahabr.ru/post/331276/
+
+Аптечка разработчика: от аналитики до художников на аутсорсе | https://habrahabr.ru/company/appodeal/blog/331212/
+
+От b2b-приложений к массовому сервису по всему миру | https://habrahabr.ru/company/mailru/blog/331052/
+
+40 необычных вопросов, задаваемых на собеседовании в Apple | https://habrahabr.ru/post/330932/
+
+Если вы это читаете, то работа у вас наверняка не тяжелая | https://habrahabr.ru/company/alconost/blog/330802/
+
+Интернатура в геймдеве: быть или не быть? Первый опыт краснодарской студии Plarium | https://habrahabr.ru/company/plarium/blog/330800/
+
+«Самый большой конкурент — это те, кто делают все самостоятельно» — Петр Зайцев о создании и развитии компании Percona | https://habrahabr.ru/company/pgdayrussia/blog/330716/
+
+Junior, который в первый день работы удалил базу данных с production | https://habrahabr.ru/company/flant/blog/330750/
+
+Интервью с Яковом Шуваевым про команду инженеров, мотивацию и собеседования | https://habrahabr.ru/company/lanit/blog/330510/
+
+Кровь, пот и слезы дизайнера | https://habrahabr.ru/post/330448/
+
+Советы для инженеров от менеджера Google | https://habrahabr.ru/post/330296/
+
+Доигрались: как компании используют геймификацию в рекрутменте | https://habrahabr.ru/company/potok/blog/330280/
+
+Удалённая работа в цифрах и диаграммах | https://habrahabr.ru/company/moikrug/blog/330076/
+
+9 причин, которые мешают вам стать тимлидом | https://habrahabr.ru/company/icanchoose/blog/329882/
+
+Корейские коллеги: понять и простить | https://habrahabr.ru/post/329214/
+
+Как работают ИТ-специалисты. Савва Михалевский, front-end архитектор Grabr | https://habrahabr.ru/post/329436/
+
+Как найти того самого тестировщика | https://habrahabr.ru/company/devimteam/blog/329298/
+
+DevConf 2017: Эффективное управление WEB-проектами — заканчивается голосование за доклады | https://habrahabr.ru/company/devconf/blog/329362/
+
+Обратная сторона рекрутмента: что HR-технологии изменили для кандидатов | https://habrahabr.ru/company/potok/blog/329216/
+
+Почему женщин-программистов сильно меньше мужчин? Инфографика опроса от «Моего круга» | https://habrahabr.ru/company/moikrug/blog/329018/
+
+Кадровый голод тоже не тетка, или как вырастить ИТ-специалиста из студента | https://habrahabr.ru/company/infowatch/blog/328790/
+
+Из инженеров в руководители: сохранение технических навыков | https://habrahabr.ru/company/southbridge/blog/327224/
+
+Как сделать так, чтобы #меня_взяли в IT | https://habrahabr.ru/post/328628/
+
+Как рассказывать о себе на собеседовании | https://habrahabr.ru/company/alconost/blog/328200/
+
+Живем и работаем не в столицах: рынок разработки программного обеспечения в Нижнем Новгороде | https://habrahabr.ru/post/327838/
+
+Системный инжиниринг и менеджмент 2.0: как получить профессию будущего | https://habrahabr.ru/company/mipt/blog/327752/
+
+Ваш рекрутмент не социальный: особенности социальных сетей, лайфхаки и инструменты для HR | https://habrahabr.ru/company/potok/blog/327446/
+
+Мотивация сотрудников: правила офисной дипломатии | https://habrahabr.ru/company/regionsoft/blog/327430/
+
+Как собрать команду, если я интроверт | https://habrahabr.ru/company/icanchoose/blog/327122/
+
+Список ИТ-компаний, которые регулярно проводят стажировки для студентов юга России | https://habrahabr.ru/company/uteam/blog/327024/
+
+Четыре года Джинну, сервису анонимного поиска работы | https://habrahabr.ru/company/dou/blog/326778/
+
+Десять главных причин, которые делают программиста несчастным | https://habrahabr.ru/post/326916/
+
+Мгновенно определим ваш IQ и темперамент | https://habrahabr.ru/company/levelpride/blog/326768/
+
+Ключевые точки в коммуникации менеджера проектов | https://habrahabr.ru/post/326536/
+
+Как начинающему программисту попасть в геймдев? Советы специалистов краснодарской студии Plarium | https://habrahabr.ru/company/plarium/blog/326534/
+
+Работа из дома — один из главных бонусов, который требуют программисты | https://habrahabr.ru/post/326476/
+
+Финтех: 7 космических карьерных трендов | https://habrahabr.ru/company/icanchoose/blog/326360/
+
+Как я был разработчиком, а теперь тимлид | https://habrahabr.ru/company/badoo/blog/326230/
+
+Где искать работу: чаты в Telegram, группы в FB и другие ресурсы | https://habrahabr.ru/company/icanchoose/blog/326254/
+
+Сторонние проекты разработчика | https://habrahabr.ru/post/326154/
+
+Agile у каждого свой: как плыть по течению, управлять проектами и не страдать | https://habrahabr.ru/company/icanchoose/blog/326130/
+
+«Не думай о саппорте свысока»: как реализовать скрытые возможности вашей службы поддержки | https://habrahabr.ru/company/wrike/blog/325684/
+
+Осторожно: высокое напряжение, или когда техподдержке нужна поддержка | https://habrahabr.ru/company/parallels/blog/325912/
+
+Я крут и это проблема | https://habrahabr.ru/company/zpayment/blog/319272/
+
+Как работают ИТ-специалисты. Федор Быков, директор по исследованиям и разработке в компании PROMT | https://habrahabr.ru/post/325694/
+
+Формирование Support Division краснодарской студии Plarium | https://habrahabr.ru/company/plarium/blog/325268/
+
+Bitfury: о команде, требованиях к кандидатам и открытых вакансиях | https://habrahabr.ru/company/bitfury/blog/325254/
+
+Пора меняться: что будет с работными сайтами и почему они уже не те | https://habrahabr.ru/company/potok/blog/325112/
+
+Тестовые задания. Мнения и домыслы | https://habrahabr.ru/post/325084/
+
+Чуть не уволили по статье… на Хабре | https://habrahabr.ru/post/324714/
+
+Мы перерабатываем. Ну и что такого? | https://habrahabr.ru/post/321348/
+
+Куда деваются программисты после 40 | https://habrahabr.ru/post/324426/
+
+Вопрос с собеседования тим-лида: что делать, если деньги на проект получены и истрачены, а проект не готов | https://habrahabr.ru/post/324346/
+
+Приглашаем на GeekDay Evolution 25 марта | https://habrahabr.ru/company/mailru/blog/324018/
+
+Сказ о маленькой стажировке в маленькой компании [Часть II] | https://habrahabr.ru/post/322096/
+
+Аутисты — вундеркинды программирования: разрушение мифов | https://habrahabr.ru/post/323924/
+
+Отчет о результатах «Моего круга» за февраль 2017 и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/324026/
+
+Есть ли у вас ещё шанс достичь успеха | https://habrahabr.ru/post/323772/
+
+Как рассказывать о своих сайд-проектах | https://habrahabr.ru/company/everydaytools/blog/323802/
+
+HR-технологии в России: ожидание и реальность | https://habrahabr.ru/company/potok/blog/323798/
+
+Как работают ИТ-специалисты. Павел Клепинин, ИТ-директор центра НИПИГАЗ | https://habrahabr.ru/post/323768/
+
+Как работают ИТ-специалисты. Дарья Кулага, ведущий разработчик блока регионального бизнеса AT Consulting | https://habrahabr.ru/post/323474/
+
+Женщины, изменившие бизнес | https://habrahabr.ru/post/323456/
+
+Опыт DataLine: как мы готовим дежурных инженеров для своих дата-центров | https://habrahabr.ru/company/dataline/blog/323136/
+
+Влияние, которое GitHub оказывает на вашу карьеру | https://habrahabr.ru/company/everydaytools/blog/323320/
+
+Как работают ИТ-специалисты. Леонид Выговский, системный архитектор компании LiveTex | https://habrahabr.ru/post/323306/
+
+Сказ о стажировке в маленькой компании или как мы с Контуром конкурировали [Часть I] | https://habrahabr.ru/company/skbkontur/blog/321614/
+
+Программисты не могут написать алгоритмы без помощи: ещё раз про интервью | https://habrahabr.ru/post/323188/
+
+Как работают ИТ-специалисты. Илья Вислоцкий, директор центра архитектуры клиентских решений Stack Group | https://habrahabr.ru/post/323130/
+
+Круглое нести, квадратное катить: история джависта | https://habrahabr.ru/company/yamoney/blog/322968/
+
+Как работают ИТ-специалисты. Александр Козлов, тимлид компании SimbirSoft | https://habrahabr.ru/post/322938/
+
+Успеть за 30 минут и другие рекорды Social Media Support | https://habrahabr.ru/company/parallels/blog/322860/
+
+Как я устроился на работу в Stack Exchange | https://habrahabr.ru/post/322030/
+
+Почему я игнорирую рекрутёров Google | https://habrahabr.ru/post/322602/
+
+Как мы проводим собеседования в Pivotal | https://habrahabr.ru/post/322758/
+
+Как понять, кто ты: Junior, Middle или Senior? | https://habrahabr.ru/post/322692/
+
+Синдром самозванца: сражение с усталостью от фронтенда | https://habrahabr.ru/post/322674/
+
+Как работают ИТ-специалисты. Андрей Волосюк, CTO Digital Society Laboratory в SocialKey Ads | https://habrahabr.ru/post/322678/
+
+Как работают ИТ-специалисты. Мамикон Вартапетян, руководитель группы разработки БД «Лестэр ИТ» | https://habrahabr.ru/post/322530/
+
+Тет-а-тет: задаем правильные вопросы | https://habrahabr.ru/post/322444/
+
+Как работают ИТ-специалисты. Семен Багреев, Rambler Digital Solutions, руководитель отдела разработки Python/Ruby | https://habrahabr.ru/post/322408/
+
+Качество сервиса на три буквы | https://habrahabr.ru/company/parallels/blog/322374/
+
+Открытое письмо рекрутерам IT-сферы | https://habrahabr.ru/company/inoventica/blog/322292/
+
+«Приберитесь на своем столе»: мой опыт удаленного собеседования в Amazon | https://habrahabr.ru/post/322236/
+
+Практика сбора отзывов клиентов — плохое явление | https://habrahabr.ru/post/321852/
+
+Как работают ИТ-специалисты. Андрей Смирнов, руководитель группы разработки в Rambler Digital Solutions | https://habrahabr.ru/post/322224/
+
+С помощью LAMP я создал SaaS-сервис приносящий $3700 в месяц. Моя история | https://habrahabr.ru/post/321978/
+
+Как основать стартап и не сломать собственную жизнь | https://habrahabr.ru/post/321626/
+
+Как работают ИТ-специалисты. Борис Тихомиров, директор мобильных и интернет-проектов PROMT | https://habrahabr.ru/post/322044/
+
+Отчет о результатах «Моего круга» за январь 2017 и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/321914/
+
+Как работают ИТ-специалисты. Андрей Макаров, компания Neti | https://habrahabr.ru/post/321886/
+
+Почему я работаю только удалённо | https://habrahabr.ru/post/321666/
+
+Дмитрий Сорин, Senior Software Engineer в Atlassian, поделился впечатлениями о пяти годах работы в «Яндексе» | https://habrahabr.ru/post/321802/
+
+Ты протон моего электрона: любовь и брак в ИТ | https://habrahabr.ru/company/parallels/blog/321724/
+
+Как работают ИТ-специалисты. Андрей Гажарига, начальник отдела разработки и развития Orange Business Services | https://habrahabr.ru/post/321714/
+
+Как работают ИТ-специалисты. Дмитрий Цимошко, директор департамента информационных технологий в Century 21 | https://habrahabr.ru/post/321596/
+
+Сложно быть Junior'ом | https://habrahabr.ru/post/321550/
+
+В рамках подготовки к IPO Snapchat защищает свой код и репутацию от «посягательств» Facebook | https://habrahabr.ru/post/321500/
+
+Как работают ИТ-специалисты. Анатолий Матов, руководитель разработки в е2е4.lab | https://habrahabr.ru/post/321416/
+
+Акционеры Facebook хотят снять Цукерберга с кресла председателя совета директоров | https://habrahabr.ru/post/321376/
+
+Бунт бездельников, или еще раз об учете рабочего времени | https://habrahabr.ru/company/kickidler/blog/321282/
+
+Как работают ИТ-специалисты. Николай Григорьев, архитектор мобильных игр и приложений | https://habrahabr.ru/post/321248/
+
+Путь из программиста в предприниматели (и стоит ли по нему идти) | https://habrahabr.ru/post/321184/
+
+Как работают ИТ-специалисты. Руководитель разработки SearchInform Дмитрий Гацура | https://habrahabr.ru/post/321020/
+
+Советы основателя. Дмитрий Барычев, «Отcледить посылку.рф» | https://habrahabr.ru/post/320952/
+
+Как работают ИТ-специалисты. Антон Чарченко, Technical Lead в EnglishDom | https://habrahabr.ru/post/320802/
+
+Технотрек: от студенческой скамьи до ведущих IT-компаний | https://habrahabr.ru/company/mailru/blog/320314/
+
+Пора ли увольняться? | https://habrahabr.ru/post/320760/
+
+Как сделать новый Trello и продать его за 425 млн. долларов: почему компания Atlassian выложила такую сумму | https://habrahabr.ru/post/320566/
+
+Как работают ИТ-специалисты. Андрей Цай, ADV-ONLINE | https://habrahabr.ru/post/320592/
+
+Основные этапы подбора персонала: советы HR-специалистов краснодарской студии Plarium | https://habrahabr.ru/company/plarium/blog/320492/
+
+Пять лет, пять образовательных проектов: коротко о главном и истории преподавателей | https://habrahabr.ru/company/mailru/blog/320350/
+
+Как работают ИТ-специалисты. Андрей Янковский, JS-тимлид CSSSR | https://habrahabr.ru/post/320372/
+
+Как работают ИТ-специалисты. Илья Титов, управляющий директор по IT в Модульбанк | https://habrahabr.ru/post/320222/
+
+Прошлое и будущее Управления ИТ Услугами (ITSM) | https://habrahabr.ru/post/320086/
+
+«Пятничный формат»: куда расти техническим специалистам | https://habrahabr.ru/company/1cloud/blog/320026/
+
+Из жизни параллелилиста | https://habrahabr.ru/company/parallels/blog/319994/
+
+Что ловить в карьере ИТ-архитектора: ожидания VS реальность | https://habrahabr.ru/company/softline/blog/319814/
+
+У разработчика программного обеспечения должен быть опыт сисадминства | https://habrahabr.ru/post/319686/
+
+«Изучил что-то — пробуй это объяснить, пока не поймёшь сам» | https://habrahabr.ru/company/jugru/blog/319854/
+
+Как найти свою первую работу программистом? От резюме до испытательного срока | https://habrahabr.ru/company/mailru/blog/319938/
+
+Как ООО заплатить в 133 раза меньше налогов | https://habrahabr.ru/company/regberry/blog/319776/
+
+Семейный бизнес в IT. Как мы продали свой стартап | https://habrahabr.ru/company/energoslon/blog/318380/
+
+Отчет о результатах «Моего круга» за декабрь 2016 и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/319660/
+
+Как работают ИТ-специалисты. Евгений Бевз, компания «Смарт-Софт» | https://habrahabr.ru/post/319594/
+
+Нужна ли нам система оценок? | https://habrahabr.ru/post/319556/
+
+Персона. Командир Нортон | https://habrahabr.ru/post/319528/
+
+Если инвестор фанатеет от космоса, вы должны быть с ним заодно | https://habrahabr.ru/company/gotech_vc/blog/319468/
+
+Как работают ИТ-специалисты. Александр Матросов, Cylance | https://habrahabr.ru/post/319364/
+
+Получить инвестиции до $ 100 000 и запустить совместные проекты с лидерами рекламной индустрии | https://habrahabr.ru/company/gotech_vc/blog/319340/
+
+Google зарабатывал столько, что о деньгах думать не приходилось. До сего момента | https://habrahabr.ru/post/319066/
+
+Зачем компания Tesla переманила создателя языка Swift из Apple | https://habrahabr.ru/post/319294/
+
+Как ИП сэкономить на налогах в 13,3 раз | https://habrahabr.ru/company/regberry/blog/319246/
+
+Биологические предпосылки деградации компаний | https://habrahabr.ru/post/315924/
+
+Как работают ИТ-специалисты. Никита Абдуллин, аналитик по безопасности в компании Riscure | https://habrahabr.ru/post/319146/
+
+Как стареть в IT | https://habrahabr.ru/post/318914/
+
+Как работают ИТ-специалисты. Иван Новиков, СЕО компании Wallarm | https://habrahabr.ru/post/319026/
+
+Ревью кода в распределенной команде | https://habrahabr.ru/company/mailru/blog/318510/
+
+Заметки фрилансера: как перестать бояться и начать работать на себя | https://habrahabr.ru/post/318994/
+
+Как работают ИТ-специалисты. Илья Сафонов, Senior Research Scientist в Schlumberger | https://habrahabr.ru/post/318976/
+
+Как работают ИТ-специалисты. Антон Карпов, руководитель службы безопасности в Яндексе | https://habrahabr.ru/post/318906/
+
+«Меня разрывает, когда я не могу писать код» — интервью с Максимом Шафировым, CEO JetBrains | https://habrahabr.ru/company/jugru/blog/318842/
+
+Как работают ИТ-специалисты. Дмитрий Кравчук — технический директор и сооснователь компании LinguaTrip | https://habrahabr.ru/post/318804/
+
+Советы основателя. Евгений Кобзев, технический директор и сооснователь компании «Кнопка» | https://habrahabr.ru/post/318766/
+
+Личный опыт: как нетехнарю стать фронтенд-разработчиком | https://habrahabr.ru/company/htmlacademy/blog/318668/
+
+Как работают ИТ-специалисты. Андрей Аксенов, основатель проекта Sphinx | https://habrahabr.ru/post/318626/
+
+Десять вакансий в IT, на которые труднее всего найти людей | https://habrahabr.ru/post/318612/
+
+Зачем все эти «плюшки»: Что вам предложат ИТ-компании помимо зарплаты | https://habrahabr.ru/company/1cloud/blog/318534/
+
+Как работают ИТ-специалисты. Дмитрий Столяров, технический директор Флант | https://habrahabr.ru/post/318440/
+
+Выгорание фрилансера на Upwork. Причины, инструменты, решения | https://habrahabr.ru/post/318340/
+
+Пятничный формат: Удачный отпуск для ИТ-специалиста или еще немного любимой работы | https://habrahabr.ru/company/1cloud/blog/318316/
+
+Как работают ИТ-специалисты. Петр Зайцев, генеральный директор и основатель Percona | https://habrahabr.ru/post/318302/
+
+Становлюсь ли я лучше? | https://habrahabr.ru/post/318180/
+
+Как за три месяца продать стартап в Facebook | https://habrahabr.ru/company/gotech_vc/blog/318134/
+
+Как работают ИТ-специалисты. Илья Космодемьянский, PostgreSQL-Consulting LLC | https://habrahabr.ru/post/318112/
+
+Пять причин, чтобы не создавать стартап, а остаться наёмным сотрудником | https://habrahabr.ru/company/kickidler/blog/317948/
+
+Игра по правилам | https://habrahabr.ru/company/dataart/blog/317978/
+
+Как выжить в условиях корпоративной культуры, если ты — программист-интроверт | https://habrahabr.ru/company/1cloud/blog/317940/
+
+Как работают ИТ-специалисты. Максим Лапшин, основатель компании Flussonic | https://habrahabr.ru/post/317908/
+
+Как работают ИТ-специалисты. Максим Зелинский, компания «Сбербанк-Технологии» | https://habrahabr.ru/post/317730/
+
+Эти компании переманивают специалистов в области цифровых технологий у всех остальных | https://habrahabr.ru/company/testutor/blog/317618/
+
+Как работают ИТ-специалисты. Константин Осипов, разработчик и основатель проекта Tarantool | https://habrahabr.ru/post/317584/
+
+7 советов начинающему ИП, чтобы избежать проблем (что-то вы точно из этого не знаете) | https://habrahabr.ru/company/regberry/blog/317516/
+
+Персона. Джон Бэкус — создатель первого языка программирования высокого уровня | https://habrahabr.ru/post/317526/
+
+Что плохо умеют российские стартаперы | https://habrahabr.ru/company/kickidler/blog/317446/
+
+Могут ли ИТ-специалисты поменять работу без увеличения зарплаты: инфографика опроса от «Моего круга» | https://habrahabr.ru/company/moikrug/blog/317448/
+
+Как работают ИТ-специалисты. Игорь Мызгин, Servers.ru | https://habrahabr.ru/post/317378/
+
+От хорошего к великому | https://habrahabr.ru/company/parallels/blog/317388/
+
+Техническое собеседование в Google на Software Engineer — мой опыт | https://habrahabr.ru/post/317296/
+
+Коммуникационная стратегия, как инструмент построения карьеры и личного бренда | https://habrahabr.ru/post/317332/
+
+Персона. Алан Кэй — пророк, автор концепции GUI и языка Smalltalk | https://habrahabr.ru/post/317278/
+
+Накануне дня рождения первой женщины-программиста: моя история | https://habrahabr.ru/company/mailru/blog/317084/
+
+Как руководит компанией генеральный директор-программист — мнения и опыт экспертов | https://habrahabr.ru/post/317170/
+
+Как работают ИТ-специалисты. Алексей Акулович, старший разработчик проекта «ВКонтакте» | https://habrahabr.ru/post/317126/
+
+Все наши проблемы с работой оттого, что никто не знает, кем он хочет стать через 5 лет | https://habrahabr.ru/company/kickidler/blog/316962/
+
+Отчет о результатах «Моего круга» за ноябрь 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/316922/
+
+Как работают ИТ-специалисты. Иван Панченко, Postgres Professional | https://habrahabr.ru/post/316924/
+
+Психология убеждения. Как убеждать других и уметь распознавать манипуляции | https://habrahabr.ru/post/316784/
+
+Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился | https://habrahabr.ru/company/edison/blog/316776/
+
+Никогда не принимайте контрпредложение | https://habrahabr.ru/post/316388/
+
+Интересные IT-вакансии на «Моём круге» за неделю, 7-13 ноября | https://habrahabr.ru/company/moikrug/blog/316702/
+
+Как работают ИТ-специалисты. Андрей Шорин, заместитель директора эксплуатации HeadHunter | https://habrahabr.ru/post/316690/
+
+Краудвестинговая платформа AngelList и площадка Product Hunt создают единую экосистему для ИТ-стартаперов | https://habrahabr.ru/post/316678/
+
+Как работают ИТ-специалисты. Даниил Пивоваров, Vscale | https://habrahabr.ru/post/316512/
+
+От арбитражника до владельца компании с оборотом в $100 млн | https://habrahabr.ru/company/mobio/blog/316310/
+
+Как работают ИТ-специалисты. Евгений Потапов, генеральный директор ITSumma | https://habrahabr.ru/post/316280/
+
+Как Дональд Кнут учился в школе и поступал в универ | https://habrahabr.ru/company/edison/blog/315714/
+
+«Руководи мной лучше»: Что сделает работу начинающего программиста эффективнее | https://habrahabr.ru/company/1cloud/blog/316110/
+
+Как работают ИТ-специалисты. Антон Петроченко, Panasonic Россия | https://habrahabr.ru/post/316104/
+
+Как открыть стартап в Берлине [инфографика] | https://habrahabr.ru/post/316048/
+
+Зарплаты IT-специалистов в России за последние полгода, май-октябрь 2016 | https://habrahabr.ru/company/moikrug/blog/315992/
+
+Чего не стоит ждать разработчикам в России? | https://habrahabr.ru/company/parallels/blog/315986/
+
+Персона. Гвидо Ван Россум — создатель Python | https://habrahabr.ru/post/315974/
+
+Как работают ИТ-специалисты. Алексей Владышев, автор Zabbix | https://habrahabr.ru/post/315934/
+
+Как компании привлекают на работу лучших ИТ-специалистов — ответы экспертов | https://habrahabr.ru/post/315872/
+
+Лучшие IT-вакансии на «Моём круге» за неделю, 31 октября — 6 ноября | https://habrahabr.ru/company/moikrug/blog/315810/
+
+Как работают ИТ-специалисты. Владимир Протасов, Parallels | https://habrahabr.ru/post/315726/
+
+Причина недопонимания между нами и неверного использования технологий. По мотивам статьи «Пять миров» (ПО) | https://habrahabr.ru/post/315450/
+
+Как работают ИТ-специалисты. Олег Бартунов, Postgres Professional | https://habrahabr.ru/post/315564/
+
+Как работают ИТ-специалисты. Виктор Тарнавский, «Яндекс» | https://habrahabr.ru/post/315504/
+
+Развеиваем мифы о том, что учредители не отвечают своим имуществом по долгам ООО | https://habrahabr.ru/company/regberry/blog/315390/
+
+Забейте на офис, работайте удаленно | https://habrahabr.ru/company/makeright/blog/315298/
+
+Как потерять несколько миллионов, работая непонятно с кем | https://habrahabr.ru/post/315332/
+
+Разработчик: подушка безопасности | https://habrahabr.ru/post/315330/
+
+Как работают ИТ-специалисты. Игорь Сысоев — основатель и СТО в Nginx | https://habrahabr.ru/post/315320/
+
+Лучшие IT-вакансии на «Моём круге» за неделю, 24-30 октября | https://habrahabr.ru/company/moikrug/blog/315234/
+
+История одного тестового задания | https://habrahabr.ru/company/ecwid/blog/315228/
+
+Как работают ИТ-специалисты. Алексей Рыбак, глава разработки Badoo | https://habrahabr.ru/post/315210/
+
+О рабах, героях и рабах-героях | https://habrahabr.ru/post/315130/
+
+Отчет о результатах «Моего круга» за октябрь 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/315040/
+
+Как работают ИТ-специалисты. Андрей Домась — ведущий системный администратор в социальной сети «Одноклассники» | https://habrahabr.ru/post/314974/
+
+Пока китайский ИТ-рынок труда еще перенимает американскую практику, в США нанимают программистов «играючи» | https://habrahabr.ru/post/314876/
+
+Лучшие IT-вакансии на «Моём круге» за неделю, 17-23 октября | https://habrahabr.ru/company/moikrug/blog/314792/
+
+С днем рождения, Аарон Шварц | https://habrahabr.ru/company/edison/blog/312770/
+
+В дцатый раз про собеседования | https://habrahabr.ru/post/314654/
+
+Персона. Андерс Хейлсберг – создатель Turbo Pascal, Delphi и C# | https://habrahabr.ru/post/314616/
+
+Давид Хейнемейер Ханссон: День, когда я стал миллионером | https://habrahabr.ru/company/edison/blog/314460/
+
+Дональд Кнут: про Ричарда Фейнмана, награды и алгоритм КМП | https://habrahabr.ru/company/edison/blog/314424/
+
+Экономика пацанской IT конторы | https://habrahabr.ru/post/314398/
+
+Что рассказать о компании, чтобы получить отклики от разработчиков (чек-лист) | https://habrahabr.ru/company/moikrug/blog/314152/
+
+Сколько зарабатывает программист в Москве по мнению ФНС | https://habrahabr.ru/company/regberry/blog/314128/
+
+Пол Грэм продавливает правительство: 95% превосходных мировых программистов остаются не у дел, впустите их | https://habrahabr.ru/company/edison/blog/314094/
+
+Митч Капор: бизнес в позе лотоса, вторая жизнь и электронный фронтир | https://habrahabr.ru/post/313904/
+
+Большое количество людей в опенспейсе мешает сосредоточиться и приводит к частым болезням | https://habrahabr.ru/post/313960/
+
+Лучшие вакансии на «Моём круге» за неделю, 10-16 октября | https://habrahabr.ru/company/moikrug/blog/313834/
+
+Стратегическая речь Пола Грэма на Defcon 2005: «Неравенство и риск» | https://habrahabr.ru/company/edison/blog/313542/
+
+Советы западных консалтинговых компаний. Часть 1, теоретическая | https://habrahabr.ru/post/312702/
+
+Хотят ли разработчики работать в стартапах и быть их основателями — инфографика по результатам опроса | https://habrahabr.ru/company/moikrug/blog/313756/
+
+Как улучшить процесс поиска новой работы? Взгляд изнутри | https://habrahabr.ru/company/parallels/blog/313456/
+
+Персона. Создатель С++ Бьярне Страуструп, который «никогда не любил» языки программирования | https://habrahabr.ru/post/313450/
+
+Опыт телефонного собеседования в Google, демонстрирующий несостоятельность процесса найма | https://habrahabr.ru/post/313028/
+
+Сегодня стартапы появляются ради стартапа, а не реализации идеи | https://habrahabr.ru/post/313158/
+
+Этикет Кремниевой Долины | https://habrahabr.ru/post/312814/
+
+В ИТ-индустрии по-прежнему мало женщин-руководителей | https://habrahabr.ru/post/313184/
+
+Оператор клиентской поддержки, менеджер, программист | https://habrahabr.ru/post/313064/
+
+Лучшие вакансии на «Моём круге» за неделю, 3-9 октября | https://habrahabr.ru/company/moikrug/blog/313170/
+
+Как попасть в геймдев и стать востребованным специалистом. Часть 2 | https://habrahabr.ru/company/plarium/blog/313126/
+
+Работа не из офиса — быть иль не быть, вот в чем вопрос | https://habrahabr.ru/company/kickidler/blog/313082/
+
+Артём Кухаренко, основатель компании NTechLab — о распознавании лиц, потенциале нейросетей и бизнесе | https://habrahabr.ru/post/313076/
+
+Персона. Как создатель JavaScript Брендан Айк пришел к созданию своей компании | https://habrahabr.ru/post/313040/
+
+Инкапсуляция новичка в команду и наследование обычаев | https://habrahabr.ru/post/313026/
+
+Джоанна Хоффман — «ангел-хранитель» Стива Джобса | https://habrahabr.ru/company/edison/blog/312780/
+
+Забота об эффективности — дело лентяев. Как работать, зарабатывать и приносить компании пользу | https://habrahabr.ru/company/smartprogress/blog/312736/
+
+5 причин, по которым работодатели не любят удалёнщиков (и 4 способа получить работу в любом случае) | https://habrahabr.ru/post/312666/
+
+Несколько мыслей об алгоритме поиска работы | https://habrahabr.ru/post/312818/
+
+22 октября в Москве – митап для Java seniors: встреча с СЕО и командой Crossover | https://habrahabr.ru/company/crossover/blog/312786/
+
+Scrum от военного летчика: Искусство делать вдвое больше дел в два раза быстрее | https://habrahabr.ru/company/edison/blog/312680/
+
+Истории старой мейлрушечки | https://habrahabr.ru/company/mailru/blog/312546/
+
+Crossover: высокооплачиваемая дистанционная фуллтайм работа для ИТ-профессионалов | https://habrahabr.ru/company/crossover/blog/312604/
+
+Дональд Кнут: Я сидел на задних партах и травил шутки, а учителя смирились и не часто били по заднице (1,2,3,7/97) | https://habrahabr.ru/company/edison/blog/312374/
+
+Как попасть в геймдев и стать востребованным специалистом. Часть 1 | https://habrahabr.ru/company/plarium/blog/312400/
+
+Удалённая работа 2.0. Надежда Юринова, директор по маркетингу Bookmate | https://habrahabr.ru/post/312326/
+
+Что мы ненавидим в собеседованиях? | https://habrahabr.ru/company/luxoft/blog/312324/
+
+Питер Тиль: Из шести сооснователей PayPal, четверо собирали бомбы, будучи школьниками | https://habrahabr.ru/company/edison/blog/311916/
+
+Дональд Кнут: «Мой совет молодым» (93/97) и «Ощущая потребность самоутвердиться» (9/97) | https://habrahabr.ru/company/edison/blog/312154/
+
+Отчет о результатах «Моего круга» за сентябрь 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/312180/
+
+Едем в город южный: как живут разработчики в Ростове-на-Дoну | https://habrahabr.ru/company/uteam/blog/311960/
+
+Как я шел к Java-программированию и прошел мимо | https://habrahabr.ru/company/pc-administrator/blog/311910/
+
+Питер Хинченс: Тридцать пять лет я как некромант вдыхал жизнь в мертвое железо при помощи кода | https://habrahabr.ru/company/edison/blog/311892/
+
+Лучшие вакансии на «Моём круге» за неделю, 19-25 сентября | https://habrahabr.ru/company/moikrug/blog/311778/
+
+Аналитика для театральной сферы – новая ниша для стартапов | https://habrahabr.ru/company/gotech_vc/blog/311764/
+
+Как отучить puppy-разработчика гадить в коде? (Trash story) | https://habrahabr.ru/post/311696/
+
+Мы не просто получаем удалённую работу, но присоединяемся к удалённой команде и её культуре | https://habrahabr.ru/post/311466/
+
+Стать руководителем (в плане назначения должности) и быть им (по факту) – задачи разной сложности | https://habrahabr.ru/post/311490/
+
+«В пятницу и море по колено»: 5 навыков, которые не требуют наличия таланта | https://habrahabr.ru/company/it-grad/blog/310628/
+
+«Лучшее выступление – это история о мучительной борьбе и победе над злом», – Владимир Красильщик о технических докладах | https://habrahabr.ru/company/jugru/blog/311344/
+
+Невероятные приключения иностранцев в Y Combinator | https://habrahabr.ru/company/edison/blog/311136/
+
+В поисках взаимопонимания — 2: «Вредные советы» для моих IT-коллег | https://habrahabr.ru/company/eurostudio/blog/311266/
+
+Интегрируем мессенджеры (на примере Slack): GitHub, RSS (в частности Java), вакансии под ваш запрос | https://habrahabr.ru/post/311144/
+
+Алексей Игошин (HomeApp) меняет правила игры на российском рынке недвижимости с помощью информационных технологий | https://habrahabr.ru/post/311230/
+
+В туннеле под моим домом я встречаюсь с эльфами. Они мне и дают советы, как сделать суперкомпьютеры лучше | https://habrahabr.ru/company/edison/blog/310850/
+
+Реалии работы геймдизайнера в большой студии на примере BioWare | https://habrahabr.ru/post/311042/
+
+Лучшие вакансии на «Моём круге» за неделю, 12-18 сентября | https://habrahabr.ru/company/moikrug/blog/311202/
+
+Персона. Создатель Perl Ларри Уолл — «великодушный пожизненный диктатор» | https://habrahabr.ru/post/311166/
+
+Лень, нетерпение и самомнение — три главных добродетели программиста. С днем рождения, Ларри Уолл | https://habrahabr.ru/company/edison/blog/310938/
+
+Пол Грэм. Все статьи на русском. Год спустя | https://habrahabr.ru/company/edison/blog/301390/
+
+Y Combinator: девушки-программистки отвечают на деликатные вопросы | https://habrahabr.ru/company/edison/blog/310748/
+
+«Эффективный руководитель». Рассказываем о книге Питера Друкера (+ аудио-версия) | https://habrahabr.ru/company/makeright/blog/310636/
+
+План «Б»: открывать кафе или идти в программисты? | https://habrahabr.ru/company/pc-administrator/blog/310528/
+
+Персона. Сбылась мечта Майкла Делла | https://habrahabr.ru/post/310414/
+
+Программист на Марсе: Shutdown Dammit Until | https://habrahabr.ru/company/edison/blog/310312/
+
+8 признаков инфантилизма в бизнесе | https://habrahabr.ru/company/trinion/blog/310198/
+
+IF (профессия_программист.Exists() = FALSE) THEN…? | https://habrahabr.ru/post/310218/
+
+Как я поучаствовал в разработке нового интернет-стандарта | https://habrahabr.ru/company/qrator/blog/310126/
+
+Как управлять гигантами Vol.3: полный цикл жизни проекта | https://habrahabr.ru/company/agima/blog/310046/
+
+Насколько разработчики конфликтные — инфографика по результатам опроса на «Моем круге» | https://habrahabr.ru/company/moikrug/blog/310048/
+
+Набираем команду технической поддержки: инструкция по применению | https://habrahabr.ru/company/parallels/blog/309856/
+
+Мой путь программиста. От студента-QA до удаленного Java-разработчика | https://habrahabr.ru/post/310028/
+
+История одного программиста | https://habrahabr.ru/post/310024/
+
+Записывай всё | https://habrahabr.ru/post/309672/
+
+Квалификация коллег-программистов: ожидание и реальность | https://habrahabr.ru/post/309658/
+
+Мнения экспертов об ушедшем в историю «правиле 20%» Google | https://habrahabr.ru/post/309630/
+
+Новая статистика Y Combinator подскажет стартаперам направление развития | https://habrahabr.ru/post/309578/
+
+Персона. Деннис Ритчи — создатель языка С и ОС UNIX | https://habrahabr.ru/post/309546/
+
+Отчет о результатах «Моего круга» за август 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/309538/
+
+Как попасть на работу в международную ИТ-компанию? | https://habrahabr.ru/company/parallels/blog/309474/
+
+Как «прокачать» навыки программирования… практически без программирования | https://habrahabr.ru/company/1cloud/blog/309372/
+
+Acronis People 2: Начало карьеры в Acronis. Как, вместо уютной стажировки, я попал в пекло разработки | https://habrahabr.ru/company/acronis/blog/304190/
+
+У топовых разработчиков может быть жизнь за пределами программирования | https://habrahabr.ru/post/308620/
+
+Создатель World Wide Web Тим Бернерс-Ли изменил мир, но сам остался прежним | https://habrahabr.ru/post/308546/
+
+Как сохранить здоровые отношения, будучи разработчиком | https://habrahabr.ru/post/308388/
+
+Как я избегал выгорания, проработав программистом более трёх десятков лет | https://habrahabr.ru/post/308106/
+
+«Разработчик переднего конца» или кто я по профессии | https://habrahabr.ru/post/308186/
+
+Из юниоров в разработчики: получаем первую работу | https://habrahabr.ru/post/308104/
+
+«Мыслить финансовыми моделями»: Кто такие кванты и как ими стать | https://habrahabr.ru/company/itinvest/blog/307854/
+
+Долгая игра Тима Кука в Apple | https://habrahabr.ru/post/307680/
+
+Что нужно знать ИТ-менеджеру или ученье свет, а за свет надо платить | https://habrahabr.ru/post/307736/
+
+Отчет о результатах «Моего круга» за июль 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/307624/
+
+Исследуем вопрос наказаний 2.0 | https://habrahabr.ru/post/307594/
+
+Ошибки HR'ов глазами разработчика | https://habrahabr.ru/company/moikrug/blog/307522/
+
+Какие личностные качества нужны разработчику? | https://habrahabr.ru/post/307496/
+
+Кузница кадров: как учились тестировщики и закалялись кузнецы | https://habrahabr.ru/company/billing/blog/307402/
+
+Программировать скучно, но… | https://habrahabr.ru/post/307406/
+
+Как нанимают программистов. Интервью с Катериной Гавриловой из DigitalHR | https://habrahabr.ru/company/hexlet/blog/307330/
+
+Вопросы и ответы с Джеком Дорси | https://habrahabr.ru/post/307060/
+
+Биржи фриланса vs. работа напрямую – несколько фактов из опроса Payoneer | https://habrahabr.ru/company/payoneer/blog/305624/
+
+11 важнейших советов по найму для начинающих работодателей | https://habrahabr.ru/post/306918/
+
+Войти в АйТи | https://habrahabr.ru/post/306880/
+
+Корпоративная культура: Как живется сотрудникам западных (и не только) ИТ-компаний | https://habrahabr.ru/company/1cloud/blog/306286/
+
+Самозанятость — не свобода. Миф о счастливой жизни предпринимателя | https://habrahabr.ru/post/306024/
+
+Найм технических специалистов просел на 40% — и никто не говорит об этом | https://habrahabr.ru/post/306040/
+
+Работа HR'ов глазами разработчика | https://habrahabr.ru/company/moikrug/blog/306020/
+
+Как я получал сертификат Code Signing от Comodo | https://habrahabr.ru/post/306004/
+
+«Жёсткий тайм-менеджмент». Рассказываем о книге Дэна Кеннеди | https://habrahabr.ru/company/makeright/blog/305934/
+
+Пройди техническое собеседование (уровень 4) | https://habrahabr.ru/company/mbaconsult/blog/305882/
+
+Как Линус Торвальдс сделал разработку ПО свободнее | https://habrahabr.ru/post/305870/
+
+Пройди техническое собеседование (уровень 3) | https://habrahabr.ru/company/mbaconsult/blog/305512/
+
+Стив Возняк — энтузиаст, изменивший мир персональных компьютеров | https://habrahabr.ru/post/305560/
+
+Пройди техническое собеседование (уровень 2) | https://habrahabr.ru/company/mbaconsult/blog/305298/
+
+Пройди техническое собеседование | https://habrahabr.ru/company/mbaconsult/blog/304918/
+
+Отчет о результатах «Моего круга» за июнь 2016, и самые популярные вакансии месяца | https://habrahabr.ru/company/moikrug/blog/304754/
+
+«Ни слова о Snapchat»: Виктор Шабуров — о своих проектах, спортивном программировании и трендах ИТ- бизнеса | https://habrahabr.ru/post/304440/
+
+Спорт, Дарт Вейдер и бумажный самолёт: геймификация в отдельно взятой компании | https://habrahabr.ru/company/yota/blog/304406/
+
+Маскировка пола на собеседовании через голосовой модулятор | https://habrahabr.ru/post/304434/
+
+Как подняться после катастрофического провала | https://habrahabr.ru/post/304342/
+
+Рабочий день на Уолл-стрит: чем на самом деле занимаются финансовые аналитики хедж-фондов | https://habrahabr.ru/company/itinvest/blog/304248/
+
+Делайте работу качественно и будьте счастливы | https://habrahabr.ru/post/304172/
+
+Вице-президент по новым продуктам Mail.ru Group Юрий Гурский — о собственных проектах: Maps.me, MSQRD и Prisma | https://habrahabr.ru/post/303776/
+
+Acronis People: зачем в международной команде айтишников девушка-филолог? | https://habrahabr.ru/company/acronis/blog/303236/
+
+CTO «Медузы» — Самат Галимов кратко о том, каково быть главным по разработке в медиа | https://habrahabr.ru/post/303746/
+
+«12 часов, 10 интервьюеров»: Как получить работу в сфере финансов на примере собеседования в Goldman Sachs | https://habrahabr.ru/company/itinvest/blog/303680/
+
+Переговоры о зарплате — как не прогореть | https://habrahabr.ru/post/303422/
+
+Автоматизация разработки ПО: сможет ли «программист» превратиться в «оператора ЭВМ» | https://habrahabr.ru/post/303486/
+
+Почему корпорации сотрудничают со стартапами? И почему стартапы сотрудничают с крупными корпорациями? | https://habrahabr.ru/company/gotech_vc/blog/303474/
+
+На Startup Village 2016 в технопарке Сколково раздали стартапам 13.8 млн рублей | https://habrahabr.ru/company/talktochef/blog/303120/
+
+Поиск работы за рубежом: дайджест полезных материалов для потенциальных ИТ-экспатов | https://habrahabr.ru/post/303112/
+
+[Письмо молодым] Мечтайте. Мечты сбываются. И я не знаю почему | https://habrahabr.ru/post/303110/
+
+Что делать в крупной компании при некомпетентном менеджменте | https://habrahabr.ru/post/302862/
+
+Фрилансер и предприниматель | https://habrahabr.ru/post/302784/
+
+Отчет о результатах «Моего круга» за май 2016 | https://habrahabr.ru/company/moikrug/blog/302710/
+
+У нас прекрасные бонусы! Но не спрашивайте, чем мы занимаемся | https://habrahabr.ru/post/302690/
+
+Как изменились карьерные лестницы и лифты в ИТ-индустрии за прошедшую неделю | https://habrahabr.ru/post/302610/
+
+Основатель Uber Трэвис Каланик — «мятежник в элите Кремниевой долины» | https://habrahabr.ru/post/302554/
+
+Как перенести центр разработки из России в Чехию | https://habrahabr.ru/company/it-lex/blog/302472/
+
+«ИТ-кочевники»: почему компании до сих пор принимают на работу саботажников | https://habrahabr.ru/post/302498/
+
+Как победить на собеседовании. Несколько крайне полезных советов для разработчиков | https://habrahabr.ru/company/rootwelt/blog/302364/
+
+Как аналитику найти другого хорошего аналитика | https://habrahabr.ru/post/302320/
+
+Большое интервью Саймона Данлопа — основателя Dream Industries: как вывести российские ИТ-продукты на мировой рынок | https://habrahabr.ru/post/302252/
+
+Восемь способов демотивировать ваших работников | https://habrahabr.ru/post/302234/
+
+Старый холивар на новый лад: изменятся ли олимпиадники-программисты со временем | https://habrahabr.ru/post/302216/
+
+Плановые изменения: какими стали карьерные реалии ИТ за неделю | https://habrahabr.ru/post/302090/
+
+Таких не берут в программисты: «реверс-инжиниринг» личности | https://habrahabr.ru/post/302030/
+
+Как собеседовать технического специалиста | https://habrahabr.ru/post/294224/
+
+«Кандидат имеет право задавать уточняющие вопросы», или Доводим интервьюера до нервного срыва | https://habrahabr.ru/post/301924/
+
+Кому в стартапах жить хорошо | https://habrahabr.ru/post/301908/
+
+Каждой вакансии на «Моём круге» — подходящие по навыкам специалисты | https://habrahabr.ru/company/moikrug/blog/301650/
+
+Как изменились карьерные лестницы и лифты в IT-индустрии за прошедшую неделю | https://habrahabr.ru/post/301392/
+
+Пол Грэм: Пару слов о находчивости (A Word to the Resourceful) | https://habrahabr.ru/company/edison/blog/301374/
+
+10 типов невменяемых заказчиков | https://habrahabr.ru/company/polyglot/blog/301188/
+
+Особенности распределения фонда оплаты труда в больших предприятиях РФ | https://habrahabr.ru/post/301106/
+
+4 пути юного регионального разработчика, которые я прошел в студенческие годы | https://habrahabr.ru/company/uteam/blog/301056/
+
+Очень личная история Эвана Шпигеля, создателя сервиса Snapchat, — взгляд изнутри | https://habrahabr.ru/post/300940/
+
+Правильный оффер при устройстве программиста в офис | https://habrahabr.ru/post/301022/
+
+Бизнес-процессы: Как все запущено и запутано. Глава Вторая «Мухи и котлета» | https://habrahabr.ru/post/300986/
+
+Кого хотят корпорации? | https://habrahabr.ru/company/gotech_vc/blog/300854/
+
+[Письмо молодым] Индивидуальность. Как не стать посредственным и достичь успеха | https://habrahabr.ru/post/300822/
+
+Как работают профессионалы. Валентин Новиков, директор Calix в России и СНГ | https://habrahabr.ru/post/300778/
+
+Треть сотрудников российских компаний не работала с 4 по 6 мая | https://habrahabr.ru/post/300764/
+
+Как написать резюме, которое привлечёт работодателя | https://habrahabr.ru/company/kickidler/blog/300744/
+
+Аналитика по взаимодействию крупнейших корпораций со стартапами | https://habrahabr.ru/company/gotech_vc/blog/300720/
+
+Как IT-компании отбирают лучших сотрудников? 10 секретных техник | https://habrahabr.ru/company/icanchoose/blog/300680/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/300660/
+
+Что делать фрилансеру, если заказчик отказывается платить | https://habrahabr.ru/company/polyglot/blog/300628/
+
+Отчет о результатах «Моего круга» за апрель 2016 | https://habrahabr.ru/company/moikrug/blog/300614/
+
+Что в ИТ-вакансии для вас самое важное, без чего вы не станете на неё откликаться? | https://habrahabr.ru/company/moikrug/blog/300586/
+
+Марисса Майер получит $54,8 млн при продаже Yahoo | https://habrahabr.ru/post/300552/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России на этой неделе | https://habrahabr.ru/post/300546/
+
+Если вместо оформления на работу предлагают открыть ИП | https://habrahabr.ru/post/300498/
+
+Советы основателя. Никита Обухов, Tilda Publishing | https://habrahabr.ru/post/300414/
+
+На вакансии с указанными зарплатами откликаются чаще | https://habrahabr.ru/company/moikrug/blog/300410/
+
+Бизнес-персона: Ларри Пейдж — от создания крупнейшего поисковика до разработки беспилотных автомобилей | https://habrahabr.ru/post/300338/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России и мира на этой неделе | https://habrahabr.ru/post/300340/
+
+Создание быстрорастущего стартапа в традиционно инерционной отрасли промышленности | https://habrahabr.ru/post/300314/
+
+Чем должно отличаться резюме от вашего профиля в LinkedIn | https://habrahabr.ru/company/icanchoose/blog/300254/
+
+Основатель WildTangent Алекс Сент-Джон: создание видеоигр — это не работа | https://habrahabr.ru/post/300238/
+
+Одно письмо, которое заменит сотни отправленных резюме | https://habrahabr.ru/company/icanchoose/blog/300236/
+
+Познакомьтесь с человеком, превращающим Goldman Sachs в «совершенную» машину | https://habrahabr.ru/post/300220/
+
+Как работают профессионалы. Виталий Виноградов, CEO Ticketland.ru | https://habrahabr.ru/post/300214/
+
+7 ошибок, которые совершают кандидаты в социальных сетях | https://habrahabr.ru/company/icanchoose/blog/300202/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России и мира за две недели | https://habrahabr.ru/post/300172/
+
+Как проходит рабочий день аккаунт-менеджера | https://habrahabr.ru/company/kokoc_group/blog/300148/
+
+3 шаблона для follow up писем после собеседования | https://habrahabr.ru/company/icanchoose/blog/300140/
+
+Facebook наняла бывшего директора агентства передовых оборонных исследовательских проектов Регину Дуган | https://habrahabr.ru/post/300134/
+
+VLOG программиста о программировании и жизни в Германии | https://habrahabr.ru/post/300132/
+
+​«Как преуспеть в бизнесе, нарушая все правила» — объясняем книгу Дэна Кеннеди | https://habrahabr.ru/company/makeright/blog/300106/
+
+Контент — царь, но контекст — бог | https://habrahabr.ru/post/300104/
+
+9 важнейших правил, о которых нужно помнить при продаже стартапа | https://habrahabr.ru/company/gotech_vc/blog/300064/
+
+Чем отличаются фриланс, удаленная работа, подряд, аутсорсинг, аутстаффинг и субконтрактация | https://habrahabr.ru/company/polyglot/blog/300046/
+
+«Уберизация» поможет российскому рынку рекрутинга преодолеть 25-летний застой | https://habrahabr.ru/post/300008/
+
+Выход из зоны комфорта, как новая бизнес-модель | https://habrahabr.ru/post/300006/
+
+Отчет о результатах «Моего круга» за март 2016 | https://habrahabr.ru/company/moikrug/blog/299956/
+
+Мобильность как тренд: почти 50% российских IT-специалистов согласны переехать в другие регионы страны ради карьеры | https://habrahabr.ru/post/299966/
+
+Кризис жанра: демпинг на биржах контента | https://habrahabr.ru/post/299958/
+
+«Его величество» Безос Первый (часть 2) | https://habrahabr.ru/post/299944/
+
+Советы основателя. Александр Оникиенко, CEO TakeItTaxi | https://habrahabr.ru/post/299952/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/299902/
+
+Toptal приобрел «одну из лучших» компаний на мировом рынке фриланса | https://habrahabr.ru/post/299908/
+
+Нанимать фрилансеров компаниям выгодно и вот почему | https://habrahabr.ru/company/polyglot/blog/299884/
+
+«Его величество» Безос Первый | https://habrahabr.ru/post/299858/
+
+Информационные инструменты управления: время, деньги, план | https://habrahabr.ru/post/299514/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России за две недели | https://habrahabr.ru/post/299840/
+
+Бизнес-персона: Джефф Безос — от магазина книг до запуска ракет | https://habrahabr.ru/post/299774/
+
+Странные вопросы на собеседованиях 2016 | https://habrahabr.ru/post/299742/
+
+Как стать востребованным дизайнером без специального образования и таланта | https://habrahabr.ru/post/299736/
+
+Краеугольные моменты Австрийского рабочего менталитета в ИТ сфере. Что общего с нами и в чем разница? | https://habrahabr.ru/post/299690/
+
+Бизнесмен-философ: основатель и гендиректор Slack Стюарт Баттерфилд – рубрика «Бизнес-персона» | https://habrahabr.ru/post/299688/
+
+Этот 25-летний специалист по информационным технологиям помогает разрушить привычный для нас мир финансов | https://habrahabr.ru/post/299686/
+
+Мы бесплатно продлеваем вакансии, оставшиеся без откликов | https://habrahabr.ru/company/moikrug/blog/299626/
+
+Бизнес-персона: Билл Гейтс — самый богатый человек нашего времени | https://habrahabr.ru/post/299566/
+
+Мнение. Или как не стать заурядным | https://habrahabr.ru/post/299578/
+
+«Бизнес с нуля. Метод Lean Startup». Книга за 15 минут | https://habrahabr.ru/company/makeright/blog/299560/
+
+Этот директор управляет миллиардной компанией, не имея ни офиса, ни электронной почты | https://habrahabr.ru/post/299482/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России за две недели | https://habrahabr.ru/post/299480/
+
+Почему компании на самом деле не любят удалённую работу | https://habrahabr.ru/company/kickidler/blog/299468/
+
+Почему работодатели не любят удалённую работу? | https://habrahabr.ru/post/299260/
+
+Кейс Pyrus: Как Максим Нальский ищет и находит лучшие решения | https://habrahabr.ru/post/299410/
+
+Как украинскому фрилансеру работать законно | https://habrahabr.ru/company/polyglot/blog/299392/
+
+Oscar Health нанимает вице-президента Google Алана Уоррена в качестве технического директора | https://habrahabr.ru/post/299360/
+
+Как стать безопасником? | https://habrahabr.ru/post/299316/
+
+Стартап конференции и нетворкинг в Кремниевой долине | https://habrahabr.ru/company/talktochef/blog/299310/
+
+Какое кино нужно смотреть вместе с командой | https://habrahabr.ru/company/kickidler/blog/299282/
+
+«О деньгах по душам» — разговор с Игорем Рябеньким | https://habrahabr.ru/post/299296/
+
+41 оттенок синего: гендиректор Yahoo! Марисса Майер и ее «неженские» истории — в рубрике «Бизнес-персона» | https://habrahabr.ru/post/299262/
+
+Сооснователь Twitch предсказывает «Twitch в виртуальной реальности» | https://habrahabr.ru/post/299206/
+
+Отчет о результатах «Моего круга» за февраль 2016 | https://habrahabr.ru/company/moikrug/blog/299204/
+
+Как работают профессионалы. Евгения Арестова, генеральный директор ЦОД «Омский» | https://habrahabr.ru/post/299122/
+
+Бизнес-персона: Илон Маск — Тони Старк нашего времени | https://habrahabr.ru/post/299066/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/299026/
+
+Разбираем кейс: Уволить нельзя чатиться | https://habrahabr.ru/company/zarlaw/blog/298996/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России за две недели | https://habrahabr.ru/post/298970/
+
+Бизнес-персона: основатель Airbnb Брайан Чески, который вместо «финансовой подушки» использовал матрасы | https://habrahabr.ru/post/298968/
+
+8 правил поведения в соцсетях для карьеристов | https://habrahabr.ru/company/changellenge/blog/298952/
+
+Профориентационный тест-подсказка для тех, кто только собирается начать карьеру | https://habrahabr.ru/company/reactos/blog/298940/
+
+Как новые руководители разрушают доверенные им компании | https://habrahabr.ru/post/297678/
+
+«Письмо в студию»: 5 правил общения удалённых разработчиков от CSSSR | https://habrahabr.ru/post/298928/
+
+[Письмо молодым] Ошибка первой работы, которая направит вашу жизнь не туда | https://habrahabr.ru/post/298914/
+
+Гонка героев, или как успешно пройти ассессмент в компанию мечты | https://habrahabr.ru/company/changellenge/blog/298900/
+
+Кейс Ecwid: как Руслан Фазлыев дважды «перешёл Рубикон» электронной коммерции | https://habrahabr.ru/post/298760/
+
+7 карьерных ошибок молодых специалистов | https://habrahabr.ru/company/changellenge/blog/298782/
+
+Основные принципы найма сотрудников в Facebook | https://habrahabr.ru/post/298780/
+
+Как листок бумаги может устроить тебя на работу, или все секреты резюме | https://habrahabr.ru/company/changellenge/blog/298774/
+
+Спорный вопрос: cтоит ли дружить с руководителем | https://habrahabr.ru/company/kokoc_group/blog/298726/
+
+Бизнес-персона: Ларри Эллисон — сооснователь Oracle с состоянием $44 млрд | https://habrahabr.ru/post/298708/
+
+Google нанимает специалистов в проект беспилотного автомобиля | https://habrahabr.ru/post/298688/
+
+Советы основателя. Лев Матвеев, председатель совета директоров SearchInform | https://habrahabr.ru/post/298680/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России на этой неделе | https://habrahabr.ru/post/298666/
+
+[Письмо молодым] Как стать успешным, не потратить время впустую, и заработать деньги на любимом занятии | https://habrahabr.ru/post/298660/
+
+Кейс «Toptal» — как Тасо Дю Валь создал идеальную компанию-разработчика | https://habrahabr.ru/post/298640/
+
+Исследование: кадры и зарплаты в российских digital-агентствах | https://habrahabr.ru/post/298620/
+
+Нет пророка в своем отечестве: «предсказания» Германа Клименко пока не сбылись и породили больше вопросов, чем ответов | https://habrahabr.ru/post/298570/
+
+Собеседование в Booking.com (часть 2, заморская) | https://habrahabr.ru/post/298390/
+
+Отчет о результатах «Моего круга» за январь 2016 | https://habrahabr.ru/company/moikrug/blog/298526/
+
+Если бы повара ходили на собеседования, как программисты | https://habrahabr.ru/post/298488/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России и мира на этой неделе | https://habrahabr.ru/post/298500/
+
+Знание – сила: какую роль опыт, самообучение и привлечение экспертов сыграли в истории «Аудиомании» | https://habrahabr.ru/company/audiomania/blog/298494/
+
+Советы основателя. Никита Репешко, Qlean | https://habrahabr.ru/post/298474/
+
+Снижаем цены на вакансии в регионах на 20-25%, делаем цены справедливыми | https://habrahabr.ru/company/moikrug/blog/298422/
+
+4 стратегии для презентации новых идей на работе | https://habrahabr.ru/company/mbaconsult/blog/298410/
+
+IT-вакансии «Моего круга» теперь в Телеграме | https://habrahabr.ru/company/moikrug/blog/298402/
+
+Сказ о том, как стартапер может погубить свою компанию, став её директором | https://habrahabr.ru/company/kickidler/blog/298400/
+
+Как работает настоящее usability | https://habrahabr.ru/post/298382/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/298358/
+
+Начало пути гейм-дизайнера | https://habrahabr.ru/post/298306/
+
+Кто хочет стать миллионером: 7 способов разбогатеть, не создавая компанию | https://habrahabr.ru/post/298298/
+
+Как я учился в «Школе стажёров» | https://habrahabr.ru/company/liteorder/blog/298282/
+
+Job-туризм | https://habrahabr.ru/post/298270/
+
+Как помочь сотруднику адаптироваться в компании | https://habrahabr.ru/company/kickidler/blog/298252/
+
+Собеседование в Booking.com (часть 1, московская) | https://habrahabr.ru/post/298166/
+
+10 IT-умений, который принесут вам годовую зарплату более 130 тыс. долларов в США | https://habrahabr.ru/post/298258/
+
+Зарплаты IT-специалистов в России, второе полугодие 2015 | https://habrahabr.ru/company/moikrug/blog/298222/
+
+Советы основателя. Сергей Ашин, Шефмаркет | https://habrahabr.ru/post/298164/
+
+Командный пункт управления целями | https://habrahabr.ru/post/298128/
+
+2016 будет годом похмелья в Кремниевой Долине | https://habrahabr.ru/company/gvalg/blog/298126/
+
+Об ИТ-парке из первых уст: каково работать новичку в технопарке | https://habrahabr.ru/company/itpark/blog/298100/
+
+Как уволиться с работы и довериться инстинктам вашего скрытого крутыша | https://habrahabr.ru/post/298104/
+
+Как работают профессионалы. Илья Сачков, основатель и директор Group IB | https://habrahabr.ru/post/298068/
+
+Опыт переезда для работы программистом в Берлин (часть 2) | https://habrahabr.ru/post/298016/
+
+Корпорация или стартап: Где лучше работать | https://habrahabr.ru/company/1cloud/blog/298006/
+
+Тело которое работает программистом | https://habrahabr.ru/post/298000/
+
+Как получить работу в Google? | https://habrahabr.ru/post/297920/
+
+Кадровые перестановки в крупнейших ИТ- и медиакомпаниях России на этой неделе | https://habrahabr.ru/post/297922/
+
+Отчет о результатах «Моего круга» за декабрь 2015 | https://habrahabr.ru/company/moikrug/blog/297888/
+
+9 простых заданий для тех, кто хочет с умом начать 2016 год | https://habrahabr.ru/company/icanchoose/blog/297874/
+
+Дистанционное управление: лидерство в эру удаленных команд | https://habrahabr.ru/company/mbaconsult/blog/297832/
+
+Опыт переезда для работы программистом в Берлин (часть 1) | https://habrahabr.ru/post/297822/
+
+Всё, что вам нужно знать о тайм-менеджменте | https://habrahabr.ru/post/297806/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/297752/
+
+Топ-список 50 наиболее перспективных и востребованных профессий среднего образования в РФ по версии МинТруда | https://habrahabr.ru/post/297738/
+
+Из девопсов в стартаперы: два года до AppStore. Часть 1. Введение | https://habrahabr.ru/company/megalenta/blog/297712/
+
+70 инструментов, без которых не обойтись ни одному сотруднику на удаленной основе | https://habrahabr.ru/company/talentboard/blog/297510/
+
+Книги-двигатели карьеры | https://habrahabr.ru/company/icanchoose/blog/297554/
+
+Управление персоналом небольшой организации | https://habrahabr.ru/post/297534/
+
+Пойдёте ли вы в интеримы? | https://habrahabr.ru/post/297492/
+
+Форум «Интернет-экономика»: льготы ИТ-компаниям, защита мнений в соцсетях, неожиданное предложение Путина | https://habrahabr.ru/post/297470/
+
+10 признаков того, что вам не стоит соглашаться на эту работу | https://habrahabr.ru/company/icanchoose/blog/297466/
+
+6 ошибок начинающего PM | https://habrahabr.ru/post/297430/
+
+46 ошибок email-переписки, которые мы все совершаем | https://habrahabr.ru/company/icanchoose/blog/297398/
+
+Как мотивировать программистов в рамках «эффективных» технологий — на войне как на войне | https://habrahabr.ru/post/297368/
+
+Старая сказка на новый лад: Google переподготовит кадры и перезапустит стартапы в Бразилии, Индии и Индонезии | https://habrahabr.ru/post/297342/
+
+TOP-40 странных вопросов, заданных на собеседованиях в 2015 году в разных странах | https://habrahabr.ru/company/icanchoose/blog/297330/
+
+Резюме Дарта Вейдера | https://habrahabr.ru/company/icanchoose/blog/297312/
+
+9 честных фактов о поиске работы | https://habrahabr.ru/company/icanchoose/blog/297270/
+
+Самое главное о том, как собрать потрясающую команду для стартапа | https://habrahabr.ru/post/297216/
+
+Как построить конкурентоспособный процесс рекрутинга инженеров | https://habrahabr.ru/post/297194/
+
+А царь-то ненастоящий | https://habrahabr.ru/post/297192/
+
+Airbnb подвинул Google на вершине рейтинга лучших компаний для работы | https://habrahabr.ru/post/297158/
+
+Гайд: 7 дней, чтобы стать кандидатом, которого заметят все | https://habrahabr.ru/company/icanchoose/blog/297150/
+
+Совмещение работы и фриланса | https://habrahabr.ru/post/297136/
+
+4 стратегии поиска работы, которые вы зря используете | https://habrahabr.ru/company/icanchoose/blog/297112/
+
+Всю неделю в понедельник — лайфхаки по поиску времени | https://habrahabr.ru/company/redhelper/blog/297068/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/296930/
+
+Отчет о результатах «Моего круга» за ноябрь 2015 | https://habrahabr.ru/company/moikrug/blog/296926/
+
+Венсан Жанти: зачем крупным компаниям дружить со стартапами | https://habrahabr.ru/company/tceh/blog/296896/
+
+6 уроков из сериала «Ходячие мертвецы» для эффективности вашей маркетинговой команды | https://habrahabr.ru/post/296892/
+
+Как работают профессионалы. Роман Кумар Виас, директор по маркетингу и совладелец Qlean и Shelly | https://habrahabr.ru/post/296888/
+
+Как написать хорошее резюме для удаленной работы в зарубежной компании | https://habrahabr.ru/company/talentboard/blog/296740/
+
+30+ примеров цепляющих сопроводительных писем | https://habrahabr.ru/company/icanchoose/blog/296856/
+
+Чего ждут друг от друга кандидаты и работодатели // Инфографика | https://habrahabr.ru/company/icanchoose/blog/296808/
+
+Как пять неординарных кандидатов привлекли к себе внимание | https://habrahabr.ru/company/icanchoose/blog/296746/
+
+Советы основателя. Феликс Хачатрян, Ubank | https://habrahabr.ru/post/296734/
+
+40 ситуаций, о которых вас спросят на собеседовании | https://habrahabr.ru/company/icanchoose/blog/296730/
+
+Как создать правильное описание вакансии | https://habrahabr.ru/post/296656/
+
+Как описать свои навыки в резюме | https://habrahabr.ru/company/icanchoose/blog/296624/
+
+Что думают HR'ы об онлайн-курсах | https://habrahabr.ru/company/icanchoose/blog/296606/
+
+Как индийский «Билл Гейтс» перешел от производства масла к IT-аутсорсингу | https://habrahabr.ru/post/296546/
+
+Как попасть в технологические компании без соответствующего образования | https://habrahabr.ru/company/icanchoose/blog/296504/
+
+7 типов собеседований | https://habrahabr.ru/company/icanchoose/blog/296498/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/296494/
+
+51 бесплатная книга о Data Science | https://habrahabr.ru/company/icanchoose/blog/296462/
+
+5 советов, как работать удаленно и… продуктивно | https://habrahabr.ru/post/296460/
+
+Советы основателя. Денис Кузьмин, генеральный директор «Соликс Биосистемз Восток» | https://habrahabr.ru/post/296424/
+
+Из первых уст: каково работать в Apple | https://habrahabr.ru/post/296398/
+
+Cтрашная правда о работе в IT-сфере | https://habrahabr.ru/company/icanchoose/blog/296368/
+
+Чем в стартапе занимается исполнительный директор (COO)? | https://habrahabr.ru/post/296366/
+
+Путь в светлое будущее. Создание и автоматизация профсоюза, зачем нужен профсоюз и причём тут Камбоджа | https://habrahabr.ru/post/296344/
+
+Чем вам помогут открытые проекты | https://habrahabr.ru/company/1cloud/blog/296342/
+
+Uber ищет генерального директора московского офиса | https://habrahabr.ru/post/296336/
+
+Продвижение мобильных приложений. Конференция Google | https://habrahabr.ru/company/ridewithme/blog/296334/
+
+11 фраз, которые нельзя произносить на собеседовании // Инфографика | https://habrahabr.ru/company/icanchoose/blog/296332/
+
+Наш долгий путь к команде мечты | https://habrahabr.ru/company/zarlaw/blog/296310/
+
+Отчет о результатах «Моего круга» за октябрь 2015 | https://habrahabr.ru/company/moikrug/blog/296308/
+
+20 вопросов, которые могут задать вам на собеседовании в Facebook | https://habrahabr.ru/company/icanchoose/blog/296306/
+
+4 навыка, которые пригодятся вам на любом tech-собеседовании | https://habrahabr.ru/company/icanchoose/blog/296274/
+
+Как работают профессионалы. Анна Артамонова, вице-президент Mail.ru Group | https://habrahabr.ru/post/296244/
+
+Инфографика: ТОП-10 слов, которые способны уничтожить ваше резюме | https://habrahabr.ru/company/icanchoose/blog/296232/
+
+Кейс Group-IB: Как Илья Сачков за 10 лет построил лидера в области информационной безопасности | https://habrahabr.ru/post/296194/
+
+5+5 IT-компаний с крутыми корпоративными фишками | https://habrahabr.ru/company/icanchoose/blog/296184/
+
+Дно позади: в 2016 году российские работодатели планируют повысить зарплаты | https://habrahabr.ru/post/296164/
+
+23 вопроса, которые вам зададут на собеседовании в Apple | https://habrahabr.ru/company/icanchoose/blog/296152/
+
+Как работают профессионалы. Сергей Стрелков, руководитель направления собственных разработок компании КРОК | https://habrahabr.ru/post/296148/
+
+Почему самоназвания — не достаточно | https://habrahabr.ru/post/296140/
+
+13 хаков для поиска работы, которые могут сработать лучше, чем традиционное резюме | https://habrahabr.ru/post/296136/
+
+Рид Хоффман. Мощь цели в работе | https://habrahabr.ru/post/296122/
+
+Советы основателя. Эдуард Гуринович, основатель Carprice.ru | https://habrahabr.ru/post/296112/
+
+7 типов программистов /friday fun/ | https://habrahabr.ru/company/icanchoose/blog/296104/
+
+Чаша ресурса — советы по созданию команды | https://habrahabr.ru/post/296090/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/296084/
+
+Как работают профессионалы. Надежда Шилова, директор рекламного агентства ADLABS | https://habrahabr.ru/post/296068/
+
+24 вопроса, которые зададут вам на собеседовании в Microsoft | https://habrahabr.ru/company/icanchoose/blog/296020/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/296002/
+
+5 ошибок, которые мешают программисту построить карьеру | https://habrahabr.ru/company/icanchoose/blog/296000/
+
+Быстро, качественно, дешево | https://habrahabr.ru/post/295996/
+
+Языки будущего: китайский против JavaScript | https://habrahabr.ru/company/mbaconsult/blog/295958/
+
+Из физиков в Data Science (Из двигателей науки в офисный планктон) | https://habrahabr.ru/post/295954/
+
+Как провести 300 собеседований за месяц | https://habrahabr.ru/company/1cloud/blog/295892/
+
+Как работают профессионалы. Алексей Ланкин, директор HotelTonight в Восточной Европе | https://habrahabr.ru/post/295888/
+
+Советы основателя. Максим Нальский, CEO Pyrus | https://habrahabr.ru/post/295826/
+
+Несбывшаяся мечта богатейшего человека планеты (к 60-летнему юбилею Билла Гейтса) | https://habrahabr.ru/post/295806/
+
+Как работают профессионалы. Алексей Крайнов, генеральный директор RiotGames по РФ и СНГ | https://habrahabr.ru/post/295800/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/295762/
+
+Вопрос 21-ого века. Фриланс или в штат? Удаленно или в офисе? | https://habrahabr.ru/company/ridewithme/blog/295736/
+
+Как работают профессионалы. Виктор Яковлев, руководитель отдела индустриальных продаж «Яндекса» | https://habrahabr.ru/post/295718/
+
+Сундар Пичай: человечный лидер Google | https://habrahabr.ru/post/295686/
+
+LinkedIn поможет найти второго Эрика Шмидта, Уоррена Баффетта или Опру Уинфри | https://habrahabr.ru/post/295578/
+
+Как работают профессионалы. Роман Горшков, начальник департамента маркетинга и e-commerce в «М.Видео» | https://habrahabr.ru/post/295552/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/295524/
+
+Для чего успешным IT-компаниям нужны массовые сокращения штата | https://habrahabr.ru/post/295484/
+
+На что обратить внимание ИТ-руководителю | https://habrahabr.ru/company/1cloud/blog/295454/
+
+Как работают профессионалы. Михаил Соколов, CEO OneTwoTrip | https://habrahabr.ru/post/295442/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/295408/
+
+5 советов дизайнера или как найти адекватного работодателя и самому остаться адекватным | https://habrahabr.ru/post/295382/
+
+Свойства вертикали корпоративной власти | https://habrahabr.ru/post/295314/
+
+«Школа Вебмастеров» и прямые трансляции лекций на «Мегамозге» | https://habrahabr.ru/post/295306/
+
+10 советов, как фрилансить качественно и не потерять свободу | https://habrahabr.ru/post/295294/
+
+8 признаков того, что вам пора сменить работу | https://habrahabr.ru/post/295298/
+
+Как работают профессионалы. Пия Веммелунд, CEO Momondo | https://habrahabr.ru/post/295290/
+
+Дистанционный работник – мечта работодателя | https://habrahabr.ru/company/freshdoc/blog/295270/
+
+Две недели кадровых перестановок и громких назначений | https://habrahabr.ru/post/295108/
+
+Как начать карьеру в игровой индустрии | https://habrahabr.ru/company/gotech_vc/blog/295094/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/295068/
+
+Студенты ищут работу | https://habrahabr.ru/post/295058/
+
+Кейс «Турбомилк»: Как Денис Кортунов прошел путь от провинциального дизайнера до главного по интерфейсам в Acronis | https://habrahabr.ru/post/295030/
+
+Платить или учить? | https://habrahabr.ru/company/ichar/blog/295034/
+
+Видео с летней школы по маркетингу софтверных продуктов в JetBrains | https://habrahabr.ru/company/JetBrains/blog/294994/
+
+Глава GitHub рассказал о будущем программирования и новых образовательных проектах компании | https://habrahabr.ru/post/294982/
+
+Самые «денежные» люди. В рейтинг Forbes попали Цукерберг и Безос | https://habrahabr.ru/post/294948/
+
+Хороший менеджер, плохой менеджер | https://habrahabr.ru/post/294898/
+
+Президент Coursera рассказала о слушателях, монетизации и рынке онлайн-образования | https://habrahabr.ru/post/294754/
+
+Как работают профессионалы. Конни Чеге-Брайант, директор по маркетингу Lenovo Apps | https://habrahabr.ru/post/294740/
+
+Управление временем для начинающих и пара приложений, которые в этом помогут | https://habrahabr.ru/post/294556/
+
+20 вопросов, которые задаются на интервью веб-разработчикам | https://habrahabr.ru/company/mbaconsult/blog/294492/
+
+Как не завалить ИТ-проект? | https://habrahabr.ru/post/294542/
+
+Корпоративная культура в России: в поисках золотой середины | https://habrahabr.ru/post/294524/
+
+Как сформировать команду руководителей | https://habrahabr.ru/company/gotech_vc/blog/294506/
+
+Как работают профессионалы. Иван Шумовский, руководитель направления инфраструктурных решений компании КРОК | https://habrahabr.ru/post/294438/
+
+Советы основателя. Сергей Грибняк, Singree | https://habrahabr.ru/post/294390/
+
+Об особенностях менеджмента в космических исследованиях СССР или «Назад в будущее» | https://habrahabr.ru/post/294330/
+
+В технополисе «Москва» начинается строительство крупнейшего в Европе образовательного коворкинга | https://habrahabr.ru/post/294306/
+
+Познавательное исследование: Какие специалисты и технологии сейчас востребованы на рынке удаленной работы? | https://habrahabr.ru/company/talentboard/blog/293140/
+
+Из разработчика в PM-а за 90 дней | https://habrahabr.ru/company/friifond/blog/294222/
+
+Кто тут в цари крайний, или как становятся интернет-маркетологами? | https://habrahabr.ru/post/294198/
+
+Work Rules. Исповедь главы HR-отдела Google | https://habrahabr.ru/post/294154/
+
+Как я устроился на работу в Product Hunt | https://habrahabr.ru/post/294160/
+
+Как работают профессионалы. Андрей Зевахин, руководитель корпоративного университета Acronis | https://habrahabr.ru/post/294118/
+
+Подходит ли ваш характер для работы на себя? | https://habrahabr.ru/company/mbaconsult/blog/294116/
+
+Жить в Иннополисе невозможно: «Все взвыли, а некоторые захотели уволиться» | https://habrahabr.ru/post/294132/
+
+Прокрастинация, или как перестать быть ленивой задницей и начать жить | https://habrahabr.ru/post/294104/
+
+Фобии человека, работающего в IT | https://habrahabr.ru/post/294088/
+
+5 важнейших характеристик, которыми должны обладать руководители стартапа | https://habrahabr.ru/company/gotech_vc/blog/294074/
+
+5 способов получить положительный отзыв | https://habrahabr.ru/post/294052/
+
+Сделай себя сам, или 7 шагов к успеху | https://habrahabr.ru/post/294044/
+
+Советы основателя. Виктор Кох, Slinky – часть 2 | https://habrahabr.ru/post/293998/
+
+Теория охотника и фермера | https://habrahabr.ru/post/293982/
+
+Системный администратор или системный инженер? | https://habrahabr.ru/post/293964/
+
+Прокрастинация –– болезнь 21-го века | https://habrahabr.ru/post/293962/
+
+Как стать отличным front-end-разработчиком | https://habrahabr.ru/company/friifond/blog/293936/
+
+Один навык, который неизменно превосходит любой талант | https://habrahabr.ru/post/293932/
+
+Облачные технологии из Македонии или управление B2B онлайн-проектом удаленно. Часть 2, бизнес-инкубатор в Скопье | https://habrahabr.ru/company/altegrocloud/blog/293930/
+
+Как найти технического спикера, которого не забросают помидорами | https://habrahabr.ru/post/293926/
+
+Баллада о незнании | https://habrahabr.ru/post/293900/
+
+В связи с нехваткой специалистов на российском рынке IT, «химиков» и «лириков» переучат на программистов | https://habrahabr.ru/post/293864/
+
+Почему недостаточно быть слишком умным | https://habrahabr.ru/post/293826/
+
+Почему компаниям следует поощрять занятия спортом на работе | https://habrahabr.ru/post/293806/
+
+Массовые перестановки в российском ИТ | https://habrahabr.ru/post/293774/
+
+7 признаков бестолкового рекрутера | https://habrahabr.ru/post/293750/
+
+«Яндекс» запускает бесплатные вечерние курсы для вебмастеров и маркетологов | https://habrahabr.ru/post/293736/
+
+Ключ к успеху, или Как действуют и принимают решения великие лидеры | https://habrahabr.ru/post/293708/
+
+Сколько стоит идеальный маркетолог-аналитик | https://habrahabr.ru/post/293706/
+
+Warning'и для фрилансера | https://habrahabr.ru/post/293674/
+
+Манифест менеджера | https://habrahabr.ru/post/293582/
+
+Whiteboard/Coding interview | https://habrahabr.ru/post/293552/
+
+Очные курсы — получаем максимум пользы | https://habrahabr.ru/post/293512/
+
+Зачем давать гранты преподавателям, когда нужны разработчики | https://habrahabr.ru/company/skbkontur/blog/293506/
+
+Гайд по резюме для разработчиков | https://habrahabr.ru/company/icanchoose/blog/293476/
+
+PMM Summer School: Как пройти школу маркетинга софтверных продуктов и остаться гиком? | https://habrahabr.ru/post/293458/
+
+Ответственность Team Leads | https://habrahabr.ru/post/293334/
+
+Советы основателя. Александр Бочкин, CrocoTime | https://habrahabr.ru/post/293320/
+
+О некоторых стартаперах или Поиск клада на пляже | https://habrahabr.ru/post/293314/
+
+Гуманитарии и IT: The Good, the Bad and the Ugly | https://habrahabr.ru/post/293294/
+
+«Яндекс.Деньги» организует в Петербурге курсы для мобильных разработчиков | https://habrahabr.ru/post/293254/
+
+История поступления на 1-й курс Иннополиса | https://habrahabr.ru/post/293138/
+
+О чем спрашивают на собеседованиях ведущих IT компаний | https://habrahabr.ru/company/icanchoose/blog/293086/
+
+История одного программиста | https://habrahabr.ru/post/293100/
+
+Облачные технологии из безоблачной Македонии или управление B2B онлайн-проектом удаленно. Часть 1 | https://habrahabr.ru/company/altegrocloud/blog/293098/
+
+С чего начинается стартап? Часть 2 | https://habrahabr.ru/company/gdeparking/blog/293062/
+
+Год аутсоринга или первая настоящая работа | https://habrahabr.ru/post/293044/
+
+Культ работы, к которому ты не собирался присоединяться | https://habrahabr.ru/post/292988/
+
+Фриланс из палатки | https://habrahabr.ru/post/292970/
+
+Чем живет Product Manager | https://habrahabr.ru/company/icanchoose/blog/292936/
+
+Никита Шерман (компания WIX): «Я хотел сделать слишком много, прилагая слишком мало усилий» | https://habrahabr.ru/post/292928/
+
+Эксперименты с непрерывными путешествиями Джейсона Ленгсторфа | https://habrahabr.ru/post/292888/
+
+Почему ИТ-шники не любят корпоративные социальные сети? | https://habrahabr.ru/company/supereon/blog/292860/
+
+8 вещей, которые каждый должен делать до 8 утра | https://habrahabr.ru/company/icanchoose/blog/292854/
+
+Как работают профессионалы. Марина Рожкова, основатель и директор одноименного брендингового агентства | https://habrahabr.ru/post/292830/
+
+Вещь в себе | https://habrahabr.ru/post/292812/
+
+Не бросай учебу, или Почему обучение еще может быть полезным | https://habrahabr.ru/post/292800/
+
+Студенты IT-специальностей стали более меркантильными и завысили свои зарплатные ожидания на треть | https://habrahabr.ru/post/292788/
+
+Заключаем трудовой договор о дистанционной работе | https://habrahabr.ru/company/it-lex/blog/292770/
+
+Прокачиваем скилл «Начальник» за 5 минут | https://habrahabr.ru/post/292686/
+
+9 способов начать генерировать идеи | https://habrahabr.ru/company/icanchoose/blog/292680/
+
+Как работают профессионалы. Ася Соскова, директор по организационному развитию агентства Ketchum Maslov | https://habrahabr.ru/post/292670/
+
+Как открыть свою веб-студию и не закрыться через 2 месяца | https://habrahabr.ru/post/292616/
+
+10 способов «завалить» собеседование | https://habrahabr.ru/company/icanchoose/blog/292594/
+
+Войти в IT: «Я писал игры для калькулятора» | https://habrahabr.ru/company/dataart/blog/292588/
+
+Идеализм в IT — тормоз в развитии | https://habrahabr.ru/post/292586/
+
+Как команда технарей свою компанию создавала, сезон 2 (жизнь в кризис) | https://habrahabr.ru/post/292578/
+
+Как работается айтишникам в Норвегии | https://habrahabr.ru/post/292552/
+
+Сквозь горизонт. Ищем воздушный коридор для взлета сервиса облачной телефонии | https://habrahabr.ru/company/iptelefon/blog/292546/
+
+Законодательство как подспорье для соискателя | https://habrahabr.ru/post/292502/
+
+Новый опыт, новые впечатления – выводы те же… | https://habrahabr.ru/company/polyglot/blog/292486/
+
+Что я думаю, когда вижу в резюме (у программистов) сертификаты? | https://habrahabr.ru/post/292470/
+
+Дмитрий Кочнев покинул пост управляющего директора «Рамблера» | https://habrahabr.ru/post/292456/
+
+Первые шаги руководителя отдела продаж | https://habrahabr.ru/company/calltouch/blog/292412/
+
+Советы основателя. Олег Грибанов, основатель Darenta.ru | https://habrahabr.ru/post/292398/
+
+Советы основателя. Кирилл Новиков, основатель и генеральный директор студии Kodix | https://habrahabr.ru/post/292306/
+
+​С чего начинается стартап | https://habrahabr.ru/company/gdeparking/blog/292282/
+
+Классические ошибки в резюме // опыт icanchoose.ru | https://habrahabr.ru/company/icanchoose/blog/292162/
+
+Трибьют Константину Калинову | https://habrahabr.ru/post/292220/
+
+Войти в IT: Завалить олимпиаду и стать программистом | https://habrahabr.ru/company/dataart/blog/292200/
+
+Президент Intel покидает свой пост | https://habrahabr.ru/post/292188/
+
+Советы основателя. Владимир Канин, основатель сервиса мобильного эквайринга Pay-Me | https://habrahabr.ru/post/292180/
+
+Летняя школа по маркетингу софтверных продуктов и стажировка в JetBrains | https://habrahabr.ru/company/JetBrains/blog/292164/
+
+Стоит ли выступать с презентацией проекта? | https://habrahabr.ru/company/polyglot/blog/292154/
+
+Как правильно вести себя с тяжелыми людьми | https://habrahabr.ru/company/mbaconsult/blog/292114/
+
+Дайджест российских программ поддержки ИТ-стартапов #4 | https://habrahabr.ru/company/friifond/blog/292118/
+
+Как работают профессионалы. Даниил Трабун, главный редактор журнала «Афиша» | https://habrahabr.ru/post/292116/
+
+За что вам платят деньги на работе? | https://habrahabr.ru/post/291610/
+
+Советы основателя. Александр Белецкий, CEO SocialSearch.io и Likeastore | https://habrahabr.ru/post/292024/
+
+Отношения с заказчиком | https://habrahabr.ru/company/polyglot/blog/291994/
+
+Блондинка в IT: чему гуманитарий может научиться у айтишников? | https://habrahabr.ru/post/291974/
+
+Спортивная культура в IT-компаниях | https://habrahabr.ru/company/intellin/blog/291950/
+
+Как работают профессионалы. Михаил Шкляев, заместитель директора агентства AdWatch Isobar | https://habrahabr.ru/post/291936/
+
+О собеседованиях (от Эрика Липперта) | https://habrahabr.ru/post/261011/
+
+Инфографика: стоит ли тебе увольняться? | https://habrahabr.ru/company/icanchoose/blog/291918/
+
+Как работают профессионалы. Владимир Канин, основатель и генеральный директор сервиса мобильного эквайринга Pay-Me | https://habrahabr.ru/post/291856/
+
+HeadHunter подсчитал, как меняются зарплаты выпускников вузов | https://habrahabr.ru/post/291840/
+
+Что такое жизнь? Поиск смысла жизни с использованием бизнес-стратегии | https://habrahabr.ru/company/mbaconsult/blog/291792/
+
+Как искать работу программисту в Кремниевой Долине | https://habrahabr.ru/company/cloverr/blog/291828/
+
+Случайный секс или свадьба: как IT-рекрутеру и кандидату найти друг друга | https://habrahabr.ru/company/404HUB/blog/291810/
+
+52 вопроса, которые вы должны задать на собеседовании | https://habrahabr.ru/company/icanchoose/blog/291790/
+
+Как на самом деле выглядит работа на технологического гиганта | https://habrahabr.ru/post/291778/
+
+Будни техподдержки и особенности русской души… | https://habrahabr.ru/post/291762/
+
+Как работают профессионалы. Михаил Коноплев, генеральный директор Houzz в России | https://habrahabr.ru/post/291754/
+
+Стереотипы о фрилансерах | https://habrahabr.ru/company/polyglot/blog/291746/
+
+Заходите к нам на ostrovok | https://habrahabr.ru/company/icanchoose/blog/291704/
+
+«Газпром-Медиа» не будет продавать компанию «Рутьюб», но поменяет ее генерального директора | https://habrahabr.ru/post/291702/
+
+Учимся на ошибках 100 ИТ-стартапов. Часть 2 | https://habrahabr.ru/company/friifond/blog/291684/
+
+Работа будущего | https://habrahabr.ru/post/291666/
+
+20% россиян будут работать удалённо к 2020 году | https://habrahabr.ru/post/291656/
+
+Как работают профессионалы. Иван Голов, директор по развитию бизнеса и партнер в агентстве Digitalizm | https://habrahabr.ru/post/291654/
+
+Какие профессиональные навыки станут значимыми в ближайшие годы? | https://habrahabr.ru/company/mbaconsult/blog/291598/
+
+IT-эмиграция в Ригу, Латвия | https://habrahabr.ru/post/291586/
+
+Кейс: как организовать работу компании с несколькими офисами | https://habrahabr.ru/company/ringcloud/blog/291612/
+
+Проблемы лирика в мире физики, или Трудности интеграции гуманитария в IT-сфере | https://habrahabr.ru/post/291580/
+
+Евангелист — боль в ит-компании, и зачем вам это нужно | https://habrahabr.ru/company/tceh/blog/291572/
+
+Учимся на ошибках 100 ИТ-стартапов. Часть 1 | https://habrahabr.ru/company/friifond/blog/291530/
+
+Может ли PM руководить тем, чего не понимает? | https://habrahabr.ru/post/291544/
+
+В мире началась мода на «анти-MBA» | https://habrahabr.ru/post/291526/
+
+Первые четыре вопроса для основателя компании | https://habrahabr.ru/post/291508/
+
+С 1 июля временным гендиректором Twitter станет Джек Дорси | https://habrahabr.ru/post/291512/
+
+Кейс: Организуем работу сотрудников удаленно | https://habrahabr.ru/company/ringcloud/blog/291476/
+
+Советы основателя. Алексей Шереметьев, сооснователь Planner 5D | https://habrahabr.ru/post/291444/
+
+Прагматичный подход к тестовым заданиям для программистов | https://habrahabr.ru/post/291388/
+
+Как работают профессионалы. Мария Глазкова, начальник PR-департамента венчурного фонда Vestor.in | https://habrahabr.ru/post/291386/
+
+Как я уволил половину команды | https://habrahabr.ru/company/alconost/blog/291338/
+
+Неразбериха с названиями должностей | https://habrahabr.ru/post/259763/
+
+Как нанять проектировщика интерфейсов: мифы, ошибки, оценки рынка и выигрышные стратегии | https://habrahabr.ru/company/sobakapavlova/blog/291340/
+
+Максим Гришаков занял место коммерческого директора «Яндекса», которое пустовало с осени прошлого года | https://habrahabr.ru/post/291292/
+
+5 кошмаров фрилансера-копирайтера | https://habrahabr.ru/company/grrow/blog/291268/
+
+Как работают профессионалы. Артем Полянский, директор по маркетингу Prime Time Forums | https://habrahabr.ru/post/291248/
+
+Как в IT вырасти из руководителя группы в руководителя проектов? | https://habrahabr.ru/post/291192/
+
+Как работают профессионалы. Маша Дрокова, CEO и основатель пиар-студии | https://habrahabr.ru/post/291182/
+
+3 важных и 3 очень важных навыка проект-менеджера | https://habrahabr.ru/company/icl_services/blog/291116/
+
+Об удаленной работе. Работа с аутсорс | https://habrahabr.ru/post/291112/
+
+Дарт Вейдер. Руководство по отвратительному менеджменту | https://habrahabr.ru/post/291086/
+
+Что делать? | https://habrahabr.ru/post/291074/
+
+Откуда берутся бизнес-аналитики? | https://habrahabr.ru/company/cit/blog/291066/
+
+Как пройти стресс-интервью и не сорваться: что нужно знать об «экстремальном» найме | https://habrahabr.ru/company/icanchoose/blog/291036/
+
+Войти в IT: Junior 2 Senior | https://habrahabr.ru/company/dataart/blog/291020/
+
+Как работают профессионалы. Мария Лапук, руководитель пресс-службы «ФРИИ» | https://habrahabr.ru/post/291016/
+
+Советы основателя. Юлия Нестерец, сооснователь Hotwork.ru | https://habrahabr.ru/post/290986/
+
+Ищем единорогов: Product Marketing Manager'ы в JetBrains | https://habrahabr.ru/company/JetBrains/blog/290946/
+
+Джонатан Айв назначен директором по дизайну Apple | https://habrahabr.ru/post/290944/
+
+Как Coursera конкурирует с Google и Facebook за лучшие таланты (часть 1) | https://habrahabr.ru/post/290910/
+
+9 признаков того, что собеседование прошло хорошо | https://habrahabr.ru/company/icanchoose/blog/290884/
+
+Как работают профессионалы. Игорь Гладкобородов, сооснователь Coub | https://habrahabr.ru/post/290878/
+
+Поиск работы для программиста в Лондоне | https://habrahabr.ru/post/290848/
+
+UpWork: что такое Top Rated и с чем его едят | https://habrahabr.ru/post/290844/
+
+Мастер на все руки — особенности работы в маленькой компании | https://habrahabr.ru/company/skybase/blog/290696/
+
+Поиск работы в США: «Силиконовая Долина» | https://habrahabr.ru/post/290776/
+
+Куда еще податься ИТ-шнику: Словения | https://habrahabr.ru/post/290756/
+
+Как работают профессионалы. Анна Каракозова, руководитель отдела развития мобильного бизнеса «Лаборатории Касперского» | https://habrahabr.ru/post/290754/
+
+Основные задачи фрилансера на пути к становлению | https://habrahabr.ru/post/290750/
+
+Советы основателя. Максим Каракулов, сооснователь «Дарудара» | https://habrahabr.ru/post/290710/
+
+38 пунктов, которые вы обязаны исключить из вашего резюме прямо сейчас | https://habrahabr.ru/company/icanchoose/blog/290668/
+
+Как работают профессионалы. Алексей Штарев, исполнительный директор SeoPult | https://habrahabr.ru/post/290652/
+
+Войти в IT: Через семь рукопожатий, или Я разбираю калькулятор | https://habrahabr.ru/company/dataart/blog/290620/
+
+Как стать руководителем проектов в IT | https://habrahabr.ru/post/290624/
+
+Если ваш клиент — гендир | https://habrahabr.ru/company/skybase/blog/290554/
+
+Позицию CTO в «Яндексе» занял Михаил Парахин, семь лет проработавший в Microsoft | https://habrahabr.ru/post/290566/
+
+Как работают профессионалы. Максим Петров, CPO ZeptoLab | https://habrahabr.ru/post/290558/
+
+Тренажер для системного администратора или как превзойти своих бывших сокурсников на собеседовании | https://habrahabr.ru/post/290534/
+
+Советы основателя. Артем Субботин, CEO «Симкомат» | https://habrahabr.ru/post/290520/
+
+Как работают профессионалы. Екатерина Назарова, директор по работе с клиентами Aitarget | https://habrahabr.ru/post/290484/
+
+Как я собирала команду для своего стартапа | https://habrahabr.ru/company/rocketcallback/blog/290422/
+
+Как айтишнику уехать в Германию. Часть 2 | https://habrahabr.ru/post/290442/
+
+Несколько бутстреппинг-советов, которые помогут превратить ваши идеи в реальность | https://habrahabr.ru/post/290440/
+
+Размышления о своей работе. Часть вторая: «Хочу работать» | https://habrahabr.ru/post/290406/
+
+Как управлять почтой, не позволяя ей управлять собой? | https://habrahabr.ru/company/astoundcommerce/blog/290416/
+
+Основные принципы работы сферы фриланса | https://habrahabr.ru/post/290410/
+
+Размышления о своей работе. Часть первая: «Становление» | https://habrahabr.ru/post/290360/
+
+Как работают профессионалы. Никита Ершов, директор по развитию агентского направления бизнеса Socialist Group | https://habrahabr.ru/post/290334/
+
+15 самых щедрых американских работодателей по версии Glassdoor | https://habrahabr.ru/post/290316/
+
+oDesk умер, да здравствует Upwork | https://habrahabr.ru/post/290300/
+
+Как стать разработчиком, который понравится работодателю | https://habrahabr.ru/company/paysto/blog/290296/
+
+Как технологии повлияли на заработную плату за последние 200 лет | https://habrahabr.ru/post/290232/
+
+Как работают профессионалы. Ольга Полищук, диджитал-директор института «Стрелка» | https://habrahabr.ru/post/290166/
+
+Необходимые навыки по мнению пользователей Quora.com | https://habrahabr.ru/post/290154/
+
+Как стать таким же успешным, как Билл Гейтс, Стив Джобс, Элон Маск или Ричард Брэнсон? | https://habrahabr.ru/company/astoundcommerce/blog/290134/
+
+Стоит ли программисту ехать в Корею работать в Samsung (часть II) | https://habrahabr.ru/post/290024/
+
+Как работают профессионалы. Дмитрий Навоша, генеральный директор Sports.ru и Tribuna.com | https://habrahabr.ru/post/290056/
+
+Увеличение количества бюджетных мест по ИТ-специальностям >= 30% в 2016 учебном году | https://habrahabr.ru/post/290026/
+
+3 дня «РИФ+КИБ» за 10 минут | https://habrahabr.ru/post/290004/
+
+Стоит ли программисту ехать в Корею работать в Samsung (часть I) | https://habrahabr.ru/post/289986/
+
+В поисках справедливости: Очевидные принципы мотивации профессионалов, которые не сразу пришли в голову | https://habrahabr.ru/company/dataart/blog/289948/
+
+Как работают профессионалы. Галина Тимченко, главный редактор издания «Медуза» | https://habrahabr.ru/post/289910/
+
+Как налаживать связи, словно вы действительно знаете, что делаете | https://habrahabr.ru/company/mbaconsult/blog/289832/
+
+Продакт, проджект, аккаунт, сейл — ху из ху? | https://habrahabr.ru/post/289838/
+
+Начинающий IT-специалист или как не надо начинать свою карьеру в IT | https://habrahabr.ru/post/289766/
+
+О личном опыте работы с «бодишопами» или предупрежден — значит вооружен | https://habrahabr.ru/post/289760/
+
+Войти в IT: Риск стать практикантом оправдался | https://habrahabr.ru/company/dataart/blog/289692/
+
+Марк Кьюбан — 6 вещей для Великих | https://habrahabr.ru/post/289648/
+
+Советы основателя. Рустам Салаватов, основатель LIFE.FILM | https://habrahabr.ru/post/289556/
+
+Сотрудник и работодатель: работа, дружба, любовь | https://habrahabr.ru/company/intellin/blog/289518/
+
+Реальное Skype-интервью на английском и немецком | https://habrahabr.ru/post/289336/
+
+Microsoft заканчивает последний раунд увольнений | https://habrahabr.ru/post/289272/
+
+Новый безопасник Uber | https://habrahabr.ru/post/289220/
+
+«Яндекс» сокращает расходы на персонал и меняет программу поощрения | https://habrahabr.ru/post/289202/
+
+Эмиграция русских программистов и предпринимателей может простимулировать IT-бизнес США | https://habrahabr.ru/post/289132/
+
+Шпаргалка для кандидата: какие вопросы задать потенциальному работодателю на собеседовании | https://habrahabr.ru/post/289050/
+
+Почему индийский аутсортинг обречен | https://habrahabr.ru/post/289040/
+
+Стартапы: Список всех проектов ФРИИ | https://habrahabr.ru/company/friifond/blog/289038/
+
+Пол Грэм: «Не разговаривайте со специалистами по корпоративному развитию» | https://habrahabr.ru/company/alconost/blog/287060/
+
+Сериал: Big Data — как мечта. 2-я серия. Big Data негатива или позитива? | https://habrahabr.ru/company/brandanalytics/blog/287062/
+
+Рид Хоффман: О руководстве и руководителях | https://habrahabr.ru/company/friifond/blog/287028/
+
+Новым финансовом директором Google стала «самая влиятельная женщина на Уолл-Стрит» | https://habrahabr.ru/post/286988/
+
+Как развить в себе руководителя проектов: PDU-майнинг | https://habrahabr.ru/post/286962/
+
+Гай Кавасаки. Искусство задавать простые вопросы | https://habrahabr.ru/post/286936/
+
+Дистанционная работа: Более 130 полезных источников | https://habrahabr.ru/company/friifond/blog/286880/
+
+Опыт поиска работы на бирже Elance | https://habrahabr.ru/post/286858/
+
+Роскомнадзору расширили полномочия и урезали бюджет | https://habrahabr.ru/post/286846/
+
+Рейтинги университетов мира: фокус на IT | https://habrahabr.ru/post/296674/
+
+Любите своих подчинённых, или «Как удержать сотрудников» | https://habrahabr.ru/post/286820/
+
+9 невероятно успешных людей и первая работа, которая сделала их теми, кто они есть | https://habrahabr.ru/company/mbaconsult/blog/286748/
+
+Ласло Блок. Выигрышное собеседование за 6 шагов | https://habrahabr.ru/post/286734/
+
+Финансовый директор Uber уходит в отставку | https://habrahabr.ru/post/286732/
+
+LinkedIn с помощью Careerify поможет выиграть сражения за талант | https://habrahabr.ru/post/286730/
+
+10 советов для HR-специалиста | https://habrahabr.ru/post/286724/
+
+Vodafone вводит программу поддержки материнства | https://habrahabr.ru/post/286672/
+
+Почему Илон Маск является скорее исключением, а не правилом | https://habrahabr.ru/post/286598/
+
+Личный опыт по составлению портфолио менеджера проектов | https://habrahabr.ru/post/286582/
+
+Если бы паттерны были программистами | https://habrahabr.ru/post/286546/
+
+Семейный бизнес в IT. Первые полгода жизни нашего стартапа | https://habrahabr.ru/company/energoslon/blog/286498/
+
+Женщины, которые поменяли бизнес | https://habrahabr.ru/post/286478/
+
+Найм на работу в Дубае, взгляд со стороны работодателя | https://habrahabr.ru/post/286410/
+
+Насыщенное состояние Agile | https://habrahabr.ru/post/286364/
+
+Кто мы и зачем мы нужны? | https://habrahabr.ru/company/intellin/blog/286336/
+
+Уроки лидерства Мартина Лютера Кинга | https://habrahabr.ru/post/286332/
+
+10 отвратительных практик найма, или Как распугать лучших соискателей | https://habrahabr.ru/company/alconost/blog/286294/
+
+Новый блог от «Интеллин» | https://habrahabr.ru/company/intellin/blog/286218/
+
+Апофеоз неудачника или чем мне нравятся провальные стартапы и их основатели | https://habrahabr.ru/post/286202/
+
+Demola: взгляд изнутри | https://habrahabr.ru/post/286190/
+
+Дельные советы на тему телефонных звонков | https://habrahabr.ru/post/286138/
+
+Эффективность: говорим на языке задач | https://habrahabr.ru/post/286010/
+
+Пять крупнейших высокотехнологичных стартапов в мире на текущий момент | https://habrahabr.ru/post/286000/
+
+А может, вы предприниматель? 7 признаков того, что вам надо делать стартап | https://habrahabr.ru/post/285992/
+
+ЦИАН переманил руководителя Яндекс.Маркет | https://habrahabr.ru/post/285988/
+
+Поиск работы в международном масштабе: советы практика | https://habrahabr.ru/post/285916/
+
+Прогнозы на будущее для удаленных работников | https://habrahabr.ru/post/285896/
+
+17 навыков успешного предпринимателя | https://habrahabr.ru/post/285854/
+
+Обзор рынка информационных технологий от IDC | https://habrahabr.ru/post/285850/
+
+Страшный сон стартапера — 8-часовой рабочий день? | https://habrahabr.ru/post/285810/
+
+Что день грядущий нам готовит: профессиональное развитие бизнес-аналитика в контексте мировых трендов | https://habrahabr.ru/post/285804/
+
+Как попасть в Tesla? Устроиться в Apple | https://habrahabr.ru/post/285766/
+
+Премьера фильма о Стиве Джобсе состоится 9 октября 2015 года, на год раньше предполагаемого ранее срока | https://habrahabr.ru/post/285732/
+
+Роман в мейлах: советы программисту, переезжающему в Мюнхен | https://habrahabr.ru/post/284026/
+
+Взгляд назад, или что бы я сделал по-другому, переехав работать в Германию сейчас. Часть 4 (Образование в Германии) | https://habrahabr.ru/post/284020/
+
+Опыт переезда в Германию системным администратором | https://habrahabr.ru/post/284014/
+
+Взгляд назад, или что бы я сделал по-другому, переехав работать в Германию сейчас. Часть 3 (Образование в Германии) | https://habrahabr.ru/post/285696/
+
+Мой опыт поиска работы программистом за границей: UPDATE 2 | https://habrahabr.ru/post/285694/
+
+Взгляд назад, или что бы я сделал по-другому, переехав работать в Германию сейчас. Часть 2 | https://habrahabr.ru/post/285692/
+
+Взгляд назад, или что бы я сделал по-другому, переехав работать в Германию сейчас. Часть 1 | https://habrahabr.ru/post/285690/
+
+Как айтишнику уехать в Германию. Часть 1 | https://habrahabr.ru/post/285688/
+
+10 сайтов для поиска работы в Европе | https://habrahabr.ru/post/285686/
+
+Amazon предлагает $1000 на аккаунт в AWS тем, кто успешно пройдёт курсы предпринимателей на edX | https://habrahabr.ru/post/285684/
+
+Как я уехал работать программистом в Швецию (Часть 2) | https://habrahabr.ru/post/296680/
+
+Как я уехал работать программистом в Швецию (Часть 1) | https://habrahabr.ru/post/285682/
+
+Как я нашел работу в Сан Франциско | https://habrahabr.ru/post/285680/
+
+Как работают профессионалы. Григорий Бакунов, директор по распространению технологий «Яндекса» | https://habrahabr.ru/post/289806/
+
+Конкурс для студентов Ericsson Innovation Awards 2015: «Будущее образования» | https://habrahabr.ru/post/285678/
+
+Как работают профессионалы. Издатель «ТМ» Денис Крючков | https://habrahabr.ru/post/289808/
+
+Рецепт новогоднего корпоратива в стиле ИТ | https://habrahabr.ru/post/285676/
+
+Советы начинающему предпринимателю от Оливера Эмбертона | https://habrahabr.ru/post/243307/
+
+Как найти свое призвание (новая статья от Оливера Эмбертона) | https://habrahabr.ru/post/242847/
+
+Три вещи, о которых забывают начинающие оптимизаторы конверсии | https://habrahabr.ru/post/242293/
+
+Количество бюджетных мест в вузах на IT-специальности в 2015 году увеличится на 35% | https://habrahabr.ru/post/285674/
+
+О том, как я уехал преподавать в Эстонию | https://habrahabr.ru/post/285672/
+
+Восемь уроков лидерства от Стива Балмера | https://habrahabr.ru/company/alconost/blog/240615/
+
+IT-эммиграция украинца в Минск | https://habrahabr.ru/post/285670/
+
+Уровень сложности Hardcore. Советы по выживанию в «женском» кабинете | https://habrahabr.ru/post/285668/
+
+Работа без офиса: как наладить и сохранить сплоченность в распределенной команде | https://habrahabr.ru/company/alconost/blog/239809/
+
+Как я стажировался в стартапе в Сан-Франциско и уехал домой | https://habrahabr.ru/post/285666/
+
+Как Питер Тиль отличает безумно крутой стартап от безумного | https://habrahabr.ru/company/alconost/blog/237975/
+
+Как я работал в Индии веб-разработчиком по контракту | https://habrahabr.ru/post/285664/
+
+Семейный бизнес в сфере IT. Время зарабатывать деньги | https://habrahabr.ru/company/energoslon/blog/285662/
+
+Поиск и получение работы в Норвегии | https://habrahabr.ru/post/285660/
+
+Семейный бизнес в сфере IT. Мои три золотых правила | https://habrahabr.ru/company/energoslon/blog/285658/
+
+Как потратить шесть лет жизни впустую, или история провала | https://habrahabr.ru/post/285656/
+
+Перестаньте называть себя программистом и другие карьерные советы | https://habrahabr.ru/post/285654/
+
+Плюсы и минусы работы в сфере IT, если ты девушка | https://habrahabr.ru/post/290282/
+
+Как наш проект прошел акселерацию в Plug and Play TechCenter в Кремниевой долине | https://habrahabr.ru/post/285652/
+
+Оформление резюме для зарубежных компаний | https://habrahabr.ru/post/285650/
+
+12 правил хорошего тона в деловом общении на английском языке | https://habrahabr.ru/company/alconost/blog/231667/
+
+В погоне за любимым делом или как я оказался в Бельгии | https://habrahabr.ru/post/285648/
+
+IT-миграция в Киев | https://habrahabr.ru/post/285646/
+
+Еще одна история про переезд, на этот раз в Нидерланды | https://habrahabr.ru/post/285644/
+
+IT Эмиграция в Минск | https://habrahabr.ru/post/285642/
+
+You shall not pass или Как себя вести с нанимателем, чтобы НЕ получить эту работу | https://habrahabr.ru/post/285064/
+
+Работа для программиста в США: 5 простых шагов | https://habrahabr.ru/post/285640/
+
+5 советов новоиспеченному начальнику отдела | https://habrahabr.ru/post/285638/
+
+Трудоустройство в Дубае (личный опыт и наблюдения) | https://habrahabr.ru/post/285636/
+
+IT-эмиграция: Сингапур | https://habrahabr.ru/post/285634/
+
+Хотите управлять продуктом? О чем молчат все менеджеры по продукту | https://habrahabr.ru/company/alconost/blog/220335/
+
+Как передавать дела при увольнении | https://habrahabr.ru/post/285632/
+
+H-1B: Путь iOS разработчика из Гондураса в Кремниевую долину | https://habrahabr.ru/post/285628/
+
+А что выбрали бы вы? | https://habrahabr.ru/post/285626/
+
+Irrational Behaviour | https://habrahabr.ru/post/285622/
+
+Опыт удаленного поиска работы в Лондоне | https://habrahabr.ru/post/285620/
+
+«Мы вам обязательно перезвоним» | https://habrahabr.ru/post/285618/
+
+Рекрутер — слабое звено связи с работодателем | https://habrahabr.ru/post/285616/
+
+Стоит ли идти на собеседование к рекрутеру? | https://habrahabr.ru/post/285614/
+
+Все, что вы хотели, но боялись спросить у IT рекрутера | https://habrahabr.ru/post/285612/
+
+Пять черт успешных новаторов | https://habrahabr.ru/company/alconost/blog/200842/
+
+Как я искал работу в славном городе Нью-Йорк | https://habrahabr.ru/post/285610/
+
+Пиши резюме правильно или “умею улыбаться и пеку оладушки” | https://habrahabr.ru/post/285608/
+
+Поиск работы за рубежом | https://habrahabr.ru/post/285606/
+
+История одного собеседования, или как в компании X кандидата «вешали» | https://habrahabr.ru/post/285604/
+
+Люди и творчество | https://habrahabr.ru/post/285062/
+
+Одна точка зрения на тестовое задание | https://habrahabr.ru/post/285060/
+
+Прохождение интервью — взгляд изнутри | https://habrahabr.ru/post/285602/
+
+Нелёгкая карьера программиста или чего хотят работодатели | https://habrahabr.ru/post/285600/
+
+ТП для начинающих | https://habrahabr.ru/post/285598/
+
+Собеседование на должность PHP Backend Developer в Германии | https://habrahabr.ru/post/285596/
+
+Переезд на работу в Данию | https://habrahabr.ru/post/285594/
+
+Интервью как процесс с точки зрения собеседующего | https://habrahabr.ru/post/297006/
+
+15 человек на сундук мертвеца: распределение задач в рекрутинге | https://habrahabr.ru/post/285592/
+
+О научных ротах программистов | https://habrahabr.ru/post/285590/
+
+Кто умнее? | https://habrahabr.ru/post/285588/
+
+Сколько у нас здесь ученых? | https://habrahabr.ru/post/285586/
+
+Рекрутинг на благо бизнеса, триптих | https://habrahabr.ru/post/285584/
+
+Как мы искали, да никого не нашли | https://habrahabr.ru/post/285058/
+
+Размышления о кадровой ситуации | https://habrahabr.ru/post/285582/
+
+Job-реклама | https://habrahabr.ru/post/285580/
+
+Воронка продаж в рекрутинге: тонкости применения | https://habrahabr.ru/post/285578/
+
+Как найти работу в Германии | https://habrahabr.ru/post/285576/
+
+ФАС отрегулирует этичность «переманивания» сотрудников | https://habrahabr.ru/post/285574/
+
+Как я нанимаю программистов | https://habrahabr.ru/post/285572/
+
+Если бы плотников нанимали так же, как программистов | https://habrahabr.ru/post/285570/
+
+Стажеры в компании: как и зачем? Плюсы и минусы для работодателя | https://habrahabr.ru/post/285568/
+
+Performance Evaluation Review | https://habrahabr.ru/post/297000/
+
+Если бы вы вас уменьшили до размера карандаша и положили бы в блендер, как бы вы выбрались оттуда? — Goldman Sachs | https://habrahabr.ru/post/285566/
+
+Непрофильные вопросы на интервью | https://habrahabr.ru/post/285564/
+
+Насколько в вашей компании ощущается текучка кадров? | https://habrahabr.ru/post/285562/
+
+Какое направление развития карьеры сейчас наиболее перспективное? | https://habrahabr.ru/post/285056/
+
+Заметки о рынке труда | https://habrahabr.ru/post/285560/
+
+Подписан закон, регулирующий труд дистанционных работников | https://habrahabr.ru/post/285558/
+
+Айтишник 60 уровня. Что дальше? | https://habrahabr.ru/post/285556/
+
+Немного фактов об участниках CodeFest | https://habrahabr.ru/post/285552/
+
+RE: У Вас много денег? Тогда мы идем к Вам! | https://habrahabr.ru/post/285550/
+
+Про вопросы на собеседовании | https://habrahabr.ru/post/285548/
+
+Еще один взгляд на ситуацию с Human Resources | https://habrahabr.ru/post/285546/
+
+У вас много денег? Перестаньте быть снобами | https://habrahabr.ru/post/285544/
+
+У вас много денег? Мы все равно к вам не пойдем! | https://habrahabr.ru/post/285542/
+
+Эффект Даннинга-Крюгера | https://habrahabr.ru/post/285540/
+
+12 бизнес-уроков от основателя и гендиректора Amazon Джеффа Безоса. Часть 2 | https://habrahabr.ru/company/alconost/blog/170727/
+
+О техническом собеседовании | https://habrahabr.ru/post/285538/
+
+Урок от вселенной | https://habrahabr.ru/post/285536/
+
+Пять причин, по которым разработчики сопротивляются переменам | https://habrahabr.ru/post/285534/
+
+Игру Portal 2 используют для тестирования кандидатов на вакансию | https://habrahabr.ru/post/285532/
+
+Employ Adam: Интересный способ поиска работы | https://habrahabr.ru/post/285530/
+
+Разработчик передал свою работу на аутсорсинг в Китай и проводил время на Reddit | https://habrahabr.ru/post/285528/
+
+Дания: страна победившего здравого смысла | https://habrahabr.ru/post/285526/
+
+Кадры решают всё или о биче современных компаний | https://habrahabr.ru/post/285524/
+
+Один в поле воин | https://habrahabr.ru/company/alconost/blog/162195/
+
+Покажи мне свою бороду и я скажу кто ты | https://habrahabr.ru/post/285522/
+
+Яндекс, Parallels, Kaspersky Lab, Epam Systems и Acronis договорились не переманивать сотрудников | https://habrahabr.ru/post/285520/
+
+Как стать руководителем | https://habrahabr.ru/company/alconost/blog/159399/
+
+Бизнес — это закономерный этап в карьере специалиста | https://habrahabr.ru/post/285054/
+
+Foxconn: не Китаем единым | https://habrahabr.ru/post/285518/
+
+Обзор сервисов для корпоративного обучения | https://habrahabr.ru/post/157631/
+
+Мешает ли «предпринимательская субкультура» возникновению стоящих идей? | https://habrahabr.ru/company/alconost/blog/157513/
+
+Developer Auction: компании торгуются за лучших специалистов | https://habrahabr.ru/post/285516/
+
+Несколько советов по проведению собеседований | https://habrahabr.ru/post/285514/
+
+Нельзя просто так взять и найти работу | https://habrahabr.ru/post/285052/
+
+Концепция изменилась, Сэр! | https://habrahabr.ru/post/285512/
+
+Стадии решения проблемы | https://habrahabr.ru/post/285510/
+
+Немного об «утечке мозгов» | https://habrahabr.ru/post/285508/
+
+Foxconn закрывает завод из-за драки работников | https://habrahabr.ru/post/285506/
+
+Менталитет достаточности: в мире всего хватит на всех | https://habrahabr.ru/post/285504/
+
+Вопросы которые необходимо задать перед внедрением СДО | https://habrahabr.ru/post/285502/
+
+Сферический стартап | https://habrahabr.ru/post/285048/
+
+Ложь в вашем резюме | https://habrahabr.ru/post/285498/
+
+Как часто вы меняете место работы? | https://habrahabr.ru/post/285496/
+
+Идеальный соискатель | https://habrahabr.ru/post/285494/
+
+Тихое большинство экспертов | https://habrahabr.ru/post/285492/
+
+Руководство для маленьких, или как Василий Бубликов стал начальником | https://habrahabr.ru/post/285490/
+
+Система мотивации c элементами рыночных отношений | https://habrahabr.ru/post/285488/
+
+Referral bonus — to be or not to be | https://habrahabr.ru/post/285046/
+
+Без разницы, какое решение вы примете – оно всегда будет неверным | https://habrahabr.ru/post/285486/
+
+Что для Вас является наиболее важным фактором при выборе новой либо смене работы? | https://habrahabr.ru/post/285044/
+
+ASAP, overtime и право программиста пойти спать | https://habrahabr.ru/post/285484/
+
+Незаменимый бесполезный человек | https://habrahabr.ru/post/285482/
+
+Профессиональная иммиграция в Австралию, IT и жизнь на другом континенте | https://habrahabr.ru/post/298136/
+
+Взгляд со стороны специалиста на трудоустройство в Великобритании | https://habrahabr.ru/post/285480/
+
+Как положить спасибо в карман | https://habrahabr.ru/post/285478/
+
+А вы отправляете письмо с благодарностью после собеседования? | https://habrahabr.ru/post/285042/
+
+Миф о восьмичасовом сне | https://habrahabr.ru/post/285474/
+
+Психологическая деформация программистов. Взгляд с обеих сторон баррикад | https://habrahabr.ru/post/285472/
+
+Службу в армии может заменить программирование | https://habrahabr.ru/post/285470/
+
+Что не спрашивать на технических интервью | https://habrahabr.ru/post/285468/
+
+Мужская психология в программировании | https://habrahabr.ru/post/285466/
+
+Почему я не провожу собеседования | https://habrahabr.ru/post/285464/
+
+Тайм-менеджмент для разгильдяев | https://habrahabr.ru/post/285462/
+
+А ваши сотрудники продуктивные? | https://habrahabr.ru/post/285460/
+
+Рекомендации по прохождению собеседования с HR-специалистами | https://habrahabr.ru/post/285458/
+
+Я хочу работать в Google! Телефонное интервью (часть 3, питоноводческая) | https://habrahabr.ru/post/285456/
+
+Я хочу работать в Google! Телефонное интервью (часть 2) | https://habrahabr.ru/post/285454/
+
+Я хочу работать в Google! Телефонное интервью (часть 1) | https://habrahabr.ru/post/285452/
+
+Почему товары Apple разработаны в Калифорнии, но собраны в Китае | https://habrahabr.ru/post/285450/
+
+В вашей компании публично известны суммы выплат и бонусов? | https://habrahabr.ru/post/285448/
+
+Стандартное резюме сеошника | https://habrahabr.ru/post/299154/
+
+Как повысить эффективность технической поддержки хостинговой компании | https://habrahabr.ru/post/285446/
+
+Перевоплощение эйчара в Java разработчика | https://habrahabr.ru/post/285444/
+
+Целеориентированный исполнитель | https://habrahabr.ru/post/285442/
+
+Что на самом деле мотивирует людей | https://habrahabr.ru/post/285440/
+
+Три слова о руководителе | https://habrahabr.ru/post/285438/
+
+Самый лучший плохой сервис | https://habrahabr.ru/post/285436/
+
+Опыт составления резюме | https://habrahabr.ru/post/285434/
+
+Была такая профессия: «Программист» | https://habrahabr.ru/post/285040/
+
+Плохой хороший работодатель | https://habrahabr.ru/post/285430/
+
+Как я проходил собеседование в компанию Zynga | https://habrahabr.ru/post/285428/
+
+Главные причины перехода в другую компанию | https://habrahabr.ru/post/285426/
+
+Как я уехал в Штаты в 2000-ом и что было дальше | https://habrahabr.ru/post/307350/
+
+Почему наши премии плохи | https://habrahabr.ru/post/285424/
+
+Правильно ли использовать сотрудников только по назначению? | https://habrahabr.ru/post/285422/
+
+Я выше вас всех или как общаться с IT специалистом. Продолжение | https://habrahabr.ru/post/285038/
+
+Девушки идут в компьютерщики… Снова! | https://habrahabr.ru/post/285420/
+
+Я выше вас всех или как общаться с IT специалистом | https://habrahabr.ru/post/285418/
+
+Подарок хабражителям. Книга по развитию памяти | https://habrahabr.ru/post/285416/
+
+Цветовая дифференциация персонала | https://habrahabr.ru/post/285414/
+
+Контест-мотивация | https://habrahabr.ru/post/285412/
+
+Сколько нужно платить разработчикам? | https://habrahabr.ru/post/285410/
+
+О производных | https://habrahabr.ru/post/285408/
+
+Мотивация программистов | https://habrahabr.ru/post/285036/
+
+Принуждение к профанации — «рыночный» менеджмент | https://habrahabr.ru/post/285406/
+
+Почему чемпионы по стратегическим играм становятся плохими руководителями? | https://habrahabr.ru/post/285404/
+
+Работаете ли вы на выходных? Результаты опроса | https://habrahabr.ru/post/285402/
+
+Профессиональная эмиграция — Часть 1 — Проблема курицы и яйца и как с ней бороться, а также развенчание мифов | https://habrahabr.ru/post/285400/
+
+3 задачи, которые отсеивают 9 из 10 «Senior PHP» кандидатов | https://habrahabr.ru/post/285398/
+
+Подбор персонала для стартапов | https://habrahabr.ru/post/285396/
+
+Идеальное собеседование? | https://habrahabr.ru/post/285394/
+
+Первые шаги в Китай | https://habrahabr.ru/post/285392/
+
+Битва за трудочасы. Как надо считать зарплату? | https://habrahabr.ru/post/285390/
+
+Много компаний хороших и разных | https://habrahabr.ru/post/285388/
+
+Бонусы за рекомендации: дайте два! | https://habrahabr.ru/post/285386/
+
+Рекомендации для начала карьерного роста | https://habrahabr.ru/post/285384/
+
+Какой ресурс чаще всего давал вам результат при поиске работы? | https://habrahabr.ru/post/285382/
+
+Карьера в IT | https://habrahabr.ru/post/285380/
+
+Происхождение вашего ника (погоняла, клички) | https://habrahabr.ru/post/285034/
+
+Работаете ли Вы на выходных? | https://habrahabr.ru/post/285376/
+
+Об английском и не только — как «вжиться» в иностранный язык | https://habrahabr.ru/post/285374/
+
+Работа, как соревновательный процесс | https://habrahabr.ru/post/285032/
+
+Как выглядит работа PHP программиста в Швеции | https://habrahabr.ru/post/285372/
+
+Собеседования с разработчиками: вы делаете это неправильно | https://habrahabr.ru/post/285370/
+
+Как вы оцениваете свою должность разработчика? | https://habrahabr.ru/post/285368/
+
+Чем бы социально значимым ты бы хотел заниматься вдобавок к основной ИТ-профессии? | https://habrahabr.ru/post/285030/
+
+Инструментарий рекрутера | https://habrahabr.ru/post/285366/
+
+Как мы копирайтера искали | https://habrahabr.ru/post/285364/
+
+О другом подходе к устройству на работу | https://habrahabr.ru/post/285362/
+
+6 отстойных слов в вашем резюме | https://habrahabr.ru/post/285360/
+
+Скорость разработки | https://habrahabr.ru/post/285358/
+
+В процессе поиска работы | https://habrahabr.ru/post/285356/
+
+Как не надо писать деловые письма-3: «могу подчиняться и могу подчинять» | https://habrahabr.ru/post/285354/
+
+Самые дурацкие вопросы на собеседовании | https://habrahabr.ru/post/285352/
+
+Работа мечты | https://habrahabr.ru/post/285350/
+
+FizzBuzz, или почему программисты не умеют программировать | https://habrahabr.ru/post/298134/
+
+Используете ли вы агрегаторы вакансий? | https://habrahabr.ru/post/285348/
+
+Задачи с доминошками на собеседованиях | https://habrahabr.ru/post/285346/
+
+Бесплатный сыр бывает вкусным | https://habrahabr.ru/post/285028/
+
+Быть Чубаккой, или невербальная коммуникация. Немножко практики | https://habrahabr.ru/post/285344/
+
+Talk on the Run. Говорящий программист | https://habrahabr.ru/post/285342/
+
+Рекрутерам посвящается… | https://habrahabr.ru/post/285340/
+
+Ситуация на рынке IT специалистов в Украине. Кликабля! | https://habrahabr.ru/post/285026/
+
+История успеха русского шестнадцатилетнего юноши | https://habrahabr.ru/post/299160/
+
+О неадекватности отбора программистов | https://habrahabr.ru/post/285338/
+
+одоп Элюстро | https://habrahabr.ru/post/285336/
+
+Как нанять лучших инженеров не убив при этом себя | https://habrahabr.ru/post/285334/
+
+Как вы отвечаете на хитромудрые вопросы HR? | https://habrahabr.ru/post/284700/
+
+Взгляд со стороны работодателя: как происходит найм офисного работника | https://habrahabr.ru/post/285332/
+
+О стрессовых интервью | https://habrahabr.ru/post/285330/
+
+Найм персонала: О важности примитивных вопросов | https://habrahabr.ru/post/285328/
+
+Секреты профессиональной оценки людей на интервью | https://habrahabr.ru/post/285326/
+
+Самое ужасное собеседование в моей жизни | https://habrahabr.ru/post/285324/
+
+Признаки плохого рекрутёра или классические ошибки при подборе персонала | https://habrahabr.ru/post/285322/
+
+Тайные приемчики рекрутеров: ЧТО мы говорим на собеседовании и ЧТО на основании этого о нас узнает работодатель? | https://habrahabr.ru/post/285320/
+
+Что спросить работодателя на собеседовании, чтобы не попасть в болото | https://habrahabr.ru/post/285318/
+
+Собеседование глазами собеседуемого | https://habrahabr.ru/post/285316/
+
+Как я нанимаю программистов | https://habrahabr.ru/post/285314/
+
+Россия. Прогнуться или подвинуться? | https://habrahabr.ru/post/285312/
+
+Профессия программист. Призвание или путь в никуда? | https://habrahabr.ru/post/285310/
+
+Эмиграция на Северный Кипр | https://habrahabr.ru/post/285308/
+
+Как пройти стресс-тест на собеседование при устройстве на работу | https://habrahabr.ru/post/285306/
+
+Уругвай: каждому ученику — по ноутбуку | https://habrahabr.ru/post/285304/
+
+Кто такой moneymaker | https://habrahabr.ru/post/299156/
+
+IT-эмиграция в Страну Улыбок, в Тайланд | https://habrahabr.ru/post/299162/
+
+Ябедничество на Яндекс: препоны при поиске работы и сотрудников через МойКруг | https://habrahabr.ru/post/285302/
+
+Особенности поиска сотрудников на Хабре | https://habrahabr.ru/post/285300/
+
+Работодатели съезжают с катушек | https://habrahabr.ru/post/285298/
+
+Работа с персоналом в условиях кризиса | https://habrahabr.ru/post/285296/
+
+Несколько советов соискателям | https://habrahabr.ru/post/285294/
+
+О собеседованиях | https://habrahabr.ru/post/285292/
+
+Описание вакансии: распространенные ошибки и их последствия | https://habrahabr.ru/post/285290/
+
+Чего вы хотите от работодателя? | https://habrahabr.ru/post/285288/
+
+Идеальная вакансия для программиста | https://habrahabr.ru/post/285286/
+
+Искусство публичных выступлений или анализ речи Стива Джобса | https://habrahabr.ru/post/285284/
+
+Жизнь после IT — есть ли свет в конце туннеля? | https://habrahabr.ru/post/285282/
+

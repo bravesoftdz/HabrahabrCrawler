@@ -1,0 +1,598 @@
+R, Asterisk и платяной шкаф | https://habrahabr.ru/post/341668/
+
+Африканский эксперимент Битрикс24 | https://habrahabr.ru/post/341616/
+
+Телеграм: отправка сообщений на номер мобильного в чат с ботом | https://habrahabr.ru/post/339704/
+
+Звоним бесплатно, используя блокчейн-сервис ENUMER | https://habrahabr.ru/company/emercoin/blog/337034/
+
+Телефонная книга Freeswitch | https://habrahabr.ru/company/big/blog/330360/
+
+Зачем нужен SBC на границе сетей | https://habrahabr.ru/post/335194/
+
+История с хэппи-эндом: интеграция «Битрикс24» с Asterisk | https://habrahabr.ru/company/bitrix/blog/334120/
+
+Asterisk func_odbc или странный ael | https://habrahabr.ru/post/333790/
+
+Asterisk. На этот раз в качестве системы трансляции фоновой музыки с возможностью экстренного оповещения | https://habrahabr.ru/company/southbridge/blog/268047/
+
+Yet another вариант отправки уведомлений от Asterisk в Telegram | https://habrahabr.ru/company/southbridge/blog/329668/
+
+Asterisk queues, мелкие хитрости | https://habrahabr.ru/post/324580/
+
+Автоматизация. Настройка Voip телефонов Fanvil | https://habrahabr.ru/post/324338/
+
+Asterisk и не только. Виртуальные файловые системы. Шаг назад или два вперед? | https://habrahabr.ru/post/323740/
+
+sip messages: отложенная доставка | https://habrahabr.ru/post/322462/
+
+Kamailio SIP proxy: пример установки и минимальной настройки | https://habrahabr.ru/company/southbridge/blog/320784/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 2 | https://habrahabr.ru/post/319558/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 1 | https://habrahabr.ru/post/319352/
+
+Авто-генерация конфигурационных файлов телефонов Cisco | https://habrahabr.ru/post/319450/
+
+CDR. Сохранить и приумножить | https://habrahabr.ru/post/318770/
+
+Asterisk. Ненормальный перевод | https://habrahabr.ru/post/318438/
+
+МиниАТС у себя дома | https://habrahabr.ru/post/318368/
+
+Используем oEmbed, чтобы добавить телефон в хабрапост | https://habrahabr.ru/company/Voximplant/blog/317858/
+
+RTCP как инструмент администратора телефонии | https://habrahabr.ru/post/317746/
+
+Elastix 5 beta | https://habrahabr.ru/post/317100/
+
+Перевод звонка с помощью скрипта в Asterisk | https://habrahabr.ru/company/southbridge/blog/316138/
+
+Подключение IP-телефонов Akuvox к АТС Avaya без лицензии на SIP | https://habrahabr.ru/post/315618/
+
+Вебинар: Asterisk и базы данных | https://habrahabr.ru/company/southbridge/blog/315596/
+
+FreePBX: первые шаги по граблям | https://habrahabr.ru/company/southbridge/blog/313078/
+
+Кластер Asterisk. Централизация информации о регистрации | https://habrahabr.ru/post/312630/
+
+Asterisk и информация о входящих звонках в браузере | https://habrahabr.ru/post/311986/
+
+Настройка голосовых шлюзов Huawei eSpace IAD на примере работы с PBX Asterisk | https://habrahabr.ru/post/310798/
+
+Использование Google Cloud Speech API v2 в Asterisk для распознавания русской речи | https://habrahabr.ru/post/310622/
+
+Защита от «спама» на 8800 во FreePBX | https://habrahabr.ru/post/309348/
+
+Тестируем IVR на Asterisk с помощью… Asterisk | https://habrahabr.ru/post/309156/
+
+Обзор Asterisk REST Interface (ARI) | https://habrahabr.ru/post/308652/
+
+Разработка модулей FreePBX | https://habrahabr.ru/post/308614/
+
+Вебинар: FreePBX. Офисная телефония: быстрый старт | https://habrahabr.ru/company/southbridge/blog/308574/
+
+Индивидуальный дневной лимит на исходящие звонки (ограничение платных направлений) | https://habrahabr.ru/post/308086/
+
+Определение региона по номеру телефона в Asterisk без использования БД | https://habrahabr.ru/company/southbridge/blog/307478/
+
+FreePBX: простейший набор ответственного за клиента | https://habrahabr.ru/post/306766/
+
+Вебинар: знакомство с Asterisk | https://habrahabr.ru/company/southbridge/blog/306038/
+
+Уведомление о звонке по telegram | https://habrahabr.ru/company/southbridge/blog/303490/
+
+Перенос пользователей из Asterisk (FreePBX) в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/302700/
+
+Объединение 3CX Phone System с Asterisk (FreePBX) | https://habrahabr.ru/company/3cx/blog/302680/
+
+Запись входящих звонков | https://habrahabr.ru/post/301708/
+
+FreePBX и CallBack: видеть номера звонящих | https://habrahabr.ru/post/301756/
+
+Мультифон во FreePBX: полная автоматизация подключения | https://habrahabr.ru/post/282528/
+
+Немного о конференциях | https://habrahabr.ru/company/southbridge/blog/282019/
+
+Скидка 30% на 3CX Phone System и 3CX WebMeeting | https://habrahabr.ru/company/3cx/blog/281260/
+
+Как использовать органайзер Microsoft Wunderlist в вашем колл-ценре 3CX | https://habrahabr.ru/company/3cx/blog/281252/
+
+Действительно полезное приложение для Digium телефонов | https://habrahabr.ru/post/281146/
+
+Elastix High Availability — решение для построения кластера из двух АТС | https://habrahabr.ru/post/281144/
+
+Обновление iOS клиента, Webmeeting в Mozilla Firefox и интеграция с PMS roomMaster | https://habrahabr.ru/company/3cx/blog/280750/
+
+Обработка Caller ID и отличительный звонок в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/280224/
+
+Настройка шаблонов e-mail уведомлений в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/279721/
+
+Управление операторами колл-центра 3CX | https://habrahabr.ru/company/3cx/blog/279159/
+
+Asterisk и информация о входящих звонках в браузере через Notifications | https://habrahabr.ru/post/278859/
+
+Конференции в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/278709/
+
+Собственный «Кто звонил?» на базе Мультифона | https://habrahabr.ru/post/278679/
+
+IP АТС Askozia и Push уведомления в Telegram | https://habrahabr.ru/post/277743/
+
+Телефония для домена | https://habrahabr.ru/post/276977/
+
+Ryo CDR: еще один asterisk CDR viewer | https://habrahabr.ru/post/276899/
+
+Установка SuiteCRM 7.5. Интеграция с Asterisk посредством Callinize — community Edition | https://habrahabr.ru/post/276413/
+
+Asterisk: ngrep, sipgrep, sngrep, protocol diagram | https://habrahabr.ru/post/274919/
+
+HIVE: будущее облачной АТС или куда идем в следующем году | https://habrahabr.ru/company/iptelefon/blog/274213/
+
+Asterisk: каждый звонок как прыгающий мячик | https://habrahabr.ru/post/274155/
+
+Разрабатываем сервис облачной конференц-связи для малого бизнеса | https://habrahabr.ru/company/iptelefon/blog/273693/
+
+Робот-продавец. Автоматизируем отдел продаж с помощью SaaS | https://habrahabr.ru/company/iptelefon/blog/273237/
+
+Знакомьтесь подробнее: мультимедийный шлюз AudioCodes | https://habrahabr.ru/company/audiocodes/blog/272913/
+
+Multi IP-SIM на службе малого бизнеса. Специальная SIM-карта для сайтов бесплатных объявлений | https://habrahabr.ru/company/iptelefon/blog/272699/
+
+Как мы научили 1С генерировать IVR меню для Asterisk | https://habrahabr.ru/post/272655/
+
+PaaS vs Лицензии. Четыре благородные истины IT-инфраструктуры | https://habrahabr.ru/company/itoolabs/blog/271227/
+
+Asterisk/FreePBX: Интеграция определителя номера с базой клиентов | https://habrahabr.ru/post/208586/
+
+Asterisk + LUA: быстрый старт | https://habrahabr.ru/post/271939/
+
+AltegroSIM: модернизируем мобильную связь службы доставки | https://habrahabr.ru/post/271903/
+
+Asterisk: Приоритезация VoIP трафика и резервирование доступа в Интернет двух провайдеров на MikroTik | https://habrahabr.ru/post/271747/
+
+FreePBX 13. Уже не бета | https://habrahabr.ru/post/271155/
+
+Пишем собственный интерфейс управления корпоративными FMC SIM-картами | https://habrahabr.ru/post/271015/
+
+Офис в кармане. Настраиваем облачную АТС на мобильных телефонах | https://habrahabr.ru/company/iptelefon/blog/270871/
+
+Защита VoIP сетей | https://habrahabr.ru/company/audiocodes/blog/270739/
+
+Рождественские подарки от 3CX | https://habrahabr.ru/company/3cx/blog/270683/
+
+XVB — Виртуальная АТС: кастомизация | https://habrahabr.ru/post/270153/
+
+Asterisk: Обеспечим VIP-клиентам первое место в очереди звонков, а так же свяжем клиента с конкретным оператором на заданное время | https://habrahabr.ru/post/270125/
+
+Производительность AudioCodes SBC | https://habrahabr.ru/company/audiocodes/blog/269969/
+
+Облачные объяснения: создаем операторский сервис виртуальной АТС за три дня | https://habrahabr.ru/company/itoolabs/blog/269947/
+
+Укрощение строптивых. Подключаем единый номер к нескольким мобильным | https://habrahabr.ru/post/269493/
+
+Asterisk: использование AEL в повседневной жизни | https://habrahabr.ru/company/southbridge/blog/269053/
+
+Как стать провайдером облачной IP АТС — Пошаговое руководство | https://habrahabr.ru/company/3cx/blog/268965/
+
+CRM-ка — пересмешница. Интегрируем amoCRM, телефонию и сотовую связь | https://habrahabr.ru/company/iptelefon/blog/268909/
+
+Представляем 3CX Phone System v14 SP1 с множеством новых функций | https://habrahabr.ru/company/3cx/blog/268855/
+
+3CX Softphone обзавелся панелью BLF, импортом из Google и… | https://habrahabr.ru/company/3cx/blog/268805/
+
+Ода доброму вендору: выбираем платформу для запуска VoIP SaaS-проекта | https://habrahabr.ru/post/268619/
+
+АТС 3CX для хостинга – меняем правила игры | https://habrahabr.ru/company/3cx/blog/267985/
+
+SMS-уведомление о перебое питания, используя Asterisk + Dongle и apcupsd | https://habrahabr.ru/post/267353/
+
+Asterisk и Truecaller. Определение имени неизвестного абонента при входящих звонках | https://habrahabr.ru/post/266807/
+
+3CX API — какие бывают и что с ними делать? Плагины сторонних разработчиков (Часть 2) | https://habrahabr.ru/company/3cx/blog/266107/
+
+Подключение Asterisk по ОКС-7 | https://habrahabr.ru/post/265983/
+
+Мобильная интеграция с новой облачной АТС 3CX v14 | https://habrahabr.ru/company/3cx/blog/265883/
+
+3CX API — какие бывают и что с ними делать? (Часть 1) | https://habrahabr.ru/company/3cx/blog/265653/
+
+AMI. Разносторонний Originate. Применение в CTI приложении | https://habrahabr.ru/post/265647/
+
+Оптимизация базы данных CDR в MySQL | https://habrahabr.ru/post/265221/
+
+Asterisk. Начало | https://habrahabr.ru/post/264981/
+
+Asterisk Manager Interface в диалплане | https://habrahabr.ru/post/264819/
+
+Работа с Очередями и прочие возможности Call-центра | https://habrahabr.ru/company/3cx/blog/264543/
+
+Как настроить в IP АТС синхронизацию каталогов – поиск по ODBC | https://habrahabr.ru/company/3cx/blog/263771/
+
+SysLogViewer – упрощаем процесс анализа логов AudioCodes | https://habrahabr.ru/company/audiocodes/blog/263711/
+
+Пишем и слушаем разговоры в 3CX | https://habrahabr.ru/company/3cx/blog/263531/
+
+Роуминг своими руками | https://habrahabr.ru/company/zadarma/blog/262905/
+
+Голос разума: эффективно совмещаем интернет и телефонию в офисе | https://habrahabr.ru/post/262669/
+
+Права и ограничения для пользователей IP АТС 3CX Phone System | https://habrahabr.ru/company/3cx/blog/262923/
+
+Asterisk: Автоинформирование вызываемого абонента перед соединением с оператором | https://habrahabr.ru/post/262675/
+
+Оптимизируем листинг диалплана Asterisk при помощи MySQL | https://habrahabr.ru/post/262439/
+
+Делаем Callback с сайта с помощью Askozia PBX | https://habrahabr.ru/post/259165/
+
+Объединение офисов в 3CX (Часть 2. Используем Session Boarder Controller) | https://habrahabr.ru/company/3cx/blog/262065/
+
+Объединение офисов в 3CX (Часть 1. Используем транки) | https://habrahabr.ru/company/3cx/blog/261405/
+
+Как я Asterisk'ом шлагбаумы открывал | https://habrahabr.ru/post/261391/
+
+Реализация Blacklist в Asterisk с помощью БД на MySQL | https://habrahabr.ru/post/261235/
+
+Настройка QoS на VMWare и Cisco USC | https://habrahabr.ru/post/261219/
+
+Простой будильник с веб-интерфейсом на Asterisk | https://habrahabr.ru/post/261151/
+
+Расшифровка грядущего обновления 3CX Phone System до версии 14 | https://habrahabr.ru/company/3cx/blog/261071/
+
+Быстрые помощники для вашего Asterisk'а | https://habrahabr.ru/post/260851/
+
+Настройка софтфона 3CXPhone for Windows для работы с Bitrix24 | https://habrahabr.ru/company/3cx/blog/260815/
+
+Бесплатное обновление лицензий 3CX: важная информация | https://habrahabr.ru/company/3cx/blog/260705/
+
+Домашний сервер c нуля | https://habrahabr.ru/post/260617/
+
+3CX Phone System v14: версия для технических специалистов | https://habrahabr.ru/company/3cx/blog/260139/
+
+Инструменты админа для мониторинга IP АТС 3CX Phone System (ч.2) | https://habrahabr.ru/company/3cx/blog/260099/
+
+Интеграция 3CX Phone System и Bitrix24 | https://habrahabr.ru/company/3cx/blog/259943/
+
+SIP телефон из stm32f4-discovery | https://habrahabr.ru/company/embox/blog/259721/
+
+Инструменты админа для мониторинга IP АТС 3CX Phone System (ч.1) | https://habrahabr.ru/company/3cx/blog/259599/
+
+Манипуляция номерами через LDAP | https://habrahabr.ru/company/audiocodes/blog/259503/
+
+Автоматическое обновление IP-телефонов в 3CX. Часть вторая. Практика | https://habrahabr.ru/company/3cx/blog/259119/
+
+Маршрутизация по наименьшей стоимости (LCR) в Asterisk | https://habrahabr.ru/post/258971/
+
+Конвертация записей разговоров в mp3 — Elastix 2.5 (FreePBX 2.11) | https://habrahabr.ru/post/258583/
+
+Динамические очереди звонков в Asterisk | https://habrahabr.ru/post/258565/
+
+Выдираем sms из GOIP на PHP | https://habrahabr.ru/post/258561/
+
+«Шепот» соседа через chanspy [FreePBX] | https://habrahabr.ru/post/258509/
+
+Хранение записей разговоров в mp3 во FreePBX/Asterisk | https://habrahabr.ru/post/258445/
+
+Автоматическое обновление IP-телефонов в 3CX. Часть первая. Теория | https://habrahabr.ru/company/3cx/blog/258381/
+
+Как 3CX решает проблемы безопасности (часть 2) | https://habrahabr.ru/company/3cx/blog/257673/
+
+Настройка роутера Mikrotik для работы с 3CX Phone System | https://habrahabr.ru/company/3cx/blog/257643/
+
+Как 3CX Phone System решает проблемы безопасности в VoIP (часть 1) | https://habrahabr.ru/company/3cx/blog/257377/
+
+Подключение IP-телефонов D-link к 3CX Phone System через встроенный L2TP VPN туннель | https://habrahabr.ru/company/3cx/blog/257213/
+
+Автонастройка IP телефонов в 3CX – просто включай и работай | https://habrahabr.ru/company/3cx/blog/256239/
+
+FreePBX — переадресация с уведомлениями в реальном времени через XMPP | https://habrahabr.ru/post/254835/
+
+Использование Asterisk для приема данных от охранных систем | https://habrahabr.ru/post/254733/
+
+Отправка смс через шлюз Openvox VoxStack | https://habrahabr.ru/post/254383/
+
+3CX обновил программный клиент для Mac | https://habrahabr.ru/company/3cx/blog/253861/
+
+Пишем обработку Asterisk AMI своими руками. Часть первая: создаем класс на PHP для обращения к звездочке или как сделать php socket клиент своими руками | https://habrahabr.ru/post/253387/
+
+Пример реализации обращения к Asterisk CLI на PHP. Структуризация ответа звездочки | https://habrahabr.ru/post/253351/
+
+OpenWRT + OpenVPN для Asterisk. Бюджетный способ организации VPN сети | https://habrahabr.ru/post/253331/
+
+Free Cloud IP-PBX — реализация от ppbbxx.com | https://habrahabr.ru/company/ppbbxx/blog/252665/
+
+Как менеджер мини-АТС с GSM и записями разговоров делал | https://habrahabr.ru/post/252845/
+
+Астериск: маршрутизация по номеру звонящего и коду региона | https://habrahabr.ru/post/252733/
+
+Установка и настройка 3CX Webmeeting Server | https://habrahabr.ru/company/3cx/blog/252605/
+
+Новый релиз: серверная версия 3CX WebMeeting | https://habrahabr.ru/company/3cx/blog/251581/
+
+Представляем 3CX WebMeeting 7.1 Beta — следующее поколение видеоконференций | https://habrahabr.ru/company/3cx/blog/251025/
+
+Grandstream Networks выпустила бесплатное приложение для SIP телефонии | https://habrahabr.ru/company/muk/blog/250521/
+
+Универсальный способ мониторинга Asterisk с помощью Zabbix | https://habrahabr.ru/post/249055/
+
+Быстрый голосовой набор на Asterisk | https://habrahabr.ru/post/248263/
+
+Перманентный бан злоумышленников при помощи Fail2Ban + MikroTik | https://habrahabr.ru/post/248033/
+
+Asterisk + FreeSwitch + Skype. Подробное руководство | https://habrahabr.ru/post/247981/
+
+Сервис для определения имени абонента по телефонному номеру | https://habrahabr.ru/post/247575/
+
+Numcap — npm для определения оператора и региона по номеру телефона | https://habrahabr.ru/post/246981/
+
+Asterisk звонилка на .NET | https://habrahabr.ru/post/245725/
+
+Asterisk. Отправка и прием факсов | https://habrahabr.ru/post/245271/
+
+Asternic CDR Reports. Прослушивание звонков в FreePBX с ограничением по доступу | https://habrahabr.ru/post/244321/
+
+Как легко и просто научить ваш Asterisk звонить через нужного оператора | https://habrahabr.ru/post/244131/
+
+Asterisk+Lua — IVR и некоторые другие моменты | https://habrahabr.ru/post/243251/
+
+Распознавание речи во FreePBX с помощью Яндекс Speechkit | https://habrahabr.ru/post/242109/
+
+Asterisk+Lua+регулярное обновление DEF кодов | https://habrahabr.ru/post/243213/
+
+Переадресация на мобильный и СМС-уведомление при отсутствии ответа. Одна из возможных реализаций «обратного» звонка | https://habrahabr.ru/post/243139/
+
+Диалплан на LUA для Asterisk | https://habrahabr.ru/post/243125/
+
+«Допиливаем» Asterisk CDR Viewer под себя | https://habrahabr.ru/post/241622/
+
+Голосовой автоинформатор даты и времени, приятным женским голосом, русским языком, на базе asterisk? Легко | https://habrahabr.ru/post/240649/
+
+Внедрение современной DECT связи | https://habrahabr.ru/post/240165/
+
+Установка и запуск Asterisk на Android-смартфоне | https://habrahabr.ru/post/239419/
+
+Asterisk Обратный звонок, или как дешево звонить | https://habrahabr.ru/post/238819/
+
+Установка и настройка Asterisk для работы с WebRTC | https://habrahabr.ru/post/236291/
+
+Как мы Cisco Phone с Asterisk SIP дружили | https://habrahabr.ru/post/177947/
+
+JavaScript для… настольного IP телефона? | https://habrahabr.ru/post/230927/
+
+Asterisk-Дворецкий или эпопея соединения Домофона с платой Паскаль-1510, шлюзом SPA112 и PBX Elastix | https://habrahabr.ru/post/231101/
+
+Устройства SIP оповещения CyberData | https://habrahabr.ru/post/228921/
+
+Интеграция Asterisk c minicom DX-500 при помощи ELF2-AE | https://habrahabr.ru/post/228839/
+
+Уведомление при перехвате вызова в Asterisk | https://habrahabr.ru/post/225837/
+
+В Asterisk версии 12 появился REST интерфейс (Asterisk REST Interface — ARI) | https://habrahabr.ru/post/225007/
+
+Автодозвон через обратный вызов из Elastix | https://habrahabr.ru/post/214093/
+
+Всероссийская конференция по Asterisk состоялась | https://habrahabr.ru/post/223531/
+
+Мониторинг транков Asterisk с помощью низкоуровнего обнаружения Zabbix | https://habrahabr.ru/post/223365/
+
+Автопровизия (Автонастройка) телефонов Polycom с помощью Asterisk | https://habrahabr.ru/post/218227/
+
+Asterisk + Cisco SPA5XX, SPA3XX — DND с уведомлением сервера | https://habrahabr.ru/post/216193/
+
+Конфигурирование телефонов Digium через модуль DPMA в Elastix | https://habrahabr.ru/post/215685/
+
+Система оповещения о задолженности, или еще один автоинформатор | https://habrahabr.ru/post/215869/
+
+Автопровижининг Cisco SPA504g и Asterisk. Часть 2. Настройка DHCP-сервера и Apache | https://habrahabr.ru/post/214235/
+
+Автопровижининг Cisco SPA504g и Asterisk. Часть 1. Сборка и настройка Asterisk+MySQL | https://habrahabr.ru/post/214181/
+
+Кто звонил? Или обратный звонок с сотового на asterisk | https://habrahabr.ru/post/213669/
+
+Интеграция телефонии в распределенных колл-центрах | https://habrahabr.ru/post/213071/
+
+GSM-шлюз OpenVox как полноценная замена АТС | https://habrahabr.ru/post/212919/
+
+Web интерфейс прослушивания записей звонков Asterisk | https://habrahabr.ru/post/212815/
+
+Загрузка телефонной книги в IP телефоны фирмы Polycom | https://habrahabr.ru/post/211606/
+
+Тестирование телефонов Digium с Asterisk и настройка Smart BLF | https://habrahabr.ru/post/211464/
+
+Asterisk: режим DND на BLF клавише | https://habrahabr.ru/post/207820/
+
+Панель отправка исходящих факсов средствами Asterisk и Node.js | https://habrahabr.ru/post/207080/
+
+Установка и настройка Asterisk под iD Phone (iDPhone) | https://habrahabr.ru/post/206964/
+
+Вышел Asterisk 12 | https://habrahabr.ru/post/206876/
+
+Новыe GSM маршрутизаторы от OpenVox | https://habrahabr.ru/post/205122/
+
+Новые аналоговые и цифровые платы для Asterisk от Digium | https://habrahabr.ru/post/202120/
+
+Openfire+Miranda+Asterisk+Active Directory+щепотка php,bash,C# или как звонить из Miranda, используя обычные телефоны | https://habrahabr.ru/post/204242/
+
+Asterisk. Разгружаем секретаря/диспетчера/первую линию тех. поддержки | https://habrahabr.ru/post/204048/
+
+Мой опыт работы с Webrtc | https://habrahabr.ru/post/203568/
+
+Настройка CEL в Asterisk | https://habrahabr.ru/post/202404/
+
+Пошаговое руководство по привязке SIP-номера к Elastix (FreePBX, Asterisk) на примере провайдера Megaline iDPhone | https://habrahabr.ru/post/198684/
+
+Smart BLF и сравнение IP телефона Digium D40 | https://habrahabr.ru/post/195778/
+
+Подключаем Asterisk к Avaya по протоколу H.323 | https://habrahabr.ru/post/197080/
+
+Один из простых вариантов защиты VoIP | https://habrahabr.ru/post/196268/
+
+Макрос для балансировки исходящих звонков на GSM в Asterisk | https://habrahabr.ru/post/195730/
+
+Отправка факсов из User Panel во FreePBX | https://habrahabr.ru/post/195612/
+
+Организуем Asterisk IP телефонию в офисе без изучения Linux | https://habrahabr.ru/post/194812/
+
+Видео звонки между терминалами Aastra 8000i через IP-PBX Asterisk | https://habrahabr.ru/post/191976/
+
+Подходят ли облачные IP АТС небольшим компаниям? | https://habrahabr.ru/post/191856/
+
+Релиз Asterisk 12 выйдет в 2013 году | https://habrahabr.ru/post/191834/
+
+Обзор новых IP АТС от Grandstream | https://habrahabr.ru/company/muk/blog/191708/
+
+SMS модуль для Elastix (часть 2) | https://habrahabr.ru/post/189254/
+
+Риски использования распознавания речи от Google в своих бизнес проектах | https://habrahabr.ru/company/speechpro/blog/189134/
+
+SMS сервер GoIP для Asterisk (часть 1) | https://habrahabr.ru/post/188644/
+
+Самообслуживание клиентов с помощью google ASR | https://habrahabr.ru/post/188382/
+
+Безопасность Asterisk | https://habrahabr.ru/post/188440/
+
+Защита от прослушивания SIP c помощью — TLS + SRTP + шифрованный туннель и телефона Yealink T26p | https://habrahabr.ru/post/186530/
+
+Шлюзы Digium G400 и G800 (E1 PRI) | https://habrahabr.ru/post/185468/
+
+Лето, отпуск, asterisk или сам себе VoIP оператор | https://habrahabr.ru/post/185250/
+
+Реализация работы с факсами в asterisk | https://habrahabr.ru/post/185260/
+
+Call-центр просто и дешево | https://habrahabr.ru/post/183888/
+
+Сервис автоматизированной отправки факсов с помощью Asterisk | https://habrahabr.ru/post/183584/
+
+Asterisk конференции — создание через почту | https://habrahabr.ru/post/182270/
+
+Унифицированные коммуникации в облаке | https://habrahabr.ru/post/182402/
+
+Настройка Voip-GSM шлюза Hybertone GoIP4 и Asterisk PBX c помощью FreePBX | https://habrahabr.ru/post/180855/
+
+Asterisk на Mikrotik | https://habrahabr.ru/post/180889/
+
+Asterisk в примерах: балансировка каналов | https://habrahabr.ru/post/180445/
+
+Корпоративная АТС на базе Asterisk | https://habrahabr.ru/company/webnames/blog/180265/
+
+Отправка уведомлений о пропущенных звонках из Asterisk | https://habrahabr.ru/company/southbridge/blog/162825/
+
+Звонки внутри организации с Корпоративного портала | https://habrahabr.ru/post/178467/
+
+Asterisk распознавание речи через Google + умный IVR | https://habrahabr.ru/post/177623/
+
+Нетривиальная задача с callback + DID в Asterisk | https://habrahabr.ru/post/176751/
+
+Быстрое развертывание телефонной сети на Asterisk+Cisco | https://habrahabr.ru/post/176019/
+
+Мимолётный зловред | https://habrahabr.ru/post/175959/
+
+Новый Switchvox 450 & 470, API и кое-что еще… | https://habrahabr.ru/post/156267/
+
+Asterisk. Передаем номер звонящего при переадресации на мобильный с помощью СМС | https://habrahabr.ru/post/174125/
+
+Что нам стоит АТС построить! | https://habrahabr.ru/post/172927/
+
+Голосовое дерево для Asterisk с помощью Perl AGI | https://habrahabr.ru/post/172561/
+
+Делаем VoIP GSM шлюз из Tp-link mr-3020 и Huawei E-171 — часть вторая — добавляем Siemens Gigaset c470IP и SMS | https://habrahabr.ru/post/172345/
+
+Автоматическая система обзвона клиентов | https://habrahabr.ru/post/172227/
+
+Простая установка Asterisk + FreePBX для начинающих | https://habrahabr.ru/post/171163/
+
+Click2Call на Mac OS X | https://habrahabr.ru/post/170315/
+
+Elastix — Asterisk как система экстренного голосового оповещения | https://habrahabr.ru/post/170849/
+
+Делаем VoIP GSM шлюз из Tp-link mr-3020 и Huawei E-171 — часть первая | https://habrahabr.ru/post/170749/
+
+Elastix как автоматическая система записи сообщений с отправкой их исполнителям | https://habrahabr.ru/post/169605/
+
+Связь Elastix c Panasonic TDE 200 и платой v SIPGW16 по SIP | https://habrahabr.ru/post/169591/
+
+Что можно получить от интеграции 1С:CRM 8 и телефонии Asterisk | https://habrahabr.ru/post/169015/
+
+Интеграция 1С:CRM и Asterisk с помощью PHP-AGI и веб-сервисов 1C | https://habrahabr.ru/post/166935/
+
+Askozia — редактор маршрутов вызовов | https://habrahabr.ru/post/165971/
+
+Простейший способ обзвона списка номеров с помощью Asterisk | https://habrahabr.ru/post/159503/
+
+Asterisk: обратный вызов с использованием AMI | https://habrahabr.ru/company/southbridge/blog/161521/
+
+Реализация резервирования сервера Asterisk | https://habrahabr.ru/post/160521/
+
+Сам себе сотовый роуминг. Создание GSM гейта на asterisk + донгл от сотового оператора | https://habrahabr.ru/post/160299/
+
+Затачиваем Astesrisk для работы с BLF Cisco | https://habrahabr.ru/post/159783/
+
+Реальное применение WebRTC в сервисах IP-телефонии | https://habrahabr.ru/post/158543/
+
+Как сделать будильник при помощи Asterisk, FreeBSD и наличии небольшого количества свободного времени | https://habrahabr.ru/post/158327/
+
+Офисная телефония на Asterisk+FreePBX | https://habrahabr.ru/post/158057/
+
+Грабли, или 5 типичных ошибок настройки Asterisk | https://habrahabr.ru/post/157545/
+
+Индикация состояния абонента в очереди на телефоне с BLF кнопками | https://habrahabr.ru/post/157211/
+
+Отчет о пропущенных за день звонках на почту | https://habrahabr.ru/post/156751/
+
+Релиз 11-й версии Asterisk | https://habrahabr.ru/post/156653/
+
+Индикация работы режима DnD на BLF клавише в Asterisk | https://habrahabr.ru/post/155899/
+
+Расширяем возможности Asterisk, используя PHP | https://habrahabr.ru/post/155111/
+
+Отложенный вызов на Астериск | https://habrahabr.ru/post/154887/
+
+Настройка Asterisk 1.8 + FreePBX 2.10 с нуля | https://habrahabr.ru/post/154933/
+
+Опыт использования IP ATC Askozia в нашем офисе | https://habrahabr.ru/post/154533/
+
+Digium G100 / G200 E1/T1/PRI маршрутизатор | https://habrahabr.ru/post/152319/
+
+Автоматическая генерация Dial Patterns для Asterisk из DEF-кодов сотовых операторов | https://habrahabr.ru/post/151401/
+
+Генератор масок из интервалов DEF кодов для Asterisk | https://habrahabr.ru/post/150793/
+
+Попытка обойтись без регулярных выражений для номеров телефонов собственного региона | https://habrahabr.ru/post/148401/
+
+Switchvox Home — IP-АТС для очень малого бизнеса | https://habrahabr.ru/post/148031/
+
+Тестирование телефонов Digium с дистрибутивом AsteriskNow | https://habrahabr.ru/post/147253/
+
+Оценка работы операторов на Asterisk | https://habrahabr.ru/post/147122/
+
+Битва титанов FreeSwitch vs. Asterisk — Тест производительности | https://habrahabr.ru/post/145620/
+
+Астериск под реальной нагрузкой – распределённый отказоустоичивый колл-центр на >500 операторов | https://habrahabr.ru/post/145400/
+
+Безопасность в VoIP сетях | https://habrahabr.ru/post/145206/
+
+Защита Asterisk при атаке на номер 8-800 | https://habrahabr.ru/company/angels-it/blog/144039/
+
+Свободная библиотека для интеграции 1С и Asterisk | https://habrahabr.ru/post/143085/
+
+Мониторинг состояния Asterisk с помощью MonAst | https://habrahabr.ru/post/143053/
+
+Пример использования Custom Destination в FreePBX | https://habrahabr.ru/post/142895/
+
+Вариация на тему: прогноз погоды по телефону | https://habrahabr.ru/post/139656/
+
+SDK для связи Asterisk и 1С: Предприятие 8 | https://habrahabr.ru/post/137999/
+
+IP телефония в офисе | https://habrahabr.ru/post/130264/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 4 | https://habrahabr.ru/company/speechpro/blog/128898/
+
+Подключение зашифрованных разделов TrueCrypt с помощью сервера IP-телефонии Asterisk | https://habrahabr.ru/post/127997/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 3 | https://habrahabr.ru/company/speechpro/blog/125512/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 2 | https://habrahabr.ru/company/speechpro/blog/125147/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 1 | https://habrahabr.ru/company/speechpro/blog/124946/
+
+Asterisk, или домашняя телефония для (про)двинутых пользователей | https://habrahabr.ru/post/104026/
+

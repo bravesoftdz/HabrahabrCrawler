@@ -1,0 +1,38 @@
+HEIF — новый стандартный формат хранения изображений в iOS и MacOS | https://habrahabr.ru/post/341392/
+
+Инструкция как скомпилировать динамический модуль ngx_pagespeed для Nginx на Debian | https://habrahabr.ru/post/339896/
+
+Резервное копирование для Zimbra Collaboration Suite | https://habrahabr.ru/company/zimbra/blog/338276/
+
+Нам нечего скрывать – все честно в HPE 3PAR Data Reduction Guarantee | https://habrahabr.ru/company/hpe/blog/337636/
+
+Укрощаем мультимедиа с помощью ffmpeg | https://habrahabr.ru/post/333664/
+
+Время чудес, или Тормоза для конца света | https://habrahabr.ru/company/technoserv/blog/333602/
+
+Сжатие фотографий без видимой потери качества: опыт Yelp | https://habrahabr.ru/post/331588/
+
+Тест Lossless-оптимизаторов изображений (PNG и JPG) | https://habrahabr.ru/post/326122/
+
+«Меньше некуда»: ученые из IBM сохранили информацию в атоме | https://habrahabr.ru/company/vasexperts/blog/321118/
+
+Почему февральское обновление HPE 3PAR StoreServ – самое важное с момента запуска линейки | https://habrahabr.ru/company/hpe/blog/323398/
+
+«Флеш всему голова»: IBM анонсировала линейку массивов хранения данных для облака | https://habrahabr.ru/company/1cloud/blog/319714/
+
+Год без единого байта | https://habrahabr.ru/post/319570/
+
+Резервное копирование с помощью Commvault: немного статистики и кейсов | https://habrahabr.ru/company/dataline/blog/318188/
+
+8 мифов о дедупликации | https://habrahabr.ru/company/hpe/blog/311296/
+
+«Работа с микроскопом»: Революция в области хранения данных | https://habrahabr.ru/company/1cloud/blog/306806/
+
+Bash скрипт для создания архива данных | https://habrahabr.ru/post/266597/
+
+xz — сила сжатия LZMA уже в твоей консоли | https://habrahabr.ru/post/101953/
+
+Пользователи и сжатие данных | https://habrahabr.ru/post/74023/
+
+Видеоподкастерам на заметку: создавайте FLV самостоятельно | https://habrahabr.ru/post/54718/
+

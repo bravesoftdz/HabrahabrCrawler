@@ -1,0 +1,622 @@
+Oracle Open World 2017: анонсы «Автономного AI» | https://habrahabr.ru/company/muk/blog/344230/
+
+Два года успешного использования Edition-Based Redefiniton в базах Oracle | https://habrahabr.ru/company/qiwi/blog/343782/
+
+Как SAP тихо изменила стратегию для HANA и Oracle | https://habrahabr.ru/post/343042/
+
+Пошаговое руководство работы с Antlr4 с Maven проектом для Java через Intellij Idea | https://habrahabr.ru/post/341138/
+
+«В активном поиске»: как мы выбирали поисковый механизм для DLP-системы | https://habrahabr.ru/company/solarsecurity/blog/340874/
+
+Полезные скрипты при миграции из Oracle в PostgreSQL | https://habrahabr.ru/post/340566/
+
+Отладка PL/SQL кода для внешней сессии БД | https://habrahabr.ru/post/339122/
+
+Профилирование PL/SQL кода при помощи IDE PL/SQL Developer | https://habrahabr.ru/post/339108/
+
+Liquibase: пример автоматизированного наката изменений на реляционную БД | https://habrahabr.ru/post/339084/
+
+Аналитика в госсекторе: особенности больших систем хранения данных | https://habrahabr.ru/post/338908/
+
+Анатомия распределённых бизнес-процессов: Oracle SOA и BPM | https://habrahabr.ru/company/jetinfosystems/blog/338786/
+
+Padding Oracle Attack: криптография по-прежнему пугает | https://habrahabr.ru/post/338072/
+
+Подход к разделению схем (пользователей) при проектировании OLTP баз данных | https://habrahabr.ru/post/337994/
+
+Компания Oracle передаст проект Java EE в руки сообщества Eclipse Foundation | https://habrahabr.ru/post/337812/
+
+Dive into BerkeleyDB JE. Introduction to Collections API | https://habrahabr.ru/post/337024/
+
+Использование Graphviz для построения блок-схем | https://habrahabr.ru/post/337078/
+
+Dive into BerkeleyDB JE. Introduction to DPL API | https://habrahabr.ru/post/336098/
+
+Сопоставление типов данных Oracle с PostgreSQL | https://habrahabr.ru/post/335716/
+
+Visual Plugin Pack в OBIEE: с чем его едят и как готовят | https://habrahabr.ru/company/jetinfosystems/blog/335082/
+
+Сравнение* древовидных графов | https://habrahabr.ru/post/334384/
+
+Oracle Data Integrator. SubstitutionAPI: Порядок выполнения подстановок. Часть 2 | https://habrahabr.ru/company/raiffeisenbank/blog/332738/
+
+Oracle Data Integrator. SubstitutionAPI: Порядок выполнения подстановок. Часть 1 | https://habrahabr.ru/company/raiffeisenbank/blog/332682/
+
+Повышаем качество данных с Oracle Enterprise Data Quality | https://habrahabr.ru/company/jetinfosystems/blog/332024/
+
+«Технологический центр Дойче Банка — это структура для IT-поддержки глобального бизнеса банка» — Александр Халухин | https://habrahabr.ru/company/pgdayrussia/blog/331150/
+
+От Oracle Database 12c EE к PostgreSQL, или основные отличия PostgreSQL при разработке под IEM-платформу Ultimate | https://habrahabr.ru/company/ultima/blog/329676/
+
+Жизнь Oracle I/O: трассировка логического и физического ввода-вывода с помощью SystemTap | https://habrahabr.ru/company/pgdayrussia/blog/331324/
+
+20 бесплатных утилит и 89 скриптов для мониторинга и управления базами данных | https://habrahabr.ru/post/330106/
+
+SystemTap в Oracle | https://habrahabr.ru/company/pgdayrussia/blog/330024/
+
+Механизм подсчета нейронной сети в PL/SQL для распознавания рукописных цифр | https://habrahabr.ru/company/pgdayrussia/blog/328824/
+
+Митап по SQL Server: ждём только вас | https://habrahabr.ru/company/lanit/blog/328692/
+
+Выходим на уровень эксперта! 50 оттенков экзамена 1Z0-047 (сертификация Oracle Database SQL Certified Expert) | https://habrahabr.ru/post/327012/
+
+Экстремальная миграция на PostgreSQL: без остановки, потерь и тестирования | https://habrahabr.ru/company/yamoney/blog/326998/
+
+Data Visualization: Data Discovery от Oracle BI | https://habrahabr.ru/company/jetinfosystems/blog/326338/
+
+Замена Oracle на PostgreSQL и возможности работы с секционированием внутри DLP-системы | https://habrahabr.ru/company/solarsecurity/blog/324242/
+
+История успеха «Яндекс.Почты» с PostgreSQL | https://habrahabr.ru/post/321756/
+
+Сравнение производительности аналитических СУБД HPE Vertica и Exasol с использованием TPC-H Benchmark | https://habrahabr.ru/post/319902/
+
+Oracle APEX: Interactive Report with Checkboxes | https://habrahabr.ru/post/319258/
+
+Сравнение производительности аналитической СУБД Exasol и Oracle In-Memory Option | https://habrahabr.ru/post/318416/
+
+История СУБД Oracle — первой коммерчески успешной реляционной СУБД | https://habrahabr.ru/post/318234/
+
+Тестирование производительности Oracle In-Memory Option c использованием TPC-H Benchmark | https://habrahabr.ru/post/317774/
+
+Представление данных SAP R/3 в Oracle Database с помощью SAP Java Connector | https://habrahabr.ru/post/315108/
+
+Анализируем производительность сервера Oracle SPARC T7-2 | https://habrahabr.ru/company/jetinfosystems/blog/314810/
+
+История языков программирования: SQL- стандартизация длиною в жизнь | https://habrahabr.ru/post/311288/
+
+Применяем Check Knowledge Module (CKM) в проектах на базе Oracle Data Integrator | https://habrahabr.ru/company/jetinfosystems/blog/312190/
+
+Виртуализация на Oracle SPARC T7-2 – результаты наших тестов | https://habrahabr.ru/company/jetinfosystems/blog/311016/
+
+Вы не любите триггеры? | https://habrahabr.ru/post/310040/
+
+Разработка мобильной 2D-игры «Составь слова из слова» | https://habrahabr.ru/post/309800/
+
+Специализация Oracle: Учебный центр МУК представляет авторизованное обучение Oracle University | https://habrahabr.ru/company/muk/blog/308768/
+
+Аппаратное ускорение корпоративных вычислений | https://habrahabr.ru/company/jetinfosystems/blog/307862/
+
+Как мы NoSQL в «реляционку» реплицировали | https://habrahabr.ru/company/rencredit/blog/306954/
+
+Oracle, обход мутирующих таблиц | https://habrahabr.ru/post/306280/
+
+Приглашение на вебинар «Автоматизация сквозных бизнес-процессов на платформе Oracle BPМ» | https://habrahabr.ru/company/oracle/blog/305420/
+
+TDD для хранимых процедур Oracle | https://habrahabr.ru/post/304888/
+
+Oracle прекратила разработку Java EE? | https://habrahabr.ru/post/304812/
+
+Identity Cloud Services — новое поколение идентификационных сервисов | https://habrahabr.ru/company/oracle/blog/304700/
+
+Облачные сервисы Oracle для ИТ-мониторинга | https://habrahabr.ru/company/oracle/blog/303692/
+
+Как sql-запросом извлечь из базы данных информацию, которой там нет | https://habrahabr.ru/post/303364/
+
+Бесплатный вебинар «Сервер приложений WebLogic 12.2: мультиарендность, высокая доступность, Docker-контейнеры» | https://habrahabr.ru/company/oracle/blog/303068/
+
+Архивация данных DOS-приложения в связи с завершением жизненного цикла | https://habrahabr.ru/post/268649/
+
+Как выгрузить логически согласованый набор данных из нескольких таблиц в БД под OLTP нагрузкой | https://habrahabr.ru/post/302336/
+
+Семинар «Oracle в «облаке» и экскурсия по одному из крупнейших дата-центров России NORD 4, 26 мая, г. Москва | https://habrahabr.ru/company/dataline/blog/301474/
+
+Обзор облачных решений Oracle | https://habrahabr.ru/company/muk/blog/282614/
+
+Сложное ограничение целостности (constraint) — 2 | https://habrahabr.ru/post/282335/
+
+Oracle PaaS — облачная платформа настоящего и будущего | https://habrahabr.ru/company/oracle/blog/281615/
+
+Облачный мир Oracle Database 12c | https://habrahabr.ru/company/oracle/blog/281198/
+
+Сложное ограничение целостности (constraint) | https://habrahabr.ru/post/280834/
+
+Изменение исходников ( DDL ) на лету | https://habrahabr.ru/post/280648/
+
+Серверы Oracle SPARC T7 и M7 — новая платформа для защищенных вычислений | https://habrahabr.ru/company/oracle/blog/280077/
+
+Новые возможности Oracle Database 12.1.0.2 | https://habrahabr.ru/company/oracle/blog/279333/
+
+Свежий взгляд на код Oracle VM VirtualBox | https://habrahabr.ru/company/pvs-studio/blog/278959/
+
+HTML и CSS в Oracle Application Express. Часть 1 | https://habrahabr.ru/post/278671/
+
+Сложные аппаратные узлы, одновременное параллельное выполнение и время работы ядра/системы | https://habrahabr.ru/company/luxoft/blog/278545/
+
+Oracle IaaS и PaaS — все для вас | https://habrahabr.ru/company/oracle/blog/278347/
+
+Symantec Backup Exec: восстановление Oracle, установленного на Linux | https://habrahabr.ru/post/277425/
+
+Версионирование базы данных на лету | https://habrahabr.ru/post/277359/
+
+Работа над ошибками аппаратуры на стороне SQL сервера и пользе нагрузочных тестов | https://habrahabr.ru/post/276835/
+
+Oracle станет участником презентации программы «Единая фронтальная система» | https://habrahabr.ru/company/oracle/blog/276461/
+
+Обработка запросов в Oracle и PostgreSQL: следствия одного решения | https://habrahabr.ru/company/postgrespro/blog/275755/
+
+Сессия устранения неполадок в Oracle для продвинутых пользователей – фрагментация памяти PGA/UGA | https://habrahabr.ru/company/luxoft/blog/275901/
+
+Создаем плагин региона для Oracle Application Express | https://habrahabr.ru/post/275619/
+
+Symantec Backup Exec: резервное копирование Oracle, установленного на Linux | https://habrahabr.ru/post/275449/
+
+Что нам стоит КИС построить: собираем xRM на конвейере | https://habrahabr.ru/company/iladaruli24/blog/274933/
+
+Как мигрировать в Oracle Java Cloud за 1,5 часа? | https://habrahabr.ru/company/oracle/blog/274319/
+
+Oracle Database 12c: настройка производительности | https://habrahabr.ru/company/oracle/blog/273435/
+
+7 ошибок ETL-разработчика | https://habrahabr.ru/post/273243/
+
+Sublime text для PL/SQL разработчика | https://habrahabr.ru/post/272155/
+
+Кадры высокого полета — облачный HR и большие данные | https://habrahabr.ru/company/oracle/blog/271107/
+
+Параллельная обработка большого селекта в нескольких сессиях | https://habrahabr.ru/company/oda/blog/269693/
+
+Настраиваем связку Apache Zeppelin + Oracle | https://habrahabr.ru/company/jetinfosystems/blog/269769/
+
+Ускоряем OSB | https://habrahabr.ru/company/jetinfosystems/blog/269649/
+
+Регулярные выражения Oracle. Опасный диапазон | https://habrahabr.ru/post/269387/
+
+Oracle, типичные задачи SQL. Гарантированный выбор | https://habrahabr.ru/post/269281/
+
+Знай своего потребителя, или Отраслевые решения Oracle | https://habrahabr.ru/company/oracle/blog/269225/
+
+Oracle, типичные задачи SQL. Трансформация перечисленных в колонке значений в строки таблицы | https://habrahabr.ru/post/269215/
+
+Oracle, типичные задачи SQL. Размножение строк таблицы в зависимости от значения числа в колонке | https://habrahabr.ru/post/269173/
+
+Подготовка и запуск маркетинговой кампании по рассылке Email в Siebel CRM | https://habrahabr.ru/company/jetinfosystems/blog/268725/
+
+Oracle Database Developer Choice Awards | https://habrahabr.ru/post/268391/
+
+Пора. Обновление до Oracle Database 12 | https://habrahabr.ru/company/oracle/blog/268089/
+
+Программно-аппаратные комплексы Oracle — открываем тему | https://habrahabr.ru/company/oracle/blog/267709/
+
+История о чертовых дублях | https://habrahabr.ru/company/jetinfosystems/blog/267067/
+
+Private Cloud Appliance — лучшая система виртуализации и частного облака для центров обработки данных | https://habrahabr.ru/company/oracle/blog/267039/
+
+Настройка Siebel Email Marketing Server | https://habrahabr.ru/company/jetinfosystems/blog/266799/
+
+Подняться в облака — чтобы не зарывать в землю | https://habrahabr.ru/company/oracle/blog/265863/
+
+Звезда TMS | https://habrahabr.ru/company/oracle/blog/265207/
+
+Tutorial: присваиваем название процессу, исполняемому внутри SOA SUITE | https://habrahabr.ru/company/moex/blog/264303/
+
+Инкрементально обновляемый бэкап как стратегия резервного копирования СУБД | https://habrahabr.ru/post/264571/
+
+Неприкасаемый Oracle | https://habrahabr.ru/company/dsec/blog/264581/
+
+Oracle Exadata, или  О пользе engineered systems (часть 2) | https://habrahabr.ru/company/oracle/blog/264221/
+
+Создание Excel файла из селекта с параметрами при помощи чистого PL/SQL | https://habrahabr.ru/company/oda/blog/264171/
+
+Oracle Exadata, или  О пользе engineered systems (часть 1) | https://habrahabr.ru/company/oracle/blog/263633/
+
+Строим инфраструктуру Oracle Data Guard 12c из Oracle RAC баз данных с использованием Far Sync | https://habrahabr.ru/post/263723/
+
+Облачно, возможны базы данных по требованию | https://habrahabr.ru/company/oracle/blog/263485/
+
+Исследование Oracle Form при помощи Java Development API(JDAPI) | https://habrahabr.ru/post/263675/
+
+Создание Excel файла из селекта с параметрами при помощи чистого PL/SQL, как альтернатива Oracle*Reports | https://habrahabr.ru/company/oda/blog/263323/
+
+FS1 — большая умная флэшка от Oracle | https://habrahabr.ru/company/oracle/blog/262899/
+
+Защита корпоративной информации на мобильных устройствах с Oracle Mobile Security Suite | https://habrahabr.ru/company/oracle/blog/262557/
+
+Миграция данных из Oracle в PostgreSQL | https://habrahabr.ru/company/custis/blog/262605/
+
+Сравнение скорости .NET провайдеров для работы с Oracle DB | https://habrahabr.ru/post/261463/
+
+Бесплатный веб-семинар «Выбор информационной системы класса Transportation Management Systems» | https://habrahabr.ru/company/oracle/blog/261395/
+
+Веб-семинар «Новые возможности сервера приложений WebLogic 12c» | https://habrahabr.ru/company/oracle/blog/261311/
+
+Oracle Database In-Memory | https://habrahabr.ru/company/jetinfosystems/blog/260455/
+
+Опыт использования Object Change Notification в Oracle | https://habrahabr.ru/post/260407/
+
+Как организовать взаимодействие процессов в Oracle BPM | https://habrahabr.ru/company/oracle/blog/259391/
+
+Запускаем BIGIP Trial Edition под Oracle VirtualBox | https://habrahabr.ru/post/259103/
+
+Чтение 64-битных целых чисел из Oracle на OCCI (MSVC) | https://habrahabr.ru/post/259015/
+
+20 и другие цифры | https://habrahabr.ru/company/oracle/blog/258989/
+
+Как перестать беспокоиться о резервном копировании, или Oracle Zero Data Loss Recovery Appliance | https://habrahabr.ru/company/oracle/blog/258323/
+
+Как мы работаем со справочниками на интеграционной шине | https://habrahabr.ru/post/257925/
+
+Такое не забывается — Oracle Database In-Memory | https://habrahabr.ru/company/oracle/blog/257745/
+
+Реализация событийного механизма в Oracle BPM | https://habrahabr.ru/company/oracle/blog/257723/
+
+Атака на оракула. Подробный гайд по векторам атак на Oracle DB | https://habrahabr.ru/company/xakep/blog/256663/
+
+Все о триггерах в Oracle | https://habrahabr.ru/post/256655/
+
+В поисках несуществующего времени | https://habrahabr.ru/post/255129/
+
+Все о коллекциях в Oracle | https://habrahabr.ru/post/254355/
+
+Автоматизация финансовой отчетности | https://habrahabr.ru/post/252817/
+
+Из Oracle да в Postgres | https://habrahabr.ru/post/216057/
+
+APEX: Почему использование HTML в составе SQL-запросов для Interactive Report может быть опасно? | https://habrahabr.ru/post/249341/
+
+Опубликован официальный Node.JS-драйвер для базы данных Oracle | https://habrahabr.ru/post/249379/
+
+Oracle join elimination | https://habrahabr.ru/post/248817/
+
+Кластеризация данных СУБД Oracle вне кластерной таблицы | https://habrahabr.ru/company/billing/blog/196420/
+
+Диагностика проблем после инсталляции или апгрейда ORACLE APEX | https://habrahabr.ru/post/245777/
+
+ASH Viewer | https://habrahabr.ru/company/jetinfosystems/blog/245507/
+
+Partition Option & Oracle Server SE One | https://habrahabr.ru/company/billing/blog/245337/
+
+Oracle, SQL*Net или ORDER BY экономит сетевые ресурсы… | https://habrahabr.ru/company/billing/blog/245123/
+
+Об Oracle Coherence по-русски: Зачем он нужен? | https://habrahabr.ru/post/245057/
+
+Oracle PL/SQL. Для профессионалов. 6-е изд | https://habrahabr.ru/company/piter/blog/244771/
+
+DEV Labs 2014 — онлайн конференция для Oracle разработчиков | https://habrahabr.ru/company/luxoft/blog/243197/
+
+Мегатонны макулатуры легким движением руки | https://habrahabr.ru/company/ultima/blog/242595/
+
+Краткий обзор новых возможностей JPA-RS в EclipseLink | https://habrahabr.ru/post/240769/
+
+Переход с ODAC 10 на ODAC 12 | https://habrahabr.ru/post/240427/
+
+Как я писал свой «велосипед» для ротирования таблиц в Oracle и Postgre | https://habrahabr.ru/post/240061/
+
+PL/SQL через dblink | https://habrahabr.ru/post/239397/
+
+Настройка двухсторонней синхронизации БД Oracle (Oracle Streams) | https://habrahabr.ru/post/238521/
+
+С чего начинается дружба с Active Directory | https://habrahabr.ru/post/238075/
+
+Автоматизация бизнес-процессов по работе с картами лояльности | https://habrahabr.ru/company/jetinfosystems/blog/237675/
+
+Недостатки RDBMS или RDBMS vs NoSQL | https://habrahabr.ru/post/236523/
+
+Oracle vs Teradata vs Hadoop | https://habrahabr.ru/post/235465/
+
+Интеграция Raspberry Pi с NetBeans 8.0 | https://habrahabr.ru/post/219191/
+
+Как отобразить 350 миллионов строк из базы данных на Web-форме | https://habrahabr.ru/post/234413/
+
+Приемы работы с планами выполнения запросов в Oracle | https://habrahabr.ru/company/delphi/blog/234247/
+
+How-to: Разворачиваем Oracle Real Application Cluster 11g на VirtualBox | https://habrahabr.ru/post/233801/
+
+Задача о восьми Ферзях на Oracle SQL (другое решение) | https://habrahabr.ru/post/228373/
+
+Компания Oracle представила Solaris 11.2 Beta | https://habrahabr.ru/post/224393/
+
+PL/SQL решение для работы с Веб-Службами | https://habrahabr.ru/post/223405/
+
+«Dense_rank()» vs «Max()» или расследование с неожиданным концом | https://habrahabr.ru/post/220455/
+
+Преимущество новой конфигурации DELL PE R920 c SSDs на NVME EXPRESS FLASH PCIE | https://habrahabr.ru/post/219811/
+
+Работа с DB Oracle из Xcode | https://habrahabr.ru/post/217397/
+
+Oracle Database Appliance – обзор после опыта использования | https://habrahabr.ru/post/217027/
+
+Денормализация деревьев | https://habrahabr.ru/post/212847/
+
+Хранимые функции. За и против | https://habrahabr.ru/post/210920/
+
+Intellij IDEA: Oracle Cloud Integration | https://habrahabr.ru/post/207924/
+
+Oracle Business Intelligence — обзор | https://habrahabr.ru/post/207926/
+
+Хитрые задачи по Java | https://habrahabr.ru/post/203796/
+
+Именование объектов в Oracle. Взгляд «со стороны» | https://habrahabr.ru/post/207102/
+
+А у вас тоже 50% маркетинговых акций играют в минус по продажам? | https://habrahabr.ru/company/croc/blog/202240/
+
+Мануал по сертификации Oracle | https://habrahabr.ru/post/201662/
+
+Загружаем в Oracle данные SNMP-мониторинга | https://habrahabr.ru/post/199518/
+
+Быстрая компиляция большого количества инвалидных объектов в БД | https://habrahabr.ru/post/199088/
+
+Раздуваем таблицы и пожираем tablespaces | https://habrahabr.ru/post/198606/
+
+Java Stored Procedure в субд Oracle на примере формирования PDF-файла | https://habrahabr.ru/post/197940/
+
+Что я не ожидал увидеть в тесте Java Programmer I (1Z0-803) | https://habrahabr.ru/post/197694/
+
+Загружаем данные в Oracle | https://habrahabr.ru/post/196828/
+
+Использование Oracle RESULT_CACHE  «не по прямому назначению» | https://habrahabr.ru/post/196360/
+
+Oracle 12c. Новые фичи приносят новые подводные камни | https://habrahabr.ru/post/196350/
+
+Простой парсер JSON на PL/SQL | https://habrahabr.ru/post/195496/
+
+Команда Ларри Эллисона Oracle Team USA выиграла «Кубок Америки» | https://habrahabr.ru/company/apps4all/blog/195476/
+
+DEV Labs 2013. Онлайн конференция по программным продуктам Oracle | https://habrahabr.ru/company/luxoft/blog/195186/
+
+Сломается ли база, если выдернуть сервер из розетки, или потроха DB ORACLE для чайников | https://habrahabr.ru/post/164447/
+
+Oracle WebLogic Server, Oracle Database 12c, Oracle Linux официально доступны в Windows Azure | https://habrahabr.ru/company/microsoft/blog/194946/
+
+Решение японских кроссвордов одним запросом SQL | https://habrahabr.ru/post/192752/
+
+Выполнение внешнего файла из БД Oracle с целью получения информации о дисковом пространстве | https://habrahabr.ru/post/191870/
+
+Методы доступа к данным в Oracle | https://habrahabr.ru/post/189574/
+
+Oracle 12c. Продолжаем обзоры новых возможностей. SQL Text expansion | https://habrahabr.ru/post/189544/
+
+«Mальчики — налево, девочки — направо», или добавляем поле «Gender» в БД Oracle | https://habrahabr.ru/post/188358/
+
+ODP.NET, Managed Driver: что день грядущий нам готовит | https://habrahabr.ru/post/186850/
+
+Краткий список нововведений в Oracle 12c | https://habrahabr.ru/post/186268/
+
+(Видео) Демонстрации на стенде: Oracle Exalytics | https://habrahabr.ru/company/muk/blog/185948/
+
+Oracle Label Security. Первое знакомство | https://habrahabr.ru/post/185946/
+
+Oracle 12c Data Redaction. Сокрытие информации от непривилегированных пользователей | https://habrahabr.ru/post/185768/
+
+Oracle 12c Multitenant Architecture. Новые возможности для разработки и тестирования | https://habrahabr.ru/post/185564/
+
+Сборка CLDC HotSpot Implementation для ARM | https://habrahabr.ru/post/184952/
+
+JavaOpen и JavaDay в Самаре | https://habrahabr.ru/post/184996/
+
+Партнерство Oracle и Microsoft: Oracle Database, WebLogic Server, Oracle Linux и Java в облаке Windows Azure | https://habrahabr.ru/company/microsoft/blog/184686/
+
+Партнёрство Oracle и Microsoft в сфере облачных технологий | https://habrahabr.ru/post/184522/
+
+Размышления основателя MySQL о развитии проекта под крылом Oracle и о экономике открытых продуктов | https://habrahabr.ru/post/184318/
+
+Слияние дубликатов в Oracle | https://habrahabr.ru/post/181378/
+
+Oracle ADF. Business Components | https://habrahabr.ru/post/173059/
+
+Получение серификата Oracle Certified Java Professional Programmer и о сертификации в целом | https://habrahabr.ru/post/172819/
+
+JDeveloper 11g Работа с Bounded Task Flows, Regions и Routers на русском | https://habrahabr.ru/post/172907/
+
+JDeveloper 11g Разработка Веб-Приложений с Oracle ADF на русском | https://habrahabr.ru/post/172701/
+
+Установка СУБД ORACLE 11gR2 на отдельно стоящий сервер под управлением ОС ORACLE Linux 6 | https://habrahabr.ru/post/172513/
+
+Oracle ADF (Application Development Framework) | https://habrahabr.ru/post/172123/
+
+Анонсирован стабильный релиз MySQL 5.6 | https://habrahabr.ru/post/168441/
+
+Особености использования ролей с аутентификацией в Oracle начиная с 10.2.0.5 | https://habrahabr.ru/post/166367/
+
+Сервис-ориентированная технология или небольшая вводная ориентировка в мире SOA | https://habrahabr.ru/post/164909/
+
+Решение рекурсивной логической головоломки на Oracle SQL | https://habrahabr.ru/post/163975/
+
+Нюансы установки Oracle 10g RAC на SUSE 11 | https://habrahabr.ru/post/163919/
+
+20 декабря бесплатный Webcast – обновление Oracle Exadata X3 Database In-Memory Machine | https://habrahabr.ru/company/muk/blog/163157/
+
+Скриптинг для бюджетной активации (часть 1) | https://habrahabr.ru/post/162865/
+
+Восстановление битых блоков в Oracle — LOB сегмент | https://habrahabr.ru/post/162319/
+
+Часть 2. Как установить Oracle Database 11g Release 2 RAC на Linux используя VirtualBox – поднимаем кластер | https://habrahabr.ru/post/162277/
+
+Часть 1. Как установить Oracle Database 11g Release 2 RAC на Linux используя VirtualBox – первый шаг к кластеризации | https://habrahabr.ru/post/162147/
+
+Oracle, как религия | https://habrahabr.ru/post/160423/
+
+Oracle security policies | https://habrahabr.ru/post/159413/
+
+Вызов 32-bit внешних процедур из PL/SQL на Oracle 11g R2 64-bit | https://habrahabr.ru/post/158035/
+
+Подготовка к OCEJPAD 6 | https://habrahabr.ru/post/157579/
+
+Все, что хотели знать о сдаче экзамена Java Programmer I (1Z0-803) в Киеве, но боялись спросить | https://habrahabr.ru/post/157165/
+
+Групповой искусственный интеллект для роботов-штабелеров на Oracle SQL XE | https://habrahabr.ru/post/155303/
+
+Как избавиться от ORA-01410, вычленив неповрежденные данные | https://habrahabr.ru/post/155075/
+
+Приглашаем на конференцию МУК, Oracle и Siemens — участие бесплатное | https://habrahabr.ru/company/muk/blog/154559/
+
+Поддержка платформы Mac OS 10.8 в новой версии Oracle VM VirtualBox | https://habrahabr.ru/post/153545/
+
+Транспортируемые табличные пространства в Oracle 11g | https://habrahabr.ru/post/148535/
+
+Host и Request_Uri в списке сессий Oracle | https://habrahabr.ru/post/150542/
+
+Вызов shell из Oracle альтернативный метод | https://habrahabr.ru/post/150081/
+
+Вызов shell из Oracle | https://habrahabr.ru/post/149956/
+
+Oracle закручивает гайки | https://habrahabr.ru/post/149905/
+
+PostgreSQL vs Oracle | https://habrahabr.ru/post/149238/
+
+Что происходит с Oracle? | https://habrahabr.ru/post/148990/
+
+Приглашаем потестить единственное в Украине решение Оracle Database Appliance | https://habrahabr.ru/company/muk/blog/148608/
+
+Скрипт для сравнения двух БД Oracle | https://habrahabr.ru/post/148604/
+
+Oracle покупает компанию Skire | https://habrahabr.ru/post/148193/
+
+Так что же случилось со Сбербанком? | https://habrahabr.ru/post/148102/
+
+XLS Templates в Oracle BI Publisher (XML Publisher) | https://habrahabr.ru/post/148041/
+
+Сбербанк ищет добровольцев | https://habrahabr.ru/post/147813/
+
+NHibernate: маленькая хитрость при работе с Oracle или PostgreSQL | https://habrahabr.ru/post/147450/
+
+Делаем oracle deploy-скрипт независимым от окружения | https://habrahabr.ru/post/147371/
+
+Google требует от Oracle компенсации издержек $4 млн | https://habrahabr.ru/post/147312/
+
+Ларри Эллисон приобретает остров на Гавайях | https://habrahabr.ru/post/146230/
+
+Метрики Хранилища Данных | https://habrahabr.ru/post/144568/
+
+Oracle vs Google: сводки с фронтов | https://habrahabr.ru/post/144429/
+
+Решение суда: Google не нарушает патентов Oracle | https://habrahabr.ru/post/144422/
+
+Установка Oracle 10g на CentOS 6.2 x64 | https://habrahabr.ru/post/144403/
+
+Аналитики не видят признаков скорого восстановления hardware-бизнеса Oracle | https://habrahabr.ru/post/144163/
+
+Программирование, как мы его знаем, подходит к концу | https://habrahabr.ru/post/143173/
+
+Судебное разбирательство между Google и Oracle: анализируется происхождение нескольких строк кода | https://habrahabr.ru/post/142499/
+
+Мой способ резервного копирования БД Oracle на Windows | https://habrahabr.ru/post/142390/
+
+Наболевшее об исходном коде объектов БД | https://habrahabr.ru/post/142255/
+
+Мониторинг использования индексов в планах запросов в Oracle 10g | https://habrahabr.ru/post/138703/
+
+Контроль роста размера базы данных Oracle | https://habrahabr.ru/post/138270/
+
+EnterpriseDB: мы заберём «свой кусок пирога» рынка СУБД у Oracle! | https://habrahabr.ru/post/137183/
+
+Как запустить скрипт операционной системы из Oracle или Не совсем традиционный способ снятия бэкапа | https://habrahabr.ru/post/136423/
+
+Пара слов про установку Oracle на Ubuntu | https://habrahabr.ru/post/135461/
+
+Материализованные представления, как средство контроля целостности данных | https://habrahabr.ru/post/132727/
+
+Online redo logs или Событие контрольной точки в Oracle | https://habrahabr.ru/post/132107/
+
+Как я спам слал | https://habrahabr.ru/post/130105/
+
+Разбираем XML средствами Oracle database | https://habrahabr.ru/post/129018/
+
+Некоторые примеры нестандартных возможностей синтаксиса sql. Часть вторая: форматы дат | https://habrahabr.ru/post/128682/
+
+Некоторые примеры нестандартных возможностей синтаксиса Oracle SQL | https://habrahabr.ru/post/128369/
+
+Заметка про NULL | https://habrahabr.ru/post/127327/
+
+Представляем данные Lotus Domino в Oracle Database с помощью Oracle Data Cartridge Interface и Domino Java API | https://habrahabr.ru/post/127364/
+
+Получение нулевой статистической информации при отсутствии исходных данных | https://habrahabr.ru/post/127273/
+
+Особенности лицензирования и стандартной технической поддержки Oracle | https://habrahabr.ru/post/127063/
+
+Некоторые советы при работе с PLSQL | https://habrahabr.ru/post/125893/
+
+Интересная особенность Oracle SQL | https://habrahabr.ru/post/125840/
+
+Хорошие привычки в PL/SQL | https://habrahabr.ru/post/124948/
+
+Oracle покупают Ksplice, разработчика технологии «нулевого даунтайма» | https://habrahabr.ru/post/124690/
+
+Асинхронная репликация с помощью Oracle Streams | https://habrahabr.ru/post/123569/
+
+Физический Standby DB для Oracle SE | https://habrahabr.ru/post/124385/
+
+Знакомство с Oracle Siebel CRM | https://habrahabr.ru/post/123477/
+
+Oracle. Безопасность на уровне строк | https://habrahabr.ru/post/122784/
+
+Еще раз про Oracle standby | https://habrahabr.ru/post/120495/
+
+БД Oracle для программиста | https://habrahabr.ru/post/120003/
+
+Функции в Oracle, возвращающие таблицу | https://habrahabr.ru/post/119996/
+
+OpenOffice.org отдадут в руки сообщества | https://habrahabr.ru/post/117618/
+
+Database: просмотр Top Activity без Enterprise Manager | https://habrahabr.ru/post/116490/
+
+Oracle Essbase – Integration Services Обзор | https://habrahabr.ru/post/113768/
+
+Oracle Essbase 9 — установка и настройка | https://habrahabr.ru/post/113523/
+
+Olap сервер — Oracle Essbase | https://habrahabr.ru/post/113322/
+
+Hudson, Oracle и Jenkins: что это было? | https://habrahabr.ru/post/112922/
+
+Год с Ораклом | https://habrahabr.ru/post/112884/
+
+Логирование и откат правок | https://habrahabr.ru/post/107745/
+
+Oracle может купить AMD или Nvidia | https://habrahabr.ru/post/104884/
+
+Каким должен быть инсталлятор. Мастер-класс от Oracle | https://habrahabr.ru/post/104789/
+
+Важные изменения в Oracle Database Patch Sets начиная с 11.2.0.2 | https://habrahabr.ru/post/104099/
+
+Oracle BPEL — опыт использования в качестве workflow-движка | https://habrahabr.ru/post/102486/
+
+Google назвал иск Oracle безосновательным | https://habrahabr.ru/post/101756/
+
+Из-за Андроида Oracle подала в суд на Google | https://habrahabr.ru/post/101709/
+
+Версионность и история данных | https://habrahabr.ru/post/101544/
+
+Диалект Oracle SQL: Model в примерах. Часть 2 | https://habrahabr.ru/post/101301/
+
+Диалект Oracle SQL: Model в примерах. Часть 1 | https://habrahabr.ru/post/101003/
+
+Использование объектных представлений в СУБД Oracle | https://habrahabr.ru/post/100061/
+
+Функции Oracle 11g Pivot, Unpivot | https://habrahabr.ru/post/100798/
+
+Альтернативный вариант реализации взаимосвязи многие-ко-многим в Oracle | https://habrahabr.ru/post/100050/
+
+Инсталяция 10.2.0.1 x86_64 на CentOS 5.1 x86_64 | https://habrahabr.ru/post/80636/
+
+Oracle RAC. Общее описание / Часть 2 | https://habrahabr.ru/post/72121/
+
+Oracle RAC. Общее описание / Часть 1 | https://habrahabr.ru/post/72122/
+
+Интервью Ларри Элиссона о приобретении Sun. Часть первая | https://habrahabr.ru/post/59193/
+
+Кэширование на уровне пакета | https://habrahabr.ru/post/37027/
+
+Oracle Magazine RE теперь в PDF | https://habrahabr.ru/post/28799/
+
+Oracle 11g выйдет 11 июля | https://habrahabr.ru/post/10492/
+
+Oracle Application Server 10g Release 3 позволяет запускать приложения PHP и J2EE на одном сервере | https://habrahabr.ru/post/31094/
+

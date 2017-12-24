@@ -1,0 +1,96 @@
+Сдаем экзамен NS0-507 — NetApp Certified Implementation Engineer—SAN Specialist | https://habrahabr.ru/post/343938/
+
+Анализ утилизации СХД | https://habrahabr.ru/post/338438/
+
+Про МАССИВный ночник Pure Storage и счастливую пиарщицу | https://habrahabr.ru/company/jetinfosystems/blog/337142/
+
+Intel Optane SSD: возможности и преимущества | https://habrahabr.ru/company/selectel/blog/335652/
+
+Pure Storage: час //m настал | https://habrahabr.ru/company/jetinfosystems/blog/331682/
+
+FabricPool — технология экономии для All Flash хранилищ | https://habrahabr.ru/post/330526/
+
+ONTAP 9.2: новый функционал | https://habrahabr.ru/post/328444/
+
+Основные протоколы хранения: использование и перспективы | https://habrahabr.ru/company/raidix/blog/329472/
+
+VMware vSAN 6.6 ─ возможности нового релиза | https://habrahabr.ru/company/muk/blog/326870/
+
+Quadstor — производительность и надежность | https://habrahabr.ru/post/324598/
+
+Проверка Групп размещения (PG) Ceph на непротиворечивость в фоновом режиме и способы восстановления данных | https://habrahabr.ru/post/324472/
+
+Кластер хранилища Ceph на VMWare за 10 минут | https://habrahabr.ru/post/315646/
+
+Оптимизация OSD Ceph на SSD/ NVMe | https://habrahabr.ru/post/324020/
+
+Quadstor — виртуальный SAN для бюджетников | https://habrahabr.ru/post/323114/
+
+NetApp MetroCluster (MCC) | https://habrahabr.ru/post/279989/
+
+NetApp ONTAP & VMware vVOL | https://habrahabr.ru/post/321366/
+
+NetApp ONTAP: UNMAP в SAN окружении | https://habrahabr.ru/post/271959/
+
+Конспект админа: корпоративные SAN и самое главное в работе архитектора (обновлено) | https://habrahabr.ru/company/pc-administrator/blog/314374/
+
+Знакомство с хранилищем Ceph в картинках | https://habrahabr.ru/post/313644/
+
+Конспект админа: отличие микроскопа от молотка при построении SAN (обновлено) | https://habrahabr.ru/company/pc-administrator/blog/312648/
+
+DellEMC Unity 400F: небольшое тестирование | https://habrahabr.ru/post/312542/
+
+Новые системы хранения данных NetApp под управлением ONTAP 9.1 | https://habrahabr.ru/post/311236/
+
+Назад к истокам или шаг вперед? HPE StoreVirtual VSA | https://habrahabr.ru/post/308392/
+
+Как устроена память NetApp FAS: NVRAM, Кеш и Тетрис | https://habrahabr.ru/post/280616/
+
+NetApp AutoSupport On Demand | https://habrahabr.ru/post/280438/
+
+NetApp ONTAP: SnapMirror for SVM | https://habrahabr.ru/post/279911/
+
+SDS от NetApp: ONTAP Select | https://habrahabr.ru/post/303146/
+
+NetApp ONTAP c Veeam Backup & Replication | https://habrahabr.ru/post/279891/
+
+NetApp virtual storage appliance: Data ONTAP-v | https://habrahabr.ru/post/279875/
+
+NetApp Converged Infrastructure Storage. Предсказания 2016 | https://habrahabr.ru/post/279329/
+
+FlexPod Express: UCS-Managed конфигурация | https://habrahabr.ru/post/274015/
+
+FlexPod DataCenter: Direct-Attached Storage | https://habrahabr.ru/post/268995/
+
+Зачем обновляться до Data ONTAP Cluster Mode? | https://habrahabr.ru/post/270625/
+
+Data ONTAP 8.3 ADP: Root-Data Partitioning | https://habrahabr.ru/post/269635/
+
+non-FlexPod DC: Direct-Attached Storage, Поддержка «из одних рук» | https://habrahabr.ru/post/244623/
+
+Кластеризация СХД NetApp используя подручные свичи | https://habrahabr.ru/post/265763/
+
+Вывод систем хранения данных NetApp из кластера | https://habrahabr.ru/post/265855/
+
+Зонинг для кластерного хранилища в картинках | https://habrahabr.ru/post/260107/
+
+Импортозамещение Часть 2. Huawei OceanStor Family | https://habrahabr.ru/post/254593/
+
+Оценка влияния уровней Сache на производительность ввода/вывода в EMC VNX5400 | https://habrahabr.ru/post/245385/
+
+Настройка виртуальной инфраструктуры: оптимизация кластера VDI | https://habrahabr.ru/post/243413/
+
+Небольшая оценка влияния уровней Сache на производительность ввода/вывода в EMC VNXe3200 | https://habrahabr.ru/post/237993/
+
+По поводу появления 8 и 10Тб жёстких дисков | https://habrahabr.ru/post/236429/
+
+NetApp SnapManager for Oracle & SAN сеть | https://habrahabr.ru/post/230191/
+
+EMC XtremIO и VDI. Эффективная, но пока сырая штука | https://habrahabr.ru/post/228107/
+
+Как мы разворачивали Huawei MicroDC | https://habrahabr.ru/post/226661/
+
+Основы Fibre Channel | https://habrahabr.ru/post/216369/
+
+О SAN (Storage Area Network) на пальцах | https://habrahabr.ru/post/214289/
+

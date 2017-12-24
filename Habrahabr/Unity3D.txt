@@ -1,0 +1,1154 @@
+Виртуальные ядерные установки: полный цикл разработки для Oculus Rift в одном лице | https://habrahabr.ru/post/344570/
+
+Разработка инди-игры одним человеком (история, советы) | https://habrahabr.ru/post/344350/
+
+Жизнь в Unity Asset Store. Кратко | https://habrahabr.ru/post/344306/
+
+Готовимся к публикации игры в Xiaomi Mi Game Center (Unity, C#) | https://habrahabr.ru/post/344034/
+
+Дневник техлида: полгода разработки мобильного PvP | https://habrahabr.ru/company/pixonic/blog/343820/
+
+Игра на Unity, с открытым кодом | https://habrahabr.ru/post/343728/
+
+История создания второй игры на Unity (или как я нашел силы после первого провала) | https://habrahabr.ru/post/342884/
+
+WebGL: перевод игры с мобильной платформы на десктопную | https://habrahabr.ru/company/plarium/blog/343084/
+
+Знакомьтесь, NoteCAD | https://habrahabr.ru/post/341816/
+
+UniRx — Rx для Unity3d | https://habrahabr.ru/post/342660/
+
+Игра в разработке: Chronicles of cyberpunk — часть 2 | https://habrahabr.ru/post/342144/
+
+Удобное решение для игровой базы данных на основе EditorWindow | https://habrahabr.ru/post/342190/
+
+Как я перестал беспокоиться и начал резать прямоугольники в Unity правильно | https://habrahabr.ru/post/340858/
+
+UE4 для Unity разработчиков: создание 2D-игр | https://habrahabr.ru/company/mailru/blog/341828/
+
+Использование Singleton в Unity3D | https://habrahabr.ru/post/341830/
+
+Простой плагин для локализации приложений на Unity3D | https://habrahabr.ru/post/341744/
+
+С чего начать молодым разработчикам мобильных игр из России [Часть 4] | https://habrahabr.ru/post/341546/
+
+Пиксельное приключение: создаём клон Lemmings в Unity | https://habrahabr.ru/post/340660/
+
+Добавление рекордов с OAuth 2: Laravel Passport + Unity. Часть 2 | https://habrahabr.ru/post/340362/
+
+Надоело писать PropertyDrawer в Unity? Есть способ лучше | https://habrahabr.ru/post/340536/
+
+Как добавить информацию о переводах в сборку игры на Unity | https://habrahabr.ru/post/340408/
+
+От бесполезного хобби до фичеринга в Google Play | https://habrahabr.ru/post/339670/
+
+Разработка первой игры. Впечатления и работа над ошибками. Часть 1 | https://habrahabr.ru/post/339200/
+
+Как довести первый проект до конца. Часть 2. Мифы, ошибки и провалы | https://habrahabr.ru/post/339044/
+
+С чего начать молодым разработчикам мобильных игр из России [Часть 3] | https://habrahabr.ru/post/338242/
+
+Быстрый рендеринг океанских волн на мобильных устройствах | https://habrahabr.ru/company/simbirsoft/blog/336998/
+
+Быстрый шейдер для Subsurface Scattering в Unity | https://habrahabr.ru/post/337370/
+
+Unity 2017: обзор новых возможностей | https://habrahabr.ru/company/everydaytools/blog/336714/
+
+О том, как довести первый проект до конца | https://habrahabr.ru/post/336002/
+
+Настраиваем автоматическую сборку проекта Unity3d в Gitlab CI | https://habrahabr.ru/post/335980/
+
+Генерация лабиринта алгоритмом Эллера в Unity | https://habrahabr.ru/post/335974/
+
+Optimization Unity3d UI by GPU (for example minimap) или создаем миникарту без дополнительных камер и спрайтов | https://habrahabr.ru/post/335524/
+
+Уменьшение размера файла сборки Android в Unity | https://habrahabr.ru/post/335454/
+
+Игра-головоломка Neo Angle. Продолжение истории разработки и релиз в Appstore | https://habrahabr.ru/post/335058/
+
+Поворот на 180. Из CRM-систем в геймдев #1 | https://habrahabr.ru/post/334976/
+
+С чего начать молодым разработчикам мобильных игр из России в текущих реалиях | https://habrahabr.ru/post/334956/
+
+Как мы оптимизировали Ragdoll анимацию смерти в Unity | https://habrahabr.ru/post/334922/
+
+Лагерная игра «Мафия» на 50+ человек | https://habrahabr.ru/post/334450/
+
+Процедурная генерация в Distrust | https://habrahabr.ru/post/333692/
+
+Система перемотки времени в стиле Prince of Persia | https://habrahabr.ru/post/333594/
+
+«Хочешь сделать хорошо, сделай это сам» или как я делаю свою выживалку на Unity 3D и C# | https://habrahabr.ru/post/332960/
+
+5 бесплатных ассетов для Unity3D, которые облегчат процесс разработки | https://habrahabr.ru/company/everydaytools/blog/332172/
+
+Введение в процедурную анимацию: инверсная кинематика | https://habrahabr.ru/post/332198/
+
+Введение в процедурную анимацию | https://habrahabr.ru/post/332164/
+
+Усатый стрелок с полигональным пузом. Часть вторая | https://habrahabr.ru/post/326840/
+
+Создание шейдерного эффекта 3D-принтера | https://habrahabr.ru/post/331576/
+
+Усатый стрелок из двадцати трёх полигонов | https://habrahabr.ru/post/322262/
+
+Google Play и 2K установок в сутки без денежных вложений (+ статистика и доходы) | https://habrahabr.ru/post/331294/
+
+История создания одной игры, или Все, что нас не убивает, делает нас сильнее | https://habrahabr.ru/post/331140/
+
+Лайфхаки редактора Unity 3D. Часть 1: Атрибуты | https://habrahabr.ru/post/331042/
+
+Топ 15 бесплатных Unity ассетов для начинающего 2D разработчика | https://habrahabr.ru/company/everydaytools/blog/330848/
+
+Видео: инди-разработчики о провалах, успехе и монетизации | https://habrahabr.ru/company/appodeal/blog/330354/
+
+Unity: система сохранения для любого проекта | https://habrahabr.ru/post/330278/
+
+Играем с эмоциями: Microsoft Cognitive Services + Unity | https://habrahabr.ru/company/microsoft/blog/329866/
+
+Как инди-игре обогнать Angry Birds? | https://habrahabr.ru/post/329684/
+
+Приглашаем на встречу Unity разработчиков в Москве | https://habrahabr.ru/company/miip/blog/329356/
+
+Загрузка реальных ландшафтов в Unity 3D | https://habrahabr.ru/post/329246/
+
+Создание игры Match-3 в Unity | https://habrahabr.ru/post/329016/
+
+Tiled2Unity: экспорт из Tiled Map Editor в Unity | https://habrahabr.ru/post/328700/
+
+Пост-эффекты в мобильных играх | https://habrahabr.ru/company/pixonic/blog/327442/
+
+Разработка игры на основе физической симуляции (для реалистичной разрушаемости игрового мира) | https://habrahabr.ru/post/328284/
+
+3D моделирование и анимация: руководство для начинающих | https://habrahabr.ru/company/everydaytools/blog/328064/
+
+Бесплатные плагины, инструменты и сервисы для разработки игры на юнити | https://habrahabr.ru/post/325960/
+
+UE4 для Unity-разработчиков | https://habrahabr.ru/company/mailru/blog/327520/
+
+Нужны ли видеозвонки в VR? | https://habrahabr.ru/company/Voximplant/blog/327464/
+
+Особенности разработки мобильной MMO RTS. Часть 5 | https://habrahabr.ru/company/plarium/blog/327406/
+
+Unity3D tips and tricks 2 | https://habrahabr.ru/post/327304/
+
+GameDev с нуля: Unity3D и векторная графика | https://habrahabr.ru/company/microsoft/blog/326262/
+
+Методология VR-разработки | https://habrahabr.ru/post/326392/
+
+13 апреля, Харьков: доклад «Разработка мобильной MMO RTS на Unity» | https://habrahabr.ru/company/plarium/blog/325924/
+
+Unity3d / Android: проверка пользователя на собственном сервере Node.JS | https://habrahabr.ru/post/325900/
+
+VR Design: содержимое сцен | https://habrahabr.ru/post/325284/
+
+IL2CPP: Интеграция сборщика мусора | https://habrahabr.ru/company/plarium/blog/325034/
+
+Синхронизация ритма в музыкальных играх | https://habrahabr.ru/post/324798/
+
+Ивент для Unity-разработчиков в Харькове | https://habrahabr.ru/company/plarium/blog/324516/
+
+Сложности при создании изометрической игры в Unity | https://habrahabr.ru/post/324118/
+
+Разработка космической стрелялки для android с использованием игрового движка Unity3D | https://habrahabr.ru/post/324288/
+
+VR-Design: User Interface | https://habrahabr.ru/post/324002/
+
+IL2CPP: Обертки P/Invoke для типов и методов | https://habrahabr.ru/company/plarium/blog/323932/
+
+Локализация Unity-игры на хинди | https://habrahabr.ru/post/323594/
+
+Особенности разработки мобильной MMO RTS. Часть 4 | https://habrahabr.ru/company/plarium/blog/323448/
+
+Звуковые эффекты в виртуальных мирах | https://habrahabr.ru/post/323072/
+
+1.500.000 установок за 3 месяца — история разработки Tap Tap Builder | https://habrahabr.ru/post/323048/
+
+Игра-головоломка Neo Angle. Работа с уровнями в Unity | https://habrahabr.ru/post/322704/
+
+Пишем игровую логику на C#. Часть 2/2 | https://habrahabr.ru/post/322268/
+
+Пишем игровую логику на C#. Часть 1/2 | https://habrahabr.ru/post/322258/
+
+Оптимизация анимаций в Unity3D | https://habrahabr.ru/post/322280/
+
+GameDev с нуля: От хакатона до собственной студии разработки игр. Часть 1 | https://habrahabr.ru/company/microsoft/blog/321872/
+
+Процедурная генерация уровней для M.E.R.C. в Unity | https://habrahabr.ru/post/321602/
+
+ChairInput. Пишем игру в Unity, управляемую с помощью виртуальной клавиатуры Android. Проблема с углом обзора камеры | https://habrahabr.ru/company/aacidov/blog/321578/
+
+Процедурная генерация уровней для M.E.R.C. в Unity | https://habrahabr.ru/post/321260/
+
+История из российского А(АА)-инди геймдева на одном примере | https://habrahabr.ru/post/321148/
+
+Локальный мультиплеер в Unity с помощью Unet | https://habrahabr.ru/post/321278/
+
+История создания первой игры на Unity — от идеи до релиза | https://habrahabr.ru/post/321038/
+
+Создание анаморфных искажений в Unity | https://habrahabr.ru/post/320926/
+
+Особенности разработки мобильной MMO RTS. Часть 3 | https://habrahabr.ru/company/plarium/blog/320814/
+
+История создания простой мобильной игры | https://habrahabr.ru/post/320746/
+
+Оптимизация механики и графики в игре жанра «симулятор» на iOS | https://habrahabr.ru/company/everydaytools/blog/319990/
+
+IAP в Unity3D | https://habrahabr.ru/post/320224/
+
+Что если в играх использовать видеокарточку для физики, а не для графики | https://habrahabr.ru/post/320142/
+
+2D магия в деталях. Часть четвёртая. Вода | https://habrahabr.ru/post/308220/
+
+Генерация звука для Unity-проектов с помощью Chuck и OSC | https://habrahabr.ru/post/319524/
+
+«Во все тяжкие 2», Dark Forester — игра на дистанции в маленький плюс | https://habrahabr.ru/post/319266/
+
+Особенности разработки мобильной MMO RTS. Часть 2 | https://habrahabr.ru/company/plarium/blog/318966/
+
+Игра HellWorm. История разработки | https://habrahabr.ru/post/318938/
+
+«Во все тяжкие» или суровые реальности инди разработки Dark Forester | https://habrahabr.ru/post/318824/
+
+20 вредных советов по разработке игр на Unity | https://habrahabr.ru/post/318802/
+
+Змейка. Развитие жанра | https://habrahabr.ru/post/318700/
+
+Как работает Drag в физике Unity | https://habrahabr.ru/post/318254/
+
+Об использовании и понимании функции Lerp в Unity3D | https://habrahabr.ru/post/318046/
+
+Разработка и публикация первой игры под Android на Unity3D | https://habrahabr.ru/post/318006/
+
+Особенности разработки мобильной MMO RTS. Часть 1 | https://habrahabr.ru/company/plarium/blog/317976/
+
+Разработка игры для Android на Unity 5. От идеи до монетизации (Live) | https://habrahabr.ru/post/317236/
+
+Советы Инди-Разработчикам: темная триада и пять советов с топовым ROI | https://habrahabr.ru/post/316834/
+
+Unity: сжимая сжатое | https://habrahabr.ru/post/316672/
+
+Руководство для начинающих VR-разработчиков | https://habrahabr.ru/company/mailru/blog/316024/
+
+Приглашаем на Unity Moscow Meetup 2 декабря | https://habrahabr.ru/company/mailru/blog/315928/
+
+Первые шаги в оптимизации и полировке игры на Unity3d | https://habrahabr.ru/post/314306/
+
+Интервью с Олегом Придюком (King) oб игровом движке Defold | https://habrahabr.ru/company/mobio/blog/314660/
+
+Как решить проблему ограничения в 64К методов в Unity3D | https://habrahabr.ru/post/314416/
+
+Локализация инди-игр в Unity: неявные затраты | https://habrahabr.ru/post/314264/
+
+Разработка Инди РПГ: разбор двух лет разработки | https://habrahabr.ru/post/314210/
+
+2D магия в деталях. Часть третья. Глобальное освещение | https://habrahabr.ru/post/313776/
+
+Создание материалов для Unity в Substance Designer | https://habrahabr.ru/post/313916/
+
+2D магия в деталях. Часть вторая. Структура | https://habrahabr.ru/post/312046/
+
+Советы и рекомендации по работе с Unity3D | https://habrahabr.ru/post/309478/
+
+Стандартные алгоритмы на практике. Расчет цепей. Часть 1 | https://habrahabr.ru/post/312578/
+
+Как я делал Brick Game на Unity3D для Android и получил блокировку от Google | https://habrahabr.ru/post/312554/
+
+Создаем игру для WebGL с помощью Unity 5 и JavaScript | https://habrahabr.ru/company/plarium/blog/312318/
+
+Разработка игры в Unity3D под геймпад | https://habrahabr.ru/post/311962/
+
+Разработка мобильной VR с Oculus и Gear VR | https://habrahabr.ru/post/310792/
+
+IL2CPP: вызовы методов | https://habrahabr.ru/company/plarium/blog/310614/
+
+24 сентября приглашаем на конференцию MIXAR 2016 — неклассическую конференцию по новейшим технологиям | https://habrahabr.ru/company/microsoft/blog/310580/
+
+Создание меню для игры на Unity3D на основе State-ов | https://habrahabr.ru/post/310236/
+
+4C: Kyiv — конференция разработчиков видеоигр | https://habrahabr.ru/company/wargaming/blog/310150/
+
+Tower Defence на движке Unity — Часть 2 | https://habrahabr.ru/post/309544/
+
+Tower Defence на движке Unity — Часть 1 | https://habrahabr.ru/post/309378/
+
+Автоматизация поддержания соответствия между названиями слоев в редакторе и коде с помощью CodeDom | https://habrahabr.ru/post/309128/
+
+Unity с позиции художника при разработке кроссплатформенной игры | https://habrahabr.ru/post/308918/
+
+О том, как я пытался заработать на Pokemon Go | https://habrahabr.ru/post/308714/
+
+Забытое секретное оружие Unity — UnityEvents | https://habrahabr.ru/post/308570/
+
+Анализируем ошибки в открытых компонентах Unity3D | https://habrahabr.ru/company/pvs-studio/blog/308336/
+
+Прокачка pointlight теней в Unity | https://habrahabr.ru/post/307582/
+
+MirrorMoon EP — в поисках заветной планеты | https://habrahabr.ru/post/216457/
+
+Делаем работу нашего гейм-дизайнера в Unity удобнее и приятнее | https://habrahabr.ru/company/badoo/blog/307170/
+
+Разработка первой игры [на Unity3D] | https://habrahabr.ru/post/304722/
+
+Unite Europe 2016: Обзор доклада “Overthrowing the MonoBehaviour tyranny in a glorious ScriptableObject revolution” | https://habrahabr.ru/company/nixsolutions/blog/306514/
+
+Расширение функционала Scene View в Unity3D. Перехват событий | https://habrahabr.ru/post/305544/
+
+2D магия в деталях. Часть первая. Свет | https://habrahabr.ru/post/305252/
+
+Создание миникарты на Unity | https://habrahabr.ru/post/304632/
+
+Фейковая Новелла: новый опыт и работа над ошибками | https://habrahabr.ru/post/303018/
+
+Unity: как мы создавали генератор домов для AssetStore или возвращение к хрущёвкам | https://habrahabr.ru/post/304466/
+
+Скелетная анимация в играх. Обзор техник и ресурсов | https://habrahabr.ru/post/304042/
+
+NavMesh на костылях — маленькие хитрости | https://habrahabr.ru/post/303816/
+
+Особенности кэширования компонентов в Unity3D | https://habrahabr.ru/post/303562/
+
+Unity3D Ускорить отрисовку 2D анимации в разы? Легко | https://habrahabr.ru/post/302796/
+
+Unity3D система событий и откликов или задатки Visual Scripting | https://habrahabr.ru/post/301804/
+
+Дайджест игровой индустрии: апрель | https://habrahabr.ru/company/plarium/blog/301564/
+
+Разработка Кинетической Новеллы: затраты, доходы, статистика, советы, выводы post factum | https://habrahabr.ru/post/301082/
+
+Оптимизация игры на Unity и dev story Tap Tap Builder | https://habrahabr.ru/post/282391/
+
+Пример создания простой 2D игры для Android с использованием игрового движка Unity | https://habrahabr.ru/post/283186/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/283070/
+
+Птички и Unity3D, попытка оптимизации | https://habrahabr.ru/post/283064/
+
+Алгоритм жевания для тачскрина | https://habrahabr.ru/post/282752/
+
+Создавая игру Good Cat Gone Bad | https://habrahabr.ru/post/282618/
+
+Взрывная волна в Unity3D (displacement shader) | https://habrahabr.ru/post/282604/
+
+Unity3D система сообщений или “мягкая связь” между компонентами | https://habrahabr.ru/post/282524/
+
+Дайджест игровой индустрии: март | https://habrahabr.ru/company/plarium/blog/282381/
+
+Пятничный геймдев: хорошие видео о том, как делать игры | https://habrahabr.ru/company/microsoft/blog/282245/
+
+IL2CPP: советы по отладке генерируемого кода | https://habrahabr.ru/company/plarium/blog/281829/
+
+HoloLens, Xbox One Dev Mode и возможности для разработчиков с конференции //Build | https://habrahabr.ru/post/281539/
+
+Состояние такое | https://habrahabr.ru/post/281545/
+
+Unity и MVC: как прокачать разработку игры | https://habrahabr.ru/post/281783/
+
+Создание редактора сценариев в Unity | https://habrahabr.ru/post/281571/
+
+WebGL на Unity3d — двенадцать проблем при сборке проекта | https://habrahabr.ru/post/281428/
+
+IL2CPP: экскурсия по генерируемому коду | https://habrahabr.ru/company/plarium/blog/280824/
+
+Эффект кофты на шейдерах для мобильных устройств | https://habrahabr.ru/post/280804/
+
+Quad-tree визуализация в реальном времени на Shader Model 2.0 | https://habrahabr.ru/post/280674/
+
+Научись командовать | https://habrahabr.ru/post/280306/
+
+Рассыпающийся тигр, затаившийся каньон | https://habrahabr.ru/company/plarium/blog/280177/
+
+Unity и «Помогаторы» для редактора | https://habrahabr.ru/post/279929/
+
+Дайджест игровой индустрии: февраль | https://habrahabr.ru/company/plarium/blog/279587/
+
+uDev tech events: Харьков, 30 марта | https://habrahabr.ru/company/plarium/blog/279527/
+
+Is Grounded в 2D платформере: как узнать, стоит ли персонаж? | https://habrahabr.ru/post/279407/
+
+История о разработке Космосима на Unity | https://habrahabr.ru/post/279231/
+
+4 способа сделать игровое обучение интересным | https://habrahabr.ru/company/plarium/blog/279081/
+
+West Game Development Forum: Create, Share, Improve | https://habrahabr.ru/company/wargaming/blog/279055/
+
+CI своими руками для Unity3D | https://habrahabr.ru/post/279023/
+
+Скоростная разработка Unity3D игры на конкурс | https://habrahabr.ru/post/278947/
+
+Фейковая Новелла: маленькая игра, разработка которой многому меня научила и очередной бан от Google | https://habrahabr.ru/post/277529/
+
+Все, что нужно знать про Unity 5, UWP-приложения и 8 марта | https://habrahabr.ru/company/microsoft/blog/278713/
+
+Работа мечты или небольшая история мобильной разработки | https://habrahabr.ru/post/278451/
+
+Персонализация IMGUI и редактора Unity. Часть вторая | https://habrahabr.ru/company/plarium/blog/278213/
+
+Персонализация IMGUI и редактора Unity. Часть первая | https://habrahabr.ru/company/plarium/blog/278041/
+
+История персонажа: менеджеры звука, рекламы и языка в Unity3D | https://habrahabr.ru/post/277835/
+
+Нюансы разработки плагина под Unity | https://habrahabr.ru/post/277605/
+
+Дайджест игровой индустрии: январь | https://habrahabr.ru/company/plarium/blog/277579/
+
+Преимущества использования уникальных шейдеров в компьютерных играх: личный опыт и наблюдения | https://habrahabr.ru/post/277371/
+
+Как мы портировали старый добрый русский квест | https://habrahabr.ru/post/276945/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/276783/
+
+Вышла новая версия Visual Studio Tools for Unity | https://habrahabr.ru/company/microsoft/blog/276775/
+
+Процедурно генерируемые карты мира на Unity C#, часть 4 (трафик) | https://habrahabr.ru/post/276551/
+
+Введение в IL2CPP | https://habrahabr.ru/company/plarium/blog/276589/
+
+Пользовательские жесты, Kinect + Unity. Часть 2 | https://habrahabr.ru/company/singularis/blog/276455/
+
+Процедурно генерируемые карты мира на Unity C#, часть 3 | https://habrahabr.ru/post/276533/
+
+Unified test runner и анализ тестовых данных | https://habrahabr.ru/company/plarium/blog/276531/
+
+Скелетная 2D-анимация в Unity с помощью плагина Puppet2D | https://habrahabr.ru/post/276303/
+
+Процедурно генерируемые карты мира на Unity C#, часть 2 | https://habrahabr.ru/post/276281/
+
+Процедурно генерируемые карты мира на Unity C#, часть 1 | https://habrahabr.ru/post/276251/
+
+Нарезка ресурсов – путь к оптимизации размера iOS-приложений | https://habrahabr.ru/company/plarium/blog/276069/
+
+Оптимизация Android-игр, созданных на Unity для платформы Intel: пример из жизни | https://habrahabr.ru/company/intel/blog/275927/
+
+Пользовательские жесты, Kinect + Unity. Часть 1 | https://habrahabr.ru/company/singularis/blog/275451/
+
+Можно ли сделать игру без художника за 2 дня? Devstory моей игры Neobug Rush 2 Players | https://habrahabr.ru/post/275679/
+
+Моки, фейки и заглушки на C++ | https://habrahabr.ru/company/plarium/blog/275521/
+
+Простой пул объектов в Unity3D | https://habrahabr.ru/post/275091/
+
+Альтернативный Sound Manager для мелких и средних проектов на Unity3D | https://habrahabr.ru/post/275017/
+
+Кастомные корутины в Unity 5.3 | https://habrahabr.ru/post/274305/
+
+Создание игровых уровней: советы и хитрости (часть 2) | https://habrahabr.ru/post/274625/
+
+Sound Manager для небольших игр и прототипов на Unity | https://habrahabr.ru/post/274529/
+
+Создаем 2D-порталы с помощью шейдеров | https://habrahabr.ru/company/plarium/blog/274509/
+
+Создание игровых уровней: советы и хитрости (часть 1) | https://habrahabr.ru/post/274483/
+
+Поддержка Unity в Consulo за 2015 год в одном посте | https://habrahabr.ru/post/254679/
+
+Архитектура игрового клиента многопользовательской Tower Defence. Новогодняя история | https://habrahabr.ru/post/274367/
+
+Дайджест игровой индустрии: ноябрь | https://habrahabr.ru/company/plarium/blog/273931/
+
+Как мы делали на Unity игру для взрослых и получили аудиторию «до 10 лет» | https://habrahabr.ru/post/273985/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/273847/
+
+Тени персонажей в ролике The Blacksmith | https://habrahabr.ru/company/plarium/blog/272673/
+
+Виртуальный квадрокоптер на Unity + OpenCV (Часть 3) | https://habrahabr.ru/post/271337/
+
+Конструируй свою реальность: хакатон по виртуальной реальности пройдет 19-20 декабря 2015 г. в Гиперкубе | https://habrahabr.ru/company/microsoft/blog/272289/
+
+Unity в действии. Мультиплатформенная разработка на C# | https://habrahabr.ru/company/piter/blog/272123/
+
+Создание The Blacksmith: подготовка сцен, шейдинг и освещение | https://habrahabr.ru/company/plarium/blog/271759/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/271325/
+
+Про использование Visual Studio Code в Unity под OS X | https://habrahabr.ru/company/microsoft/blog/271439/
+
+Игра Let's Twist: Путь в неизвестность | https://habrahabr.ru/post/271349/
+
+Дайджест игровой индустрии: октябрь | https://habrahabr.ru/company/plarium/blog/270843/
+
+Нюансы создания аркады | https://habrahabr.ru/post/270655/
+
+Unity Cloud Build или как собрать iOS билд на Windows | https://habrahabr.ru/post/270219/
+
+Изометрический плагин для Unity3D | https://habrahabr.ru/post/269653/
+
+Создание динамически изменяемого ландшафта для RTS на Unity3D | https://habrahabr.ru/post/269645/
+
+Знакомство с командой Unity Demo Team и FAQ по проекту The Blacksmith | https://habrahabr.ru/company/plarium/blog/269643/
+
+UnityEditor, динамическое содержимое редактора компонента | https://habrahabr.ru/post/269541/
+
+Unreal против Unity: на чем лучше разрабатывать мобильные игры? | https://habrahabr.ru/company/piter/blog/269415/
+
+Дайджест игровой индустрии: сентябрь | https://habrahabr.ru/company/plarium/blog/269297/
+
+Карты морщин в ролике The Blacksmith | https://habrahabr.ru/company/plarium/blog/269187/
+
+Решение типичных проблем при сборке XCode проекта, сгенерированного Unity3D | https://habrahabr.ru/post/269041/
+
+Виртуальный квадрокоптер на Unity + OpenCV (Часть 2) | https://habrahabr.ru/post/269007/
+
+Многопоточность в Unity средствами реактивных расширений | https://habrahabr.ru/company/nixsolutions/blog/268781/
+
+Visual Studio Code — эволюция кроссплатформенного редактора кода на примере версии для OS X | https://habrahabr.ru/company/microsoft/blog/268837/
+
+Сборка билдов Unity3D на Jenkins в Mac OS X. Часть 2 | https://habrahabr.ru/post/268365/
+
+Bomberlands — история разработки, отчёт за год и советы начинающим | https://habrahabr.ru/post/268699/
+
+Unity — Концептуальные идеи и подсказки для новичков игродева. Мощная оптимизация 2D проекта | https://habrahabr.ru/post/268663/
+
+Виртуальный квадрокоптер на Unity + OpenCV (Часть 1) | https://habrahabr.ru/post/267791/
+
+Как без мата создать игру на Unity3D | https://habrahabr.ru/post/268377/
+
+Экспорт Terrain'а из WorldMachin в Unity3D | https://habrahabr.ru/post/268297/
+
+Сборка билдов Unity3D на Jenkins в Mac OS X. Часть 1 | https://habrahabr.ru/post/268233/
+
+Разработка и публикация ассета в Unity Asset Store | https://habrahabr.ru/post/268153/
+
+Unity — Концептуальные идеи и подсказки для новичков игродева. Простая процедурная генерация моделей для 2D игры | https://habrahabr.ru/post/268069/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/267901/
+
+Сколько стоит сделать мобильную игру? | https://habrahabr.ru/post/266973/
+
+Дайджест игровой индустрии: август | https://habrahabr.ru/company/plarium/blog/266953/
+
+Создание нативного iOS плагина для Unity3d. Недокументированные возможности | https://habrahabr.ru/post/266893/
+
+Работа с освещением в Unity — теория и практика | https://habrahabr.ru/post/266839/
+
+Практическое руководство по взлому (и защите) игр на Unity | https://habrahabr.ru/post/266345/
+
+Использование Global Illumination в собственных шейдерах в Unity 5 | https://habrahabr.ru/post/251045/
+
+Реальные причины роста популярности PhoneGap и других кроссплатформенных инструментов разработки | https://habrahabr.ru/company/appodeal/blog/265689/
+
+Атмосферное рассеяние в ролике The Blacksmith | https://habrahabr.ru/company/plarium/blog/265545/
+
+Мотивирующая сказка для инди разработчиков игр | https://habrahabr.ru/post/265503/
+
+Некоторый опыт разработки игры на Unity3D | https://habrahabr.ru/post/265107/
+
+Дайджест игровой индустрии: июль | https://habrahabr.ru/company/plarium/blog/265019/
+
+Платформер под Android на Unity3D | https://habrahabr.ru/post/264611/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/264459/
+
+Google Analytics вместе с Unity3D | https://habrahabr.ru/post/263995/
+
+OpenAdAdapter плагин для Unity3D | https://habrahabr.ru/post/264315/
+
+Создание The Blacksmith: анимация, эффекты камеры, аудио/видео | https://habrahabr.ru/company/plarium/blog/264291/
+
+Реализация волнового алгоритма нахождения кратчайшего пути к динамически движущимся объектам в unity3d на C# в 2d игре | https://habrahabr.ru/post/264189/
+
+In App Purchase с помощью Soomla. Быстро и просто | https://habrahabr.ru/post/263899/
+
+Путь разработчика (Часть 0х01) | https://habrahabr.ru/post/263489/
+
+Создание The Blacksmith: концепт и художественное оформление | https://habrahabr.ru/company/plarium/blog/263219/
+
+Перенос редактора Unity на Linux: вещи, которые стоило бы сделать заранее | https://habrahabr.ru/post/263365/
+
+Интеграция Unity с Google Таблицами | https://habrahabr.ru/post/262901/
+
+Дайджест новостей игровой индустрии: июнь | https://habrahabr.ru/company/plarium/blog/262593/
+
+Дайджест новостей из мира разработки на Unity | https://habrahabr.ru/company/plarium/blog/260969/
+
+Unity 5 uNet – новая сетевая подсистема. Этюд по авторитарной архитектуре | https://habrahabr.ru/post/261017/
+
+Как используя Canvas собрать кликабельную карту мира на Unity3d | https://habrahabr.ru/post/260715/
+
+Самые актуальные новости с E3 2015: Bethesda, Microsoft, Electronic Arts, Ubisoft и Sony | https://habrahabr.ru/company/plarium/blog/260703/
+
+Взрывной GameDev. История создания моей игры | https://habrahabr.ru/post/260467/
+
+Работа с компрессией текстур в Unity3D + NGUI | https://habrahabr.ru/post/259835/
+
+Создание приложения для Gear VR с использованием Unity3D | https://habrahabr.ru/post/259367/
+
+Дайджест новостей игровой индустрии | https://habrahabr.ru/company/plarium/blog/259065/
+
+Как за полгода разработать многопользовательскую 3D-игру без художников, дизайнеров и моделлеров | https://habrahabr.ru/post/258859/
+
+Как я бросил университет ради разработки собственной игры. Часть 1 | https://habrahabr.ru/post/258555/
+
+Unity3d: эксперименты с Social Interface | https://habrahabr.ru/post/256951/
+
+Unity на русском | https://habrahabr.ru/company/piter/blog/256859/
+
+Визуализация данных OpenStreetMap в 3D налету с помощью Unity3D | https://habrahabr.ru/post/256785/
+
+Режимы смешивания в Unity | https://habrahabr.ru/post/256439/
+
+Первый опыт продаж в Unity Asset Store | https://habrahabr.ru/post/256379/
+
+Экспорт из Blender в Unity или почему старые секреты уже не актуальны | https://habrahabr.ru/post/256297/
+
+DevCon 2015: анонс третьей волны докладчиков конференции | https://habrahabr.ru/company/microsoft/blog/256285/
+
+Unity3d. Реализация зон видимости и слышимости | https://habrahabr.ru/post/256273/
+
+Unity Day в Минске | https://habrahabr.ru/company/ximad/blog/255887/
+
+Microsoft Developer Tour — ¾ пути, впереди Сибирь и Казахстан | https://habrahabr.ru/company/microsoft/blog/255875/
+
+Приемы при проектировании архитектуры игр | https://habrahabr.ru/post/255561/
+
+Pool объектов для Unity3d | https://habrahabr.ru/post/255499/
+
+Binary serialization in Unity3d | https://habrahabr.ru/post/255399/
+
+DevCon 2015: анонс мастер-класса по Unity 5 от создателей платформы | https://habrahabr.ru/company/microsoft/blog/255163/
+
+Секреты экспорта из Blender в Unity | https://habrahabr.ru/post/254937/
+
+Unity 3d 4.6 (5) проект Survival shooter game на русском | https://habrahabr.ru/post/254677/
+
+Broadcast Event Messaging в Unity3D | https://habrahabr.ru/post/254239/
+
+Дайджест новостей игровой индустрии: февраль-март | https://habrahabr.ru/company/plarium/blog/253523/
+
+Перевод проекта на Unity 5. Шейдеры и свет | https://habrahabr.ru/post/253527/
+
+Руководство к Car Tutorial (Unity3d): Изучение альтернативной физической модели (часть 2 из 3) | https://habrahabr.ru/post/250953/
+
+Виртуальная реальность на Windows Phone с помощью Unity3d | https://habrahabr.ru/company/microsoft/blog/253489/
+
+Как мы потратили 1 год и 3 месяца на разработку браузерной игры | https://habrahabr.ru/post/253268/
+
+Руководство к Car Tutorial (Unity3d): Изучение альтернативной физической модели (часть 1 из 3) | https://habrahabr.ru/post/249363/
+
+Global Game Jam Minsk 2015: как сделать игру за 48 часов? | https://habrahabr.ru/company/wargaming/blog/252545/
+
+4 преимущества Unity3D, а также полезный инструмент для ускорения процесса разработки приложений | https://habrahabr.ru/company/ximad/blog/252525/
+
+Сто строчек кода для любимой | https://habrahabr.ru/post/252421/
+
+GDC 2015: дайджест основных новостей. 3 марта | https://habrahabr.ru/company/plarium/blog/252195/
+
+GDC 2015: дайджест основных новостей. 2 марта | https://habrahabr.ru/company/plarium/blog/252053/
+
+Как увеличить доход с рекламы в мобильных приложениях | https://habrahabr.ru/post/251997/
+
+Использование текстуры детализации для получения высшего качества реализма (подробнее) | https://habrahabr.ru/post/251607/
+
+Использование skyboxes в Unity3d | https://habrahabr.ru/post/251573/
+
+Добавляем MVP в игры на Unity3D | https://habrahabr.ru/post/251543/
+
+Consulo: Code Coverage, Unity3D и прочие изменения | https://habrahabr.ru/post/247829/
+
+Unity: Сборка под Android или «размер имеет значение» | https://habrahabr.ru/post/250873/
+
+Средства, которые позволили нам ускорить разработку игры | https://habrahabr.ru/post/250847/
+
+Изучение структуры папок проекта в Unity — системы контроля версий | https://habrahabr.ru/post/250711/
+
+Дайджест новостей игровой индустрии: январь | https://habrahabr.ru/company/plarium/blog/250187/
+
+Защита игр и мобильных приложений от взлома для чайников (Unity, C#, Mono) | https://habrahabr.ru/post/249681/
+
+Проект 3D ГИС городского пространства | https://habrahabr.ru/post/249487/
+
+Зимний дайджест новостей игровой индустрии | https://habrahabr.ru/company/plarium/blog/249447/
+
+Как мы сделали свою игру за 48 часов в рамках Global Game Jam 2015 | https://habrahabr.ru/post/249329/
+
+Руководство к Car Tutorial (Unity3d) часть 3 из 3 | https://habrahabr.ru/post/248995/
+
+Unity 2D: работа со спрайтами в разных разрешениях дисплея | https://habrahabr.ru/post/249177/
+
+Процедурная генерация текстур планет на основе алгоритма Diamond-Square, часть 1 | https://habrahabr.ru/post/249027/
+
+Как виртуальная реальность пришла в проект на Unity | https://habrahabr.ru/post/249053/
+
+Как я игру про SEO писал | https://habrahabr.ru/post/248553/
+
+Борьба с 2D-физикой в Unity на примере бесконечной игры | https://habrahabr.ru/post/248391/
+
+Ошибки новичка в сфере разработки игр | https://habrahabr.ru/post/248431/
+
+Unity3D — кроссфейд, основы работы со звуком (урок) | https://habrahabr.ru/post/248371/
+
+Unity UI в версии 4.6 | https://habrahabr.ru/post/248273/
+
+Руководство к Car Tutorial (Unity3d) часть 2 из 3 | https://habrahabr.ru/post/248185/
+
+2D система освещения для Unity3D, работающая на GPU | https://habrahabr.ru/post/248149/
+
+Unity3D Editor: советы и трюки | https://habrahabr.ru/post/247951/
+
+Практический семинар Intel RealSense Hands-On Lab. От идеи до проекта — за 6 часов | https://habrahabr.ru/company/intel/blog/247839/
+
+Руководство к Car Tutorial (Unity3d) часть 1 из 3 | https://habrahabr.ru/post/247667/
+
+Воспроизведение и управление звуками в Unity 3D (Sound complete event, Play in edit mode) | https://habrahabr.ru/post/246737/
+
+Краткий обзор нового Unity UI с примерами организации интерфейса | https://habrahabr.ru/post/246605/
+
+Конкурс игр с поддержкой геймпада | https://habrahabr.ru/company/microsoft/blog/246489/
+
+Consulo Beta продолжится в 2015 году | https://habrahabr.ru/post/246043/
+
+Мобильная игра на Unity. Первый блин… | https://habrahabr.ru/post/246023/
+
+Простой лидерборд на Unity3D с facebook-ом | https://habrahabr.ru/post/245985/
+
+Простая система событий — нестандартный подход | https://habrahabr.ru/post/245487/
+
+Особенности внедрения зависимостей в Unity3D | https://habrahabr.ru/post/245589/
+
+Occlusion Culling и LOD для Unity Indie | https://habrahabr.ru/post/245489/
+
+Про создание платформера на Unity. Часть 4.1, злодейская | https://habrahabr.ru/company/microsoft/blog/245473/
+
+Дайджест новостей игровой индустрии: ноябрь | https://habrahabr.ru/company/plarium/blog/245391/
+
+SMessage — Простая и предсказуемая система событий для Unity | https://habrahabr.ru/post/245353/
+
+Как «незнайка» игру делал | https://habrahabr.ru/post/245307/
+
+Монетизация Oculus Rift и Leap motion в квестах в реальности | https://habrahabr.ru/post/244397/
+
+Создание игры на ваших глазах — часть 8: Визуальное скриптование кат-сцен в Unity (uScript) | https://habrahabr.ru/post/244493/
+
+Consulo: ~1000 коммитов, или как прошла осень | https://habrahabr.ru/post/244571/
+
+Первый опыт в игровой разработке. Ошибки и выводы | https://habrahabr.ru/post/244381/
+
+Тестирование компонентов в Unity Engine | https://habrahabr.ru/post/244091/
+
+Неигровое применение Unity3D | https://habrahabr.ru/post/243749/
+
+Введение в компонентно-ориентированный подход к программированию | https://habrahabr.ru/post/243479/
+
+Игровой хакатон, 6-7 декабря, Москва | https://habrahabr.ru/company/microsoft/blog/243405/
+
+Вибрация геймпада XboxOne для Unity3d | https://habrahabr.ru/company/microsoft/blog/243021/
+
+Еще одна простая стейт машина для Unity | https://habrahabr.ru/post/242977/
+
+За что Google приложения блокирует. Былина | https://habrahabr.ru/post/242885/
+
+Синхронизация музыки и игровых событий на Unity | https://habrahabr.ru/post/242631/
+
+Бинарная сериализация в Unity 3D/Visual Studio Application | https://habrahabr.ru/post/242069/
+
+Моя небольшая история разработки и публикации мобильных игр | https://habrahabr.ru/post/241419/
+
+Применяем MVVM в Unity3D с помощью NData | https://habrahabr.ru/post/240875/
+
+Где найти стимул, или как мы ходили на хакатон Microsoft | https://habrahabr.ru/post/240193/
+
+Расширение возможностей Tween-анимаций в NGUI | https://habrahabr.ru/post/240185/
+
+Работа со спрайтами (Unity3d). Часть II | https://habrahabr.ru/post/240107/
+
+Работа со спрайтами (Unity3d) | https://habrahabr.ru/post/240105/
+
+Попытка выстрелить номер два | https://habrahabr.ru/post/239237/
+
+На хакатоне игромира Games Coding Night «Побеждает Зло»! | https://habrahabr.ru/company/microsoft/blog/239885/
+
+Unity3D tips and tricks | https://habrahabr.ru/post/239175/
+
+Смотрите трансляцию Microsoft с Конференции разработчиков игр | https://habrahabr.ru/company/microsoft/blog/238971/
+
+Microsoft на КРИ 2014 и Games Jam 2014 | https://habrahabr.ru/company/microsoft/blog/238681/
+
+Структура кода в Unity3d — личное мнение и пара трюков | https://habrahabr.ru/post/238581/
+
+Про создание платформера на Unity. Часть третья, долгожданная | https://habrahabr.ru/company/microsoft/blog/238071/
+
+Ночной хакатон Games Coding Night на игромире | https://habrahabr.ru/company/microsoft/blog/237351/
+
+Как закончить декрет с пользой? | https://habrahabr.ru/post/237091/
+
+Исследование UI в Unity 4.6 beta | https://habrahabr.ru/post/236971/
+
+Использование библиотек в проектах на Unity3D | https://habrahabr.ru/post/236755/
+
+Про создание платформера на Unity. Часть вторая, звездная | https://habrahabr.ru/company/microsoft/blog/236135/
+
+Скрипты для редактора в Unity3D | https://habrahabr.ru/post/236451/
+
+Про создание платформера на Unity. Часть первая, характерная | https://habrahabr.ru/company/microsoft/blog/236125/
+
+Реалистичное гравитационное линзование на Unity | https://habrahabr.ru/post/235729/
+
+Создание игры на ваших глазах — часть 7: 2D-анимации в Unity («как во флэше») | https://habrahabr.ru/post/235011/
+
+Реализация последовательностей жестов в Unity 3D с помощью библиотеки TouchScript | https://habrahabr.ru/company/intel/blog/233773/
+
+Импорт Spine 2D анимации в Unity 3D и привязка эффектов к костям с использованием 2D Toolkit | https://habrahabr.ru/post/235169/
+
+Архитектура простой 2D игры на Unity3D. План, факт и работа над ошибками | https://habrahabr.ru/post/231087/
+
+Примите участие в конкурсе игр Games Jam 2014 | https://habrahabr.ru/company/microsoft/blog/234253/
+
+Реверс-инжиниринг и патч игры на Unity3d | https://habrahabr.ru/post/234101/
+
+Unity Android — теперь и на x86! | https://habrahabr.ru/company/intel/blog/234131/
+
+Первый релиз Visual Studio Tools for Unity 1.9 после покупки SyntaxTree | https://habrahabr.ru/post/232461/
+
+Смешиваем любимые биты в программе Unity 5.0 | https://habrahabr.ru/post/231841/
+
+Команда автоматизации тестирования Unity 3D | https://habrahabr.ru/post/230907/
+
+Unity3D + Google Services: мультиплеер для вашего проекта на Android и iOS | https://habrahabr.ru/post/230377/
+
+Unity vs Adobe Air, или Как я писал первую мобильную игру | https://habrahabr.ru/post/229105/
+
+Откуда растут игры. Интервью с Дэвидом Хельгасоном – CEO Unity | https://habrahabr.ru/post/228877/
+
+Microsoft покупает UnityVS — Unity3D дебаггер для Visual Studio | https://habrahabr.ru/post/228715/
+
+UNET — новая сетевая технология в Unity 3D | https://habrahabr.ru/post/228395/
+
+Создание рейтинга игроков для мобильной игры (Unity + Google Play Game Services) | https://habrahabr.ru/post/227361/
+
+Unity3D — написание плагинов для Android | https://habrahabr.ru/post/226987/
+
+Генерация ландшафтов в Unity3d | https://habrahabr.ru/post/226635/
+
+Наводим порядок в Hierarchy View | https://habrahabr.ru/post/226009/
+
+Перевод документации по Unity3D | https://habrahabr.ru/post/225629/
+
+Анализ безопасности сетевых Unity3D игр в VKontakte | https://habrahabr.ru/post/224803/
+
+Будущее скриптов в Unity 3D | https://habrahabr.ru/post/224447/
+
+Интеграция средств VR в Unity3d | https://habrahabr.ru/post/223295/
+
+Шейдеры для маглов | https://habrahabr.ru/post/223541/
+
+Почему настало время настоящих браузерных 3D-игр! | https://habrahabr.ru/post/223317/
+
+Путь развития игры через два Imagine Cup | https://habrahabr.ru/post/223057/
+
+Unity3d. Уроки от Unity 3D Student (B25-B28) | https://habrahabr.ru/post/221755/
+
+Моя история Imagine Cup, или как наши корабли до финала доплыли | https://habrahabr.ru/post/222785/
+
+Проект Инфада. Наша история Imagine Cup 2014 | https://habrahabr.ru/post/222787/
+
+Unity3d. Уроки от Unity 3D Student (B21-B24) | https://habrahabr.ru/post/221545/
+
+Об участии в GamesJamGAMM: Project «Heartbeat» | https://habrahabr.ru/post/221155/
+
+HTML в Unity3D или как скрестить ежа с ужом | https://habrahabr.ru/post/220183/
+
+Базовая анимация с iTween | https://habrahabr.ru/post/220837/
+
+Захват видео в Unity3d с помощью Intel INDE Media Pack для Android | https://habrahabr.ru/company/intel/blog/219649/
+
+Хождение по граблям и кругам при создании игры с нуля | https://habrahabr.ru/post/219747/
+
+Unity3d. Уроки от Unity 3D Student (B17-B20) | https://habrahabr.ru/post/219193/
+
+Unity 3D Web Player на Linux через Pipelight | https://habrahabr.ru/post/218123/
+
+Анонс и предзаказ Unity 3D 5 | https://habrahabr.ru/post/216305/
+
+Работа с Корутинами в Unity | https://habrahabr.ru/post/216185/
+
+Поддержка .NET на базе IntelliJ — реальность? | https://habrahabr.ru/post/215203/
+
+Создание игры на ваших глазах — часть 4: Шейдер для fade in по палитре (а-ля NES) | https://habrahabr.ru/post/213253/
+
+Как мы делали гейм джем, а получился свой Greenlight | https://habrahabr.ru/company/unity3d/blog/211823/
+
+Игра на пустом месте | https://habrahabr.ru/post/212665/
+
+Custom font в Unity3d | https://habrahabr.ru/post/212587/
+
+Основы создания 2D персонажа в Unity 3D 4.3. Часть 3: прыжки (и падения) | https://habrahabr.ru/post/212309/
+
+Боевое знакомство с Leap Motion | https://habrahabr.ru/post/212069/
+
+Методы организации взаимодействия между скриптами в Unity3D | https://habrahabr.ru/post/212055/
+
+Основы создания 2D персонажа в Unity 3D 4.3. Часть 2: бегущий персонаж | https://habrahabr.ru/post/211847/
+
+Создание игры на ваших глазах — часть 3: Прикручиваем скриптовый язык к Unity (UniLua) | https://habrahabr.ru/post/211576/
+
+Tower Defense своими руками, часть 2: Интерфейс и NGUI | https://habrahabr.ru/post/211536/
+
+Основы создания 2D персонажа в Unity 3D 4.3. Часть 1: заготовка персонажа и анимация покоя | https://habrahabr.ru/post/211472/
+
+Обертка над WWW в Unity3D | https://habrahabr.ru/post/211482/
+
+Создание игры на ваших глазах — часть 2: Шейдеры для стилизации картинки под ЭЛТ/LCD | https://habrahabr.ru/post/211140/
+
+Основы многопользовательской игры на Unity3D | https://habrahabr.ru/post/211202/
+
+«С тебя игра за 100 баксов!» или почему Indiegogo вообще не Go-Go | https://habrahabr.ru/post/208122/
+
+Пишем Dissolve Shader | https://habrahabr.ru/post/208532/
+
+Получение «зеленого света» в сервисе GreenLight: советы и рекомендации | https://habrahabr.ru/post/208420/
+
+Fukami, ч. 1.1: Приводим сцену к теме проекта | https://habrahabr.ru/post/207108/
+
+Вещи которые вы возможно не знали о Unity3D | https://habrahabr.ru/post/207024/
+
+Интервью с двенадцатилетним разработчиком игр + автор | https://habrahabr.ru/company/allcorrect/blog/206528/
+
+Простой конечный автомат на Unity | https://habrahabr.ru/post/206120/
+
+Как скомпилировать билд Unity3D проекта для IOS на Windows? | https://habrahabr.ru/post/206050/
+
+Лидеры индустрии взялись за обучение гейм девелоперов | https://habrahabr.ru/company/unity3d/blog/205200/
+
+Fukami, ч. 1: репа с тентаклями | https://habrahabr.ru/post/198532/
+
+Тяжкое бремя одинокого Indie | https://habrahabr.ru/post/204376/
+
+Кроссплатформенный канделябр | https://habrahabr.ru/post/203250/
+
+Школьная геометрия и Unity3D | https://habrahabr.ru/company/kelnik/blog/203866/
+
+6 полезных трюков в Unity3D | https://habrahabr.ru/post/202198/
+
+Livity для C# — livecoding для Unity | https://habrahabr.ru/company/codeorchestra/blog/202036/
+
+Unity 4.3 | https://habrahabr.ru/post/201896/
+
+After Reset — игра в которую сложно поверить даже увидев (Kickstarter Campaign) | https://habrahabr.ru/post/201736/
+
+Tower Defense своими руками | https://habrahabr.ru/post/201228/
+
+Unity Game Starter Kit для Windows Store и Windows Phone Store | https://habrahabr.ru/post/199168/
+
+Vuforia: немного магии в нашей реальности | https://habrahabr.ru/post/198862/
+
+Запуск игры под Windows Phone 8 | https://habrahabr.ru/post/198594/
+
+Неигровое применение Unity3D и Oculus Rift | https://habrahabr.ru/company/kelnik/blog/198572/
+
+Процедурный генератор хрущёвок | https://habrahabr.ru/post/196862/
+
+Правильно программируем. Используем полиморфизм. Общая логика игровых персонажей | https://habrahabr.ru/post/195970/
+
+Новые курсы виртуальной академии Microsoft Virtual Academy | https://habrahabr.ru/company/microsoft/blog/195922/
+
+Суровый геймдев на примере трех игр для Android | https://habrahabr.ru/post/195828/
+
+Процедурная генерация трёхмерных моделей | https://habrahabr.ru/post/194620/
+
+Unity становится ближе — отчет о происходящем | https://habrahabr.ru/company/unity3d/blog/194426/
+
+SuperHot — новое слово в инди-играх, slow-mo и управлении временем | https://habrahabr.ru/post/193970/
+
+Процедурная генерация планов помещений | https://habrahabr.ru/post/184818/
+
+Unity3D + Kinect, или анимации на коленке | https://habrahabr.ru/company/kamagames/blog/192820/
+
+Unity: 2D, реклама и издательство | https://habrahabr.ru/company/apps4all/blog/191812/
+
+Конкурс игр с призовым фондом в $100000 | https://habrahabr.ru/company/microsoft/blog/190308/
+
+Dependency Injection в Unity3d | https://habrahabr.ru/post/188438/
+
+Особенности игрового рынка в Китае — часть 3 | https://habrahabr.ru/company/unity3d/blog/189354/
+
+История создания стартапа по разработке мобильных игр | https://habrahabr.ru/post/188978/
+
+История запуска игры в социальных сетях | https://habrahabr.ru/post/188964/
+
+Реализация системы динамически загружаемого контента (DLC) для мобильной игры в Unity 3D | https://habrahabr.ru/post/188824/
+
+Особенности игрового рынка в Китае — часть 2 | https://habrahabr.ru/company/unity3d/blog/188776/
+
+Особенности игрового рынка в Китае — часть 1 | https://habrahabr.ru/company/unity3d/blog/188472/
+
+Получи BlackBerry Z10 и Unity BlackBerry 10 Pro add-on бесплатно | https://habrahabr.ru/company/beetleplay/blog/187520/
+
+Unity3D и MySQL | https://habrahabr.ru/post/187394/
+
+Бесконечные неповторяющиеся текстуры с помощью мозаики Вана | https://habrahabr.ru/post/185760/
+
+Unity3D и MySQL | https://habrahabr.ru/post/185594/
+
+Брезенхем и У на страже диагоналей | https://habrahabr.ru/post/185086/
+
+Каверзные кватернионы | https://habrahabr.ru/post/183908/
+
+Кручу-верчу, запутать хочу: углы Эйлера и Gimbal lock | https://habrahabr.ru/post/183116/
+
+Real-time дебаг Android и iOS приложений на Unity | https://habrahabr.ru/post/183906/
+
+Spatial hashing для самых маленьких | https://habrahabr.ru/post/182998/
+
+Оптимизируем Boid'ов на Unity | https://habrahabr.ru/post/182690/
+
+Как создать простую Tower Defense игру на Unity3D, часть вторая | https://habrahabr.ru/post/182672/
+
+Boid'ы, птички и Unity3D | https://habrahabr.ru/post/182382/
+
+Вечера гейм девелопмента в Петербурге с Unity Technologies | https://habrahabr.ru/company/unity3d/blog/181748/
+
+Unity3d + SQLite | https://habrahabr.ru/post/181239/
+
+История плохого старта на Google Play | https://habrahabr.ru/post/181273/
+
+Unity для iOS и Android теперь бесплатно для инди разработчиков | https://habrahabr.ru/post/180441/
+
+Пусть будет Unity в Вашем городе | https://habrahabr.ru/company/unity3d/blog/178901/
+
+Про Unite Nordic и мотивацию | https://habrahabr.ru/company/unity3d/blog/178651/
+
+Unity3d прекращает поддержку Flash | https://habrahabr.ru/post/177881/
+
+Дистанционный курс по Unity и Modo от render.ru | https://habrahabr.ru/company/unity3d/blog/176049/
+
+Как отправить email с Android-устройства из приложения Unity, не написав ни строчки кода на Java | https://habrahabr.ru/post/175509/
+
+Использование Photon Cloud в Unity3D | https://habrahabr.ru/post/175037/
+
+Новые инструменты для разработки игр на Windows Phone | https://habrahabr.ru/company/microsoft/blog/174583/
+
+Есть несколько причин для сумбурного и быстрого блогпоста | https://habrahabr.ru/company/unity3d/blog/174491/
+
+Unity3D для реальной реальности | https://habrahabr.ru/post/173371/
+
+Unity поддерживает PlayStation 4, PlayStation 3, PlayStation Vita, PlayStation Mobile и будущие облака | https://habrahabr.ru/company/unity3d/blog/173863/
+
+Unity Technologies теперь на Хабре. Пост о настоящем и будущем | https://habrahabr.ru/company/unity3d/blog/173715/
+
+Unity3D игра «Пятнашки» на javascript | https://habrahabr.ru/post/172415/
+
+Началось бета тестирование Unity 4 Game Engine c поддержкой Windows 8 | https://habrahabr.ru/company/microsoft/blog/171945/
+
+RedDwarf (бывший DarkStar) и Unity3D | https://habrahabr.ru/post/170931/
+
+Кросс-платформенная мобильная игра и палки в колеса от Android | https://habrahabr.ru/post/170161/
+
+Интерактивная история Apple на Пятой авеню в Unity3D | https://habrahabr.ru/post/169561/
+
+Оптимизация 2d-приложений для мобильных устройств в Unity3d | https://habrahabr.ru/post/169451/
+
+Unity3d, в помощь начинающим | https://habrahabr.ru/post/167541/
+
+Делаем простую игру с кнопками, ящиками и дверями на Unity | https://habrahabr.ru/post/167509/
+
+Практический опыт переноса ресурсов из Flash в Unity 3D | https://habrahabr.ru/post/166753/
+
+Создание небольшого гейм-проекта для Asset Store | https://habrahabr.ru/post/166259/
+
+Имитируем адаптацию глаза к темноте в 3D, или HDR для чайников | https://habrahabr.ru/post/165669/
+
+Имитируем ночное зрение человека в 3D-игре | https://habrahabr.ru/post/165563/
+
+Unity3d. Многослойное двухмерное звездное небо с помощью шейдера | https://habrahabr.ru/post/164713/
+
+Сохранение игры в Unity3D | https://habrahabr.ru/post/163071/
+
+О подключении самописного Objective-C плагина к игровому движку Unity 3D | https://habrahabr.ru/post/162991/
+
+Unity3d. Начало работы, практические советы. Рецензия | https://habrahabr.ru/post/161463/
+
+Разбираемся с шейдерами в Unity3D на конкретном примере | https://habrahabr.ru/post/158983/
+
+Unity 4 Beta | https://habrahabr.ru/post/157515/
+
+Battle City на unity за 1 день? | https://habrahabr.ru/post/156039/
+
+Разработка Unity3d-плагина для работы с Facebook | https://habrahabr.ru/post/155435/
+
+Конкурс от Viope для геймдевов по всему миру | https://habrahabr.ru/post/155393/
+
+Про Unity 3D из первых рук. Интервью | https://habrahabr.ru/company/nevosoft/blog/152501/
+
+Как я подружил Unity3D и F# | https://habrahabr.ru/post/151009/
+
+Экспорт MoCap данных в Unity3d | https://habrahabr.ru/post/146697/
+
+Unity Unite: Никто не обнимет необъятного! | https://habrahabr.ru/company/kelnik/blog/150168/
+
+Unity Unite: Амстердам в 3D | https://habrahabr.ru/company/kelnik/blog/149881/
+
+Unity3d. Уроки от Unity 3D Student (B13-B16) | https://habrahabr.ru/post/149721/
+
+Unity3D 3.x Получение текущего активного окна | https://habrahabr.ru/post/149603/
+
+Клиент-серверное общение в Unity3d | https://habrahabr.ru/post/149244/
+
+Как создать простую Tower Defense игру на Unity3D, часть первая | https://habrahabr.ru/post/148410/
+
+Принципы минимализма при разработке игр для мобильных платформ | https://habrahabr.ru/post/148313/
+
+Порядок событий в Unity3D | https://habrahabr.ru/post/147315/
+
+Unity 3D. Создаём 3D меню | https://habrahabr.ru/post/147263/
+
+Unity3d. Уроки от Unity 3D Student (B09-B12) | https://habrahabr.ru/post/145565/
+
+Прототипирование игровых проектов на Unity3d | https://habrahabr.ru/post/146780/
+
+Третье практическое задание с сайта unity3dstudent.com | https://habrahabr.ru/post/146301/
+
+В четвертой версии Unity3D появится поддержка GNU\Linux | https://habrahabr.ru/post/146055/
+
+Как я стал indie gamedev-разработчиком или особенности национальной разработки на коленке | https://habrahabr.ru/post/146038/
+
+Второе практическое задание с сайта unity3dstudent.com | https://habrahabr.ru/post/145697/
+
+Практические задания с сайта unity3dstudent.com | https://habrahabr.ru/post/145678/
+
+Unity Character Animation GDC 2012 Feature Preview | https://habrahabr.ru/post/145055/
+
+Unity3D 3.х Введение в Surface Shaders | https://habrahabr.ru/post/144622/
+
+Unity3D 3.х Terrain Bump Specular Shader | https://habrahabr.ru/post/144016/
+
+Unity3d. Уроки от Unity 3D Student (B04-B08) | https://habrahabr.ru/post/142845/
+
+Хочешь сделать хорошо — сделай это сам: редактор UnityScript на базе FlashDevelop 4 | https://habrahabr.ru/post/142939/
+
+Unity — выбираем, какой массив использовать | https://habrahabr.ru/post/142285/
+
+Unity3d. Уроки от Unity 3D Student (B00-B03) | https://habrahabr.ru/post/141362/
+
+Unity — выбираем редактор javascript | https://habrahabr.ru/post/141183/
+
+Unity3D раздает лицензии к Android и iOS бесплатно | https://habrahabr.ru/post/139517/
+
+unity3d как средство разработки трехмерных flash приложений | https://habrahabr.ru/post/138811/
+
+UnityCar — автомобили с физикой для Unity3D | https://habrahabr.ru/post/130516/
+
+Погружение в скрипты игрового движка Unity3d, ч.2 | https://habrahabr.ru/post/128948/
+
+Погружение в скрипты игрового движка Unity3d, ч.1 | https://habrahabr.ru/post/128711/
+
+Использование OpenFeint в Unity3d | https://habrahabr.ru/post/127909/
+
+2d на Unity3d | https://habrahabr.ru/post/122197/
+
+Создание простого 3D приложения с помощью ShiVa3D | https://habrahabr.ru/post/119697/
+
+Игра за два дня | https://habrahabr.ru/post/117564/
+
+Unity 3d Tank Tutorial: Ходовая часть (Урок 2. Гусеничное шасси) | https://habrahabr.ru/post/116088/
+
+Unity3d Tank Tutorial: Ходовая часть (Урок 1. Основы механики транспортного средства) | https://habrahabr.ru/post/115557/
+
+Игра по-взрослому | https://habrahabr.ru/company/sonyxperia/blog/115034/
+
+Unity3d script basics | https://habrahabr.ru/post/113859/
+
+Unity3d и развеивание некоторых мифов | https://habrahabr.ru/post/112444/
+
+Unity3D для начинающих — Туториал 1 | https://habrahabr.ru/post/112287/
+

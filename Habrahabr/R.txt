@@ -1,0 +1,376 @@
+Анализируй это — Lenta.ru | https://habrahabr.ru/post/343838/
+
+Полёты на падающих снежинках | https://habrahabr.ru/post/343700/
+
+Использование R для «промышленной» разработки | https://habrahabr.ru/post/342254/
+
+R, Asterisk и платяной шкаф | https://habrahabr.ru/post/341668/
+
+Какие самые нелюбимые языки программирования? | https://habrahabr.ru/post/341516/
+
+Глубокое обучение с R и Keras на примере Carvana Image Masking Challenge | https://habrahabr.ru/company/ods/blog/340212/
+
+А вы уже применяете R в бизнесе? | https://habrahabr.ru/post/340316/
+
+Как определить размер выборки? | https://habrahabr.ru/post/339798/
+
+Снизить косты? Easy | https://habrahabr.ru/post/339552/
+
+ggplot2: как легко совместить несколько графиков в одном, часть 3 | https://habrahabr.ru/post/339090/
+
+Простой WebScraping на R через API hh.ru | https://habrahabr.ru/post/337684/
+
+ggplot2: как легко совместить несколько графиков в одном, часть 2 | https://habrahabr.ru/post/337598/
+
+Как настроить рассылку отчетов из Яндекс.Метрики с помощью R (с нуля) | https://habrahabr.ru/post/337518/
+
+Какой язык программирования выбрать для работы с данными? | https://habrahabr.ru/post/337330/
+
+ggplot2: как легко совместить несколько графиков в одном, часть 1 | https://habrahabr.ru/post/336492/
+
+Цифровая экономика и экосистема R | https://habrahabr.ru/post/335576/
+
+Школа Данных: хорошее мы сделали еще лучше | https://habrahabr.ru/company/dataschool/blog/335394/
+
+R c H2O на Spark в HDInsight | https://habrahabr.ru/post/334898/
+
+R и большие данные: использование Replyr | https://habrahabr.ru/post/334398/
+
+Можно ли уехать из Клинцов? (data mining of blablacar.ru) | https://habrahabr.ru/post/333428/
+
+8 навыков, необходимых в профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329234/
+
+Обзор профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329068/
+
+Анализ взаимосвязи навыков с помощью графов в R | https://habrahabr.ru/post/328868/
+
+RMarkdown, R и ggplot | https://habrahabr.ru/post/327912/
+
+Школа данных: можно ли с помощью Big Data влиять на выборы | https://habrahabr.ru/company/dataschool/blog/327528/
+
+Видеозаписи докладов конференции AI&BigDataLab за последние три года | https://habrahabr.ru/company/flyelephant/blog/327390/
+
+Приглашаем на IV конференцию по практическому применению науки о данных DataScience Lab 13 мая | https://habrahabr.ru/company/flyelephant/blog/327238/
+
+Быстрая загрузка данных из файлов в R | https://habrahabr.ru/post/326616/
+
+RStudio Connect — «фейслифтинг» Shiny для корпоративного применения | https://habrahabr.ru/post/326238/
+
+О линейной регрессии: байесовский подход к курсу рубля | https://habrahabr.ru/post/324890/
+
+R, GIS и fuzzyjoin: восстанавливаем статистические данные для регионов NUTS | https://habrahabr.ru/post/325564/
+
+«Пятый элемент» в экосистеме R. WYSIWYG интерфейс для аналитиков | https://habrahabr.ru/post/325108/
+
+История 3-го места на ML Boot Camp III | https://habrahabr.ru/post/324590/
+
+Тонкости R. Как минута час экономит | https://habrahabr.ru/post/322890/
+
+R в enterprise задачах. Хитрости и трюки | https://habrahabr.ru/post/322066/
+
+Разница между статистикой и наукой о данных | https://habrahabr.ru/company/piter/blog/320772/
+
+Разработка на R: тайны циклов | https://habrahabr.ru/company/microsoft/blog/320232/
+
+Школа Данных «Билайн»: с Наступающим | https://habrahabr.ru/company/beeline/blog/318820/
+
+Распределение Пуассона и футбольные ставки | https://habrahabr.ru/post/318150/
+
+Отслеживание хода выполнения в R | https://habrahabr.ru/post/317314/
+
+«До чего дошел прогRесс». Замена «умственного» труда механическим процессом на базе R | https://habrahabr.ru/post/317130/
+
+Низкоуровневая оптимизация и измерение производительности кода на R | https://habrahabr.ru/post/316516/
+
+data.table: выжимаем максимум скорости при работе с данными в языке R | https://habrahabr.ru/company/microsoft/blog/316032/
+
+10 причин почему именно сейчас стоит попробовать Microsoft SQL Server | https://habrahabr.ru/post/316064/
+
+Еще примеры использования R для решения практических бизнес-задач | https://habrahabr.ru/post/315870/
+
+Женщины и убийства: есть ли тут взаимосвязь? [часть 2 из 2] | https://habrahabr.ru/post/312694/
+
+Создание интерактивных графиков с R и Highcharts | https://habrahabr.ru/post/314086/
+
+Голуби брутфорсят парадокс Монти Холла лучше людей | https://habrahabr.ru/post/313452/
+
+Выборы-2016. Часть 2 — удивительное рядом и оно разрешено | https://habrahabr.ru/post/313372/
+
+Выборы-2016. Часть 1 — результаты и сравнения | https://habrahabr.ru/post/313270/
+
+Кластеризация с пакетом ClusterR, часть 2 | https://habrahabr.ru/post/311168/
+
+Как программист машину покупал. Часть II | https://habrahabr.ru/post/312842/
+
+Применение R для подготовки и передачи «живой» аналитики другим бизнес-подразделениям | https://habrahabr.ru/post/312632/
+
+Женщины и убийства: есть ли тут взаимосвязь? [часть 1 из 2] | https://habrahabr.ru/post/311970/
+
+Школа Данных «Билайн», на Неве | https://habrahabr.ru/company/beeline/blog/311924/
+
+Лекции Техносферы. 1 семестр. Введение в анализ данных (весна 2016) | https://habrahabr.ru/company/mailru/blog/311694/
+
+Запрягаем R на службу бизнесу на «1-2-3» | https://habrahabr.ru/post/311330/
+
+О степенях свободы в статистике | https://habrahabr.ru/company/stepic/blog/311354/
+
+Кластеризация с пакетом ClusterR, часть 1 | https://habrahabr.ru/company/infopulse/blog/310288/
+
+ANOVA, или кто комментирует? | https://habrahabr.ru/post/304528/
+
+Вам не хватает скорости R? Ищем скрытые резервы | https://habrahabr.ru/post/310472/
+
+Запуск функций R на нескольких машинах | https://habrahabr.ru/company/infopulse/blog/309052/
+
+Применение R для работы с утверждением «Кто виноват? Конечно ИТ!» | https://habrahabr.ru/post/310108/
+
+Джентельменский набор пакетов R для автоматизации бизнес-задач | https://habrahabr.ru/post/309420/
+
+Экосистема R как инструмент для автоматизации бизнес-задач | https://habrahabr.ru/post/309350/
+
+Инструменты Data Science как альтернатива классической интеграции ИТ систем | https://habrahabr.ru/post/309246/
+
+Графические модели на основе гауссовых копул | https://habrahabr.ru/post/309182/
+
+Небольшое введение в параллельное программирование на R | https://habrahabr.ru/company/infopulse/blog/307708/
+
+R и Spark | https://habrahabr.ru/post/308534/
+
+Распознавание образов в R с использованием сверточных нейронных сетей из пакета MXNet | https://habrahabr.ru/company/infopulse/blog/307242/
+
+Решение задачи бинарной классификации в пакете машинного обучения «XGboost» | https://habrahabr.ru/company/infopulse/blog/307150/
+
+Лучшие пакеты для машинного обучения в R, часть 2 | https://habrahabr.ru/company/infopulse/blog/306184/
+
+MLBootCamp «Оценка производительности». Очень простой и быстрый вариант решения | https://habrahabr.ru/post/306198/
+
+Лучшие пакеты для машинного обучения в R, часть 1 | https://habrahabr.ru/company/infopulse/blog/305692/
+
+Методические заметки об отборе информативных признаков (feature selection) | https://habrahabr.ru/company/aligntechnology/blog/303750/
+
+Составы команд на Евро 2016: сравнение европейских футбольных лиг | https://habrahabr.ru/post/303706/
+
+Профилирование в R | https://habrahabr.ru/company/infopulse/blog/303684/
+
+Школа Данных «Билайн», без перерыва на лето | https://habrahabr.ru/company/beeline/blog/303182/
+
+Как программист машину покупал | https://habrahabr.ru/post/302788/
+
+Лучшие пакеты для работы с данными в R, часть 2 | https://habrahabr.ru/company/infopulse/blog/302624/
+
+Лучшие пакеты для работы с данными в R, часть 1 | https://habrahabr.ru/company/infopulse/blog/301914/
+
+Рост хоккеистов: анализируем данные всех чемпионатов мира в текущем веке | https://habrahabr.ru/post/301340/
+
+R в Microsoft Azure для победы на хакатоне. Инструкция по применению | https://habrahabr.ru/post/301176/
+
+Панамские документы. С миру по нитке | https://habrahabr.ru/post/300850/
+
+R: обработка пропущенных значений | https://habrahabr.ru/company/infopulse/blog/283168/
+
+Агрегирующие функции в dplyr | https://habrahabr.ru/company/infopulse/blog/281747/
+
+R: геопространственные библиотеки | https://habrahabr.ru/company/infopulse/blog/281400/
+
+Прием докладов на конференцию по искусственному интеллекту и большим данным AI&BigData Lab | https://habrahabr.ru/company/flyelephant/blog/280760/
+
+Маршрут перемещения потока данных: загрузка в реляционную БД | https://habrahabr.ru/company/ua-hosting/blog/278897/
+
+Видео-туториалы запуска вычислительных задач на Python, R, С++, Octave и Blender во FlyElephant | https://habrahabr.ru/company/flyelephant/blog/280472/
+
+Школа Данных «Билайн»: весна, знания, новый курс | https://habrahabr.ru/company/beeline/blog/280300/
+
+Генерация и визуализация многомерных данных с R | https://habrahabr.ru/company/infopulse/blog/279647/
+
+Настройка LaTeX-шаблонов для Jupyter notebook | https://habrahabr.ru/post/279601/
+
+Стратегии по ускорению кода на R, часть 2 | https://habrahabr.ru/company/infopulse/blog/277693/
+
+Стратегии по ускорению кода на R, часть 1 | https://habrahabr.ru/company/infopulse/blog/277681/
+
+Школа Данных «Билайн», для менеджеров | https://habrahabr.ru/company/beeline/blog/276749/
+
+AI, BigData & HPC Digest #4 | https://habrahabr.ru/company/flyelephant/blog/276677/
+
+Как уменьшить количество измерений и извлечь из этого пользу | https://habrahabr.ru/post/275273/
+
+Как безопасно хранить и использовать в R секретные данные | https://habrahabr.ru/company/infopulse/blog/275757/
+
+Школа Данных «Билайн», каникулы закончились | https://habrahabr.ru/company/beeline/blog/274921/
+
+Revolution R переименован в Microsoft R и доступен бесплатно для разработчиков и студентов | https://habrahabr.ru/post/275113/
+
+Новые инструменты (Octave и Scilab) во FlyElephant и анонс вебинаров | https://habrahabr.ru/company/flyelephant/blog/274883/
+
+Использование apply, sapply, lapply в R | https://habrahabr.ru/company/infopulse/blog/274611/
+
+AI, BigData & HPC Digest #3 | https://habrahabr.ru/company/flyelephant/blog/274335/
+
+Фестиваль Данных в музее Москвы, как это было | https://habrahabr.ru/company/beeline/blog/274205/
+
+Отпуск. Где? Когда? R | https://habrahabr.ru/post/273563/
+
+Фестиваль данных в музее Москвы, или как Big Data помогает жить и работать | https://habrahabr.ru/company/beeline/blog/273117/
+
+Школа Данных «Билайн», приоткрываем занавес | https://habrahabr.ru/company/beeline/blog/272799/
+
+Data Science Skills | https://habrahabr.ru/post/271085/
+
+Найди коррупционера. Анализ данных чиновников из проектов Канцелярской сотни (с примерами на R) | https://habrahabr.ru/post/271773/
+
+swirl: стремительное погружение в R (learning by doing) | https://habrahabr.ru/post/271265/
+
+Конкурс kaggle по анализу данных анкетирования населения | https://habrahabr.ru/post/270131/
+
+Визуализация статических и динамических сетей на R, часть 7, последняя | https://habrahabr.ru/company/infopulse/blog/268979/
+
+Визуализация статических и динамических сетей на R, часть 6 | https://habrahabr.ru/company/infopulse/blog/268917/
+
+AI, BigData & HPC Digest #2 | https://habrahabr.ru/company/flyelephant/blog/268327/
+
+Предсказание выживания пассажиров Титаника при помощи Azure Machine Learning | https://habrahabr.ru/company/microsoft/blog/268039/
+
+Визуализация статических и динамических сетей на R, часть 5 | https://habrahabr.ru/company/infopulse/blog/266285/
+
+Препарируем t-SNE | https://habrahabr.ru/post/267041/
+
+Визуализация статических и динамических сетей на R, часть 4 | https://habrahabr.ru/company/infopulse/blog/266199/
+
+Визуализация рынка соискателей с помощью R | https://habrahabr.ru/post/266319/
+
+Визуализация статических и динамических сетей на R, часть 3 | https://habrahabr.ru/company/infopulse/blog/263953/
+
+Ко-кластеризация: cегментирование данных вдоль и поперёк | https://habrahabr.ru/post/265489/
+
+Таблицы сопряженности: лог-линейные модели и Марковские сети | https://habrahabr.ru/post/264801/
+
+Визуализация статических и динамических сетей на R, часть 2 | https://habrahabr.ru/company/infopulse/blog/263947/
+
+Покупка оптимальной квартиры с R | https://habrahabr.ru/post/264407/
+
+Таблицы сопряженности и факторизация неотрицательных матриц | https://habrahabr.ru/post/264375/
+
+Анализ открытых данных в R, часть 1 | https://habrahabr.ru/post/264153/
+
+Визуализация статических и динамических сетей на R, часть 1 | https://habrahabr.ru/company/infopulse/blog/262079/
+
+R и Python — достойные соперники? | https://habrahabr.ru/company/piter/blog/263457/
+
+Статистический анализ ассоциативных правил в результатах опросов | https://habrahabr.ru/post/262005/
+
+Чёрная археология датамайнинга: насколько опасны «сливы» больших данных | https://habrahabr.ru/post/262305/
+
+Поиск ассоциативных правил в результатах опросов | https://habrahabr.ru/post/258789/
+
+Анализ тональности высказываний в Twitter: реализация с примером на R | https://habrahabr.ru/company/infopulse/blog/261589/
+
+Черная археология датамайнинга: что может быть эффективнее атаки по словарю? | https://habrahabr.ru/post/261331/
+
+Визуализация результатов в R: первые шаги | https://habrahabr.ru/company/stepic/blog/260981/
+
+AI, BigData & HPC Digest #1 (7 мая — 3 июня) | https://habrahabr.ru/company/flyelephant/blog/259397/
+
+Глубокое обучение на R, тренируем word2vec | https://habrahabr.ru/post/258983/
+
+Распознавание физической активности пользователей с примерами на R | https://habrahabr.ru/post/257405/
+
+AI, BigData & HPC дайджест #0. Пилотный выпуск | https://habrahabr.ru/company/flyelephant/blog/257463/
+
+Просмотр конфигурации массивов Storwize с R – Shiny Dashboard | https://habrahabr.ru/post/256689/
+
+R в качестве инструмента мониторинга цен | https://habrahabr.ru/post/255173/
+
+Мешок слов и сентимент-анализ на R | https://habrahabr.ru/post/255143/
+
+Визуализация статистики производительности оборудования с R – Shiny | https://habrahabr.ru/post/253419/
+
+Основы статистики: просто о сложных формулах | https://habrahabr.ru/company/stepic/blog/250527/
+
+Язык программирования R | https://habrahabr.ru/company/piter/blog/249621/
+
+Расшифровываем формулу Хабра-рейтинга или восстановление функциональных зависимостей по эмпирическим данным | https://habrahabr.ru/post/249375/
+
+Новости Microsoft: поддержка R, новый Power BI для аналитики и отчетов, анимация и 3D-графика в облаке | https://habrahabr.ru/company/microsoft/blog/249079/
+
+Data tidying: Подготовка наборов данных для анализа на конкретных примерах | https://habrahabr.ru/post/248741/
+
+R reference manual | https://habrahabr.ru/post/246455/
+
+Нефтяные ряды в R | https://habrahabr.ru/post/243211/
+
+Сравнение скорости построения линейных моделей в R и Eviews | https://habrahabr.ru/post/245641/
+
+Анализ тональности текста с помощью Azure Machine Learning | https://habrahabr.ru/post/243705/
+
+Применение машинного обучения в трейдинге. Часть 2 | https://habrahabr.ru/post/236769/
+
+Несколько слов о «линейной» регрессии | https://habrahabr.ru/post/233059/
+
+Применение машинного обучения в трейдинге | https://habrahabr.ru/post/234303/
+
+R + C + CUDA =… | https://habrahabr.ru/post/220927/
+
+План-факт, динамика и прибыль на одной диаграмме c помощью R | https://habrahabr.ru/post/220135/
+
+Расширяем возможности MS Excel 2010 c помощью R | https://habrahabr.ru/post/219229/
+
+Анализ и визуализация реальных табличных данных в R | https://habrahabr.ru/post/217963/
+
+Анимированные графики в R (и немного про бифуркацию, хаос и аттракторы) | https://habrahabr.ru/post/215789/
+
+Let's fix NAs | https://habrahabr.ru/post/207750/
+
+Построение модели SARIMA с помощью Python+R | https://habrahabr.ru/post/210530/
+
+Введение в параллельные вычисления в R | https://habrahabr.ru/post/206892/
+
+R: хороплет-карта России с увеличенной европейской частью | https://habrahabr.ru/post/201012/
+
+R: пакет ellipse для визуализации доверительных областей | https://habrahabr.ru/post/199282/
+
+Визуализация двумерного гауссиана на плоскости | https://habrahabr.ru/post/199060/
+
+Как воспользоваться возможностями R в C++ | https://habrahabr.ru/post/198012/
+
+Оценка результатов линейной регрессии | https://habrahabr.ru/post/195146/
+
+jqGrid для Raudus | https://habrahabr.ru/post/189808/
+
+Практическое приложение к «I Love R». Неплановое | https://habrahabr.ru/post/180155/
+
+Скрытые цепи Маркова, алгоритм Витерби | https://habrahabr.ru/post/180109/
+
+Статистические тесты в R. Часть 3: Тесты количественных данных | https://habrahabr.ru/post/176795/
+
+Статистические тесты в R. Часть 2: Тесты качественных данных | https://habrahabr.ru/post/168877/
+
+Шпаргалка по языку R | https://habrahabr.ru/post/169093/
+
+Мой опыт введения в R или «I Love R» | https://habrahabr.ru/post/168817/
+
+Пример ускорения расчётов в R путём многопоточности | https://habrahabr.ru/post/168399/
+
+Статистические тесты в R. Часть 1: Бинарная классификация | https://habrahabr.ru/post/167341/
+
+Визуализация статистики использования компьютера с R | https://habrahabr.ru/post/165337/
+
+Динамическая визуализация геокодированных данных (Twitter) с помощью R | https://habrahabr.ru/post/165305/
+
+Параллелим R | https://habrahabr.ru/post/163277/
+
+R в C++ | https://habrahabr.ru/post/161983/
+
+Язык R в помощь хабра-статисту | https://habrahabr.ru/post/162583/
+
+Попробуй R | https://habrahabr.ru/post/161625/
+
+Введение в R-project | https://habrahabr.ru/post/160373/
+
+Как я покупал квартиру | https://habrahabr.ru/post/148782/
+
+Анализируем Twitter при помощи R | https://habrahabr.ru/post/140093/
+
+Метилирование ДНК и биоинформатика | https://habrahabr.ru/post/137285/
+
+Среда статистических вычислений R: опыт использования в преподавании | https://habrahabr.ru/post/92135/
+

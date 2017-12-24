@@ -1,0 +1,202 @@
+Как мы переписали архитектуру Яндекс.Погоды и сделали глобальный прогноз на картах | https://habrahabr.ru/company/yandex/blog/343518/
+
+WebGL: перевод игры с мобильной платформы на десктопную | https://habrahabr.ru/company/plarium/blog/343084/
+
+Знакомьтесь, NoteCAD | https://habrahabr.ru/post/341816/
+
+Разработка браузерной онлайн игры без фреймворков и движков | https://habrahabr.ru/post/339566/
+
+Как я браузерный 3D-футбол писала. Часть 2 | https://habrahabr.ru/post/339028/
+
+FrontFest.Mix — 7 тем о кодстайле, WebGL, A/B, RON, шаблонизации, экосистеме JavaScript и жизни программиста | https://habrahabr.ru/company/2gis/blog/339212/
+
+Как я написал свою CMS, и почему не рекомендую вам делать то же самое | https://habrahabr.ru/company/parallels/blog/338492/
+
+Как я браузерный 3D-футбол писала. Часть 1 | https://habrahabr.ru/post/337500/
+
+Создание шейдера дыма на GLSL | https://habrahabr.ru/post/333718/
+
+Создание шейдеров | https://habrahabr.ru/post/333002/
+
+Рисование толстых линий в WebGL | https://habrahabr.ru/post/331164/
+
+Производительность WebGL-приложений | https://habrahabr.ru/company/oleg-bunin/blog/328526/
+
+Методология VR-разработки | https://habrahabr.ru/post/326392/
+
+Отчет и презентации с Moscow JS в офисе Superjob | https://habrahabr.ru/company/superjob/blog/325512/
+
+Трехмерная графика в вебе | https://habrahabr.ru/post/325646/
+
+Создание вашей первой игры на Phaser. Часть 3 — Создание игрового мира | https://habrahabr.ru/post/325384/
+
+Прямая трансляция MoscowJS из офиса Superjob | https://habrahabr.ru/company/superjob/blog/325286/
+
+VR Design: содержимое сцен | https://habrahabr.ru/post/325284/
+
+Создание вашей первой игры на Phaser. Часть 2 — Загрузка ресурсов | https://habrahabr.ru/post/325220/
+
+Создание вашей первой игры на Phaser. Часть 1 — Введение | https://habrahabr.ru/post/324896/
+
+Создание вашей первой игры на Phaser. Часть 0 — Подготовка к работе | https://habrahabr.ru/post/324894/
+
+Шейдер меха на WebGL 2 | https://habrahabr.ru/post/324728/
+
+VR/AR в браузере. Как быстро влиться и сделать свое первое приложение, используя WebVR API | https://habrahabr.ru/company/tuturu/blog/324570/
+
+Руководство начинающего программиста графических шейдеров | https://habrahabr.ru/company/infopulse/blog/324476/
+
+VR-Design: User Interface | https://habrahabr.ru/post/324002/
+
+Звуковые эффекты в виртуальных мирах | https://habrahabr.ru/post/323072/
+
+Через тернии к облакам: создание облачного сервиса для 3D проектирования и дизайна помещений на базе ядра C3D и WebGL | https://habrahabr.ru/post/319406/
+
+Как сделать кроссплатформенное десктопное приложение на базе веб-технологий | https://habrahabr.ru/company/oleg-bunin/blog/319888/
+
+Нестандартное использование Twitter | https://habrahabr.ru/post/318822/
+
+Новые перспективные площадки для игр HTML5 | https://habrahabr.ru/post/317736/
+
+Неигровой VR: перспективы и возможности в вебе, – интервью с VR-энтузиастом Martin Splitt, Archilogic | https://habrahabr.ru/company/jugru/blog/315868/
+
+Портирование Android-приложения на WebGL | https://habrahabr.ru/post/315736/
+
+Как я писал игру на конкурс, или чудесное превращение «Линий» в «Морской бой» | https://habrahabr.ru/post/313682/
+
+Создаем игру для WebGL с помощью Unity 5 и JavaScript | https://habrahabr.ru/company/plarium/blog/312318/
+
+Создание шейдеров на основе Babylon.js и WebGL: теория и примеры | https://habrahabr.ru/company/plarium/blog/311138/
+
+NanoFL: краткое описание возможностей | https://habrahabr.ru/company/nanofl/blog/311086/
+
+Blend4Web vs Unity. Битва на ринге. Раунд 2 | https://habrahabr.ru/post/310086/
+
+WebGL + WebAudio = Tower Defense | https://habrahabr.ru/post/309526/
+
+ThreeJS Editor | https://habrahabr.ru/post/307334/
+
+Этажи: 3D-навигация на WebGL в 2gis.ru | https://habrahabr.ru/company/2gis/blog/282207/
+
+WebGL на Unity3d — двенадцать проблем при сборке проекта | https://habrahabr.ru/post/281428/
+
+Выбираем библиотеку для работы с WebGL | https://habrahabr.ru/post/278731/
+
+История бесконечного города. На Three.js | https://habrahabr.ru/post/278043/
+
+Создание пользовательского интерфейса для Blend4Web (ч.1) | https://habrahabr.ru/post/277533/
+
+Многопользовательский онлайн-шутер на WebGL и asyncio, часть вторая | https://habrahabr.ru/post/252575/
+
+Полгода работы с Blend4Web. А стоит ли оно этого? | https://habrahabr.ru/post/276147/
+
+ЗаПулить по простому. Менеджер пула на JavaScript | https://habrahabr.ru/post/275307/
+
+WebGL для всех | https://habrahabr.ru/company/2gis/blog/273735/
+
+Побег Джедая: Да прибудет с тобой гироскоп | https://habrahabr.ru/post/273395/
+
+Динамические свет и тени в моей 2d игре | https://habrahabr.ru/post/272427/
+
+2D тени на WebGL за 4 простых шага | https://habrahabr.ru/post/272233/
+
+Blend4Web. Система событий | https://habrahabr.ru/post/271625/
+
+Гравитационное поле на поверхности тел неправильной формы на примере кометы Чурюмова-Герасименко | https://habrahabr.ru/post/271451/
+
+Создание игры на Blend4Web. Зачатки интеллекта | https://habrahabr.ru/post/269779/
+
+Тутор по BabylonJS — использование спрайтов | https://habrahabr.ru/post/268969/
+
+Подготовка персонажа для Blend4Web | https://habrahabr.ru/post/268937/
+
+Браузерная 3D WebGL игра с возможностью установки в IndexedDB | https://habrahabr.ru/post/268919/
+
+Осциллоскоп на WebGL | https://habrahabr.ru/post/268801/
+
+Тутор по BabylonJS — камера и освещение | https://habrahabr.ru/post/268183/
+
+Площадки для браузерных игр | https://habrahabr.ru/post/268079/
+
+Z-Desk — геометрические построения в пространстве | https://habrahabr.ru/post/266721/
+
+BabylonJS. Урок 2 — базовые меши | https://habrahabr.ru/post/267111/
+
+Урок по BabylonJS — создание базовой сцены | https://habrahabr.ru/post/266959/
+
+Как подружить HTML5 с мобильными ОС | https://habrahabr.ru/post/266939/
+
+Анализ производительности игры на WebGL при помощи about:tracing | https://habrahabr.ru/post/264639/
+
+Почему в NASA отказались от Unity в пользу Blend4Web | https://habrahabr.ru/post/264457/
+
+Создание игры на Blend4Web. Путь программиста | https://habrahabr.ru/post/264115/
+
+Создание игры на Blend4Web. Сцена и окружение | https://habrahabr.ru/post/263453/
+
+Что выбрать для 3D сайта – Three.js или Blend4Web? | https://habrahabr.ru/post/262749/
+
+Что нового в Babylon.js | https://habrahabr.ru/post/260813/
+
+Blend4Web vs Unity. Битва за Интернет | https://habrahabr.ru/post/260391/
+
+Blend4Web: обзор новинки отечественного софтопрома | https://habrahabr.ru/post/259437/
+
+Пересчет изображений под разные картографические проекции в webGL | https://habrahabr.ru/post/258415/
+
+Microsoft хакатон «IoT — интернет вещей» в Нижнем Новгороде | https://habrahabr.ru/post/255447/
+
+Редактирование шейдеров WebGL на лету — теперь и в Хроме | https://habrahabr.ru/post/255211/
+
+Игровой мир WebGL или Three.js vs Babylon.js | https://habrahabr.ru/post/246259/
+
+Звездное небо на webGL с использованием three.js | https://habrahabr.ru/post/247571/
+
+Сказ о том, как мы в хакатонах участвовали, или Страх и Ненависть в Кремниевой Долине | https://habrahabr.ru/post/245783/
+
+Днепропетровский Ciklum Speakers’ Corner “Intro to WebGL with THREE.js (based on Source's «Leaderboard in Reception»)”, 30 октября | https://habrahabr.ru/company/Ciklum/blog/241443/
+
+Blend4Web, открытая платформа для создания трехмерных веб-приложений | https://habrahabr.ru/post/240907/
+
+Музейные приключения с телефоном | https://habrahabr.ru/post/236973/
+
+Платформер на Three.js | https://habrahabr.ru/post/231987/
+
+Собственный движок WebGL. Статья №3. Примитивы | https://habrahabr.ru/post/227415/
+
+Собственный движок WebGL. Статья №2. Матрица | https://habrahabr.ru/post/227285/
+
+Собственный движок WebGL. Статья №1. Холст | https://habrahabr.ru/post/227201/
+
+Изучаем Three.js.Глава 2: Работа с основными компонентами, из которых состоитThree.js-сцена | https://habrahabr.ru/post/225199/
+
+Изучаем Three.js.Глава 1: Создаем нашу первую 3D-сцену, используя Three.js | https://habrahabr.ru/post/224509/
+
+Реализуем 3D картинку в браузере | https://habrahabr.ru/post/212297/
+
+Создание 3D-иллюстраций — прототип системы | https://habrahabr.ru/post/209496/
+
+WebGL Эксперимент + Google Analytics + Leap Motion | https://habrahabr.ru/post/208960/
+
+Карта звездной системы на Three.js/WebGL | https://habrahabr.ru/post/203378/
+
+Создание игр для Windows Store c использованием WebGL | https://habrahabr.ru/company/microsoft/blog/203550/
+
+Редактирование шейдеров WebGL на лету с помощью Firefox Developer Tools | https://habrahabr.ru/company/codeorchestra/blog/202046/
+
+Карта галактики на Three.js/WebGL | https://habrahabr.ru/post/201790/
+
+100.000 Stars, или карта галактики от Google | https://habrahabr.ru/post/197872/
+
+Pixi.js — 2D движок с прозрачной поддержкой WebGL | https://habrahabr.ru/post/174603/
+
+Как сделать 3D шутер на JavaScript за пару дней | https://habrahabr.ru/post/164003/
+
+Платформа для экспериментов на Three.JS и WebGL | https://habrahabr.ru/post/149560/
+
+Three.js — 3d движок на Javascript | https://habrahabr.ru/post/117772/
+
+Опера, WebGL и аппаратное ускорение | https://habrahabr.ru/post/114659/
+
+Знакомство с WebGL | https://habrahabr.ru/post/112430/
+

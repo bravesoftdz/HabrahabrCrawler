@@ -1,0 +1,98 @@
+Удалённый рабочий стол + распределённые команды =? | https://habrahabr.ru/post/338100/
+
+Дюжина приемов в Linux, которые действительно сэкономят уйму времени | https://habrahabr.ru/post/340544/
+
+Немного предпятничных задачек на Bash | https://habrahabr.ru/post/339246/
+
+VHD Native Boot снаружи и внутри | https://habrahabr.ru/post/327308/
+
+Переход с bash на zsh | https://habrahabr.ru/post/326580/
+
+Windows 10 Creators Update: что нового в Bash/WSL и Windows Console | https://habrahabr.ru/post/326432/
+
+Настоящий Unix — не есть приемлемый Unix | https://habrahabr.ru/post/326176/
+
+findNclean: найти и вычистить | https://habrahabr.ru/post/323828/
+
+Загрузка доверенной среды или лёгкий путь к паранойе в IT | https://habrahabr.ru/company/echelon/blog/324178/
+
+Ansible: настраиваем zsh терминал с antigen, autosuggestions, fzf и красивым prompt одной командой | https://habrahabr.ru/post/323496/
+
+Automount afuse | https://habrahabr.ru/post/321636/
+
+Дайджест важных Linux событий 2016 — юбилеи | https://habrahabr.ru/post/319176/
+
+“Nano-Framework” для автоматизации добавления скриптов в .{bash/zsh}rc | https://habrahabr.ru/post/319000/
+
+Grep все, что можно | https://habrahabr.ru/post/316414/
+
+Методы удаленного доступа к Linux GUI | https://habrahabr.ru/company/ruvds/blog/312556/
+
+Автор сurl просит Microsoft удалить алиасы curl и wget из PowerShell | https://habrahabr.ru/post/308140/
+
+Microsoft открыла исходный код PowerShell | https://habrahabr.ru/post/308076/
+
+0day уязвимости в lshell | https://habrahabr.ru/post/308028/
+
+Сопроцессы: -что, -как, -зачем? | https://habrahabr.ru/post/307562/
+
+Улучшаем работу в консоли или как я написал команду sshcdvim | https://habrahabr.ru/post/280690/
+
+Трюки, облегчающие жизнь в zsh | https://habrahabr.ru/post/272581/
+
+Разноцветные терминалы | https://habrahabr.ru/post/269967/
+
+Unix shell: абсолютно первые шаги | https://habrahabr.ru/post/267825/
+
+Избавляемся от «исторических причин» в cmd.exe более лёгким и стандартным способом | https://habrahabr.ru/post/263105/
+
+Show version and haiku, но не только: ищем все скрытые команды Junos | https://habrahabr.ru/post/251245/
+
+Обзор Friendly interactive shell (fish) и почему она лучше bash | https://habrahabr.ru/post/248881/
+
+XFeatures — Полезное расширение для ATMEL STUDIO 6 | https://habrahabr.ru/post/243129/
+
+ToFoIn – Toggle Failover of Internet или переключение между двумя внешними каналами в FreeBSD | https://habrahabr.ru/post/241654/
+
+Окружение, опережающее мысль | https://habrahabr.ru/post/238523/
+
+UEFI — Ааа, слышал… но все же, что это? | https://habrahabr.ru/post/203966/
+
+Десятка лучших консольных команд | https://habrahabr.ru/post/198482/
+
+Еще один взгляд на планшет для пожилых | https://habrahabr.ru/post/189058/
+
+Парсинг CSV-файла средствами bash и awk | https://habrahabr.ru/post/184956/
+
+Переносим функциональность bash в cmd.exe | https://habrahabr.ru/post/177033/
+
+Уведомления о завершении консольных команд | https://habrahabr.ru/post/174449/
+
+Проверка входных параметров или косвенные ссылки на BASH | https://habrahabr.ru/post/172475/
+
+zsh: tips & tricks | https://habrahabr.ru/post/164597/
+
+Inferno Shell | https://habrahabr.ru/post/161859/
+
+О разных командных оболочках Linux и Unix | https://habrahabr.ru/post/157283/
+
+Проверка баланса телефона в консоли | https://habrahabr.ru/post/156581/
+
+Android прошивки на личном опыте | https://habrahabr.ru/post/153361/
+
+Как установить и настроить оболочку ridiculous fish в Debian Squeeze | https://habrahabr.ru/post/150096/
+
+Удалённая установка приложений | https://habrahabr.ru/post/146416/
+
+Регулярные выражения внутри bash | https://habrahabr.ru/post/128059/
+
+Управление заданиями | https://habrahabr.ru/post/112539/
+
+Частые ошибки программирования на Bash (окончание) | https://habrahabr.ru/post/48053/
+
+Частые ошибки программирования на Bash (продолжение) | https://habrahabr.ru/post/47915/
+
+Частые ошибки программирования на Bash | https://habrahabr.ru/post/47706/
+
+Анонс блога «Оболочки» | https://habrahabr.ru/post/47700/
+

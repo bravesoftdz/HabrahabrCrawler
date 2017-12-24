@@ -1,0 +1,140 @@
+Адаптивные email-письма без боли и страданий | https://habrahabr.ru/company/englishdom/blog/340852/
+
+Простой эксплойт даёт злоумышленникам возможность изменить содержимое письма после отправки | https://habrahabr.ru/company/cloud4y/blog/336296/
+
+Визуальный редактор писем на React+Redux. Обзор, пример использования и расширения | https://habrahabr.ru/post/329488/
+
+Проектирование и разработка шаблонного движка на C# и ANTLR | https://habrahabr.ru/company/mindbox/blog/329772/
+
+Гид по верстке адаптивных писем | https://habrahabr.ru/company/netologyru/blog/324970/
+
+Отправка электронной почты в формате HTML | https://habrahabr.ru/post/317810/
+
+Так когда же умрет электронная почта? | https://habrahabr.ru/company/pechkin/blog/315834/
+
+Список бесплатных транзакционных, хостинговых и маркетинговых email-провайдеров | https://habrahabr.ru/company/hosting-cafe/blog/313646/
+
+Верстка адаптивных электронных писем: Проблемы и их решения | https://habrahabr.ru/company/pechkin/blog/311656/
+
+«Пишите письма»: Три техники верстки хороших email’ов | https://habrahabr.ru/company/pechkin/blog/311572/
+
+How-to: гайд по созданию интерактивных писем | https://habrahabr.ru/company/pechkin/blog/308954/
+
+От инструмента общения ученых до мирового стандарта: Краткая история электронной почты | https://habrahabr.ru/company/pechkin/blog/303672/
+
+Нейронные сети, типографика и вёрстка: Дайджест интересных материалов о создании писем и работе с email на Хабрахабре | https://habrahabr.ru/company/pechkin/blog/302244/
+
+Как отправить электронное письмо с помощью Python: руководство для «чайников» | https://habrahabr.ru/company/pechkin/blog/281915/
+
+Как составлять email-автоответы: Анализ 100 заявок в службы поддержки ИТ-компаний | https://habrahabr.ru/company/pechkin/blog/277895/
+
+Gmailify: лучшие из функций Gmail теперь доступны без почтового ящика @gmail | https://habrahabr.ru/company/host-tracker/blog/277475/
+
+Подборка: 40+ полезных инструментов, ресурсов и исследований о работе с email | https://habrahabr.ru/company/pechkin/blog/275603/
+
+Email-рассылка со своего сервера: подводные камни | https://habrahabr.ru/post/275047/
+
+Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться | https://habrahabr.ru/company/pechkin/blog/274667/
+
+Вёрстка писем: 60 полезных ресурсов, руководств и исследований | https://habrahabr.ru/company/pechkin/blog/273677/
+
+Зачем нужны plain-text письма, и как их нужно делать: 6 советов | https://habrahabr.ru/company/pechkin/blog/272971/
+
+Пиратские метрики: как создать email-кампанию по принципу AARRR. Часть 5 | https://habrahabr.ru/company/pechkin/blog/271333/
+
+Пиратские метрики: как создать email-кампанию по принципу AARRR. Часть 4 | https://habrahabr.ru/company/pechkin/blog/270821/
+
+Пиратские метрики: как создать email-кампанию по принципу AARRR. Часть 3 | https://habrahabr.ru/company/pechkin/blog/270143/
+
+Пиратские метрики: как создать email-кампанию по принципу AARRR. Часть 2 | https://habrahabr.ru/company/pechkin/blog/269775/
+
+Пиратские метрики: как создать email-кампанию по принципу AARRR от Дейва МакКлюра. Часть 1 | https://habrahabr.ru/company/pechkin/blog/269381/
+
+Номера телефонов в почтовых клиентах | https://habrahabr.ru/post/269045/
+
+Эксперимент: Стоит ли использовать формы в email | https://habrahabr.ru/company/pechkin/blog/268927/
+
+Адаптивные email-письма и media queries: Проблемы и решения | https://habrahabr.ru/company/pechkin/blog/268527/
+
+Перевод. Я оставил свои системные шрифты в Сан Франциско | https://habrahabr.ru/post/268383/
+
+How-to: Процесс создания верстки html-писем | https://habrahabr.ru/company/pechkin/blog/268025/
+
+Как создать слайдер изображений в почтовом сообщении | https://habrahabr.ru/company/pechkin/blog/267565/
+
+Сумбурно о разработке писем | https://habrahabr.ru/post/267499/
+
+«Сделал и забыл»: Почему в верстке email-писем так не бывает | https://habrahabr.ru/company/pechkin/blog/267055/
+
+Верстка писем: Что такое «кинетический email» | https://habrahabr.ru/company/pechkin/blog/266611/
+
+По-настоящему адаптивные письма. Часть вторая. Фреймворк | https://habrahabr.ru/post/265753/
+
+Как сверстать интерактивные вкладки в email-письме | https://habrahabr.ru/company/pechkin/blog/265409/
+
+How-to: Техники создания интерактивных email-писем с помощью CSS | https://habrahabr.ru/company/pechkin/blog/264967/
+
+Как пасхалки в email помогли компании привлечь внимание к своей конференции | https://habrahabr.ru/company/pechkin/blog/264523/
+
+Режим читателя: Пагинация в мобильных email-письмах | https://habrahabr.ru/company/pechkin/blog/264129/
+
+How-to: адаптивные письма в Gmail | https://habrahabr.ru/company/pechkin/blog/263699/
+
+7 простых советов по оптимизации писем под мобильные устройства | https://habrahabr.ru/company/pechkin/blog/263189/
+
+Может ли email быть «резиновым»? | https://habrahabr.ru/company/pechkin/blog/262585/
+
+По-настоящему адаптивные письма. Часть… снова первая | https://habrahabr.ru/post/262427/
+
+По-настоящему адаптивные письма. Часть первая | https://habrahabr.ru/post/261455/
+
+Как сверстать фоновое HTML5-видео в email-сообщении | https://habrahabr.ru/company/pechkin/blog/261447/
+
+Что нужно знать о работе с текстом превью email-писем | https://habrahabr.ru/company/pechkin/blog/260945/
+
+iPhone vs Android: Как сделать так, чтобы письмо хорошо выглядело на каждой платформе | https://habrahabr.ru/company/pechkin/blog/260499/
+
+Создаём отзывчивые письма для будущего без медиа-запросов | https://habrahabr.ru/post/259793/
+
+Дизайн простоты: Как делать эффективные plain-text письма | https://habrahabr.ru/company/pechkin/blog/259333/
+
+Как создать email-письмо, которое увидит только Apple Watch | https://habrahabr.ru/company/pechkin/blog/258871/
+
+Использование media queries в вёрстке email-писем: за и против | https://habrahabr.ru/company/pechkin/blog/258313/
+
+Как использовать прогрессивное улучшение для вёрстки писем | https://habrahabr.ru/company/pechkin/blog/257915/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 2) | https://habrahabr.ru/company/pechkin/blog/257397/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 1) | https://habrahabr.ru/company/pechkin/blog/256853/
+
+О чем говорят 100 млн писем: Полная инструкция по работе с email-рассылками | https://habrahabr.ru/company/pechkin/blog/256245/
+
+How-to: Правила вёрстки email-писем | https://habrahabr.ru/company/pechkin/blog/255819/
+
+26 полезных советов из области email-маркетинга от самых успешных компаний со всего мира | https://habrahabr.ru/company/pechkin/blog/255167/
+
+Верстка email рассылок от А до Я для чайников | https://habrahabr.ru/post/252279/
+
+Простые шаблоны писем в MS Outlook VBA | https://habrahabr.ru/post/249947/
+
+Как мы измеряем скорость загрузки Яндекс.Почты | https://habrahabr.ru/company/yandex/blog/244243/
+
+Технические рекомендации к почтовым рассылкам | https://habrahabr.ru/company/mailru/blog/239963/
+
+Верстка писем и email рассылок. Немного магии Gmail | https://habrahabr.ru/post/193790/
+
+Верстка писем, набор сниппетов | https://habrahabr.ru/post/193430/
+
+5 правил верстки email-писем от Печкина | https://habrahabr.ru/company/pechkin/blog/182964/
+
+Основы профессиональной верстки электронных писем | https://habrahabr.ru/post/180013/
+
+Верстка писем. Снова баги | https://habrahabr.ru/post/174971/
+
+Верстка рассылок — что мы имеем? | https://habrahabr.ru/post/157309/
+
+Костыли при верстке рассылок | https://habrahabr.ru/company/unisender/blog/115962/
+
+Верстка почтовых рассылок | https://habrahabr.ru/post/112163/
+

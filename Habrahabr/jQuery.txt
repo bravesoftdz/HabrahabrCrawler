@@ -1,0 +1,982 @@
+HistoryAPI: Как написать один раз, и чтобы голова не болела | https://habrahabr.ru/post/342280/
+
+Создание резервной копии большой удалённой БД средствами YII2 | https://habrahabr.ru/post/341840/
+
+Vue.js tutorial: от jQuery к Vue.js | https://habrahabr.ru/post/341798/
+
+Парсим на Java | https://habrahabr.ru/post/339182/
+
+Свой сервер обложек на Python для интернет-радио | https://habrahabr.ru/post/338564/
+
+Реализация, аналог и адаптация для «чистого» JavaScript'а JQuery функции JQuery(); и прилегающие к ней | https://habrahabr.ru/post/335958/
+
+Реализация и альтернатива основных JQuery функций на чистом JavaScript | https://habrahabr.ru/post/335926/
+
+Форма авторизации с отправкой зашифрованного пароля | https://habrahabr.ru/post/334388/
+
+Добавляем реактивность в строковые шаблонизаторы | https://habrahabr.ru/post/331400/
+
+Регистрация и авторизация пользователя на сайте — одним кликом — через кастомную кнопку Facebook. 2017 | https://habrahabr.ru/post/325514/
+
+Круглый график на Canvas | https://habrahabr.ru/post/325428/
+
+Делаем более-менее универсальный калькулятор услуг для сайта | https://habrahabr.ru/company/uteam/blog/324620/
+
+Топ-5 альтернатив jQuery UI | https://habrahabr.ru/company/ruvds/blog/324478/
+
+Фиксим странное поведение плагина jQuery uploadify (и один баг) | https://habrahabr.ru/post/321404/
+
+Пишем самый простой и быстрый input type file | https://habrahabr.ru/post/321250/
+
+Рецепт разработки бота под Telegram | https://habrahabr.ru/post/316824/
+
+От Jquery UI до Ext.js: обзор библиотек виджетов для построения интерфейса на JS. Часть 2 | https://habrahabr.ru/post/315882/
+
+Скроллинг контента методом касания и перетаскивания на jQuery | https://habrahabr.ru/post/313922/
+
+JsTree — построение простого дерева с помощью JAVA | https://habrahabr.ru/post/313208/
+
+От Jquery UI до Ext.js: обзор javascript UI библиотек для SPA. Часть 1 | https://habrahabr.ru/post/313128/
+
+[Select-Form]: Пишем свой select-список, используя jQuery и CSS | https://habrahabr.ru/post/312532/
+
+Каково оно учить JavaScript в 2016 | https://habrahabr.ru/post/312022/
+
+Фреймворк для простых проектов на jQuery | https://habrahabr.ru/post/311404/
+
+Масштабирование текста в блоке с помощью Jquery | https://habrahabr.ru/post/309678/
+
+Необычные jQuery и CSS селекторы | https://habrahabr.ru/post/309276/
+
+Зачем нам jQuery? | https://habrahabr.ru/company/piter/blog/308134/
+
+Пример реализации autocomplete с использованием FTS движка PostgreSQL tsearch2 | https://habrahabr.ru/post/307858/
+
+Youtube Player — создание собственного плеера на JavaScript | https://habrahabr.ru/post/306726/
+
+Управление вибрацией с помощью библиотеки jquery.vibrate.js | https://habrahabr.ru/post/304472/
+
+jQuery UI Datepicker — добавление возможности выбора нескольких дат на одном календаре | https://habrahabr.ru/post/303186/
+
+jQuery 3.0 Final Released | https://habrahabr.ru/post/303034/
+
+Релиз jQuery 3.0 Release Candidate | https://habrahabr.ru/post/301482/
+
+Тестовое задание. Проверка вхождения точки в произвольный полигон | https://habrahabr.ru/post/283294/
+
+Подводные камни .load() и .get() | https://habrahabr.ru/post/280298/
+
+Правила хорошего тона при написании плагина на jQuery | https://habrahabr.ru/post/277603/
+
+jQuery плагин для Постройки мозаики из блоков | https://habrahabr.ru/post/274683/
+
+Подсветка интерактивных карт с помощью jquery.maphilight.js | https://habrahabr.ru/post/274145/
+
+Добавляем анимацию сортировки в jQuery UI | https://habrahabr.ru/post/273923/
+
+bala.js — убийца jQuery в менее чем 400 символах кода * | https://habrahabr.ru/post/273751/
+
+Хватит использовать jQuery, вы способны сделать лучше без него | https://habrahabr.ru/post/273359/
+
+Air Datepicker, легкий и красивый выбор даты | https://habrahabr.ru/post/272173/
+
+Angular Light для jQuery/JS разработчиков | https://habrahabr.ru/post/272125/
+
+Внедрение зависимостей в Angular 2 | https://habrahabr.ru/company/piter/blog/270837/
+
+Jiant. Модели для фронтенд приложения | https://habrahabr.ru/post/270645/
+
+Создание космической браузерной игры. Первый опыт | https://habrahabr.ru/post/268973/
+
+Многострочный textarea placeholder, который работает в Firefox | https://habrahabr.ru/post/268947/
+
+jQuery Autocomplete: передача параметров из одного поля в другое | https://habrahabr.ru/post/267191/
+
+JQuery — разделение событий onСlick и onDblСlick | https://habrahabr.ru/post/265009/
+
+Как в проекте заменить jQuery на D3 | https://habrahabr.ru/post/264861/
+
+jQuery Video Extend — расширение возможностей HTML5 видео плеера | https://habrahabr.ru/post/264719/
+
+Опубликованы jQuery 3.0 alpha и jQuery Compat 3.0 alpha | https://habrahabr.ru/post/262727/
+
+Мультизагрузка в wysiwyg редакторе | https://habrahabr.ru/post/262195/
+
+Скруглы — border-radius inset для картинок | https://habrahabr.ru/post/259603/
+
+tmsTable — как я писал плагин для отображения таблиц, руководствуясь принципом KISS | https://habrahabr.ru/post/259795/
+
+С чего начинался jQuery | https://habrahabr.ru/post/259457/
+
+AngularJS против Backbone.js против Ember.js | https://habrahabr.ru/post/259311/
+
+jQuery считается вредным | https://habrahabr.ru/post/259223/
+
+Scrollport.js — новая анимация скролла | https://habrahabr.ru/post/258383/
+
+Типограф — история продолжается | https://habrahabr.ru/post/257415/
+
+Поиск по странице с помощью jQuery | https://habrahabr.ru/post/257025/
+
+(Архив) 10 причин попробовать Матрешку | https://habrahabr.ru/company/matreshka/blog/254927/
+
+Matreshka.js 2: От простого к простому | https://habrahabr.ru/company/matreshka/blog/254889/
+
+(Архив) Вышла первая версия фреймворка Matreshka.js | https://habrahabr.ru/company/matreshka/blog/253909/
+
+Корзинка для каталога товаров (minibasket.js) | https://habrahabr.ru/post/254357/
+
+Разработка векторного редактора на JavaScript (часть вторая, с исходниками) | https://habrahabr.ru/post/254291/
+
+Хочу таймер и счётчик загруженных строк на Web-форме | https://habrahabr.ru/post/253875/
+
+Введение в разработку слайд-шоу на JavaScript | https://habrahabr.ru/post/251783/
+
+Не CDN единым | https://habrahabr.ru/post/250663/
+
+Как мы написали helpdesk (часть 2) | https://habrahabr.ru/post/245155/
+
+Топ-10 вещей, которые мы поняли во время работы с Foundation for Apps | https://habrahabr.ru/post/235931/
+
+Как MooTools jQuery заборол, или детектив в стиле Коломбо | https://habrahabr.ru/post/249733/
+
+Templater — менеджер шаблонов и твикер для MantisBT | https://habrahabr.ru/post/249367/
+
+Обход блокировки баннера AdBlock Plus и Adguard + Anti-Adblock | https://habrahabr.ru/post/249169/
+
+Гибкое управление событиями в jQuery — плагин jquery-behavior | https://habrahabr.ru/post/237501/
+
+Распознавание лиц в 4 строки на JQuery | https://habrahabr.ru/post/247077/
+
+jQuery для мобильных устройств, все за и против | https://habrahabr.ru/post/247029/
+
+Внедрение через URL: www.site.ru/?jn=xxxxxxxx | https://habrahabr.ru/post/246353/
+
+Отправка писем с помошью Javascript, и один из способов «Сообщить об опечатке на сайте» | https://habrahabr.ru/post/246347/
+
+Строим фронтэнд вместе с ErgoJS | https://habrahabr.ru/post/245909/
+
+jQueryUI timePicker — виджет для выбора времени | https://habrahabr.ru/post/244057/
+
+jQuery 3.0: будущие поколения | https://habrahabr.ru/company/enterra/blog/241983/
+
+Новости из мира Node: Node 0.11.14, svgexport, node-webkitgtk, Nightmare, Prototypes, node-libpq и node-pg-native | https://habrahabr.ru/post/239927/
+
+jQuery.viewport или как я искал элементы на экране | https://habrahabr.ru/post/240083/
+
+Sqimitive.js — Frontend Primitive или «Backbone без фантиков» | https://habrahabr.ru/post/239149/
+
+jQuery плагин Social-feed | https://habrahabr.ru/post/239275/
+
+ТТТ: jQuery-плагин анимации текста от Contorra | https://habrahabr.ru/post/238643/
+
+Визуальный конфигуратор окон, написанный за один час | https://habrahabr.ru/post/238065/
+
+Кроссбраузерный красивый input type=«number» | https://habrahabr.ru/post/237569/
+
+BiMap, jQuery breakpoint | https://habrahabr.ru/post/237083/
+
+Кнопка «Load More» с использованием Ajax и jQuery и пагинация страниц в Ruby on Rails | https://habrahabr.ru/post/235191/
+
+В Firefox Developer Tools добавлена поддержка событий jQuery | https://habrahabr.ru/post/235035/
+
+Заботливый контроллер событий на странице | https://habrahabr.ru/post/233469/
+
+Эмоции.js | https://habrahabr.ru/post/232965/
+
+18 неожиданностей при чтении исходного кода jQuery | https://habrahabr.ru/post/230449/
+
+JQuery Deferred — примеры использования | https://habrahabr.ru/company/bankrot-pro/blog/230441/
+
+Node.js + JQuery Ajax. Загрузка файлов на сервер | https://habrahabr.ru/post/229743/
+
+Музыкальный программируемый школьный звонок «Школьник-4» | https://habrahabr.ru/post/228479/
+
+Форматирование цены, или как я input переписывал | https://habrahabr.ru/post/229007/
+
+waSlideMenu.js. Многоуровневое прокручивающееся меню | https://habrahabr.ru/company/webasyst/blog/221351/
+
+lemongrab: плагин валидации веб-форм | https://habrahabr.ru/post/218559/
+
+Marionette.js. Drag&Drop сортировка моделей в коллекции | https://habrahabr.ru/post/220299/
+
+Простой индикатор загрузки картинки на Jquery | https://habrahabr.ru/post/218265/
+
+Статистика использования javascript-библиотек и CDN | https://habrahabr.ru/post/215173/
+
+Пользовательские события в действии | https://habrahabr.ru/post/213295/
+
+Вы можете обойтись без jQuery | https://habrahabr.ru/post/211961/
+
+Repeatable, еще один способ рендерить списки | https://habrahabr.ru/post/211590/
+
+10+ полезных jQuery сниппетов на каждый день | https://habrahabr.ru/post/211538/
+
+Пример работы jQuery UI + PHP и GD. Нанесение аппликаций на изображение | https://habrahabr.ru/post/211260/
+
+О применении $.Deferred в работе с асинхронными задачами | https://habrahabr.ru/post/210820/
+
+Оптимизация обработки сложных селекторов | https://habrahabr.ru/post/210270/
+
+jQuery Events изнутри | https://habrahabr.ru/company/mailru/blog/209780/
+
+О создании улучшенной JavaScript-библиотеки для работы с DOM | https://habrahabr.ru/post/209140/
+
+jquery-animateNumber – плагин для анимации чисел | https://habrahabr.ru/post/208274/
+
+Sphinx для ASP.NET через jTemplates | https://habrahabr.ru/post/208236/
+
+jQuery State form или простой контроль за формой | https://habrahabr.ru/post/207338/
+
+Рекурсивное сохранение вложенностей с помощью $.Deferred | https://habrahabr.ru/post/204456/
+
+Универсальные подсказки на jQuery | https://habrahabr.ru/post/203694/
+
+Создаем галактику в 30 строк | https://habrahabr.ru/post/202858/
+
+jBone. Замена jQuery для Backbone или 2kb для DOM манипуляций | https://habrahabr.ru/post/201600/
+
+Превращаем статический сайт в мобильное приложение с помощью jQuery Mobile и PhoneGap | https://habrahabr.ru/post/201752/
+
+Vanilla JS vs jQuery 2.0 | https://habrahabr.ru/post/201686/
+
+Борцы с «пиратством» RIAA и BPI нарушили авторские права создателей популярных JQuery-скриптов | https://habrahabr.ru/post/200710/
+
+Где jQuery хранит обработчики событий | https://habrahabr.ru/post/200114/
+
+Оптимизация JavaScript и jQuery из-под HTML и CSS при разработке сайта | https://habrahabr.ru/post/196580/
+
+Ещё раз о Deferred/Promise | https://habrahabr.ru/post/193598/
+
+Чистим HTML-код при вставке текста из MS Word в HTML5 WYSIWYG редактор (contenteditable) | https://habrahabr.ru/post/194848/
+
+Ion.Sound — плагин для воспроизведения звуков. Создание и особенности | https://habrahabr.ru/post/194618/
+
+Альтернатива .sortable — новое решение сортировки списка на jQuery | https://habrahabr.ru/post/193004/
+
+jTap — событие клика для сенсорных устройств | https://habrahabr.ru/post/191078/
+
+Дэйв Мэтвин: jQuery создают личности | https://habrahabr.ru/post/192372/
+
+Минималистичный RSS-ридер для сервиса Яндекс.Подписки | https://habrahabr.ru/post/191060/
+
+NProgress: прогресс-бар как на YouTube и Medium | https://habrahabr.ru/post/190818/
+
+jqGrid для Raudus | https://habrahabr.ru/post/189808/
+
+Конференция jQuery Russia: первые темы и спикеры | https://habrahabr.ru/company/it_dominanta/blog/189286/
+
+Custom Tree v2 jQuery plugin | https://habrahabr.ru/post/188778/
+
+Генерация древовидного меню модели представления Nested Sets | https://habrahabr.ru/post/188118/
+
+jPutty для вёрстки, плагин под jQuery | https://habrahabr.ru/post/186484/
+
+Мировая конференция jQuery приходит в Россию | https://habrahabr.ru/company/it_dominanta/blog/186336/
+
+jQuery plugin для использования SVG графики. Часть 1 | https://habrahabr.ru/post/185750/
+
+simpleTooltip: HTML начиненный CSS и приправленный jQuery | https://habrahabr.ru/post/185110/
+
+Фильтрация элементов в cuSel | https://habrahabr.ru/post/175623/
+
+Photoshop color picker на jQuery | https://habrahabr.ru/post/183238/
+
+Особенности jQuery методов fadeIn, fadeOut и fadeTo | https://habrahabr.ru/post/181179/
+
+Поиск и подсветка текста на странице (JavaScript — jQuery) | https://habrahabr.ru/post/180573/
+
+Объекты страницы: описание одной техники | https://habrahabr.ru/post/179983/
+
+Всплывающая фиксированная навигация jQuery | https://habrahabr.ru/post/178305/
+
+JavaScript обёртка скроллбара в виде jQuery плагина | https://habrahabr.ru/post/177399/
+
+jQuery 2.0 | https://habrahabr.ru/post/177253/
+
+Как сократить количество написаного кода при ajax запросах? И ассинхронная отправка файлов | https://habrahabr.ru/post/177069/
+
+JQuery плагин для перевода страниц с помощью html5 data-* атрибутов | https://habrahabr.ru/post/177083/
+
+Еще раз о создании jQuery плагина или применяем на практике | https://habrahabr.ru/post/272353/
+
+Microsoft продвинула в jQuery 2.0 поддержку создания приложений для Windows 8 | https://habrahabr.ru/post/174817/
+
+JSonCmp — сравниваем в JavaScript правильно | https://habrahabr.ru/post/174091/
+
+Social-feed — социальный плагин jQuery | https://habrahabr.ru/post/173117/
+
+Времена меняются для веб-разработчиков — 6 советов чтобы выжить | https://habrahabr.ru/post/172751/
+
+Try jQuery — новый интерактивный самоучитель по jQuery | https://habrahabr.ru/post/171245/
+
+Фабрика виджетов jQuery UI | https://habrahabr.ru/post/150549/
+
+Использование событий в jQuery плагинах | https://habrahabr.ru/post/170987/
+
+jQuery: Древовидное меню c памятью, возможность добавления подуровней | https://habrahabr.ru/post/169265/
+
+Замена стандартных селектов в браузере | https://habrahabr.ru/post/168973/
+
+Ведро и не ядро | https://habrahabr.ru/post/166877/
+
+Встречайте долгожданный plugins.jquery.com | https://habrahabr.ru/post/166179/
+
+Что нам стоит DOM построить | https://habrahabr.ru/post/166109/
+
+Вышел JQuery 1.9 | https://habrahabr.ru/post/165987/
+
+Создание простых всплывающих подсказок на HTML5, CSS и jQuery | https://habrahabr.ru/post/165805/
+
+Magic Panel — jQuery плагин для быстрой прокрутки страницы | https://habrahabr.ru/post/165553/
+
+Suit Up! Простой и легкий WYSIWYG | https://habrahabr.ru/post/161715/
+
+RegEx Selector для jQuery | https://habrahabr.ru/post/165197/
+
+jQuery изнутри — атрибуты, свойства, данные | https://habrahabr.ru/post/164805/
+
+jQuery изнутри — манипуляции с DOM | https://habrahabr.ru/post/164677/
+
+jQuery изнутри — парсинг html | https://habrahabr.ru/post/164533/
+
+jQuery изнутри — введение | https://habrahabr.ru/post/164433/
+
+Подбор маски ввода по телефонному номеру | https://habrahabr.ru/post/162537/
+
+Простая техника Parallax Scrolling | https://habrahabr.ru/post/161875/
+
+Техники и инструметарий parallax | https://habrahabr.ru/post/161941/
+
+Преобразование меню в выпадающий список на маленьких экранах | https://habrahabr.ru/post/160851/
+
+Копирование текста в буфер обмена с помощью jQuery плагина zClip | https://habrahabr.ru/post/159879/
+
+Новый jQuery плагин адаптивной галереи c автоматической группировкой | https://habrahabr.ru/post/159733/
+
+«Плавающее» меню на jQuery для начинающих | https://habrahabr.ru/post/159563/
+
+Пишем плагин для jQuery | https://habrahabr.ru/post/158235/
+
+jQuery-сниппеты и плагины для iPad | https://habrahabr.ru/post/158577/
+
+jQuery File Upload. Загрузка и добавление картинок в БД | https://habrahabr.ru/post/158167/
+
+Привлекательные экспериментальные плагины на JavaScript | https://habrahabr.ru/post/157111/
+
+Определение поддержки background-position-XY | https://habrahabr.ru/post/156197/
+
+Учебник jQuery для начинающих | https://habrahabr.ru/post/155107/
+
+Визуальный редактор ББ кодов для phpBB3 | https://habrahabr.ru/post/155059/
+
+Опыт создания системы навигации на Ajax | https://habrahabr.ru/post/154617/
+
+Windy — jQuery-плагин слайдера с очень красивым эффектом | https://habrahabr.ru/post/154347/
+
+Премьера jQuery UI 1.9.0 | https://habrahabr.ru/post/154251/
+
+Каша быстрого приготовления — делаем CRUD в Caché с помощью jqGrid | https://habrahabr.ru/company/intersystems/blog/144917/
+
+Создание плагина jQuery на примере слайдера | https://habrahabr.ru/post/153099/
+
+Еще один jQuery плагин для верстки «пиксель в пиксель» | https://habrahabr.ru/post/152927/
+
+Обновленная документация jQuery | https://habrahabr.ru/post/152997/
+
+Messi — «не футбольный» jQuery плагин всплывающих окон | https://habrahabr.ru/post/152533/
+
+Отличный плагин для проверки верстки | https://habrahabr.ru/post/152115/
+
+Релиз jQuery 1.8.2 | https://habrahabr.ru/post/118627/
+
+Дифференцирование Object, Array, Number и String | https://habrahabr.ru/post/151677/
+
+JsTree — деревья это так просто | https://habrahabr.ru/post/151239/
+
+BigVideo.js: фоновое видео на весь экран | https://habrahabr.ru/post/151123/
+
+jQuery plugin для форм с динамической структурой | https://habrahabr.ru/post/151104/
+
+Кроссбраузерный placeholder + fix для Chrome | https://habrahabr.ru/post/150920/
+
+Speakker — музыкальный плеер на jQuery | https://habrahabr.ru/post/150372/
+
+Превращаем Хабр в «пятнашки» с помощью Canvas | https://habrahabr.ru/post/150240/
+
+jQuery UI Datepicker: добавляем нестандартные элементы навигации по годам | https://habrahabr.ru/post/150054/
+
+Google Analytics для сбора ошибок JavaScript | https://habrahabr.ru/post/149926/
+
+Меню с плавной инверсией цвета | https://habrahabr.ru/post/149864/
+
+Привязка контекста (this) к функции в javascript и частичное применение функций | https://habrahabr.ru/post/149581/
+
+jQuery 1.8 box-sizing: width(), css(«width») и outerWidth() | https://habrahabr.ru/post/149743/
+
+Многопоточный загрузчик файлов на JS (jQuery) | https://habrahabr.ru/post/149701/
+
+Noty — необычайно гибкий плагин jQuery для вывода уведомлений | https://habrahabr.ru/post/149665/
+
+Релиз jQuery 1.8 | https://habrahabr.ru/post/149403/
+
+Про jQuery и велосипеды — мое дополнение | https://habrahabr.ru/post/149349/
+
+Велосипеды на Javascript и jQuery | https://habrahabr.ru/post/149237/
+
+arcticModal — jQuery-плагин для модальных окон | https://habrahabr.ru/post/149109/
+
+Input attribute placeholder | https://habrahabr.ru/post/148945/
+
+JsRender: Новое поколение jQuery Templates | https://habrahabr.ru/post/148573/
+
+ASP.NET MVC: кастомизация отображения клиентской валидации с использованием JQuery.Validate.Hooks + Tipsy | https://habrahabr.ru/post/148533/
+
+The Modal — правильные модальные окна | https://habrahabr.ru/post/148515/
+
+jQuery CoreUISelect — плагин для стилизации селекта | https://habrahabr.ru/post/147912/
+
+Как сделать группу инпутов удобной | https://habrahabr.ru/company/ostrovok/blog/148292/
+
+Edit-in-place на компонентах Bootstrap | https://habrahabr.ru/post/148000/
+
+WysiBB — WYSIWYG BBCode редактор | https://habrahabr.ru/post/147512/
+
+Последовательное сохранение настроек с использованием AJAX и очередей jQuery | https://habrahabr.ru/post/147432/
+
+Работа по протоколу XMPP используя jquery | https://habrahabr.ru/post/147469/
+
+Поле для творчества, — анимации и многопользовательские игры прямо в браузере | https://habrahabr.ru/post/147367/
+
+В jQuery 2.0 не будет поддержки IE 6/7/8 | https://habrahabr.ru/post/146758/
+
+5 полезных методов jQuery API, о которых вы могли не знать | https://habrahabr.ru/post/146630/
+
+В jQuery начиная с версии 1.8 можно исключить некоторые модули | https://habrahabr.ru/post/145810/
+
+JavaScript loader без define | https://habrahabr.ru/post/145618/
+
+jClever — умный jNice с плюшками. Стилизация HTML-форм | https://habrahabr.ru/post/144720/
+
+Как создать видео-проигрыватель на JQuery, HTML5 и CSS3 | https://habrahabr.ru/post/144020/
+
+eachDeferred — отложенная обработка коллекции, one by one | https://habrahabr.ru/post/143592/
+
+Lake.js: плагин к jQuery для отражения иллюстраций как бы в воде озера | https://habrahabr.ru/post/143275/
+
+Расширение для jQuery: Execute Object | https://habrahabr.ru/post/142910/
+
+Внутренности jQuery. Поиск кода, выполняемого по событию | https://habrahabr.ru/post/142888/
+
+jQuery UI Bootstrap Theme | https://habrahabr.ru/post/142785/
+
+jQuery плагин для проигрывания музыки с youtube | https://habrahabr.ru/post/142640/
+
+jQuery custom radio and checkbox | https://habrahabr.ru/post/142182/
+
+Создаём parallax scrolling эффект с помощью jQuery и CSS | https://habrahabr.ru/post/142137/
+
+Cache + jQuery. Быстрый старт | https://habrahabr.ru/company/intersystems/blog/141996/
+
+Модуль корзины интернет-магазина на jQuery | https://habrahabr.ru/post/141874/
+
+Простой parallax эффект для промо-сайта | https://habrahabr.ru/post/141817/
+
+fc.tape — js-библиотека для простой анимации спрайтов | https://habrahabr.ru/post/141745/
+
+Архитектура взаимодействия клиентской и серверной частей Web приложения | https://habrahabr.ru/post/141467/
+
+Kickstrap — форк Twitter Bootstrap с темами и бонусами | https://habrahabr.ru/post/141115/
+
+Jquery Slideshow своими руками | https://habrahabr.ru/post/140818/
+
+Коллекция паттернов и антипаттернов JavaScript | https://habrahabr.ru/post/140809/
+
+Сверхплавные трансформации для jQuery | https://habrahabr.ru/post/140630/
+
+Создание оконного интерфейса при помощи jQuery UI. Часть 2 | https://habrahabr.ru/post/140627/
+
+Blur JS | https://habrahabr.ru/post/140594/
+
+Создание оконного интерфейса при помощи jQuery UI. Часть 1 | https://habrahabr.ru/post/140522/
+
+jQuery File Upload | https://habrahabr.ru/post/140400/
+
+Расширение функциональности элемента input type=”text” до автокомплит | https://habrahabr.ru/post/140225/
+
+Организация разработки веб-приложений с JQuery виджетами | https://habrahabr.ru/post/140009/
+
+Документация jQuery UI на русском | https://habrahabr.ru/post/139776/
+
+ikSelect — идеальный плагин для стилизации селектов | https://habrahabr.ru/post/139388/
+
+Morris.js: средство рисования красивых графиков при помощи jQuery и Raphaël | https://habrahabr.ru/post/139326/
+
+Самый большой в мире класс по изучению jQuery | https://habrahabr.ru/post/138806/
+
+Изучить jQuery за 30 дней | https://habrahabr.ru/post/138006/
+
+Facebook Timeline | https://habrahabr.ru/post/137436/
+
+Альтернативный взгляд на плагин для маски ввода чисел и не только в input и textarea | https://habrahabr.ru/post/137289/
+
+Плагин для маски ввода чисел в input | https://habrahabr.ru/post/136720/
+
+Плагин jQuery для сортировки таблиц: TableSorter.js. Как добиться постраничной навигации? | https://habrahabr.ru/post/136228/
+
+Selectik — стильные селекты | https://habrahabr.ru/post/135953/
+
+Что такое этот новый jQuery.Callbacks Object | https://habrahabr.ru/post/135821/
+
+Предотвратим повторную загрузку библиотек или Переделаем jQuery.html() | https://habrahabr.ru/post/134741/
+
+Chop Slider 2 — лучший jQuery-слайдер | https://habrahabr.ru/post/133205/
+
+Вышла библиотека jQuery версии 1.7.1 | https://habrahabr.ru/post/133138/
+
+История одного интерфейса | https://habrahabr.ru/post/133054/
+
+jQuery Mobile 1.0 | https://habrahabr.ru/post/132947/
+
+Plugin Detector — каталог и рейтинг плагинов jQuery | https://habrahabr.ru/post/132828/
+
+Плагин на jQuery для вывода рейтинга в виде звезд | https://habrahabr.ru/post/132807/
+
+Codecademy добавил интерактивные уроки по jQuery | https://habrahabr.ru/post/132192/
+
+jQuery 1.7 Released | https://habrahabr.ru/post/131884/
+
+По статистике, более 50% сайтов используют jQuery | https://habrahabr.ru/post/131296/
+
+Плагин для выделения последней строки | https://habrahabr.ru/post/131126/
+
+Элегантный ротатор баннеров на jQuery | https://habrahabr.ru/post/130840/
+
+Не пора ли jQuery садиться на диету? | https://habrahabr.ru/post/130542/
+
+Заметки о выходе второй беты jQuery 1.7 | https://habrahabr.ru/post/130374/
+
+jQuery 1.7 beta 1 — щупаем за всякое новые возможности и API | https://habrahabr.ru/post/129613/
+
+Плагин скользящей панели с иконками социальных сетей | https://habrahabr.ru/post/129406/
+
+Выпадающий jQuery.Treeview | https://habrahabr.ru/post/128990/
+
+MarkitUp! — Легкий редактор на jQuery | https://habrahabr.ru/post/128352/
+
+Выпуск jQuery 1.6.4 | https://habrahabr.ru/post/128317/
+
+Вышла jquery 1.6.3 | https://habrahabr.ru/post/127561/
+
+How to по деревьям на jQuery | https://habrahabr.ru/post/127487/
+
+«Виртуальное хранилище» на стороне клиента с jQuery | https://habrahabr.ru/post/126531/
+
+John Resig для usesthis.com | https://habrahabr.ru/post/125060/
+
+Интересный прогресс-бар | https://habrahabr.ru/post/124401/
+
+Плагин для «живых» форм | https://habrahabr.ru/post/123940/
+
+Вышла jquery 1.6.2 | https://habrahabr.ru/post/123337/
+
+cssHooks — расширяем множество CSS свойств | https://habrahabr.ru/post/123241/
+
+jQuery.waterfall. Небольшая полезняшка | https://habrahabr.ru/post/122002/
+
+Вертикальный скроллинг страницы средствами jQuery и кроссбраузерность | https://habrahabr.ru/post/120960/
+
+Вышел плагин jQuery Color версии 2 бета 1 | https://habrahabr.ru/post/120527/
+
+jQuery UI как инфраструктура для плагинов | https://habrahabr.ru/post/120074/
+
+Вышел jQuery 1.6.1 RC | https://habrahabr.ru/post/119134/
+
+Нововведения в jQuery 1.6 | https://habrahabr.ru/post/118713/
+
+John Resig уходит из Mozilla Corporation | https://habrahabr.ru/post/118640/
+
+Как устроен jQuery: изучаем исходники | https://habrahabr.ru/post/118564/
+
+Вышла версия jQuery 1.6 RC 1 | https://habrahabr.ru/post/118283/
+
+Вышла первая бета-версия jQuery 1.6 | https://habrahabr.ru/post/117614/
+
+Обзор плагинов ++ | https://habrahabr.ru/post/117045/
+
+Динамические данные в jQuery Mobile с помощью jQuery Templates | https://habrahabr.ru/post/116797/
+
+Вышел jQuery Mobile Alpha 4 | https://habrahabr.ru/post/116678/
+
+Вышел jQuery 1.5.2 | https://habrahabr.ru/post/116592/
+
+jQuery Mobile Alpha 3 Released | https://habrahabr.ru/post/114984/
+
+Новая версия: jQuery 1.5.1 | https://habrahabr.ru/post/114537/
+
+HTML-controlbar для Flowplayer’a на основе стилей jQuery UI | https://habrahabr.ru/post/113912/
+
+Анимированные баннеры на Javascript — это просто* | https://habrahabr.ru/post/113681/
+
+Работаем с jQuery Templates. Часть третья, jQuery Templates Plus | https://habrahabr.ru/post/113672/
+
+jQuery Deferred Object (подробное описание) | https://habrahabr.ru/post/113073/
+
+Использование Deferred объектов в jQuery 1.5 | https://habrahabr.ru/post/112960/
+
+Состоялся релиз jQuery 1.5 | https://habrahabr.ru/post/112912/
+
+Работаем с jQuery Templates | https://habrahabr.ru/post/112843/
+
+Ajax загрузка данных из контейнера | https://habrahabr.ru/post/112779/
+
+jPlayer — плагин для проигрывания аудио и видео | https://habrahabr.ru/post/112776/
+
+jQuery плагин, для Ajax загрузки видео на YouTube | https://habrahabr.ru/post/112291/
+
+qrTip: плагин для отображения QR кодов для ссылок | https://habrahabr.ru/post/111995/
+
+Релиз jQuery 1.5 beta 1 доступен для тестирования | https://habrahabr.ru/post/111947/
+
+5 вещей, которые вы могли не знать о jQuery | https://habrahabr.ru/post/111314/
+
+Свежая подборка jQuery плагинов | https://habrahabr.ru/post/111248/
+
+Используем быстрые селекторы для jQuery | https://habrahabr.ru/post/111195/
+
+Хотлинки на сайт jQuery будут запрещены c 31 января 2011 года | https://habrahabr.ru/post/111018/
+
+Текст из картинки | https://habrahabr.ru/post/110734/
+
+Пара плагинов для jQuery Mobile | https://habrahabr.ru/post/110711/
+
+HTML5 File API: множественная загрузка файлов на сервер | https://habrahabr.ru/post/109079/
+
+Тестирование производительности jQuery Templates | https://habrahabr.ru/post/108067/
+
+Релизы jQuery Mobile Alpha 2 и 1.4.4 | https://habrahabr.ru/post/107998/
+
+jQuery:step() селектор произвольной позиции | https://habrahabr.ru/post/107932/
+
+Небольшое замечание для тех, кто переходит на 1.4.3 | https://habrahabr.ru/post/106865/
+
+Вышел jQuery 1.4.3 | https://habrahabr.ru/post/106476/
+
+10 интересных jquery плагинов | https://habrahabr.ru/post/105295/
+
+Код Microsoft принят в виде официальных плагинов jQuery | https://habrahabr.ru/post/105547/
+
+Еще несколько полезных плагинов | https://habrahabr.ru/post/105261/
+
+Динамическое изменение ширины страницы | https://habrahabr.ru/post/105171/
+
+Впечатляющие анимационные эффекты | https://habrahabr.ru/post/104618/
+
+Обзор нескольких новых плагинов jQuery | https://habrahabr.ru/post/103450/
+
+jQuery без рамок | https://habrahabr.ru/post/103296/
+
+Плагин для всплывающих подсказок Simpletip | https://habrahabr.ru/post/103242/
+
+Правила эффективного использования jQuery | https://habrahabr.ru/post/103174/
+
+jQuery плагин для добавления ссылок в буфер обмена | https://habrahabr.ru/post/101763/
+
+Улучшаем формы с jqTransform | https://habrahabr.ru/post/101659/
+
+Пишем свой плагин для jQuery | https://habrahabr.ru/post/101415/
+
+Bubble Engine — плагин для jQuery. Машина по созданию мыльных пузырей | https://habrahabr.ru/post/99640/
+
+Дополненный jQuery FormNavigate или «не дай юзеру потерять данные» | https://habrahabr.ru/post/98311/
+
+Плагин, превращаем input text в «калькулятор» | https://habrahabr.ru/post/98266/
+
+Делаем красивый input[type=file] с помощью jQuery | https://habrahabr.ru/post/98260/
+
+Снова про формы: значения по умолчанию | https://habrahabr.ru/post/98010/
+
+Древовидное облако тэгов | https://habrahabr.ru/post/96389/
+
+Плагин jQuery Globalization от Microsoft | https://habrahabr.ru/post/96214/
+
+AeroWindow плагин для jQuery. Создание окон в стиле Windows Aero | https://habrahabr.ru/post/95337/
+
+Листалка страниц на HTML5 canvas | https://habrahabr.ru/post/93936/
+
+Фильтруем с помощью jQuery большое количество данных | https://habrahabr.ru/post/93876/
+
+Маленький фикс для coda-slider | https://habrahabr.ru/post/93737/
+
+Имитируем height:auto при использовании animate() | https://habrahabr.ru/post/93600/
+
+Предложение по добавлению связывания данных | https://habrahabr.ru/post/92345/
+
+Сажаем деревья с jqGrid | https://habrahabr.ru/post/91499/
+
+Пара полезных плагинов к jQuery | https://habrahabr.ru/post/91341/
+
+jQuery template engine | https://habrahabr.ru/post/91253/
+
+15+ полезных документов по jQuery | https://habrahabr.ru/post/89741/
+
+jQuery UI 1.8 зарелизило | https://habrahabr.ru/post/88784/
+
+JQuery FormNavigate — плагин для удобной работы с onbeforeunload | https://habrahabr.ru/post/88071/
+
+Анимированные спрайты на jQuery – Spritely | https://habrahabr.ru/post/87238/
+
+Шпаргалка по API jQuery 1.4.2 | https://habrahabr.ru/post/86827/
+
+Использование Delegate и Undelegate в jQuery 1.4.2 | https://habrahabr.ru/post/86604/
+
+Плагин Atomic — помошник при заполнении форм | https://habrahabr.ru/post/86441/
+
+Решение проблемы с ajax-загрузкой файлов в плагине jQuery Form в Opera 10 | https://habrahabr.ru/post/85750/
+
+jQuery 1.4.2 | https://habrahabr.ru/post/84995/
+
+jQuery 1.3.x -> 1.4.x и JSON | https://habrahabr.ru/post/83892/
+
+Вращение географических карт при помощи CSS3 и jQuery | https://habrahabr.ru/post/83693/
+
+Анатомия .click() или история одной проблемы | https://habrahabr.ru/post/83653/
+
+Якорная навигация на jQuery (graceful degradation) | https://habrahabr.ru/post/82906/
+
+Почему у дискуссий jQuery новый адрес или Google Groups is Dead (by John Resig) | https://habrahabr.ru/post/82633/
+
+Вышел jQuery 1.4.1 | https://habrahabr.ru/post/82008/
+
+Результат выполнения функции jQuery $ — $(document.body) будет? | https://habrahabr.ru/post/81822/
+
+jQuery.deserialize() | https://habrahabr.ru/post/81472/
+
+jQuery 1.4: 15 новых возможностей | https://habrahabr.ru/post/80858/
+
+Шпаргалка по API jQuery 1.4 | https://habrahabr.ru/post/80761/
+
+В день рождения jQuery вышла долгожданная версия 1.4! | https://habrahabr.ru/post/80735/
+
+Нюансы употребления плагина jQuery.LocalScroll совместно с CSS-селектором «:target» | https://habrahabr.ru/post/80434/
+
+14 дней jQuery | https://habrahabr.ru/post/80265/
+
+Плагин для отображения таблицы с данными. FlexiGrid | https://habrahabr.ru/post/79935/
+
+Вышла первая альфа jQuery 1.4 | https://habrahabr.ru/post/77335/
+
+jQuery.Tree | https://habrahabr.ru/post/77064/
+
+jQuery.keyboard v0.2.0 | https://habrahabr.ru/post/77021/
+
+jQuery.keyboard v0.1.0 | https://habrahabr.ru/post/76424/
+
+FireFox + jquery.selectboxes + Download Master Plugin 1.2 = BUG | https://habrahabr.ru/post/75894/
+
+jQuery плагин для получения данных формы + ajax аплоадер файлов | https://habrahabr.ru/post/75420/
+
+Как увеличить скорость работы jQuery скрипта | https://habrahabr.ru/post/75103/
+
+Плейсхолдер | https://habrahabr.ru/post/74760/
+
+jQuery AutoComplete | https://habrahabr.ru/post/74713/
+
+Плагин helpInput (мой велосипед) | https://habrahabr.ru/post/74313/
+
+Плагин jquery.Statusbar | https://habrahabr.ru/post/73532/
+
+syncTranslit плагин | https://habrahabr.ru/post/73168/
+
+Подборка плагинов к jQuery | https://habrahabr.ru/post/73426/
+
+35 свежих и полезных jQuery плагинов | https://habrahabr.ru/post/73138/
+
+Интерактивный редактор для jQuery — прорыв? | https://habrahabr.ru/post/73043/
+
+интересный баг в ИЕ7 (или фича) | https://habrahabr.ru/post/72764/
+
+Боремся с неплавной анимацией скрытых элементов | https://habrahabr.ru/post/72137/
+
+Мой редактор BB кодов | https://habrahabr.ru/post/72096/
+
+Разбираемся с анимацией в jQuery | https://habrahabr.ru/post/72022/
+
+jQueryPad — мечта разработчика jQuery | https://habrahabr.ru/post/72005/
+
+JQuery Uploadify — мультизагрузка файлов с использованием флэш | https://habrahabr.ru/post/71772/
+
+jQuery плагин для обработки событий online/offline | https://habrahabr.ru/post/71529/
+
+20 Fantastic Latest jQuery Plugins | https://habrahabr.ru/post/70945/
+
+Еще раз о делегирование или как правильно использовать свои события | https://habrahabr.ru/post/70760/
+
+простейший редактор bb кодов | https://habrahabr.ru/post/70174/
+
+Анимация в Internet Explorer | https://habrahabr.ru/post/69917/
+
+парсим сайты легко и непринуждённо вместе с phpQuery | https://habrahabr.ru/post/69149/
+
+jQuery iPhone UI | https://habrahabr.ru/post/68915/
+
+jQTouch выпускает новую версию мобильной доброты | https://habrahabr.ru/post/68419/
+
+Пример использования пользовательских событий | https://habrahabr.ru/post/67185/
+
+Customized datepicker | https://habrahabr.ru/post/66893/
+
+Анимированные меню на jQuery [часть 2] | https://habrahabr.ru/post/66333/
+
+TAG_ADD Plugin | https://habrahabr.ru/post/66125/
+
+Плавный скроллинг в Opera | https://habrahabr.ru/post/65068/
+
+jQuery.live в деталях | https://habrahabr.ru/post/64029/
+
+25 советов по улучшению вашего кода jQuery | https://habrahabr.ru/post/63797/
+
+Кэширование селекторов для jQuery. Плагин | https://habrahabr.ru/post/63145/
+
+jQuery UI 1.7.2 | https://habrahabr.ru/post/62078/
+
+jQuery Tools v1.0.1 | https://habrahabr.ru/post/61909/
+
+jQuery Ui.datetimepicker | https://habrahabr.ru/post/61721/
+
+calendarLite плагин | https://habrahabr.ru/post/61069/
+
+Модные «жесты» jQuery | https://habrahabr.ru/post/60448/
+
+Ribbon | https://habrahabr.ru/post/60330/
+
+Загрузка по требованию и jQuery | https://habrahabr.ru/post/60090/
+
+Использование Low Pro и jQuery | https://habrahabr.ru/post/59469/
+
+Интеграция вкусностей jQuery в другие сайты | https://habrahabr.ru/post/58969/
+
+Эта неделя в jQuery, том 6 | https://habrahabr.ru/post/58867/
+
+Popup с затухающим фоном с помощью jQuery | https://habrahabr.ru/post/57466/
+
+Плагин для jQuery, реализующий наследование | https://habrahabr.ru/post/57380/
+
+Эта неделя в JQuery, том 4 | https://habrahabr.ru/post/56432/
+
+Эта неделя в jQuery, том 3 | https://habrahabr.ru/post/56162/
+
+Расширение Jeditable плагина на примере Wymeditor и JqueryUI.datepicker | https://habrahabr.ru/post/54529/
+
+8 отличных хитростей jQuery | https://habrahabr.ru/post/54306/
+
+Выпуск: jQuery 1.3.2 | https://habrahabr.ru/post/52506/
+
+Плагин jquery.keyfilter.js | https://habrahabr.ru/post/52245/
+
+Закрепляем jQuery — 25 отличных советов | https://habrahabr.ru/post/52201/
+
+jQuery для начинающих. Часть 4. Селекторы | https://habrahabr.ru/post/51717/
+
+ajax загрузка нескольких файлов с php формой | https://habrahabr.ru/post/50223/
+
+jQuery plugin positioning v1.1 | https://habrahabr.ru/post/50138/
+
+jQuery 1.3.1 Released | https://habrahabr.ru/post/49853/
+
+jQuery 1.3 | https://habrahabr.ru/post/49115/
+
+jQuery & Greasemonkey | https://habrahabr.ru/post/48835/
+
+Flexify плагин для выравнивания чего бы то ни было | https://habrahabr.ru/post/47895/
+
+live: новый способ задать обработчик события | https://habrahabr.ru/post/47822/
+
+Вышла jQuery 1.3 Beta 1, примите участие в тестировании | https://habrahabr.ru/post/47548/
+
+jQuery 1.3 Beta 1 | https://habrahabr.ru/post/47544/
+
+Плагин tagSphere | https://habrahabr.ru/post/47337/
+
+jQuery in Action на русском уже в продаже | https://habrahabr.ru/post/46037/
+
+(a)Slideshow — jQuery плагин для организации слайд-шоу | https://habrahabr.ru/post/46010/
+
+SimpleModal — простые модальные окна | https://habrahabr.ru/post/45834/
+
+Глава 3. Оживляем страницу с jQuery | https://habrahabr.ru/post/45107/
+
+jQuery plugin positioning | https://habrahabr.ru/post/44329/
+
+Фиксим плагин jGrowl в IE 7 | https://habrahabr.ru/post/44241/
+
+Пишем аккордеон-плагин в 618 байт | https://habrahabr.ru/post/43948/
+
+jQuery ColorPicker — выбираем цвет. | https://habrahabr.ru/post/42996/
+
+jQuery Timers | https://habrahabr.ru/post/42809/
+
+Tagnetic — холодильник тэгов, плагин для jQuery | https://habrahabr.ru/post/42547/
+
+jQuery для начинающих. Часть 3. AJAX | https://habrahabr.ru/post/42426/
+
+jQuery и Nokia | https://habrahabr.ru/post/42239/
+
+UI: magnifier — описание всех функций | https://habrahabr.ru/post/41686/
+
+jQuery UI 1.6rc2 | https://habrahabr.ru/post/40464/
+
+jQuery для начинающих. Часть 2. JavaScript Меню. | https://habrahabr.ru/post/39440/
+
+jQuery in Action. Глава 2 | https://habrahabr.ru/post/39028/
+
+jQuery pdf tutorial | https://habrahabr.ru/post/38938/
+
+Death to JavaScript Rock Stars! | https://habrahabr.ru/post/38705/
+
+jQuery in Action. Глава 1. Введение в jQuery. | https://habrahabr.ru/post/38526/
+
+Официальный сайт проекта jQuery обновился — «be a javascript ROCK STAR» | https://habrahabr.ru/post/38390/
+
+jQuery для начинающих | https://habrahabr.ru/post/38208/
+
+Интеграция в Visual Studio 2008 | https://habrahabr.ru/post/37082/
+
+Автоматические сноски | https://habrahabr.ru/post/36958/
+
+HTML parser Jquery style | https://habrahabr.ru/post/30781/
+
+Пазлы на jQuery | https://habrahabr.ru/post/29923/
+
+Выпущен jQuery UI v1.5 | https://habrahabr.ru/post/27135/
+
+плагин Corner | https://habrahabr.ru/post/27063/
+
+Вызов веб-сервисов и веб-методов архитектуры.net | https://habrahabr.ru/post/27054/
+
+Вышел jQuery UI 1.5 RC1 | https://habrahabr.ru/post/26682/
+
+.mrpc — простое взаимодействие клиента с сервером | https://habrahabr.ru/post/26662/
+
+jQuery 1.2.6 | https://habrahabr.ru/post/26200/
+
+Обновился jQuery до 1.2.5 | https://habrahabr.ru/post/25844/
+
+jQuery + AJAX + (Google Search API || Yahoo Search API) | https://habrahabr.ru/post/25472/
+
+Блоги про jQuery на русском | https://habrahabr.ru/post/25007/
+
+jQuery: jQZoom — лупа. | https://habrahabr.ru/post/24556/
+
+jQuery File Tree — браузер файлов на jQuery | https://habrahabr.ru/post/24400/
+
+jQuery: datepicker — календарь для выбора дат | https://habrahabr.ru/post/24369/
+
+jQuery Autocomplete: автозаполнение | https://habrahabr.ru/post/24364/
+
+jQuery News Slider — скользящие новости | https://habrahabr.ru/post/24347/
+
+jQuery: динамическое текстовое поле (textarea) | https://habrahabr.ru/post/20925/
+
+jQuery для самых маленьких или динамическая загрузка страниц (AJAX) | https://habrahabr.ru/post/20245/
+

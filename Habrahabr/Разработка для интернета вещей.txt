@@ -1,0 +1,640 @@
+IoT в роли мотиватора для NAT в IPv6 | https://habrahabr.ru/post/344708/
+
+Интернет вещей: Arduino в связке с облаком | https://habrahabr.ru/company/microsoft/blog/343450/
+
+Гаджет моего тела (Часть #2) | https://habrahabr.ru/company/technoserv/blog/344400/
+
+Местоопределение Wi-FI источников в AR и котелок | https://habrahabr.ru/post/344278/
+
+Куй железо: горячий жаргон hardware-стартапов | https://habrahabr.ru/company/friifond/blog/344214/
+
+Гаджет моего тела (Часть #1) | https://habrahabr.ru/company/technoserv/blog/343972/
+
+Ещё один Telegram-бот для видеонаблюдения | https://habrahabr.ru/post/343616/
+
+Классификация звуков с помощью TensorFlow | https://habrahabr.ru/company/dataart/blog/343464/
+
+Физически неклонируемые функции: защита электроники от нелегального копирования | https://habrahabr.ru/post/343386/
+
+Направленный Bluetooth-маяк (iBeacon) и полный мобильный факап | https://habrahabr.ru/post/343136/
+
+Вышла DuerOS — новая ОС с элементами ИИ | https://habrahabr.ru/company/it-grad/blog/342772/
+
+Как запустить и продвигать своё приложение на базе SAP Cloud Platform с помощью «Сколково» и SAP | https://habrahabr.ru/company/sap/blog/342078/
+
+Правдивая история роботизации, начинающаяся с одного простого графика | https://habrahabr.ru/company/parallels/blog/342360/
+
+Видео на электронной книжке. Попытка использовать е-ink reader в качестве второго монитора в linux | https://habrahabr.ru/post/341748/
+
+Телеграм-бот для домашнего видео-наблюдения из подручных материалов | https://habrahabr.ru/post/341678/
+
+Новый вирус Reaper заразил 2 миллиона IoT-устройств | https://habrahabr.ru/company/it-grad/blog/340938/
+
+Библиотека для синхронизации состояния | https://habrahabr.ru/post/340654/
+
+Работа с COM-портом Arduino из Java-приложения | https://habrahabr.ru/post/340630/
+
+ROS, ELM и черепашка | https://habrahabr.ru/post/340534/
+
+Такое железное и такое безымянное | https://habrahabr.ru/company/goto/blog/340326/
+
+Перенос бизнес-критических приложений в облако: Обзор инструментов VMware | https://habrahabr.ru/company/it-grad/blog/339614/
+
+Fujitsu построит суперкомпьютер для исследования искусственного интеллекта | https://habrahabr.ru/company/vasexperts/blog/338484/
+
+Красные стрелы доп-реальности | https://habrahabr.ru/post/339586/
+
+Корпоративный IaaS: подборка новостей, кейсов и тематических руководств | https://habrahabr.ru/company/it-grad/blog/339368/
+
+Текстовая трансляция со дня открытых дверей Лаборатории Касперского – Open Day 2017 | https://habrahabr.ru/company/kaspersky/blog/339162/
+
+Как сделать веб-приложение для вашего собственного Bluetooth Low Energy девайса? | https://habrahabr.ru/post/339146/
+
+Команда Университета ИТМО вышла в финал Всемирной олимпиады роботов | https://habrahabr.ru/company/spbifmo/blog/339140/
+
+Тайм-менеджмент для кинестетиков | https://habrahabr.ru/company/devexpress/blog/338948/
+
+Вторая версия Монитора качества воздуха | https://habrahabr.ru/post/338722/
+
+Comodo Group сообщают о четырехкратном увеличении числа киберугроз | https://habrahabr.ru/company/vasexperts/blog/338482/
+
+Как компании перенести свою инфраструктуру в облако и избежать ошибок | https://habrahabr.ru/company/it-grad/blog/337834/
+
+Моя любимая конференция по встраиваемым технологиям и интернету вещей | https://habrahabr.ru/company/microsoft/blog/336896/
+
+Go на устройствах с маленькой памятью | https://habrahabr.ru/post/336762/
+
+«Каждому по кванту»: Станут ли квантовые вычисления коммерческим продуктом? | https://habrahabr.ru/company/1cloud/blog/335890/
+
+IOTV — простой HTTP протокол для работы с сообщениями и командами IOT объектов в сервисе VIALATM | https://habrahabr.ru/company/euler2012/blog/335468/
+
+Поиграем в Firebase | https://habrahabr.ru/company/tdb/blog/334560/
+
+Bluetooth Mesh – развитие стандарта передачи данных для IoT | https://habrahabr.ru/company/vasexperts/blog/333998/
+
+Кроссплатформенный IoT: Использование Azure CLI и Azure IoT Hub | https://habrahabr.ru/company/microsoft/blog/333530/
+
+Заметки маркетолога: Как поставить Ubuntu на RPI и подключить к Azure IoT Hub | https://habrahabr.ru/company/microsoft/blog/332940/
+
+Запись с 1 млн нейронов: новые планы DARPA | https://habrahabr.ru/company/it-grad/blog/332828/
+
+Пять главных аспектов плохой безопасности интернета вещей | https://habrahabr.ru/company/parallels/blog/332852/
+
+Итоги «SAP Кодер 2017»: умный холодильник, виртуальный ассистент рекрутера и многое другое | https://habrahabr.ru/company/sap/blog/332794/
+
+Интеграция TI SensorTag, Eclipse kura и веб части через Apache Camel | https://habrahabr.ru/post/332428/
+
+Цифровой датчик температуры TSic: адреса, пароли, явки | https://habrahabr.ru/company/efo/blog/330506/
+
+Губит людей не пиво | https://habrahabr.ru/post/331994/
+
+Умный замок на Android Things и Raspberry Pi3 | https://habrahabr.ru/post/331888/
+
+Проблемы безопасности и главные достижения ИИ | https://habrahabr.ru/company/parallels/blog/331726/
+
+Как переусложнить дверной замок | https://habrahabr.ru/post/331470/
+
+Динамическое создание кластера Apache NiFi | https://habrahabr.ru/post/331444/
+
+Финал конкурса SAP Кодер 2017 пройдёт в прямом эфире | https://habrahabr.ru/company/sap/blog/331428/
+
+Об использовании видеокамер с распознаванием символов на низкопроизводительных вычислительных устройствах | https://habrahabr.ru/post/331226/
+
+Оптическое распознавание символов на микроконтроллере | https://habrahabr.ru/post/330936/
+
+В 2017 году зафиксировано пятикратное увеличение DDoS-атак | https://habrahabr.ru/company/it-grad/blog/330340/
+
+Пеленгатор на дополненной реальности | https://habrahabr.ru/post/323638/
+
+Предотвращение негативных последствий при разработке систем искусственного интеллекта, превосходящих человеческий разум | https://habrahabr.ru/company/parallels/blog/330204/
+
+Роутеры, векторы атак и другие приключения Шурика | https://habrahabr.ru/company/pt/blog/329902/
+
+Как можно применять «большие данные» в страховании: проекты Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/329762/
+
+«Сила IaaS»: Какое применение находят облачные технологии в автомобилестроении | https://habrahabr.ru/company/it-grad/blog/329394/
+
+Демо доступ к IOT платформам | https://habrahabr.ru/company/euler2012/blog/329614/
+
+Справочник «пчеловода» или отвечаем на вопросы по микроконтроллерам EFM8 Bee | https://habrahabr.ru/company/efo/blog/327780/
+
+Рост автономных платформ обработки данных или еще раз про Big Data | https://habrahabr.ru/company/parallels/blog/328572/
+
+Многоагентный умный дом | https://habrahabr.ru/post/328238/
+
+К вопросу об ограничениях | https://habrahabr.ru/post/328084/
+
+Интерактивная 3D-инсталляция по мотивам «Звёздных войн» | https://habrahabr.ru/company/microsoft/blog/328022/
+
+Второй вебинар по SAP Cloud Platform: детальный обзор сервисов | https://habrahabr.ru/company/sap/blog/327384/
+
+Обсуждаем «Операционные системы будущего для Интернета вещей»: приходите — будет интересно | https://habrahabr.ru/company/kaspersky/blog/327288/
+
+Nalivator-9000: робот-бармен на Raspberry Pi и Go | https://habrahabr.ru/post/327220/
+
+Вебинар «Обзор платформы SAP Cloud Platform» | https://habrahabr.ru/company/sap/blog/327208/
+
+SAP Форум 2017: новые сценарии для будущего с интернетом вещей | https://habrahabr.ru/company/sap/blog/326974/
+
+ESP8266 в качестве MQTT брокера для мобильного приложения | https://habrahabr.ru/post/326794/
+
+GoTo MeetUp: Security by Default | https://habrahabr.ru/company/goto/blog/326764/
+
+Экзоскелет своими руками | https://habrahabr.ru/company/parallels/blog/326596/
+
+Шаг за шагом: собираем и тестируем Интернет вещей на базе платформы SAP Cloud Platform | https://habrahabr.ru/company/sap/blog/326526/
+
+(Не) любителям protothreads посвящается: Высокоуровневые функции для работы с 1-Wire | https://habrahabr.ru/post/326320/
+
+Примитивы для реализации 1-Wire master при помощи PWM и ICP для STM8L и STM32 | https://habrahabr.ru/post/326114/
+
+Предварительная программа MBLT17 | https://habrahabr.ru/company/e-Legion/blog/325614/
+
+Запускаем датчик скорости потока жидкости | https://habrahabr.ru/company/efo/blog/325076/
+
+Умная ферма с дронами-ковбоями с помощью SAP Cloud Platform | https://habrahabr.ru/company/sap/blog/325122/
+
+Как создать интернет вещей из «кирпичиков» LEGO на базе платформы AWS IoT | https://habrahabr.ru/post/324992/
+
+Гантель как орудие ума | https://habrahabr.ru/company/goto/blog/324962/
+
+Как современные платежные технологии используются предприятиями общественного питания по всему миру | https://habrahabr.ru/company/payonline/blog/312378/
+
+Умнеющие города | https://habrahabr.ru/company/gemaltorussia/blog/324410/
+
+Власть народу: как использовать ИИ для решения человеческих проблем | https://habrahabr.ru/company/parallels/blog/324574/
+
+Весеннее обострение: проектная школа в Иннополисе, методический интенсив и митап по инфобезу | https://habrahabr.ru/company/goto/blog/324524/
+
+Приглашаем на «железный» хакатон в Сколково | https://habrahabr.ru/company/rostelecom/blog/324556/
+
+Видео Google Device Day | https://habrahabr.ru/company/google/blog/324468/
+
+Придумываем название для нового гипервайзера для архитектуры MIPS с аппаратно-поддерживаемой виртуализацией | https://habrahabr.ru/post/324444/
+
+Intel и Google — дружим «облаками» | https://habrahabr.ru/company/intel/blog/323978/
+
+Митап MSK.NET Community | https://habrahabr.ru/company/jugru/blog/324076/
+
+Интернет вещей в археологии | https://habrahabr.ru/company/microsoft/blog/323762/
+
+Оцифровка звука на STM32 (АЦП+DMA) и кодирование в Speex для передачи | https://habrahabr.ru/post/323598/
+
+Почему все виртуальные помощники — женщины? | https://habrahabr.ru/company/parallels/blog/323470/
+
+Монитор качества воздуха в помещении | https://habrahabr.ru/post/322080/
+
+PUSH уведомления в браузерах и работа с треками объектов | https://habrahabr.ru/company/euler2012/blog/323372/
+
+Power BI Embedded, IoT и машинное обучение для обработки термограмм мозга | https://habrahabr.ru/company/microsoft/blog/323200/
+
+Что такое платформа Tarantool IIoT? | https://habrahabr.ru/company/mailru/blog/322730/
+
+Примитивы для реализации 1-Wire master при помощи PWM и ICP на микроконтроллерах AVR AtMega | https://habrahabr.ru/post/322710/
+
+Безопасность в IoT: Обеспечение безопасности развертывания Azure IoT | https://habrahabr.ru/company/microsoft/blog/322600/
+
+Функциональная безопасность, часть 5 из 7. Жизненный цикл информационной и функциональной безопасности | https://habrahabr.ru/post/322428/
+
+23 февраля: страшней айтишника оружия нет | https://habrahabr.ru/company/parallels/blog/322468/
+
+«Умная пыль»: как устроен самый маленький компьютер Michigan Micro Mote | https://habrahabr.ru/company/it-grad/blog/321130/
+
+Отображение параметров IOT&GPS объектов на графиках | https://habrahabr.ru/company/euler2012/blog/322182/
+
+Управление светильниками по протоколу DALI с помощью Arduino | https://habrahabr.ru/post/321888/
+
+Home Assistant или еще один «мозг» для проекта типа «Умный Дом» | https://habrahabr.ru/post/321606/
+
+Бесплатный IOT & GPS сервис VIALATM | https://habrahabr.ru/company/euler2012/blog/321298/
+
+Запускаем датчик скорости потока газа | https://habrahabr.ru/company/efo/blog/321108/
+
+Электронные чернила для Wirenboard 5 или рисуем штрихкоды на Go | https://habrahabr.ru/post/321238/
+
+Бюджетный вариант измерения TrueRMS | https://habrahabr.ru/post/321008/
+
+Arduino на автомойке ч.2 | https://habrahabr.ru/post/321172/
+
+К вопросу о рабочей точке светодиода и (внезапно) импортозамещению | https://habrahabr.ru/post/307886/
+
+Master-master репликация и масштабирование приложений между всеми IoT-устройствами и облаком | https://habrahabr.ru/company/mailru/blog/320878/
+
+Грузовики и рефрижераторы в облаке | https://habrahabr.ru/company/microsoft/blog/319856/
+
+Arduino на автомойке | https://habrahabr.ru/post/320458/
+
+Visual C++ for IoT Development: Прорыв или разочарование? | https://habrahabr.ru/post/320120/
+
+Создание нативного watchface для Gear S3/S2 | https://habrahabr.ru/post/319982/
+
+Расширение Visual C++ for Linux Development | https://habrahabr.ru/company/microsoft/blog/319962/
+
+Разработка электроники: от идеи до устройства | https://habrahabr.ru/post/319370/
+
+Безопасность в IoT: Архитектура системы безопасности | https://habrahabr.ru/company/microsoft/blog/318968/
+
+Превращаем свой смартфон в IoT датчик при помощи Bluemix. Пример разработки приложения | https://habrahabr.ru/company/ibm/blog/318702/
+
+Релиз alpha-версии стека протоколов для Интернета вещей | https://habrahabr.ru/post/318342/
+
+Android Things | https://habrahabr.ru/post/318296/
+
+7 шагов к локализации ПО | https://habrahabr.ru/company/gemaltorussia/blog/318186/
+
+Немного об истории CAPTCHA | https://habrahabr.ru/company/vasexperts/blog/316276/
+
+Спецификация LoRaWAN. Активация оконечных устройств | https://habrahabr.ru/company/efo/blog/317218/
+
+«Мир не Дикого Запада»: IEEE опубликовала стандарт по созданию благожелательных роботов | https://habrahabr.ru/company/vasexperts/blog/316274/
+
+Виртуальные ключи к реальному миру | https://habrahabr.ru/company/gemaltorussia/blog/317668/
+
+Android и «интернет вещей» стали ближе друг к другу | https://habrahabr.ru/company/intel/blog/317580/
+
+Клипса от Raccoon.world, как контроллер для VR/AR | https://habrahabr.ru/post/317522/
+
+HighLoad++2016: как это было | https://habrahabr.ru/company/tm/blog/317264/
+
+Спецификация LoRaWAN. Введение. Основные понятия и классы оконечных устройств | https://habrahabr.ru/company/efo/blog/316954/
+
+Стек протоколов для Интернета вещей | https://habrahabr.ru/post/317056/
+
+О широкополосных СВЧ переключателях фирмы «Peregrine Semiconductor» | https://habrahabr.ru/company/efo/blog/316526/
+
+Интервью с Андреем Ивашенцевым (Game Insight) о будущем VR и AR | https://habrahabr.ru/company/mobio/blog/316542/
+
+Пять аспектов информационной безопасности, которые изменятся с развитием мобильных сетей пятого поколения | https://habrahabr.ru/company/gemaltorussia/blog/316522/
+
+Как я взломал свою ip-камеру и нашел там бекдор | https://habrahabr.ru/post/316296/
+
+Зловреды-вымогатели для IoT опаснее «традиционных» зловредов | https://habrahabr.ru/company/parallels/blog/315730/
+
+Siri + Zway + Homebridge = Запуск двигателя | https://habrahabr.ru/post/315782/
+
+«Ультимативный» SSL-дайджест: Лучшие практические материалы на Хабре и не только | https://habrahabr.ru/company/1cloud/blog/315758/
+
+Разработки Университета ИТМО: Управление дронами на основе блокчейн | https://habrahabr.ru/company/spbifmo/blog/315750/
+
+Безопасность в IoT: Стратегия всесторонней защиты | https://habrahabr.ru/company/microsoft/blog/315578/
+
+Сигнализация для холодильника. Не жизнь, а «малина» c RaspberryPi 3 | https://habrahabr.ru/post/314898/
+
+Кто ты по професии: Разница между «Programmer», «Software Engineer» и «Computer Scientist» | https://habrahabr.ru/company/1cloud/blog/315230/
+
+Делаем стартап просто и технологично. Маячки Eddystone | https://habrahabr.ru/company/google/blog/310486/
+
+NIST рекомендует: строительные блоки для описания IoT | https://habrahabr.ru/post/314956/
+
+Конкурс на ZeroNights 2016 от Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/314976/
+
+Технологии Eddystone заменяют QR-коды | https://habrahabr.ru/company/google/blog/310510/
+
+Как разработать приложение для автоматизации почти не умея программировать. Придется выучить IDE… | https://habrahabr.ru/post/310784/
+
+Можно скачать материалы семинара Nanometer ASIC (РОСНАНО / МИСиС / Imagination Technologies) — ликбез по всему про чипы | https://habrahabr.ru/post/314892/
+
+Термосопротивления: Производственный процесс | https://habrahabr.ru/company/efo/blog/314192/
+
+Текстовая трансляция HighLoad++ 2016. День второй | https://habrahabr.ru/company/oleg-bunin/blog/314442/
+
+Термосопротивления: Теория | https://habrahabr.ru/company/efo/blog/312898/
+
+Ловим уведомления с помощью маячков | https://habrahabr.ru/company/google/blog/310518/
+
+Компания Canonical выпустила новую версию Ubuntu Core для IoT-приложений | https://habrahabr.ru/company/kingservers/blog/314456/
+
+Подключение шлюзов Intel для интернета вещей к AWS и обмен данными с облаком при помощи Node-RED или Python | https://habrahabr.ru/company/intel/blog/314282/
+
+Адаптирование мобильного приложения для Android TV или почему я люблю Google | https://habrahabr.ru/company/google/blog/310514/
+
+Как уберечь IP камеру от ботнета Mirai с Flussonic Agent | https://habrahabr.ru/company/erlyvideo/blog/314146/
+
+Открытые операционные системы для интернета вещей | https://habrahabr.ru/post/314122/
+
+Учебное руководство по управлению светодиодами с помощью Robotics Development Kit | https://habrahabr.ru/company/intel/blog/313942/
+
+Безопасность в IoT: Azure IoT Suite для тех, кто начинает с нуля | https://habrahabr.ru/company/microsoft/blog/313762/
+
+Учебное руководство: перечисление модулей и камер | https://habrahabr.ru/company/intel/blog/313290/
+
+Universal Mobile Electronic Key | https://habrahabr.ru/company/google/blog/310506/
+
+Настраиваем шлюз LoRaWAN и создаем наше первое IoT-приложение | https://habrahabr.ru/company/efo/blog/313042/
+
+Как я читал показания датчиков через SNMP (Python+AgentX+systemd+Raspberry Pi) и соорудил ещё одну мониторилку | https://habrahabr.ru/post/311502/
+
+Новые возможности Intel RealSense SDK 2016 R2 | https://habrahabr.ru/company/intel/blog/312856/
+
+Как полюбить mbed, а потом дважды облажаться | https://habrahabr.ru/company/efo/blog/312484/
+
+Проблемы безопасности IoT: исследователь обнаружил серьезные уязвимости в MatrixSSL | https://habrahabr.ru/company/pt/blog/312698/
+
+Как перестать бояться и полюбить mbed [Часть 5] | https://habrahabr.ru/company/efo/blog/311816/
+
+Базовые станции Multi-Tech позволяют развернуть сеть LoRaWAN за пару кликов | https://habrahabr.ru/company/efo/blog/312424/
+
+Как перестать бояться и полюбить mbed [Часть 4] | https://habrahabr.ru/company/efo/blog/310720/
+
+Вручную или автоматически: Пара слов о тестировании приложений | https://habrahabr.ru/company/1cloud/blog/311896/
+
+Новые возможности управления: Intel RealSense и GestureWorks Fusion | https://habrahabr.ru/company/intel/blog/311580/
+
+Как перестать бояться и полюбить mbed [Часть 3] | https://habrahabr.ru/company/efo/blog/310058/
+
+Три шага, которые увеличат шумы цифрового преобразователя | https://habrahabr.ru/post/311278/
+
+Как это было: раскрываем детали Droidcon Moscow 2016 | https://habrahabr.ru/company/e-Legion/blog/311126/
+
+Образец кода Enhanced Photography для камеры Intel RealSense R200 | https://habrahabr.ru/company/intel/blog/310804/
+
+Как перестать бояться и полюбить mbed [Часть 2] | https://habrahabr.ru/company/efo/blog/309918/
+
+Украинец подсказал британцу сделать вебинар для разработчиков IoT для сельского хозяйства. А мы поговорим о CPU внутри | https://habrahabr.ru/post/310666/
+
+Как перестать бояться и полюбить mbed [Часть 1] | https://habrahabr.ru/company/efo/blog/308440/
+
+Работаем с Azure IoT устройствами из приложений UWP | https://habrahabr.ru/post/303866/
+
+ESP32: знакомимся, пишем и запускаем первую прошивку | https://habrahabr.ru/post/309746/
+
+Как штатными настройками убить микроконтроллер. Часть 2 | https://habrahabr.ru/post/309724/
+
+С Днем Программиста :) | https://habrahabr.ru/post/309720/
+
+Анализ данных с электросчетчика Eastron SDM220 средствами ThingSpeak | https://habrahabr.ru/post/309580/
+
+Про интернет вещей и полупроводниковую индустрию в краю, где пьют верблюжье молоко. День первый | https://habrahabr.ru/post/309570/
+
+«Архитектуры приложений»: немного о бессерверных архитектурах | https://habrahabr.ru/company/it-grad/blog/309026/
+
+Жизнь в условиях тотального подключения к сети | https://habrahabr.ru/company/gemaltorussia/blog/309294/
+
+Приглашаем 19 октября, Москва на IX конференцию «Встраиваемые Технологии 2016. Индустриальный Интернет Вещей» | https://habrahabr.ru/company/microsoft/blog/309342/
+
+Программное обеспечение для умного дома | https://habrahabr.ru/post/309070/
+
+Intel Software Conference 2016. Сентябрь, Москва, Санкт-Петербург | https://habrahabr.ru/company/intel/blog/308990/
+
+Подарок на 1 сентября всем поклонникам цифровой схемотехники и архитектуры компьютера | https://habrahabr.ru/post/308976/
+
+Топ 10 технологий для Internet of Things: что будет происходить в ближайшие два года? | https://habrahabr.ru/post/308892/
+
+Подключаем устройства Intel для интернета вещей к Microsoft Azure IoT Suite | https://habrahabr.ru/company/intel/blog/267815/
+
+Информатика за индексами в Постгресе | https://habrahabr.ru/post/308752/
+
+Опубликована программа Droidcon Moscow 2016 | https://habrahabr.ru/company/e-Legion/blog/308748/
+
+Как штатными настройками убить микроконтроллер. Часть 1 | https://habrahabr.ru/post/308596/
+
+Знакомство: BBC micro:bit и mbed OS 5 | https://habrahabr.ru/post/307806/
+
+JavaScript выходит за пределы Web в 2015 году | https://habrahabr.ru/post/281342/
+
+Один день программиста ембеддера. Написать драйвер для датчика влажности HTS221 от STM — это очень просто? | https://habrahabr.ru/post/307962/
+
+UltraCMOS Фирмы «Peregrine Semiconductor»: СВЧ возможности КМОП-технологии | https://habrahabr.ru/company/efo/blog/307614/
+
+Первая встреча Moscow IoT Community: как мы нашли баг в Visual Studio | https://habrahabr.ru/post/307882/
+
+Беспроводные сети ZigBee. Часть 2 [Работа с радиомодулями ETRX35X] | https://habrahabr.ru/company/efo/blog/306062/
+
+Стандарты архитектуры для Internet of Things | https://habrahabr.ru/post/307668/
+
+Переводчик с языка жестов: реализация метода опорных векторов на Intel Edison | https://habrahabr.ru/company/intel/blog/306948/
+
+Про облака и датчики: подключение Intel NUC и Genuino 101 к IoT-платформе IBM Watson | https://habrahabr.ru/company/intel/blog/307136/
+
+Новая редакция популярного бесплатного учебника электроники, архитектуры компьютера и низкоуровневого программирования | https://habrahabr.ru/post/306982/
+
+Подключение шлюзов Intel для интернета вещей к IBM Watson | https://habrahabr.ru/company/intel/blog/306868/
+
+Компьютерное зрение для слепых людей. Применение Intel Edison | https://habrahabr.ru/company/intel/blog/305728/
+
+Что нового ожидается в ядре v4.8-rc1 для Intel Edison. Дайджест | https://habrahabr.ru/post/305880/
+
+IoT и ViaLatM. Автоматизация посылки команд на объекты «Интернет вещей» | https://habrahabr.ru/company/euler2012/blog/305414/
+
+О вкусном и здоровом питании ESP8266 от батареек | https://habrahabr.ru/post/304936/
+
+Открыт приём заявок на VIII Летнюю Школу высокопроизводительных вычислений в области компьютерного зрения | https://habrahabr.ru/company/innopolis_university/blog/304906/
+
+Работа с Bluetooth LE из Java-приложений | https://habrahabr.ru/company/intel/blog/304782/
+
+Что такое ViaLatM? | https://habrahabr.ru/company/euler2012/blog/304698/
+
+ZigBee и Intel Edison: практика автоматизации переговорных комнат | https://habrahabr.ru/company/intel/blog/304546/
+
+IaaS-дайджест: 30 материалов о трансформации технологий | https://habrahabr.ru/company/it-grad/blog/304290/
+
+IoT и ViaLatM. Работа с объектами из сферы «Интернет Вещей» | https://habrahabr.ru/company/euler2012/blog/304436/
+
+Google I/O 2016: WatchFace 2.0 — Complications | https://habrahabr.ru/company/google/blog/304260/
+
+MQTT и Modbus: cравнение протоколов, используемых в шлюзах для IoT | https://habrahabr.ru/company/intel/blog/304228/
+
+Модуль PowerShell для Intel IoT Gateway | https://habrahabr.ru/company/intel/blog/304046/
+
+Ответственный подход к измерению относительной влажности | https://habrahabr.ru/company/efo/blog/303350/
+
+Запускаем Yocto Linux на виртуальной машине | https://habrahabr.ru/company/intel/blog/303960/
+
+Как делать из Intel Edison и Galileo iBeacon-маяки | https://habrahabr.ru/company/intel/blog/303670/
+
+Эксперименты с Arduino 101 | https://habrahabr.ru/company/intel/blog/303468/
+
+Шлюзы в IoT-разработке: когда, зачем и почему | https://habrahabr.ru/company/intel/blog/302824/
+
+Шлюзы Intel для интернета вещей: отправка сообщений MQTT-брокеру с использованием Python | https://habrahabr.ru/company/intel/blog/302338/
+
+Работа с данными: Как это делают крупные компании | https://habrahabr.ru/company/1cloud/blog/302124/
+
+Шлюзы Intel для интернета вещей: подписываем и устанавливаем RPM-пакеты | https://habrahabr.ru/company/intel/blog/301864/
+
+DevCon 2016. Подключайтесь к трансляции сегодня в 09:30! Что вас ожидает во второй день? | https://habrahabr.ru/company/microsoft/blog/301800/
+
+Intel Edison + веб-камера = сканер штрих-кодов | https://habrahabr.ru/company/intel/blog/301492/
+
+Сетевые технологии Интернета вещей | https://habrahabr.ru/company/ericsson_ru/blog/301494/
+
+Все, что вам нужно знать про DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/301404/
+
+Представляем новую камеру Intel RealSense SR300 | https://habrahabr.ru/company/intel/blog/283508/
+
+Контроль качества воздуха (со2 и температуры) в офисе и дома, своими руками | https://habrahabr.ru/post/301296/
+
+Финализирована программа коммьюнити-трека конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/300844/
+
+Intel Edison в IoT: безопасное подключение сенсорного узла к интернету с помощью MQTT | https://habrahabr.ru/company/intel/blog/283440/
+
+Создание сенсорного узла для интернета вещей на Intel Edison | https://habrahabr.ru/company/intel/blog/283328/
+
+Windows 10 IoT Core: GPIO, Lightning и RemoteClient | https://habrahabr.ru/post/283184/
+
+О протоколе Modbus и Intel Edison | https://habrahabr.ru/company/intel/blog/282926/
+
+«Облачный дайджест» #5: Виртуальная инфраструктура | https://habrahabr.ru/post/282976/
+
+Microsoft DevCon 2016 — представляем заключительную волну докладчиков Community-трека | https://habrahabr.ru/company/microsoft/blog/282978/
+
+Отправляем данные с Arduino в Azure IoT Hub | https://habrahabr.ru/post/282912/
+
+NB-IoT: узкая полоса – широкие перспективы | https://habrahabr.ru/company/huawei/blog/282910/
+
+Голосовое управление умным домом на Z-wave через Siri | https://habrahabr.ru/post/282870/
+
+Примеры кода для интернета вещей: умная поливалка | https://habrahabr.ru/company/intel/blog/282756/
+
+Анонс! Участникам DevCon 2016 будет доступен мастер-класс от Intel | https://habrahabr.ru/company/microsoft/blog/282642/
+
+Летняя школа Microsoft Research 2016 в Казани — Интернет вещей | https://habrahabr.ru/company/microsoft/blog/282513/
+
+Время неожиданных аналогий: речные раки и датчики электропроводности | https://habrahabr.ru/company/efo/blog/282235/
+
+Интернет вещей на реальном примере — система поиска автомобиля | https://habrahabr.ru/post/282351/
+
+Аутентификация пользователей на Arduino с RFID | https://habrahabr.ru/company/intersystems/blog/279893/
+
+Беспроводные сети ZigBee. Часть 1 [Вводная] | https://habrahabr.ru/company/efo/blog/281048/
+
+M2M за 5 минут с DeviceHive и Microsoft Azure. Как начать свой путь в IoT | https://habrahabr.ru/company/microsoft/blog/281913/
+
+Решение давно существующих проблем безопасности BLE-маячков. Eddystone-EID. Eddystone GATT service и Beacon Tools | https://habrahabr.ru/post/281877/
+
+Развитие облачных технологий и робототехники в новом десятилетии | https://habrahabr.ru/company/1cloud/blog/281543/
+
+Интернет вещей (IoT) – вызовы новой реальности | https://habrahabr.ru/company/gemaltorussia/blog/281619/
+
+Искусственный интеллект: что о нем думают ученые | https://habrahabr.ru/company/1cloud/blog/281282/
+
+Не IoT, а малина! Строим IoT-проект на Raspberry Pi с Windows 10 и DeviceHive | https://habrahabr.ru/company/microsoft/blog/280294/
+
+IoT-решение за 1,5 часа | https://habrahabr.ru/company/eastbanctech/blog/281238/
+
+Паять или не паять? Интернет вещей для начинающих | https://habrahabr.ru/company/microsoft/blog/281218/
+
+Одновременный анализ энергопотребления/производительности Android-устройств с помощью Intel VTune Amplifier и SoC Watch | https://habrahabr.ru/company/intel/blog/281200/
+
+Wi-Fi-модуль WF121 и HTTP-сервер впридачу | https://habrahabr.ru/company/efo/blog/280894/
+
+О ресторанном столе UHD-разрешения и прочих интерактивных технологиях от Kodisoft | https://habrahabr.ru/company/intel/blog/280816/
+
+Ostro Pot — open source мультиварка на базе ОС Ostro | https://habrahabr.ru/company/intel/blog/280580/
+
+EMC делает ставку на ReactOS для хранения больших данных в IoT-сфере | https://habrahabr.ru/company/reactos/blog/280652/
+
+Не пропустите сегодня вечером онлайн трансляцию открытия конференции Build (18:30 MCK) | https://habrahabr.ru/company/microsoft/blog/280506/
+
+Я покажу тебе мир без STM32 | https://habrahabr.ru/company/efo/blog/280145/
+
+Wearable Smart Gateway — носимое устройство для экстренных служб | https://habrahabr.ru/company/intel/blog/280256/
+
+Alljoyn: взгляд embedded разработчика. Часть 3: Портируем на МК SAMD21 | https://habrahabr.ru/company/rainbow/blog/278363/
+
+aBeing One: в центре интернета вещей | https://habrahabr.ru/company/acer/blog/280356/
+
+Об измерении скорости потока жидкостей и газов | https://habrahabr.ru/company/efo/blog/280031/
+
+Microsoft DevCon 2016 — представляем первую волну докладчиков Community-трека | https://habrahabr.ru/company/microsoft/blog/279881/
+
+Хакатон: быстрое прототипирование решений Интернета вещей | https://habrahabr.ru/company/ibm/blog/279855/
+
+Лучшие технологические видео Channel 9 этой недели, 18 марта | https://habrahabr.ru/company/microsoft/blog/279597/
+
+«IoT» или «не IoT» – вот в чем вопрос! (Windows 10 IoT FAQ) | https://habrahabr.ru/company/quarta/blog/279521/
+
+О чем говорят тренды PHP в 2016-м году? | https://habrahabr.ru/company/infopulse/blog/279461/
+
+Google's beacon platform. Часть 1 — Proximity beacon API | https://habrahabr.ru/post/279381/
+
+Alljoyn: взгляд embedded разработчика. Часть 2: Linux нам в помощь | https://habrahabr.ru/company/rainbow/blog/278845/
+
+«Облачный» дайджест #1: Инфраструктура, хранение данных и IoT | https://habrahabr.ru/post/278905/
+
+Windows 10 IoT: Эволюция средств разработки | https://habrahabr.ru/company/quarta/blog/278879/
+
+Пишем на D для Raspberry Pi | https://habrahabr.ru/post/278775/
+
+Дайджест интересных материалов для мобильного разработчика #143 (29 февраля-8 марта) | https://habrahabr.ru/post/278777/
+
+Концепция Physical web. Bluetooth маячки. Сравнение стандартов iBeacon, AltBeacon и Eddystone | https://habrahabr.ru/post/278443/
+
+Zephyr Project — open source ОС реального времени | https://habrahabr.ru/company/intel/blog/278253/
+
+Intel подготовила рабочий прототип платформы 5G | https://habrahabr.ru/company/intel/blog/278201/
+
+Alljoyn: взгляд embedded разработчика. Часть 1: знакомство | https://habrahabr.ru/company/rainbow/blog/273859/
+
+Embedded World 2016: куда катится embedded-мир? | https://habrahabr.ru/company/metrotek/blog/277873/
+
+Статья про микроконтроллер EFM32ZG110F32 | https://habrahabr.ru/company/efo/blog/277899/
+
+На что стоит променять Cortex-M3? | https://habrahabr.ru/company/efo/blog/277491/
+
+Wifi-радио с тёплым ламповым дисплеем. Часть 1. Дисплей | https://habrahabr.ru/post/276879/
+
+Настройка платы Intel Edison для Microsoft Azure IoT suite | https://habrahabr.ru/company/intel/blog/276757/
+
+Зимняя школа «Интернет вещей на платформе Intel Edison». Нижний Новгород, 8-13 февраля | https://habrahabr.ru/company/intel/blog/276497/
+
+Дозиметр в интернете вещей: составляем карту радиоактивных зон для себя и всего мира | https://habrahabr.ru/company/promwad/blog/276467/
+
+Контроль над браслетом в ритме BlueZ | https://habrahabr.ru/post/276343/
+
+Умная няня на основе Intel Edison и Ubidots | https://habrahabr.ru/company/intel/blog/276393/
+
+IaaS для дела: Как российский бизнес переходит в «облако» | https://habrahabr.ru/company/it-grad/blog/276145/
+
+Управление офисным освещением по Wi-Fi. Часть 3: Управляем светом | https://habrahabr.ru/company/rainbow/blog/276007/
+
+Переделка RC-машинки в смарт-машинку при помощи ардуино | https://habrahabr.ru/post/275979/
+
+Работа с Arduino из C# приложения | https://habrahabr.ru/post/275439/
+
+А вы задумывались о безопасности… автомобиля? | https://habrahabr.ru/company/e-Legion/blog/275505/
+
+Путь от прототипа до промышленного IoT-продукта | https://habrahabr.ru/company/intel/blog/275805/
+
+Подборка: Более 800 ресурсов для front-end-разработчиков | https://habrahabr.ru/company/it-grad/blog/275673/
+
+Делаем iBeacon и Eddystone Beacon «на коленке» | https://habrahabr.ru/company/rainbow/blog/273865/
+
+Спецслужбы предположительно использовали уязвимости в Juniper | https://habrahabr.ru/company/1cloud/blog/275167/
+
+Построение и использование Mosquitto MQTT на Intel Edison | https://habrahabr.ru/company/intel/blog/275083/
+
+350+ полезных ресурсов, книг и инструментов для работы с Docker | https://habrahabr.ru/company/1cloud/blog/275015/
+
+Минута теории: Разбираемся с RESTful-приложениями | https://habrahabr.ru/company/1cloud/blog/274881/
+
+От ИИ и наук о данных до криптографии: исследователи Microsoft дают 16 предсказаний на 2016 год | https://habrahabr.ru/company/microsoft/blog/274269/
+
+Немного о трендах в области суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/273667/
+
+Беспроводные решения Atmel для IoT | https://habrahabr.ru/company/rainbow/blog/275399/
+
+Управление офисным освещением по Wi-Fi. Часть 2: Сенсорная технология Q-touch | https://habrahabr.ru/company/rainbow/blog/275361/
+
+Управление офисным освещением по Wi-Fi. Часть 1: Wi-Fi модуль Atmel WINC1500 | https://habrahabr.ru/company/rainbow/blog/275359/
+
+Говорит Gartner: «Перегретые» IoT и практичные облака | https://habrahabr.ru/company/1cloud/blog/266437/
+
+Чем хороши новые процессоры Intel Skylake | https://habrahabr.ru/company/1cloud/blog/266133/
+
+«Программирование мышкой» для микроконтроллеров | https://habrahabr.ru/company/efo/blog/261253/
+
+Как работает API нашего IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/260523/
+
+От эксперимента к продукту: Hadoop и Big Data | https://habrahabr.ru/company/1cloud/blog/259433/
+
+AI, Big Data и дезинформация технологий | https://habrahabr.ru/company/1cloud/blog/258219/
+
+Профилирование энергопотребления микроконтроллеров (серия EFM32, SiLabs) | https://habrahabr.ru/company/efo/blog/257503/
+
+Особенности создания программ в NODEMCU ESP8266 для «интернета вещей» | https://habrahabr.ru/post/255625/
+
+Запускаем свежайшее ядро Linux на Intel Edison | https://habrahabr.ru/post/254247/
+
+Электронная книжка в качестве дисплея | https://habrahabr.ru/post/274831/
+

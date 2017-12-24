@@ -1,0 +1,218 @@
+Расширение моделей в Eloquent ORM | https://habrahabr.ru/post/344728/
+
+Создание собственных PHP функций в Laravel проекте | https://habrahabr.ru/post/344342/
+
+Самотестируемая система с оповещениями на Laravel + Bitbucket + HipChat | https://habrahabr.ru/post/341724/
+
+Добавление рекордов с OAuth 2: Laravel Passport + Unity. Часть 1 | https://habrahabr.ru/post/340282/
+
+Как я создавал прибыльный глобальный SaaS проект, от разработки до продаж | https://habrahabr.ru/post/338350/
+
+Псевдонимы (алиасы) bash для Laravel | https://habrahabr.ru/post/336446/
+
+Первые впечатления о Laravel API Resources | https://habrahabr.ru/post/336432/
+
+Новые функции в Laravel 5.5 | https://habrahabr.ru/post/335930/
+
+Laracon 2017 — краткий обзор и куча полезных ссылок | https://habrahabr.ru/post/334918/
+
+Laravel — экосистема, а не просто PHP-фреймворк | https://habrahabr.ru/post/334776/
+
+Как скрестить ежа с ужом. Используем GridView из Yii 2 в проекте на Laravel | https://habrahabr.ru/post/334542/
+
+Orchid CMS — ещё одна CMS на Laravel | https://habrahabr.ru/post/333926/
+
+Поговорим о Yii 2 | https://habrahabr.ru/post/333398/
+
+Создание справочника адресной информации с блекджеком и API | https://habrahabr.ru/post/333424/
+
+Как сделать сложное простым. История создания «Проекта1917» | https://habrahabr.ru/company/itsumma/blog/332786/
+
+Используем IoC-контейнер Laravel на полную мощность | https://habrahabr.ru/post/331982/
+
+Vue.js для сомневающихся. Все, что нужно знать | https://habrahabr.ru/post/329452/
+
+Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать | https://habrahabr.ru/post/328890/
+
+Laravel подробнее про Homestead | https://habrahabr.ru/post/328880/
+
+Можно ли использовать Laravel для больших Enterprise-решений? | https://habrahabr.ru/post/328610/
+
+«Runn Me!» — говорит нам очередной фреймворк* на PHP. А слышится «Throw Me!». Часть 2 | https://habrahabr.ru/post/328080/
+
+Уточка говорит «кря-кря», коровка говорит «му-му», «Runn Me!» — говорит нам очередной фреймворк* на PHP. Часть 1 | https://habrahabr.ru/post/326960/
+
+Опрос. Какой php-фреймворк вы используете? | https://habrahabr.ru/post/325234/
+
+Генерируем оглавление для текста | https://habrahabr.ru/post/325224/
+
+NodeJS фреймворк с синтаксисом Laravel   (и без лапши в коде) | https://habrahabr.ru/post/324220/
+
+Stacker: что нового? | https://habrahabr.ru/post/323634/
+
+Laravel 5. Иерархический RBAC для самых маленьких | https://habrahabr.ru/post/321678/
+
+Краткий обзор нововведений в Laravel 5.4 | https://habrahabr.ru/post/320010/
+
+Авторизация в Laravel, через социальные сети (Ulogin). Просто, гибко и эффективно | https://habrahabr.ru/post/320046/
+
+Laravel Dusk уже близко | https://habrahabr.ru/post/318704/
+
+Пакет-географ: готов к работе | https://habrahabr.ru/post/318424/
+
+Как не нужно использовать паттерн Repository | https://habrahabr.ru/post/316836/
+
+Создание web приложения на PHP с иcпользованием Firebird и Laravel | https://habrahabr.ru/post/317458/
+
+Простой API gateway на базе PHP и Lumen | https://habrahabr.ru/post/315128/
+
+Пакет для работы с СУБД Firebird в Laravel | https://habrahabr.ru/post/312874/
+
+Добавление поддержки СУБД Firebird в фреймворк Laravel | https://habrahabr.ru/post/311446/
+
+Шаблон Presenter в Laravel | https://habrahabr.ru/post/309942/
+
+Laravel 5.3: Подготовка к разработке (для новичков) | https://habrahabr.ru/post/309568/
+
+Вышел релиз Laravel 5.3 | https://habrahabr.ru/post/308380/
+
+Не используйте Illuminate Support | https://habrahabr.ru/post/308166/
+
+Вышел первый релиз-кандидат Laravel 5.3 RC1 | https://habrahabr.ru/post/307990/
+
+Отправка и получение SMS с помощью Laravel и Nexmo | https://habrahabr.ru/post/307278/
+
+Держите данные под контролем | https://habrahabr.ru/post/306452/
+
+Создаем мультиязычный блог с помощью OctoberCMS | https://habrahabr.ru/post/305802/
+
+Пакет-географ – первая рабочая версия | https://habrahabr.ru/post/304098/
+
+Как мы написали helpdesk (часть 3) | https://habrahabr.ru/post/303484/
+
+Запускаем очереди и планировщик Laravel в среде Elastic Beanstalk | https://habrahabr.ru/post/302590/
+
+Deployer — удобный и гибкий деплой приложений | https://habrahabr.ru/post/302442/
+
+Настройка Laravel relationships — подсчет комментариев (вольный перевод) | https://habrahabr.ru/post/302000/
+
+DevConf::PHP 2016 — заканчивается финальное голосование по докладам секции, успей отдать свой голос до 31 мая | https://habrahabr.ru/company/devconf/blog/301806/
+
+Обновление PHP до 7.0.6 может «сломать» ваш код | https://habrahabr.ru/post/283302/
+
+Laravel Timestamp Validator | https://habrahabr.ru/post/281827/
+
+От любви до ненависти — один шаг, или как я разлюбил магию в ActiveRecord | https://habrahabr.ru/post/281493/
+
+Laravel TestTools — запись тестов для Laravel прямо из браузера Chrome | https://habrahabr.ru/post/279843/
+
+Мультиисключение или Хочу поделиться одним интересным архитектурным приемом | https://habrahabr.ru/post/279501/
+
+Работа с событиями в Laravel. Рассылка push уведомлений при публикации статьи | https://habrahabr.ru/post/279385/
+
+Число прописью в Laravel 5 | https://habrahabr.ru/post/279293/
+
+Дерево разделов неограниченной вложенности и URL | https://habrahabr.ru/post/279233/
+
+Создание беспарольной аутентификации в Laravel, используя только email | https://habrahabr.ru/post/279173/
+
+Предварительный просмотр отправляемого email из Laravel | https://habrahabr.ru/post/279171/
+
+Декодирование типа данных JSON MySQL | https://habrahabr.ru/post/279155/
+
+Что нового ждет нас в Laravel 5.2.23 | https://habrahabr.ru/post/278935/
+
+«Строгий режим (strict mode)” и другие настройки MySQL в Laravel 5.2 | https://habrahabr.ru/post/278629/
+
+Пробрасываем роуты Angular 2 через роутер Laravel 5 | https://habrahabr.ru/post/278599/
+
+Три мелкие но полезные плюшки в Laravel 5.2.22 | https://habrahabr.ru/post/278557/
+
+Порог вхождения в Angular 2 — теория и практика | https://habrahabr.ru/post/278523/
+
+Как мы делали Linux-пингвинов к Новому году | https://habrahabr.ru/post/271979/
+
+Краткий обзор нововведений в Laravel 5.2 | https://habrahabr.ru/post/274065/
+
+Гексагональная архитектура | https://habrahabr.ru/post/267125/
+
+Реализация многоязычности на Laravel 5 силами фреймворка | https://habrahabr.ru/post/264435/
+
+Важность API сериализации вывода | https://habrahabr.ru/post/260975/
+
+DevConf::PHP уже в эту пятницу — программа сформирована, в кулуарах расскажем как переносили сайт конференции на Laravel 5 | https://habrahabr.ru/company/devconf/blog/260347/
+
+Laravel 5.1 | https://habrahabr.ru/post/259955/
+
+Загрузка моделей, трейтов | https://habrahabr.ru/post/259589/
+
+Переезд KodiCMS с фреймворка Kohana на Laravel 5 | https://habrahabr.ru/company/kodicms/blog/258827/
+
+Не мамонт ли Вы? (пятничный тест; который ложь, да в ней намек) | https://habrahabr.ru/post/258567/
+
+Мини API на Lumen | https://habrahabr.ru/post/257073/
+
+Lumen — новый PHP-микрофреймворк от разработчика Laravel | https://habrahabr.ru/post/255785/
+
+Визуализация качества кода с PhpMetrics | https://habrahabr.ru/post/254941/
+
+Встречайте Envoyer.io (часть 2) | https://habrahabr.ru/post/253278/
+
+Встречайте Envoyer.io (часть 1) | https://habrahabr.ru/post/253217/
+
+Vagrant для малышей, или как на Windows легко получить настроенный сервер для разработки веб-приложений | https://habrahabr.ru/post/251529/
+
+Дождались, релиз Laravel 5 | https://habrahabr.ru/post/249911/
+
+5 самых нужных дополнений к Laravel 4 | https://habrahabr.ru/post/244597/
+
+Загрузка Eloquent связей используя left join вместо дополнительных запросов | https://habrahabr.ru/post/243301/
+
+Расширение синтаксиса Blade | https://habrahabr.ru/post/242715/
+
+Локализованное форматирование даты в Laravel | https://habrahabr.ru/post/242067/
+
+Создание пакета для Laravel | https://habrahabr.ru/post/241423/
+
+Пакет для создания админки в проектах на Laravel | https://habrahabr.ru/post/240809/
+
+Знакомство с Laravel 5 простой блог с локальной разработкой на VirtualBox + Vagrant | https://habrahabr.ru/post/240003/
+
+Установка Laravel 5 на Windows XP, создание проекта и деплой проекта на Heroku | https://habrahabr.ru/post/239079/
+
+Что нового в Laravel 5? | https://habrahabr.ru/post/238017/
+
+Полезные инструменты для разработки на Laravel | https://habrahabr.ru/post/225627/
+
+Devconf 2014 — Практический мастер-класс по Laravel — впервые в России | https://habrahabr.ru/company/devconf/blog/225927/
+
+Кузница Laravel | https://habrahabr.ru/post/223047/
+
+October CMS: Публичная бета | https://habrahabr.ru/post/222827/
+
+25 Laravel Tips and Tricks | https://habrahabr.ru/post/222453/
+
+Каждому окружению своя favicon-ка | https://habrahabr.ru/post/222005/
+
+Создаём сайт, используя Laravel и Recurly. Часть 2 | https://habrahabr.ru/post/221815/
+
+К нам едет один из авторов Laravel @laravelphp — Shawn McCool | https://habrahabr.ru/company/devconf/blog/219683/
+
+Laravel. Интернет-ресурсы | https://habrahabr.ru/post/213933/
+
+Зашифрованное взаимодействие между клиентом и сервером на Laravel 4 | https://habrahabr.ru/post/209612/
+
+HHVM, Nginx и PHP (а также Laravel) | https://habrahabr.ru/post/208778/
+
+Удобная генерация URL (ЧПУ). Laravel 4 + сторонние пакеты | https://habrahabr.ru/post/208678/
+
+Laravel: Dependency Injection на практике | https://habrahabr.ru/post/206442/
+
+Фреймворк вашего следующего веб-приложения | https://habrahabr.ru/post/202638/
+
+Laravel. Установка, настройка, создание и деплой приложения | https://habrahabr.ru/post/197454/
+
+Вышел Laravel 4 | https://habrahabr.ru/post/181328/
+
+Разработка с помощью Laravel 4. Часть 1 | https://habrahabr.ru/post/170289/
+

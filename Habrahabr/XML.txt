@@ -1,0 +1,130 @@
+Злой XML с двумя кодировками | https://habrahabr.ru/post/340000/
+
+Java XML API: выбираем правильно. StAX: работаем с удовольствием | https://habrahabr.ru/post/339716/
+
+Семантическая разметка: LaTeX, DocBook или ??? | https://habrahabr.ru/post/339436/
+
+Декларативное программирование в web-е | https://habrahabr.ru/post/336096/
+
+Тестирование БД мобильного Delphi-приложения | https://habrahabr.ru/post/333548/
+
+Возможности CodeRush for Roslyn для XAML | https://habrahabr.ru/company/devexpress/blog/331350/
+
+Применение IMS QTI в электронных курсах в формате ePUB | https://habrahabr.ru/post/325980/
+
+Автоматизация печати в корпоративных системах или как подружить свой «велосипед» с принтером | https://habrahabr.ru/post/325586/
+
+Интеграция XML данных — другой путь | https://habrahabr.ru/post/325186/
+
+Чтение конфигурационных файлов без проблем | https://habrahabr.ru/post/324868/
+
+VectorDrawable — часть третья | https://habrahabr.ru/post/322024/
+
+Как я разбирал docx с помощью XSLT | https://habrahabr.ru/company/intersystems/blog/321044/
+
+Simple XML Framework — пишем API для работы с диаграммами DIA | https://habrahabr.ru/post/318898/
+
+Экспорт табличных данных из приложений написанных под .NET на языке C# | https://habrahabr.ru/post/317612/
+
+Рецепты. Как установить ПО на серверы используя VMmanager и DCImanager | https://habrahabr.ru/company/ispsystem/blog/316624/
+
+Разработка динамических REST-сервисов на документо-ориентированной БД Bagri | https://habrahabr.ru/post/315392/
+
+Разработка на базе фреймворка COREmanager. Как наши партнёры создавали решение для аутсорсинга техподдержки | https://habrahabr.ru/company/ispsystem/blog/314886/
+
+1С магия XDTO-пакетов на примере интеграций с ГИС ЖКХ | https://habrahabr.ru/post/313910/
+
+YML (Yandex Market Language) — Генерация файла товаров для Яндекс Вебмастер | https://habrahabr.ru/post/313256/
+
+Генерация автоматических тестов: Excel, XML, XSLT, далее — везде | https://habrahabr.ru/post/312520/
+
+Поддержка BizTalk Server: полезные советы. Часть 2 | https://habrahabr.ru/company/icl_services/blog/312512/
+
+Предоставление облачных ресурсов на базе VMware с помощью BILLmanager. Или как появился новый личный кабинет CloudLITE | https://habrahabr.ru/company/ispsystem/blog/309282/
+
+&? Trim? Гейзенберг? Не, не слышал | https://habrahabr.ru/post/307118/
+
+Рефакторинг при помощи композиции Клейсли | https://habrahabr.ru/company/wix/blog/304622/
+
+Парсер OOXML (docx, xlsx, pptx) на Ruby: наши ошибки и находки | https://habrahabr.ru/company/teamlab/blog/302826/
+
+VectorDrawable — часть вторая | https://habrahabr.ru/post/301610/
+
+VectorDrawable — часть первая | https://habrahabr.ru/post/301578/
+
+Создание экспертной системы в Wi!Mi 1.1 | https://habrahabr.ru/post/280974/
+
+SSI сайт: HTML, XML, XSLT | https://habrahabr.ru/post/276491/
+
+Мониторинг динамических XML-документов | https://habrahabr.ru/post/274131/
+
+XML, XQuery и тройная печаль с производительностью | https://habrahabr.ru/post/273189/
+
+Как приготовить DTO? | https://habrahabr.ru/post/270473/
+
+Публикация DITA в PDF с использованием DITA Open Toolkit. Разметка страниц — обзор layout-master | https://habrahabr.ru/post/266497/
+
+Публикация DITA в PDF с использованием DITA Open Toolkit | https://habrahabr.ru/post/266021/
+
+Python meetup — 2 года | https://habrahabr.ru/company/wargaming/blog/263507/
+
+Шаблоны проектирования XSD | https://habrahabr.ru/company/cit/blog/259167/
+
+Новые операторы в Blogger | https://habrahabr.ru/post/258653/
+
+Импорт данных из YouTube и Vimeo в Google.Docs | https://habrahabr.ru/post/254805/
+
+Поддержка DOM L3 XPath в Project Spartan | https://habrahabr.ru/post/253595/
+
+Способы передачи финансовых данных #2: протокол FAST | https://habrahabr.ru/company/itinvest/blog/243657/
+
+JSXML или работа с xml\xslt в javascript | https://habrahabr.ru/post/239859/
+
+Дизайнер шаблонов Blogger | https://habrahabr.ru/post/220173/
+
+Разработка документации при помощи DocBook | https://habrahabr.ru/post/212881/
+
+Хитрый способ создания анимированного jpeg'а | https://habrahabr.ru/post/201444/
+
+BaseX. Неизвестная NoSQL Вселенная | https://habrahabr.ru/post/201166/
+
+Как я подружил Quickbooks и PHP сайт с помощью Web Connector'а | https://habrahabr.ru/post/200728/
+
+Много-файловое хранилище Java объектов в формате xml (часть 2) | https://habrahabr.ru/post/186526/
+
+Много-файловое хранилище Java объектов в формате xml | https://habrahabr.ru/post/185890/
+
+JAXB и XSLT с использованием StAX | https://habrahabr.ru/post/185360/
+
+Использование dynamic для быстрого создания Xml | https://habrahabr.ru/post/175051/
+
+Самый быстрый SAX-парсер для python | https://habrahabr.ru/post/171447/
+
+NoSQL СУБД MarkLogic — краткий обзор | https://habrahabr.ru/post/170605/
+
+Как сделать бомбу из XML | https://habrahabr.ru/post/170333/
+
+Анатомия шаблонов Blogger | https://habrahabr.ru/post/166073/
+
+Zen Reports и %XML.Writer для генерации отчётов Excel в Caché | https://habrahabr.ru/company/intersystems/blog/163981/
+
+Простейшее голосовое меню на Cisco VoiceXML | https://habrahabr.ru/post/159229/
+
+XML-сериализация для развёртывания начальных данных в Caché. Часть I | https://habrahabr.ru/company/intersystems/blog/148287/
+
+Запрос номера из реестра «Россвязи» | https://habrahabr.ru/post/142069/
+
+Случайная сортировка и вывод случайных элементов в XSLT | https://habrahabr.ru/post/141673/
+
+Визуальный XML редактор Syntext Serna | https://habrahabr.ru/post/112371/
+
+XSD — умный XML | https://habrahabr.ru/post/90696/
+
+XMLVM, сумасшедшие возможности | https://habrahabr.ru/post/66296/
+
+Игры с XPath | https://habrahabr.ru/post/65383/
+
+Аппаратный XML-парсер от Intel | https://habrahabr.ru/post/44123/
+
+Визуализация Xml-документов | https://habrahabr.ru/post/43356/
+

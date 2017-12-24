@@ -1,0 +1,592 @@
+Глубокое обучение при помощи Spark и Hadoop: знакомство с Deeplearning4j | https://habrahabr.ru/company/piter/blog/344824/
+
+Как я осознал, что такое распределенные системы | https://habrahabr.ru/company/piter/blog/344538/
+
+Внедрение зависимостей в .Net Марка Симана 2 — Внедрение конструктора, время жизни | https://habrahabr.ru/post/344380/
+
+Внедрение зависимостей в .Net Марка Симана 1 — Зависимости между слоями приложения | https://habrahabr.ru/post/343830/
+
+Непрерывная интеграция, непрерывная доставка, непрерывное развертывание: просто матрешка | https://habrahabr.ru/company/piter/blog/343270/
+
+Издательство Питер. Черная пятница 2017 | https://habrahabr.ru/company/piter/blog/343106/
+
+«Hello, World!» для начинающих литераторов | https://habrahabr.ru/post/342512/
+
+Книга «Scala. Профессиональное программирование» | https://habrahabr.ru/company/piter/blog/341808/
+
+Создаем сервер для потокового видео: глава из книги по PHP от нашего разработчика | https://habrahabr.ru/company/skyeng/blog/341306/
+
+Книга «Масштабирование приложений. Выращивание сложных систем» | https://habrahabr.ru/company/piter/blog/340288/
+
+Книга «Python для сложных задач: наука о данных и машинное обучение» | https://habrahabr.ru/company/piter/blog/339766/
+
+Пишем свою книгу заново | https://habrahabr.ru/post/338946/
+
+Чтение на выходных: 17 независимых блогов по математике, алгоритмам и языкам программирования | https://habrahabr.ru/company/it-grad/blog/338624/
+
+Моделирование смешанных схем на System Verilog | https://habrahabr.ru/post/338922/
+
+Книга «ASP.NET Core. Разработка приложений» | https://habrahabr.ru/company/piter/blog/338454/
+
+Литература на выходные: 15 материалов по структурированию кода для разработчиков | https://habrahabr.ru/company/it-grad/blog/337836/
+
+Книга «Аудит безопасности информационных систем» | https://habrahabr.ru/company/piter/blog/337714/
+
+36 материалов о нейросетях: книги, статьи и последние исследования | https://habrahabr.ru/company/neurodatalab/blog/336218/
+
+Книга «Continuous delivery. Практика непрерывных апдейтов» | https://habrahabr.ru/company/piter/blog/337170/
+
+Следущие шаги в черной магии процессоростроения после того, как вы освоили Харрис & Харрис | https://habrahabr.ru/post/336116/
+
+Полезные книги о разработке мобильных игр на Android и iOS | https://habrahabr.ru/company/mailru/blog/335606/
+
+Второе издание книги «Изучаем Python. Программирование игр, визуализация данных, веб-приложения» | https://habrahabr.ru/company/piter/blog/335824/
+
+Книга «Теория и практика языков программирования. Учебник для вузов. 2-е изд. Стандарт 3-го поколения» | https://habrahabr.ru/company/piter/blog/335672/
+
+Книга «Android. Программирование для профессионалов. 3-е издание» | https://habrahabr.ru/company/piter/blog/335146/
+
+Об «Элегантных объектах» и евангелистах | https://habrahabr.ru/post/334766/
+
+Книга «Front-end. Клиентская разработка для профессионалов. Node.js, ES6, REST» | https://habrahabr.ru/company/piter/blog/334064/
+
+Что читать о нейросетях | https://habrahabr.ru/company/mailru/blog/333862/
+
+Книга «Предметно-ориентированное проектирование: паттерны, принципы и методы» | https://habrahabr.ru/company/piter/blog/333696/
+
+Книга «Автостопом по Python» | https://habrahabr.ru/company/piter/blog/333498/
+
+Как вырваться из чтения туториалов по программированию | https://habrahabr.ru/company/alconost/blog/332530/
+
+Книга «Машинное обучение» | https://habrahabr.ru/company/piter/blog/332392/
+
+Книга «Сценарии командной оболочки. Linux, OS X и Unix. 2-е издание» | https://habrahabr.ru/company/piter/blog/331734/
+
+Издательство Питер. Летняя распродажа | https://habrahabr.ru/company/piter/blog/330862/
+
+По дороге с облаками. Реляционные базы данных в новом технологическом контексте | https://habrahabr.ru/company/piter/blog/330364/
+
+Как обучать вычислительному мышлению? | https://habrahabr.ru/company/wolfram/blog/330102/
+
+Книга «ECMAScript 6 для разработчиков» | https://habrahabr.ru/company/piter/blog/327730/
+
+Книга «React.js. Быстрый старт» | https://habrahabr.ru/company/piter/blog/327228/
+
+Выходим на уровень эксперта! 50 оттенков экзамена 1Z0-047 (сертификация Oracle Database SQL Certified Expert) | https://habrahabr.ru/post/327012/
+
+Книга «Экстремальное программирование: разработка через тестирование» | https://habrahabr.ru/company/piter/blog/326662/
+
+Книга «Swift. Основы разработки приложений под iOS и macOS. 3-е изд. дополненное и переработанное» | https://habrahabr.ru/company/piter/blog/326052/
+
+Книга «Программируем на Python» | https://habrahabr.ru/company/piter/blog/325782/
+
+Книга «UX-стратегия. Чего хотят пользователи и как им это дать» | https://habrahabr.ru/company/piter/blog/325610/
+
+Издательство Питер. Весенняя распродажа | https://habrahabr.ru/company/piter/blog/324566/
+
+Книга «Стек MEAN. Mongo, Express, Angular, Node» | https://habrahabr.ru/company/piter/blog/323880/
+
+Книга «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих» | https://habrahabr.ru/company/piter/blog/323310/
+
+Книга «Linux на практике» | https://habrahabr.ru/company/piter/blog/322976/
+
+Функциональные паттерны при моделировании предметной области – анемичные модели и компоновка поведений | https://habrahabr.ru/company/piter/blog/322528/
+
+Книга «Основы Data Science и Big Data. Python и наука о данных» | https://habrahabr.ru/company/piter/blog/322194/
+
+Язык C# почти функционален | https://habrahabr.ru/company/piter/blog/321546/
+
+Книга «Программная инженерия. Учебник для вузов. 5-е издание обновленное и дополненное» | https://habrahabr.ru/company/piter/blog/321482/
+
+Книга «Изучаем Node. Переходим на сторону сервера. 2-е изд. дополненное и переработанное» | https://habrahabr.ru/company/piter/blog/321310/
+
+Книга «Децентрализованные приложения. Технология Blockchain в действии» | https://habrahabr.ru/company/piter/blog/321014/
+
+Книга «Программирование без дураков» | https://habrahabr.ru/company/piter/blog/320864/
+
+Книга «В работу с головой. Паттерны успеха от IT-специалиста» | https://habrahabr.ru/company/piter/blog/320298/
+
+Занимательные задачки и отрывок из книги «Карьера программиста» | https://habrahabr.ru/company/piter/blog/318018/
+
+Избранные места из популярного учебника микроэлектроники на русском, который наконец-то выходит на бумаге | https://habrahabr.ru/post/317558/
+
+Книга «Ruby. Объектно-ориентированное проектирование» | https://habrahabr.ru/company/piter/blog/317480/
+
+HighLoad++2016: как это было | https://habrahabr.ru/company/tm/blog/317264/
+
+Книга «Microsoft Visual C#. Подробное руководство. 8-е издание» | https://habrahabr.ru/company/piter/blog/316914/
+
+О бравом React'е замолвите слово | https://habrahabr.ru/company/piter/blog/316684/
+
+Издательство Питер. Черная пятница 2016 | https://habrahabr.ru/company/piter/blog/316118/
+
+Книга «Веб-разработка. Исчерпывающее руководство» | https://habrahabr.ru/company/piter/blog/314562/
+
+Дональд Кнут: про ассемблер, транслятор и грамотное программирование | https://habrahabr.ru/company/edison/blog/314294/
+
+Дональд Кнут о первых шагах в программировании: Как я провел лето с компьютером, а не с девушками (19,20,21,22/97) | https://habrahabr.ru/company/edison/blog/313428/
+
+Дональд Кнут: Когда же, наконец, выйдет четвертый том | https://habrahabr.ru/company/edison/blog/313790/
+
+Книга «Изучаем Python. Программирование игр, визуализация данных, веб-приложения» | https://habrahabr.ru/company/piter/blog/313510/
+
+Игровая индустрия: полезные материалы для геймдевелопера от A до Z | https://habrahabr.ru/company/miip/blog/313326/
+
+Дональд Кнут: про жену, поцелуи, «Конкретную математику» и взгляд на преподавание в университете | https://habrahabr.ru/company/edison/blog/313226/
+
+Дональд Кнут: как я занялся анализом алгоритмов и ради этого поехал в СССР (37,91,97/97) | https://habrahabr.ru/company/edison/blog/313306/
+
+Социальная Архитектура: стратагемы для успеха open source проектов | https://habrahabr.ru/company/edison/blog/313194/
+
+Бесплатные курсы, книги и прочие материалы по разработке | https://habrahabr.ru/post/312940/
+
+Дональд Кнут: Как создавалось «Искусство программирования» (33,38,39/97) | https://habrahabr.ru/company/edison/blog/312796/
+
+Книга «Изучаем Arduino. 65 проектов своими руками» | https://habrahabr.ru/company/piter/blog/312402/
+
+Дата снаружи, дата внутри, дата танцуй, дата умри | https://habrahabr.ru/company/mailru/blog/312394/
+
+Сводная таблица РД ФСТЭК (до профилей защиты) по порядку и в разрезе грифов | https://habrahabr.ru/post/311978/
+
+Дональд Кнут и «Сюрреальные числа»: Я творил шесть дней, а на седьмой отдыхал (40,41,42/97) | https://habrahabr.ru/company/edison/blog/312750/
+
+Легко начать, закончить трудно или про смерть стартапов | https://habrahabr.ru/company/SECL_GROUP/blog/311894/
+
+Книга «Распределенные алгоритмы. Интуитивный подход» | https://habrahabr.ru/company/piter/blog/311652/
+
+Книга VIPER | https://habrahabr.ru/company/rambler-co/blog/311248/
+
+Книга «Spark для профессионалов: современные паттерны обработки больших данных» | https://habrahabr.ru/company/piter/blog/311114/
+
+Книга «Многопользовательские игры. Разработка сетевых приложений» | https://habrahabr.ru/company/piter/blog/310680/
+
+Книга «Командная строка Linux. Полное руководство» | https://habrahabr.ru/company/piter/blog/310452/
+
+Книга «HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств. 2-е изд.» | https://habrahabr.ru/company/piter/blog/309400/
+
+Книга «ES6 и не только» | https://habrahabr.ru/company/piter/blog/309298/
+
+Памяти Соломона Голомба (1932-2016): автора регистра сдвига с линейной обратной связью максимальной длины и полиомино | https://habrahabr.ru/company/wolfram/blog/309232/
+
+Книга об интенсивной обработке данных | https://habrahabr.ru/company/piter/blog/309106/
+
+«Моя жизнь сквозь призму технологий...» — Стивен Вольфрам | https://habrahabr.ru/company/wolfram/blog/308728/
+
+Книга «Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript» | https://habrahabr.ru/company/piter/blog/308316/
+
+Зачем нам jQuery? | https://habrahabr.ru/company/piter/blog/308134/
+
+Книга «Простой Python. Современный стиль программирования» | https://habrahabr.ru/company/piter/blog/307838/
+
+Замечания о реактивном программировании. Технологический ландшафт | https://habrahabr.ru/company/piter/blog/307658/
+
+Книга «Секреты CSS. Идеальные решения ежедневных задач» | https://habrahabr.ru/company/piter/blog/307364/
+
+Почему следует использовать RxJava в Android – краткое введение в RxJava | https://habrahabr.ru/company/piter/blog/307096/
+
+Кем был Рамануджан? | https://habrahabr.ru/company/wolfram/blog/306250/
+
+Пятничный формат: IaaS и наука – как это работает | https://habrahabr.ru/company/it-grad/blog/304652/
+
+Книга «Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 4-е изд.» | https://habrahabr.ru/company/piter/blog/304666/
+
+Математические обозначения: Прошлое и будущее | https://habrahabr.ru/company/wolfram/blog/304502/
+
+Книга «Head First. Изучаем Ruby» | https://habrahabr.ru/company/piter/blog/304212/
+
+Что такое пространство-время на самом деле? | https://habrahabr.ru/company/wolfram/blog/303836/
+
+Книга «Swift 2.2. Основы разработки приложений под iOS и OS X» | https://habrahabr.ru/company/piter/blog/303674/
+
+Распутывая историю Ады Лавлейс (первого программиста в истории) | https://habrahabr.ru/company/wolfram/blog/303552/
+
+Книга «Android для разработчиков» | https://habrahabr.ru/company/piter/blog/303208/
+
+Книга «Карьера программиста. 6-е издание» | https://habrahabr.ru/company/piter/blog/302782/
+
+Как использовать Python для «выпаса» ваших неструктурированных данных | https://habrahabr.ru/company/piter/blog/302520/
+
+25 книг по теме облачной экономики и безопасности | https://habrahabr.ru/company/it-grad/blog/283408/
+
+Пол Грэм: Глава 2. Хакеры и художники (Habr edition) | https://habrahabr.ru/company/edison/blog/301790/
+
+Дайджест Университета ИТМО: #3 Нейронные сети: интересные статьи из журналов Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/301520/
+
+25 книг по теме облачных вычислений | https://habrahabr.ru/company/it-grad/blog/283400/
+
+Симфония асинхронии: задачи JavaFX и сокеты Netty | https://habrahabr.ru/company/piter/blog/301298/
+
+«Хакеры и Художники». Как мы 13 лет всем рунетом Пола Грэма переводили | https://habrahabr.ru/post/301104/
+
+Распродажа. 25 лет издательству Питер | https://habrahabr.ru/company/piter/blog/283306/
+
+Пол Грэм, «Хакеры и художники», глава 5: «The Other Road Ahead», продолжение | https://habrahabr.ru/company/edison/blog/283262/
+
+Efficient Rails — новая книга по оптимизации процесса разработки Rails-приложений | https://habrahabr.ru/post/282936/
+
+Пол Грэм, «Хакеры и художники», глава 10: «Programming Languages Explained» | https://habrahabr.ru/company/edison/blog/281561/
+
+Linux Programming Interface | https://habrahabr.ru/company/piter/blog/282776/
+
+Пол Грэм: «The Other Road Ahead», часть 1 | https://habrahabr.ru/company/edison/blog/282574/
+
+Книга «От хранения данных к управлению информацией» | https://habrahabr.ru/company/piter/blog/282367/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 27. «Web War One» | https://habrahabr.ru/company/edison/blog/281763/
+
+Как я писал книгу 'Python Machine Learning' | https://habrahabr.ru/company/piter/blog/282167/
+
+Junior FPGA Design Engineer: как стать? | https://habrahabr.ru/post/281525/
+
+Site Reliability Engineering: антология мудрости Google или новое слово в DevOps | https://habrahabr.ru/company/piter/blog/281673/
+
+Лямбда-выражения Java 8 — это замыкания? | https://habrahabr.ru/company/piter/blog/281026/
+
+Новая большая книга CSS | https://habrahabr.ru/company/piter/blog/280828/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 36. «Aftermath» | https://habrahabr.ru/post/280758/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 35. «Приговор» | https://habrahabr.ru/post/280564/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 33. «Стратегия выхода» | https://habrahabr.ru/company/edison/blog/280556/
+
+Книга «Компьютерные сети. Принципы, технологии, протоколы» | https://habrahabr.ru/company/piter/blog/280354/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 32. «The Mall» | https://habrahabr.ru/post/280097/
+
+Увлекательное программирование: изучаем Minecraft | https://habrahabr.ru/company/piter/blog/280023/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 31. «Суд» | https://habrahabr.ru/company/edison/blog/279931/
+
+С днем рождения, Ричард Столлман | https://habrahabr.ru/company/edison/blog/279451/
+
+Книга «Android. Программирование для профессионалов» | https://habrahabr.ru/company/piter/blog/279289/
+
+С днём рождения, Джеф Раскин | https://habrahabr.ru/company/edison/blog/278669/
+
+Книга «Алгоритмы: разработка и применение. Классика Computer Science» | https://habrahabr.ru/company/piter/blog/278821/
+
+Еще возитесь с отладкой? | https://habrahabr.ru/company/piter/blog/278567/
+
+Книга «Парадокс. Девять великих загадок физики» | https://habrahabr.ru/company/piter/blog/278217/
+
+0 марта. Сеймур Пейперт и обучение программированию через тело (и бессознательное) | https://habrahabr.ru/company/edison/blog/277799/
+
+Node.js. Паттерны проектирования и разработки | https://habrahabr.ru/company/piter/blog/278017/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 30. «Максик» | https://habrahabr.ru/post/277939/
+
+Swift 2.2. Важнейшие нововведения | https://habrahabr.ru/company/piter/blog/277857/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 20. «The Starlight Room» | https://habrahabr.ru/post/277811/
+
+Стек приложений Blockchain | https://habrahabr.ru/company/piter/blog/277625/
+
+Книга «Вечность. В поисках окончательной теории времени» | https://habrahabr.ru/company/piter/blog/277389/
+
+Сэнди Метц и объектно-ориентированное проектирование в Ruby | https://habrahabr.ru/company/piter/blog/277107/
+
+Книга «Head First. Программирование для Android» | https://habrahabr.ru/company/piter/blog/277023/
+
+Книга «Swift. Основы разработки приложений под iOS» | https://habrahabr.ru/company/piter/blog/276793/
+
+Подборка: Более 70 источников по машинному обучению для начинающих | https://habrahabr.ru/company/spbifmo/blog/276479/
+
+Книга «Hello World! Занимательное программирование» | https://habrahabr.ru/company/piter/blog/276401/
+
+«Ловушки сознания»: Как исследователи обманывают себя | https://habrahabr.ru/company/spbifmo/blog/276367/
+
+Книга «Создание микросервисов» | https://habrahabr.ru/company/piter/blog/275891/
+
+Представляем бесплатную лабораторию программирования Wolfram Programming Lab для изучения языка Wolfram Language | https://habrahabr.ru/company/wolfram/blog/275855/
+
+Что такое современная лингвистика. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/275827/
+
+Дайджест полезных источников по теме IaaS | https://habrahabr.ru/company/it-grad/blog/275163/
+
+Распродажа в Старый Новый год | https://habrahabr.ru/company/piter/blog/275025/
+
+С днем рождения, Дональд Кнут | https://habrahabr.ru/post/274787/
+
+Восход разработчикономики (окончание) | https://habrahabr.ru/post/274573/
+
+Социология алгоритмов: Как связаны финансовые рынки и высокочастотная торговля (Часть 2) | https://habrahabr.ru/company/itinvest/blog/274671/
+
+Восход разработчикономики | https://habrahabr.ru/post/270267/
+
+Социология алгоритмов: Как связаны финансовые рынки и высокочастотная торговля (Часть 1) | https://habrahabr.ru/company/itinvest/blog/274247/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 29. «One Plat and Six Classics» | https://habrahabr.ru/post/274173/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 28. «Carder Court» | https://habrahabr.ru/post/274053/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 26. «What’s in Your Wallet?» | https://habrahabr.ru/post/273943/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 24. «Exposure» | https://habrahabr.ru/post/273725/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 23. «Anglerphish» | https://habrahabr.ru/post/273719/
+
+40 книг и образовательных ресурсов для изучения фондового рынка и алгоритмической торговли | https://habrahabr.ru/company/itinvest/blog/273685/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 22. «Enemies» | https://habrahabr.ru/post/273519/
+
+Вёрстка писем: 60 полезных ресурсов, руководств и исследований | https://habrahabr.ru/company/pechkin/blog/273677/
+
+Книга «Путь программиста» | https://habrahabr.ru/company/piter/blog/273659/
+
+Книга Стивена Вольфрама «Элементарное введение в язык Wolfram Language» | https://habrahabr.ru/company/wolfram/blog/273601/
+
+Пол Грэм: Слово «хакер» | https://habrahabr.ru/company/edison/blog/273511/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 25. «Hostile Takeover» | https://habrahabr.ru/company/edison/blog/273357/
+
+Программирование многопользовательских игр | https://habrahabr.ru/post/271849/
+
+Книга «Внутреннее устройство Linux» | https://habrahabr.ru/company/piter/blog/273135/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 21. «Master Splyntr» | https://habrahabr.ru/post/272573/
+
+Тонкости перевода: как волонтёры, ABBYY LS и IBS переводят на русский курсеровскую специализацию Data Science | https://habrahabr.ru/company/ibs/blog/272143/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 19. «Carders Market» | https://habrahabr.ru/post/272127/
+
+Пол Грэм: «Месть ботанов», часть 3 | https://habrahabr.ru/company/edison/blog/271103/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 18. «Briefing» | https://habrahabr.ru/company/edison/blog/272073/
+
+Истории аварий на ИБП | https://habrahabr.ru/post/272057/
+
+Черная пятница 2015 | https://habrahabr.ru/company/piter/blog/271791/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 17. «Pizza and Plastic» | https://habrahabr.ru/company/edison/blog/270951/
+
+Интервью: Брайан Керниган и Алан Донован | https://habrahabr.ru/post/271303/
+
+Пол Грэм: «Месть ботанов». В чем отличие Lisp | https://habrahabr.ru/company/edison/blog/268293/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 16. «Operation Firewall» | https://habrahabr.ru/company/edison/blog/270831/
+
+Дизайн и эволюция языка С++: выдержки | https://habrahabr.ru/post/270445/
+
+Книга «Изучаем C++ через программирование игр» | https://habrahabr.ru/company/piter/blog/270559/
+
+Книга «Идеальный программист. Как стать профессионалом разработки ПО» | https://habrahabr.ru/company/piter/blog/270195/
+
+Книга «Minecraft. Программируй свой мир» | https://habrahabr.ru/company/piter/blog/269757/
+
+Книга «Программируем Arduino: Основы работы со скетчами» | https://habrahabr.ru/company/piter/blog/269609/
+
+Легендарные книги Амазона. Продолжение темы «Elements of Programming Interviews: The Insiders' Guide» | https://habrahabr.ru/company/piter/blog/269169/
+
+Книга «Java EE. Паттерны проектирования для профессионалов» | https://habrahabr.ru/company/piter/blog/269141/
+
+Технокнига, часть 4: литература по управлению продуктом, разработке веб-сервисов, управлению веб-проектами, бизнесу и системному анализу архитекторов | https://habrahabr.ru/company/mailru/blog/268395/
+
+Пол Грэм: «Проектирование и исследование» | https://habrahabr.ru/post/268281/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 15. «UBuyWeRush» | https://habrahabr.ru/post/268125/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 14. «The Raid» | https://habrahabr.ru/post/267959/
+
+Бог и Мультивселенная. Расширенное понятие космоса | https://habrahabr.ru/company/piter/blog/267417/
+
+«Книжная полка фронтендера» — как гугл, только лучше | https://habrahabr.ru/post/267775/
+
+Технокнига, часть 3: литература по проектированию высоконагруженных систем, по безопасности веб-приложений, по обеспечению качества разработки и по мобильной разработке | https://habrahabr.ru/company/mailru/blog/267579/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 7. «Max Vision» | https://habrahabr.ru/post/267541/
+
+Rust, дисциплинирующий язык программирования | https://habrahabr.ru/company/piter/blog/267203/
+
+Git для профессионального программиста | https://habrahabr.ru/company/piter/blog/266877/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 10. «Cris Aragon» | https://habrahabr.ru/post/266707/
+
+Абсолютный минимум. Как квантовая теория объясняет наш мир | https://habrahabr.ru/company/piter/blog/266593/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 2. «Deadly Weapons» | https://habrahabr.ru/post/266577/
+
+Release it! Проектирование и дизайн ПО для тех, кому не всё равно | https://habrahabr.ru/company/piter/blog/266417/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 13. «Villa Siena» | https://habrahabr.ru/post/266377/
+
+Технокнига, часть 2: литература по СУБД, разработке фронтенда, проектированию интерфейсов и углубленному программированию на Java | https://habrahabr.ru/company/mailru/blog/266065/
+
+Книги, по которым мы в детстве учили программирование и будем учить детей | https://habrahabr.ru/post/265787/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 12. «Free Amex!» | https://habrahabr.ru/post/266039/
+
+Первая книга юного программиста. Учимся писать программы на Scratch | https://habrahabr.ru/company/piter/blog/266019/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 11. «Script’s Twenty-Dollar Dumps» | https://habrahabr.ru/post/265989/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 9. «Возможности» | https://habrahabr.ru/post/265335/
+
+«Хакеры и художники», «On Lisp» и эссе на русском. Учим(ся) писать как Пол Грэм | https://habrahabr.ru/company/tceh/blog/253311/
+
+Путь IT-менеджера. Управление проектной средой и IT-проектами | https://habrahabr.ru/company/piter/blog/265861/
+
+Перевод книги Ричарда Бартла «Designing Virtual Worlds». Глава 1. Основы | https://habrahabr.ru/post/265813/
+
+Алгоритмическая и автоматизированная торговля: 13 книг по теме | https://habrahabr.ru/company/itinvest/blog/265595/
+
+Как пасти котов. Наставление для программистов, руководящих другими программистами | https://habrahabr.ru/company/piter/blog/265389/
+
+Глава 1. «Что такое Виртуальные Миры и как они возникли». Перевод книги Ричарда Бартла «Designing Virtual Worlds» | https://habrahabr.ru/post/264469/
+
+Технокнига, часть 1: литература по веб-технологиям, алгоритмам и структурам данных, углубленному программированию на С++ | https://habrahabr.ru/company/mailru/blog/265103/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 8. «Добро пожаловать в Америку» | https://habrahabr.ru/post/265149/
+
+Подпольный рынок кардеров. Перевод книги «Kingpin». Глава 4. «The White Hat» | https://habrahabr.ru/post/264891/
+
+Подпольный рынок кардеров. Перевод книги «Kingpin». Глава 6. «Я скучаю по преступлению» | https://habrahabr.ru/post/264349/
+
+Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 1. «Ключ» | https://habrahabr.ru/post/264227/
+
+Подпольный рынок кардеров. Перевод книги «Kingpin». Глава 5. «Cyberwar!» | https://habrahabr.ru/post/263813/
+
+Перевод книги «Kingpin». Глава 3. «The Hungry Programmers» | https://habrahabr.ru/post/263819/
+
+Landing Page и лидогенерация | https://habrahabr.ru/company/piter/blog/263717/
+
+Перевод книги «Kingpin». Глава 34. «DarkMarket» | https://habrahabr.ru/post/263293/
+
+Palantir, мафия PayPal, спецслужбы, мировое правительство | https://habrahabr.ru/post/262837/
+
+Книги для системного администратора. Моя книжная полка | https://habrahabr.ru/post/262037/
+
+Биомастерская: Новый взгляд на биологические науки как инженерные дисциплины | https://habrahabr.ru/company/piter/blog/261963/
+
+Шкворень: школьники переводят книгу про хакеров | https://habrahabr.ru/post/261491/
+
+Любовь и математика. Сердце скрытой реальности | https://habrahabr.ru/company/piter/blog/261469/
+
+200 блогов по разработке и проектированию | https://habrahabr.ru/company/friifond/blog/260641/
+
+Turing’s Cathedral: происхождение цифровой вселенной | https://habrahabr.ru/post/261033/
+
+Коллоквиумы на факультете Яндекса в Вышке: молекулярная биология | https://habrahabr.ru/company/yandex/blog/260793/
+
+Распродажа книг со скидкой 50% и 30% | https://habrahabr.ru/company/piter/blog/260409/
+
+Прохождение интервью. Легендарные книги Амазона | https://habrahabr.ru/company/piter/blog/259875/
+
+Путь аналитика. Практическое руководство IT-специалиста | https://habrahabr.ru/company/piter/blog/258807/
+
+Новый выпуск журнала «Радиоежегодник» № 35 (2015) | https://habrahabr.ru/company/flprog/blog/258439/
+
+Современные операционные системы. 4-е изд | https://habrahabr.ru/company/piter/blog/258275/
+
+Книги и образовательные ресурсы по алгоритмической торговле | https://habrahabr.ru/company/itinvest/blog/257971/
+
+Виртуальный учебник Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/257733/
+
+Паттерны проектирования на платформе .NET | https://habrahabr.ru/company/piter/blog/257721/
+
+JavaScript для профессиональных веб-разработчиков | https://habrahabr.ru/company/piter/blog/255693/
+
+PHP. Рецепты программирования. 3-е изд | https://habrahabr.ru/company/piter/blog/255145/
+
+Создание микросервисов | https://habrahabr.ru/company/piter/blog/255029/
+
+C++. От ламера до программера | https://habrahabr.ru/company/piter/blog/254483/
+
+N+4 полезных книг | https://habrahabr.ru/company/mosigra/blog/254309/
+
+Космический ландшафт | https://habrahabr.ru/company/piter/blog/254071/
+
+Скидка 50% на электронные книги | https://habrahabr.ru/company/piter/blog/253615/
+
+Аарон Леви: Разработка B2B-продуктов | https://habrahabr.ru/company/friifond/blog/253093/
+
+Анонс книги Брайана Кернигана «The Go Programming Language» | https://habrahabr.ru/post/252417/
+
+Геймшторминг. Игры, в которые играет бизнес | https://habrahabr.ru/company/piter/blog/252031/
+
+Как я проходила собеседования в Яндекс: мой непростой, но успешный опыт | https://habrahabr.ru/company/yandex/blog/251715/
+
+HTML5. Для профессионалов. 2-е изд | https://habrahabr.ru/company/piter/blog/251319/
+
+Антология Пола Грэма | https://habrahabr.ru/company/piter/blog/251235/
+
+Изучаем программирование на JavaScript | https://habrahabr.ru/company/piter/blog/251035/
+
+Android для разработчиков | https://habrahabr.ru/company/piter/blog/250797/
+
+Программист-фанатик | https://habrahabr.ru/company/piter/blog/250221/
+
+Книги для «прокачки» мозгов | https://habrahabr.ru/company/piter/blog/250121/
+
+Выжимки из «Психбольницы в руках пациентов» | https://habrahabr.ru/post/248063/
+
+Квантовая механика. Теоретический минимум | https://habrahabr.ru/company/piter/blog/247787/
+
+Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 3-е изд | https://habrahabr.ru/company/piter/blog/247755/
+
+Алекс Шульц (часть 3): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/247095/
+
+Алекс Шульц (часть 2): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/246811/
+
+Алекс Шульц (часть 1): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/246137/
+
+Новогодняя распродажа | https://habrahabr.ru/company/piter/blog/246071/
+
+Питер Тиль: как построить монополию? | https://habrahabr.ru/company/friifond/blog/245525/
+
+Идеальный программист | https://habrahabr.ru/company/piter/blog/245345/
+
+Питер Тиль: конкуренция – удел проигравших | https://habrahabr.ru/company/friifond/blog/245319/
+
+Изучаем Haskell | https://habrahabr.ru/company/piter/blog/244973/
+
+Oracle PL/SQL. Для профессионалов. 6-е изд | https://habrahabr.ru/company/piter/blog/244771/
+
+Joy Inc. Работа мечты и бизнес-процессы, основанные на радости | https://habrahabr.ru/company/alconost/blog/244633/
+
+Адора Чьюнг (2-я часть лекции): growth hacking | https://habrahabr.ru/company/friifond/blog/244077/
+
+Адора Чьюнг (часть 1): продукт и кривая честности | https://habrahabr.ru/company/friifond/blog/243493/
+
+Классика Computer Science | https://habrahabr.ru/company/piter/blog/243497/
+
+Running Lean. Пересказ одной из лучших книг о стартапах | https://habrahabr.ru/post/243263/
+
+Бестселлеры O'Reilly | https://habrahabr.ru/company/piter/blog/242881/
+
+Пол Грэм: нелогичный стартап | https://habrahabr.ru/company/friifond/blog/242743/
+
+Инфографика. Визуальное представление данных | https://habrahabr.ru/company/piter/blog/242467/
+
+Сэм Альтман: Как сформировать команду и культуру стартапа? | https://habrahabr.ru/company/friifond/blog/242347/
+
+Сэм Альтман и Дастин Московитц: Как и зачем создавать стартап? | https://habrahabr.ru/company/friifond/blog/241885/
+
+Основы разработки веб-приложений | https://habrahabr.ru/company/piter/blog/241591/
+
+Вышла книга «Getting Started with LLVM Core Libraries» | https://habrahabr.ru/post/241577/
+
+Паттерны проектирования | https://habrahabr.ru/company/piter/blog/241323/
+
+Перевод книги «The Little Book on CoffeeScript» | https://habrahabr.ru/post/241111/
+
+Книги по программному коду | https://habrahabr.ru/company/piter/blog/241059/
+
+Внутреннее устройство Linux или как работает Linux | https://habrahabr.ru/company/piter/blog/239311/
+
+Новые книги по Ruby | https://habrahabr.ru/company/piter/blog/239015/
+
+Идеальная теория. Битва за общую теорию относительности | https://habrahabr.ru/company/piter/blog/238949/
+
+Hadoop. Подробное руководство. 3-е издание | https://habrahabr.ru/company/piter/blog/238701/
+
+Распродажа электронных книг по 99 рублей | https://habrahabr.ru/company/piter/blog/238499/
+
+Мобильный HTML5 | https://habrahabr.ru/company/piter/blog/237687/
+
+Быстрый старт на фондовом рынке: 10 шагов | https://habrahabr.ru/company/itinvest/blog/212629/
+
+Топ-10 книг для понимания устройства фондового рынка | https://habrahabr.ru/company/itinvest/blog/206312/
+
+Секретные знания о биржевых тикерах | https://habrahabr.ru/company/itinvest/blog/205886/
+

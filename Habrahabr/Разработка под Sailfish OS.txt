@@ -1,0 +1,50 @@
+Разработка для Sailfish OS: использование датчиков (часть 2) | https://habrahabr.ru/post/343530/
+
+Разработка для Sailfish OS: использование датчиков (часть 1) | https://habrahabr.ru/post/338044/
+
+Разработка для Sailfish OS: работа со звуком на примере приложения DayTimer | https://habrahabr.ru/post/338024/
+
+Разработка для Sailfish OS: Работа с Bluetooth | https://habrahabr.ru/post/340330/
+
+Использование системных функций D-Bus в Sailfish OS | https://habrahabr.ru/post/337618/
+
+Использование системного API в Sailfish OS | https://habrahabr.ru/post/336278/
+
+Разработка под Sailfish OS глазами iOS-разработчика | https://habrahabr.ru/company/e-Legion/blog/334702/
+
+Разработка для Sailfish OS: Работа c календарем и списком контактов | https://habrahabr.ru/post/329692/
+
+Разработка для Sailfish OS: Тестирование QML-кода, зависящего от C++ в Sailfish OS | https://habrahabr.ru/post/325936/
+
+Разработка для Sailfish OS: Особенности работы с датами и временными зонами | https://habrahabr.ru/post/324812/
+
+Разработка для Sailfish OS: Модульное тестирование Qt/C++ под Sailfish OS | https://habrahabr.ru/post/323518/
+
+Разработка для Sailfish OS: Создание собственных QML-компонент на C++ | https://habrahabr.ru/post/321426/
+
+Разработка для Sailfish OS: Тестирование QML-компонентов | https://habrahabr.ru/post/320808/
+
+Разработка для Sailfish OS: работа с уведомлениями на примере приложения для ведения заметок | https://habrahabr.ru/post/317738/
+
+Разработка для Sailfish OS: работа с LocalStorage | https://habrahabr.ru/post/317252/
+
+Разработка для Sailfish OS: работа с D-Bus | https://habrahabr.ru/post/316462/
+
+Разработка для Sailfish OS: таймеры и реализация экспорта в файл на примере примере приложения для ведения списка дел | https://habrahabr.ru/post/316082/
+
+Управляем стандартным плеером Sailfish OS с помощью голосовых команд | https://habrahabr.ru/post/313680/
+
+Разработка для Sailfish OS: архитектура FLUX в QML на примере приложения для запоминания литературных терминов | https://habrahabr.ru/post/312418/
+
+Разработка для SailfishOS: меню | https://habrahabr.ru/post/308102/
+
+Разработка для SailfishOS: стилизация приложения | https://habrahabr.ru/post/307072/
+
+Разработка для SailfishOS: основы | https://habrahabr.ru/post/306188/
+
+Начало разработки для Sailfish OS | https://habrahabr.ru/post/305510/
+
+Sailfish OS — летняя школа в Университете Иннополис для разработчиков мобильных приложений и энтузиастов Linux | https://habrahabr.ru/company/innopolis_university/blog/305120/
+
+Для первопроходцев. На волнах вместе с Jolla (UPD) | https://habrahabr.ru/post/206280/
+

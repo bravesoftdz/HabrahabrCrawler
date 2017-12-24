@@ -1,0 +1,324 @@
+Данные из Google Таблиц на вашем сайте | https://habrahabr.ru/company/englishdom/blog/343082/
+
+Чатбот, который «как Siri, только круче» на наивном Байесовском классификаторе | https://habrahabr.ru/post/342728/
+
+Проблемы, возникшие при использовании гугл капчи | https://habrahabr.ru/post/341572/
+
+Google MAPs API в android или как работать с картами быстрее | https://habrahabr.ru/post/341548/
+
+Google Analytics API для маркетолога на практическом примере | https://habrahabr.ru/company/englishdom/blog/341282/
+
+Создаем Telegram бота на API.AI | https://habrahabr.ru/post/336668/
+
+Android Oreo откусывает кусочек от PWA | https://habrahabr.ru/company/zfort/blog/336592/
+
+Кластеризация маркеров на карте Google Maps API | https://habrahabr.ru/post/334644/
+
+Полезные функции Google Таблиц, которых нет в Excel | https://habrahabr.ru/post/331360/
+
+Google Play и 2K установок в сутки без денежных вложений (+ статистика и доходы) | https://habrahabr.ru/post/331294/
+
+Firebase на I/O 2017: новые возможности | https://habrahabr.ru/company/google/blog/330488/
+
+Поездка на Google I/O: как, зачем и сколько стоит | https://habrahabr.ru/company/e-Legion/blog/330318/
+
+Обзор VR/AR новинок Google I/O 2017 | https://habrahabr.ru/company/google/blog/330310/
+
+Лучшие доклады на Google I/O 2017: Архитектура и не только | https://habrahabr.ru/company/e-Legion/blog/329454/
+
+Google I/O Extended 2017 в 20 городах России | https://habrahabr.ru/company/google/blog/328394/
+
+Пишем скрипт для синхронизации папок с Google Drive, плюс учимся использовать Google Drive API | https://habrahabr.ru/post/328248/
+
+Что нам стоит автоматизацию построить. Использование HTTP API в Google Sheets | https://habrahabr.ru/company/exante/blog/326906/
+
+GA Measurement Protocol — полное руководство | https://habrahabr.ru/company/englishdom/blog/326788/
+
+Unity3d / Android: проверка пользователя на собственном сервере Node.JS | https://habrahabr.ru/post/325900/
+
+Аутентификация OAuth2 в приложении посредством Google Sign-In. Непрерывный доступ к API Google | https://habrahabr.ru/post/325518/
+
+Первый опыт работы с Google API (на примере ContactsAPI) и OAuth2.0 на чистом HTTP | https://habrahabr.ru/post/324982/
+
+Google Maps — кастомизируй меня полностью | https://habrahabr.ru/post/324880/
+
+Видео Google Device Day | https://habrahabr.ru/company/google/blog/324468/
+
+Делаем свой Skype с переводом речи в реальном времени, только лучше | https://habrahabr.ru/company/Voximplant/blog/320828/
+
+Speech AI с Python & Google API | https://habrahabr.ru/post/323570/
+
+Проблемы, возникающие при разработке android-приложений | https://habrahabr.ru/post/322116/
+
+Google выпустила TensorFlow 1.0 | https://habrahabr.ru/post/321946/
+
+Трансляция TensorFlow Developer Summit | https://habrahabr.ru/post/321906/
+
+Читаем Google-таблицы из web-приложения | https://habrahabr.ru/post/321444/
+
+Google ReCAPTCHA Invisible или долой дорожные знаки и витрины магазинов | https://habrahabr.ru/post/320664/
+
+Система рекомендаций интернет магазина на основе методов машинного обучения в Compute Engine (Google Cloud Platform) | https://habrahabr.ru/company/softline/blog/319704/
+
+Сторонние приложения, которые используют Google Hangouts API, перестанут работать после 25 апреля 2017 года | https://habrahabr.ru/post/319140/
+
+Особенности разработки Telegram бота с Google API в Docker | https://habrahabr.ru/post/319016/
+
+Приглашаем на DevFest Владивосток | https://habrahabr.ru/post/316378/
+
+Google избавляется от частных клиентов в России | https://habrahabr.ru/post/316008/
+
+«Узнаю, когда увижу» — изучаем точность Google Cloud Vision с помощью Tumblr и NSFW контента | https://habrahabr.ru/company/smmframe/blog/315532/
+
+Android In-app Billing: от мобильного приложения до серверной валидации и тестирования | https://habrahabr.ru/post/313416/
+
+Freeform распознавание речи в реальном времени и распознавание записей звонков | https://habrahabr.ru/company/Voximplant/blog/310684/
+
+Google Cloud Vision API‎. Будущее Computer Vision as a service настало? | https://habrahabr.ru/post/312714/
+
+Легкий способ потерять клиентов или почему не следует использовать Google CDN | https://habrahabr.ru/post/312086/
+
+Использование Google Cloud Speech API v2 в Asterisk для распознавания русской речи | https://habrahabr.ru/post/310622/
+
+Сезон DevFest 2016 в 10 городах России | https://habrahabr.ru/company/google/blog/309852/
+
+Google Analytics для телеграм бота | https://habrahabr.ru/post/309616/
+
+Генерируем красивую Google-таблицу из своей программы (используя Google Sheets API v4) | https://habrahabr.ru/post/305378/
+
+Небольшой скрипт для отслеживания цен avito из Google Spreadsheet | https://habrahabr.ru/post/306894/
+
+Уведомления в браузере и пример того, как их можно использовать с пользой | https://habrahabr.ru/post/306146/
+
+Как я поменял основной домен в Google Apps | https://habrahabr.ru/post/304636/
+
+База свободных репозиториев Github доступна через интерфейс BigQuery | https://habrahabr.ru/post/304476/
+
+Визуализация с Google Chart Tools API | https://habrahabr.ru/post/304296/
+
+Нюансы Firebase messaging для начинающих | https://habrahabr.ru/post/303514/
+
+Google I/O 2016: Подробности об Android N и Android-экосистеме | https://habrahabr.ru/company/google/blog/301904/
+
+Google I/O 2016 в подробностях: перспективы и технологии | https://habrahabr.ru/company/google/blog/301504/
+
+Google I/O Extended 2016 | https://habrahabr.ru/company/google/blog/283442/
+
+Решение давно существующих проблем безопасности BLE-маячков. Eddystone-EID. Eddystone GATT service и Beacon Tools | https://habrahabr.ru/post/281877/
+
+Почему мы ненавидим уведомления на сайтах? | https://habrahabr.ru/company/pushall/blog/281012/
+
+Разрушители мифов: Автоматическое решение Google Recaptcha | https://habrahabr.ru/post/280812/
+
+Google's beacon platform. Часть 2 — Nearby meassages API | https://habrahabr.ru/post/279379/
+
+Превью Android N: API и инструменты разработчиков | https://habrahabr.ru/company/google/blog/279075/
+
+Концепция Physical web. Bluetooth маячки. Сравнение стандартов iBeacon, AltBeacon и Eddystone | https://habrahabr.ru/post/278443/
+
+DevFest Калининград-2015: фотоотчёт | https://habrahabr.ru/company/google/blog/275417/
+
+Расширенный поиск Яндекса (и Гугла) с помощью установленного скрипта или в интерфейсе | https://habrahabr.ru/post/275479/
+
+Eddystone и Physical Web: эволюция биконов | https://habrahabr.ru/post/274585/
+
+Google, куда ты дел моё место в GMail? А вы точно знаете, как в GMail работают ярлыки? | https://habrahabr.ru/post/273701/
+
+Использование Google Analytics в играх | https://habrahabr.ru/company/plarium/blog/273113/
+
+GDG DevFest Нижний Новгород 2015: фотоотчёт с мероприятия | https://habrahabr.ru/company/google/blog/272209/
+
+Как реализовать SOAP- сервис для работы с таблицами Google через SQL | https://habrahabr.ru/post/271033/
+
+Голосовое управление мультимедиа центром | https://habrahabr.ru/post/270809/
+
+gRPC — фреймворк от Google для удалённого вызова процедур | https://habrahabr.ru/company/infopulse/blog/265805/
+
+Синхронизируем уведомления CI с Telegram | https://habrahabr.ru/post/264985/
+
+Google Analytics вместе с Unity3D | https://habrahabr.ru/post/263995/
+
+Социальный логин: cильные стороны | https://habrahabr.ru/post/264093/
+
+Магия Universal Analytics | https://habrahabr.ru/company/io/blog/263161/
+
+Модуль управления бизнесом по показателям (KPI, ССП) на базе WordPress | https://habrahabr.ru/post/261207/
+
+Google сломал GCM в Chrome | https://habrahabr.ru/company/pushall/blog/260941/
+
+Интеграция Symfony 2 и Google Calendar | https://habrahabr.ru/post/259577/
+
+Android M и инструменты для разработчиков | https://habrahabr.ru/company/google/blog/259123/
+
+Referrer spam в google analytics и как с ним бороться | https://habrahabr.ru/post/257767/
+
+В отделах Google Adsense слегка c adidas совместно оборзели? | https://habrahabr.ru/post/256255/
+
+Запоминаем просмотренные видео на youtube | https://habrahabr.ru/post/255549/
+
+История Google Maps | https://habrahabr.ru/company/airbnb/blog/253863/
+
+Как подружить Google Диск и Google Календарь? Пробуем GAS на вкус | https://habrahabr.ru/post/253293/
+
+Как завести инстансы в Google Cloud, настроить доступы и подцепить к нему Bucket Google. Howto | https://habrahabr.ru/post/252799/
+
+Меняем почтовые индексы на адреса из трех слов с помощью реверсивного геокодирования | https://habrahabr.ru/company/what3words/blog/250561/
+
+Локализация Android приложения средствами Google Sheets | https://habrahabr.ru/post/251943/
+
+СМС-рассылка с Google Sheets API | https://habrahabr.ru/post/250957/
+
+AdMob 7 для iOS 8 | https://habrahabr.ru/company/papabubadiop/blog/250681/
+
+Издеваемся над Google Cast, или мышь для телевизора | https://habrahabr.ru/post/249189/
+
+Google AdSense присоединился к санкциям в Крыму | https://habrahabr.ru/post/248625/
+
+Синхронизация и хранение домашних фото/видео в cloud | https://habrahabr.ru/post/247339/
+
+GDG DevFest Воронеж 2014: фотоотчет и впечатления | https://habrahabr.ru/company/dataart/blog/247025/
+
+Использование Google Analytics вместе с CocoonJS | https://habrahabr.ru/post/246431/
+
+Приглашаем на GDG DevFest Omsk 2014 | https://habrahabr.ru/company/google/blog/245259/
+
+Вышла новая версия reCaptcha API 2.0 | https://habrahabr.ru/post/244779/
+
+Печать из Google Apps Script | https://habrahabr.ru/post/243421/
+
+Грабли, на которые я наступил при скрещивании CRM c Google Calendar | https://habrahabr.ru/post/243195/
+
+Просмотр всех нажатий клавиш в Google Docs | https://habrahabr.ru/post/242433/
+
+Особенности работы с API Google Drive | https://habrahabr.ru/post/241209/
+
+Днепропетровский Ciklum Speakers’ Corner «Google Guava: make your code easier and faster », 23 октября | https://habrahabr.ru/company/Ciklum/blog/241151/
+
+СМС-термометр из связки Google script, Google Doc, Wolfram-Alpha и Sms.ru | https://habrahabr.ru/post/240533/
+
+Делаем платежи для Google Play с проверкой на сервере | https://habrahabr.ru/post/240447/
+
+Голосовое управление Arduino средствами Processing и Google Speech API | https://habrahabr.ru/post/236673/
+
+Представляем обновленный API Инструментов для веб-мастеров | https://habrahabr.ru/company/google/blog/236377/
+
+Выгрузка финансовых отчетов из Google Cloud Storage с использованием .NET API | https://habrahabr.ru/post/236149/
+
+Разработчика игры чуть не арестовали за набросок на доске | https://habrahabr.ru/post/234885/
+
+Push рассылки на PHP (Android и IOS). Минимальное готовое решение | https://habrahabr.ru/post/231727/
+
+Проверяем валидность внутриигровых покупок через Google API | https://habrahabr.ru/post/229461/
+
+QPX Express API: бизнес по продаже авиабилетов не вставая с дивана | https://habrahabr.ru/company/google/blog/230883/
+
+«65К методов хватит всем» или как бороться с лимитом DEX методов в Android | https://habrahabr.ru/post/230665/
+
+Unity3D + Google Services: мультиплеер для вашего проекта на Android и iOS | https://habrahabr.ru/post/230377/
+
+Рациональная автоматизация кампании в Google AdWords | https://habrahabr.ru/post/229177/
+
+Google выходит на рынок умных домов, открыв API термостатов Nest | https://habrahabr.ru/post/227509/
+
+Создание рейтинга игроков для мобильной игры (Unity + Google Play Game Services) | https://habrahabr.ru/post/227361/
+
+Интеграция GoogleDocs с Redmine | https://habrahabr.ru/post/227281/
+
+Право «Быть забытым» Google'ом | https://habrahabr.ru/post/224813/
+
+Measurement Protocol — просто о несложном | https://habrahabr.ru/post/222169/
+
+Как мы интегрировали Teamlab с Google Drive и увеличили посещаемость в 4 раза | https://habrahabr.ru/company/teamlab/blog/218889/
+
+Google запустила Add-ons для Google Docs и Sheets | https://habrahabr.ru/post/215459/
+
+Планирование автопутешествий на базе google maps api | https://habrahabr.ru/post/214743/
+
+Google внес в Street View снимки 300 городов России | https://habrahabr.ru/post/211158/
+
+Две истории об уязвимостях в сервисах Google | https://habrahabr.ru/company/pt/blog/210952/
+
+Geonames, Google Maps, Geocoding, часовые пояса и все, все, все | https://habrahabr.ru/post/209050/
+
+Новый API Google для подтверждения сайтов | https://habrahabr.ru/company/google/blog/208246/
+
+Настройка WebRTC + Eclipse 4.3 + ubuntu 13.10 | https://habrahabr.ru/post/204068/
+
+Базы знаний. Часть 2. Freebase: делаем запросы к Google Knowledge Graph | https://habrahabr.ru/post/177217/
+
+Простой способ добавить геолокацию в свой проект для Android | https://habrahabr.ru/post/201648/
+
+Быстрые треки на google maps | https://habrahabr.ru/post/195950/
+
+BigQuery с функцией анализа данных – теперь и в режиме реального времени | https://habrahabr.ru/company/google/blog/194950/
+
+Пишем приложения для Google Glass | https://habrahabr.ru/post/188710/
+
+Автоматическое оповещение об изменениях статуса почтовых посылок через SMS | https://habrahabr.ru/post/186568/
+
+Google закрывает сервисы Latitude | https://habrahabr.ru/post/186264/
+
+Сохранение данных Google Reader. PHP версия | https://habrahabr.ru/post/181420/
+
+Шесть недель до закрытия Google Reader — спасаем всё что можно | https://habrahabr.ru/post/180111/
+
+Google Keep, вероятно, будет с нами до марта 2017 — в среднем | https://habrahabr.ru/post/178697/
+
+Hyperlapse: сервис для обзора Google Street View | https://habrahabr.ru/post/176239/
+
+Создаем свой RSS канал с помощью Google Apps Script | https://habrahabr.ru/post/175775/
+
+Google устраивает весеннюю чистку и банит AdBlock в Android | https://habrahabr.ru/post/172671/
+
+Использование Google Map в приложении на JavaFX | https://habrahabr.ru/post/170141/
+
+In-app Billing Subscriptions со стороны сервера | https://habrahabr.ru/post/160911/
+
+Еще немного о кодировках Google | https://habrahabr.ru/post/149792/
+
+Google Maps на iPhone без GoogleSDK | https://habrahabr.ru/post/165461/
+
+Google Analytics: загрузка данных о расходах по рекламе из внешних источников | https://habrahabr.ru/post/162327/
+
+Google Maps API v2 — окончание обслуживания | https://habrahabr.ru/post/161621/
+
+Google I/O 2013 пройдет в мае | https://habrahabr.ru/post/161557/
+
+Талмуд по формулам в Google SpreadSheet | https://habrahabr.ru/post/157933/
+
+Распознавание речи на Bash | https://habrahabr.ru/post/157333/
+
+«Google Now» на всех версиях Android | https://habrahabr.ru/post/155255/
+
+Google Weather API тихонечко умер | https://habrahabr.ru/post/150572/
+
+Пишем в Twitter голосом | https://habrahabr.ru/post/150317/
+
+Программирование в Android — зачем такие сложности? | https://habrahabr.ru/post/149365/
+
+Google Cloud Messaging: Библиотека для Codeigniter и пара отличий Google Cloud Messaging и Apple Push Notifications | https://habrahabr.ru/post/147592/
+
+GCM – новый сервис Push-уведомлений от Google | https://habrahabr.ru/post/147585/
+
+Сохранение контактной информации в Google Contacts | https://habrahabr.ru/post/147179/
+
+Оповещение о новых письмах в Gmail по SMS средствами Google Calendar + Google Apps Script | https://habrahabr.ru/post/145447/
+
+Google I/O — что нового? | https://habrahabr.ru/post/146650/
+
+Кластеризация на клиенте или как показать 10000 точек на карте | https://habrahabr.ru/post/145832/
+
+Google Drive. Отчет с данными из таблицы. Создание простенькой БД. Часть 2 | https://habrahabr.ru/post/145785/
+
+Google Drive. Отчет с данными из таблицы. Создание простенькой БД. Часть 1 | https://habrahabr.ru/post/145416/
+
+Использование Google Speech API для управления компьютером | https://habrahabr.ru/post/144535/
+
+Закрытие Google Maps Flash API | https://habrahabr.ru/post/143012/
+
+Маршруты на картах Google в вашем Android-приложении. Альтернативный подход | https://habrahabr.ru/post/142149/
+
+Использование фильтра сервлетов для «всплытия» страницы из фрейма | https://habrahabr.ru/post/141866/
+
+Как исправить ошибки в Google Maps Javascript API 3 mobile | https://habrahabr.ru/post/140705/
+

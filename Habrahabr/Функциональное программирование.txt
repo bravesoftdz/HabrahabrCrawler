@@ -1,0 +1,766 @@
+Эликсир для джавистов. Часть первая | https://habrahabr.ru/post/344658/
+
+Мультиарные функции в Java | https://habrahabr.ru/post/344302/
+
+DevDay на функционале | https://habrahabr.ru/company/2gis/blog/344196/
+
+FPConf 2017. Интервью с Александром Вершиловым | https://habrahabr.ru/post/343104/
+
+Паттерн Model-Update-View и зависимые типы | https://habrahabr.ru/post/341988/
+
+FPConf 2017. Интервью с Денисом Шевченко | https://habrahabr.ru/post/342470/
+
+Приглашаем на конференцию FPConf 2017 | https://habrahabr.ru/company/railsclub/blog/341656/
+
+Функциональная архитектура — это порты и адаптеры | https://habrahabr.ru/company/jugru/blog/341460/
+
+Money-моноид | https://habrahabr.ru/post/341398/
+
+DotNext 2017 Moscow: возвращение хардкора | https://habrahabr.ru/company/jugru/blog/341378/
+
+Каррирование и частичное применение на C++14 | https://habrahabr.ru/post/340722/
+
+ROS, ELM и черепашка | https://habrahabr.ru/post/340534/
+
+Моноиды, полугруппы и все-все-все | https://habrahabr.ru/company/jugru/blog/340178/
+
+GoToChain: как школьники блокчейн в деревне писали | https://habrahabr.ru/company/goto/blog/339796/
+
+Железнодорожно-ориентированное программирование. Обработка ошибок в функциональном стиле | https://habrahabr.ru/post/339606/
+
+Объединяем Websockets, Lisp и функциональное программирование | https://habrahabr.ru/post/339628/
+
+Монады для Go-программистов | https://habrahabr.ru/company/mailru/blog/339426/
+
+RailsClub 2017. Интервью с организатором elixir-lang.moscow Никитой Соболевым | https://habrahabr.ru/company/railsclub/blog/338412/
+
+RailsClub 2017. Ответ на три главных вопроса от Piotr Solnica | https://habrahabr.ru/company/railsclub/blog/338278/
+
+RailsClub 2017. Интервью с Никитой Шильниковым, Dry-rb и Rom-rb core-разработчиком | https://habrahabr.ru/company/railsclub/blog/338208/
+
+OO VS FP | https://habrahabr.ru/post/338136/
+
+«Паттерны» функционального программирования | https://habrahabr.ru/post/337880/
+
+RailsClub 2017. Интервью с Luca Guidi, автором Hanami: смешиваем FP и OOP в Ruby | https://habrahabr.ru/company/railsclub/blog/337862/
+
+Эзотерический язык, транслирующийся в шаблоны C++ | https://habrahabr.ru/post/337590/
+
+Процессы Подстановки | https://habrahabr.ru/post/336982/
+
+RxSwift: немного о share(), replay(), shareReplayLatestWhileConnected() и других классных операторах | https://habrahabr.ru/post/336970/
+
+OCaml и RESTful JSON API с использованием Eliom | https://habrahabr.ru/post/336336/
+
+Некоторые приемы функционального программирования в Python | https://habrahabr.ru/post/336160/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 3 | https://habrahabr.ru/post/336026/
+
+Liscript — web REPL: поцелуи, велосипеды и экскаваторы | https://habrahabr.ru/post/336006/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 2 | https://habrahabr.ru/post/335924/
+
+Прагматичное функциональное программирование | https://habrahabr.ru/post/335878/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 1 | https://habrahabr.ru/post/335830/
+
+Всё познаётся в сравнении, или реализация одной простенькой задачи на python и tcl | https://habrahabr.ru/post/335842/
+
+10 шагов по решению задач в программировании | https://habrahabr.ru/company/nixsolutions/blog/335666/
+
+ICFP Contest 2017 — проверка на прочность для настоящих разработчиков | https://habrahabr.ru/company/skbkontur/blog/334324/
+
+Мониторинг акторов в Akka.Net, но на F# | https://habrahabr.ru/post/334296/
+
+Чёрная Лямбда ефрейтора Волкова: новое направление и гранты на летнюю школу | https://habrahabr.ru/company/goto/blog/333828/
+
+Scala коллекции: секреты и трюки | https://habrahabr.ru/post/333362/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 10. Тестирование каналов | https://habrahabr.ru/post/333020/
+
+Почему изменения в новом Phoenix 1.3 так важны | https://habrahabr.ru/post/332898/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 9. Каналы | https://habrahabr.ru/post/332094/
+
+Как использовать implicit'ы в Scala и сохранить рассудок | https://habrahabr.ru/post/329600/
+
+Игры на Scheme(Lisp) в среде DrRacket | https://habrahabr.ru/post/328924/
+
+Не используйте return в Scala | https://habrahabr.ru/post/331138/
+
+Функциональное программирование в Scala — нужно ли оно вообще? | https://habrahabr.ru/post/331130/
+
+Советы начинающему скалисту (часть 2) | https://habrahabr.ru/post/330816/
+
+Идиоматичный Redux: Дао Redux'а, Часть 1 — Реализация и Замысел | https://habrahabr.ru/post/330692/
+
+Избегание ада с помощью монад | https://habrahabr.ru/post/329242/
+
+От зависимых типов к гомотопической теории типов на Scala + Shapeless + ProvingGround | https://habrahabr.ru/post/329176/
+
+Функциональный Rust: Готовим говядину | https://habrahabr.ru/post/283450/
+
+Добавление to_string упрощает разработку и дебаг кода на Elixir'е | https://habrahabr.ru/post/328208/
+
+Как проектировать программы (HtDP) | https://habrahabr.ru/post/328562/
+
+Элементы функционального программирования в C++: композиции отображений | https://habrahabr.ru/post/328624/
+
+Как устроены протоколы в Elixir | https://habrahabr.ru/company/exante/blog/328528/
+
+Как я "<" моноидом делал | https://habrahabr.ru/post/328110/
+
+Функциональное программирование: в Java и C# слишком много церемоний | https://habrahabr.ru/company/jugru/blog/328042/
+
+Типизируя техническое интервью | https://habrahabr.ru/post/327913/
+
+Каркас для Telegram-бота на Erlang | https://habrahabr.ru/post/327696/
+
+Функциональное программирование в JavaScript с практическими примерами | https://habrahabr.ru/company/mailru/blog/327522/
+
+Лямбда-исчисление на JavaScript | https://habrahabr.ru/post/322052/
+
+Монадные трансформеры для практикующих программистов | https://habrahabr.ru/post/327030/
+
+Заклиная техническое интервью | https://habrahabr.ru/post/326726/
+
+Пишем свои монады на Scala на примере CSV-парсера | https://habrahabr.ru/post/326002/
+
+«Да ты же просто робот, имитация. Разве может робот написать симфонию?» — интервью о ИИ с Дмитрием Сошниковым, Microsoft | https://habrahabr.ru/company/jugru/blog/326188/
+
+Онлайн-курсы весеннего семестра от Академического университета и CS центра | https://habrahabr.ru/company/spbau/blog/326134/
+
+Курсы Computer Science клуба, весна 2017 | https://habrahabr.ru/company/spbau/blog/326064/
+
+Функциональное программирование на Perl в примерах | https://habrahabr.ru/post/326028/
+
+Программисты жизни | https://habrahabr.ru/post/325778/
+
+Scala: parser combinators на примере парсера формул | https://habrahabr.ru/post/325446/
+
+Вы знаете, что такое трансдьюсеры | https://habrahabr.ru/post/325388/
+
+Функциональный C# | https://habrahabr.ru/post/325308/
+
+Модульные приложения на Java. Как? | https://habrahabr.ru/company/jetinfosystems/blog/324810/
+
+Как я стал лучше программировать | https://habrahabr.ru/post/324648/
+
+Функциональное программирование и c++ на практике | https://habrahabr.ru/post/324518/
+
+Разработка R&D-проектов продолжается: запуск Wolfram Language 11.1 | https://habrahabr.ru/company/wolfram/blog/324564/
+
+Немного о функторах и функциях высшего порядка в Swift | https://habrahabr.ru/post/322806/
+
+Haskell: об одном методе реализации функций с переменным числом параметров | https://habrahabr.ru/post/324190/
+
+О функциональном программировании в фронтенде | https://habrahabr.ru/post/324308/
+
+Liscript — REPL боты онлайн | https://habrahabr.ru/post/324166/
+
+Dagaz: От простого к сложному | https://habrahabr.ru/post/323198/
+
+От моноидов к алгебрам де Моргана. Строим абстракции на Haskell | https://habrahabr.ru/post/323832/
+
+Оптимизация хвостовой рекурсии в Java | https://habrahabr.ru/post/319282/
+
+Советы начинающему скалисту | https://habrahabr.ru/post/323706/
+
+Haskell. Монады. Монадные трансформеры. Игра в типы | https://habrahabr.ru/post/315022/
+
+Про ScalaCheck. Свойства. Часть 3 | https://habrahabr.ru/post/323038/
+
+Простая реализация Stream из Java 8 в С++ | https://habrahabr.ru/post/322924/
+
+Elixir и Angular 2 безо всяких Hello, world!, или Реализуем работу с древовидным справочником, часть 1 | https://habrahabr.ru/post/322376/
+
+Функциональные паттерны при моделировании предметной области – анемичные модели и компоновка поведений | https://habrahabr.ru/company/piter/blog/322528/
+
+Иммутабельные данные в С++. Часть 2 | https://habrahabr.ru/post/322450/
+
+Иммутабельные данные в C++ | https://habrahabr.ru/post/322208/
+
+Змея и кокос | https://habrahabr.ru/post/322000/
+
+Язык C# почти функционален | https://habrahabr.ru/company/piter/blog/321546/
+
+Практика метапрограммирования на C++: бинарное дерево поиска на этапе компиляции | https://habrahabr.ru/post/320686/
+
+Про ScalaCheck. Генераторы (Часть 2) | https://habrahabr.ru/post/320104/
+
+Про хаскелль для самых маленьких на примере задачи с codefights | https://habrahabr.ru/post/319440/
+
+Про ScalaCheck | https://habrahabr.ru/post/319456/
+
+Классы типов в Scala (с небольшим обзором библиотеки cats) | https://habrahabr.ru/post/318960/
+
+Расширение API от Vk для стикеров на Elixir | https://habrahabr.ru/post/318918/
+
+Натягиваем ФП на ООП | https://habrahabr.ru/post/318908/
+
+Может ли компания с десятками тысяч сотрудников быть Agile: опыт МТС | https://habrahabr.ru/company/ru_mts/blog/318338/
+
+Elixir в биоинформатике | https://habrahabr.ru/post/318104/
+
+Преобразование формы представления данных при помощи Excel+PowerQuery | https://habrahabr.ru/post/318058/
+
+Как я писал приложение на Elm | https://habrahabr.ru/post/314050/
+
+Параллельная быстрая сортировка на Хаскеле и как нелегко её оказалось написать | https://habrahabr.ru/post/317348/
+
+Функциональные языки в разработке аппаратуры | https://habrahabr.ru/post/316748/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 5. Подключаем ExMachina | https://habrahabr.ru/post/316996/
+
+Длина функции | https://habrahabr.ru/post/316708/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 4. Добавляем обработку ролей в контроллерах | https://habrahabr.ru/post/316368/
+
+Клон Trello на Phoenix и React. Части 10-12. Финиш долгостроя | https://habrahabr.ru/post/316108/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 3. Добавляем роли | https://habrahabr.ru/post/315252/
+
+Функциональный TypeScript | https://habrahabr.ru/post/315204/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 2. Авторизация | https://habrahabr.ru/post/313482/
+
+6 концепций функционального программирования. Польза и примеры использования | https://habrahabr.ru/company/touchinstinct/blog/314510/
+
+Какое место занимает язык Scala в ИТ-индустрии | https://habrahabr.ru/post/314308/
+
+Теория категорий на JavaScript. Часть 1. Категория множеств | https://habrahabr.ru/company/cit/blog/313254/
+
+Элементы функционального программирования в C++: частичное применение | https://habrahabr.ru/post/313370/
+
+Elixir: делаем код расширяемым с помощью Behaviour | https://habrahabr.ru/post/312442/
+
+Как в Java выстрелить себе в ногу из лямбды и не промахнуться | https://habrahabr.ru/post/312894/
+
+Готовим многопоточность с core.async | https://habrahabr.ru/post/312748/
+
+Создание движка для блога с помощью Phoenix и Elixir / Часть 1. Вступление | https://habrahabr.ru/post/311088/
+
+Стрелки как подход к представлению систем на Java | https://habrahabr.ru/post/311914/
+
+Power Query: как перестать бояться функционального программирования и начать работать в расширенном редакторе запросов | https://habrahabr.ru/post/311600/
+
+Организация роутинга в clojure веб-приложении | https://habrahabr.ru/post/311500/
+
+Что нового появилось в C# 7 и уже поддерживается в Visual Studio “15” Preview 4 | https://habrahabr.ru/post/311112/
+
+Использование EntryPoints в SuiteCRM | https://habrahabr.ru/company/jetinfosystems/blog/310490/
+
+Приложение на Elm за считанные секунды | https://habrahabr.ru/post/310432/
+
+Язык арифметических выражений с конструкцией let как dsl на Kotlin | https://habrahabr.ru/post/310320/
+
+Доводы в пользу function tree | https://habrahabr.ru/post/309930/
+
+Пять перспективных языков программирования со светлым будущим | https://habrahabr.ru/post/310252/
+
+Жаргон функционального программирования | https://habrahabr.ru/post/310172/
+
+Elixir: Готовим парсинг правильно — yecc и leex | https://habrahabr.ru/post/309382/
+
+Тестируем Web UI на F# и canopy | https://habrahabr.ru/post/309240/
+
+Несколько примеров практического использования RxJava | https://habrahabr.ru/post/309154/
+
+Мир не идеален | https://habrahabr.ru/post/309040/
+
+Использование TCL в разработке на FPGA | https://habrahabr.ru/post/308962/
+
+Переписываем сценарии тестирования на Clojure за 24 часа | https://habrahabr.ru/post/308734/
+
+Клон Trello на Phoenix и React. Части 8-9 | https://habrahabr.ru/post/308382/
+
+Как Clojure помогает ускорить написание Selenium-тестов | https://habrahabr.ru/post/308228/
+
+Клон Trello на Phoenix и React. Части 6-7 | https://habrahabr.ru/post/308248/
+
+Клон Trello на Phoenix и React. Части 4-5 | https://habrahabr.ru/post/308100/
+
+Клон Trello на Phoenix и React. Части 1-3 | https://habrahabr.ru/post/308056/
+
+Аппаратное ускорение корпоративных вычислений | https://habrahabr.ru/company/jetinfosystems/blog/307862/
+
+Митап Haskell-программистов в «Лаборатории Касперского» (в смысле — ждем) | https://habrahabr.ru/company/kaspersky/blog/307764/
+
+Elixir: Как выглядит ООП в функциональном языке? | https://habrahabr.ru/post/307720/
+
+Замечания о реактивном программировании. Технологический ландшафт | https://habrahabr.ru/company/piter/blog/307658/
+
+История языков программирования: как Haskell стал стандартом функционального программирования | https://habrahabr.ru/post/307618/
+
+Elixir: Развёртывание приложений с помощью Edeliver | https://habrahabr.ru/post/305564/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 2 | https://habrahabr.ru/post/307162/
+
+Все программисты думают что C++ поддерживает ООП, кроме автора ООП | https://habrahabr.ru/post/307354/
+
+Скоро ICFPC 2016 | https://habrahabr.ru/post/306882/
+
+JavaScript в 2016 году: функциональное программирование пришло всерьез и надолго | https://habrahabr.ru/company/Voximplant/blog/306550/
+
+Маслобойка | https://habrahabr.ru/post/306782/
+
+Elixir: Регистрируем процессы — практическое руководство | https://habrahabr.ru/post/306500/
+
+Elixir: начинаем работу с Plug | https://habrahabr.ru/post/306334/
+
+Библиотека f для функционального программирования в Питоне | https://habrahabr.ru/post/305750/
+
+Как написать SQL-запрос на Slick и не открыть портал в ад | https://habrahabr.ru/company/cit/blog/305682/
+
+Материалы курсов по Clojure | https://habrahabr.ru/post/305534/
+
+Функторы (глава книги «Теория категорий для программистов») | https://habrahabr.ru/post/305018/
+
+Недостатки чистого функционального программирования | https://habrahabr.ru/post/303984/
+
+Функциональное программирование непопулярно, потому что оно странное | https://habrahabr.ru/post/303312/
+
+Основы разработки на языке Elm (руководство по инструментарию для начинающих) | https://habrahabr.ru/post/302154/
+
+Композиция функций на F# и Scala | https://habrahabr.ru/post/283162/
+
+RxSwift: работа с GUI | https://habrahabr.ru/post/283128/
+
+Как написать монаду IO на C# (не) без помощи параллельной вселенной и машины времени | https://habrahabr.ru/post/282940/
+
+RxSwift шпаргалка по операторам (+ PDF) | https://habrahabr.ru/post/281292/
+
+Разбавляем асинхронное программирование функциональным на Scala | https://habrahabr.ru/post/281346/
+
+Лямбда-выражения Java 8 — это замыкания? | https://habrahabr.ru/company/piter/blog/281026/
+
+О функциональности Go | https://habrahabr.ru/post/280210/
+
+Тестирование в F# | https://habrahabr.ru/post/280410/
+
+Замечательные zippers, или как я научился не волноваться и полюбил древовидные структуры данных | https://habrahabr.ru/post/279623/
+
+[Москва] Встреча с разработчиками Kotlin | https://habrahabr.ru/company/JetBrains/blog/279351/
+
+fsharpConf 2016 — прямая трансляция виртуальной конференции по F# | https://habrahabr.ru/company/microsoft/blog/278551/
+
+Шаблон проектирования View в языках с зависимыми типами | https://habrahabr.ru/company/spbau/blog/277989/
+
+Второй митап функциональных программистов в Москве (Erlang, Clojure и другие функциональные штуки) | https://habrahabr.ru/company/rambler-co/blog/277853/
+
+Почему я больше не использую MVC-фреймворки | https://habrahabr.ru/post/277113/
+
+UFCS в языке программирования D | https://habrahabr.ru/post/277097/
+
+Stream API: универсальная промежуточная операция | https://habrahabr.ru/post/262139/
+
+GDG DevFest Красноярск 2015: Фотоотчёт | https://habrahabr.ru/company/google/blog/275413/
+
+Новое в Wolfram Language | Аналитическое решение уравнений в частных производных | https://habrahabr.ru/company/wolfram/blog/274857/
+
+Почему функциональное программирование — мейнстрим? | https://habrahabr.ru/company/ua-hosting/blog/274567/
+
+Решение головоломки Галакуб на Питоне | https://habrahabr.ru/post/274527/
+
+Эрланг для веб-разработки (2) -> БД и деплой; | https://habrahabr.ru/post/274107/
+
+Простые алгебраические типы данных | https://habrahabr.ru/post/274103/
+
+Эрланг для веб-разработки (1) -> Знакомство; | https://habrahabr.ru/post/273979/
+
+Swift. Функциональное программирование | https://habrahabr.ru/company/dataart/blog/273727/
+
+Случайности не случайны? | https://habrahabr.ru/company/securitycode/blog/273629/
+
+«Страшные» абстракции Haskell без математики и без кода (почти). Часть I | https://habrahabr.ru/post/272115/
+
+PyNSK #5 — пятая встреча Новосибирского Python сообщества | https://habrahabr.ru/post/272117/
+
+Произведения и копроизведения | https://habrahabr.ru/post/271927/
+
+Конец эпохи динамических языков | https://habrahabr.ru/company/infopulse/blog/271705/
+
+Шпаргалка Java программиста 4. Java Stream API | https://habrahabr.ru/company/luxoft/blog/270383/
+
+Забейте на ORM | https://habrahabr.ru/company/hexlet/blog/271117/
+
+Pro Parboiled (Часть 4 заключительная) | https://habrahabr.ru/post/271003/
+
+Про Parboiled (Часть 3) | https://habrahabr.ru/post/270609/
+
+Про Parboiled (Часть 2) | https://habrahabr.ru/post/270531/
+
+Про Parboiled | https://habrahabr.ru/post/270233/
+
+Анализ AST c помощью паттернов | https://habrahabr.ru/post/270173/
+
+Простые Задачи и Функционально-Блондинистый Подход | https://habrahabr.ru/post/269955/
+
+Неупакованные типы объединений в Scala на основе изоморфизма Карри-Ховарда | https://habrahabr.ru/post/269907/
+
+Монада Maybe на стероидах | https://habrahabr.ru/post/269717/
+
+А ваш язык программирования необоснованный? (или почему предсказуемость важна) | https://habrahabr.ru/post/268559/
+
+Kotlin ❤ FP | https://habrahabr.ru/post/268463/
+
+ICQuery — вымышленная программа, которая общается с пользователем и выполняет задания, описанные на естественном языке коммуникации | https://habrahabr.ru/post/267737/
+
+FP на Scala: Invariant Functor | https://habrahabr.ru/company/golovachcourses/blog/267087/
+
+Functional C#: работа с ошибками | https://habrahabr.ru/post/267231/
+
+Курс «Основы эффективной работы с технологиями Wolfram». Занятие 2.2: Задание функций, работа со списками, шаблонными выражениями и ассоциациями | https://habrahabr.ru/company/wolfram/blog/267185/
+
+Functional C#: Non-nullable reference types (ненулевые ссылочные типы) | https://habrahabr.ru/post/267063/
+
+FP на Scala: Что такое функтор? | https://habrahabr.ru/company/golovachcourses/blog/266905/
+
+Functional C#: Primitive obsession (одержимость примитивами) | https://habrahabr.ru/post/266937/
+
+Functional C#: Immutability | https://habrahabr.ru/post/266873/
+
+Swift 2 в быту. Еще один парсер JSON | https://habrahabr.ru/post/266657/
+
+Курс «Основы эффективной работы с технологиями Wolfram». Занятие 2.1: Введение в язык Wolfram Language, его особенности. Основные сложности начинающих пользователей. Работа с интерфейсом Mathematica и его возможностями | https://habrahabr.ru/company/wolfram/blog/266341/
+
+Курс «Основы эффективной работы с технологиями Wolfram». Занятие 1: Обзор систем Wolfram Mathematica и Wolfram Cloud | https://habrahabr.ru/company/wolfram/blog/266035/
+
+Краткая история появления Mathematica | https://habrahabr.ru/company/wolfram/blog/264793/
+
+Разговор со спикерами FPConf (часть 2) | https://habrahabr.ru/company/railsclub/blog/264737/
+
+Разговор со спикерами FPConf | https://habrahabr.ru/company/railsclub/blog/264695/
+
+От PHP к Clojure | https://habrahabr.ru/post/264005/
+
+Лямбда-выражения в Java, как и зачем их сериализировать? | https://habrahabr.ru/post/264003/
+
+Как спроектировать и написать полноценную программу | https://habrahabr.ru/post/263035/
+
+Очисти код свободными монадами | https://habrahabr.ru/post/263959/
+
+Приглашаем на FPConf.ru | https://habrahabr.ru/company/railsclub/blog/263581/
+
+Веб-приложение на Clojure. Часть 2 | https://habrahabr.ru/post/263131/
+
+Веб-приложения на Clojure | https://habrahabr.ru/post/263115/
+
+Wolfram Language (Mathematica) — это просто игрушка | https://habrahabr.ru/post/263015/
+
+10+ советов по написанию быстрого кода в Mathematica | https://habrahabr.ru/company/wolfram/blog/262879/
+
+Слово на букву «М», или Монады уже здесь | https://habrahabr.ru/company/cit/blog/262055/
+
+Elm или функциональное программирование для веб, понятное чайнику | https://habrahabr.ru/post/261849/
+
+Функции высшего порядка в JavaScript | https://habrahabr.ru/post/261723/
+
+Использование монад в С++. Часть 2: монада состояния | https://habrahabr.ru/company/infopulse/blog/261145/
+
+Использование монад в С++. Часть 1: монада списка | https://habrahabr.ru/company/infopulse/blog/260809/
+
+Пишем на JS в функционально-декларативном стиле | https://habrahabr.ru/post/260961/
+
+Как мы сделали из JSON язык программирования | https://habrahabr.ru/post/260757/
+
+ФВП спешат на помощь | https://habrahabr.ru/post/260599/
+
+Как я нашел лучший в мире язык программирования. Часть Йо (2.72) | https://habrahabr.ru/post/260149/
+
+Как я нашел лучший в мире язык программирования. Часть 2 | https://habrahabr.ru/post/259841/
+
+Как я нашел лучший в мире язык программирования. Часть 1 | https://habrahabr.ru/post/259831/
+
+Common Lisp IDE | https://habrahabr.ru/post/259737/
+
+Проблемы, вызванные определением кортежей как функторов | https://habrahabr.ru/post/259275/
+
+LINQ для PHP: скорость имеет значение | https://habrahabr.ru/post/259155/
+
+λ-исчисление и LISP | https://habrahabr.ru/post/258825/
+
+Введение в функциональное программирование на Python | https://habrahabr.ru/post/257903/
+
+Виртуальный учебник Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/257733/
+
+Реактивный мессенджер, или CQRS и ES вместе с Akka и Scala | https://habrahabr.ru/company/naumen/blog/257477/
+
+93 видео-лекции по Scala | https://habrahabr.ru/company/golovachcourses/blog/256651/
+
+«Перегрузка операторов» в Scala | https://habrahabr.ru/company/golovachcourses/blog/255631/
+
+Java 8: Овладейте новым уровнем абстракции | https://habrahabr.ru/post/256057/
+
+Факториал на числах Чёрча — теперь и в смайликах | https://habrahabr.ru/post/254587/
+
+Pattern-matching (еще один) в coffeescript | https://habrahabr.ru/post/253761/
+
+Практика функционального программирования на JavaScript с использованием Ramda | https://habrahabr.ru/post/251729/
+
+16 месяцев функционального программирования | https://habrahabr.ru/post/251303/
+
+Чисто-функциональный REST API на Finagle/Finch | https://habrahabr.ru/post/250591/
+
+Не-фон неймановский компьютер на базе комбинаторной логики | https://habrahabr.ru/post/249413/
+
+Немного о каррировании в Haskell | https://habrahabr.ru/post/249241/
+
+Категории Клейсли | https://habrahabr.ru/post/249113/
+
+Письмо Дейкстры: почему обучение программированию нужно начинать с функционального языка | https://habrahabr.ru/company/hexlet/blog/248921/
+
+Об именах в Haskell | https://habrahabr.ru/post/248685/
+
+Вычисление факториала на числах Чёрча | https://habrahabr.ru/post/248331/
+
+Категории, большие и малые | https://habrahabr.ru/post/248257/
+
+Clojure — трансдьюсеры, редьюсеры и прочая муть | https://habrahabr.ru/post/247889/
+
+Языки программирования. Композиционный взгляд | https://habrahabr.ru/post/248157/
+
+Типы и функции | https://habrahabr.ru/post/247765/
+
+Когда использовать ООП, а когда — ФП? | https://habrahabr.ru/post/247285/
+
+Функциональное программирование в Swift. Начало | https://habrahabr.ru/post/246965/
+
+Категория: суть композиции | https://habrahabr.ru/post/246009/
+
+Теория категорий для программистов: предисловие | https://habrahabr.ru/post/245797/
+
+Эффективный JSON с функциональными концепциями и generics в Swift | https://habrahabr.ru/post/244821/
+
+Функциональное программирование на CoffeeScript с библиотекой f_context | https://habrahabr.ru/post/245239/
+
+F# адвент календарь по английски на 2014 | https://habrahabr.ru/post/244871/
+
+Обработка ошибок в Swift — меч и магия | https://habrahabr.ru/post/244575/
+
+Пальчиковые деревья (часть 2. Операции) | https://habrahabr.ru/post/243205/
+
+Pipe matching в ЯП Clojure (метапрограммирование в Lisp для начинающих) | https://habrahabr.ru/post/243683/
+
+Пальчиковые деревья (Часть 1. Представление) | https://habrahabr.ru/post/240783/
+
+Message Passing в F#. Применение MailboxProcessor | https://habrahabr.ru/company/host-tracker/blog/236325/
+
+Ложные корреляции по открытым данным Пермского края | https://habrahabr.ru/post/242333/
+
+Pattern matching с помощью макросов | https://habrahabr.ru/post/242201/
+
+Разбираемся с монадами с помощью Javascript | https://habrahabr.ru/post/238171/
+
+Генератор функциональных парсеров на JavaScript (с трансдьюсерами) | https://habrahabr.ru/post/238007/
+
+Трансдьюсеры в JavaScript. Часть вторая | https://habrahabr.ru/post/237733/
+
+Трансдьюсеры в JavaScript. Часть первая | https://habrahabr.ru/post/237613/
+
+Kefir.js — новая библиотека для функционального реактивного программирования (FRP) в JavaScript | https://habrahabr.ru/post/237495/
+
+Компания Wolfram Research открыла сервис Tweet-a-Program: интересных программ на языке Wolfram Language, длина которых не превышает 140 символов | https://habrahabr.ru/company/wolfram/blog/237359/
+
+Emoji Lisp | https://habrahabr.ru/post/237297/
+
+Реализация стека, очереди и дека на языке F# в функциональном стиле | https://habrahabr.ru/post/236375/
+
+Боевой арсенал Erlang разработчика | https://habrahabr.ru/post/235719/
+
+Концепция Message Passing. Агенты и актёры | https://habrahabr.ru/company/host-tracker/blog/234623/
+
+Параллельное программирование для начинающих на ЯП Elixir / Erlang VM на примере задачи «конь Эйлера» | https://habrahabr.ru/post/233637/
+
+Back to the Scala Future | https://habrahabr.ru/post/233555/
+
+И снова про монады в PHP | https://habrahabr.ru/post/232071/
+
+Привносим монады в PHP | https://habrahabr.ru/post/231801/
+
+Анимации на лямбдах в C++11 | https://habrahabr.ru/company/ivideon/blog/230501/
+
+Разработка приложения на Android с помощью Xamarin и F# | https://habrahabr.ru/post/228783/
+
+Функциональный Javascript. Пишем свои линзы, часть 1 | https://habrahabr.ru/post/230649/
+
+Erlang для самых маленьких. Глава 4: Система типов | https://habrahabr.ru/post/230551/
+
+Функциональный JavaScript, Часть 1: Введение | https://habrahabr.ru/post/229893/
+
+YaLinqo (LINQ to Objects для PHP) — версия 2.0 | https://habrahabr.ru/post/229763/
+
+Обзор языка Idris | https://habrahabr.ru/post/228957/
+
+[Перевод] Не стоит бояться функционального программирования | https://habrahabr.ru/post/228893/
+
+Спецификатор constexpr в C++11 и в C++14 | https://habrahabr.ru/post/228181/
+
+Console Audio Tools — пакет утилит для проверки и конвертации аудиофайлов | https://habrahabr.ru/post/228301/
+
+Клеточные автоматы с помощью комонад | https://habrahabr.ru/post/225473/
+
+Макросы и квазицитаты в Scala 2.11.0 | https://habrahabr.ru/company/enterra/blog/224229/
+
+Игра 2048 в Wolfram Mathematica | https://habrahabr.ru/post/223345/
+
+Новые возможности лямбд в C++14 | https://habrahabr.ru/post/223289/
+
+Как я написал web-приложение, используя только clojure | https://habrahabr.ru/post/222737/
+
+Функция reduce | https://habrahabr.ru/post/222317/
+
+Дизайн и архитектура в ФП. Часть 3 | https://habrahabr.ru/post/222015/
+
+J может быть читаемым | https://habrahabr.ru/post/221011/
+
+Какие языки программирования наиболее востребованы в сфере финансов | https://habrahabr.ru/company/itinvest/blog/220605/
+
+Третья встреча Scala User Group в Москве: последний день регистрации! | https://habrahabr.ru/post/220467/
+
+J: программирование на смайликах | https://habrahabr.ru/post/220291/
+
+Дизайн и архитектура в ФП. Часть 2 | https://habrahabr.ru/post/215161/
+
+Лучший мир с ReactiveCocoa | https://habrahabr.ru/post/215033/
+
+ZoG на стероидах | https://habrahabr.ru/post/214713/
+
+Scala Moscow User Group, встреча 14 марта 2014 | https://habrahabr.ru/company/tinkoff/blog/214725/
+
+Зачем нужны все эти функторы и монады? | https://habrahabr.ru/post/212955/
+
+Дизайн и архитектура в ФП. Введение и Часть 1 | https://habrahabr.ru/post/211871/
+
+Erlang для самых маленьких. Глава 3: Базовый синтаксис функций | https://habrahabr.ru/post/211815/
+
+Scala. Всем выйти из сумрака! | https://habrahabr.ru/post/209850/
+
+Основы Scala. 5 часов поедания мозгов | https://habrahabr.ru/post/209532/
+
+Монады в Scala | https://habrahabr.ru/post/209510/
+
+Зоопарк Алгебрaических Типов Данных | https://habrahabr.ru/post/207126/
+
+Чисто функциональные структуры данных | https://habrahabr.ru/post/208918/
+
+Melange — DSL для сетевых протоколов | https://habrahabr.ru/post/207764/
+
+Работа с реляционными базами данных в Scala | https://habrahabr.ru/company/tinkoff/blog/193396/
+
+Конспекты лекций «Haskell как первый язык программирования». Часть2 | https://habrahabr.ru/post/204566/
+
+«Чем это сделать?»: поиск API — методики и проблемы | https://habrahabr.ru/post/204124/
+
+Конспекты лекций «Haskell как первый язык программирования». Часть1 | https://habrahabr.ru/post/204086/
+
+Löb и möb: странные петли в Хаскеле | https://habrahabr.ru/post/203800/
+
+Прелюдия или как полюбить Haskell | https://habrahabr.ru/post/203690/
+
+Язык программирования J. За что любить? | https://habrahabr.ru/post/201470/
+
+Что так с ООП и ФП, и что не так с программированием | https://habrahabr.ru/post/201920/
+
+Что не так с ООП и ФП | https://habrahabr.ru/post/201874/
+
+Haskell — невозможное возможно? | https://habrahabr.ru/post/201446/
+
+Warp9 — еще одна реактивная js библиотека. На этот раз компонуемая и без утечек | https://habrahabr.ru/post/198158/
+
+Курс «Принципы реактивного программирования» на coursera.org | https://habrahabr.ru/post/200338/
+
+Теория «Черного лебедя» и фундаментальная уязвимость автоматизированных систем | https://habrahabr.ru/post/199306/
+
+FRP (functional reactive programming) на Bacon.js | https://habrahabr.ru/post/198656/
+
+Язык программирования J. Взгляд любителя. Часть 4. Коробки и циклы. Заключение | https://habrahabr.ru/post/198230/
+
+Язык программирования J. Взгляд любителя. Часть 3. Массивы | https://habrahabr.ru/post/198228/
+
+Метод генерации тестовых заданий на основе деревьев И/ИЛИ и его программная реализация | https://habrahabr.ru/post/198068/
+
+Язык программирования J. Взгляд любителя. Часть 2. Тацитное программирование | https://habrahabr.ru/post/198066/
+
+Язык программирования J. Взгляд любителя. Часть 1. Введение | https://habrahabr.ru/post/198052/
+
+Erlang для самых маленьких. Глава 2: Модули и функции | https://habrahabr.ru/post/197364/
+
+Кооперативные потоки с нуля в 33 строках на Хаскеле | https://habrahabr.ru/post/195274/
+
+Erlang для самых маленьких. Глава 1: Типы данных, переменные, списки и кортежи | https://habrahabr.ru/post/195542/
+
+Haskell в продакте: Отчёт менеджера проекта | https://habrahabr.ru/post/193722/
+
+Лучшие выступления Ричарда Хикки | https://habrahabr.ru/post/194032/
+
+Ненормальное функциональное программирование на python | https://habrahabr.ru/post/193920/
+
+Тренинг по Scala в JetBrains: как это было | https://habrahabr.ru/company/JetBrains/blog/193930/
+
+А есть ли причины использовать статически типизированный функциональный язык программирования? | https://habrahabr.ru/post/190838/
+
+Программируем императивно в Хаскеле, используя линзы | https://habrahabr.ru/post/190442/
+
+Десять причин не использовать статически типизированный функциональный язык программирования | https://habrahabr.ru/post/190492/
+
+Семьи типов и Покемоны | https://habrahabr.ru/post/187272/
+
+Python: декорируем декораторы. Снова | https://habrahabr.ru/post/187482/
+
+Мягкое введение в Coq: структуры данных и функции высших порядков | https://habrahabr.ru/post/184446/
+
+Тройка полезных монад | https://habrahabr.ru/post/184722/
+
+Встраиваемый язык для .NET, или как я переспорил Эрика Липперта | https://habrahabr.ru/post/184498/
+
+Развитие пользовательских типов данных в программировании | https://habrahabr.ru/post/184558/
+
+CoffeeScript в примерах. Валидация | https://habrahabr.ru/post/184344/
+
+Паттерны проектирования без ООП | https://habrahabr.ru/post/184156/
+
+Код как аргумент в Caché ObjectScript | https://habrahabr.ru/company/intersystems/blog/175657/
+
+Функторы, аппликативные функторы и монады в картинках | https://habrahabr.ru/post/183150/
+
+Мягкое введение в Coq: используем тактики | https://habrahabr.ru/post/182936/
+
+Мягкое введение в Coq: индуктивные определения | https://habrahabr.ru/post/182748/
+
+Священный грааль динамической диспетчеризации | https://habrahabr.ru/post/182576/
+
+Мягкое введение в Coq: начало | https://habrahabr.ru/post/182442/
+
+F* – новый язык с зависимыми типами для .Net | https://habrahabr.ru/post/182340/
+
+Неизменяемая очередь на F# | https://habrahabr.ru/post/178177/
+
+Разработка веб-приложений в PicoLisp | https://habrahabr.ru/post/178235/
+
+Многочлены от нескольких переменных и алгоритм Бухбергера на Haskell | https://habrahabr.ru/post/177237/
+
+Списки из lambda-функций | https://habrahabr.ru/post/176233/
+
+Связные списки в функциональном стиле | https://habrahabr.ru/post/175725/
+
+Не ещё одна статья о функциональном программировании | https://habrahabr.ru/post/174619/
+
+Вычисление рекуррентных соотношений на Perl | https://habrahabr.ru/post/169469/
+
+Переход с Java на Scala (Clojure, Haskell, Erlang ..) как повышение абстракции программирования | https://habrahabr.ru/post/168425/
+
+Анонс школы функционального программирования в рамках DevCon 2013 | https://habrahabr.ru/company/microsoft/blog/166909/
+
+Решение турнирных задач на языке Haskell | https://habrahabr.ru/post/166763/
+
+Играем в Haskell | https://habrahabr.ru/post/165559/
+
+Clojure в Белорусском ГУ | https://habrahabr.ru/post/164701/
+
+Неофициальный путеводитель по мозгу Рича Хики | https://habrahabr.ru/post/161885/
+
+Встреча FProg 2012-12 в Петербурге | https://habrahabr.ru/company/JetBrains/blog/161743/
+
+Абстрагирование потока управления | https://habrahabr.ru/post/157265/
+

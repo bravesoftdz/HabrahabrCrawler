@@ -1,0 +1,248 @@
+Stack Overflow рассказал, какие языки и технологии программирования популярны как хобби | https://habrahabr.ru/post/321464/
+
+10 лучших бесплатных приложений для SharePoint из Microsoft Store | https://habrahabr.ru/company/comparex/blog/311458/
+
+Перенос и развертывание рабочих процессов SharePoint 2013 | https://habrahabr.ru/post/306228/
+
+Microsoft Office и продуктивность на конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/301252/
+
+Простая автоматизация процесса управления актами о браке на SharePoint с примерами и картинками | https://habrahabr.ru/post/281356/
+
+Портал на службе бухгалтерии или автоматизация авансовых отчетов | https://habrahabr.ru/company/eastbanctech/blog/280526/
+
+Добавление прокси в любое приложение на IIS | https://habrahabr.ru/post/278453/
+
+Баллада о SharePoint | https://habrahabr.ru/post/277191/
+
+И снова о хранении файлов, и о том, как быстро найти нужное | https://habrahabr.ru/post/276869/
+
+Автоматизированный доступ к SharePoint. Как облегчить работу администратора и установить контроль за раздачей прав | https://habrahabr.ru/company/varonis/blog/276561/
+
+Получение данных SharePoint на клиенте с помощью SPServices | https://habrahabr.ru/post/272549/
+
+Бесплатные вебинары на Неделе стартапов – подключайтесь | https://habrahabr.ru/company/microsoft/blog/271491/
+
+Установка плагина onlyoffice-alfresco (контрольный лист — шпаргалка) | https://habrahabr.ru/post/270933/
+
+Офис как Платформа: публикуем приложение SharePoint в Office Store | https://habrahabr.ru/company/microsoft/blog/270045/
+
+Интеграция ASP.NET MVC c Sharepoint 2013. Part 2: Взаимодействие с SharePoint | https://habrahabr.ru/company/docsvision/blog/269499/
+
+Создание нового типа поля для MS SharePoint на примере простого проверяемого поля | https://habrahabr.ru/post/262187/
+
+Офис как Платформа, выпуск №6 — быстрый старт разработчика SharePoint Online | https://habrahabr.ru/company/microsoft/blog/268715/
+
+Архитектура рабочих процессов в SharePoint Server 2013: вчера и сегодня | https://habrahabr.ru/post/266943/
+
+Реалии миграции SharePoint в облако | https://habrahabr.ru/post/264447/
+
+Рейтинг популярности облачных сервисов Microsoft в 2015 году | https://habrahabr.ru/post/260889/
+
+Битва за ADFS (Active Directory Federation Services) | https://habrahabr.ru/company/eastbanctech/blog/260689/
+
+Передача параметров в отчетах Reporting Services | https://habrahabr.ru/company/navicon/blog/260531/
+
+Анонс новых возможностей SharePoint Server 2016 | https://habrahabr.ru/post/259597/
+
+10 способов защиты данных в Office 365 | https://habrahabr.ru/post/259253/
+
+Автоматизация финансовой отчетности | https://habrahabr.ru/post/252817/
+
+Transition приложений. Как мы забираем приложения в поддержку | https://habrahabr.ru/company/icl_services/blog/252173/
+
+Twitter Bootstrap и SharePoint. Как заставить Bootstrap корректно работать под SP | https://habrahabr.ru/post/249739/
+
+Интеграция ASP.NET MVC c Sharepoint 2013. Part 1: High-Trusted provider-hosted APP | https://habrahabr.ru/company/docsvision/blog/242325/
+
+Приглашаем на Office 365 Summit 23-24 октября | https://habrahabr.ru/company/microsoft/blog/239269/
+
+Структурируем вложения к элементам списка в Sharepoint 2010 | https://habrahabr.ru/post/235493/
+
+Как мы внедряли инновации в крупной компании на примере Киосков на Windows 8 | https://habrahabr.ru/post/237085/
+
+Reporting Services 2008 под Sharepoint 2010 | https://habrahabr.ru/post/233083/
+
+SharePoint Farm — новая возможность в Microsoft Azure | https://habrahabr.ru/post/229903/
+
+Office 365 Cloud Business Apps | https://habrahabr.ru/company/microsoft/blog/228149/
+
+Один из подходов к отладке решений для SharePoint | https://habrahabr.ru/post/221525/
+
+Цикличность и временное отключение приемников событий в SharePoint | https://habrahabr.ru/post/220177/
+
+Создание приложений для Office 365 Developer Site | https://habrahabr.ru/company/microsoft/blog/218347/
+
+Сервис управления заявками на отпуска для SharePoint 2013 в интеграции с БОСС-Кадровик | https://habrahabr.ru/company/eastbanctech/blog/213125/
+
+Миграция порталов с SharePoint 2010 на SharePoint 2013. Что изменилось и как с этим жить | https://habrahabr.ru/company/eastbanctech/blog/212841/
+
+Снижение производительности SharePoint при увеличении уникальных Security Scopes на больших списках | https://habrahabr.ru/company/eastbanctech/blog/211735/
+
+Как использовать функцию обработки входящей почты в SharePoint 2010 — пример из практики | https://habrahabr.ru/company/eastbanctech/blog/211669/
+
+Воскрешение Sharepoint или как не сгореть на костре инквизиции | https://habrahabr.ru/post/210818/
+
+Простой способ повысить качество решений | https://habrahabr.ru/post/210532/
+
+Сайт коллекции SharePoint, управляемые пути, а можно субдомены? | https://habrahabr.ru/post/210462/
+
+Переход на механизмы авторизации и аутентификации ADFS как часть маркетинговой стратегии | https://habrahabr.ru/company/eastbanctech/blog/209834/
+
+Улучшаем экспорт в Excel для SharePoint | https://habrahabr.ru/post/208948/
+
+Фильтрация списков SharePoint, параметры адресной строки | https://habrahabr.ru/post/206230/
+
+SharePoint Code Check (SPCop) – бесплатный инструмент для анализа кода | https://habrahabr.ru/post/205218/
+
+Видеоролик: Actionspace, аддон для SharePoint и Office 365 | https://habrahabr.ru/company/alconost/blog/203230/
+
+Порционное получение данных в Sharepoint 2010 | https://habrahabr.ru/post/200936/
+
+Что делать, если вы немножко SharePoint, и как с этим жить? | https://habrahabr.ru/company/adv/blog/195346/
+
+Бронирование переговорных комнат — интеграция SharePoint 2010 с Exchange 2010 | https://habrahabr.ru/company/eastbanctech/blog/195110/
+
+Загрузка данных в списки Sharepoint | https://habrahabr.ru/post/194800/
+
+Связь со списками в карточке документа Электронного Документооборота Worklite Docs на Sharepoint 2013 | https://habrahabr.ru/post/194304/
+
+Пациент в разрезе Sharepoint 2013 — как быть и что делать? | https://habrahabr.ru/post/193852/
+
+Версионность, уведомления, входящие сообщения и папки в Microsoft SharePoint 2013 | https://habrahabr.ru/company/epam_systems/blog/193684/
+
+Делаем ознакомление с элементом списка SharePoint 2010 | https://habrahabr.ru/post/192506/
+
+Корпоративная утопия коммуникационной среды | https://habrahabr.ru/post/187080/
+
+Рабочие процессы в шарике для документооборота: стандартные и не очень | https://habrahabr.ru/company/eos/blog/185470/
+
+Kerberos constraint delegation для SharePoint 2010 SP1 и SQL Server 2012 Reporting Services (Named Instance) | https://habrahabr.ru/post/181121/
+
+AvePoint DocAve для SharePoint | https://habrahabr.ru/post/180347/
+
+SharePoint + Reporting Services = нюансы | https://habrahabr.ru/post/177639/
+
+Адресная книга Sharepoint 2010 из AD с синхронизацией | https://habrahabr.ru/post/175921/
+
+Разработка приложений SharePoint 2013 с помощью TypeScript | https://habrahabr.ru/post/174099/
+
+Кастомизация DateTime в SharePoint | https://habrahabr.ru/post/169167/
+
+7 шагов успешной миграции портала SharePoint 2007 на SharePoint 2010 | https://habrahabr.ru/company/eastbanctech/blog/168493/
+
+Корпоративный сайт на SharePoint Foundation: несколько практических советов | https://habrahabr.ru/post/163665/
+
+Обновление WSS 3.0 -> Sharepoint 2010 Foundation, или верный путь к Disaster Recovery | https://habrahabr.ru/post/161103/
+
+Подготовка к погружению: МСМ Knowledge Exam | https://habrahabr.ru/post/160925/
+
+Заполняем Active Directory тестовыми пользователями для SharePoint | https://habrahabr.ru/post/159709/
+
+Автоматизируем бизнес-процесс на SharePoint подручными средствами | https://habrahabr.ru/post/154953/
+
+Ферма SharePoint 2013 в Windows Azure. SharePoint 2013 | https://habrahabr.ru/post/154371/
+
+Ферма SharePoint 2013 в Windows Azure. SQL Server 2012 | https://habrahabr.ru/post/153453/
+
+Ферма SharePoint 2013 в Windows Azure. AD DC | https://habrahabr.ru/post/152655/
+
+Материалы для изучения SharePoint 2013 Preview | https://habrahabr.ru/post/147936/
+
+Создаем шаблон виртуальной машины с SharePoint в Windows Azure | https://habrahabr.ru/post/147370/
+
+Camlex 3.2: реверс-инжиниринг CAML и добавление условий к строковым запросам в Sharepoint с помощью лямбда выражений | https://habrahabr.ru/post/146313/
+
+Анонс вебинара: Пошаговая настройка службы BCS в SharePoint Online | https://habrahabr.ru/company/microsoft/blog/143858/
+
+Создание пользовательского фильтра для списка в SharePoint 2010 | https://habrahabr.ru/post/139963/
+
+Использование Visio для создания рабочих процессов | https://habrahabr.ru/post/139785/
+
+Опыт работы с Nintex Workflow for SharePoint 2010 | https://habrahabr.ru/post/138860/
+
+Автоматизируем отпуск | https://habrahabr.ru/post/138145/
+
+Курсы для прокачки SharePoint-разработчиков | https://habrahabr.ru/post/137422/
+
+Панель разработчика в SharePoint 2010 | https://habrahabr.ru/post/133662/
+
+Работа с SharePoint Foundation REST Interface с помощью OData и jQuery | https://habrahabr.ru/company/infopulse/blog/133117/
+
+Документооборот на SharePoint или зачем нужны BPMS | https://habrahabr.ru/post/125245/
+
+Экспорт графика в Microsoft Excel | https://habrahabr.ru/post/124079/
+
+Sharepoint 2010 / кастомизация оповещений поиска (search alerts) | https://habrahabr.ru/post/123863/
+
+Не пропустите SharePoint Conference 2011 Россия | https://habrahabr.ru/post/120678/
+
+Электронные формы via Microsoft InfoPath | https://habrahabr.ru/post/111333/
+
+Летняя встреча Russian SharePoint User Group в Москве | https://habrahabr.ru/post/97821/
+
+Семинар «LINQ'остроительство и SharePoint» | https://habrahabr.ru/post/97192/
+
+Отчёт о посещении Microsoft Sharepoint Conference 2010 | https://habrahabr.ru/post/93960/
+
+SharePoint Conference 2010 Россия | https://habrahabr.ru/post/91530/
+
+SharePoint Business Connectivity Services: Новые возможности | https://habrahabr.ru/post/88618/
+
+Работа с учётными записями FBA через C# | https://habrahabr.ru/post/83891/
+
+Семь стартапов за неделю на платформе Sharepoint 2010 | https://habrahabr.ru/post/83239/
+
+Использование лямбд для построения CAML-запросов в SharePoint'е | https://habrahabr.ru/post/82787/
+
+SharePoint 2010: Business Connectivity Services | https://habrahabr.ru/post/79607/
+
+SharePoint 2010 Beta доступен для закачки TechNet и MSDN подписчикам | https://habrahabr.ru/post/75425/
+
+REPL WebPart для SharePoint | https://habrahabr.ru/post/73266/
+
+Кратко о Patterns & Practices: SharePoint Guidance | https://habrahabr.ru/post/72767/
+
+Получаем SPListItem из SPList. Очень быстро и очень медленно | https://habrahabr.ru/post/71906/
+
+Russian SharePoint User Group | https://habrahabr.ru/post/68597/
+
+Обзор возможностей SharePoint Server 2010 и конференция в Лас-Вегасе | https://habrahabr.ru/post/64372/
+
+SharePoint. Карандашики в подарок | https://habrahabr.ru/post/61329/
+
+Как создать ассоциацию workflow и списка программно | https://habrahabr.ru/post/59661/
+
+Объявлены предварительные системные требования MS SharePoint Server 2010 | https://habrahabr.ru/post/59455/
+
+5 принципов построения решений | https://habrahabr.ru/post/57994/
+
+Настраиваем формы с помощью SharePoint Designer | https://habrahabr.ru/post/58185/
+
+Пять с половиной мифов о SharePoint | https://habrahabr.ru/post/58178/
+
+Делаем SharePoint Web Part используя xml/xsl | https://habrahabr.ru/post/58134/
+
+Настраиваем формы с помощью SharePoint Designer | https://habrahabr.ru/post/58128/
+
+Разработка веб-частей. Введение | https://habrahabr.ru/post/57992/
+
+Необычный ролик Sharepoint | https://habrahabr.ru/post/57353/
+
+Разгоняем Sharepoint до скорости Highload интернет сайта | https://habrahabr.ru/post/55981/
+
+Вебкаст — SharePoint в Веб | https://habrahabr.ru/post/55929/
+
+Создание многоязычных сайтов | https://habrahabr.ru/post/55436/
+
+Создание сайта SharePoint на Раз, Два, Три… | https://habrahabr.ru/post/55140/
+
+Создаём Фичу для изменения дизайна | https://habrahabr.ru/post/54111/
+
+Создание тем для сайтов Sharepoint с использованием CSS | https://habrahabr.ru/post/53585/
+
+Список вероятных новых возможностей SharePoint v14 / 2009 (?) | https://habrahabr.ru/post/48538/
+
+CMS — это?… | https://habrahabr.ru/post/21735/
+
+Как сделать виртуальную машину для разработки под Windows SharePoint Services v3? | https://habrahabr.ru/post/21728/
+

@@ -1,0 +1,656 @@
+Ускорение сборки C и C++ проектов | https://habrahabr.ru/company/pvs-studio/blog/344534/
+
+Скриптуем на WebAssembly, или WebAssembly без Web | https://habrahabr.ru/post/344246/
+
+Отладка злого бага в рантайме Go | https://habrahabr.ru/company/mailru/blog/344080/
+
+Тестирование LLVM | https://habrahabr.ru/post/343594/
+
+Путеводитель по исходникам LLVM | https://habrahabr.ru/post/343344/
+
+Как написать свой сваггер и не пожалеть об этом | https://habrahabr.ru/post/342566/
+
+Выпуск Rust 1.22 (и 1.22.1) | https://habrahabr.ru/post/343058/
+
+Ещё один шажок к C++20. Встреча в Альбукерке | https://habrahabr.ru/company/yandex/blog/342354/
+
+Мой первый компилятор на LLVM | https://habrahabr.ru/post/342456/
+
+Пишем x86-64 JIT-комплятор с нуля в стоковом Python | https://habrahabr.ru/post/342410/
+
+Во всём виноват PHP OPCache? | https://habrahabr.ru/company/mailru/blog/341912/
+
+UB-2017. Часть 1 | https://habrahabr.ru/post/341694/
+
+Бестиарий С++. Справочник по загадочным персонажам | https://habrahabr.ru/company/mailru/blog/341584/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 3/3 | https://habrahabr.ru/post/341154/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 2/3 | https://habrahabr.ru/post/341144/
+
+Реализация «Тетриса» в игре «Жизнь» | https://habrahabr.ru/post/338584/
+
+Ключевое слово «mutable» в C++ | https://habrahabr.ru/company/infopulse/blog/341264/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 1/3 | https://habrahabr.ru/post/341048/
+
+Почему LLVM может вызвать никогда не вызываемую функцию? | https://habrahabr.ru/post/339700/
+
+Введение в Beautiful Capi, инструмент создания С++ оберток для С++ библиотек | https://habrahabr.ru/post/340770/
+
+SALI — это Вам ~ язык программирования | https://habrahabr.ru/post/340464/
+
+Выпуск Rust 1.21 | https://habrahabr.ru/post/340170/
+
+C++17 | https://habrahabr.ru/company/pvs-studio/blog/340014/
+
+[CppCon 2017] Matt Godbolt: Что мой компилятор сделал для меня? | https://habrahabr.ru/post/339962/
+
+Игрушечный фронтенд для LLVM, написанный на Rust: Руководство для начинающих | https://habrahabr.ru/post/338420/
+
+Грамматика MySQL на ANTLR 4 | https://habrahabr.ru/company/pt/blog/339336/
+
+На шаг ближе к С++20. Итоги встречи в Торонто | https://habrahabr.ru/company/yandex/blog/336264/
+
+Как может вызваться никогда не вызываемая функция? | https://habrahabr.ru/company/infopulse/blog/338812/
+
+Как собрать Ceylon в контейнере, если вашему контейнеровозу перекрыли канал | https://habrahabr.ru/post/338134/
+
+Создание языка программирования с использованием LLVM. Часть 10: Заключение и другие вкусности LLVM | https://habrahabr.ru/post/337240/
+
+Создание языка программирования с использованием LLVM. Часть 9: Добавляем отладочную информацию | https://habrahabr.ru/post/336980/
+
+Создание языка программирования с использованием LLVM. Часть 8: Компиляция в объектный код | https://habrahabr.ru/post/336876/
+
+История предсказания переходов с 1 500 000 года до н.э. по 1995 год | https://habrahabr.ru/post/337000/
+
+Процессы Подстановки | https://habrahabr.ru/post/336982/
+
+Kotlin: опыт боевого применения | https://habrahabr.ru/company/isdef/blog/336798/
+
+Создание языка программирования с использованием LLVM. Часть 7: Расширение языка: Изменяемые переменные | https://habrahabr.ru/post/336468/
+
+Нестандартный подход к построению современного языка программирования | https://habrahabr.ru/post/336598/
+
+Язык Terra — низкоуровневый партнёр Lua | https://habrahabr.ru/post/336406/
+
+Создание языка программирования с использованием LLVM. Часть 6: Расширение языка: Операторы, определяемые пользователем | https://habrahabr.ru/post/336080/
+
+Оптимизация шаблонов представления в Codeigniter Framework при помощи AST трансформаций | https://habrahabr.ru/post/335080/
+
+Метаклассы в C++ | https://habrahabr.ru/company/infopulse/blog/334284/
+
+Как мы искали и нашли ошибку в Visual Studio C++ | https://habrahabr.ru/post/333442/
+
+Как я нашёл баг в процессорах Intel Skylake | https://habrahabr.ru/post/332552/
+
+Фантом: большая сборка мусора | https://habrahabr.ru/post/331974/
+
+Изучите все языки программирования | https://habrahabr.ru/company/infopulse/blog/331934/
+
+Рассмотрим Kotlin повнимательнее | https://habrahabr.ru/company/mailru/blog/331442/
+
+Альтернатива Emacs Lisp'у | https://habrahabr.ru/post/331134/
+
+Компилируем, как будто на дворе 1992 год | https://habrahabr.ru/post/330940/
+
+Kotlin, компиляция в байткод и производительность (часть 2) | https://habrahabr.ru/company/inforion/blog/330064/
+
+Kotlin, компиляция в байткод и производительность (часть 1) | https://habrahabr.ru/company/inforion/blog/330060/
+
+Реверс-инжиниринг игры Lost Vikings | https://habrahabr.ru/post/329448/
+
+Ещё больше простых багов [язык Ада] | https://habrahabr.ru/company/pvs-studio/blog/329270/
+
+Технология MIPS SIMD и процессор Байкал-Т1 | https://habrahabr.ru/post/328566/
+
+Про память, теги и когерентность | https://habrahabr.ru/post/328542/
+
+Как используя PVS-Studio можно улучшить Visual C++ 2017 Libraries | https://habrahabr.ru/company/pvs-studio/blog/327784/
+
+Выпуск Rust 1.17 | https://habrahabr.ru/post/327708/
+
+Развенчание мифов о мета-объектном компиляторе Qt | https://habrahabr.ru/company/infopulse/blog/327176/
+
+Виртуальная Машина PHP 7 | https://habrahabr.ru/company/badoo/blog/327068/
+
+Раскрываем тему WebAssembly с Бренданом Айком | https://habrahabr.ru/post/326276/
+
+Что я изменил бы в Go | https://habrahabr.ru/company/mailru/blog/325046/
+
+Устраняем ошибки в Building resources при сборке android-приложения с помощью Apktool | https://habrahabr.ru/post/324776/
+
+Position-independent code (PIC) в разделяемых библиотеках на x64 | https://habrahabr.ru/company/badoo/blog/324616/
+
+Что приняли в C++17, фотография Бьярне Страуструпа и опрос для C++20 | https://habrahabr.ru/company/yandex/blog/323972/
+
+Выпуск Rust 1.16 | https://habrahabr.ru/post/324448/
+
+Дефекты безопасности, которые устранила команда PVS-Studio на этой неделе: выпуск N2 | https://habrahabr.ru/company/pvs-studio/blog/324222/
+
+Position-independent code (PIC) в разделяемых библиотеках | https://habrahabr.ru/company/badoo/blog/323904/
+
+Универсальный грамматический анализатор естественных языков с нуля. Выпуск 1 | https://habrahabr.ru/post/323692/
+
+Address Sanitizer, или Что делать, если не работает valgrind | https://habrahabr.ru/post/323380/
+
+Как я писал компилятор С++. Пересказ спустя 15 лет | https://habrahabr.ru/post/322656/
+
+Там добавим const, отсюда удалим const… | https://habrahabr.ru/company/infopulse/blog/322320/
+
+Дивный новый Roslyn: Кому нужны собственные анализаторы кода и скриптинг на C#? | https://habrahabr.ru/company/jugru/blog/322226/
+
+Черная магия метапрограммирования: как работают макросы в Rust 1.15 | https://habrahabr.ru/post/321620/
+
+Свершилось! Процедурные макросы в Rust 1.15 | https://habrahabr.ru/post/321564/
+
+Средства программирования PIC-контроллеров | https://habrahabr.ru/post/321542/
+
+Как работать с JIT | https://habrahabr.ru/company/badoo/blog/321378/
+
+Как замкнуть переменную в C# и не выстрелить себе в ногу | https://habrahabr.ru/company/pvs-studio/blog/320588/
+
+Как приручить дракона. Краткий пример на clang-c | https://habrahabr.ru/post/320074/
+
+Повесть о невозможном баге: big.LITTLE и кэширование | https://habrahabr.ru/post/320342/
+
+Обработка препроцессорных директив в Objective-C | https://habrahabr.ru/post/318954/
+
+Грааль и Трюфель (Graal & Truffle) | https://habrahabr.ru/post/319424/
+
+Как PVS-Studio ищет ошибки: методики и технологии | https://habrahabr.ru/company/pvs-studio/blog/319382/
+
+История одного бага: выравнивание данных на x86 | https://habrahabr.ru/post/318456/
+
+Архитектура ассемблера Go | https://habrahabr.ru/company/badoo/blog/317864/
+
+Отладка вашей ОС: урок по выделению памяти | https://habrahabr.ru/company/mailru/blog/317476/
+
+Собственная платформа. Часть 0.2 Теория. Интерпретатор CHIP8 | https://habrahabr.ru/post/316788/
+
+Пишем настоящий Pointer Analysis для LLVM. Часть 1: Введение или первое свидание с миром анализа программ | https://habrahabr.ru/company/solarsecurity/blog/317002/
+
+Обгоняем компилятор | https://habrahabr.ru/post/317078/
+
+История языков программирования: Algol — жертва конфликта интересов | https://habrahabr.ru/post/317010/
+
+Собственная платформа. Часть 0.1 Теория. Немного о процессорах | https://habrahabr.ru/post/316520/
+
+С++17 и С++2a: новости со встречи ISO в Иссакуа | https://habrahabr.ru/company/yandex/blog/315606/
+
+Пишем свой язык программирования без мам, пап и бизонов. Часть 0: теория | https://habrahabr.ru/post/316460/
+
+Расширения языков C и C++. Часть 1 | https://habrahabr.ru/post/315676/
+
+Go panic(), runtime error и их реализации в своей ОС на Go+asm Part 0x000c03f.(float32) | https://habrahabr.ru/post/315566/
+
+.NET Tools. Интервью с Сергеем Шкредовым (JetBrains), Павлом Авсениным и Александром Захаровым (DevExpress) | https://habrahabr.ru/company/jugru/blog/314524/
+
+Как устроен парсер Python, и как втрое уменьшить потребление им памяти | https://habrahabr.ru/post/314062/
+
+Советские «Эльбрусы» — обзор архитектуры | https://habrahabr.ru/post/313376/
+
+Оптимизация кода: память | https://habrahabr.ru/post/312078/
+
+Создание языка программирования. Часть 0 | https://habrahabr.ru/post/311604/
+
+Трамплин вызова магических функций в PHP 7 | https://habrahabr.ru/company/mailru/blog/311068/
+
+«Операционные системы: зачем они инженеру» | https://habrahabr.ru/post/310122/
+
+Обзор расширения OPCache для PHP | https://habrahabr.ru/company/mailru/blog/310054/
+
+История языков программирования: как Fortran позволил пользователям общаться с ЭВМ на «ты» | https://habrahabr.ru/post/309914/
+
+Оптимизация кода: процессор | https://habrahabr.ru/post/309796/
+
+«Как я провёл это лето»: видео с летних встреч JUG.ru | https://habrahabr.ru/company/jugru/blog/309554/
+
+[СПб, Анонс] Встреча CodeFreeze с разработчиком PHP Дмитрием Стоговым про внутреннее устройство виртуальной машины PHP | https://habrahabr.ru/company/jugru/blog/309098/
+
+64-битная арифметика в браузере и WebAssembly | https://habrahabr.ru/post/308874/
+
+Когда «О» большое подводит | https://habrahabr.ru/post/308818/
+
+Оптимизация сравнения this с нулевым указателем в gcc 6.1 | https://habrahabr.ru/company/abbyy/blog/308346/
+
+Массивы в РНР 7: хэш-таблицы | https://habrahabr.ru/company/mailru/blog/308240/
+
+Не так-то просто обнулять массивы в VC++ 2015 | https://habrahabr.ru/company/abbyy/blog/307920/
+
+Компилятор LLVM для MultiClet: бенчмарк WhetStone | https://habrahabr.ru/post/307512/
+
+Const и оптимизации в C | https://habrahabr.ru/post/307266/
+
+Борьба с загадочными падениями MSBuild на XamlTaskFactory | https://habrahabr.ru/post/307104/
+
+Чем меньше, тем лучше — о возможностях языков программирования | https://habrahabr.ru/company/infopulse/blog/306604/
+
+Троллейбус из буханки или alias analysis в LLVM | https://habrahabr.ru/post/306294/
+
+Инкремент в PHP | https://habrahabr.ru/company/mailru/blog/305906/
+
+C--. Первое знакомство | https://habrahabr.ru/company/kolibrios/blog/303582/
+
+JIT-компилятор оптимизирует не круто, а очень круто | https://habrahabr.ru/post/305894/
+
+Последние новости о развитии C++ | https://habrahabr.ru/company/yandex/blog/304510/
+
+Введение в компиляторы, интерпретаторы и JIT’ы | https://habrahabr.ru/company/mailru/blog/304748/
+
+Генератор музыки на базе кодогенератора | https://habrahabr.ru/post/304496/
+
+История языков программирования: 100% «чистый» Си, без единого «плюса» | https://habrahabr.ru/post/304034/
+
+Чем полезен мономорфизм? | https://habrahabr.ru/post/303542/
+
+Не Паскалем единым: что сделал для современного мира лауреат компьютерной «нобелевки» Никлаус Вирт | https://habrahabr.ru/post/303380/
+
+Занимательный C# | https://habrahabr.ru/company/pvs-studio/blog/303340/
+
+Компилятор С/С++ на базе LLVM для мультиклеточных процессоров: быть или не быть? | https://habrahabr.ru/post/302776/
+
+Почему мы пишем и храним код в текстовых файлах? | https://habrahabr.ru/company/infopulse/blog/302146/
+
+Язык шаблонов для универсального сигнатурного анализатора кода | https://habrahabr.ru/company/pt/blog/300946/
+
+Обработка древовидных структур и унифицированное AST | https://habrahabr.ru/company/pt/blog/210060/
+
+Персистентная ОС: ничто не блокируется | https://habrahabr.ru/post/282263/
+
+Суперскалярный стековый процессор: оптимизация | https://habrahabr.ru/post/281352/
+
+Сборка мусора в персистентной модели: от терабайта и дальше | https://habrahabr.ru/post/281236/
+
+Облачное коммерческое объектно-ориентированное бизнес-приложение для платного туалета или мысли об архитектуре | https://habrahabr.ru/post/281158/
+
+Особенности и отличия языка программирования MSH от MUMPS | https://habrahabr.ru/post/280938/
+
+Суперскалярный стековый процессор: подробности | https://habrahabr.ru/post/280087/
+
+Правила работы с Tasks API. Часть 1 | https://habrahabr.ru/post/280234/
+
+Суперскалярный стековый процессор: продолжаем скрещивать ужа и ежа | https://habrahabr.ru/post/279123/
+
+1.5 Компиляция SFML с помощью CMake | https://habrahabr.ru/post/279279/
+
+1.2 SFML и Code::Blocks (MinGW) | https://habrahabr.ru/post/279069/
+
+Суперскалярный стековый процессор: скрещиваем ужа и ежа | https://habrahabr.ru/post/278575/
+
+Теория и практика парсинга исходников с помощью ANTLR и Roslyn | https://habrahabr.ru/company/pt/blog/210772/
+
+Грэйс «бабуля COBOL» Хоппер | https://habrahabr.ru/company/edison/blog/278399/
+
+Стек стеком погоняет, или преобразование байткода виртуальной машины Java в байткод машины Фантом ОС | https://habrahabr.ru/post/278245/
+
+LLVM: компилятор своими руками. Введение | https://habrahabr.ru/post/277717/
+
+Как непродуманные предупреждения компиляторов помогают портить совершенно правильный код | https://habrahabr.ru/company/abbyy/blog/277261/
+
+Знакомьтесь: Jack и Jill на платформе x86 | https://habrahabr.ru/company/intel/blog/276881/
+
+Rust и парадокс Блаба | https://habrahabr.ru/post/275801/
+
+Rust в 2016 году | https://habrahabr.ru/post/274757/
+
+Как я написал компилятор C за 40 дней | https://habrahabr.ru/post/274083/
+
+Итоги 2015-го года для C++ | https://habrahabr.ru/company/infopulse/blog/274549/
+
+Фреймворк для процедурных макросов в Rust | https://habrahabr.ru/post/274225/
+
+Компилируем С\С++ код в WebAssembly | https://habrahabr.ru/company/infopulse/blog/273957/
+
+Intel® Tamper Protection Toolkit — обфусцирующий компилятор и средства проверки целостности кода | https://habrahabr.ru/company/intel/blog/273183/
+
+Разработка языков программирования и компиляторов в СССР | https://habrahabr.ru/company/ua-hosting/blog/273665/
+
+Разработка парсера, кодогенератора и редактора SQL с помощью EMFText | https://habrahabr.ru/company/cit/blog/271945/
+
+Как устроены дыры в безопасности: переполнение буфера | https://habrahabr.ru/post/266591/
+
+Почему наши высокоуровневые языки до сих пор не такие уж и высокоуровневые? | https://habrahabr.ru/post/272229/
+
+Знакомьтесь, loop fracking | https://habrahabr.ru/post/271905/
+
+Легковесный конструктор парсеров с интерактивным режимом | https://habrahabr.ru/post/271969/
+
+Конец эпохи динамических языков | https://habrahabr.ru/company/infopulse/blog/271705/
+
+Полвека «универсальным машинным языкам» (1966—2016): прошлое, настоящее, будущее | https://habrahabr.ru/post/270379/
+
+Введение в разработку предметно-ориентированных языков (DSL) с помощью EMFText | https://habrahabr.ru/company/cit/blog/270483/
+
+Пишем простую виртуальную машину на Python | https://habrahabr.ru/post/270797/
+
+Дизайн и эволюция языка С++: выдержки | https://habrahabr.ru/post/270445/
+
+Статический анализ printf-like функций в Си при помощи libclang | https://habrahabr.ru/post/270743/
+
+К тридцатилетию первого C++ компилятора: ищем ошибки в Cfront | https://habrahabr.ru/company/pvs-studio/blog/270191/
+
+Анализ AST c помощью паттернов | https://habrahabr.ru/post/270173/
+
+30 лет С++ | https://habrahabr.ru/post/270083/
+
+Автоматическая генерация программного кода микроконтроллера на основе событийно-ориентированной модели | https://habrahabr.ru/post/269897/
+
+Интервью с Одри Тан, часть 1 | https://habrahabr.ru/company/regru/blog/268911/
+
+Microsoft добавит поддержку компилятора Clang в ноябрьском обновлении Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/269313/
+
+JCoro — асинхронность на сопрограммах в Java | https://habrahabr.ru/post/269021/
+
+Async/await и механизм реализации в C# 5.0 | https://habrahabr.ru/post/260217/
+
+А ваш язык программирования необоснованный? (или почему предсказуемость важна) | https://habrahabr.ru/post/268559/
+
+По следам C++ Siberia: дракон в мешке | https://habrahabr.ru/post/267239/
+
+Приемы использования масочных регистров в AVX512 коде | https://habrahabr.ru/company/intel/blog/266055/
+
+Нет ничего проще, чем вызвать функцию, я сам это делал неоднократно | https://habrahabr.ru/post/267771/
+
+Поддержка C++ модулей в Visual Studio 2015 Update 1 | https://habrahabr.ru/company/infopulse/blog/267781/
+
+«Фортран – живее всех живых» или «Что нового у дедушки ifort» | https://habrahabr.ru/company/intel/blog/266079/
+
+Самая устаревшая инфраструктура, которую только можно купить за деньги | https://habrahabr.ru/company/infopulse/blog/266775/
+
+LLVM для исследователей | https://habrahabr.ru/company/abbyy/blog/265871/
+
+Intel Parallel Studio XE 2016: новые возможности компилятора C/C++ | https://habrahabr.ru/company/intel/blog/265565/
+
+Оптимизация циклов: нужны блоки | https://habrahabr.ru/company/intel/blog/265095/
+
+Существует ли отечественный процессор Мультиклет? | https://habrahabr.ru/company/embox/blog/265059/
+
+Когда размер имеет значение | https://habrahabr.ru/company/intel/blog/264795/
+
+Программирование ARM на Pascal | https://habrahabr.ru/post/264441/
+
+Сделаем GCC C++ для AVR и Arduino лучше? | https://habrahabr.ru/company/amperka/blog/264041/
+
+«Ра-а-авняйсь, смирно!». Выравниваем данные | https://habrahabr.ru/company/intel/blog/262933/
+
+Новое предупреждение о неверном вычислении размера массива в gcc 5.1 | https://habrahabr.ru/company/abbyy/blog/263609/
+
+Прокачиваем JavaScript с помощью TurboFan | https://habrahabr.ru/company/google/blog/261951/
+
+Сказ о том, как «цифирь» не сошлась | https://habrahabr.ru/company/intel/blog/261681/
+
+Хвостовая рекурсия в C++ с использованием 64-битных переменных — Часть 2 | https://habrahabr.ru/company/pvs-studio/blog/261029/
+
+Хвостовая рекурсия в C++ с использованием 64-битных переменных — Часть 1 | https://habrahabr.ru/company/pvs-studio/blog/261027/
+
+Многомерное дерево Mtree | https://habrahabr.ru/post/259855/
+
+Jancy — скриптовый язык для системных/сетевых программистов | https://habrahabr.ru/company/tibbo/blog/258427/
+
+Оберон умер, да здравствует Оберон! Часть 1. Некоторые любят поактивней | https://habrahabr.ru/post/258917/
+
+Метапрограммирование: какое оно есть и каким должно быть | https://habrahabr.ru/post/258667/
+
+Циклические контейнеры в Objective-C | https://habrahabr.ru/post/258249/
+
+Изменения в Visual C++ | https://habrahabr.ru/post/257509/
+
+Оптимизируем шаг за шагом с компилятором Intel C++ | https://habrahabr.ru/company/intel/blog/256251/
+
+Новый инструмент анализа SIMD программ — Vectorization Advisor | https://habrahabr.ru/company/intel/blog/255731/
+
+Разбор естественного языка: под капотом | https://habrahabr.ru/post/255711/
+
+LLILC — транслятор MSIL в байткод LLVM от Microsoft | https://habrahabr.ru/post/255695/
+
+Разбор естественного языка: грамматическая нотация | https://habrahabr.ru/post/255073/
+
+Генерация кода во время исполнения или «Пишем свой JIT-компилятор» | https://habrahabr.ru/post/254831/
+
+«Нежданчики» языка Фортран | https://habrahabr.ru/company/intel/blog/254235/
+
+Большое обзорное тестирование языков программирования | https://habrahabr.ru/post/254121/
+
+И ещё раз про уникальные константы | https://habrahabr.ru/post/254077/
+
+Deconvolutional Neural Network | https://habrahabr.ru/company/nordavind/blog/253859/
+
+Intel® Graphics Technology. Часть III: эффективные вычисления на графике | https://habrahabr.ru/company/intel/blog/253425/
+
+Использование расширенных возможностей компилятора Intel® C++ для приложений Android | https://habrahabr.ru/company/intel/blog/253270/
+
+Низкоуровневое программирование в машинных кодах для DOS | https://habrahabr.ru/post/253325/
+
+Вычислите длину окружности | https://habrahabr.ru/company/abbyy/blog/252871/
+
+Age of JIT compiling. Part II. CLR is watching you | https://habrahabr.ru/post/253105/
+
+Создание пакетов APK x86 и ARM APK с помощью компилятора Intel® и GNU gcc | https://habrahabr.ru/company/intel/blog/252883/
+
+(Без)опасный copy elision | https://habrahabr.ru/post/252885/
+
+Intel® Graphics Technology. Часть II: «выгружаем» вычисления на графику | https://habrahabr.ru/company/intel/blog/250545/
+
+JIT-компилятор как учебный проект в Академическом Университете | https://habrahabr.ru/company/spbau/blog/250841/
+
+Intel® Graphics Technology. Часть I: почти Gran Turismo | https://habrahabr.ru/company/intel/blog/249743/
+
+Что каждый программист должен знать про оптимизации компилятора | https://habrahabr.ru/company/enterra/blog/250199/
+
+Ужасный баг в Portland Group C++ компиляторе | https://habrahabr.ru/post/249817/
+
+Городские легенды о медленных вызовах виртуальных функций | https://habrahabr.ru/company/abbyy/blog/248429/
+
+Pointer Checker: проверим наши указатели | https://habrahabr.ru/company/intel/blog/248099/
+
+Новые оптимизации для х86 в GCC 5.0: PIC в 32-битном режиме | https://habrahabr.ru/company/intel/blog/246913/
+
+.NET/Mono в Java? Легко! | https://habrahabr.ru/post/245449/
+
+Векторизация циклов: диагностика и контроль | https://habrahabr.ru/post/244505/
+
+Pattern matching с помощью макросов | https://habrahabr.ru/post/242201/
+
+Наследование комбинаторных парсеров на Julia | https://habrahabr.ru/post/241632/
+
+Вышла книга «Getting Started with LLVM Core Libraries» | https://habrahabr.ru/post/241577/
+
+От MUMPS к MSH | https://habrahabr.ru/post/241369/
+
+Критерий выгодности подстановки и динамическая профилировка | https://habrahabr.ru/company/intel/blog/240203/
+
+TeaVM — ещё один способ запускать Java в браузере | https://habrahabr.ru/post/240999/
+
+Ещё раз о неопределённом поведении или «почему не стоит забивать гвозди бензопилой» | https://habrahabr.ru/post/230777/
+
+Новые оптимизации с использованием неопределенного поведения в gcc 4.9.0 | https://habrahabr.ru/company/abbyy/blog/234033/
+
+Проверка PVS-Studio с помощью Clang | https://habrahabr.ru/company/pvs-studio/blog/232753/
+
+Линус Торвальдс: GCC 4.9.0 «неизлечимо сломан» | https://habrahabr.ru/post/231243/
+
+Неопределённое поведение и теорема Ферма | https://habrahabr.ru/post/229963/
+
+JBrainfuck — Пишем компилятор Brainfuck под Java VM | https://habrahabr.ru/post/229267/
+
+О плюсах и минусах Go | https://habrahabr.ru/post/229169/
+
+Наследование грамматик в Sprache (или еще один настраиваемый калькулятор выражений для .NET) | https://habrahabr.ru/post/228037/
+
+GOTO BASIC | https://habrahabr.ru/post/227711/
+
+Конфигурация Intel® License Manager | https://habrahabr.ru/company/intel/blog/222961/
+
+Intel® Composer XE 2015 Beta: отчётность в порядке! | https://habrahabr.ru/company/intel/blog/222769/
+
+Как ускорить программу на Go | https://habrahabr.ru/post/222957/
+
+50 лет Бейсику! | https://habrahabr.ru/post/221617/
+
+Демо: Инкрементальный парсер для Web IDE | https://habrahabr.ru/post/221213/
+
+Вышли компиляторы GCC 4.9.0 с множеством новых «фишек» | https://habrahabr.ru/post/220459/
+
+Microsoft раскрыла исходный код компилятора С# | https://habrahabr.ru/post/218187/
+
+JPHP — Как он работает. История создания | https://habrahabr.ru/post/218021/
+
+JPHP — Новый движок php для Java VM + JIT | https://habrahabr.ru/post/216651/
+
+Создание и использование плагина для Clang в Xcode | https://habrahabr.ru/post/214275/
+
+Языки программирования. Куда идем товарищи. Еще один малоизвестный но очень мощный язык | https://habrahabr.ru/post/213469/
+
+Математические выражения в .NET (разбор, дифференцирование, упрощение, дроби, компиляция) | https://habrahabr.ru/post/150043/
+
+Sweet.js: Синтаксические расширения для JavaScript | https://habrahabr.ru/post/210454/
+
+Что же там такого тяжелого в обработке исключений C++? | https://habrahabr.ru/post/208006/
+
+Компилируем змейку в браузере | https://habrahabr.ru/post/207846/
+
+Ждали, ждали и дождались! OpenMP 4.0 | https://habrahabr.ru/company/intel/blog/204668/
+
+«Lisp in Small Pieces» на русском | https://habrahabr.ru/post/204442/
+
+Внутреннее устройство llst, часть 3. Магия JIT, или как ускорить виртуальную машину в 50 раз | https://habrahabr.ru/post/197474/
+
+Внутреннее устройство llst, часть 2 или Little Smalltalk + LLVM = ♥ | https://habrahabr.ru/post/191250/
+
+Папа Карло и инкрементальные компиляторы | https://habrahabr.ru/post/201774/
+
+Способы борьбы с закладками в компиляторах | https://habrahabr.ru/post/201782/
+
+Создаем ELF-файл с отладочной информацией (DWARF) вручную (для микроконтроллеров ARM) | https://habrahabr.ru/post/199490/
+
+Межпроцедурный анализ и оптимизации (I) | https://habrahabr.ru/company/intel/blog/199112/
+
+Harbour — новое лицо xBase family | https://habrahabr.ru/post/198618/
+
+Компилятор Intel C++ v13.0 для Android — спешите получить бесплатно | https://habrahabr.ru/company/intel/blog/194246/
+
+Новости о LLVM для Windows | https://habrahabr.ru/post/192838/
+
+OpenMP теперь доступен в Clang! | https://habrahabr.ru/company/intel/blog/191912/
+
+Компилятор языка программирования MiniJava | https://habrahabr.ru/post/191766/
+
+«Зачем обновлять GCC компилятор?» или «Производительность GCC компилятора на Intel Atom от версии к версии» | https://habrahabr.ru/company/intel/blog/188386/
+
+Ленточный конвейер для линейных данных | https://habrahabr.ru/post/183998/
+
+Исключение для библиотек времени исполнения GCC или почему в Clang до сих пор отсутствует поддержка OpenMP | https://habrahabr.ru/post/184096/
+
+Официальный релиз LLVM 3.3 | https://habrahabr.ru/post/183774/
+
+Простой сайт на D | https://habrahabr.ru/post/181548/
+
+Как я боролся с Sublime Text 2 | https://habrahabr.ru/post/180857/
+
+Первый компилятор C от Денниса Ритчи — на Github | https://habrahabr.ru/post/180523/
+
+MXML компилятор. Часть 3. Разбираемся в работе Flex-компилятора | https://habrahabr.ru/post/180139/
+
+Angry Birds на PLC? | https://habrahabr.ru/company/intel/blog/177153/
+
+Обнаружены ошибки в библиотеках C++Builder | https://habrahabr.ru/company/pvs-studio/blog/179615/
+
+GCC 4.8 завершил миграцию на C++ | https://habrahabr.ru/post/174017/
+
+Некоторые простейшие принципы автовекторизации | https://habrahabr.ru/company/intel/blog/171439/
+
+Принципы быстрого Хаскеля под GHC | https://habrahabr.ru/post/171425/
+
+О компиляторах и интерпретаторах | https://habrahabr.ru/post/170735/
+
+GCC x86, как уменьшить размер кода | https://habrahabr.ru/company/intel/blog/167417/
+
+Quipu — эзотерический язык программирования на основе узелковой письменности Инков | https://habrahabr.ru/post/165661/
+
+Презумпция виновности программиста или почему компилятор иногда «тупит» | https://habrahabr.ru/company/intel/blog/162831/
+
+Балансируя между точностью и производительностью | https://habrahabr.ru/company/intel/blog/160747/
+
+Разбиение цикла как пример высокоуровневой оптимизации | https://habrahabr.ru/company/intel/blog/161155/
+
+Оптимальные опции для x86 GCC | https://habrahabr.ru/company/intel/blog/158939/
+
+Основные проблемы влияющие на производительность вычислительного ядра и приложения и методы их решения компилятором | https://habrahabr.ru/company/intel/blog/158759/
+
+Существует ли простая оценка качества оптимизации приложения? | https://habrahabr.ru/company/intel/blog/157671/
+
+Язык программирования o42a | https://habrahabr.ru/post/157329/
+
+Самая короткая запись асинхронных вызовов в tornado v2, или патчим AST | https://habrahabr.ru/post/153949/
+
+Как я подружил Unity3D и F# | https://habrahabr.ru/post/151009/
+
+Как правильно скопировать массив и при чем тут SFINAE | https://habrahabr.ru/post/150654/
+
+Во всём виноват компилятор | https://habrahabr.ru/post/150970/
+
+Компиляция пакетов | https://habrahabr.ru/post/150210/
+
+Запускаем Java-программы на GPU | https://habrahabr.ru/post/149552/
+
+Используем быстрое возведение матриц в степень для написания очень быстрого интерпретатора простого языка программирования | https://habrahabr.ru/post/148901/
+
+Clang API. Начало | https://habrahabr.ru/post/148508/
+
+Язык программирования Gentee | https://habrahabr.ru/post/145813/
+
+Состоялся релиз LLVM 3.1 | https://habrahabr.ru/post/144408/
+
+Создание конечного автомата для разбора HTTP запроса | https://habrahabr.ru/post/141743/
+
+Релиз GCC-4.7 | https://habrahabr.ru/post/140557/
+
+Особенности написания и возможные фичи LR-генераторов | https://habrahabr.ru/post/140441/
+
+Написание компилятора LALR(1)-парсеров. Описание LR-генераторов | https://habrahabr.ru/post/140339/
+
+Извлекаем мета-информацию из Си/C++ кода при помощи (py)gccxml | https://habrahabr.ru/post/138906/
+
+Разработка парсера PHP средствами ANTLR | https://habrahabr.ru/post/140179/
+
+Написание компилятора LALR(1)-парсеров. Базовая теория | https://habrahabr.ru/post/140058/
+
+Несколько проблем при создании собственного языка программирования | https://habrahabr.ru/post/140050/
+
+Работа с генератором трансляторов coco/r | https://habrahabr.ru/post/139972/
+
+Транслятор из Delphi в javascript | https://habrahabr.ru/post/137336/
+
+Разрабатываем компилятор для учебного языка Cool на языке C# под .NET (Часть 2 + Бонусы) | https://habrahabr.ru/post/136714/
+
+Разрабатываем компилятор для учебного языка Cool на языке C# под .NET (Часть 1) | https://habrahabr.ru/post/136528/
+
+LLVM 3.0 Release | https://habrahabr.ru/post/133939/
+
+Пишем примитивный и никому не нужный компилятор | https://habrahabr.ru/post/133780/
+
+Основы конструирования компиляторов. Лексический анализ на C# | https://habrahabr.ru/post/132422/
+
+GAZ Compiler — замена стандартным BAT-файлам в операционной системе Windows | https://habrahabr.ru/post/132034/
+
+Чек-лист разработчика языка программирования | https://habrahabr.ru/post/130362/
+
+Замыкания и объекты JavaScript. Переизобретаем интерпретатор | https://habrahabr.ru/post/125306/
+
+Оптимизации в компиляторах. Часть 1 | https://habrahabr.ru/post/124131/
+
+Создание языка программирования с использованием LLVM. Часть 5: Расширение языка: Поток управления | https://habrahabr.ru/post/120881/
+
+Создание языка программирования с использованием LLVM. Часть 4: Добавление JIT и поддержки оптимизатора | https://habrahabr.ru/post/120516/
+
+Создание языка программирования с использованием LLVM. Часть 3: Генерация кода LLVM IR | https://habrahabr.ru/post/120424/
+
+Создание языка программирования с использованием LLVM. Часть 2: Реализация парсера и AST | https://habrahabr.ru/post/120005/
+
+Создание языка программирования с использованием LLVM. Часть 1: Введение и лексический анализ | https://habrahabr.ru/post/119850/
+
+Поприветствуем GCC 4.6 | https://habrahabr.ru/post/116316/
+
+Интерпретатор из подворотен | https://habrahabr.ru/post/116301/
+

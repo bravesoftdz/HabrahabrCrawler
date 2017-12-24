@@ -1,0 +1,140 @@
+Emacs + удобный менеджер окон и буферов | https://habrahabr.ru/post/333640/
+
+Альтернатива Emacs Lisp'у | https://habrahabr.ru/post/331134/
+
+Как делать больше, уставая меньше. Emacs pomidor | https://habrahabr.ru/post/323576/
+
+Файловая система, дешево и быстро | https://habrahabr.ru/post/315654/
+
+Текстовые редакторы vs IDE | https://habrahabr.ru/post/306048/
+
+Emacs как редактор кода для Python и Golang | https://habrahabr.ru/post/303600/
+
+El-get, ELPA, MELPA и автоустановка пакетов | https://habrahabr.ru/post/282542/
+
+Макросы в Emacs'е: формируем отряды для обработки | https://habrahabr.ru/post/281499/
+
+Мне 19 и я использую Emacs | https://habrahabr.ru/post/280946/
+
+Emacs таинственный: Путешествие в калькулятор | https://habrahabr.ru/post/279853/
+
+Хорошо настроенный Emacs | https://habrahabr.ru/post/274759/
+
+Покорение Emacs-режимов: руководство для самоделкина | https://habrahabr.ru/post/268709/
+
+ECFG: сажаем ~/.emacs на диету | https://habrahabr.ru/post/268271/
+
+Emacs: дрессируем курсор (продолжение) | https://habrahabr.ru/post/266073/
+
+Навигация в крупных проектах для Vim и Emacs | https://habrahabr.ru/post/265635/
+
+Emacs: дрессируем курсор | https://habrahabr.ru/post/265531/
+
+Редактор или IDE? Очередная попытка анализа | https://habrahabr.ru/post/265197/
+
+Common Lisp IDE | https://habrahabr.ru/post/259737/
+
+Luwrain — рабочее окружение для людей с нарушениями зрения | https://habrahabr.ru/post/258413/
+
+ErgoEmacs — a way to Lisp | https://habrahabr.ru/post/248957/
+
+GNU Emacs. Статья, которую я так и не нашел… | https://habrahabr.ru/post/248663/
+
+Как я полюбил vim, Emacs и клавиатуру | https://habrahabr.ru/post/247789/
+
+Зачем vi-топор программисту 21-го века | https://habrahabr.ru/post/247487/
+
+Вышел Emacs 24.4 с браузером | https://habrahabr.ru/post/241063/
+
+Таблицы — Emacs и org-mode | https://habrahabr.ru/post/237619/
+
+Emacs и Hunspell: нормальная проверка правописания | https://habrahabr.ru/post/215055/
+
+Emacs как IDE для Python | https://habrahabr.ru/post/188376/
+
+Jedi — библиотека автодополнения для Python | https://habrahabr.ru/post/192610/
+
+Работаем с почтой через Emacs и Wanderlust: несколько аккаунтов | https://habrahabr.ru/post/192460/
+
+Почему Emacs? | https://habrahabr.ru/post/190790/
+
+Работаем с почтой через Emacs и Wanderlust | https://habrahabr.ru/post/190648/
+
+Нормальная поддержка PHP в Ctags | https://habrahabr.ru/post/182252/
+
+Улучшаем emacs-jabber | https://habrahabr.ru/post/164573/
+
+Emacs и правильная работа с чужим кодом: отступы | https://habrahabr.ru/post/151653/
+
+Выпущен Emacs 24.1 | https://habrahabr.ru/post/145610/
+
+Небольшой лайфхак с редактированием буфера обмена | https://habrahabr.ru/post/136849/
+
+Собираем GNU Emacs для Ubuntu | https://habrahabr.ru/post/134951/
+
+Настройка SBCL и среды разработки SLIME под Windows. Пошаговое руководство | https://habrahabr.ru/post/131418/
+
+Клавиши Emacs в любом приложении Windows | https://habrahabr.ru/post/129983/
+
+Управление пакетами в Emacs | https://habrahabr.ru/post/126228/
+
+Безопасное хранение паролей | https://habrahabr.ru/post/125222/
+
+Анонс видеокурса по Emacs | https://habrahabr.ru/post/116700/
+
+Введение в org-mode emacs | https://habrahabr.ru/post/105300/
+
+Разработка web-приложений на языке Common Lisp (часть вторая) | https://habrahabr.ru/post/105215/
+
+Emacs На Практике | https://habrahabr.ru/post/102082/
+
+Emacs как файл менеджер | https://habrahabr.ru/post/99762/
+
+7 основных приемов навигации в Emacs | https://habrahabr.ru/post/99237/
+
+Emacs Starter Kit | https://habrahabr.ru/post/94256/
+
+Вышел GNU/Emacs 23.2 | https://habrahabr.ru/post/93176/
+
+10+ удобных онлайн-редакторов для программистов | https://habrahabr.ru/post/84863/
+
+Допиливание Emacs для нетбуков | https://habrahabr.ru/post/83403/
+
+Открой двери Emacs в окнах, или как собрать приемлемый .emacs под Windows | https://habrahabr.ru/post/83291/
+
+juick-el — juick клиент в Emacs | https://habrahabr.ru/post/77798/
+
+Python и emacs, несколько удобных решений | https://habrahabr.ru/post/76370/
+
+Расширяем Emacs своими руками | https://habrahabr.ru/post/73872/
+
+Подсветка синтаксиса | https://habrahabr.ru/post/68756/
+
+Учет затраченного времени с Emacs и org-mode | https://habrahabr.ru/post/63424/
+
+Emacs для начинающих: Подготовка статей для Хабра в Emacs | https://habrahabr.ru/post/60215/
+
+Emacs для начинающих: elisp | https://habrahabr.ru/post/61992/
+
+Emacs для начинающих: управление окнами, dedicated-mode | https://habrahabr.ru/post/60906/
+
+Список литературы | https://habrahabr.ru/post/55711/
+
+Открываем файлы во внешних приложениях | https://habrahabr.ru/post/47524/
+
+Emacs и Python, Python и Emacs | https://habrahabr.ru/post/46350/
+
+Emacs. Полезности и трюки | https://habrahabr.ru/post/39564/
+
+jabber.el или джаббер-клиента емакса | https://habrahabr.ru/post/28943/
+
+Организация информации — Emacs Org Mode | https://habrahabr.ru/post/28098/
+
+Как однажды Emacs из Octave в Latex формулы таскал | https://habrahabr.ru/post/27545/
+
+Emacs для web-разработчика | https://habrahabr.ru/post/25854/
+
+Emacs по–русски | https://habrahabr.ru/post/24441/
+
+Emacs и vi | https://habrahabr.ru/post/2951/
+

@@ -1,0 +1,742 @@
+Утренний дозор, или вступайте в радио-робингуды | https://habrahabr.ru/post/344860/
+
+РусГИС — платформа для сложных задачек с аналитикой и геоданными | https://habrahabr.ru/company/rostelecom/blog/343580/
+
+Направленный Bluetooth-маяк (iBeacon) и полный мобильный факап | https://habrahabr.ru/post/343136/
+
+Совет по открытым данным: Рабочая группа по связанным данным, Открытость ПФР и Рослесхоза | https://habrahabr.ru/company/infoculture/blog/341638/
+
+Как мы делаем карту для тех, кто делает карту | https://habrahabr.ru/company/2gis/blog/341508/
+
+Как вычислить (город пользователя) по IP | https://habrahabr.ru/company/hflabs/blog/340466/
+
+Кривая Гильберта vs Z-order | https://habrahabr.ru/post/340100/
+
+Leaflet 1.x.x vs Openlayers 4.x.x. Часть 2. Как рисуются карты | https://habrahabr.ru/post/334676/
+
+Как найти лучшие авиабилеты в интерфейсе гугл-таблицы | https://habrahabr.ru/post/339166/
+
+Визуализация результатов выборов в Москве на карте в Jupyter Notebook | https://habrahabr.ru/company/ods/blog/338554/
+
+Проекции? Hет, спасибо | https://habrahabr.ru/post/338088/
+
+Расследование утечек информации из корпоративной базы данных перевозчика | https://habrahabr.ru/company/pm/blog/337804/
+
+Охота на кремлевского демона | https://habrahabr.ru/post/337608/
+
+Wi-Fi или iBeacon? Или хорошо, когда возможности технологии совпадают с желаемым результатом | https://habrahabr.ru/company/cisco/blog/337130/
+
+Как создавалась карта с голосами болельщиков для Олимпиады. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/335982/
+
+Двойное затмение! Или почему Карбондейл, штат Иллинойс, является особенным | https://habrahabr.ru/company/wolfram/blog/335936/
+
+Готовьтесь к полному солнечному затмению 2017 года | https://habrahabr.ru/company/wolfram/blog/335934/
+
+Стоимость недвижимости на тепловых картах | https://habrahabr.ru/post/335638/
+
+Охота на рыжего демона или пеленгатор помех спутниковой навигации | https://habrahabr.ru/post/332746/
+
+Поиск лучшего места в мире для ветряка | https://habrahabr.ru/post/334804/
+
+Альтернативные планетарные данные для геоинформационных систем | https://habrahabr.ru/post/334642/
+
+Агрегация интернет-каналов через операторов сотовой связи | https://habrahabr.ru/company/mailru/blog/332950/
+
+Исследование устойчивости национальных сегментов сети | https://habrahabr.ru/company/qrator/blog/332844/
+
+Leaflet 1.x.x vs Openlayers 4.x.x. Часть 1. Исходный код | https://habrahabr.ru/post/331796/
+
+Использование MapXtreme .Net | https://habrahabr.ru/post/331590/
+
+Дизайн города, основанный на данных. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/331586/
+
+Совет по открытым данным: раскрытие транспортных данных | https://habrahabr.ru/company/infoculture/blog/330864/
+
+ГИС и распределенные вычисления | https://habrahabr.ru/company/technoserv/blog/330758/
+
+Демо доступ к IOT платформам | https://habrahabr.ru/company/euler2012/blog/329614/
+
+Геолокация в смартфоне — новый способ поиска свидетелей дорожных инцидентов | https://habrahabr.ru/post/328596/
+
+Не верьте навигатору: уязвимости GPS и ГЛОНАСС | https://habrahabr.ru/company/pt/blog/326786/
+
+Фильм «Скрытые фигуры»: задачи из фильма и современный подход к расчетам орбиты и возвращения на Землю | https://habrahabr.ru/company/wolfram/blog/326756/
+
+M* — алгоритм поиска кратчайшего пути, через весь мир, на смартфоне | https://habrahabr.ru/company/2gis/blog/326638/
+
+Как быстрее всего сфоткать 35 билбордов в Москве | https://habrahabr.ru/post/324864/
+
+R, GIS и fuzzyjoin: восстанавливаем статистические данные для регионов NUTS | https://habrahabr.ru/post/325564/
+
+Статистика по стоимости недвижимости — визуализация на карте | https://habrahabr.ru/post/324596/
+
+Совет по открытым данным: планы Рослесхоза и Роспатента и раскрытие картографических данных | https://habrahabr.ru/company/infoculture/blog/324554/
+
+Использование ArcGIS API for Python в Jupyter Notebook | https://habrahabr.ru/company/technoserv/blog/324124/
+
+Поиск горнолыжных трасс из космоса | https://habrahabr.ru/post/324120/
+
+Common Bird Census, или биоинформатика в орнитологии. Проект в хорошие руки | https://habrahabr.ru/post/324098/
+
+PUSH уведомления в браузерах и работа с треками объектов | https://habrahabr.ru/company/euler2012/blog/323372/
+
+Z-order vs R-tree, оптимизация и 3D | https://habrahabr.ru/post/323192/
+
+Все «радости» CallKit или как мы делали определитель номера на iOS 10 | https://habrahabr.ru/company/2gis/blog/323050/
+
+Зарубежные сервисы GPS мониторинга (часть 2) | https://habrahabr.ru/company/euler2012/blog/322658/
+
+Перевод концепции модели данных ESRI внутреннего пространства зданий (BISDM) | https://habrahabr.ru/post/322588/
+
+Определяем лучшее место для жизни в США при помощи собственного приложения на IBM Bluemix | https://habrahabr.ru/company/ibm/blog/322340/
+
+Отображение параметров IOT&GPS объектов на графиках | https://habrahabr.ru/company/euler2012/blog/322182/
+
+Опять февраль семнадцатого, готовим революционный наган для спутниковой навигации | https://habrahabr.ru/post/322098/
+
+Принимаем погодные снимки с NOAA — проще простого | https://habrahabr.ru/post/322064/
+
+Зарубежные сервисы GPS мониторинга | https://habrahabr.ru/company/euler2012/blog/321750/
+
+Бесплатные геоинформационные решения QGIS и NextGIS | https://habrahabr.ru/post/321710/
+
+Бесплатный IOT & GPS сервис VIALATM | https://habrahabr.ru/company/euler2012/blog/321298/
+
+OpenStreetMap, как получить координаты адреса, часть простая | https://habrahabr.ru/post/320562/
+
+Z-order vs R-tree, продолжение | https://habrahabr.ru/post/319810/
+
+Про Z-оrder и R-дерево | https://habrahabr.ru/post/319096/
+
+Как проектируют ненастоящие программисты | https://habrahabr.ru/post/318894/
+
+Пакет-географ: готов к работе | https://habrahabr.ru/post/318424/
+
+Мобильное приложение «Shared Track» | https://habrahabr.ru/company/euler2012/blog/316476/
+
+Фонд перспективных исследований: конкурс на лучшую интеллектуальную технологию дешифрирования аэрокосмической информации | https://habrahabr.ru/company/fpi_russia/blog/313828/
+
+Не откладывайте в почтовый ящик: b2c-мессенджер 2ГИС | https://habrahabr.ru/company/2gis/blog/312514/
+
+Хакатон по данным криминальной статистики | https://habrahabr.ru/company/infoculture/blog/312482/
+
+Виртуальный суперкомпьютер по требованию | https://habrahabr.ru/company/hpchub/blog/311394/
+
+Выявление проблем дорожной сети с помощью Яндекс.Пробок. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/309652/
+
+Навигатор 2ГИС: Экстраполяция позиции автомобиля | https://habrahabr.ru/company/2gis/blog/308500/
+
+Как улучшить почтовые адреса | https://habrahabr.ru/company/hflabs/blog/307410/
+
+Яндекс.Карты (а также Google Maps и др.), когда вы начнёте использовать mesh-сети? | https://habrahabr.ru/post/307074/
+
+ViaLatM — публикация треков в Facebook | https://habrahabr.ru/company/euler2012/blog/306078/
+
+API Яндекс.Панорам: как сделать свою виртуальную прогулку или просто довести человека от метро | https://habrahabr.ru/company/yandex/blog/305846/
+
+ViaLatM и функции социального назначения | https://habrahabr.ru/company/euler2012/blog/305712/
+
+Что такое ViaLatM? | https://habrahabr.ru/company/euler2012/blog/304698/
+
+Пакет-географ – первая рабочая версия | https://habrahabr.ru/post/304098/
+
+IoT и ViaLatM. Работа с объектами из сферы «Интернет Вещей» | https://habrahabr.ru/company/euler2012/blog/304436/
+
+Кино на карте — узнаём ближайшие киносеансы в ближайших кинотеатрах | https://habrahabr.ru/post/304268/
+
+Закрытый гештальт и много мяса на украинской картографической конференции | https://habrahabr.ru/company/mailru/blog/303928/
+
+Импортируем DXF чертеж в программе на Java, наступая на все грабли этого «простого» формата | https://habrahabr.ru/post/301484/
+
+О трехмерном Z-order замолвите слово | https://habrahabr.ru/company/2gis/blog/302606/
+
+Год с Runkeeper: Анализ и визуализация геоданных о ваших путешествиях | https://habrahabr.ru/company/wolfram/blog/302462/
+
+Как найти ближайшее кафе, достопримечательность, свободное такси глазами программиста | https://habrahabr.ru/post/301460/
+
+Разведка и инженерное дело: 3D-модели зданий, развязок и карьеров по фото | https://habrahabr.ru/company/croc/blog/301178/
+
+Алгоритм Метромарафона. Как аналитик Яндекса просчитал, что все станции можно посетить за один день | https://habrahabr.ru/company/yandex/blog/301030/
+
+Технология массового распространения информации Geotalk | https://habrahabr.ru/post/300840/
+
+Пакет-географ или библиотека, которая прекрасно знает географию и говорит на разных языках | https://habrahabr.ru/post/283136/
+
+Вебсервис для симуляции движения пешеходов и выявления проблем благоустройства | https://habrahabr.ru/post/282626/
+
+Интернет пчел, или Зеленое будущее M2M приложений | https://habrahabr.ru/company/gemaltorussia/blog/282786/
+
+Как понадеяться на МЧС и сгинуть в лесах Карелии — вредные советы от опытного туриста | https://habrahabr.ru/post/282145/
+
+Работа с геозонами (geofences) в Android. Обновление | https://habrahabr.ru/post/282129/
+
+Как скомпилировать Qgis с возможностью отладки под Windows | https://habrahabr.ru/post/281002/
+
+MapFont, Использование шрифтов со значками в картографических сервисах | https://habrahabr.ru/post/280536/
+
+Шаг за шагом: Трансляция данных на flightradar24 | https://habrahabr.ru/post/280454/
+
+«Спутник/Карты» в новом стиле | https://habrahabr.ru/company/rostelecom/blog/280159/
+
+Уличная грязь и симуляция движения пешеходов | https://habrahabr.ru/post/257563/
+
+1 000 000 жилых домов России | https://habrahabr.ru/post/279833/
+
+Как закончить Театральный институт и стать руководителем в Yandex – лекция Григория Бакунова в Университете Иннополис | https://habrahabr.ru/company/innopolis_university/blog/277911/
+
+Ariadna. Зачем нужен еще один геокодер для ОСМ? | https://habrahabr.ru/post/277043/
+
+Новый 2ГИС для Android — начинаем публичное тестирование | https://habrahabr.ru/company/2gis/blog/276837/
+
+Борьба с геолокационными сервисами | https://habrahabr.ru/company/e-Legion/blog/275579/
+
+Дозиметр в интернете вещей: составляем карту радиоактивных зон для себя и всего мира | https://habrahabr.ru/company/promwad/blog/276467/
+
+Рекламные сети 3.0: как разработчику перестать раздражать пользователей и при этом заработать больше | https://habrahabr.ru/post/276119/
+
+Миссия невыполнима: геолокация на Android без сжирания батарейки | https://habrahabr.ru/post/275749/
+
+Тематическая картография: одномерные карты | https://habrahabr.ru/post/274937/
+
+Маршруты на картах Google в Android-приложении — некоторые уточнения | https://habrahabr.ru/post/275019/
+
+Яндекс.Метеум – новая разработка или маркетинговый ход? | https://habrahabr.ru/post/274641/
+
+Подсветка интерактивных карт с помощью jquery.maphilight.js | https://habrahabr.ru/post/274145/
+
+Яндекс анонсирует собственную технологию прогнозирования погоды Метеум. С точностью до дома | https://habrahabr.ru/company/yandex/blog/271725/
+
+Забытый на Марсе: исследуем путешествия Марка Уотни из фильма Марсианин | https://habrahabr.ru/company/wolfram/blog/271469/
+
+Сравнение баз MaxMind и Sypex | https://habrahabr.ru/post/269027/
+
+Тематическая картография: общие вопросы | https://habrahabr.ru/post/268877/
+
+Скажи мне, где ты, и я скажу тебе, где ты | https://habrahabr.ru/post/268643/
+
+UX в мессенджерах: 2005 – 2015. Часть II. Годы 2008-2015 | https://habrahabr.ru/company/mdk/blog/268637/
+
+Моя первая карта на Leaflet.js | https://habrahabr.ru/post/268647/
+
+UX в мессенджерах: 2005 – 2015. Часть I. Предыстория. Годы 2005-2007 | https://habrahabr.ru/company/mdk/blog/268551/
+
+Об особенностях технологии геолокации в MDK | https://habrahabr.ru/company/mdk/blog/267831/
+
+Дизайн карты: как и почему | https://habrahabr.ru/post/267725/
+
+Платформа МDK выходит на российский рынок | https://habrahabr.ru/company/mdk/blog/267621/
+
+Секреты алгоритма ценообразования Airbnb | https://habrahabr.ru/company/airbnb/blog/267127/
+
+Рисуем на тайлах электронной карты в MSSQL | https://habrahabr.ru/post/266363/
+
+Как я писал карту дождей | https://habrahabr.ru/post/266453/
+
+Как создавать интерактивные карты | https://habrahabr.ru/company/airbnb/blog/266575/
+
+История одного факапа Яндекс.Навигатора. В шести действиях с прологом и раскаянием | https://habrahabr.ru/company/yandex/blog/266465/
+
+«Кто на первой базе» — новый географический справочник от Mapzen | https://habrahabr.ru/post/265661/
+
+Краудсорсинговый картографический сервис для произведений искусства | https://habrahabr.ru/post/264565/
+
+Как найти себе место на земле и не попасть на счетчик Яндекса | https://habrahabr.ru/company/yandex/blog/263863/
+
+GPS снимает стресс | https://habrahabr.ru/company/euler2012/blog/263727/
+
+Визуализация геоданных сети референцных станций Санкт-Петербурга | https://habrahabr.ru/post/261735/
+
+Реализация идеи подписки не на человека, как в твиттере/инстаграме, а на место | https://habrahabr.ru/post/261175/
+
+Общая концепция направления SafeCityNET | https://habrahabr.ru/post/260995/
+
+Улицы и Герои | https://habrahabr.ru/post/260893/
+
+Первый шаг к Intel Glass? Intel приобретает Recon Instruments | https://habrahabr.ru/company/intel/blog/260607/
+
+Редактирование пространственных данных в Leaflet | https://habrahabr.ru/post/260615/
+
+У семи программистов адрес без дома | https://habrahabr.ru/company/hflabs/blog/260601/
+
+Геолокация без GPS (часть 2) | https://habrahabr.ru/post/259605/
+
+Новый 2ГИС под Windows Phone: архитектура и стек технологий | https://habrahabr.ru/company/2gis/blog/259335/
+
+Reach: GPS с точностью до сантиметра | https://habrahabr.ru/company/intel/blog/258779/
+
+Релиз нового мобильного 2ГИС | https://habrahabr.ru/company/2gis/blog/257701/
+
+Солнечные затмения: из прошлого в будущее, от Земли до Юпитера (исследование, проведённое с помощью Wolfram Language) | https://habrahabr.ru/company/wolfram/blog/257455/
+
+Геолокация без GPS (часть 1) | https://habrahabr.ru/post/256321/
+
+Я тебя по сетям вычислю: используем API крупнейших соцсетей в своих корыстных целях | https://habrahabr.ru/company/xakep/blog/254129/
+
+QGIS — основной инструмент для работы с пространственной информацией. Обзор тематических ресурсов для начинающих | https://habrahabr.ru/post/255309/
+
+Машинное обучение в навигационных устройствах: определяем маневры машины по акселерометру и гироскопу | https://habrahabr.ru/post/254707/
+
+История Google Maps | https://habrahabr.ru/company/airbnb/blog/253863/
+
+Районы… Кварталы… | https://habrahabr.ru/post/253515/
+
+Знакомство с API what3words: основные процедуры и сэмплы | https://habrahabr.ru/company/what3words/blog/253319/
+
+Как это работает: архитектура тайлового бэкенда карт «Спутника» | https://habrahabr.ru/company/rostelecom/blog/252921/
+
+Система пространственного позиционирования для авиации (применяем FPGA) | https://habrahabr.ru/post/250813/
+
+Меняем почтовые индексы на адреса из трех слов с помощью реверсивного геокодирования | https://habrahabr.ru/company/what3words/blog/250561/
+
+Как мы обеспечивали связь в самых больших аэропортах | https://habrahabr.ru/company/beeline/blog/252115/
+
+Высокочастотный трейдинг по соседству – Часть V (Заключительная) | https://habrahabr.ru/company/itinvest/blog/252059/
+
+Визуализируй это | https://habrahabr.ru/post/251755/
+
+Где смерть Кащеева? | https://habrahabr.ru/post/251871/
+
+Создавая карту мира | https://habrahabr.ru/company/airbnb/blog/251627/
+
+OpenCage — самый мощный инструмент для геокодирования | https://habrahabr.ru/company/what3words/blog/251497/
+
+Высокочастотный трейдинг по соседству – Часть V (Начало) | https://habrahabr.ru/company/itinvest/blog/250835/
+
+Расцвет неокартографии | https://habrahabr.ru/company/airbnb/blog/250623/
+
+«Билайн»: народный контроль (можно отметить техпроблему на карте) | https://habrahabr.ru/company/beeline/blog/250387/
+
+Странности в работе Яндекс.Метро: разбор полётов и апдейт приложения | https://habrahabr.ru/company/yandex/blog/250235/
+
+APRS | https://habrahabr.ru/post/249901/
+
+Конвертируем адреса what3words в другие пространственные координаты с помощью TWCC | https://habrahabr.ru/company/what3words/blog/249627/
+
+Проект 3D ГИС городского пространства | https://habrahabr.ru/post/249487/
+
+Лингвистические аспекты what3words и технический анализ словарей | https://habrahabr.ru/company/what3words/blog/249269/
+
+В Яндекс.Транспорте появились данные Москвы | https://habrahabr.ru/company/yandex/blog/249213/
+
+Три слова, способные изменить мир | https://habrahabr.ru/company/what3words/blog/249131/
+
+W for Wikipedia | https://habrahabr.ru/post/239925/
+
+Сервис временных зон на Ruby и Postgis | https://habrahabr.ru/post/246077/
+
+Бета нового 2ГИС под Windows Phone (офлайн!) | https://habrahabr.ru/company/2gis/blog/246057/
+
+Как добавить карты Bing Maps в Windows-приложение на HTML и JavaScript. Часть 2 | https://habrahabr.ru/company/microsoft/blog/245831/
+
+Как добавить карты Bing Maps в Windows-приложение на HTML и JavaScript. Часть 1 | https://habrahabr.ru/company/microsoft/blog/245683/
+
+Высокочастотный трейдинг по соседству – Часть IV | https://habrahabr.ru/company/itinvest/blog/245675/
+
+Навигация в помещениях с iBeacon и ИНС | https://habrahabr.ru/post/245325/
+
+Postgis тип данных Geometry на примере импортированных OpenStreetMap карт | https://habrahabr.ru/post/245015/
+
+Высокочастотный трейдинг по соседству – Часть III | https://habrahabr.ru/company/itinvest/blog/244695/
+
+Что будет значить широкополосная спутниковая технология в 100Гбит/с? | https://habrahabr.ru/company/ua-hosting/blog/244527/
+
+Бета нового 2ГИС для вашего компьютера | https://habrahabr.ru/company/2gis/blog/244179/
+
+Маршруты на картах Google в Android-приложении | https://habrahabr.ru/post/244229/
+
+Построение параллельных кривых в картографических веб-приложениях | https://habrahabr.ru/post/244203/
+
+Высокочастотный трейдинг по соседству — Часть II | https://habrahabr.ru/company/itinvest/blog/243873/
+
+ObjectManager в API Яндекс.Карт. Как быстро отрисовать 10 000 меток на карте и не затормозить всё вокруг | https://habrahabr.ru/company/yandex/blog/243665/
+
+Ловцы молний. Необычные эксперименты с грозой | https://habrahabr.ru/post/243095/
+
+Какой ГИС использовать после фактической смерти Google Maps? | https://habrahabr.ru/post/243049/
+
+Высокочастотный трейдинг по соседству — Часть I | https://habrahabr.ru/company/itinvest/blog/242991/
+
+Особенности загрузки объектов из карты формата KML на карту Яндекса | https://habrahabr.ru/post/242697/
+
+Как использовать покадровую фотосъемку камерой GoPro для сервиса «Mapillary» | https://habrahabr.ru/post/242463/
+
+Алгоритмы устранения ложных и избыточных данных в GPS-потоке | https://habrahabr.ru/company/promwad/blog/242251/
+
+Яндекс.Карты, 2ГИС или всё же Google Maps? | https://habrahabr.ru/post/242015/
+
+Московская область под Пробкоскопом | https://habrahabr.ru/post/241624/
+
+Корпорация Google использовала верблюда в пустыне Лива для Google Street View | https://habrahabr.ru/post/239841/
+
+В Sypex Geo добавлена привязка к API ВКонтакте | https://habrahabr.ru/post/239613/
+
+Google Web Mercator: неоднозначная система координат | https://habrahabr.ru/post/239251/
+
+Ваш Аудиогид. История одного стартапа | https://habrahabr.ru/company/qiwi_universe/blog/238615/
+
+Один проигранный спор, или Для чего придуман сервис Indabus | https://habrahabr.ru/company/vcstart/blog/237967/
+
+Google и Bungie создали интерактивный мир игры Destiny с использованием Street View | https://habrahabr.ru/post/235457/
+
+Ликбез по картографическим проекциям с картинками | https://habrahabr.ru/post/235283/
+
+Как стартапы вроде Dropbox, Airbnb, Groupon и других заполучили своих первых пользователей | https://habrahabr.ru/post/234027/
+
+Веб-картография и SVG-эффекты | https://habrahabr.ru/post/232761/
+
+Изучать Луну и Марс теперь можно при помощи Google Maps | https://habrahabr.ru/post/232409/
+
+Как создать легенду | https://habrahabr.ru/post/229911/
+
+Лондон теперь доступен в 3D на Google Maps | https://habrahabr.ru/post/230407/
+
+Оценка потенциала возобновляемых источников энергии. Региональный опыт | https://habrahabr.ru/post/229919/
+
+Как я пытался взять велосипед в общественном велопрокате СПб. Взгляд с ИТ стороны | https://habrahabr.ru/post/228679/
+
+Evernote API: гео-помощник ГдеСейчас | https://habrahabr.ru/company/evernote/blog/228671/
+
+Работа с геолокациями в режиме highload | https://habrahabr.ru/post/228023/
+
+Какой должна быть хорошая карта — ориентиры на Яндекс.Картах | https://habrahabr.ru/company/yandex/blog/226853/
+
+Как мы с помощью математической статистики измеряем качество данных в Яндекс.Городе | https://habrahabr.ru/company/yandex/blog/226517/
+
+Математическая модель для прогнозирования пробок. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/226207/
+
+Google купил микроспутниковую компанию Skybox за 500 миллионов | https://habrahabr.ru/post/225951/
+
+Первый Омский Гео-Хакатон завершен | https://habrahabr.ru/company/est/blog/225285/
+
+Разворачиваем сервис построения маршрутов OSRM | https://habrahabr.ru/post/224731/
+
+Отчет о первом этапе Гео-Хакатона | https://habrahabr.ru/company/est/blog/224435/
+
+2ГИС Этажи. Лестница к продукту | https://habrahabr.ru/company/2gis/blog/224243/
+
+Как определить местоположение по сетям сотовой связи (Cell ID) | https://habrahabr.ru/company/promwad/blog/223635/
+
+Мобильные приложения для путешествий | https://habrahabr.ru/company/mailru/blog/223347/
+
+ГИС Оператор запущена на платформе Эльбрус | https://habrahabr.ru/post/223321/
+
+Геокодер OSM на Java | https://habrahabr.ru/post/222875/
+
+«Квантовый компас» как альтернатива GPS | https://habrahabr.ru/post/223009/
+
+Первый Омский Гео-Хакатон | https://habrahabr.ru/company/est/blog/222967/
+
+2ГИС показал новое | https://habrahabr.ru/company/2gis/blog/222895/
+
+Пришло время показать новое | https://habrahabr.ru/company/2gis/blog/222429/
+
+Foursquare делится на две части: рекомендации и чекины | https://habrahabr.ru/post/221595/
+
+Яндекс.Такси вводит новые тарифы | https://habrahabr.ru/company/yandex/blog/220565/
+
+Как устроены Яндекс.Карты. Лекция Владимира Зайцева в Яндексе | https://habrahabr.ru/company/yandex/blog/219951/
+
+На Яндекс.Картах появились панорамы Арктики | https://habrahabr.ru/company/yandex/blog/219823/
+
+Новое HD-видео со спутника SkySat-1: Лас Вегас во всей красе | https://habrahabr.ru/post/219807/
+
+Привет, это новый 2ГИС, о котором говорят твои друзья | https://habrahabr.ru/company/2gis/blog/217917/
+
+Google Night Walk: ночная прогулка по Марселю. Теперь и со звуком | https://habrahabr.ru/post/218349/
+
+Любовь, дизайн и геолокация | https://habrahabr.ru/company/microsoftlumia/blog/217473/
+
+Он-лайн мониторинг общественного транспорта: версия Яндекса | https://habrahabr.ru/post/217033/
+
+Они киборги! Немного о том, как устроены системы в картографических автомобилях HERE | https://habrahabr.ru/company/microsoftlumia/blog/216811/
+
+Космическая одиссея HERE или как проводят свои выходные наши сотрудники | https://habrahabr.ru/company/microsoftlumia/blog/216663/
+
+Urban Jungle Street View: растения побеждают города | https://habrahabr.ru/post/216253/
+
+В Minecraft строят Манхэттен в масштабе 1:1 | https://habrahabr.ru/post/215015/
+
+Google Earth будущего: HD-видеоcъемка с орбиты почти в режиме реального времени | https://habrahabr.ru/post/214979/
+
+Навигация изнутри | https://habrahabr.ru/post/213145/
+
+Офис в Берлине, чем русские стартапы отличаются от немецких — и зачем нужны геосервисы старым добрым магазинам в офлайне | https://habrahabr.ru/post/213613/
+
+Чем действительно замечателен WorldView-3 | https://habrahabr.ru/post/212673/
+
+Ловец молний | https://habrahabr.ru/post/211701/
+
+Визуализация поэтажных планов или геоинформационные системы (ГИС) в недвижимости | https://habrahabr.ru/company/isystems/blog/211789/
+
+Печатаем OSM (Часть 1) | https://habrahabr.ru/post/211524/
+
+Поиск маршрутов за 1 человеко-месяц | https://habrahabr.ru/post/211388/
+
+Испытательный полёт Боинга 747-8F | https://habrahabr.ru/post/210964/
+
+UrtheCast установлена | https://habrahabr.ru/post/210522/
+
+Как статистика помогает делать Яндекс.Пробки лучше | https://habrahabr.ru/company/yandex/blog/210240/
+
+Работа с геозонами (geofences) в Android | https://habrahabr.ru/post/210162/
+
+У нас было 540 точек, 120 мерчендайзеров, 30 ТП, 2 супервайзера, 5 таблиц в XLS и один пакет на ПО маршрутизации | https://habrahabr.ru/company/croc/blog/210030/
+
+Система предсказания свободной парковки от Audi | https://habrahabr.ru/post/209332/
+
+NAVIA — Беспилотный электромобиль | https://habrahabr.ru/company/telebreeze/blog/208864/
+
+Как мы интегрируем SaaS решение с учетной системой заказчика | https://habrahabr.ru/post/207156/
+
+Доставка: решаем задачу оптимизации путей и вскрываем «леваки» | https://habrahabr.ru/company/croc/blog/206614/
+
+Глобальная карта ветров почти в режиме реального времени | https://habrahabr.ru/post/206554/
+
+«Электронный мусор» на душу населения — интерактивная карта демонстрирует реальное положение вещей по каждой стране | https://habrahabr.ru/post/206236/
+
+Один день из жизни Москвы в геометках Вконтакте | https://habrahabr.ru/company/meanwhile/blog/206206/
+
+Жизнь после чекина | https://habrahabr.ru/post/205798/
+
+Использование квадродеревьев при расчёте пробок 2ГИС | https://habrahabr.ru/company/2gis/blog/205742/
+
+Треха в цвете. Альтернатива от Littlesnake | https://habrahabr.ru/post/205310/
+
+Компания National Geographic выложила в сеть более 500 исторических карт на Google Maps Engine | https://habrahabr.ru/post/205250/
+
+Получаем i18n список стран, регионов, населенных пунктов из ВКонтакте | https://habrahabr.ru/post/204840/
+
+Gnuplot супротив 2MASS | https://habrahabr.ru/post/204254/
+
+Простая публикация геоданных на собственной карте на базе 2ГИС | https://habrahabr.ru/post/204228/
+
+На Street View появилось около 65 аэропортов и ж/д вокзалов | https://habrahabr.ru/post/203768/
+
+UrtheCast стартует! | https://habrahabr.ru/post/203446/
+
+Как инвестировать $100 000 в собственную карму (часть 3, финальная) | https://habrahabr.ru/company/patrolife/blog/202746/
+
+Новый 2ГИС | https://habrahabr.ru/company/2gis/blog/202690/
+
+Момент истины | https://habrahabr.ru/company/2gis/blog/202718/
+
+Технология глобальной спутниковой навигации: какие бывают системы, параметры и функции | https://habrahabr.ru/company/promwad/blog/202722/
+
+Как инвестировать $100 000 в собственную карму (часть 2) | https://habrahabr.ru/company/patrolife/blog/202524/
+
+Рисуем карту одним select'ом или о пользе многотабличных индексов | https://habrahabr.ru/post/201474/
+
+Как инвестировать $100 000 в собственную карму (часть 1) | https://habrahabr.ru/company/patrolife/blog/202258/
+
+Как Яндекс сделал самую подробную русскоязычную карту мира | https://habrahabr.ru/company/yandex/blog/201732/
+
+Прикручиваем Web Map сервис к ничего не подозревающей OpenSource СУБД | https://habrahabr.ru/post/200642/
+
+Красивым городам — красивую карту | https://habrahabr.ru/company/2gis/blog/200814/
+
+Приветствуем Mozilla Location Service | https://habrahabr.ru/post/200038/
+
+Что общего у стоматолога и бани? | https://habrahabr.ru/company/2gis/blog/197776/
+
+Habra Glass – как сделать геосоциальный сервис | https://habrahabr.ru/post/197330/
+
+Геолокация – как на нас зарабатывают | https://habrahabr.ru/post/196700/
+
+Google Street View добрался и до Большого адронного коллайдера | https://habrahabr.ru/company/cloudsnn/blog/195398/
+
+Методы определения местоположения пользователя | https://habrahabr.ru/post/193372/
+
+Учёт статистической информации о пробках при поиске проезда на автомобиле | https://habrahabr.ru/company/2gis/blog/193116/
+
+Опыт работы с GPS-логгером Holux M-241. Работаем из под Windows, Mac OS X, Linux | https://habrahabr.ru/post/191182/
+
+Mercedes тестирует связку из Google Glass и электроники автомобиля | https://habrahabr.ru/post/191152/
+
+Прокладываем путь через желудок | https://habrahabr.ru/company/2gis/blog/190250/
+
+На Яндекс.Картах теперь можно забронировать столик, записаться на стрижку или на приём к врачу | https://habrahabr.ru/company/yandex/blog/190000/
+
+Геолокационные игры — большой обзор | https://habrahabr.ru/post/169721/
+
+Nokia HERE LivingCities | https://habrahabr.ru/company/microsoftlumia/blog/189628/
+
+Мобильная версия 2ГИС — свежая порция обновлений | https://habrahabr.ru/company/2gis/blog/189304/
+
+Trace — трэкер для экстремалов | https://habrahabr.ru/company/cloudsnn/blog/189356/
+
+Стоять или не стоять: решайте с 2ГИС | https://habrahabr.ru/company/2gis/blog/189188/
+
+Если вы не крейзи миднайт денсер, у вас нет машины, а живёте на необитаемом острове, то не читайте эту статью! | https://habrahabr.ru/company/2gis/blog/188490/
+
+Сравнение двух GPS Data Logger'ов | https://habrahabr.ru/post/187148/
+
+Индексируем небо | https://habrahabr.ru/post/186564/
+
+Способ вернуть оффлайн карты в новой версии Google Maps | https://habrahabr.ru/post/186324/
+
+Каникулы на Кипре и большие мелочи | https://habrahabr.ru/company/2gis/blog/185904/
+
+Трафик Карт и Навигатора Яндекса стали бесплатными в МТС-Украина на три месяца | https://habrahabr.ru/post/185714/
+
+Секретность карт, координат и ДДЗ на бытовом уровне | https://habrahabr.ru/post/185648/
+
+Самодельный трекинг посылок, или Туда и Обратно | https://habrahabr.ru/post/185510/
+
+Мы хотим от тебя сына! | https://habrahabr.ru/company/2gis/blog/184866/
+
+Где мое почтовое отделение? — поиск почтового отделения ДубльГис по индексу | https://habrahabr.ru/post/184770/
+
+На сайте Boeing появилась возможность отслеживать положение самолета почти как в симуляторе | https://habrahabr.ru/post/184734/
+
+«Машина времени» от Foursquare: все ваши путешествия за все время | https://habrahabr.ru/post/183430/
+
+Для этого есть карта | https://habrahabr.ru/post/183288/
+
+NASA представило наиболее детальную топографическую карту Антарктики за последние 10 лет | https://habrahabr.ru/post/182222/
+
+Игра в машинки по-взрослому | https://habrahabr.ru/company/megafon/blog/181972/
+
+Сказ о том, как мы карту с биллингом дружили | https://habrahabr.ru/post/272349/
+
+Оптимизация общественного транспорта после анализа данных GSM | https://habrahabr.ru/company/ibm/blog/181039/
+
+Технология передачи данных в системе экстренного реагирования «ЭРА-ГЛОНАСС» | https://habrahabr.ru/company/promwad/blog/180689/
+
+Parrot переосмыслила автомобильные планшеты | https://habrahabr.ru/company/smartgadget/blog/180453/
+
+Похищенный из семьи китаец нашел свой дом 23 года спустя благодаря сервису для поиска похищенных людей и Google Maps | https://habrahabr.ru/post/180051/
+
+Большое обновление Google Maps | https://habrahabr.ru/post/179865/
+
+Создание единого роутинга в офлайн и онлайн продуктах 2ГИС | https://habrahabr.ru/company/2gis/blog/179749/
+
+Google и Time запустили сервис, показывающий, как изменилась планета за 30 лет | https://habrahabr.ru/post/179183/
+
+Новые слои на карте 2ГИС | https://habrahabr.ru/company/2gis/blog/179011/
+
+ПРОГОРОД: (не только) виртуальные путешествия по реальным городам | https://habrahabr.ru/company/smartgadget/blog/177961/
+
+Google Street View работает уже с 50 странами, с покрытием более 8 миллионов километров | https://habrahabr.ru/post/177727/
+
+Литовские власти используют Google Street View для поиска уклоняющихся от налогов домовладельцев | https://habrahabr.ru/post/176335/
+
+Создание интерактивной карты офиса, часть 2 | https://habrahabr.ru/company/pt/blog/174943/
+
+2ГИС продолжает международное (и межконтинентальное) развитие | https://habrahabr.ru/company/2gis/blog/174915/
+
+Корпорация Добра в поисках сокровищ | https://habrahabr.ru/post/174901/
+
+Google Maps: значительное обновление получили 103 российских города | https://habrahabr.ru/post/174325/
+
+Поиск проезда на общественном транспорте теперь во всех версиях 2ГИС  | https://habrahabr.ru/company/2gis/blog/173723/
+
+В Google Street View появились панорамы с высочайших вершин мира | https://habrahabr.ru/post/173357/
+
+Curiosity подтвердил, что на Марсе может существовать жизнь | https://habrahabr.ru/post/172519/
+
+Масштабное обновление мобильной версии 2ГИС | https://habrahabr.ru/company/2gis/blog/172289/
+
+В Street View добавили Болгарию и 200 городов России | https://habrahabr.ru/post/171985/
+
+Картографические и ГИС компоненты для разработчиков на GitHub | https://habrahabr.ru/post/168369/
+
+По следам мобильного телефона. Геолокация с помощью сотовой сети | https://habrahabr.ru/company/megafon/blog/167905/
+
+Создание кэша карты в Geoserver с использованием сторонних сервисов | https://habrahabr.ru/post/166205/
+
+Едем на автомобиле вместе с 2ГИС | https://habrahabr.ru/company/2gis/blog/165323/
+
+ГИС: определение вложенности административных округов | https://habrahabr.ru/company/yasno_tv/blog/164997/
+
+Яндекс.Навигатор научился работать в автономном режиме | https://habrahabr.ru/post/163019/
+
+Определение местоположения без GPS: как устроен Яндекс.Локатор | https://habrahabr.ru/company/yandex/blog/162955/
+
+gps.conf для всех, или как ускорить работу GPS на Android | https://habrahabr.ru/post/162735/
+
+GPS и карты: смещённые координаты в Китае | https://habrahabr.ru/post/162613/
+
+Google Maps для iOS | https://habrahabr.ru/post/162445/
+
+Чтиво от студентов или как собрать кроссплатформенный социальный геолокатор | https://habrahabr.ru/post/162155/
+
+Полиция города Милдура предупреждает пользователей iOS6 об опасности | https://habrahabr.ru/post/162065/
+
+Планы помещений доступны теперь и для Google Maps / Германия | https://habrahabr.ru/post/161615/
+
+Продолжаем знакомство с Технопарком Сколково | https://habrahabr.ru/post/161325/
+
+Microsoft добавил 121 терабайт спутниковых и аэро-снимков в Bing Maps | https://habrahabr.ru/post/160865/
+
+Google запустила странный сайт Niantic Project | https://habrahabr.ru/post/158145/
+
+Инкрементальный алгоритм привязки GPS-трека к дорожному графу | https://habrahabr.ru/company/mailru/blog/157883/
+
+Обновленные карты Марса от Google | https://habrahabr.ru/post/157745/
+
+Привлекать ли производителей популярных сервисов к ответственности за ошибки? | https://habrahabr.ru/post/157591/
+
+NASA анонсировала сервис, помогающий следить за положением МКС | https://habrahabr.ru/post/157413/
+
+Таинственные текстуры в пустыне Такла-Макан на Google Earth получили объяснение | https://habrahabr.ru/post/157405/
+
+Как просто подключить любой датчик OPC сервера к проекту narodmon.ru | https://habrahabr.ru/post/156277/
+
+Google Street View. Освоение Гранд-Каньона | https://habrahabr.ru/post/156005/
+
+2ГИС – эксперт по гостиницам | https://habrahabr.ru/company/2gis/blog/155941/
+
+На Google Maps появилось 25 миллионов новых зданий | https://habrahabr.ru/post/155413/
+
+Марсоход Curiosity зачекинился на Foursquare с Марса | https://habrahabr.ru/post/153783/
+
+Google Street View работает теперь и с мобильными браузерами | https://habrahabr.ru/post/153661/
+
+2ГИС добавил на карты 3D-модели | https://habrahabr.ru/company/2gis/blog/152951/
+
+Колдунщик Яндекс.Такси в результатах поиска | https://habrahabr.ru/post/152859/
+
+Прогноз пробок на Яндекс.Картах | https://habrahabr.ru/company/yandex/blog/152661/
+
+Google Maps уходят под воду | https://habrahabr.ru/company/apps4all/blog/152317/
+
+Исследуем океан с Google Maps | https://habrahabr.ru/post/152315/
+
+Почему есть 1,3 млрд причин, которые «за» новые карты в iOS 6 | https://habrahabr.ru/post/152169/
+
+Apple приглашает на работу бывших сотрудников Google Maps | https://habrahabr.ru/post/152081/
+
+Над проектом Google Maps работает 7100 сотрудников | https://habrahabr.ru/post/152028/
+
+TomTom оправдывается, что их карты — высшего класса, а команду iOS Maps посадили под замок — всё исправить | https://habrahabr.ru/post/151919/
+
+«Зеленая волна» сегодня | https://habrahabr.ru/post/151036/
+
+«Яндекс.Такси» стал взимать плату с таксопарков | https://habrahabr.ru/post/151257/
+
+Еще один конструктор виджетов: 2GIS mini на вашем сайте за 5 минут | https://habrahabr.ru/company/2gis/blog/151237/
+
+Google запускает новый формат рекламы для Google Maps | https://habrahabr.ru/post/150526/
+
+Наводим красоту с помощью 2ГИС | https://habrahabr.ru/company/2gis/blog/149487/
+
+Старые карты и GoogleMaps | https://habrahabr.ru/post/149278/
+
+Обновление мобильного 2ГИС: снаружи и внутри | https://habrahabr.ru/company/2gis/blog/149117/
+
+Обновления 2ГИС Онлайн и API: поисковые подсказки и не только | https://habrahabr.ru/company/2gis/blog/148700/
+
+Google Earth Engine — платформа для мониторинга состояния Земли | https://habrahabr.ru/post/148417/
+
+Путешествие в Антарктику на Street View | https://habrahabr.ru/post/148070/
+
+Геомагнитное позиционирование в качестве дополнения к GPS | https://habrahabr.ru/post/147549/
+
+Что можно увидеть на спутниковых снимках? Часть #1. Места, запрещённые к просмотру | https://habrahabr.ru/company/luxoft/blog/147197/
+
+GeoSPEAK.ru — разговоры о местах на карте | https://habrahabr.ru/post/147057/
+
+Автоматическая метеостанция на даче | https://habrahabr.ru/post/146894/
+
+Покупку книг можно отследить на Google Maps | https://habrahabr.ru/post/146899/
+

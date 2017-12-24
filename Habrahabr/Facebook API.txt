@@ -1,0 +1,82 @@
+Боты на .Net Core для Telegram, Slack и Facebook | https://habrahabr.ru/company/alfa/blog/343846/
+
+Как быстро настроить автопостинг для Facebook и Twitter | https://habrahabr.ru/post/329196/
+
+Facebook API: починка сломавшейся кнопки «Нравится» на сайте | https://habrahabr.ru/post/325856/
+
+Вокруг шум. Чат-бот: пустой хайп или новая эра? | https://habrahabr.ru/company/it_people/blog/325812/
+
+Регистрация и авторизация пользователя на сайте — одним кликом — через кастомную кнопку Facebook. 2017 | https://habrahabr.ru/post/325514/
+
+Анализ взаимодействия мобильных Android-приложений с API социальных сетей Facebook, Instagram, ВКонтакте | https://habrahabr.ru/company/neobit/blog/320650/
+
+Вычисляем контент, который в будущем станет вирусным | https://habrahabr.ru/post/318056/
+
+Авторизация с помощью Facebook и Vkontakte в одностраничном приложении на Backbonejs + Express | https://habrahabr.ru/post/310594/
+
+Как мы учили Facebook делать сайты или План “Конверт” | https://habrahabr.ru/company/uteam/blog/308590/
+
+Over 9000: неочевидные сложности работы со счетчиками социальных кнопок (+ задачка) | https://habrahabr.ru/company/uteam/blog/308504/
+
+Работа с Facebook API из приложений UWP | https://habrahabr.ru/post/307026/
+
+ViaLatM — публикация треков в Facebook | https://habrahabr.ru/company/euler2012/blog/306078/
+
+Как мы тестируем взаимодействие с Facebook | https://habrahabr.ru/company/badoo/blog/305736/
+
+Разрабатываем погодного бота в среде IBM Bluemix на основе Facebook | https://habrahabr.ru/company/ibm/blog/303666/
+
+1000 и 1 репост: гайд по кнопке «поделиться» в русских соц сетях | https://habrahabr.ru/post/302656/
+
+Шестое чувство Facebook | https://habrahabr.ru/post/302506/
+
+Бродкастер для MacBook. Facebook Edition | https://habrahabr.ru/company/macstreamplatform/blog/302426/
+
+Разработка чат-бота для Facebook Messenger | https://habrahabr.ru/post/281559/
+
+Facebook помогает узнать все ли хорошо у ваших друзей в случае ЧП | https://habrahabr.ru/post/270859/
+
+Социальный логин: cильные стороны | https://habrahabr.ru/post/264093/
+
+Анализ данных мира Facebook | https://habrahabr.ru/company/wolfram/blog/262445/
+
+Reconnect — уязвимость в Facebook Login | https://habrahabr.ru/post/252441/
+
+Facebook запустил социальную сеть для профессионалов в области информационной безопасности | https://habrahabr.ru/post/250473/
+
+Альтернативный бейдж для страниц Facebook | https://habrahabr.ru/post/249973/
+
+Простой лидерборд на Unity3D с facebook-ом | https://habrahabr.ru/post/245985/
+
+Что такое Graph Search? | https://habrahabr.ru/company/chooos/blog/240845/
+
+Быстрое приглашение друзей в группу Facebook-a | https://habrahabr.ru/post/194990/
+
+Facebook показал новый дизайн ленты новостей | https://habrahabr.ru/post/171987/
+
+Грядут серьезные изменения в API Facebook — февраль, март, апрель 2013 | https://habrahabr.ru/post/168357/
+
+Facebook представил умный поиск — Graph Search | https://habrahabr.ru/post/165939/
+
+Facebook ограничил число комментариев, отображаемых незалогиненным читателям | https://habrahabr.ru/post/164581/
+
+Разработка Unity3d-плагина для работы с Facebook | https://habrahabr.ru/post/155435/
+
+Новые 5 способов ускорить запросы API Facebook | https://habrahabr.ru/post/151143/
+
+Безопасность OAuth2 | https://habrahabr.ru/post/150756/
+
+Как прошел московский Facebook Garage | https://habrahabr.ru/post/143571/
+
+Новая программа Facebook Preferred Marketing Developer | https://habrahabr.ru/post/142411/
+
+Facebook Developer Garage в лицах | https://habrahabr.ru/post/141433/
+
+Пять способов ускорить запросы API Facebook на практике | https://habrahabr.ru/post/132794/
+
+Оптимизируем запросы к Facebook Graph API с помощью Real-Time Updates | https://habrahabr.ru/post/124195/
+
+Доступ к информации приложениями Facebook (в картинках) | https://habrahabr.ru/post/117205/
+
+Популярное: RSS сайта + статистика Facebook | https://habrahabr.ru/post/116702/
+

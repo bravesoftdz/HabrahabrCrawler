@@ -1,0 +1,62 @@
+Как за полтора дня собрать фейсбучного чат-бота из подручных материалов | https://habrahabr.ru/company/skyeng/blog/339918/
+
+Как быстро настроить автопостинг для Facebook и Twitter | https://habrahabr.ru/post/329196/
+
+Инфраструктура Twitter: масштаб | https://habrahabr.ru/post/325282/
+
+Почему вам может пригодиться собственный Twitter-бот и как создать его за полчаса | https://habrahabr.ru/company/everydaytools/blog/321968/
+
+Over 9000: неочевидные сложности работы со счетчиками социальных кнопок (+ задачка) | https://habrahabr.ru/company/uteam/blog/308504/
+
+Пишем приложение для анализа твитов в real-time режиме за 30 минут | https://habrahabr.ru/company/ibm/blog/303442/
+
+1000 и 1 репост: гайд по кнопке «поделиться» в русских соц сетях | https://habrahabr.ru/post/302656/
+
+Поиск потенциальных фолловеров в Твиттере | https://habrahabr.ru/post/273531/
+
+Новые кнопки «твитнуть» или прощай счётчик | https://habrahabr.ru/post/271373/
+
+Анализ тональности высказываний в Twitter: реализация с примером на R | https://habrahabr.ru/company/infopulse/blog/261589/
+
+Как пользователи Twitter оценивают «Мир Юрского периода»? Обрабатываем Большие данные при помощи IBM Watson | https://habrahabr.ru/company/ibm/blog/260901/
+
+Использование платы Intel Edison для изменения цвета шара Orbotix Sphero при появлении новых твитов | https://habrahabr.ru/company/intel/blog/258163/
+
+Сериал: Big Data — как мечта. Незапланированная 5-я серия: Большая игра. Частное мнение | https://habrahabr.ru/company/palitrumlab/blog/255547/
+
+IBM анонсирует аналитические инструменты для работы с базами данных Twitter | https://habrahabr.ru/company/ibm/blog/254629/
+
+Кастомная кнопка логина в Twitter SDK (Fabric kit) | https://habrahabr.ru/post/250907/
+
+Пример использования Fabric (Twitter Kit) в Android Studio | https://habrahabr.ru/post/248667/
+
+Twitpic закрывается | https://habrahabr.ru/post/235679/
+
+Получение RSS ленты из twitter после обновления API 1.1 | https://habrahabr.ru/post/234997/
+
+Twitter передал шести университетам всю базу твитов с 2006 года | https://habrahabr.ru/post/224307/
+
+Монетизация Twitter'a — новое решение | https://habrahabr.ru/post/211116/
+
+Twitter следит за тобой, анонимус | https://habrahabr.ru/post/204106/
+
+Кросспостинг из Twitter в ВКонтакте с помощью роутера | https://habrahabr.ru/post/158285/
+
+С марта месяца Twitter начинает отключать API 1.0 | https://habrahabr.ru/post/170253/
+
+Используем Twitter API для получения «дерева» пользователей | https://habrahabr.ru/post/169027/
+
+Tweetping — все твиты на карте мира в прямом эфире | https://habrahabr.ru/post/168027/
+
+Динамическая визуализация геокодированных данных (Twitter) с помощью R | https://habrahabr.ru/post/165305/
+
+Изменения в новой версии Twitter API коснутся всех | https://habrahabr.ru/post/150960/
+
+Пишем бота для Twitter на основе GitHub API | https://habrahabr.ru/post/150181/
+
+Грядущие изменения в Twitter API | https://habrahabr.ru/post/149774/
+
+Анализируем Twitter при помощи R | https://habrahabr.ru/post/140093/
+
+Мотивационный автопостинг с помощью Twitter API | https://habrahabr.ru/post/139900/
+

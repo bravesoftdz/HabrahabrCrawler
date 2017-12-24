@@ -1,0 +1,58 @@
+Все еще торт, часть 3.0.0 | https://habrahabr.ru/company/ilkfinkom/blog/254489/
+
+Повышаем стабильность сессии в CakePHP 2.x | https://habrahabr.ru/company/web_payment_ru/blog/244645/
+
+Что нового в CakePHP 3.0.0? | https://habrahabr.ru/post/239905/
+
+Валидатор HTML-форм | https://habrahabr.ru/post/197928/
+
+AJAX в CakePHP на jQuery и Prototype | https://habrahabr.ru/post/166653/
+
+Мой маленький веб-сервис на CakePHP | https://habrahabr.ru/post/142881/
+
+Нормальная офлайновая документация | https://habrahabr.ru/post/133236/
+
+Интервью с разработчиком Croogo | https://habrahabr.ru/post/128316/
+
+Тонкости при работе с Sanitize в связке с save | https://habrahabr.ru/post/112179/
+
+Сообщество CakePHP открыло проект CakePHP TV | https://habrahabr.ru/post/110855/
+
+Выбор изображений просто и эффективно | https://habrahabr.ru/post/90289/
+
+Добавление порядка сортировки в CakePHP | https://habrahabr.ru/post/84660/
+
+Простое решение красивых URL в Cakephp | https://habrahabr.ru/post/69903/
+
+Уменьшаем кол-во запросов requestAction-ов с помощью Cache | https://habrahabr.ru/post/69401/
+
+Минималистичная система разделения прав по группам за 5 минут | https://habrahabr.ru/post/69182/
+
+Хелперы. Полезные манипуляции со строками | https://habrahabr.ru/post/59445/
+
+timeAgoInWords по русски | https://habrahabr.ru/post/53275/
+
+Русскоязычная Jabber-конференция CakePHP | https://habrahabr.ru/post/51472/
+
+Связывание таблиц в Model::find() | https://habrahabr.ru/post/50302/
+
+CakePHP 1.2 final | https://habrahabr.ru/post/47823/
+
+Класс Set — повелитель массивов | https://habrahabr.ru/post/47310/
+
+Named Scope для CakePHP | https://habrahabr.ru/post/46735/
+
+DebugKit для CakePHP | https://habrahabr.ru/post/46139/
+
+Настройка autocomplete для CakePHP в NetBeans 6.5 | https://habrahabr.ru/post/45163/
+
+CakePHP 1.2 RC2 | https://habrahabr.ru/post/28118/
+
+Вышел CakePHP 1.2 RC1 | https://habrahabr.ru/post/26854/
+
+CakePHP 1.2 beta | https://habrahabr.ru/post/18504/
+
+Tips & tricks CakePHP #2 | https://habrahabr.ru/post/16907/
+
+Tips & tricks CakePHP | https://habrahabr.ru/post/13146/
+

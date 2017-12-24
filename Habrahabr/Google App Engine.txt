@@ -1,0 +1,238 @@
+Google, Softline, GDG и #tceh организуют второй «Google Cloud Developer Meetup» | https://habrahabr.ru/company/softline/blog/343502/
+
+Как создать виртуальную машину в Google Таблицах | https://habrahabr.ru/company/payonline/blog/319754/
+
+Google Developers Group и Softline организуют первый в России «Google Cloud Developer Meetup #1» | https://habrahabr.ru/company/softline/blog/331652/
+
+Google I/O Extended 2017 в 20 городах России | https://habrahabr.ru/company/google/blog/328394/
+
+Рассказ о том, как я ездил на Google Next 17. Краткая выжимка по анонсам и самому важному | https://habrahabr.ru/company/Voximplant/blog/324906/
+
+Система рекомендаций интернет магазина на основе методов машинного обучения в Compute Engine (Google Cloud Platform) | https://habrahabr.ru/company/softline/blog/319704/
+
+Кэши для «чайников» | https://habrahabr.ru/company/google/blog/316344/
+
+Google избавляется от частных клиентов в России | https://habrahabr.ru/post/316008/
+
+Пример получения данных из AWS Cloudwatch используя Google Script | https://habrahabr.ru/post/306470/
+
+Как я поменял основной домен в Google Apps | https://habrahabr.ru/post/304636/
+
+Как работает Google Поиск? | https://habrahabr.ru/company/ua-hosting/blog/277819/
+
+Аналитика Instagram и GAE | https://habrahabr.ru/post/276237/
+
+Google Cloud Storage c Java: изображения и другие файлы в облаках | https://habrahabr.ru/post/275211/
+
+Разработка сайта на платформе Django-nonrel | https://habrahabr.ru/post/274431/
+
+Работа с базой данных в Google App Engine/Google Cloud Endpoints на Java: фреймворк Objectify | https://habrahabr.ru/post/274239/
+
+Google Cloud Endpoints на Java: Руководство. ч. 3 | https://habrahabr.ru/post/271385/
+
+Google Cloud Endpoints на Java: Руководство. ч. 2 (Frontend) | https://habrahabr.ru/post/270459/
+
+Google Cloud Endpoints на Java: Руководство. ч. 1 | https://habrahabr.ru/post/268863/
+
+Google против Microsoft: чьи облака круче? | https://habrahabr.ru/post/263151/
+
+Закон Мура для Google Compute Engine: больше мощностей за те же деньги | https://habrahabr.ru/company/google/blog/258237/
+
+Как подружить Google Диск и Google Календарь? Пробуем GAS на вкус | https://habrahabr.ru/post/253293/
+
+Как я мучал Selenium тесты для GAE Django и к чему пришел в итоге | https://habrahabr.ru/post/244009/
+
+Google бесплатно раздает $300 на аккаунт в GAE | https://habrahabr.ru/post/243837/
+
+Orb. DIY-cервер новостей | https://habrahabr.ru/post/242099/
+
+Вместе веселей: python + flask + google app engine | https://habrahabr.ru/post/235511/
+
+Статистика из Android-приложения на своем GAE-сайте | https://habrahabr.ru/post/230591/
+
+Google Cloud Platform Live: смешение IaaS и PaaS. Закон Мура для облаков | https://habrahabr.ru/company/google/blog/217209/
+
+Пишем мониторинг наличия билетов на РЖД, part 2 | https://habrahabr.ru/post/214343/
+
+Пишем мониторинг наличия билетов на РЖД | https://habrahabr.ru/post/210420/
+
+Конференция GDG DevFest 2013 соберется в Москве 4 ноября | https://habrahabr.ru/company/google/blog/200568/
+
+Поддержка PHP в Google App Engine! | https://habrahabr.ru/post/197200/
+
+Автоматизированное создание отчета по тестированию | https://habrahabr.ru/post/195820/
+
+Разработчики из Татарстана, Вперед вместе с Google! | https://habrahabr.ru/company/google/blog/194488/
+
+Первый плагин для WordPress от Google | https://habrahabr.ru/post/183694/
+
+В Google App Engine появилась поддержка PHP в тестовом режиме | https://habrahabr.ru/post/179863/
+
+Проблемы с GMAIL (0.007% пользователей затронуто) | https://habrahabr.ru/post/177043/
+
+Опубликован Google Mirror API | https://habrahabr.ru/post/176829/
+
+Создаем свой RSS канал с помощью Google Apps Script | https://habrahabr.ru/post/175775/
+
+RSS-лента по почте | https://habrahabr.ru/post/168569/
+
+Google планирует привлечь 90% пользователей MS Office на Google Apps | https://habrahabr.ru/post/164103/
+
+Читают ли в Google свои собственные соглашения? | https://habrahabr.ru/post/162711/
+
+Так ли хорош Google App Engine? | https://habrahabr.ru/company/luxoft/blog/150123/
+
+Queryfeed — RSS-ленты из Твиттера и Фейсбука | https://habrahabr.ru/post/148155/
+
+Крестики-нолики с помощью Channel API на Google App Engine и Java | https://habrahabr.ru/post/147587/
+
+Сохранение контактной информации в Google Contacts | https://habrahabr.ru/post/147179/
+
+GWT Grid | https://habrahabr.ru/post/146234/
+
+Экскурс от версии 1.6.1 к 1.6.5 | https://habrahabr.ru/post/142808/
+
+Использование фильтра сервлетов для «всплытия» страницы из фрейма | https://habrahabr.ru/post/141866/
+
+Создание RESTful API в Google App Engine на основе Flask | https://habrahabr.ru/post/141747/
+
+Написание сервиса японских кросвордов на gae, backbone, underscore, require и еще с помощью черт знает чего | https://habrahabr.ru/post/139741/
+
+Простой файловый хостинг на Google App Engine | https://habrahabr.ru/post/137797/
+
+Знакомимся с PayPal Standard Checkout | https://habrahabr.ru/post/137080/
+
+Делюсь статистикой использования | https://habrahabr.ru/post/136167/
+
+Ошибка склеивания нескольких Set-Cookie применительно к urllib2/mechanize и её исправление (для Python) | https://habrahabr.ru/post/133731/
+
+Вышла версия 1.6.0 | https://habrahabr.ru/post/132054/
+
+Вышла версия 1.5.5 | https://habrahabr.ru/post/130255/
+
+Google анонсировала Google Cloud SQL | https://habrahabr.ru/post/129907/
+
+Вышла версия 1.5.4 | https://habrahabr.ru/post/128640/
+
+Ленивая загрузка webapp | https://habrahabr.ru/post/128164/
+
+Корректировка новых правил учета ресурсов для приложений App Engine. Хорошие новости | https://habrahabr.ru/post/128199/
+
+Оптимизация под новый прайс | https://habrahabr.ru/post/127481/
+
+Вышла версия 1.5.3 | https://habrahabr.ru/post/126865/
+
+Оптимизация HTTP-сервера через версионность ресурсов. Особенности реализации | https://habrahabr.ru/post/126083/
+
+Простой чат с помощью Channel API на Google App Engine для Python | https://habrahabr.ru/post/126009/
+
+Странное поведение dev server при использовании GAE Plugin для Eclipse Indigo (3.7) | https://habrahabr.ru/post/124966/
+
+Вышла версия 1.5.1 | https://habrahabr.ru/post/123098/
+
+Вышла версия 1.5.0, теперь с поддержкой Go | https://habrahabr.ru/post/119033/
+
+Вышли Java/Python SDKs 1.4.3 | https://habrahabr.ru/post/116967/
+
+100 тыс. посещений в день (разбор полетов и новый эксперимент) | https://habrahabr.ru/post/115731/
+
+Скорость и стоимость работы с данными Google App Engine в таблицах | https://habrahabr.ru/post/115517/
+
+Асинхронный RPC | https://habrahabr.ru/post/114669/
+
+Кэширование в Google App Engine | https://habrahabr.ru/post/113883/
+
+GAE XMPP v.2 (Java SDK). Джаббер в GAE со второго подхода | https://habrahabr.ru/post/113806/
+
+Вышли Java/Python SDKs 1.4.2, а также обновился Roadmap | https://habrahabr.ru/post/113759/
+
+Простые вещи с непростым AppEngine | https://habrahabr.ru/post/112216/
+
+Использование bulkloader для бэкапа, восстановления и миграции данных | https://habrahabr.ru/post/112001/
+
+Моделирование отношений в App Engine | https://habrahabr.ru/post/111619/
+
+Реализация «dropbox» сервиса при помощи Blobstore API (Часть 1) | https://habrahabr.ru/post/111574/
+
+Перенос действующей корпоративной почты от хостера на Google | https://habrahabr.ru/post/111552/
+
+Хранение данных в Google App Engine | https://habrahabr.ru/post/110901/
+
+App Engine API под капотом | https://habrahabr.ru/post/110886/
+
+Бесплатная open-source CMS под Google App Engine for Java | https://habrahabr.ru/post/109913/
+
+Выпущен релиз Google App Engine SDK 1.4.0 | https://habrahabr.ru/post/109274/
+
+GAE XMPP (Java API) — Жаббер в своем приложении | https://habrahabr.ru/post/107972/
+
+Визуализация модели данных | https://habrahabr.ru/post/107603/
+
+Вышли Java/Python SDKs 1.3.8 | https://habrahabr.ru/post/106208/
+
+Чего стоит почистить datastore от сессий при помощи Mapper API | https://habrahabr.ru/post/104714/
+
+Вышли Java/Python SDKs 1.3.6 | https://habrahabr.ru/post/102012/
+
+Ресурс разработчиков-единомышленников для Google App Engine | https://habrahabr.ru/post/97971/
+
+Вышли Java/Python SDKs 1.3.5, а также частичная реализация MapReduce для AppEngine | https://habrahabr.ru/post/97937/
+
+Google App Engine – масштабируемые приложения | https://habrahabr.ru/post/94640/
+
+Вышли Java/Python SDKs 1.3.4, а также анонсирован GAE для бизнеса | https://habrahabr.ru/post/94033/
+
+Вышла новая версия App Engine SDK — 1.3.3 | https://habrahabr.ru/post/91676/
+
+Реализация PubSubHubbub-подписики в Java-приложении на App Engine | https://habrahabr.ru/post/91444/
+
+Полнотекстовый поиск на App Engine уже сейчас | https://habrahabr.ru/post/90223/
+
+Struts 2 на Google App Engine. Рецепты настройки | https://habrahabr.ru/post/88979/
+
+Вышли Java/Python SDKs 1.3.2, а также обновился Roadmap | https://habrahabr.ru/post/88965/
+
+Хронология отключения электричества в датацентре Google App Engine | https://habrahabr.ru/post/88551/
+
+Релиз App Engine SDK 1.3.1 | https://habrahabr.ru/post/83844/
+
+Началась работа по созданию Firewall API для приложений | https://habrahabr.ru/post/82602/
+
+Google AppEngine с самого начала: Представление | https://habrahabr.ru/post/81959/
+
+Google AppEngine с самого начала: Контроллер | https://habrahabr.ru/post/81933/
+
+Google AppEngine с самого начала: Модель | https://habrahabr.ru/post/81920/
+
+Разработка для Google AppEngine: с самого начала | https://habrahabr.ru/post/81895/
+
+Перевод документации по app-engine-patch | https://habrahabr.ru/post/80633/
+
+Подробная статистика запросов из логов | https://habrahabr.ru/post/78485/
+
+Работа с большими объёмами данных и хабраэффект | https://habrahabr.ru/post/78445/
+
+Вышли Java/Python SDKs 1.3.0 | https://habrahabr.ru/post/78301/
+
+App Engine SDK 1.2.8 плюс новая консоль администратора | https://habrahabr.ru/post/77475/
+
+Google App Engine | https://habrahabr.ru/post/76949/
+
+Вышли Java/Python SDKs 1.2.8 prerelease | https://habrahabr.ru/post/76349/
+
+Google App Engine и naked domains | https://habrahabr.ru/post/75190/
+
+App Engine SDK 1.2.7 — Bugfix Release для Python | https://habrahabr.ru/post/72829/
+
+Вышли Java/Python SDKs 1.2.6 | https://habrahabr.ru/post/72347/
+
+Интернет магазин на Google App Engine (UPD: 20.01.2010) | https://habrahabr.ru/post/70355/
+
+Вышли Java/Python SDKs 1.2.5 | https://habrahabr.ru/post/68721/
+
+Вышел Java SDK 1.2.2, GWT 1.7 | https://habrahabr.ru/post/64388/
+
+Что ожидается в App Engine | https://habrahabr.ru/post/64165/
+
+10 вещей, которые вы (возможно) не знали про App Engine | https://habrahabr.ru/post/64121/
+

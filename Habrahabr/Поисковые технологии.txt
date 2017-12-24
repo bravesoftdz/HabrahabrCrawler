@@ -1,0 +1,1222 @@
+Как «Дадата» ищет дубли в списках торговых точек. Разбираем алгоритм | https://habrahabr.ru/company/hflabs/blog/343150/
+
+Парсер на PHP-коленке или как я свою музыкальную коллекцию пополнял | https://habrahabr.ru/post/343294/
+
+Расстояние Левенштейна в MySQL и алгоритмы нечёткого поиска средствами PHP | https://habrahabr.ru/post/342434/
+
+Как черные SEO-оптимизаторы собирают миллионы посетителей по высоко-актуальным запросам в Яндексе | https://habrahabr.ru/post/342026/
+
+Анализ файлов robots.txt крупнейших сайтов | https://habrahabr.ru/post/341774/
+
+Как мы обновили поисковые подсказки в Яндексе и нашли для них правильную метрику | https://habrahabr.ru/company/yandex/blog/340552/
+
+Что должен знать о поиске каждый разработчик | https://habrahabr.ru/company/alconost/blog/339894/
+
+В поисках разума: можно ли сделать “универсальный” чат-бот с помощью нейронных сетей? | https://habrahabr.ru/company/meanotek/blog/339872/
+
+Графы большие и маленькие: интеллектуальное решение проблемы выбора представления | https://habrahabr.ru/post/339752/
+
+Алиса. Как Яндекс учит искусственный интеллект разговаривать с людьми | https://habrahabr.ru/company/yandex/blog/339638/
+
+20 лет Яндексу. Лекция Ильи Сегаловича — человека, который придумал это слово | https://habrahabr.ru/company/yandex/blog/338562/
+
+Браузер браузеру рознь, или Будни отдела корпоративной инфраструктуры | https://habrahabr.ru/company/lanit/blog/337120/
+
+Как Яндекс научил искусственный интеллект понимать смысл документов | https://habrahabr.ru/company/yandex/blog/336094/
+
+Материализуем результаты поиска, или как мы освободили 25 процессорных ядер | https://habrahabr.ru/company/okmeter/blog/335266/
+
+Делаем приложения с поиском на Go | https://habrahabr.ru/post/333714/
+
+Яндекс открывает технологию машинного обучения CatBoost | https://habrahabr.ru/company/yandex/blog/333522/
+
+Чудесный мир Word Embeddings: какие они бывают и зачем нужны? | https://habrahabr.ru/company/ods/blog/329410/
+
+Я решил отключить Google AMP на своём сайте | https://habrahabr.ru/post/331958/
+
+Сколько технологий нужно Яндексу, чтобы поиск находил свежие документы почти моментально | https://habrahabr.ru/company/yandex/blog/329946/
+
+Лекции Техносферы. Инфопоиск. Часть 2 (весна 2017) | https://habrahabr.ru/company/mailru/blog/329352/
+
+Лекции Техносферы. Инфопоиск. Часть 1 (весна 2017) | https://habrahabr.ru/company/mailru/blog/329072/
+
+Обратная сторона авиабилета. Как Туту.ру помогает подобрать оптимальный тариф | https://habrahabr.ru/company/tuturu/blog/328750/
+
+Нахождение похожих имен средствами MySQL+PHP | https://habrahabr.ru/post/327722/
+
+АMP. Что это и с чем его едят? | https://habrahabr.ru/post/327108/
+
+Первый в мире поисковый движок: Исторический экскурс | https://habrahabr.ru/company/it-grad/blog/323946/
+
+Поиск без интернета. Новая бета приложения Яндекс | https://habrahabr.ru/company/yandex/blog/323422/
+
+Архитектура поиска в Booking.com | https://habrahabr.ru/post/323094/
+
+Поиск по большим документам в ElasticSearch | https://habrahabr.ru/post/321352/
+
+Хайлайтинг больших текстовых полей в ElasticSearch | https://habrahabr.ru/post/320390/
+
+Как Яндекс научил машину самостоятельно создавать переводы для редких языков | https://habrahabr.ru/company/yandex/blog/317910/
+
+Искусственный интеллект в поиске. Как Яндекс научился применять нейронные сети, чтобы искать по смыслу, а не по словам | https://habrahabr.ru/company/yandex/blog/314222/
+
+JavaScript и SEO в 2016 году | https://habrahabr.ru/post/314172/
+
+Тематическое моделирование на пути к разведочному информационному поиску. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/313340/
+
+Лекции Техносферы. 2 семестр. Информационный поиск (весна 2016) | https://habrahabr.ru/company/mailru/blog/312972/
+
+Поиск Яндекса с инженерной точки зрения. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/312716/
+
+Парсинг резюме | https://habrahabr.ru/post/301936/
+
+Как устроен поиск | https://habrahabr.ru/company/oleg-bunin/blog/310208/
+
+GrabDuck: Как мы делаем статьи из закладок | https://habrahabr.ru/company/grabduck/blog/309410/
+
+На пути к простоте: как сложно она дается разработчикам | https://habrahabr.ru/company/macroscop/blog/308796/
+
+Яндекс.Толока. Как люди помогают обучать машинный интеллект | https://habrahabr.ru/company/yandex/blog/305956/
+
+Типографируем названия организаций | https://habrahabr.ru/post/304784/
+
+Почему разработчики видеонаблюдения любят ритейл больше, чем производство? | https://habrahabr.ru/company/macroscop/blog/304490/
+
+Создание поиска по библиотеке юным программистом — каково это? | https://habrahabr.ru/post/303912/
+
+Поиск по Postgres с использованием ZomboDb и elasticsearch | https://habrahabr.ru/post/303744/
+
+Метрики качества ранжирования | https://habrahabr.ru/company/econtenta/blog/303458/
+
+GrabDuck: От Ньютона до вебсайта | https://habrahabr.ru/company/grabduck/blog/301218/
+
+Insider API: поиск трендов и быстрая навигация в текстах соц. и традиционных медиа | https://habrahabr.ru/post/270607/
+
+Google I/O Extended 2016 | https://habrahabr.ru/company/google/blog/283442/
+
+Чем заменить ELK для просмотра логов? | https://habrahabr.ru/post/283026/
+
+Разработка в собственном соку или как мы поняли, что занимаемся не тем, что нужно пользователям | https://habrahabr.ru/company/macroscop/blog/282736/
+
+О поиске видео замолвите слово | https://habrahabr.ru/post/281653/
+
+Основы Elasticsearch | https://habrahabr.ru/post/280488/
+
+Русский нейросетевой чатбот | https://habrahabr.ru/company/meanotek/blog/280268/
+
+Поиск кода в Bitbucket Server | https://habrahabr.ru/post/280133/
+
+Новый useragent поискового робота Google Smartphone | https://habrahabr.ru/company/google/blog/279457/
+
+Вторая загадка Марса | https://habrahabr.ru/company/yandex/blog/279175/
+
+Как закончить Театральный институт и стать руководителем в Yandex – лекция Григория Бакунова в Университете Иннополис | https://habrahabr.ru/company/innopolis_university/blog/277911/
+
+Как работает Google Поиск? | https://habrahabr.ru/company/ua-hosting/blog/277819/
+
+Рип сетевых словарей при помощи Node.js, ч. 2: динамические страницы; подключение NW.js | https://habrahabr.ru/post/277513/
+
+Word2Vec: классификация текстовых документов | https://habrahabr.ru/post/277563/
+
+Реализация семантического новостного агрегатора с широкими поисковыми возможностями | https://habrahabr.ru/post/277351/
+
+Революция машинного обучения: общие принципы и влияние на SEO | https://habrahabr.ru/post/277103/
+
+Техносфере Mail.Ru — 2 года | https://habrahabr.ru/company/mailru/blog/277019/
+
+Как «Спутник» включал «Детский режим» | https://habrahabr.ru/company/rostelecom/blog/276357/
+
+Нечеткий поиск в словаре с универсальным автоматом Левенштейна. Часть 2 | https://habrahabr.ru/post/276019/
+
+Нечеткий поиск в словаре с универсальным автоматом Левенштейна. Часть 1 | https://habrahabr.ru/post/275937/
+
+Рип сетевых словарей при помощи Node.js, ч. 1: статические страницы; CLI; DSL -> TXT, PDF, DjVu; сопутствующие задачи | https://habrahabr.ru/post/274475/
+
+Насколько важен API или сравниваем Яндекс.XML и реальную выдачу | https://habrahabr.ru/post/275197/
+
+Повышаем производительность поиска с помощью партиционирования индекса в Apache Solr | https://habrahabr.ru/company/wrike/blog/274059/
+
+Как выбрать SEO агентство — выигрышный способ | https://habrahabr.ru/post/273195/
+
+«Задачник» для ABBYY Compreno | https://habrahabr.ru/company/abbyy/blog/272813/
+
+Мобильный поиск внутри приложений… которых у вас нет!  | https://habrahabr.ru/company/google/blog/272431/
+
+Практические аспекты автоматической генерации уникальных текстов для SEO | https://habrahabr.ru/company/meanotek/blog/271965/
+
+Исповедь Google-спамера | https://habrahabr.ru/company/ua-hosting/blog/271803/
+
+Стань участником 1-й бесплатной Международной школы по методам разработки ПО | https://habrahabr.ru/company/innopolis_university/blog/271665/
+
+«Красная карточка»: что скрывается за предупреждением о вредоносном ПО? | https://habrahabr.ru/company/google/blog/271193/
+
+DDoS с неожиданного направления или «стоит ли боятся ботов ПС?» | https://habrahabr.ru/post/270297/
+
+Как обнаружить и устранить скрытую переадресацию для мобильных устройств | https://habrahabr.ru/company/google/blog/269951/
+
+Дайджест: Чему мы научили поиск за это лето | https://habrahabr.ru/company/google/blog/269873/
+
+Зачем голосовому Поиску Google нейронные сети? | https://habrahabr.ru/company/google/blog/269747/
+
+Алгоритм извлечения информации в ABBYY Compreno. Часть 2 | https://habrahabr.ru/company/abbyy/blog/269273/
+
+Алгоритм извлечения информации в ABBYY Compreno. Часть 1 | https://habrahabr.ru/company/abbyy/blog/269191/
+
+Дизайн развития браузера «Социальная панель для браузера» | https://habrahabr.ru/post/269089/
+
+Поиск и чтение унаследованного кода | https://habrahabr.ru/company/custis/blog/267923/
+
+С Днем Рождения, Google | https://habrahabr.ru/company/ua-hosting/blog/257095/
+
+Python Meetup 28.08.15: полнотекстовый поиск и Europython 2015 | https://habrahabr.ru/company/wargaming/blog/267503/
+
+Яндекс.Блоги — мы подумаем за вас | https://habrahabr.ru/company/ua-hosting/blog/267511/
+
+Публикация логов в Elasticsearch — жизнь без регулярных выражений и без logstash | https://habrahabr.ru/post/267009/
+
+Пешком по тайлам | https://habrahabr.ru/company/2gis/blog/266753/
+
+#NoHacked: устранение последствий взлома с загрузкой URL, содержащих бессмысленный текст | https://habrahabr.ru/company/google/blog/266027/
+
+ACM SIGIR 2015: ключевые тренды развития поисковых технологий | https://habrahabr.ru/company/textocat/blog/265113/
+
+API для валидатора от Яндекса. А также почему валидаторы микроразметки выдают разные ответы? | https://habrahabr.ru/company/yandex/blog/265965/
+
+Кто ВКонтакте самый главный? | https://habrahabr.ru/company/mlclass/blog/265923/
+
+Зачем нужны и как работают «вечные ссылки» в социальных сетях | https://habrahabr.ru/company/seopult/blog/265555/
+
+Теги в социальных сетях и синтетические (флективные) языки | https://habrahabr.ru/post/264325/
+
+Вероятностное программирование | https://habrahabr.ru/company/yandex/blog/263991/
+
+Реализация поискового движка с ранжированием на Python (Часть 3) | https://habrahabr.ru/post/263983/
+
+Реализация поискового движка с ранжированием на Python (Часть 2) | https://habrahabr.ru/post/263913/
+
+Реализация поискового движка с ранжированием на Python (Часть 1) | https://habrahabr.ru/post/263823/
+
+Исследование межстраничных объявлений в Google+ с рекламой приложений | https://habrahabr.ru/company/google/blog/263387/
+
+Почему непросто показать все цвета в одномерном пространстве, и сколько раз это можно сделать | https://habrahabr.ru/company/yandex/blog/263375/
+
+Text Analytics as Commodity: обзор приложений текстовой аналитики | https://habrahabr.ru/company/textocat/blog/259035/
+
+Как можно использовать искусственный интеллект для решения SEO-задач | https://habrahabr.ru/post/262809/
+
+Киберпсихология или как технологии сводят с ума | https://habrahabr.ru/company/ua-hosting/blog/262767/
+
+GrabDuck: интеграция со StackOverflow через StackExchange API | https://habrahabr.ru/company/grabduck/blog/260129/
+
+Необычный хакатон по открытым данным | https://habrahabr.ru/company/mlclass/blog/260675/
+
+Сезон охоты на Гугл открыт | https://habrahabr.ru/company/lazerto/blog/260619/
+
+Мобильный трафик: его ультра-много, но он ультра-пассивный. Что с этим делать? | https://habrahabr.ru/post/259423/
+
+Развитие успешного международного бизнеса с Google Play | https://habrahabr.ru/company/google/blog/259377/
+
+Ваши вопросы о Data Science | https://habrahabr.ru/company/mlclass/blog/259321/
+
+Автоматическая генерация осмысленных уникальных текстов | https://habrahabr.ru/company/meanotek/blog/259355/
+
+Отображение контента iOS-приложений в результатах Поиска Google и другие приятные новости | https://habrahabr.ru/company/google/blog/258833/
+
+Технологии Semantic Web | https://habrahabr.ru/company/itis/blog/258405/
+
+Новые возможности для разработчиков приложений в Search Console | https://habrahabr.ru/company/google/blog/258479/
+
+Big Data: текущая реальность | https://habrahabr.ru/company/mlclass/blog/258475/
+
+Как создать искусственный интеллект? История вторая. Алгоритмы интеллектуального поиска и хранения информации | https://habrahabr.ru/post/258399/
+
+Elasticsearch — сортируем выдачу руками | https://habrahabr.ru/company/mailru/blog/258205/
+
+Редизайн и продвижение. Задачка о яйце и курице | https://habrahabr.ru/post/257669/
+
+Извлечение упоминаний сущностей и поиск в Textocat API | https://habrahabr.ru/company/textocat/blog/256165/
+
+Лекции Техносферы. 2 семестр. Современные методы и средства построения систем информационного поиска | https://habrahabr.ru/company/mailru/blog/257119/
+
+Яндекс против мошеннических мобильных редиректов и подписок | https://habrahabr.ru/company/yandex/blog/257043/
+
+GrabDuck: новый взгляд на закладки | https://habrahabr.ru/company/grabduck/blog/256059/
+
+Обновление #длямобильных уже в действии. Отвечаем на ваши вопросы | https://habrahabr.ru/company/google/blog/256539/
+
+Сериал: Big Data — как мечта. 6-я серия. BD (Bolt Data) — Быстрые Big Data данные | https://habrahabr.ru/company/palitrumlab/blog/255963/
+
+Новый алгоритм Яндекса Минусинск | https://habrahabr.ru/company/altweb/blog/255847/
+
+Сериал: Big Data — как мечта. 4-я серия. Революция мозгов | https://habrahabr.ru/company/palitrumlab/blog/255069/
+
+Web Components и JSON-LD в помощь веб-разработчику | https://habrahabr.ru/company/google/blog/253583/
+
+Делаем веб-формы удобнее для заполнения | https://habrahabr.ru/company/google/blog/253585/
+
+Еще одна статья про индексацию ajax-сайтов поисковиками | https://habrahabr.ru/post/254213/
+
+Как попасть в топ на Kaggle, или Матрикснет в домашних условиях | https://habrahabr.ru/post/254151/
+
+В свободном доступе по-прежнему находится частная, финансовая и другая закрытая информация пользователей Fl.ru | https://habrahabr.ru/post/254141/
+
+Поисковая оптимизация для AppStore и Google Play или ASO | https://habrahabr.ru/post/253969/
+
+RuSSIR 2015: дедлайн подачи статей приближается | https://habrahabr.ru/post/253599/
+
+Создание семантических сайтов с помощью веб-компонентов и JSON-LD | https://habrahabr.ru/post/253479/
+
+Deep Learning, NLP, and Representations | https://habrahabr.ru/post/253227/
+
+Корпоративный поиск | https://habrahabr.ru/company/varonis/blog/253149/
+
+Выявляем заблокированные ресурсы при помощи инструментов Google для веб-мастеров | https://habrahabr.ru/company/google/blog/252749/
+
+Практика применения семантической разметки | https://habrahabr.ru/post/252721/
+
+Яндекс — мы подумаем за Вас | https://habrahabr.ru/post/252603/
+
+Пишем поисковый плагин для Elasticsearch | https://habrahabr.ru/post/252067/
+
+Улучшаем результаты поиска на мобильных устройствах | https://habrahabr.ru/company/google/blog/250089/
+
+Как Elasticsearch может помочь в поиске подозрительной активности на сайте | https://habrahabr.ru/post/250413/
+
+Как Evernote находит текст в изображениях | https://habrahabr.ru/company/evernote/blog/250189/
+
+Лингвистические аспекты what3words и технический анализ словарей | https://habrahabr.ru/company/what3words/blog/249269/
+
+Сканирование и индексирование страниц на нескольких языках | https://habrahabr.ru/company/google/blog/249037/
+
+Word2Vec в примерах | https://habrahabr.ru/post/249215/
+
+Интернет-сервис для отслеживания изменений на сайтах | https://habrahabr.ru/company/embc/blog/249075/
+
+Поведенческие факторы в Яндекс. Нюансы работы фильтра, о которых должен знать каждый вебмастер | https://habrahabr.ru/post/248309/
+
+Онтоинженер: от сотворения мира к порождению сущностей | https://habrahabr.ru/company/abbyy/blog/246039/
+
+Конвейер обработки текста в Sphinx | https://habrahabr.ru/post/246679/
+
+Семейный фильтр Яндекса дал сбой | https://habrahabr.ru/post/246643/
+
+Онтоинженер: работа по понятиям | https://habrahabr.ru/company/abbyy/blog/245509/
+
+Не только Яндексу. Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам | https://habrahabr.ru/company/yandex/blog/246003/
+
+Поиск на сайте своими руками | https://habrahabr.ru/post/244561/
+
+Как найти любовь или приключения с помощью crate.io и kibana | https://habrahabr.ru/post/244193/
+
+Google будет помечать мобильные сайты в результатах поиска | https://habrahabr.ru/company/google/blog/243559/
+
+Оценка конкурентности поисковых запросов по вариациям поисковой выдачи | https://habrahabr.ru/post/240795/
+
+Поисковые технологии в Airbnb | https://habrahabr.ru/company/airbnb/blog/240683/
+
+Сколько научных статей в интернете? | https://habrahabr.ru/post/240049/
+
+Оценка вариативности поисковой выдачи | https://habrahabr.ru/post/239797/
+
+Взлом с помощью поиска, невнимательность и мой подельник GitHub | https://habrahabr.ru/post/239567/
+
+Как пользовательские факторы влияют на ранжирование: 2 важнейших фактора | https://habrahabr.ru/company/altweb/blog/238335/
+
+Как работает поиск на Airbnb | https://habrahabr.ru/company/airbnb/blog/237807/
+
+Выявление алгоритмов ранжирования поисковых систем | https://habrahabr.ru/post/237415/
+
+Метрики эффективности для вертикальной поисковой выдачи на основе кликовой модели | https://habrahabr.ru/company/altweb/blog/237285/
+
+Android L, Nexus 5, Google Search и все-все-все | https://habrahabr.ru/post/236395/
+
+Новые возможности Google Поиска в ссылках сайта | https://habrahabr.ru/company/google/blog/236319/
+
+Поисковая система в АНБ содержит более 850 млрд записей | https://habrahabr.ru/post/234615/
+
+SEO в разработке eCommerce проектов (20 правил для разработчика) | https://habrahabr.ru/company/SECL_GROUP/blog/233329/
+
+Новая функциональность MegaIndex: усиление ссылок живыми пользователями | https://habrahabr.ru/company/altweb/blog/233077/
+
+Google повышает сайты с HTTPS в выдаче | https://habrahabr.ru/post/232629/
+
+Два примера коммерческой цензуры: за негативные отзывы отель штрафует посетителей, а ресторан выигрывает в суде | https://habrahabr.ru/post/232443/
+
+MegaIndex: технологический лидер в области автоматизированного продвижения сайтов | https://habrahabr.ru/company/altweb/blog/232139/
+
+Безопасное развертывание ElasticSearch сервера | https://habrahabr.ru/company/likeastore/blog/231917/
+
+Британский парламент выступил против «права быть забытым» | https://habrahabr.ru/post/231571/
+
+Эволюция алгоритмов поисковых систем | https://habrahabr.ru/company/altweb/blog/231531/
+
+Похожие поисковые запросы в hh.ru | https://habrahabr.ru/company/hh/blog/231393/
+
+Личные данные: продать нельзя отдать? | https://habrahabr.ru/company/yotadevices/blog/230531/
+
+Bing стал следующим поисковиком, в котором можно запросить удаление поисковых результатов | https://habrahabr.ru/post/230281/
+
+Прогноз ЧМ 2014 на языке Вольфрама | https://habrahabr.ru/post/227925/
+
+Searchcode 2.0 | https://habrahabr.ru/post/227761/
+
+RuSSIR 2014: VIII летняя школа по информационному поиску | https://habrahabr.ru/company/itis/blog/227219/
+
+ElasticSearch — mapping и поиск без сюрпризов | https://habrahabr.ru/company/smartprogress/blog/227531/
+
+Современные аспекты представления текстов при анализе естественного языка: классические и альтернативные подходы | https://habrahabr.ru/post/227199/
+
+ElasticSearch — агрегация данных | https://habrahabr.ru/company/smartprogress/blog/227131/
+
+ElasticSearch и поиск наоборот. Percolate API | https://habrahabr.ru/company/smartprogress/blog/226749/
+
+О шифровании рефереров в Яндексе | https://habrahabr.ru/company/yandex/blog/226425/
+
+Google планирует указывать в выдаче, что результаты были удалены по требованию фигуранта поискового запроса | https://habrahabr.ru/post/225703/
+
+Как улучшить сегментацию пользовательской активности. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/224719/
+
+Почему в поиске без лингвистики не обойтись? | https://habrahabr.ru/company/yandex/blog/224579/
+
+Взгляните на свою страницу глазами робота Googlebot | https://habrahabr.ru/company/google/blog/224331/
+
+Совершенствуем понимание веб-страниц | https://habrahabr.ru/company/google/blog/224135/
+
+Какому языку можно научиться, задавая вопросы поисковой системе? Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/223957/
+
+Как я «крутил» поведенческие факторы | https://habrahabr.ru/post/223827/
+
+Поисковик Спутник запущен | https://habrahabr.ru/post/223727/
+
+Новый модный молодёжный поисковик Спутник от Ростелекома уже завтра во всех интернетах стран | https://habrahabr.ru/post/223643/
+
+Борьба за трафик. Как вывести сайт из-под спам-фильтра Google (Вторая Часть) | https://habrahabr.ru/company/rusonyx/blog/223455/
+
+Анализ неявных предпочтений пользователей. Научно-технический семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/223121/
+
+Мэтт снова угрожает новым алгоритмом | https://habrahabr.ru/company/paysto/blog/223167/
+
+Переходим от MongoDB Full Text к ElasticSearch | https://habrahabr.ru/company/likeastore/blog/223109/
+
+Расширение к Google Chrome способное улучшить качество поиска | https://habrahabr.ru/company/likeastore/blog/222515/
+
+Новая версия DuckDuckGo | https://habrahabr.ru/post/222045/
+
+Автоматическое определение рубрики текста | https://habrahabr.ru/post/221853/
+
+Яндекс потерял 10% капитализации за сутки | https://habrahabr.ru/post/220951/
+
+Индексация рукописного текста в изображениях: от европейских языков к азиатским | https://habrahabr.ru/company/evernote/blog/220369/
+
+Борьба за трафик. Как вывести сайт из-под спам-фильтра Google (Первая Часть) | https://habrahabr.ru/company/rusonyx/blog/218809/
+
+Google Now появился в Chrome на Windows и Mac | https://habrahabr.ru/post/216961/
+
+Google отказывается от подчеркнутых ссылок | https://habrahabr.ru/post/215795/
+
+Отмена учета ссылок в ранжировании коммерческих запросов | https://habrahabr.ru/company/yandex/blog/215547/
+
+Перехват разговоров ФБР с помощью Google Maps | https://habrahabr.ru/post/214617/
+
+Elastic Search в enterprise-проектах | https://habrahabr.ru/company/2gis/blog/213765/
+
+То, что вы, возможно, не знали о словарях в лекции «Словари: мифы и реальность» | https://habrahabr.ru/company/yandex/blog/213461/
+
+Моделируем мир для поисковой системы. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/212545/
+
+Yacy — распределённый не цензурируемый поисковик: три года спустя | https://habrahabr.ru/post/212407/
+
+«Яндекс» научился искать музыку по мотивчику типа «пу пу пиду» | https://habrahabr.ru/post/212403/
+
+Google будет показывать в результатах поиска рекламу конкурентов: результаты антимонопольного расследования ЕС | https://habrahabr.ru/post/211566/
+
+Яндекс против шокирующей рекламы | https://habrahabr.ru/company/yandex/blog/210712/
+
+Из-за глюка Google тысячи писем ушли на один почтовый ящик Hotmail | https://habrahabr.ru/post/210300/
+
+Как работают «нессылочные» факторы ранжирования Яндекса — попытка анализа | https://habrahabr.ru/post/210088/
+
+Как математика помогает Яндексу зарабатывать? | https://habrahabr.ru/company/yandex/blog/209482/
+
+Google упростил поиск картинок по типу лицензии | https://habrahabr.ru/post/209038/
+
+Как увеличить конверсию и средний чек поиском по сайту | https://habrahabr.ru/post/208722/
+
+Знания о языке и Яндекс. Зачем нам падежи? Лекция малой школы анализа данных | https://habrahabr.ru/company/yandex/blog/206870/
+
+Нечеткий динамический текстовый поиск? Не так уж и страшно | https://habrahabr.ru/post/206066/
+
+Новые исследования: как ещё связано SEO и социальные сигналы? | https://habrahabr.ru/company/seopult/blog/205338/
+
+Система поиска плагиата | https://habrahabr.ru/post/199190/
+
+Яндекс проводит эксперимент по шифрованию текста запроса в заголовке Referer | https://habrahabr.ru/company/yandex/blog/204886/
+
+Как это сделано: префиксный поиск | https://habrahabr.ru/company/mailru/blog/204654/
+
+Архитектура Поиска Яндекса. Лекция для Малого ШАДа | https://habrahabr.ru/company/yandex/blog/204282/
+
+Как мы ускорили поиск на hh.ru | https://habrahabr.ru/company/hh/blog/203986/
+
+Базы знаний. Часть 2. Freebase: делаем запросы к Google Knowledge Graph | https://habrahabr.ru/post/177217/
+
+Dell и Красный Крест создают уникальную систему мониторинга социальных медиа | https://habrahabr.ru/company/dellemc/blog/201080/
+
+Как это сделано: парсинг статей | https://habrahabr.ru/company/mailru/blog/200394/
+
+Как мы ускорили поиск в Яндекс.Почте и при этом освободили 25 серверов | https://habrahabr.ru/company/yandex/blog/199432/
+
+Blippex — википедия поиска | https://habrahabr.ru/company/blippex/blog/199336/
+
+Яндекс научился распознавать и объединять серии изображений | https://habrahabr.ru/company/yandex/blog/198830/
+
+Самые полезные обновления Google Analytics в 2013 году | https://habrahabr.ru/company/iseo/blog/198730/
+
+Вавки, фантомашки и уделанные — Яндекс знает, в каких городах они есть | https://habrahabr.ru/post/198638/
+
+Технология Блендер. Как Яндекс умно смешивает разные виды ответов | https://habrahabr.ru/company/yandex/blog/197838/
+
+Повышение Not Provided в Google Analytics: что изменится в SEO? | https://habrahabr.ru/company/iseo/blog/197698/
+
+«Ростелеком» запустит государственный интернет-поисковик | https://habrahabr.ru/post/197148/
+
+Прикручиваем пространственный индекс к ничего не подозревающей OpenSource СУБД | https://habrahabr.ru/post/196682/
+
+Prerender | https://habrahabr.ru/post/196718/
+
+Runnable: поисковик по коду с его исполнением в VM | https://habrahabr.ru/post/196702/
+
+Google приходится удалять восемь «пиратских» ссылок в секунду | https://habrahabr.ru/post/196690/
+
+Ранжирование в деталях | https://habrahabr.ru/company/rookee/blog/196162/
+
+Голосовой поиск «по-русски» | https://habrahabr.ru/post/196158/
+
+Google рассказал о своей формуле поиска | https://habrahabr.ru/post/196066/
+
+6 глобальных проблем современной поисковой выдачи | https://habrahabr.ru/company/smartprogress/blog/195688/
+
+Автор научных статей Клайв Томпсон не считает, что технологии делают нас глупее | https://habrahabr.ru/post/195584/
+
+15 лет Google | https://habrahabr.ru/post/195490/
+
+Почему резко упала посещаемость сайта? | https://habrahabr.ru/company/iseo/blog/195216/
+
+Как измерить релевантность контента | https://habrahabr.ru/company/rookee/blog/195134/
+
+Яндекс, с Днем рождения! | https://habrahabr.ru/post/194942/
+
+Google Constitute — сравнение 160 мировых конституций | https://habrahabr.ru/post/194896/
+
+Яндекс добавил возможность оплаты мобильного телефона прямо через поисковый сервис | https://habrahabr.ru/post/193226/
+
+Google отказался удалить главную страницу The Pirate Bay | https://habrahabr.ru/post/193210/
+
+Яндекс, роботы и Сибирь — как мы сделали систему поиска по загруженному изображению | https://habrahabr.ru/company/yandex/blog/192404/
+
+Поисковые системы Китая | https://habrahabr.ru/post/191822/
+
+Измеряем качество поиска в Почте | https://habrahabr.ru/company/mailru/blog/191554/
+
+Google обновили функцию словарного поиска | https://habrahabr.ru/post/191214/
+
+Yahoo обогнал Google по генерируемому человекотраффику в США | https://habrahabr.ru/post/190998/
+
+Яндекс и Schema.org: началась стандартизация «Островов» | https://habrahabr.ru/company/yandex/blog/190760/
+
+Самая популярная статья в научном журнале | https://habrahabr.ru/post/190472/
+
+Сказ о том, как бы я продвигал сайт или не так страшно SEO как его малюют | https://habrahabr.ru/post/189932/
+
+В этом году Google удалил уже 100 миллионов «пиратских» ссылок из выдачи | https://habrahabr.ru/post/188074/
+
+Бета-версия Островов Яндекса: «Мы хотим наделить смыслом любой элемент, находящийся на странице результатов поиска» | https://habrahabr.ru/company/yandex/blog/187716/
+
+Искусство понимать с полуслова. Расширение запроса в Яндексе | https://habrahabr.ru/company/yandex/blog/187404/
+
+Google: альтернативы поисковому гиганту | https://habrahabr.ru/post/187088/
+
+Используем поисковые движки для проверки корректности фраз | https://habrahabr.ru/post/185860/
+
+Организуем поиск молекулярных структур с помощью Lucene и Chemistry Development Kit | https://habrahabr.ru/post/185420/
+
+Mail.ru отказался от поиска Google | https://habrahabr.ru/post/185278/
+
+Сравнение сервисов для мониторинга сайтов клиентов или страховка для SEO-параноика | https://habrahabr.ru/post/185242/
+
+Что ищут со словом «срочно» | https://habrahabr.ru/post/184804/
+
+Взгляд изнутри на подсказки поисковых запросов в Evernote | https://habrahabr.ru/company/evernote/blog/184546/
+
+Google добавил релевантные изображения к рекламе Adwords на странице поисковой выдачи | https://habrahabr.ru/post/182376/
+
+«Острова» Яндекса: техническая сторона и API | https://habrahabr.ru/company/yandex/blog/181646/
+
+Поиск Яндекса сможет адаптироваться к вашим интересам за несколько секунд | https://habrahabr.ru/company/yandex/blog/181514/
+
+Я.Метрика: теперь можно узнать, чем интересуются целевые посетители | https://habrahabr.ru/post/180747/
+
+Крипта: пользователь «глазами» Яндекса | https://habrahabr.ru/post/179993/
+
+RuSSIR 2013: VII летняя школа по информационному поиску | https://habrahabr.ru/company/itis/blog/179855/
+
+Яндекс обновился. Яндекс острова | https://habrahabr.ru/post/179877/
+
+Обработка и классификация запросов. Часть третья: Исправление опечаток | https://habrahabr.ru/company/mailru/blog/178401/
+
+На какие вопросы можно ответить, проанализировав 1 500 000 уникальных историй болезней? | https://habrahabr.ru/post/178457/
+
+Разбираемся с построением мультирегиональных сайтов | https://habrahabr.ru/post/177089/
+
+Google изменит внешний вид поисковой выдачи для Европы, «даст фору» конкурентным сервисам | https://habrahabr.ru/post/176723/
+
+Обработка и классификация запросов. Часть вторая: навигационные запросы | https://habrahabr.ru/company/mailru/blog/176363/
+
+Поиск вчера, сегодня, завтра… | https://habrahabr.ru/post/176399/
+
+Будущее поиска: интервью с участниками Европейской конференции по информационному поиску | https://habrahabr.ru/company/yandex/blog/175349/
+
+А есть ли альтернатива поисковым системам | https://habrahabr.ru/post/175427/
+
+Исследование статистики поисковых запросов позволяет обнаружить неизвестные ранее побочные эффекты лекарств | https://habrahabr.ru/post/174631/
+
+Поиск с помощью Lucene в Playframework 1.x | https://habrahabr.ru/post/174545/
+
+Обработка и классификация запросов. Часть первая: парсер запросов | https://habrahabr.ru/company/mailru/blog/174321/
+
+Чья морфология лучше? Яндекс vs Google | https://habrahabr.ru/post/173351/
+
+Google выложила руководства для начинающих SEO-оптимизаторов | https://habrahabr.ru/post/172965/
+
+ECIR 2013 — в Москве | https://habrahabr.ru/company/yandex/blog/171187/
+
+GSA: Препарируем Google Search Appliance в виртуальной машине | https://habrahabr.ru/post/170801/
+
+Обработка естественных языков: недостающий инструмент | https://habrahabr.ru/post/170619/
+
+База данных потерянных вещей с поиском по фамилии | https://habrahabr.ru/post/169935/
+
+Конференция «День интернет-рекламы: от планирования до оценки эффективности» | https://habrahabr.ru/company/it_dominanta/blog/169815/
+
+Повышение эффективности работы в Google Chrome | https://habrahabr.ru/post/169019/
+
+Google заплатит Apple 1 миллиард долларов в 2014 за право быть поисковиком по умолчанию в iOS | https://habrahabr.ru/post/169157/
+
+Яндекс обогнал Microsoft в мировом поиске | https://habrahabr.ru/post/168585/
+
+Как Google & Яндекс находят картинки | https://habrahabr.ru/post/167813/
+
+Полнотекстовый поиск: как это делают в Почте Mail.Ru | https://habrahabr.ru/company/mailru/blog/167497/
+
+Шаг за шагом, или Как мы строили свой поиск | https://habrahabr.ru/company/mailru/blog/167297/
+
+Новая социальная сеть — напечатай мне письмо | https://habrahabr.ru/post/167137/
+
+Яндекс выпустил социально-поисковое iOS-приложение для США | https://habrahabr.ru/post/166991/
+
+Google открыл регистрацию на второй курс продвинутого поиска | https://habrahabr.ru/post/165383/
+
+Какая часть веба заархивирована | https://habrahabr.ru/post/164975/
+
+Живой поиск Suggest.io: +7 к алгоритмам релевантности | https://habrahabr.ru/company/cbca/blog/163827/
+
+ABBYY Labs. Проект «Q&A»: демонстрация возможностей | https://habrahabr.ru/company/abbyy/blog/161245/
+
+Алгоритм BM25 | https://habrahabr.ru/post/162937/
+
+Новая платформа поиска Яндекса с персональными результатами: «Калининград» | https://habrahabr.ru/company/yandex/blog/162245/
+
+Поисковик (или социальная сеть?) Socl от Microsoft открыта для бета-тестеров. Да, там тоже есть плитки! | https://habrahabr.ru/post/161561/
+
+Google запускает «Граф знаний» для русскоязычных пользователей | https://habrahabr.ru/post/161465/
+
+Как поисковые подсказки каждый день экономят человеческую жизнь | https://habrahabr.ru/company/yandex/blog/160749/
+
+Google больше не будут блокировать | https://habrahabr.ru/post/160947/
+
+Google теперь в ответе за вранье пользователей | https://habrahabr.ru/post/160351/
+
+Мыльный пузырь рекламы: show must go on! Мы творцы истории интернета | https://habrahabr.ru/post/158463/
+
+10 000 000 000 000 000 байтов заархивировано | https://habrahabr.ru/post/156349/
+
+Googlebot выполняет Javascript с трёхдневной задержкой | https://habrahabr.ru/post/155725/
+
+Взгляд из Google на оптимизацию сайтов | https://habrahabr.ru/post/155459/
+
+Во Франции хотят заставить поисковики платить за контент. Google пригрозил убрать французские сайты из своего индекса | https://habrahabr.ru/post/155373/
+
+Google представил функцию «Disavow links» для выборочного снятия влияния спамных внешних ссылок | https://habrahabr.ru/post/155077/
+
+В персональной поисковой выдаче Google появятся личные документы пользователя | https://habrahabr.ru/post/154949/
+
+Антипиратский робот в режиме паранойи | https://habrahabr.ru/post/153951/
+
+Разрешите ли вы Google Site Search или Яндекс Поиск для сайта забирать данные напрямую из вашей базы данных? | https://habrahabr.ru/post/152979/
+
+Блог на Wordpress с семантической разметкой | https://habrahabr.ru/post/152937/
+
+Колдунщик Яндекс.Такси в результатах поиска | https://habrahabr.ru/post/152859/
+
+14 лет Google | https://habrahabr.ru/post/152441/
+
+Facebook добавил «историю поиска» | https://habrahabr.ru/post/151978/
+
+15 лет назад был зарегистрирован google.com | https://habrahabr.ru/post/151530/
+
+Странное поведение Googlebot | https://habrahabr.ru/post/151517/
+
+Яндекс попробует научить пользователей правописанию | https://habrahabr.ru/post/150741/
+
+Прекратил своё существование старейший поисковик рунета — Апорт | https://habrahabr.ru/post/150589/
+
+Алфавит в Google vs Алфавит в Яндекс | https://habrahabr.ru/post/150534/
+
+Поиск@Mail.Ru, часть вторая: обзор архитектур подготовки данных больших поисковых систем | https://habrahabr.ru/company/mailru/blog/150303/
+
+Организация и оптимизация информационного пространства пользователя | https://habrahabr.ru/post/150044/
+
+Поиск@Mail.Ru. Часть первая | https://habrahabr.ru/company/mailru/blog/149498/
+
+Bitly анонсировал поисковый сервис Realtime | https://habrahabr.ru/post/148684/
+
+Инженерный калькулятор в выдаче Google | https://habrahabr.ru/post/148464/
+
+Библиотека Конгресса продолжает попытки архивировать все твиты за 2006-2012 годы | https://habrahabr.ru/post/148233/
+
+Команда Black Duck запускает обновленный поисковик открытого кода | https://habrahabr.ru/post/148225/
+
+Улучшаем релевантность поиска в sphinxsearch | https://habrahabr.ru/post/147745/
+
+Google запустил онлайн-курс обучения продвинутому поиску | https://habrahabr.ru/post/147530/
+
+Сравнение Google Search в Android 4.1 и Siri | https://habrahabr.ru/post/146962/
+
+Ищем вместе с Гуглом | https://habrahabr.ru/post/146912/
+
+Карточки Google Now | https://habrahabr.ru/post/146741/
+
+Создание поисковика, или Автоматизация Яндекс.Сервера | https://habrahabr.ru/post/146621/
+
+Мониторинг позиций своими руками | https://habrahabr.ru/post/146258/
+
+Google станет поисковой системой по умолчанию в русскоязычном Firefox 14 | https://habrahabr.ru/post/145625/
+
+Google отчитался о борьбе с пиратскими ссылками в поисковой выдаче | https://habrahabr.ru/post/144594/
+
+Уже не Первый | https://habrahabr.ru/post/144524/
+
+Яндекс запустил систему показа фактов и цифр в поисковых подсказках | https://habrahabr.ru/post/144382/
+
+Команда Microsoft Research побила мировой рекорд по сортировке | https://habrahabr.ru/post/144295/
+
+PageRank и борьба с раком | https://habrahabr.ru/post/144103/
+
+Google Knowledge Graph | https://habrahabr.ru/post/143995/
+
+Про социальный поиск без картинок | https://habrahabr.ru/post/143965/
+
+Настрой свой Google | https://habrahabr.ru/post/143765/
+
+Microsoft представила «социальную» версию Bing | https://habrahabr.ru/post/143607/
+
+Разграничение Google поиска для Росcии, Украины и Белоруссии | https://habrahabr.ru/post/143407/
+
+Императивный RegExp. Нотация | https://habrahabr.ru/post/143026/
+
+Google запустил сервис Trusted Stores в тестовом режиме | https://habrahabr.ru/post/142860/
+
+Wolfram Alpha теперь анализирует литературные произведения | https://habrahabr.ru/post/141873/
+
+Сегодня IndexTank выключает все свои сервера | https://habrahabr.ru/post/141820/
+
+I'm Feeling Lucky в стандартном поиске браузера | https://habrahabr.ru/post/141427/
+
+Графики математических функций на Google теперь в 3D | https://habrahabr.ru/post/141109/
+
+Токийский суд постановил блокировать поисковые подсказки Google | https://habrahabr.ru/post/140754/
+
+Чтобы вы могли сделать, если бы вы были Google и у вас бы были их базы данных? | https://habrahabr.ru/post/140232/
+
+Качество поиска в Рунете – 2011 | https://habrahabr.ru/post/140212/
+
+Google разрабатывает новую систему наказаний для чрезмерно оптимизированных сайтов | https://habrahabr.ru/post/140199/
+
+Поиск Google: Грядут изменения | https://habrahabr.ru/post/140084/
+
+Поисковая система YossarianLives ищет метафоры | https://habrahabr.ru/post/138934/
+
+Поисковик Scroogle вынужден закрыться | https://habrahabr.ru/post/138704/
+
+Wolfram Alpha Pro | https://habrahabr.ru/post/137893/
+
+Google будет собирать поисковую статистику, предлагая пользователям деньги | https://habrahabr.ru/post/137859/
+
+Проектирование алгоритмов поисковых систем — путь к успеху проектирования сайтов и оптимизации | https://habrahabr.ru/post/137298/
+
+Зачем Google использует домен Duck.com? | https://habrahabr.ru/post/137261/
+
+Локализованный поиск от Google | https://habrahabr.ru/post/137251/
+
+Простой способ узнать, кто добавил твой пост в избранное | https://habrahabr.ru/post/137195/
+
+Google понизит в поисковой выдаче сайты с большим количеством рекламы | https://habrahabr.ru/post/136789/
+
+Bing впервые обогнал поисковый сервис Yahoo по популярности | https://habrahabr.ru/post/136157/
+
+Поисковый движок IndexTank передан в open source | https://habrahabr.ru/post/135193/
+
+Яндекс крадёт мобильный трафик у вебмастеров? | https://habrahabr.ru/post/135022/
+
+Госпоиск состоялся: по Рунету начал ходить бот электронного правительства или госпоисковика | https://habrahabr.ru/post/133839/
+
+Распределённый поисковик YaCy версия 1.0 | https://habrahabr.ru/post/133600/
+
+Корпорация Yahoo отключила сервис Site Explorer | https://habrahabr.ru/post/133227/
+
+http://(Любое_слово).jpg.to | https://habrahabr.ru/post/133082/
+
+Wolfram Alpha может определить, какой тип самолета сейчас пролетел над вами | https://habrahabr.ru/post/132955/
+
+Google внедрил опцию Verbatim в настройки расширенного поиска | https://habrahabr.ru/post/132775/
+
+Корпорация Google купила компанию Apture | https://habrahabr.ru/post/132392/
+
+Общедоступный индекс веба (5 миллиардов веб-страниц) | https://habrahabr.ru/post/132171/
+
+Можно ли сделать фильтр по спам-сайтам в поисковике? | https://habrahabr.ru/post/131241/
+
+16% поисковых запросов каждый день — новые | https://habrahabr.ru/post/131012/
+
+Оператор (+) больше не работает в поиске Google | https://habrahabr.ru/post/130992/
+
+Googlebot начал делать POST-запросы через Ajax | https://habrahabr.ru/post/130258/
+
+Google варит пиво | https://habrahabr.ru/post/129607/
+
+Обвал акций Яндекса, письмо инвесторам и Chrome | https://habrahabr.ru/post/129579/
+
+В Google Maps добавлен объемный «вертолетный режим» | https://habrahabr.ru/post/129563/
+
+Google Analytics теперь показывает статистику посещений в режиме реального времени | https://habrahabr.ru/post/129471/
+
+Google запустил поиск авиабилетов | https://habrahabr.ru/post/128453/
+
+Поисковые запросы, которые фильтруются Google | https://habrahabr.ru/post/127597/
+
+Поисковик горящих туров FAN TRIP | https://habrahabr.ru/post/78164/
+
+Безликость страниц с результатами поиска поисковых гигантов | https://habrahabr.ru/post/126483/
+
+Открытие RuSSIR'2011 | https://habrahabr.ru/post/126391/
+
+Запросы, которые «ломают» поисковик Bing | https://habrahabr.ru/post/125587/
+
+Google Image Search начал показывать метаданные EXIF | https://habrahabr.ru/post/124893/
+
+Построение индекса для поисковой машины | https://habrahabr.ru/post/124728/
+
+Работа с URL и их хранение | https://habrahabr.ru/post/123955/
+
+AVL деревья и широта их применения | https://habrahabr.ru/post/123951/
+
+Немного про проектирование баз данных для поисковой машины | https://habrahabr.ru/post/123884/
+
+Про удаление малозначимых частей страниц при индексации сайта | https://habrahabr.ru/post/123882/
+
+Dataflow работы поисковой машины | https://habrahabr.ru/post/123805/
+
+Общие слова про устройство поиска в Web | https://habrahabr.ru/post/123717/
+
+С чего начинается поисковик, или несколько мыслей про crawler | https://habrahabr.ru/post/123703/
+
+Поисковые технологии или в чем загвоздка написать свой поисковик | https://habrahabr.ru/post/123671/
+
+Google удалил из поисковой выдачи 11 млн сайтов .co.cc | https://habrahabr.ru/post/123549/
+
+В Google Analytics и Google Webmaster Tools добавили статистику по социальным сетям | https://habrahabr.ru/post/123096/
+
+Отель подал в суд на Google за поисковые подсказки при вводе названия отеля | https://habrahabr.ru/post/121960/
+
+Новый сервис от Google для тех, кому нужно быстро получить информацию об авиарейсе | https://habrahabr.ru/post/120185/
+
+Корпорация Google запустила экспериментальный сервис Google Correlate | https://habrahabr.ru/post/120169/
+
+Google тестирует функцию голосового поиска | https://habrahabr.ru/post/118599/
+
+Посещаемость сайтов контент-ферм значительно снизилась со времени введения нового поискового алгоритма Google | https://habrahabr.ru/post/118219/
+
+Как я запускал аналог Нигмы | https://habrahabr.ru/post/45273/
+
+Вспомнить всё — ищем в закладках пользователя параллельно с онлайн поисковиком | https://habrahabr.ru/post/115297/
+
+Отчет Yandex: 25% контента в рунете — копипаст | https://habrahabr.ru/post/115204/
+
+Blekko забанил 1,1 миллиона сайтов | https://habrahabr.ru/post/115203/
+
+«Aliketo» — ищет похожие вещи, и даже иногда находит, но только на английском | https://habrahabr.ru/post/114941/
+
+Hyper Estraier — небольшой поисковик для ленивых | https://habrahabr.ru/post/113084/
+
+Конкуренты Google в Европе: Яндекс и Seznam | https://habrahabr.ru/post/112982/
+
+Результаты поиска — главные проблемы? | https://habrahabr.ru/post/112107/
+
+Инфраструктура Blekko: 800 серверов, свой краулер и модули Perl | https://habrahabr.ru/post/109949/
+
+Помощь в оценке содержимого сайтов | https://habrahabr.ru/post/109661/
+
+ОВР — Очень Важные Реакции | https://habrahabr.ru/post/109523/
+
+Wylio — поиск картинок для блога | https://habrahabr.ru/post/107731/
+
+Отчет с конференции Lucene Revolution | https://habrahabr.ru/post/107638/
+
+Blekko: поисковик со слэштегами (категориями) | https://habrahabr.ru/post/107351/
+
+Twitter: 1 млрд запросов в сутки и новый поисковик | https://habrahabr.ru/post/105710/
+
+Анонс анонса улучшений Нигма-математики | https://habrahabr.ru/post/104459/
+
+Блог Нигмы прощается с вами | https://habrahabr.ru/post/104392/
+
+Нигма проводит национальный ребрендинг | https://habrahabr.ru/post/104295/
+
+Мирный ботнет | https://habrahabr.ru/post/103884/
+
+Greplin: персональный поиск по всем социальным сервисам | https://habrahabr.ru/post/103235/
+
+Китайское правительство запускает собственный поисковик | https://habrahabr.ru/post/101745/
+
+Microsoft прекращает выплаты за использование Bing | https://habrahabr.ru/post/95744/
+
+Nigma добавила приоритета официальным сайтам | https://habrahabr.ru/post/95138/
+
+Nigma научилась чертить графики | https://habrahabr.ru/post/94569/
+
+Поиск 2.0, каким он, возможно, будет | https://habrahabr.ru/post/94426/
+
+Нигма Органика 2.0 | https://habrahabr.ru/post/93847/
+
+Quintura тестирует новый интерфейс с поиском покупок | https://habrahabr.ru/post/93351/
+
+Как ищет и как не ищет Google Maps | https://habrahabr.ru/post/90107/
+
+Google анализирует поведение iPhone-юзеров для улучшения Android | https://habrahabr.ru/post/89995/
+
+Wolfram Alpha исправляет ошибки | https://habrahabr.ru/post/89636/
+
+Какие блоки веб-страниц кроме основного контента для вас являются информационно важными? | https://habrahabr.ru/post/85025/
+
+Коллекция Nigma-фич 2009 | https://habrahabr.ru/post/79318/
+
+Математика с учетом области допустимых значений | https://habrahabr.ru/post/78531/
+
+Quintura представила поисковый модуль для сайтов на Битриксе | https://habrahabr.ru/post/78568/
+
+Mail.ru переходит на поиск Google без логотипа | https://habrahabr.ru/post/78309/
+
+Nigma поделится миллионом переходов | https://habrahabr.ru/post/78005/
+
+google life search | https://habrahabr.ru/post/77620/
+
+Yahoo и Microsoft оформили договор о поиске | https://habrahabr.ru/post/77524/
+
+С органической химией к новым рубежам | https://habrahabr.ru/post/76921/
+
+Землю — крестьянам, фабрики — рабочим, таблички — интернетчикам | https://habrahabr.ru/post/76299/
+
+Об информационном поиске, нахождении оптимальных путей просмотра результатов поиска и многом другом | https://habrahabr.ru/post/76301/
+
+Кто такие чудодеи? | https://habrahabr.ru/post/73602/
+
+Wolfram Alpha открывает API за $220 000 в месяц | https://habrahabr.ru/post/72574/
+
+Как вы пользуетесь поиском? | https://habrahabr.ru/post/71823/
+
+Bing вырос до 10,7% | https://habrahabr.ru/post/69926/
+
+Wolfram Alpha предоставит API для доступа к данным | https://habrahabr.ru/post/68321/
+
+Слепое сравнение поисковых движков | https://habrahabr.ru/post/66785/
+
+«Quintura — Поиск по Сайту» предлагает подсказки на поиске | https://habrahabr.ru/post/64648/
+
+Англоподсказка исправит ломаный английский | https://habrahabr.ru/post/64635/
+
+Поиск музыки (remix 2.0) | https://habrahabr.ru/post/63880/
+
+Первый месяц работы Bing: итоги | https://habrahabr.ru/post/63415/
+
+Сегалович хвалит Nigma.ru | https://habrahabr.ru/post/62921/
+
+Нигма опять прокачала строку ввода запроса | https://habrahabr.ru/post/62286/
+
+Поиск по химическим реакциям на Нигме стал проще | https://habrahabr.ru/post/61805/
+
+Книга «Introduction to Information Retrieval» | https://habrahabr.ru/post/61382/
+
+Nigma объявляет набор добровольцев | https://habrahabr.ru/post/61339/
+
+Почем нынче гравицаппа? | https://habrahabr.ru/post/60717/
+
+Нужен ли для главной страницы поисковика дизайн, отличающийся от страницы результатов поиска? | https://habrahabr.ru/post/60196/
+
+Нужен ли для главной страницы поисковика дизайн, отличный от страницы результатов поиска? | https://habrahabr.ru/post/60192/
+
+Нигма индексирует по-новому | https://habrahabr.ru/post/59949/
+
+Wolfram Alpha начал работу | https://habrahabr.ru/post/59756/
+
+Научный поисковик от Вольфрама — запуск сегодня ночью! | https://habrahabr.ru/post/59683/
+
+Nigma отвечает на вопросы с полуслова | https://habrahabr.ru/post/59481/
+
+Сегодня на Нигме заметил новость: | https://habrahabr.ru/post/54160/
+
+Ответы на вопросы | https://habrahabr.ru/post/53328/
+
+Поиск от Яндекс.Ответов: сила поисковых алгоритмов плюс массовость UGC | https://habrahabr.ru/post/52237/
+
+PageRank предсказывает нобелевских лауреатов | https://habrahabr.ru/post/49901/
+
+Коллекция Nigma-фич 2008 | https://habrahabr.ru/post/47874/
+
+Nigma.ru запустила поиск по музыкальным файлам | https://habrahabr.ru/post/47605/
+
+Nigma научилась искать по химическим реакциям | https://habrahabr.ru/post/47512/
+
+Нигма понимает с одной буквы | https://habrahabr.ru/post/47246/
+
+Новость про новости | https://habrahabr.ru/post/46721/
+
+Кого «Одноклассники» пугали «гуглом»? | https://habrahabr.ru/post/45907/
+
+Поисковый сервис Jibros | https://habrahabr.ru/post/45758/
+
+Новый поисковик Keyboardr не любит мышей | https://habrahabr.ru/post/45661/
+
+Википоиск в Google | https://habrahabr.ru/post/45613/
+
+Поиск Google на «Одноклассниках» | https://habrahabr.ru/post/45447/
+
+Ашманов: Google перестанет расти в рунете | https://habrahabr.ru/post/44164/
+
+Google подключил OCR-движок для индексации PDF | https://habrahabr.ru/post/43864/
+
+Найдется даже икс | https://habrahabr.ru/post/42851/
+
+Реинкарнация или возрождение Вебальты? | https://habrahabr.ru/post/42783/
+
+Live Search заговорил по-русски | https://habrahabr.ru/post/42043/
+
+Google наконец-то сделает RSS для результатов поиска | https://habrahabr.ru/post/41939/
+
+Индексирование звука появилось на страничке Google Labs | https://habrahabr.ru/post/40107/
+
+Инновационный механизм Google. Полемика | https://habrahabr.ru/post/30570/
+
+Что делать с триллионом фотографий в Интернет? | https://habrahabr.ru/post/30261/
+
+База Google достигла триллиона страниц | https://habrahabr.ru/post/30204/
+
+В каких странах доля Google наиболее велика | https://habrahabr.ru/post/29270/
+
+Searchme продолжает изобретать | https://habrahabr.ru/post/28993/
+
+Microsoft покупает семантический поисковик за $100 млн | https://habrahabr.ru/post/28184/
+
+Microsoft создаёт плагин к IE7 для коллективной работы | https://habrahabr.ru/post/26887/
+
+Яндекс поддерживает Sitemap 0.9 | https://habrahabr.ru/post/26661/
+
+Powerset: поиск по-новому? | https://habrahabr.ru/post/25303/
+
+Wandex или Девять вещей, которые вы не знали о поисковых системах | https://habrahabr.ru/post/31550/
+
+Новый интернет-поисковик для детей | https://habrahabr.ru/post/24003/
+
+Нигма расшифрует сокращения | https://habrahabr.ru/post/23985/
+
+Google менял алгоритм 450 раз в прошлом году | https://habrahabr.ru/post/23777/
+
+Новый краулер Yahoo | https://habrahabr.ru/post/23580/
+
+Tianamo: 3D-интерфейс для неструктурированных данных | https://habrahabr.ru/post/22858/
+
+ДиФеЙс НиГмЫ | https://habrahabr.ru/post/22737/
+
+Новейший порно-поиск | https://habrahabr.ru/post/22640/
+
+Как пользоваться picollator.ru.Чего от него стоит ждать, а чего – нет | https://habrahabr.ru/post/21643/
+
+Технологии коллективного поиска от Microsoft Research | https://habrahabr.ru/post/21366/
+
+Ищите книги как хотите | https://habrahabr.ru/post/21269/
+
+Виджетизация Рунета | https://habrahabr.ru/post/19878/
+
+Google построит социальную сеть на контактах Gmail | https://habrahabr.ru/post/19606/
+
+Виджет для Хабралюдей | https://habrahabr.ru/post/19306/
+
+Создатель YSlow будет работать на Google | https://habrahabr.ru/post/18423/
+
+Wikia Search — первые впечатления | https://habrahabr.ru/post/18402/
+
+Подтверждено: Wikia Search запускается в понедельник | https://habrahabr.ru/post/31352/
+
+Итоги акции «Береги глаза смолоду» | https://habrahabr.ru/post/18165/
+
+Нигма на льду | https://habrahabr.ru/post/18124/
+
+Поисковые системы, что-то новенькое | https://habrahabr.ru/post/18057/
+
+Подарки к Новому году для пользователей и детей | https://habrahabr.ru/post/18018/
+
+«Убийца Google» начал бета-тестирование | https://habrahabr.ru/post/17969/
+
+Интернет-поиск для детей: может, Quintura? | https://habrahabr.ru/post/17797/
+
+Ask.com забывает | https://habrahabr.ru/post/17331/
+
+Китай в умах или поиск по-китайски | https://habrahabr.ru/post/17276/
+
+Наши в Стэнфорде, день шестой и седьмой | https://habrahabr.ru/post/17261/
+
+Наши в Стэнфорде, день четвертый и пятый | https://habrahabr.ru/post/17123/
+
+Quintura признана альтернативным поисковиком года | https://habrahabr.ru/post/17079/
+
+Наши в Стэнфорде, день третий | https://habrahabr.ru/post/17052/
+
+Наши в Стэнфорде, день второй | https://habrahabr.ru/post/17003/
+
+Наши в Стэнфорде, день первый | https://habrahabr.ru/post/16957/
+
+Оптимист подключает универсальную метку | https://habrahabr.ru/post/15065/
+
+Ищет лучше: теперь с обратными ссылками | https://habrahabr.ru/post/14907/
+
+Nigma.ru тестирует новую версию | https://habrahabr.ru/post/14826/
+
+Раздача книг: раздаем | https://habrahabr.ru/post/14438/
+
+Раздача книг: раздаем | https://habrahabr.ru/post/14437/
+
+Первая партия бесплатных книг от Nigma.ru | https://habrahabr.ru/post/14321/
+
+Google теряет позиции в Китае | https://habrahabr.ru/post/14240/
+
+Раздача книг: баннить C#? (подробности — см. предыдущий пост) | https://habrahabr.ru/post/35113/
+
+Раздача книг: что делать с C#? | https://habrahabr.ru/post/14115/
+
+Google ужесточил контроль за платными ссылками | https://habrahabr.ru/post/14104/
+
+«Ашманов и партнёры» запустили анализатор поисковиков | https://habrahabr.ru/post/14024/
+
+Убиенным операторам посвящается | https://habrahabr.ru/post/13951/
+
+Поздравляю! | https://habrahabr.ru/post/13715/
+
+На долю Google приходится более 64% всех поисковых запросов США | https://habrahabr.ru/post/13487/
+
+Microsoft выпустила Tafiti: экспериментальный поисковый интерфейс | https://habrahabr.ru/post/13436/
+
+Рецепт вашего поисковика на примере ТехОбзора | https://habrahabr.ru/post/13149/
+
+Альтапоиск для вебмастеров | https://habrahabr.ru/post/12696/
+
+Рунет загрязнен на 40% | https://habrahabr.ru/post/12511/
+
+Поисковые системы подсуживают своим хозяевам | https://habrahabr.ru/post/12465/
+
+Статистика поисковых запросов в Altastat | https://habrahabr.ru/post/12435/
+
+Поисковая статистика Вебальты | https://habrahabr.ru/post/12364/
+
+Оптимист начинает расчеты в национальных валютах. | https://habrahabr.ru/post/12329/
+
+Вебальта готовится к запуску почты | https://habrahabr.ru/post/12274/
+
+Вебальта запаслась словарями | https://habrahabr.ru/post/12152/
+
+Реклама стала более информативной | https://habrahabr.ru/post/12108/
+
+Китайцы разрабатывают новую технологию интернет-поиска | https://habrahabr.ru/post/12053/
+
+«Вебальта» тоже убьёт Google | https://habrahabr.ru/post/11476/
+
+Каждая другая поисковая система — это другой результат | https://habrahabr.ru/post/10863/
+
+Ask.com запустил новый интерфейс Ask3D | https://habrahabr.ru/post/9556/
+
+Мэтт Каттс о социальном поиске: «Google не против ручного вмешательства» | https://habrahabr.ru/post/9511/
+
+Microsoft создаёт ещё один поисковик | https://habrahabr.ru/post/9498/
+
+yoName — метапоиск по социальным сетям | https://habrahabr.ru/post/8070/
+
+Yahoo вводит синтаксис nocontent для CSS | https://habrahabr.ru/post/7888/
+
+Самый продвинутый видеопоисковик готов к IPO | https://habrahabr.ru/post/7564/
+
+Google в новой обертке | https://habrahabr.ru/post/6898/
+
+Корпоративный поиск — новое поле битвы Microsoft и Google | https://habrahabr.ru/post/6767/
+
+Quintura и blinkx визуализируют поиск по видео | https://habrahabr.ru/post/6731/
+
+«Нигма» запустила поиск по библиотекам | https://habrahabr.ru/post/6623/
+
+Yahoo выпустила конструктор метапоисковиков | https://habrahabr.ru/post/6370/
+
+Исследователи Microsoft проследили и описали сложный механизм создания дорвеев. | https://habrahabr.ru/post/5479/
+
+Ask.com революционирует | https://habrahabr.ru/post/5407/
+
+Детский поисковик от Quintura работает на собственном индексе | https://habrahabr.ru/post/5272/
+
+AOL France отказывается от Exalead | https://habrahabr.ru/post/5254/
+
+Webalta будет продвигать себя с помощью Altastat | https://habrahabr.ru/post/3736/
+
+«Вебальта» завлекает чужих рекламных партнёров | https://habrahabr.ru/post/2981/
+
+Yahoo — круче, чем секс. Яндекс — немного отстаёт | https://habrahabr.ru/post/2803/
+
+Лохси коэффициент | https://habrahabr.ru/post/1358/
+
+И Exalead тоже ищет | https://habrahabr.ru/post/1317/
+
+Многокритериальный поиск | https://habrahabr.ru/post/1170/
+
+«Андромеда» | https://habrahabr.ru/post/1156/
+
+На 2007 | https://habrahabr.ru/post/1050/
+
+Wikiasaria — комедия ошибок | https://habrahabr.ru/post/1000/
+
+Webalta — а ведь растут потихоньку | https://habrahabr.ru/post/999/
+
+Топ 256 слов Рунета | https://habrahabr.ru/post/982/
+
+Превьюшки в результатах поиска | https://habrahabr.ru/post/950/
+
+Quaero =… + Quintura + Polar Rose +… | https://habrahabr.ru/post/946/
+
+Немного когнитивности | https://habrahabr.ru/post/941/
+
+Немцы выходят из Quaero | https://habrahabr.ru/post/935/
+
+Google Search Quality запрещает обмен ссылками и рекомендует SMO | https://habrahabr.ru/post/4853/
+
+Изменения в поисковом интерфейсе Вебальты | https://habrahabr.ru/post/450/
+
+MyNews.webalta.ru | https://habrahabr.ru/post/407/
+
+Хабрасила? | https://habrahabr.ru/post/249/
+
+Три факта о том, как Вебальта рекламировалась на Яндексе | https://habrahabr.ru/post/171/
+

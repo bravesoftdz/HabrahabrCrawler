@@ -1,0 +1,562 @@
+Зачем я купил Mac Mini (Late 2012) накануне 2018 года? | https://habrahabr.ru/post/343598/
+
+Туториал: создаём простое приложение для watchOS 4 | https://habrahabr.ru/post/343432/
+
+Как описывать layout в коде | https://habrahabr.ru/post/343318/
+
+Визуализация процесса обучения нейронной сети средствами TensorFlowKit | https://habrahabr.ru/post/342934/
+
+Swift не нужен? | https://habrahabr.ru/post/342370/
+
+Swift и TensorFlow | https://habrahabr.ru/post/342132/
+
+Делаем хорошо со Swift 4, Perfect, Protobuf и MySQL на Linux-сервере | https://habrahabr.ru/post/341980/
+
+SILVER: как я проектирую приложения для iOS | https://habrahabr.ru/post/341178/
+
+Swift 4 — слабые ссылки | https://habrahabr.ru/post/341014/
+
+Три ошибки iOS-разработчика, которые могут дорого стоить | https://habrahabr.ru/company/efs/blog/340736/
+
+API на Swift за пять минут. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/339572/
+
+Swift Generics: cтили для UIView и не только #2 | https://habrahabr.ru/post/339048/
+
+Опционалы в Swift | https://habrahabr.ru/post/338766/
+
+MBLTdev 2017: amazing iOS-трек | https://habrahabr.ru/company/e-Legion/blog/338692/
+
+CGLayout — новая система автоматического layout'а в iOS | https://habrahabr.ru/post/338540/
+
+Абстракция сетевого слоя с применением «стратегий» | https://habrahabr.ru/post/338380/
+
+Когда размер имеет значение: создаем приложение-линейку с помощью ARKit | https://habrahabr.ru/company/everydaytools/blog/337808/
+
+По итогам Rambler.iOS #9 | https://habrahabr.ru/company/rambler-co/blog/337176/
+
+RxSwift: немного о share(), replay(), shareReplayLatestWhileConnected() и других классных операторах | https://habrahabr.ru/post/336970/
+
+Недоработка форматирования блоков Swift в Xcode | https://habrahabr.ru/post/336962/
+
+Оптимизация времени запуска iOS-приложений | https://habrahabr.ru/company/jugru/blog/336852/
+
+Об операторах Publish, Connect, RefCount и Share в RxSwift | https://habrahabr.ru/post/336662/
+
+Проверка внедрения зависимостей на Swift | https://habrahabr.ru/company/tinkoff/blog/336504/
+
+Мьютексы и захват замыканиями в Swift | https://habrahabr.ru/company/nixsolutions/blog/336260/
+
+Применение MVP+TDD в разработке iOS приложений | https://habrahabr.ru/post/335908/
+
+Concurrency в Swift 3 и 4. Operation и OperationQueue | https://habrahabr.ru/post/335756/
+
+Как мы боремся c динамическими библиотеками в Swift. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/335768/
+
+Digest MBLTdev — свежак для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/335438/
+
+AppCode 2017.2: Extract Method и улучшения автодополнения для Swift, поддержка __auto_type в Objective-C и многое другое | https://habrahabr.ru/company/JetBrains/blog/334838/
+
+SwiftyBeaver руководство для iOS: платформа логирования для Swift | https://habrahabr.ru/post/333852/
+
+Определяем номера с помощью CallKit | https://habrahabr.ru/company/touchinstinct/blog/333364/
+
+Что нового в Swift 4.0 | https://habrahabr.ru/post/333712/
+
+Пора валить! Опыт миграции с Objective-C на Swift | https://habrahabr.ru/company/superjob/blog/331780/
+
+Libdispatch. Как сделать приложение отзывчивым | https://habrahabr.ru/company/touchinstinct/blog/332026/
+
+Moya — как перестать беспокоиться о сетевой части и начать жить | https://habrahabr.ru/post/332570/
+
+Тестирование и обзор Core ML | https://habrahabr.ru/company/mobileup/blog/332500/
+
+Mocking в swift при помощи Sourcery | https://habrahabr.ru/post/332120/
+
+Как стать тимлидом и не взорваться | https://habrahabr.ru/company/touchinstinct/blog/332056/
+
+Эффективная DI библиотека на Swift в 200 строк кода | https://habrahabr.ru/post/331710/
+
+Борьба за время сборки iOS-приложений | https://habrahabr.ru/company/tinkoff/blog/331044/
+
+Как сделать статический анализ кода в Swift | https://habrahabr.ru/company/touchinstinct/blog/331170/
+
+Тестируем возможности ARKit. Создаем игру с дополненной реальностью | https://habrahabr.ru/company/touchinstinct/blog/331078/
+
+Работа с сервером с помощью Alamofire на Swift | https://habrahabr.ru/post/330760/
+
+Swift Playgrounds 1.5. Программируем Sphero и многое другое | https://habrahabr.ru/post/330288/
+
+Kotlin и Swift. Новая эпоха в мобильной разработке? | https://habrahabr.ru/post/329870/
+
+Что нового нас ждет в Swift 4? | https://habrahabr.ru/post/329580/
+
+VoiceOver на iOS. Как сделать приложение удобнее для людей с нарушением зрения | https://habrahabr.ru/company/touchinstinct/blog/328894/
+
+Видеозаписи: CocoaHeads meetup в офисе Badoo | https://habrahabr.ru/company/badoo/blog/329292/
+
+Быстрый старт iOS-приложения на примере iOS Почты Mail.Ru | https://habrahabr.ru/company/oleg-bunin/blog/328908/
+
+Анонс Rambler.iOS #9 | https://habrahabr.ru/company/rambler-co/blog/328518/
+
+Автономер на четырех языках. Часть 2 | https://habrahabr.ru/post/327168/
+
+Избавление от Auto Layout | https://habrahabr.ru/post/328242/
+
+CocoaConf DС 2016: Swift server side | https://habrahabr.ru/company/nixsolutions/blog/327933/
+
+Работа с геолокацией в iOS 24/7 | https://habrahabr.ru/post/275769/
+
+Swift Generics: cтили для UIView и не только #1 | https://habrahabr.ru/post/327662/
+
+Paparazzo. Мощный, стильный, свой. Часть II | https://habrahabr.ru/company/avito/blog/327486/
+
+Автономер на четырех языках. Часть 1 | https://habrahabr.ru/post/326568/
+
+Упрощение локализации в iOS | https://habrahabr.ru/company/touchinstinct/blog/327356/
+
+UIKit + Viper или MVC здорового человека | https://habrahabr.ru/post/327262/
+
+Опыт переноса приложения с Unity3D на iOS sdk и SceneKit | https://habrahabr.ru/company/everydaytools/blog/327074/
+
+Paparazzo. Мощный, стильный, свой. Часть I | https://habrahabr.ru/company/avito/blog/326774/
+
+Композиция протоколов для инъекции зависимостей | https://habrahabr.ru/post/326712/
+
+Получил 1.2K звезд на GitHub с ужасной архитектурой. Как? | https://habrahabr.ru/post/326620/
+
+AppCode 2017.1: улучшенная поддержка Swift, новые возможности кодогенерации и многое другое | https://habrahabr.ru/company/JetBrains/blog/326528/
+
+Стэнфордские курсы CS193P Зима 2017: Разработка iOS 10 приложений с помощью Swift | https://habrahabr.ru/post/326342/
+
+Упрощаем работу с CloudKit, или синхронизация в духе Zen | https://habrahabr.ru/company/everydaytools/blog/326050/
+
+Книга «Swift. Основы разработки приложений под iOS и macOS. 3-е изд. дополненное и переработанное» | https://habrahabr.ru/company/piter/blog/326052/
+
+Читаем бинарные файлы iOS-приложений. Часть 2: Swift | https://habrahabr.ru/company/solarsecurity/blog/325644/
+
+Паттерны проектирования, взгляд iOS разработчика. Часть 2. Наблюдатель | https://habrahabr.ru/post/324292/
+
+Первый опыт разработки игры для Apple Watch | https://habrahabr.ru/post/322540/
+
+Немного о функторах и функциях высшего порядка в Swift | https://habrahabr.ru/post/322806/
+
+Тёмный путь | https://habrahabr.ru/post/324122/
+
+Напиши мне денег: переводы через iMessage | https://habrahabr.ru/company/yamoney/blog/323520/
+
+Видеозаписи со встречи CocoaHeads 1 марта 2017 | https://habrahabr.ru/company/avito/blog/323514/
+
+«Мочим» объекты с помощью Cuckoo | https://habrahabr.ru/post/322572/
+
+CSS для Swift: использование стилей для любых подклассов UIView | https://habrahabr.ru/company/livetyping/blog/322368/
+
+Какие вопросы задавать на собеседовании | https://habrahabr.ru/post/322252/
+
+Статические анализаторы для Swift и Objective-C | https://habrahabr.ru/post/321162/
+
+Routing слой в iOS-приложениях | https://habrahabr.ru/post/321842/
+
+Как мы делали приложение международной программы лояльности PINS: кейс | https://habrahabr.ru/company/redmadrobot/blog/321458/
+
+Паттерны проектирования, взгляд iOS разработчика. Часть 1. Стратегия | https://habrahabr.ru/post/321182/
+
+Паттерны проектирования, взгляд iOS разработчика. Часть 0. Синглтон-Одиночка | https://habrahabr.ru/post/320728/
+
+Введение в обработку ошибок в Swift 3 | https://habrahabr.ru/company/everydaytools/blog/320940/
+
+Немного о Swift runtime или куда пропал NSObject | https://habrahabr.ru/post/320684/
+
+iOS: Работа с галереей (Photos framework). Часть 2 | https://habrahabr.ru/post/319240/
+
+33 iOS библиотеки с открытым исходным кодом, которые будут популярны в 2017 году | https://habrahabr.ru/company/everydaytools/blog/320640/
+
+Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues | https://habrahabr.ru/post/320152/
+
+Видеозаписи докладов конференции мобильных разработчиков MBLTdev 16 | https://habrahabr.ru/company/e-Legion/blog/320432/
+
+UIColor и UIImage в Xcode 8 при помощи литералов | https://habrahabr.ru/post/320098/
+
+Пишем универсальный UICollectionViewLayout | https://habrahabr.ru/post/320072/
+
+Анимации в iOS для начинающих. Модели, классы от Core Animation, блоки | https://habrahabr.ru/company/livetyping/blog/319592/
+
+Обработка препроцессорных директив в Objective-C | https://habrahabr.ru/post/318954/
+
+100 выпуск Digest MBLTdev — свежак для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/319496/
+
+SwiftLint — чистота и порядок в iOS проекте | https://habrahabr.ru/company/tinkoff/blog/317892/
+
+iOS: работа с галереей (Photos framework) | https://habrahabr.ru/post/318810/
+
+Насколько удобным может быть API для рисования в iOS? | https://habrahabr.ru/post/318684/
+
+Тап жест для скрытия клавиатуры в iOS (Swift 3) | https://habrahabr.ru/post/318434/
+
+AppCode 2016.3: поддержка Swift 3, новые настройки форматирования, улучшения быстродействия и многое другое | https://habrahabr.ru/company/JetBrains/blog/318304/
+
+Мобильный банк для iOS: добавляем блочную архитектуру к Cocoa MVC | https://habrahabr.ru/post/318200/
+
+Секреты удачного апдейта: интерфейс, backend, структура приложения | https://habrahabr.ru/company/everydaytools/blog/318212/
+
+Внедрение NSTouchBar на Swift | https://habrahabr.ru/company/everydaytools/blog/317232/
+
+Разгоняем сборку Swift проекта в Xcode | https://habrahabr.ru/post/317650/
+
+Использование паттерна SchedulableObject для выделения бизнес-логики в отдельный поток | https://habrahabr.ru/company/mailru/blog/317440/
+
+Объясняем бабушке, как написать свой язык программирования | https://habrahabr.ru/company/edison/blog/315068/
+
+Тюнинг Swift компилятора. Часть 2 | https://habrahabr.ru/post/317298/
+
+Тюнинг Swift компилятора. Часть 1 | https://habrahabr.ru/post/316986/
+
+Vapor — быстрый и безопасный REST на Swift? | https://habrahabr.ru/post/316944/
+
+Переходим на Swift 3 с помощью миграционного «робота» в Xcode 8.1 и 8.2 | https://habrahabr.ru/post/316320/
+
+Программирование состояний в UIControl | https://habrahabr.ru/post/316646/
+
+Анонс CocoaHeads Meetup 2 декабря | https://habrahabr.ru/company/rambler-co/blog/315946/
+
+Swift String Validating или простая валидация строк на соответсвие критериям | https://habrahabr.ru/post/316016/
+
+Гедоммист и ближайшие соседи | https://habrahabr.ru/post/315620/
+
+Симметрическая разность возможностей Swift и Objective-C | https://habrahabr.ru/company/arcadia/blog/308264/
+
+Реализация интерфейса с выдвижной панелью в iOS приложении | https://habrahabr.ru/company/everydaytools/blog/315406/
+
+Как еще использовать type safety в целях улучшения API | https://habrahabr.ru/post/315164/
+
+Первая работа, или как не надо разрабатывать под iOS | https://habrahabr.ru/post/315000/
+
+Enums + Associated Values = Swift | https://habrahabr.ru/company/redmadrobot/blog/314156/
+
+Парсинг JSON — это минное поле | https://habrahabr.ru/company/mailru/blog/314014/
+
+Macaw — удобная библиотека для векторной графики в Cocoa | https://habrahabr.ru/post/313630/
+
+Почему нам нужен Delegate в iOS и WatchOS? | https://habrahabr.ru/post/313242/
+
+Что нового в Swift 3? | https://habrahabr.ru/post/312942/
+
+По итогам Rambler.iOS #8 | https://habrahabr.ru/company/rambler-co/blog/313102/
+
+5 лучших докладов на конференции мобильных разработчиков MBLTdev 15 | https://habrahabr.ru/company/e-Legion/blog/313106/
+
+Управление зависимостями в iOS-приложения на Swift со спокойствием | https://habrahabr.ru/post/311334/
+
+Зачем нужны UITableViewController и UICollectionViewController | https://habrahabr.ru/post/311064/
+
+Анонс Rambler.iOS #8 | https://habrahabr.ru/company/rambler-co/blog/310532/
+
+Архитектура сетевого ядра в iOS-приложении на Swift 3. Часть 1 | https://habrahabr.ru/post/309990/
+
+Обнаружение лиц на iOS с помощью Core Image | https://habrahabr.ru/post/309802/
+
+Работа NSFetchRequest и NSFetchedResultsController, а также зачем тут продуктовый рынок | https://habrahabr.ru/company/livetyping/blog/309624/
+
+Знакомство с СALayer | https://habrahabr.ru/post/309506/
+
+История языков программирования: от Objective C к Swift | https://habrahabr.ru/post/308450/
+
+Как мы написали чат для приложения банка «Открытие» | https://habrahabr.ru/company/redmadrobot/blog/308398/
+
+iOS 10: Notification Content Extension | https://habrahabr.ru/company/redmadrobot/blog/306572/
+
+iOS 10: новое в создании анимаций | https://habrahabr.ru/company/redmadrobot/blog/305596/
+
+AppCode 2016.2: новые рефакторинги и инспекции, live templates, улучшения автодополнения кода, и все это — про Swift | https://habrahabr.ru/company/JetBrains/blog/306738/
+
+По итогам Rambler.iOS #7 | https://habrahabr.ru/company/rambler-co/blog/306508/
+
+Тестируем реактивность — как писать unit-тесты для RxSwift | https://habrahabr.ru/post/304866/
+
+Swift Features | https://habrahabr.ru/post/306350/
+
+Как мы обновили и переписали iOS-приложение банка «Открытие»: кейс | https://habrahabr.ru/company/redmadrobot/blog/306116/
+
+Модуль ядра Linux на Swift | https://habrahabr.ru/post/305530/
+
+Анонс Rambler.iOS #7 | https://habrahabr.ru/company/rambler-co/blog/305482/
+
+Core Data + Swift для самых маленьких: необходимый минимум (часть 3) | https://habrahabr.ru/post/304586/
+
+Core Data + Swift для самых маленьких: необходимый минимум (часть 2) | https://habrahabr.ru/post/303798/
+
+Книга «Swift 2.2. Основы разработки приложений под iOS и OS X» | https://habrahabr.ru/company/piter/blog/303674/
+
+Core Data + Swift для самых маленьких: необходимый минимум (часть 1) | https://habrahabr.ru/post/303512/
+
+Внедрения реактива в архитектуру iOS приложений | https://habrahabr.ru/post/300962/
+
+Swift улучшаем performSegueWithIdentifier или удобный роутер со сторибордами | https://habrahabr.ru/post/275783/
+
+Пора ли переходить на Swift? | https://habrahabr.ru/company/jugru/blog/301998/
+
+Настоящее и будущее Swift: вопросы взрослым | https://habrahabr.ru/company/jugru/blog/301600/
+
+Играем в Apple Music | https://habrahabr.ru/post/301456/
+
+Swift 3.0, много шума, а что на деле? | https://habrahabr.ru/post/301380/
+
+Портфель iOS TEAM разработчика | https://habrahabr.ru/post/283576/
+
+Создание библиотеки для iOS | https://habrahabr.ru/company/e-Legion/blog/283438/
+
+Автодокументирование Perfect сервера | https://habrahabr.ru/post/283432/
+
+Perfect — REST сервер на Swift | https://habrahabr.ru/post/283260/
+
+RxSwift: работа с GUI | https://habrahabr.ru/post/283128/
+
+Swift и время компиляции | https://habrahabr.ru/post/283106/
+
+Опыт использования контрактов при вызовах REST API | https://habrahabr.ru/post/283012/
+
+Доступны Стэнфордские курсы CS193P Весна 2016: Разработка iOS 9 приложений с помощью Swift | https://habrahabr.ru/post/282686/
+
+Боль и анимация таблиц для iOS. Фреймворк Awesome Table Animation Calculator | https://habrahabr.ru/company/redmadrobot/blog/282509/
+
+RxSwift шпаргалка по операторам (+ PDF) | https://habrahabr.ru/post/281292/
+
+Rust и Swift (третья, четвёртая, пятая и шестая части) | https://habrahabr.ru/post/280902/
+
+Архитектурные паттерны в iOS | https://habrahabr.ru/company/badoo/blog/281162/
+
+Переход на ReactiveCocoa v.4 | https://habrahabr.ru/post/281106/
+
+По итогам Rambler.iOS #6 | https://habrahabr.ru/company/rambler-co/blog/280880/
+
+Релиз AppCode 2016.1: улучшенная поддержка Swift и C++ | https://habrahabr.ru/company/JetBrains/blog/280972/
+
+Rust и Swift (вступление, первая и вторая части) | https://habrahabr.ru/post/280274/
+
+Анонс Rambler.iOS #6 | https://habrahabr.ru/company/rambler-co/blog/279341/
+
+KTV. Грабли на пути к маршалингу | https://habrahabr.ru/post/279109/
+
+Свежак для iOS-разработчиков — Digest MBLTdev | https://habrahabr.ru/company/e-Legion/blog/279059/
+
+Адаптивные Split View Controller и Popover в iOS 9 (Swift). Часть 2 | https://habrahabr.ru/post/278781/
+
+Адаптивные Split View Controller и Popover в iOS 9 (Swift). Часть 1 | https://habrahabr.ru/post/278573/
+
+Введение в Firebase: пишем простое социальное приложение на Swift | https://habrahabr.ru/post/277941/
+
+Swift 2.2. Важнейшие нововведения | https://habrahabr.ru/company/piter/blog/277857/
+
+Получаем данные по websocket используя swift и заполняем UITableView (сервер node.js) | https://habrahabr.ru/post/277635/
+
+Подключение SQLite к мобильному приложению iOS через FMDB на Xcode используя Swift | https://habrahabr.ru/post/277423/
+
+Генерамба — кодогенератор для iOS разработки | https://habrahabr.ru/company/rambler-co/blog/276275/
+
+RxSwift в действии — пишем реактивное приложение | https://habrahabr.ru/post/276971/
+
+Книга «Swift. Основы разработки приложений под iOS» | https://habrahabr.ru/company/piter/blog/276793/
+
+Unsafe в Swift | https://habrahabr.ru/post/276005/
+
+Работа с JSON в Swift | https://habrahabr.ru/post/276247/
+
+Реализация Swift словаря | https://habrahabr.ru/post/275911/
+
+Страх и ненависть в Multipeer Connectivity | https://habrahabr.ru/company/dataart/blog/275627/
+
+Магия IBDesignable или расширяем функциональность Interface Builder в Xcode | https://habrahabr.ru/post/274687/
+
+Method Swizzling и Swift: но есть нюанс | https://habrahabr.ru/post/274545/
+
+IBM Swift Sandbox — веб-песочница со Swift для тех, кто хочет разобраться в языке программирования от Apple | https://habrahabr.ru/company/ibm/blog/274067/
+
+По итогам Rambler.iOS V | https://habrahabr.ru/company/rambler-co/blog/273949/
+
+Swift. Функциональное программирование | https://habrahabr.ru/company/dataart/blog/273727/
+
+Сравниваем Swift и Rust | https://habrahabr.ru/post/272681/
+
+Реализация MVVM в iOS с помощью RxSwift | https://habrahabr.ru/post/273455/
+
+Анонс Rambler.iOS V — V for VIPER | https://habrahabr.ru/company/rambler-co/blog/272551/
+
+Создание приложения ToDo с помощью Realm и Swift | https://habrahabr.ru/post/272393/
+
+Swift! Protocol Oriented | https://habrahabr.ru/post/272005/
+
+Apple опубликовала исходный код Swift | https://habrahabr.ru/post/272375/
+
+JSON и Swift. Способы запросов и работа с обменом данных | https://habrahabr.ru/post/272109/
+
+Практический пример использования перегрузки операторов для библиотеки CoreGraphics | https://habrahabr.ru/post/271647/
+
+Все для watchOS | https://habrahabr.ru/company/friifond/blog/271413/
+
+Введение в 3D Touch | https://habrahabr.ru/post/271291/
+
+Objective-C что такое на самом деле метод и self? + runtime | https://habrahabr.ru/post/270913/
+
+Использование Carthage для управления зависимостями | https://habrahabr.ru/post/270805/
+
+iOs Debug Master | https://habrahabr.ru/post/269095/
+
+AppCode 3.3: Xcode 7, Swift 2 и планы на будущее | https://habrahabr.ru/company/JetBrains/blog/270647/
+
+Apple TV | https://habrahabr.ru/post/270457/
+
+Про Swift, и почему мои большие проекты будут на Objective-C еще какое-то (возможно долгое) время | https://habrahabr.ru/post/270291/
+
+Использование NSOperation и NSOperationQueue в Swift | https://habrahabr.ru/post/267843/
+
+JSON в Swift 2.0 без анестезии | https://habrahabr.ru/post/270063/
+
+«Что нового в Swift 2?» на примерах. Часть 2 | https://habrahabr.ru/post/269719/
+
+Дайджест новостей для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/269857/
+
+Swift + VK.API, или история о SwiftyVK | https://habrahabr.ru/post/269741/
+
+«Что нового в Swift 2?» на примерах | https://habrahabr.ru/post/269171/
+
+Создаем первое приложение для Apple watchOS 2 | https://habrahabr.ru/post/268705/
+
+Подборка полезных статей для iOS-разработчиков за текущую неделю | https://habrahabr.ru/company/e-Legion/blog/268111/
+
+Написание Unit-тестов. Mocking объектов | https://habrahabr.ru/post/267255/
+
+Как я запускал афишу еврейских мероприятий | https://habrahabr.ru/post/267007/
+
+Swift 2 в быту. Еще один парсер JSON | https://habrahabr.ru/post/266657/
+
+Как я писал гитарный тюнер под iOs на Swift. А так же немного о ЦОС, стоячих волнах и как добиться точности в ±0,1Гц | https://habrahabr.ru/post/266471/
+
+Немного о реализации головоломки «Кубики сома» (Swift & SceneKit) | https://habrahabr.ru/post/266449/
+
+Осенняя встреча Rambler.iOS | https://habrahabr.ru/company/rambler-co/blog/266105/
+
+Дайджест полезных материалов для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/265645/
+
+Калькуляция высоты ячейки в динамической таблице UITableView | https://habrahabr.ru/post/264651/
+
+Пример работы с технологией iBeacon с помощью Swift | https://habrahabr.ru/company/techmas/blog/264561/
+
+Дайджест полезных материалов для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/263495/
+
+Конвертирование Int в NSMutableArray | https://habrahabr.ru/post/262391/
+
+Подборка интересных материалов недели для iOS-разработчиков | https://habrahabr.ru/company/e-Legion/blog/262277/
+
+Полезные материалы для iOS-разработчиков за неделю | https://habrahabr.ru/company/e-Legion/blog/261731/
+
+Интересное для iOS-разработчиков за неделю | https://habrahabr.ru/company/e-Legion/blog/260695/
+
+Swift 2.0 будет с открытым кодом в конце года | https://habrahabr.ru/post/259853/
+
+Захват контекста замыканиями вместо делегирования в iOS 8 Swift | https://habrahabr.ru/post/258873/
+
+О переводе проекта с Objective-C на Swift | https://habrahabr.ru/company/piter/blog/258185/
+
+Офлайновая работа с данными в мобильном приложении с использованием Couchbase Lite | https://habrahabr.ru/company/cit/blog/257393/
+
+Часто задаваемые вопросы по фреймворку WatchKit | https://habrahabr.ru/company/alconost/blog/257023/
+
+Создание системы авторизации с помощью Parse [Swift] | https://habrahabr.ru/post/256897/
+
+Опыт разработки приложения на Swift, наблюдения и выводы | https://habrahabr.ru/post/256307/
+
+Анонимные функции в Swift | https://habrahabr.ru/post/256127/
+
+Книги по Swift | https://habrahabr.ru/company/piter/blog/252193/
+
+Биндинги в Swift. Делаем первые шаги к MVVM | https://habrahabr.ru/post/252535/
+
+Как из пустой пластиковой бутылки, картинки и шейдера сделать игру для iOS за выходные | https://habrahabr.ru/post/251413/
+
+Пять ловушек для начинающего свифтера | https://habrahabr.ru/post/251325/
+
+iOS приложение — разработка, топ App Store, Techcrunch и грант от Facebook на $60,000 услугами | https://habrahabr.ru/post/251047/
+
+Бесплатная школа iOS-разработчиков в Петербурге | https://habrahabr.ru/company/e-Legion/blog/249611/
+
+Создание браузера с историей, адресной строкой, UIVisualEffectView | https://habrahabr.ru/post/247633/
+
+Функциональное программирование в Swift. Начало | https://habrahabr.ru/post/246965/
+
+Тренды iOS–разработки 2014 года | https://habrahabr.ru/company/e-Legion/blog/246533/
+
+AppCode 3.1 и Swift: быстрое исполнение ваших блестящих идей | https://habrahabr.ru/company/JetBrains/blog/245907/
+
+Используем замыкания в Swift по полной | https://habrahabr.ru/post/241303/
+
+Эффективный JSON с функциональными концепциями и generics в Swift | https://habrahabr.ru/post/244821/
+
+Опциональные типы? Только если очень нужно | https://habrahabr.ru/post/244711/
+
+«Программирование мышкой» в Swift ч.2 — навигация | https://habrahabr.ru/post/244655/
+
+Обработка ошибок в Swift — меч и магия | https://habrahabr.ru/post/244575/
+
+Многоликие функции Swift | https://habrahabr.ru/post/244487/
+
+Стэнфордские курсы «Разработка iOS приложений» — неавторизованный конспект лекций на русском языке и 2015? | https://habrahabr.ru/post/244353/
+
+Реактивное программирование на Swift | https://habrahabr.ru/company/e-Legion/blog/243679/
+
+Учить Swift теперь стало проще | https://habrahabr.ru/company/alconost/blog/243515/
+
+«Программирование мышкой» в XCode 6 для Swift | https://habrahabr.ru/post/242277/
+
+Как написать собственное приложение с REST API Яндекс.Диска | https://habrahabr.ru/company/yandex/blog/241223/
+
+Создание Today Extension для iOS 8 | https://habrahabr.ru/post/240475/
+
+Кортежи в Swift | https://habrahabr.ru/post/239957/
+
+Использование дженериков в Swift | https://habrahabr.ru/post/239207/
+
+Открытая лекция по основам Swift от MasterUp | https://habrahabr.ru/company/masterup/blog/238865/
+
+Использование NSURLProtocol в Swift | https://habrahabr.ru/post/237367/
+
+Запись первой лекции Swift-Курса от MasterUp | https://habrahabr.ru/company/masterup/blog/235525/
+
+Руководство по анимационному отображению представлений в таблице на Swift | https://habrahabr.ru/post/234853/
+
+Открытая лекция по основам Swift от MasterUp | https://habrahabr.ru/company/masterup/blog/234743/
+
+Секреты скорости Swift | https://habrahabr.ru/post/233927/
+
+От Objective-C к Swift. Рекомендации | https://habrahabr.ru/post/233607/
+
+От прототипа до прототипа, от прототипа до прототипа, от прототипа до… мусорки | https://habrahabr.ru/post/227751/
+
+Классы в Swift [Часть 1] | https://habrahabr.ru/post/231739/
+
+Учебник Swift — разработка приложения для iOS8 [Часть 1, Hello World!] | https://habrahabr.ru/post/231541/
+
+iOS vs WPF — сложное против мелкомягкого | https://habrahabr.ru/post/231439/
+
+Реализуем pull to refresh и infinite scrolling на Swift | https://habrahabr.ru/post/228881/
+
+Работа c JSON в Swift | https://habrahabr.ru/post/228949/
+
+Особенности Swift | https://habrahabr.ru/company/yandex/blog/228709/
+
+BDD тестирование в Swift с помощью Sleipnir | https://habrahabr.ru/post/228811/
+
+Swift: кружимся, кружимся! | https://habrahabr.ru/post/228333/
+
+Swift: проблемы и перспективы | https://habrahabr.ru/post/227243/
+
+Разработка iOS8 приложения на Apple Swift | https://habrahabr.ru/post/225577/
+
+Язык программирования Swift. Русская версия | https://habrahabr.ru/post/225841/
+
+Swift + CoreData + Немного напильника | https://habrahabr.ru/post/225727/
+
+Знакомьтесь, Swift! | https://habrahabr.ru/post/225297/
+
+Видео-курс по Swift на русском языке | https://habrahabr.ru/company/hexlet/blog/225235/
+
+Swift — нововведения | https://habrahabr.ru/post/225089/
+

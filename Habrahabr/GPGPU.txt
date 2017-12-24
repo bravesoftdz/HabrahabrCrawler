@@ -1,0 +1,154 @@
+Самая быстрая и энергоэффективная реализация алгоритма BFS на различных параллельных архитектурах | https://habrahabr.ru/post/344378/
+
+SDAccel — проверяем передачу данных | https://habrahabr.ru/post/337568/
+
+Курсы Computer Science клуба, весна 2017 | https://habrahabr.ru/company/spbau/blog/326064/
+
+Руководство начинающего программиста графических шейдеров | https://habrahabr.ru/company/infopulse/blog/324476/
+
+Конкурс GraphHPC-2017 на самую быструю реализацию задачи Betweenness Centrality | https://habrahabr.ru/post/319646/
+
+Почему этой зимой мы снова приглашаем всех поиграть в компьютерные игры при помощи искусственного интеллекта | https://habrahabr.ru/company/mipt/blog/318758/
+
+Сравнение производительности GPU-расчетов на Python и C | https://habrahabr.ru/post/317328/
+
+Применение FPGA для расчета деполимеризации микротрубочки методом броуновской динамики | https://habrahabr.ru/post/314296/
+
+Про интернет вещей и полупроводниковую индустрию в краю, где пьют верблюжье молоко. День первый | https://habrahabr.ru/post/309570/
+
+Быстрее быстрого или глубокая оптимизация Медианной фильтрации для GPU Nvidia | https://habrahabr.ru/post/308214/
+
+Как мы сделали конвертер и плеер для CinemaDNG на CUDA | https://habrahabr.ru/post/306566/
+
+Оптимизация обработки изображений с использованием GPU на примере Медианной фильтрации | https://habrahabr.ru/post/305964/
+
+Ещё раз про быстрый JPEG на CUDA | https://habrahabr.ru/post/303306/
+
+Марсоход Opportunity более чем в 40 раз превысил запланированный срок службы | https://habrahabr.ru/post/302560/
+
+Быстрое кодирование видео в Linux c Nvidia NVENC с SDK 7.5 и ffmpeg 3.0.2 на Nvidia GTX 960/970/980 | https://habrahabr.ru/post/301654/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection: Итоги | https://habrahabr.ru/post/280860/
+
+Глубокое обучение в гараже — Братство данных | https://habrahabr.ru/post/277267/
+
+Microsoft выложила на Github инструментарий CNTK для глубинного обучения | https://habrahabr.ru/post/275887/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection | https://habrahabr.ru/post/275577/
+
+Эффективное кодирование видео в Linux c Nvidia NVENC: часть 2, дополнительная | https://habrahabr.ru/post/262563/
+
+Эффективное кодирование видео в Linux c Nvidia NVENC: часть 1, общая | https://habrahabr.ru/post/262507/
+
+Автоматическая реорганизация массивов в памяти графического ускорителя | https://habrahabr.ru/post/261535/
+
+Решение разреженных СЛАУ больших размерностей средствами ManagedCuda в .NET | https://habrahabr.ru/post/260993/
+
+Гибридная реализация алгоритма MST с использованием CPU и GPU | https://habrahabr.ru/post/253031/
+
+Нативная реализация OmniDirectional теней в DirectX11 | https://habrahabr.ru/post/259679/
+
+Как SpaceX использует GPU для обсчёта ракетных двигателей | https://habrahabr.ru/post/256081/
+
+Шифрование ГОСТ 28147-89 на х86- и GPU-процессорах | https://habrahabr.ru/company/securitycode/blog/255863/
+
+Параллельное программирование с CUDA. Часть 3: Фундаментальные алгоритмы GPU: свертка (reduce), сканирование (scan) и гистограмма (histogram) | https://habrahabr.ru/company/epam_systems/blog/247805/
+
+GPU Particles с использованием Compute и Geometry шейдеров | https://habrahabr.ru/post/248755/
+
+Normal-oriented Hemisphere SSAO для чайников | https://habrahabr.ru/post/248313/
+
+CPU vs GPU. Distance field | https://habrahabr.ru/post/245729/
+
+Какая связь между червем длиной около миллиметра и OpenCL? | https://habrahabr.ru/post/245563/
+
+Параллельное программирование с CUDA. Часть 2: Аппаратное обеспечение GPU и шаблоны параллельной коммуникации | https://habrahabr.ru/company/epam_systems/blog/245523/
+
+Параллельное программирование с CUDA. Часть 1: Введение | https://habrahabr.ru/company/epam_systems/blog/245503/
+
+OpenCL 2.0 и драйверы от AMD и Intel | https://habrahabr.ru/post/238467/
+
+Что делать с пыльным GPU, если ты — пентестер. Часть 1: Legacy ATI/AMD RADEON | https://habrahabr.ru/post/237779/
+
+Параллельная сортировка методом пузырька на CUDA | https://habrahabr.ru/post/235391/
+
+Параллелим непараллельное или поиск простых чисел на GPU | https://habrahabr.ru/post/230357/
+
+Особенности выделения памяти в OpenCL | https://habrahabr.ru/post/215359/
+
+Реализация алгоритма BFS на GPU | https://habrahabr.ru/post/214951/
+
+Реализация алгоритма SSSP на GPU | https://habrahabr.ru/post/214515/
+
+Массивно-параллельная стабилизация изображения | https://habrahabr.ru/post/214027/
+
+Пример оптимизации вычислений на CUDA | https://habrahabr.ru/post/211194/
+
+Пространственно-временная обработка изображений на GPU | https://habrahabr.ru/post/210286/
+
+Будущее программирования аппаратных ускорителей | https://habrahabr.ru/post/209606/
+
+Отдам библиотеку в хорошие руки | https://habrahabr.ru/post/190132/
+
+Вышла CUDA 5.5 | https://habrahabr.ru/post/189552/
+
+Оптимизация майнинга лайткоинов | https://habrahabr.ru/post/186664/
+
+Выбор инструмента для расчётов с плавающей точкой — практические советы | https://habrahabr.ru/post/181051/
+
+Альтернативное использование мощностей GPU? | https://habrahabr.ru/post/172969/
+
+Распределенный рендеринг | https://habrahabr.ru/post/172473/
+
+Знакомство с OpenGL Interoperability | https://habrahabr.ru/post/170461/
+
+Моделирование электрического поля средствами CUDA | https://habrahabr.ru/post/164499/
+
+Космики: моделирование эволюции многоклеточных организмов | https://habrahabr.ru/post/153169/
+
+Unbiased DirectX Рендеринг на GPU, CPU и в облаке | https://habrahabr.ru/post/152033/
+
+CUDA: синхронизация блоков | https://habrahabr.ru/post/151897/
+
+Изучение OpenCL на примере взлома паролей | https://habrahabr.ru/post/150289/
+
+Запускаем Java-программы на GPU | https://habrahabr.ru/post/149552/
+
+Используем OpenCL в Python | https://habrahabr.ru/post/146993/
+
+Первые шаги с OpenCL или сказ о том как одинаковый код на GPU и CPU запускать | https://habrahabr.ru/post/146823/
+
+Новый виток архитектуры CUDA | https://habrahabr.ru/post/144202/
+
+Быстрое сжатие изображений по алгоритму JPEG на CUDA | https://habrahabr.ru/post/139970/
+
+Анализируем проприетарное приложение на OpenCL, написанное с использованием AMD APP SDK | https://habrahabr.ru/post/139499/
+
+AMD APP SDK: Compute Abstraction Layer (CAL) | https://habrahabr.ru/post/139049/
+
+AMD APP SDK: Intermediate Language (IL) | https://habrahabr.ru/post/138954/
+
+Nvidia открыла исходный код компилятора CUDA | https://habrahabr.ru/post/134624/
+
+Обзор CUDA отладчика «NVIDIA Parallel Nsight 2.0» | https://habrahabr.ru/post/131882/
+
+Высокопроизводительная сортировка (radix) на CUDA | https://habrahabr.ru/post/103016/
+
+Понимание конфликтов банков разделяемой (shared) памяти в NVIDIA CUDA | https://habrahabr.ru/post/100363/
+
+Обзор генераторов псевдослучайных чисел для CUDA | https://habrahabr.ru/post/99876/
+
+NVIDIA выпускает новый продукт для работы с параллельными вычислениями CPU и GPU | https://habrahabr.ru/post/99739/
+
+CUDA: Работа с памятью. Часть II. | https://habrahabr.ru/post/56514/
+
+OpenCL от nVidia | https://habrahabr.ru/post/55566/
+
+CUDA: Работа с памятью. Часть I. | https://habrahabr.ru/post/55461/
+
+CUDA: Как работает GPU | https://habrahabr.ru/post/54707/
+
+CUDA: Начало | https://habrahabr.ru/post/54330/
+
+CUDA: с места в карьер | https://habrahabr.ru/post/50241/
+

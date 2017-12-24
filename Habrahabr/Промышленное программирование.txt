@@ -1,0 +1,482 @@
+API BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/343010/
+
+Conan: менеджер зависимостей для C/C++ | https://habrahabr.ru/post/342982/
+
+Как у нас устроено AB-тестирование. Лекция Яндекса | https://habrahabr.ru/company/yandex/blog/342704/
+
+Шаблон проектирования “минисценарий с проверкой противоречий” | https://habrahabr.ru/post/342302/
+
+Использование R для «промышленной» разработки | https://habrahabr.ru/post/342254/
+
+Как обложить сервис метриками и не облажаться | https://habrahabr.ru/company/skbkontur/blog/341326/
+
+Как мы обновили поисковые подсказки в Яндексе и нашли для них правильную метрику | https://habrahabr.ru/company/yandex/blog/340552/
+
+Телеметрия и программное обеспечение | https://habrahabr.ru/post/340882/
+
+Алгоритмы построения пути для беспилотного автомобиля. Лекция Яндекса | https://habrahabr.ru/company/yandex/blog/340674/
+
+Пулл-реквесты с эмпатией | https://habrahabr.ru/company/mobileup/blog/340456/
+
+Планирование задач в Android с использованием JobScheduler и IntentService | https://habrahabr.ru/post/339012/
+
+API на Swift за пять минут. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/339572/
+
+Веб-сервер — ваша первая сетевая программа Arduino | https://habrahabr.ru/post/338844/
+
+20 лет Яндексу. Лекция Ильи Сегаловича — человека, который придумал это слово | https://habrahabr.ru/company/yandex/blog/338562/
+
+MVVM: полное понимание (+WPF) Часть 1 | https://habrahabr.ru/post/338518/
+
+Прототипирование в среде Python-Arduino | https://habrahabr.ru/post/337986/
+
+Методы разработки потока программного обеспечения датчиков движения, работающих с Arduino | https://habrahabr.ru/post/337982/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 7. Передача требований в производство. Заключение | https://habrahabr.ru/post/337802/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 6. Поведение системы. Совершенстваоние требований | https://habrahabr.ru/post/337678/
+
+STM32 без HAL и SPL | https://habrahabr.ru/post/337622/
+
+Microservice Architecture — сдвиг мотива на цель | https://habrahabr.ru/post/337526/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 5. Сущности предметной области и немного о стратегиях | https://habrahabr.ru/post/337400/
+
+Использование Python для обработки в реальном масштабе времени информации от датчиков, работающих с Arduino | https://habrahabr.ru/post/337494/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 4. Бизнес процессы, автоматизируемые системой | https://habrahabr.ru/post/337228/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 3. Функции системы и Границы проекта | https://habrahabr.ru/post/336950/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 1. Вводная | https://habrahabr.ru/post/336694/
+
+Борьба со сложностью в сетевом протоколе прикладного уровня | https://habrahabr.ru/post/336464/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 3 | https://habrahabr.ru/post/336026/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 2 | https://habrahabr.ru/post/335924/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 1 | https://habrahabr.ru/post/335830/
+
+Как угодить кинозрителю и не потерять деньги: составляем план закупок при помощи ML | https://habrahabr.ru/company/goto/blog/333746/
+
+Чёрная Лямбда ефрейтора Волкова: новое направление и гранты на летнюю школу | https://habrahabr.ru/company/goto/blog/333828/
+
+Фотографируем объекты в C#: хроника и сопоставление снимков, реконструкция состояния по снимку | https://habrahabr.ru/post/333846/
+
+Лекция о двух библиотеках Яндекса для работы с большими данными | https://habrahabr.ru/company/yandex/blog/332688/
+
+ПЛК от производителей Овен, Segnetics и Schneider Electric для HVAC | https://habrahabr.ru/post/332722/
+
+Kubernetes & production — быть или не быть? | https://habrahabr.ru/post/332108/
+
+Обобщённое копирование связных графов объектов в C# и нюансы их сериализации | https://habrahabr.ru/post/332516/
+
+Proxmox 5 и частичная запись в блочных устройствах эффективного хранения Ceph | https://habrahabr.ru/post/332514/
+
+Цифровой датчик температуры TSic: адреса, пароли, явки | https://habrahabr.ru/company/efo/blog/330506/
+
+Replication Framework • глубинное копирование и обобщённое сравнение связных графов объектов | https://habrahabr.ru/post/330294/
+
+Машинное обучение и анализ данных: решаем практические задачи с победителями индустриального хакатона ЛК | https://habrahabr.ru/company/kaspersky/blog/330282/
+
+Онлайн курс «Функциональная безопасность компьютерных систем» | https://habrahabr.ru/post/329598/
+
+Индустриальный митап #3: в фокусе – безопасная автоматизация техпроцессов | https://habrahabr.ru/company/kaspersky/blog/329492/
+
+Ещё больше простых багов [язык Ада] | https://habrahabr.ru/company/pvs-studio/blog/329270/
+
+Функциональная безопасность, часть 7 из 7. Методы обеспечения информационной и функциональной безопасности | https://habrahabr.ru/post/327910/
+
+Броня крепка, и танки наши быстры | https://habrahabr.ru/company/lanit/blog/327368/
+
+GoTo Data Science Challenge 2: гранты на летнюю школу | https://habrahabr.ru/company/goto/blog/327206/
+
+Дилетантское ЧПУ? | https://habrahabr.ru/post/326834/
+
+Первые шаги к Web SCADA-системе. Оживляем мнемосхему в браузере с помощью AngularJS | https://habrahabr.ru/post/326330/
+
+Как правильно написать ТЗ на систему или доработку системы 1С | https://habrahabr.ru/post/326068/
+
+Кинетика больших кластеров | https://habrahabr.ru/post/325798/
+
+Пишем редактор мнемосхем для SCADA-системы на Fabric.js. Часть 2-я | https://habrahabr.ru/post/325640/
+
+Запускаем датчик скорости потока жидкости | https://habrahabr.ru/company/efo/blog/325076/
+
+Обзор uniset2-testsuite — небольшого велосипеда для функционального тестирования. Часть 2 | https://habrahabr.ru/post/323444/
+
+Обзор uniset2-testsuite — небольшого велосипеда для функционального тестирования | https://habrahabr.ru/post/323290/
+
+Функциональная безопасность, часть 6 из 7. Оценивание показателей функциональной безопасности и надежности | https://habrahabr.ru/post/323776/
+
+Построение демилитаризованной зоны DMZ в системах АСУ ТП с помощью протоколов Modbus и МЭК-60870-5-104 | https://habrahabr.ru/post/323916/
+
+Дисциплина, Точность, Внимание к деталям | https://habrahabr.ru/post/323276/
+
+Делаем свой журнал (архив) алармов в Citect | https://habrahabr.ru/post/323036/
+
+Пишем редактор мнемосхем для SCADA-системы на Fabric.js | https://habrahabr.ru/post/322990/
+
+Big Data: большие возможности или большой обман | https://habrahabr.ru/company/1cloud/blog/322670/
+
+Функциональная безопасность, часть 5 из 7. Жизненный цикл информационной и функциональной безопасности | https://habrahabr.ru/post/322428/
+
+23 февраля: страшней айтишника оружия нет | https://habrahabr.ru/company/parallels/blog/322468/
+
+Мифы о CAP теореме | https://habrahabr.ru/post/322276/
+
+IBM открывает доступ к главному компоненту Watson | https://habrahabr.ru/company/1cloud/blog/322196/
+
+Баги из СССР | https://habrahabr.ru/company/pvs-studio/blog/322198/
+
+Запускаем датчик скорости потока газа | https://habrahabr.ru/company/efo/blog/321108/
+
+Ускоряем передачу данных в localhost | https://habrahabr.ru/post/320508/
+
+Старикам здесь вполне ещё место: забытые ИT-технологии в строю | https://habrahabr.ru/company/parallels/blog/319824/
+
+SCADA: в поисках идеала | https://habrahabr.ru/post/319318/
+
+Про мой LIR2032 и CR2032 тестер, сами батарейки и накопленный опыт | https://habrahabr.ru/post/315110/
+
+«Программист — Аналитическое мышление = 1С программист» и другие результаты GoToHack | https://habrahabr.ru/company/goto/blog/318260/
+
+Космос зовет: нужен математик-специалист в области численного решения стохастических дифференциальных уравнений | https://habrahabr.ru/post/317856/
+
+Рекуррентные формулы для расчета ошибок итерационного суммирования двоичных чисел ограниченной длины | https://habrahabr.ru/post/317786/
+
+Интервью с разработчиком инопланетного софта: «Случись что, моя задница приняла бы основной удар» | https://habrahabr.ru/company/edison/blog/317288/
+
+Первый баг на Марсе | https://habrahabr.ru/company/pvs-studio/blog/315496/
+
+Какой может быть работа ИТ-специалиста будущего | https://habrahabr.ru/company/1cloud/blog/316930/
+
+Реализация протокола MIL-STD-1553 на STM32 | https://habrahabr.ru/post/316430/
+
+Особенности построения тестов и разработки ПО, используемого в тестировании продукта на сборочных линиях | https://habrahabr.ru/post/316332/
+
+Формат JDF. Автоматизация процессов в полиграфическом производстве | https://habrahabr.ru/post/316246/
+
+Информационная безопасность АСУ ТП: Дон Кихот в эру кибероружия | https://habrahabr.ru/post/316184/
+
+Пишем протоколы счетчиков Меркурий 230 и Меркурий 200 для OpenSCADA | https://habrahabr.ru/post/315430/
+
+TDD не работает | https://habrahabr.ru/post/314994/
+
+Термосопротивления: Производственный процесс | https://habrahabr.ru/company/efo/blog/314192/
+
+Термосопротивления: Теория | https://habrahabr.ru/company/efo/blog/312898/
+
+Как сделать процессорный звук в Жигулях | https://habrahabr.ru/post/313946/
+
+DLP и защита инженерных данных от плагиата | https://habrahabr.ru/company/solarsecurity/blog/313012/
+
+«Керосинка» против «Патриотов»: как американские военные программисты научились правильно округлять | https://habrahabr.ru/company/pvs-studio/blog/312890/
+
+О том, что затрудняет формализацию проекта и плодит скрытые ошибки | https://habrahabr.ru/post/312984/
+
+Эволюционный дизайн баз данных | https://habrahabr.ru/post/312970/
+
+Как полюбить mbed, а потом дважды облажаться | https://habrahabr.ru/company/efo/blog/312484/
+
+Поиск Яндекса с инженерной точки зрения. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/312716/
+
+Функциональная безопасность, часть 4 из 7. Процессы управления и оценивания | https://habrahabr.ru/post/312718/
+
+Как перестать бояться и полюбить mbed [Часть 5] | https://habrahabr.ru/company/efo/blog/311816/
+
+Как писать меньше кода для MR, или Зачем миру ещё один язык запросов? История Yandex Query Language | https://habrahabr.ru/company/yandex/blog/312430/
+
+Маленькая архитектура | https://habrahabr.ru/post/312366/
+
+Как перестать бояться и полюбить mbed [Часть 4] | https://habrahabr.ru/company/efo/blog/310720/
+
+Как перестать бояться и полюбить mbed [Часть 3] | https://habrahabr.ru/company/efo/blog/310058/
+
+На видео — разработчица одного из блоков внутри российского микропроцессора Байкал-Т | https://habrahabr.ru/post/311662/
+
+Программируйте там, где затык будет, а не там, где он был | https://habrahabr.ru/post/311398/
+
+Как Yahoo перешла от Flash к HTML5 в видео | https://habrahabr.ru/post/311302/
+
+Toyota: 81 514 нарушений в коде | https://habrahabr.ru/company/pvs-studio/blog/310862/
+
+YT: зачем Яндексу своя MapReduce-система и как она устроена | https://habrahabr.ru/company/yandex/blog/311104/
+
+DRY и цена неправильных абстракций | https://habrahabr.ru/post/311014/
+
+Функциональная безопасность, Часть 3 из 7. МЭК 61508: Систематичная случайность или случайная систематичность? | https://habrahabr.ru/post/310836/
+
+Как перестать бояться и полюбить mbed [Часть 2] | https://habrahabr.ru/company/efo/blog/309918/
+
+Искусство написания простых и коротких функций | https://habrahabr.ru/post/310590/
+
+Главные характеристики качественного кода | https://habrahabr.ru/post/310336/
+
+Как перестать бояться и полюбить mbed [Часть 1] | https://habrahabr.ru/company/efo/blog/308440/
+
+Баг-убийца. Фигак, фигак и Therac-25 | https://habrahabr.ru/company/pvs-studio/blog/307788/
+
+Фатальные ошибки двоичной арифметики при работе с числами с плавающей точкой | https://habrahabr.ru/post/309812/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 3. Переходим к коду Си | https://habrahabr.ru/post/309296/
+
+Функциональная безопасность, Часть 2 из 7. МЭК 61508: кем быть, Шерлоком Холмсом или Дата Туташхиа? | https://habrahabr.ru/post/309636/
+
+Жизнь в условиях тотального подключения к сети | https://habrahabr.ru/company/gemaltorussia/blog/309294/
+
+Versatile Link – универсальное соединение | https://habrahabr.ru/company/efo/blog/308902/
+
+Функциональная безопасность – старшая сестра информационной безопасности, Часть 1 из 7 | https://habrahabr.ru/post/308634/
+
+Про разделение труда и его последствия | https://habrahabr.ru/company/simbirsoft/blog/308090/
+
+Один день программиста ембеддера. Написать драйвер для датчика влажности HTS221 от STM — это очень просто? | https://habrahabr.ru/post/307962/
+
+Космическая ошибка: $370 000 000 за Integer overflow | https://habrahabr.ru/company/pvs-studio/blog/306748/
+
+Что такое программная инженерия. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/307384/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 2 | https://habrahabr.ru/post/307162/
+
+Оптическое волокно в промышленных системах связи | https://habrahabr.ru/company/efo/blog/306896/
+
+Нестандартный подход к программированию микроконтроллера | https://habrahabr.ru/post/304830/
+
+Wecon LX3V: китайский ПЛК с алиэкспресс | https://habrahabr.ru/post/304752/
+
+Семинары по введению во всё: от верилога и цифровой логики до микроархитектуры встроенных процессоров и RTOS-ов | https://habrahabr.ru/post/304612/
+
+Ответственный подход к измерению относительной влажности | https://habrahabr.ru/company/efo/blog/303350/
+
+Вирус, живущий исключительно в ПЛК | https://habrahabr.ru/post/302276/
+
+Всероссийская инженерная олимпиада для старшеклассников: BigData и Интеллектуальные энергетические системы | https://habrahabr.ru/post/283430/
+
+Подробнее о разработке софта рентгеновского томографа | https://habrahabr.ru/company/edison/blog/282848/
+
+Передача видео с глубоководного робота | https://habrahabr.ru/post/277955/
+
+Специализация по алгоритмам и структурам данных от Яндекса, Вышки, UC San Diego и CSC | https://habrahabr.ru/company/yandex/blog/300864/
+
+Runtime программирование промышленного робота на RCML | https://habrahabr.ru/post/283226/
+
+GTD: написать диссертацию и остаться в живых | https://habrahabr.ru/company/parallels/blog/282161/
+
+Этого не будет в BI (Купив BI tool, вы этого не получите) | https://habrahabr.ru/post/281703/
+
+Предсказание оттока игроков из World of Tanks от Yandex Data Factory. Лекция для Малого ШАДа | https://habrahabr.ru/company/yandex/blog/281777/
+
+Как взломать защиту проекта PLC Allen-Bradley | https://habrahabr.ru/post/280846/
+
+Как я СКАДу писал. Часть седьмая | https://habrahabr.ru/post/280496/
+
+Я покажу тебе мир без STM32 | https://habrahabr.ru/company/efo/blog/280145/
+
+Об измерении скорости потока жидкостей и газов | https://habrahabr.ru/company/efo/blog/280031/
+
+Заглянем в будущее: на пути к цифровому коммунизму | https://habrahabr.ru/post/279975/
+
+Ace7096v10: самый маленький ПЛК в мире | https://habrahabr.ru/post/278663/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 6 (Заключительная) | https://habrahabr.ru/post/278697/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 5 (uniset2-testsuite) | https://habrahabr.ru/post/278607/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 4 (Наладка) | https://habrahabr.ru/post/278589/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 3 (Создание процесса управления) | https://habrahabr.ru/post/278565/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 2 (Запуск имитатора) | https://habrahabr.ru/post/278537/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 1 | https://habrahabr.ru/post/278535/
+
+Простой расчет контрольной суммы | https://habrahabr.ru/post/278171/
+
+Платы для разработчиков и терминал на основе российского микропроцессора Байкал-Т | https://habrahabr.ru/post/278011/
+
+Что происходит в C++. Интервью с докладчиками и прямая трансляция встречи в Яндексе | https://habrahabr.ru/company/yandex/blog/277953/
+
+Ассиметричные решения. Информационная безопасность ICS в энергетике | https://habrahabr.ru/post/277723/
+
+Реализация MODBUS RTU сервера с помощью интерфейсного модуля Fastwel и программного обеспечения CoDeSys | https://habrahabr.ru/post/277639/
+
+Мурат Уртембаев — первый советский хакер | https://habrahabr.ru/company/ua-hosting/blog/277487/
+
+Как это — быть разработчиком ПО для автомобилей. Часть 2/2 | https://habrahabr.ru/post/277315/
+
+Как это — быть разработчиком ПО для автомобилей. Часть 1/2 | https://habrahabr.ru/post/277141/
+
+Опыт лекций по введению в шаблоны проектирования | https://habrahabr.ru/post/276699/
+
+Евгений Касперский рассказал о киберпреступлениях в Университете Иннополис [видео] | https://habrahabr.ru/company/innopolis_university/blog/276603/
+
+Фишки XAML-разработчика: условный конвертер | https://habrahabr.ru/post/276315/
+
+Фишки XAML-разработчика: композитные конвертеры | https://habrahabr.ru/post/276273/
+
+Фишки XAML-разработчика: встраиваемые конвертеры | https://habrahabr.ru/post/276185/
+
+Фишки XAML-разработчика: динамический Grid | https://habrahabr.ru/post/276077/
+
+Безопасные двери, или продолжаем проектировать АСУ ТП | https://habrahabr.ru/post/275165/
+
+Разные языки программирования и их области применения. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/272759/
+
+Еще немного об ошибках проектирования АСУ ТП и программирования ПЛК | https://habrahabr.ru/post/274941/
+
+Критические ошибки проектирования АСУ ТП и программирования ПЛК | https://habrahabr.ru/post/274727/
+
+Центробежные компрессорные установки. Защита от помпажа | https://habrahabr.ru/post/274497/
+
+Создание бизнес-процесса на языке BPEL с использованием платформы Serena Business Manager | https://habrahabr.ru/company/softmart/blog/273281/
+
+Циклические срезы, сдвиги и вращения коллекций | https://habrahabr.ru/post/272743/
+
+Редактирование образа Raspberry Pi с помощью qemu-user-static (Ubuntu 14.04) | https://habrahabr.ru/post/272523/
+
+Как отправить IDOC из SAP MII в SAP ERP | https://habrahabr.ru/post/272077/
+
+Автомобильная безопасность: какие уроки мы можем вынести из отзыва машин? | https://habrahabr.ru/company/dsec/blog/271785/
+
+Расширение функционала EPLAN. Создание простого Add-Ina на C# | https://habrahabr.ru/post/271671/
+
+Подъём Node.js – и почему он будет лидировать в разработке корпоративного ПО | https://habrahabr.ru/post/271471/
+
+Типичные грабли на пути программиста от Junior'а к Senior'у | https://habrahabr.ru/post/271297/
+
+Автоматическая генерация программного кода микроконтроллера на основе событийно-ориентированной модели | https://habrahabr.ru/post/269897/
+
+Мегахакатон IoT Russia от Intel и Microsoft | https://habrahabr.ru/company/intel/blog/268933/
+
+TDD по-фольксвагеновски | https://habrahabr.ru/post/269035/
+
+Скандал вокруг Volkswagen и роль программистов в нём | https://habrahabr.ru/post/268899/
+
+Aero Framework — новое дыхание WPF. Поднимаемся выше MVVM | https://habrahabr.ru/post/268151/
+
+АСУ ТП: как мы создавали систему для точного расчета наработки станков большого завода | https://habrahabr.ru/company/croc/blog/266007/
+
+Состояние экосистемы Common Lisp на 2015 год | https://habrahabr.ru/post/265589/
+
+Настоящее и будущее C++. Интервью с Эриком Ниблером | https://habrahabr.ru/company/yandex/blog/265351/
+
+Наш перевод статьи: Двадцать пять целей индустрии программного обеспечения на 2015–2019г.г | https://habrahabr.ru/post/265215/
+
+Моя система тестирования и повышения качества GSM-шлюза. Часть вторая | https://habrahabr.ru/post/264045/
+
+HP Software — современный подход к построению системы мониторинга ИТ и бизнес-сервисов | https://habrahabr.ru/company/muk/blog/263715/
+
+Лекции и тренинги Intel по Software Engineering. Август, Москва | https://habrahabr.ru/company/intel/blog/263497/
+
+Забудьте о DAO, используйте Repository | https://habrahabr.ru/post/263033/
+
+Открытый проект универсального микроконтроллерного модуля | https://habrahabr.ru/post/262657/
+
+Моя система тестирования и повышения качества GSM шлюза, часть первая: функциональный и схемный уровень | https://habrahabr.ru/post/262531/
+
+Нужна ли нормализация в числах с плавающей точкой? | https://habrahabr.ru/post/262377/
+
+«Программирование мышкой» для микроконтроллеров | https://habrahabr.ru/company/efo/blog/261253/
+
+И опять о DevOps | https://habrahabr.ru/post/260659/
+
+Применение KolibriOS. Часть 2: Экзоверсия ядра для разработчиков железа | https://habrahabr.ru/company/kolibrios/blog/259215/
+
+О том, как мы опробовали статический анализ на своем проекте учебного симулятора рентгенэндоваскулярной хирургии | https://habrahabr.ru/company/pvs-studio/blog/259911/
+
+Дебаггинг в реальном времени через JTAG/SWJ-DP для микроконтроллеров на ядре ARM Cortex-M | https://habrahabr.ru/post/259205/
+
+Первые шаги к умной бане | https://habrahabr.ru/company/tibbo/blog/258259/
+
+SEMAT? Приятно познакомиться | https://habrahabr.ru/post/258529/
+
+Применение KolibriOS. Часть 1: Обзорная | https://habrahabr.ru/company/kolibrios/blog/256799/
+
+ПЛК Ace: маленький контроллер для «умного дома» | https://habrahabr.ru/post/256911/
+
+Микроконтроллеры семейства Kinetis от NXP-Freescale для встраиваемой электроники. Открываем для себя | https://habrahabr.ru/post/256611/
+
+Помогают ли опыт и достижения в спортивном программировании в реальной жизни и работе, или мешают? | https://habrahabr.ru/company/yandex/blog/256163/
+
+Как SpaceX использует GPU для обсчёта ракетных двигателей | https://habrahabr.ru/post/256081/
+
+HP BURA (HP BackUp, Recovery and Archiving) — предложение HP для организации системы резервного копирования и архивирования данных | https://habrahabr.ru/company/muk/blog/255843/
+
+СКАДА-система 4-го поколения: AggreGate SCADA/HMI | https://habrahabr.ru/company/tibbo/blog/254551/
+
+Как оценивать работу программиста? Мнение сотрудников Яндекса | https://habrahabr.ru/company/yandex/blog/254635/
+
+Управление складом: на «волнах» операций | https://habrahabr.ru/post/254561/
+
+Настройка WMS на складе с узкопроходной технологией | https://habrahabr.ru/post/254295/
+
+Промышленное использование C++ & OpenCV. Часть 1: Постановка задачи и методы реализации | https://habrahabr.ru/post/253645/
+
+Автоматизация финансовой отчетности | https://habrahabr.ru/post/252817/
+
+Что такое WMS? | https://habrahabr.ru/post/252889/
+
+Чем отличается ворона от письменного стола Или разница между «ихними» модулями и «нашими» компонентами | https://habrahabr.ru/company/ultima/blog/251903/
+
+Сетевые технологии SDN – Software Defined Networking | https://habrahabr.ru/company/muk/blog/251959/
+
+Видео о программировании микроконтроллеров Atmel | https://habrahabr.ru/company/muk/blog/251957/
+
+Как я проходила собеседования в Яндекс: мой непростой, но успешный опыт | https://habrahabr.ru/company/yandex/blog/251715/
+
+Антипаттерны проектирования: Dead End | https://habrahabr.ru/post/250845/
+
+Визуализация и декодирование данных с магнитных АТМ-карт | https://habrahabr.ru/post/250329/
+
+Как мы строили систему аварийной сигнализации дата-центра | https://habrahabr.ru/company/embox/blog/249789/
+
+1987 год — Выставка «Информатика в жизни США» | https://habrahabr.ru/post/249651/
+
+ПЛК100 + LabVIEW + джойстик v2.0 | https://habrahabr.ru/post/249295/
+
+Монолитная система VS множество самостоятельных модулей на примере притчи о слоне и мудрецах | https://habrahabr.ru/post/249247/
+
+ПЛК100 + LabVIEW + джойстик | https://habrahabr.ru/post/248357/
+
+UHF в системах учета рабочего времени и контроля доступа | https://habrahabr.ru/company/scancode/blog/245193/
+
+Моделируем преднапряжение бетонной оболочки АЭС | https://habrahabr.ru/company/autodesk/blog/245861/
+
+Tibbo в создании ГИС ЖКХ | https://habrahabr.ru/company/scancode/blog/245189/
+
+Комнатная метеостанция с сетевым интерфейсом на Tibbo Project System | https://habrahabr.ru/company/scancode/blog/243787/
+
+SDN: новые возможности управления потоками в mesh — сетях | https://habrahabr.ru/post/239649/
+
+Как я проект в OpenSCADA сделал | https://habrahabr.ru/post/238537/
+
+Управление температурой быстрых термических процессов | https://habrahabr.ru/post/232339/
+
+Чем грозит движок бизнес-процессов программисту на примере Apache Activiti | https://habrahabr.ru/post/235997/
+
+«My way» с MS Excel | https://habrahabr.ru/post/235903/
+
+Есть ли разница — работать в аутсорсе или в продуктовой компании? Мнения из Яндекса в Нижнем Новгороде | https://habrahabr.ru/company/yandex/blog/233767/
+
+Управление воздушным движением — взгляд изнутри | https://habrahabr.ru/post/231145/
+
+Как в WMS-системах обычно реализуется комплектация доставок по заказам? | https://habrahabr.ru/post/230683/
+
+Разработка и тестирование модуля АСКУЭ | https://habrahabr.ru/post/228291/
+
+Полезные навыки аналитиков. Как стать профессионалом | https://habrahabr.ru/company/sqalab/blog/219667/
+
+Веббраузер, как среда для функционирования программного обеспечения для контроля/управления технологическими процессами | https://habrahabr.ru/post/217401/
+
+Светофор на ПЛК – все языки МЭК 61131-3 | https://habrahabr.ru/post/209290/
+
+Светофор на ПЛК – 30 блоков | https://habrahabr.ru/post/208560/
+
+Промышленное программирование, или Пара слов об АСУ ТП | https://habrahabr.ru/post/197276/
+
+Малая автоматизация, или как два байта переслать | https://habrahabr.ru/post/180273/
+
+Современные АСУ ТП | https://habrahabr.ru/post/105375/
+

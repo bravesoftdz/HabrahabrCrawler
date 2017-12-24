@@ -1,0 +1,48 @@
+Области сокрытия кода и рефакторинг | https://habrahabr.ru/post/340726/
+
+Magento Dare to Share. Осень — сезон Magento митапов | https://habrahabr.ru/post/340338/
+
+Развертывание Magento 2 приложения для разработки | https://habrahabr.ru/post/338866/
+
+Обновления Magento, Защита от вредных администраторов, утечки данных, исполнения кода | https://habrahabr.ru/post/338052/
+
+Погружение в ценообразование Magento 2, убираем копейки после скидок | https://habrahabr.ru/post/336934/
+
+Система управления складом с использованием CQRS и Event Sourcing. Service Layer | https://habrahabr.ru/post/335636/
+
+Microservices и Модель Акторов (Actor Model) | https://habrahabr.ru/post/334586/
+
+Magento Dare to Share — Открытая Площадка для докладов о Magento, PHP и eCommerce | https://habrahabr.ru/post/334390/
+
+Система управления складом с использованием CQRS и Event Sourcing. Проектирование | https://habrahabr.ru/post/333678/
+
+Система управления складом с использованием CQRS и Event Sourcing. Постановка требований | https://habrahabr.ru/post/331654/
+
+Запрещенные изменения в коде или продолжение истории ремонта одного крана | https://habrahabr.ru/post/325124/
+
+Политика обратной совместимости при разработке фреймворка на примере Magento 2. Часть 1 | https://habrahabr.ru/post/324450/
+
+Magento U опубликовало бесплатный курс Fundamentals of Magento 2 Development | https://habrahabr.ru/post/323784/
+
+Magento 2. Le Roi est mort! Vive le Roi? | https://habrahabr.ru/post/310106/
+
+Magento 2: ObjectManager и Proxy-классы | https://habrahabr.ru/post/317162/
+
+Magento 2. Ui Grid | https://habrahabr.ru/post/315182/
+
+Разработка модулей для Magento 1.x — большой гайд + видео | https://habrahabr.ru/post/312322/
+
+Как создать тему для Magento 2 с нуля | https://habrahabr.ru/post/311350/
+
+Автоматическое изменение типов продуктов в Magento 2 | https://habrahabr.ru/post/309184/
+
+Увеличение производительности Magento | https://habrahabr.ru/post/282025/
+
+Области сокрытия кода и рефакторинг | https://habrahabr.ru/post/269425/
+
+Magento-модули и Travis CI | https://habrahabr.ru/post/247349/
+
+Разработка Magento-модулей с развертыванием приложения через Magento Composer | https://habrahabr.ru/post/246703/
+
+Почему Magento? | https://habrahabr.ru/post/91233/
+

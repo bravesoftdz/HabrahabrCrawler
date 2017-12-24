@@ -1,0 +1,260 @@
+Создание модулей для MODX Evolution в 2017 для самых маленьких | https://habrahabr.ru/post/336182/
+
+Защищаем MODX Revolution | https://habrahabr.ru/post/335148/
+
+Дайджест интересных материалов из мира MODX #2 | https://habrahabr.ru/post/282670/
+
+Дайджест интересных материалов из мира MODX #1 | https://habrahabr.ru/post/280820/
+
+Готовая сборка новостного портала NewsModxBox | https://habrahabr.ru/post/267839/
+
+QuadBraces — по мотивам парсера MODx | https://habrahabr.ru/post/266865/
+
+Особенности метода xPDOObject::save() + транзакции | https://habrahabr.ru/post/265485/
+
+MODX Revolution встречает Fenom | https://habrahabr.ru/post/264635/
+
+Что мы знаем о MODX 3 на данный момент? | https://habrahabr.ru/post/259197/
+
+Фабрика сайтов (Ф.CMS) проиграла суд | https://habrahabr.ru/post/257149/
+
+Расширение системных (и не только) таблиц в MODX Revolution | https://habrahabr.ru/post/253737/
+
+Обзор Shopkeeper 3.0 для MODX Revolution | https://habrahabr.ru/post/249397/
+
+Обновленная сборка интернет-магазина на MODX Revolution. Несколько валют | https://habrahabr.ru/post/246635/
+
+Компонент источник файлов Dropbox для MODX Revolution | https://habrahabr.ru/post/245243/
+
+Сниппет msVendor для miniShop2 | https://habrahabr.ru/post/242969/
+
+Система доступа к документам для MODX | https://habrahabr.ru/post/241357/
+
+8 двухколёсных советов по MODX Revolution | https://habrahabr.ru/post/220847/
+
+Знакомство с MODX | https://habrahabr.ru/post/220127/
+
+Сниппет ddTypograph 2.0b на EMT lib 3.2 (MODX Evo) | https://habrahabr.ru/post/213523/
+
+Очень простой способ обработки ajax запросов в MODx Revolution | https://habrahabr.ru/post/212345/
+
+Open Source документация для MODX Revolution | https://habrahabr.ru/post/208818/
+
+FrontendSimpleEdit — простой редактор контента для внешней части сайта на MODX Revolution | https://habrahabr.ru/post/206112/
+
+pdoTools — набор быстрых сниппетов и библиотека | https://habrahabr.ru/post/199062/
+
+Групповое редактирование ресурсов (документов) с помощью MIGXDB | https://habrahabr.ru/post/196396/
+
+Готовая сборка интернет-магазина на MODX Revolution | https://habrahabr.ru/post/195090/
+
+MODX.RU — новый старт! | https://habrahabr.ru/post/193328/
+
+MODX EVO store — первый репозиторий для MODX EVOLUTION | https://habrahabr.ru/post/189366/
+
+Наш взгляд на развитие MODX Revolution в СНГ | https://habrahabr.ru/post/186872/
+
+Персональный доступ к файлам на сайте сделанном на MODx | https://habrahabr.ru/post/186836/
+
+MODX Evolution возвращение! (версия 1.0.9 от 19.03.2013) | https://habrahabr.ru/post/173667/
+
+Разработка интернет-магазина 13000+ товаров на MODX Revolution. Часть 1 | https://habrahabr.ru/post/171343/
+
+Видео по настройке VPS на Linode | https://habrahabr.ru/post/168933/
+
+MODX-клуб в Москве | https://habrahabr.ru/post/167159/
+
+Сниппет menuCaching для MODX Revolution | https://habrahabr.ru/post/167053/
+
+Репозиторий готовых решений MODx Evo | https://habrahabr.ru/post/163159/
+
+Собственный репозиторий для MODX Revolution | https://habrahabr.ru/post/163077/
+
+Добавляем новый тег в MODX Revolution | https://habrahabr.ru/post/161843/
+
+Взгляд в будущее MODX. 2013 | https://habrahabr.ru/post/160963/
+
+MODX Revolution и php-шаблоны | https://habrahabr.ru/post/160797/
+
+Компонент Tickets — пользовательские страницы и комментарии | https://habrahabr.ru/post/159773/
+
+Заготовка «Импорт-экспорт» | https://habrahabr.ru/post/157483/
+
+Совместимость с хабраредактором для MODx Evo | https://habrahabr.ru/post/157187/
+
+Новый релиз пакета modLivestreet 0.5.0-rc full | https://habrahabr.ru/post/157135/
+
+Связка MODX Revolution и форума phpBB | https://habrahabr.ru/post/157055/
+
+Установка LivestreetCMS на MODX Revolution из пакета за 10 кликов | https://habrahabr.ru/post/156889/
+
+Релиз новой версии модуля modLivestreet 0.4.6.1-rc | https://habrahabr.ru/post/156463/
+
+Релиз новой версии модуля modLivestreet 0.3.0-rc | https://habrahabr.ru/post/155063/
+
+Связка MODx Revolution + LiveStreet. Часть 2 (Дубль два) | https://habrahabr.ru/post/154757/
+
+Парадигма программирования процессорами в MODx Revolution | https://habrahabr.ru/post/154081/
+
+MODX Revolution — пара костылей для необычных ситуаций | https://habrahabr.ru/post/153261/
+
+Пользовательские запросы к БД в MODx Revolution | https://habrahabr.ru/post/152123/
+
+Работа с поддоменами в MODx | https://habrahabr.ru/post/151751/
+
+Связка MODx Revolution + LiveStreet | https://habrahabr.ru/post/151540/
+
+Решение проблемы «пустой админки» MODX Revo | https://habrahabr.ru/post/151508/
+
+Заметки о MODX Revo от новичка | https://habrahabr.ru/post/150942/
+
+Как я воевал с контекстами | https://habrahabr.ru/post/150713/
+
+Компонент «Фильтрация и управление фильтрами» 1.2 для MODX Revolution | https://habrahabr.ru/post/150357/
+
+Сниппет Loginza для MODX Revolution | https://habrahabr.ru/post/150241/
+
+MODX Cloud: первый обзор | https://habrahabr.ru/post/149478/
+
+MODx Revo: TinyMCE и Конструктор таблиц | https://habrahabr.ru/post/149375/
+
+Разрабатываем социальную сеть на MODx Revolution | https://habrahabr.ru/post/148876/
+
+Альтернативная пометка в Wayfiner, квадратики в SimpleSearch и полезные ссылки для Modx Revolution | https://habrahabr.ru/post/146794/
+
+mSearch: поиск + фильтр для MODX Revolution | https://habrahabr.ru/post/145705/
+
+Aloha Editor для MODX Revolution | https://habrahabr.ru/post/144517/
+
+Тестовые сайты MODX Revolution | https://habrahabr.ru/post/144215/
+
+Импорт инфоблоков из 1С-Битрикс в MODx Revolution | https://habrahabr.ru/post/142430/
+
+Релиз SBShop 1.0 — интернет-магазин на MODX Evolution | https://habrahabr.ru/post/142124/
+
+Вывод соседних документов в MODX Evolution | https://habrahabr.ru/post/141261/
+
+Правильный хостинг для MODx своими руками | https://habrahabr.ru/post/139461/
+
+Видеоурок по созданию интернет-магазина на MODX Revolution + Shopkeeper. Часть 1 | https://habrahabr.ru/post/140228/
+
+Как я делал самый популярный сайт о выборах | https://habrahabr.ru/post/139732/
+
+MODx Evolution CMS 1.0.6 release | https://habrahabr.ru/post/139636/
+
+Интернет-магазин miniShop для MODX Revolution | https://habrahabr.ru/post/131456/
+
+Sass плагин для MODX | https://habrahabr.ru/post/137747/
+
+Авторизация на сайте средствами phpBB/XenForo | https://habrahabr.ru/post/136833/
+
+Релиз MODx 2.2 | https://habrahabr.ru/post/135717/
+
+Вышел MODX Revolution 2.2 RC1 | https://habrahabr.ru/post/133017/
+
+Личные сообщения в MODx Revolution | https://habrahabr.ru/post/132802/
+
+MODx Revo, настройка авторизации Login. Базовая установка | https://habrahabr.ru/post/132743/
+
+Разработка дополнения для MODx Revolution. Часть 3 | https://habrahabr.ru/post/132709/
+
+Modx и «ограничение» в 5000 документов | https://habrahabr.ru/post/132111/
+
+Работа с изображениями средствами phpThumbOf | https://habrahabr.ru/post/131424/
+
+Создание сайта на MODx CMS — видео урок | https://habrahabr.ru/post/129010/
+
+Рефакторинг простого PHP приложения для MODx | https://habrahabr.ru/post/128088/
+
+Разработка дополнения для MODx Revolution. Часть 1 | https://habrahabr.ru/post/127722/
+
+PHP-консоль под MODx Revolution | https://habrahabr.ru/post/126733/
+
+Вышел Shopkeeper 2.0 beta1 для MODX Revolution | https://habrahabr.ru/post/123126/
+
+Пользовательские таблицы в MODx Revolution | https://habrahabr.ru/post/123072/
+
+Расширение PageBreaker для MODX — постраничная разбивка текстов | https://habrahabr.ru/post/123033/
+
+MODx: ресурсы, чанки и какие-то телевизоры | https://habrahabr.ru/post/122289/
+
+Безопасность и проблемы с ней в MODx Revolution | https://habrahabr.ru/post/121264/
+
+Календарь-планировщик для MODX Revolution | https://habrahabr.ru/post/120525/
+
+MODX выпускает Revolution 2.1 с полной поддержкой SQL Server | https://habrahabr.ru/post/120282/
+
+Быстрый старт в MODX Revolution | https://habrahabr.ru/post/116614/
+
+CacheAccelerator для MODx Evo. Уменьшение в разы количества запросов к базе за счет кэширования динамических сниппетов | https://habrahabr.ru/post/113719/
+
+MODx — немного улучшаем админку Evolution | https://habrahabr.ru/post/112813/
+
+Использование LESS в MODx | https://habrahabr.ru/post/112812/
+
+Заметки программиста о новых возможностях MODx Revolution | https://habrahabr.ru/post/111448/
+
+MODx — собственный ajax календарь событий/новостей 2 | https://habrahabr.ru/post/111436/
+
+MODх — Учет посетителей сайта и график посещений | https://habrahabr.ru/post/111203/
+
+MODx — собственный ajax календарь событий/новостей без Ditto | https://habrahabr.ru/post/111155/
+
+Сниппет catalogView для MODx Evolution | https://habrahabr.ru/post/110740/
+
+MODx — Интеграция Sypex Dumper | https://habrahabr.ru/post/110316/
+
+Вышел MODx Revolution 2.0.5 | https://habrahabr.ru/post/109864/
+
+MODx Revolution. Итоги. Часть 1 | https://habrahabr.ru/post/108154/
+
+Делаем репозитарий для Evo на Ditto | https://habrahabr.ru/post/106185/
+
+Shopkeeper — модуль интернет-магазина для MODx | https://habrahabr.ru/post/104303/
+
+MODx — простой файловый архив на FileDownload v2.6. Усовершенствуем систему редактирования описаний файлов | https://habrahabr.ru/post/104224/
+
+MODx — поиск по админской части или Doc Finder 1.6 | https://habrahabr.ru/post/102635/
+
+Революция начинается сегодня | https://habrahabr.ru/post/99775/
+
+MODx Evolution 1.0.4 | https://habrahabr.ru/post/96611/
+
+MODx & Vbulletin 3.8.x — последние сообщения с форума | https://habrahabr.ru/post/93943/
+
+MODx и Vbulletin 3.8.x — мир, дружба, жвачка | https://habrahabr.ru/post/93572/
+
+Самый простой thumb | https://habrahabr.ru/post/87184/
+
+Навигация по соседним документам (Siblings) | https://habrahabr.ru/post/71722/
+
+вывод новостей с группировкой по дате | https://habrahabr.ru/post/69342/
+
+Wayfinder + UltimateParent = раздельный вывод меню и подменю | https://habrahabr.ru/post/66870/
+
+Делаем собственную баннерную крутилку | https://habrahabr.ru/post/66277/
+
+Новая версия CMS/CMF MODx Evolution 1.0 | https://habrahabr.ru/post/65988/
+
+Вышел MODx 0.9.6.3 | https://habrahabr.ru/post/47975/
+
+Русская документация по MODx API | https://habrahabr.ru/post/47974/
+
+0.9.6.2 | https://habrahabr.ru/post/40108/
+
+«Гламурный» информер с Gismeteo для MODx | https://habrahabr.ru/post/20607/
+
+Параметры Wayfinder | https://habrahabr.ru/post/17623/
+
+Делаем поиск по множественным TV | https://habrahabr.ru/post/16117/
+
+MODx eForm | https://habrahabr.ru/post/14751/
+
+MODx. Базовые вещи | https://habrahabr.ru/post/13701/
+
+MODx. Введение | https://habrahabr.ru/post/13660/
+
+На сколько вы знакомы с MODx? | https://habrahabr.ru/post/35099/
+
+Стартуем! | https://habrahabr.ru/post/13623/
+

@@ -1,0 +1,76 @@
+Как рассчитать ROI при внедрении Office 365 с помощью ROI-калькулятора | https://habrahabr.ru/company/roi4cio/blog/343956/
+
+Microsoft Graph для разработчиков | https://habrahabr.ru/company/microsoft/blog/329708/
+
+Всё в ажуре: интеграция Parallels RAS в Microsoft Azure | https://habrahabr.ru/company/parallels/blog/325724/
+
+Что такое SAML аутентификация и кому она нужна? | https://habrahabr.ru/company/gemaltorussia/blog/322316/
+
+Office 2 — поиск подхода | https://habrahabr.ru/post/318370/
+
+Как сделать презентацию интерактивной | https://habrahabr.ru/company/microsoft/blog/316134/
+
+Как мы соединили Parallels Desktop и Office 365 | https://habrahabr.ru/company/parallels/blog/311878/
+
+Как перестать беспокоиться и победить Центр обновления Windows? | https://habrahabr.ru/company/parallels/blog/311324/
+
+Microsoft Office и продуктивность на конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/301252/
+
+Ключевые спикеры конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/282716/
+
+23-24 апреля с 12:00 до 12:00 приглашаем на #1 Global Chatbots Hackathon с Webinar.ru | https://habrahabr.ru/company/microsoft/blog/282033/
+
+Отладка Office Add-ins на iOS (iPad) | https://habrahabr.ru/company/microsoft/blog/280898/
+
+Текстовая трансляция конференции Build 2016 — второй день | https://habrahabr.ru/company/microsoft/blog/280622/
+
+Текстовая трансляция конференции Build 2016 | https://habrahabr.ru/company/microsoft/blog/280518/
+
+От документа к проекту: как Wrike создавал дополнение для Office 365 | https://habrahabr.ru/company/microsoft/blog/279873/
+
+Продуктивность в разработке Office Add-ins | https://habrahabr.ru/company/microsoft/blog/279735/
+
+Molecula – новый способ ведения групповых переписок в Outlook | https://habrahabr.ru/company/microsoft/blog/279307/
+
+Yelp, Wunderlist и GIPHY представили приложения нового типа | https://habrahabr.ru/company/microsoft/blog/277539/
+
+Интеграция 3CX с Office 365 | https://habrahabr.ru/company/3cx/blog/277165/
+
+Офис как Платформа: как развивается проект Notegram для OneNote | https://habrahabr.ru/company/microsoft/blog/275981/
+
+Секреты DevCon #2. Как формируется сетка конференции | https://habrahabr.ru/company/microsoft/blog/275087/
+
+Секреты DevCon #1. Традиционный DevCon в новом формате | https://habrahabr.ru/company/microsoft/blog/273143/
+
+Бесплатные вебинары на Неделе стартапов – подключайтесь | https://habrahabr.ru/company/microsoft/blog/271491/
+
+Outlook Add-Ins или куда уходит 25% рабочего времени и можно ли его вернуть? | https://habrahabr.ru/company/microsoft/blog/270995/
+
+Office Add-Ins для Excel — новые возможности для разработчиков на VBA и VSTO | https://habrahabr.ru/company/microsoft/blog/270763/
+
+Офис как Платформа: как создавался проект Notegram для OneNote | https://habrahabr.ru/company/microsoft/blog/270213/
+
+Офис как Платформа: публикуем приложение SharePoint в Office Store | https://habrahabr.ru/company/microsoft/blog/270045/
+
+Часть 2. Публикация приложений в Магазине Office | https://habrahabr.ru/company/microsoft/blog/269183/
+
+Часть 1. Office Store для кроссплатформенной продуктивности от А до Я | https://habrahabr.ru/company/microsoft/blog/269149/
+
+Продуктивность по почте: Как создавался Evernote для Outlook | https://habrahabr.ru/company/microsoft/blog/268941/
+
+Офис как Платформа, выпуск №8 — контекстное приложение Office c Visual Studio Code на OS X, Linux и Windows | https://habrahabr.ru/company/microsoft/blog/269015/
+
+Офис как Платформа, выпуск №7 — управление Office 365 и SharePoint Online через PowerShell | https://habrahabr.ru/company/microsoft/blog/268853/
+
+Офис как Платформа, выпуск №6 — быстрый старт разработчика SharePoint Online | https://habrahabr.ru/company/microsoft/blog/268715/
+
+Офис как Платформа, выпуск №5 — представляем OneNote REST API | https://habrahabr.ru/company/microsoft/blog/268333/
+
+Офис как Платформа, выпуск №4: Uber, PayPal, Boomerang и Evernote как примеры приложений нового типа | https://habrahabr.ru/company/microsoft/blog/264911/
+
+Офис как Платформа, выпуск №3: Power BI. Получаем данные из REST API | https://habrahabr.ru/company/microsoft/blog/264645/
+
+Office как Платформа, выпуск №2: Power BI – новый подход к созданию бизнес-аналитики | https://habrahabr.ru/company/microsoft/blog/264051/
+
+Office как Платформа, выпуск №1: введение в то, как миллиард пользователей Microsoft Office становятся вашими пользователями | https://habrahabr.ru/company/microsoft/blog/262771/
+

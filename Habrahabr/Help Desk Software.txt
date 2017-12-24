@@ -1,0 +1,216 @@
+ITSM-дайджест: 20 материалов об оптимизации ИТ-процессов | https://habrahabr.ru/company/it-guild/blog/343856/
+
+CRM система или Help Desk? В чем принципиальная разница, откуда путаница, и что есть на рынке Help Desk-ов? | https://habrahabr.ru/company/okdesk/blog/343976/
+
+Надежная инфраструктура для облачного b2b стартапа | https://habrahabr.ru/company/okdesk/blog/343266/
+
+«Как близнецы»: 3 пары похожих терминов ITIL | https://habrahabr.ru/company/it-guild/blog/341928/
+
+Машинное обучение своими руками (часть 2). Сервис для классификации обращений в тех. поддержку | https://habrahabr.ru/company/okdesk/blog/342796/
+
+Self Service: как и зачем учить пользователей самостоятельности | https://habrahabr.ru/company/it-guild/blog/341926/
+
+Россия vs Германия. Инсайд о процессах тех. поддержки, качественном сервисе и русских хакерах | https://habrahabr.ru/company/okdesk/blog/342390/
+
+23 вопроса для кандидата в службу поддержки | https://habrahabr.ru/post/341468/
+
+25 материалов об ITSM, обработке инцидентов и развитии бизнес-процессов | https://habrahabr.ru/company/it-guild/blog/340432/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 2 — «Заграница») | https://habrahabr.ru/company/okdesk/blog/341118/
+
+CoLaboratory: митап Atlassian User Group | https://habrahabr.ru/company/kaspersky/blog/340764/
+
+Agent Intelligence от ServiceNow — нейронные сети на службе у техподдержки | https://habrahabr.ru/company/it-guild/blog/340682/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 1 — Россия) | https://habrahabr.ru/company/okdesk/blog/340426/
+
+Вышла Odoo 11 — открытая система для автоматизации бизнеса | https://habrahabr.ru/post/340348/
+
+Как начиналась ServiceNow: краткая история развития компании | https://habrahabr.ru/company/it-guild/blog/337832/
+
+ServiceNow-конференция «Knowledge17» | https://habrahabr.ru/company/marsis/blog/339960/
+
+Как мы обманываем клиентов. Софт как Сервис | https://habrahabr.ru/company/yougile/blog/337634/
+
+Как успешно внедрить Help Desk? 12 примеров (часть 2) | https://habrahabr.ru/company/okdesk/blog/339692/
+
+Что такое ERP-Платфома | https://habrahabr.ru/post/338988/
+
+Решение инцидентов ServiceNow приходит в Slack | https://habrahabr.ru/company/it-guild/blog/337830/
+
+Как успешно внедрить Help Desk? 12 примеров (часть 1) | https://habrahabr.ru/company/okdesk/blog/339170/
+
+Выбор Help Desk системы. 9 типичных заблуждений | https://habrahabr.ru/company/okdesk/blog/338402/
+
+Создание портала самообслуживания IT на примере интеграции MS SCCM и ServiceNow. Часть 2 | https://habrahabr.ru/company/icl_services/blog/337468/
+
+Создание портала самообслуживания IT на примере интеграции MS SCCM и ServiceNow. Часть 1 | https://habrahabr.ru/company/icl_services/blog/336872/
+
+Как может помочь комплексная автоматизация, если у вас малое предприятие | https://habrahabr.ru/company/scanport/blog/336326/
+
+Как мы переходили с InboxSDK на Gmail.js | https://habrahabr.ru/company/deskun/blog/335874/
+
+3 спорные идеи руководителя поддержки | https://habrahabr.ru/post/335782/
+
+Создаем чек-лист для внедрения хелпдеска | https://habrahabr.ru/post/335484/
+
+Сервис из коробки: настроить ServiceNow «за 60 секунд» | https://habrahabr.ru/company/technoserv/blog/335690/
+
+«На полпути»: Пятерка главных новостей компании ServiceNow за 2017 год | https://habrahabr.ru/company/it-guild/blog/334516/
+
+8 мифов об управлении услугами, которые всего лишь мифы: О внедрении, дороговизне и актуальности | https://habrahabr.ru/company/it-guild/blog/331384/
+
+Каким должен быть идеальный конфигуратор отчетов | https://habrahabr.ru/post/331884/
+
+Financial Management: Как оценить затраты на предоставляемые услуги | https://habrahabr.ru/company/it-guild/blog/331380/
+
+Знакомство со стандартом ISO 20000: Откуда он взялся и как сертифицировать компанию | https://habrahabr.ru/company/it-guild/blog/331378/
+
+Обновление Deskun: из тикет-системы внутри Gmail в мультиканальную систему поддержки | https://habrahabr.ru/company/deskun/blog/331846/
+
+Как внедрить процессы управления конфигурацией | https://habrahabr.ru/company/it-guild/blog/331374/
+
+Платформа ServiceNow: Искусственный интеллект автоматизирует рабочие процессы | https://habrahabr.ru/company/it-guild/blog/331626/
+
+HelpDesk и ServiceDesk. Что это и зачем это нужно вашей компании | https://habrahabr.ru/company/deskun/blog/331354/
+
+Немного о ServiceNow, ITSM и ServiceDesk в формате подборки полезных материалов | https://habrahabr.ru/company/it-guild/blog/330930/
+
+«Управление в ИТ»: что такое ITSM и платформа ServiceNow | https://habrahabr.ru/company/it-guild/blog/330928/
+
+Чего не хватает Gmail. 4 бесплатные возможности Deskun | https://habrahabr.ru/company/deskun/blog/330852/
+
+10 правил организации эффективной клиентской поддержки | https://habrahabr.ru/company/deskun/blog/330454/
+
+Как развернуть систему клиентской поддержки за 5 минут | https://habrahabr.ru/company/deskun/blog/330232/
+
+День из жизни технической поддержки | https://habrahabr.ru/company/virtuozzo/blog/329950/
+
+Общедоступные инструменты учета программного обеспечения для SAM | https://habrahabr.ru/company/iteco/blog/326980/
+
+Осторожно: высокое напряжение, или когда техподдержке нужна поддержка | https://habrahabr.ru/company/parallels/blog/325912/
+
+Формирование Support Division краснодарской студии Plarium | https://habrahabr.ru/company/plarium/blog/325268/
+
+Успеть за 30 минут и другие рекорды Social Media Support | https://habrahabr.ru/company/parallels/blog/322860/
+
+Качество сервиса на три буквы | https://habrahabr.ru/company/parallels/blog/322374/
+
+Организация контроля за соблюдением времени реакции на обращения клиентов в сервисном подразделении | https://habrahabr.ru/company/infowatch/blog/322288/
+
+Как поддержка помогает «Дадате» получать новых клиентов и выгодно выделяться на фоне конкурентов | https://habrahabr.ru/company/hflabs/blog/321330/
+
+Простая математика для решения непростых задач | https://habrahabr.ru/company/infowatch/blog/321012/
+
+ITSM. Что мы поняли об услугах | https://habrahabr.ru/company/monandco/blog/320370/
+
+Ваш звонок очень важен для нас? Или как работает система приоритизации заявок в сервисных подразделениях | https://habrahabr.ru/company/infowatch/blog/320226/
+
+Быстрый полнотекстовый поиск в Redmine | https://habrahabr.ru/company/southbridge/blog/317524/
+
+Help Desk система Okdesk. Как мы развиваем наш стартап: баланс между долгосрочной стратегией и пожеланиями клиентов | https://habrahabr.ru/company/okdesk/blog/317392/
+
+Как Велобайк внедрил UseDesk и ускорил поддержку в 6 раз | https://habrahabr.ru/company/usedesk/blog/317210/
+
+Личный опыт внедрения системы GLPI. Часть 2 | https://habrahabr.ru/post/316734/
+
+Замена Help Desk системы. 8 универсальных советов о том, как саботировать миграцию на новое решение | https://habrahabr.ru/company/okdesk/blog/315366/
+
+Как мы внедряем ITSM. Четыре порока обслуживания | https://habrahabr.ru/company/monandco/blog/314880/
+
+Человек-саппорт, или как работает служба техподдержки хостинг-провайдера FASTVPS | https://habrahabr.ru/company/FastVPS/blog/314178/
+
+Битва экстрасенсов в технической поддержке, или как помочь пользователю правильно проставить приоритет инцидента | https://habrahabr.ru/company/docsvision/blog/313722/
+
+На второй линии фронта: наш опыт развития технического отдела поддержки | https://habrahabr.ru/company/wrike/blog/313296/
+
+Как снизить время ответа пользователям в соцсетях? | https://habrahabr.ru/company/parallels/blog/312864/
+
+Личный опыт внедрения системы GLPI. Часть 1 | https://habrahabr.ru/post/312448/
+
+Предотврати это: облегчаем жизнь клиенту и себе заодно | https://habrahabr.ru/company/parallels/blog/312282/
+
+Автоматизация работы ИТ-службы | https://habrahabr.ru/post/310466/
+
+Обращение в Service Desk. Где больше заботятся о клиентах: в сфере ИТ услуг или ремонта кондиционеров? | https://habrahabr.ru/company/okdesk/blog/309344/
+
+Установка service desk системы vsDesk 3.0 | https://habrahabr.ru/post/306526/
+
+Help Desk и Service Desk – когда Excel и CRM недостаточно? Действительно важные функции систем учета заявок | https://habrahabr.ru/company/okdesk/blog/306326/
+
+6 советов по выбору VPS-хостинга | https://habrahabr.ru/company/cloud4y/blog/302366/
+
+Отчёт с Moscow Atlassian Meetup 20 апреля | https://habrahabr.ru/company/mailru/blog/283510/
+
+Клиентский портал или 4 ключевых задачи сервисного бизнеса | https://habrahabr.ru/company/okdesk/blog/300212/
+
+Необычные пользователи в easla.com | https://habrahabr.ru/company/easla/blog/281649/
+
+Приглашаем на Moscow Atlassian Meetup 26 апреля | https://habrahabr.ru/company/mailru/blog/281172/
+
+Каналы обращения в Help Desk. Исследование сайтов ИТ сервисных компаний России | https://habrahabr.ru/company/okdesk/blog/299758/
+
+Новинки SPM-портфеля HPE: Service Manager 9.4, SmartAnalytics и Propel | https://habrahabr.ru/company/hpe/blog/277391/
+
+Atlassian Plugins: погружение в Active Objects и Plugin Settings | https://habrahabr.ru/company/mailru/blog/273179/
+
+Несколько историй о хорошей службе поддержки или как создать лучший сервис в мире | https://habrahabr.ru/post/275217/
+
+Сервис HPE: суровые будни и курьезные истории | https://habrahabr.ru/company/hpe/blog/274291/
+
+6 фраз которые могут изменить ваш подход к обслуживанию клиентов | https://habrahabr.ru/post/262627/
+
+4 cкрипта для обработки самых сложных Email от клиентов | https://habrahabr.ru/post/260549/
+
+10 советов для улучшения емейл поддержки | https://habrahabr.ru/company/usedesk/blog/258929/
+
+Секреты форматирования писем в хелпдеске | https://habrahabr.ru/company/usedesk/blog/257851/
+
+Как подключить к поддержке всю команду | https://habrahabr.ru/company/usedesk/blog/256885/
+
+«Ни единого разрыва!» или зачем клиенту воевать с техподдержкой | https://habrahabr.ru/company/acronis/blog/255131/
+
+Запуск Usedesk — почему электронная почта проиграет в борьбе за качественный сервис | https://habrahabr.ru/company/usedesk/blog/252045/
+
+5 демонов в душе работника службы поддержки | https://habrahabr.ru/company/veeam/blog/252019/
+
+Первое Февраля — международный день помощи | https://habrahabr.ru/post/271573/
+
+Гид по лучшим письмам | https://habrahabr.ru/company/usedesk/blog/248311/
+
+Кастомизация рабочих процессов в YouTrack. Мой опыт тонкой настройки YouTrack как HelpDesk | https://habrahabr.ru/post/247939/
+
+5 способов привлечь больше клиентов, используя психологию | https://habrahabr.ru/company/usedesk/blog/247083/
+
+Поддержка пользователей интернет-проекта: 3 рабочих инструмента | https://habrahabr.ru/post/246203/
+
+Хочешь сделать работу хорошо – сначала наточи инструменты, или как мы помогли одному руководителю ИТ-подразделения построить эффективную систему управления качеством работы сотрудников | https://habrahabr.ru/company/jetinfosystems/blog/245347/
+
+10 причин изучать ITIL и внедрять ITSM решения | https://habrahabr.ru/company/itarena/blog/238097/
+
+Интересные факты о работе технической поддержки | https://habrahabr.ru/post/233635/
+
+Fail story проекта SaaS Helpdesk для малого бизнеса | https://habrahabr.ru/company/itarena/blog/229761/
+
+Каков он — рекламный бюджет стартапа? | https://habrahabr.ru/company/omnidesk/blog/226079/
+
+Опыт получения международного значка, или зачем сертифицировать ПО | https://habrahabr.ru/company/naumen/blog/225693/
+
+Обслуживание внешних клиентов в ITSM 365 | https://habrahabr.ru/company/itarena/blog/225689/
+
+Обзор российской Help Desk системы vsDesk | https://habrahabr.ru/post/215943/
+
+Как запустить Service Desk из коробки? | https://habrahabr.ru/company/itarena/blog/223581/
+
+Собственная компания — забег длиною в год | https://habrahabr.ru/company/omnidesk/blog/217371/
+
+Инструмент ITSM 365 для малого и среднего бизнеса | https://habrahabr.ru/company/itarena/blog/205908/
+
+Какие навыки нужны сотрудникам техподдержки в 2013 году? | https://habrahabr.ru/post/181950/
+
+Обзор чатов для онлайн консультирования (Livechat) (часть 1) | https://habrahabr.ru/company/tuthost/blog/165365/
+
+Обмен данными между web-приложением и MantisBT | https://habrahabr.ru/post/144418/
+
+Улучшаем уведомления от HP OpenView Service Desk | https://habrahabr.ru/post/133751/
+

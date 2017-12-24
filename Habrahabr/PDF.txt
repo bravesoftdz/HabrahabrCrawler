@@ -1,0 +1,70 @@
+Как на Java c помощью КриптоПро подписать документ PDF | https://habrahabr.ru/company/alfa/blog/337668/
+
+Печать на произвольном размере бумаги в Linux | https://habrahabr.ru/post/334000/
+
+Как сделать генерацию LaTeX и PDF в Sphinx | https://habrahabr.ru/post/328182/
+
+Удаление метаданных из PDF | https://habrahabr.ru/post/324348/
+
+Технология JPEG: анализ пространства решений | https://habrahabr.ru/post/322554/
+
+Как заполнять и подписывать документы автоматически с помощью DocuSign | https://habrahabr.ru/company/livetyping/blog/317904/
+
+Как pdf (изображения) преобразовать в текстовый txt-файл | https://habrahabr.ru/post/314274/
+
+Информационное сокрытие в PDF документах | https://habrahabr.ru/post/301346/
+
+[PF] Печать PDF под .NET, векторный подход, практика | https://habrahabr.ru/company/tinkoff/blog/302062/
+
+[PF] Печать PDF под .NET, векторный подход, теория | https://habrahabr.ru/company/tinkoff/blog/283278/
+
+[PF] Печать PDF под .NET, растровый подход | https://habrahabr.ru/company/tinkoff/blog/279361/
+
+jsPDF + canvas: экспорт в PDF многостраничной таблицы на русском языке | https://habrahabr.ru/post/278047/
+
+Мастер-класс Дмитрия Склярова. DRM: вчера, сегодня и завтра | https://habrahabr.ru/company/mailru/blog/271071/
+
+Wkhtmltopdf + Node.JS | https://habrahabr.ru/post/266171/
+
+Habrahabr в PDF-варианте для электронной книги | https://habrahabr.ru/post/257539/
+
+Экспорт Избранного на Хабре в PDF. Версия 2.0 | https://habrahabr.ru/post/250027/
+
+Печатаем документ в виде чека с помощью Python и Parse | https://habrahabr.ru/post/246989/
+
+DOMPDF – экспорт данных из PHP в PDF | https://habrahabr.ru/post/245093/
+
+IText: вытаскиваем текст из PDF | https://habrahabr.ru/post/225647/
+
+Как web-страницу легко превратить в PDF? | https://habrahabr.ru/post/217561/
+
+Экспорт Избранного на Хабре в PDF | https://habrahabr.ru/post/208802/
+
+WPF > PDF через PDFSharp.Xps: чиним вывод гиперссылок | https://habrahabr.ru/post/202810/
+
+Генерация PDF из WPF-приложения «для всех, даром, и пусть никто не уйдет обиженный» | https://habrahabr.ru/post/201836/
+
+Java Stored Procedure в субд Oracle на примере формирования PDF-файла | https://habrahabr.ru/post/197940/
+
+Формирование документов на основе ODT шаблонов. ODT to PDF | https://habrahabr.ru/post/195160/
+
+Генерируем PDF из HTML-шаблона с условиями, при помощи wkhtmltopdf и RazorEngine | https://habrahabr.ru/post/190658/
+
+Конвертируем HTML в PDF при помощи Dompdf | https://habrahabr.ru/post/190364/
+
+Некоторые рекомендации по организации автонумерации при написании научных статей и диссертаций средствами Microsoft Word | https://habrahabr.ru/post/187398/
+
+Библиотеки для конвертирования PDF документа в картинку | https://habrahabr.ru/post/182800/
+
+Склеиваем несколько pdf-файлов в один средствами Mac OS | https://habrahabr.ru/post/151629/
+
+Красивая печать в PDF из Django | https://habrahabr.ru/post/148612/
+
+В MS Word 2013 можно будет импортировать файлы PDF | https://habrahabr.ru/post/146835/
+
+Как удобно делать заметки в pdf файлах | https://habrahabr.ru/post/145330/
+
+Как формат PDF перестал ассоциироваться с бревном | https://habrahabr.ru/post/138286/
+
+PDF в России – стандарт или не стандарт? | https://habrahabr.ru/company/abbyy/blog/105006/
+

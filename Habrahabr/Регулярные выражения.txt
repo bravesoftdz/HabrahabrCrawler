@@ -1,0 +1,170 @@
+Как я написал приложение, которое за 15 минут делало то же самое, что и регулярное выражение за 5 дней | https://habrahabr.ru/post/343116/
+
+Регулярные выражения для самых маленьких | https://habrahabr.ru/company/badoo/blog/343310/
+
+Стажеры | https://habrahabr.ru/company/pm/blog/342430/
+
+ECMAScript 6. Регулярные выражения с поддержкой Unicode | https://habrahabr.ru/post/338366/
+
+Классификация объявлений из соц. сетей. В поисках лучшего решения | https://habrahabr.ru/post/328282/
+
+NSRegularExpression и NSDataDetector — Быстрый старт | https://habrahabr.ru/post/322380/
+
+На 100% правильный способ проверки адресов электронной почты | https://habrahabr.ru/post/320572/
+
+Превозмогая трудности: Gravity Defied на sed | https://habrahabr.ru/post/317638/
+
+Визуальный генератор регулярных выражений | https://habrahabr.ru/post/315442/
+
+DSL для регулярных выражений на Kotlin | https://habrahabr.ru/post/312776/
+
+Dagaz: В дебрях нотаций | https://habrahabr.ru/post/309096/
+
+SRL — Simple Regex Language | https://habrahabr.ru/post/308882/
+
+Типографируем названия организаций | https://habrahabr.ru/post/304784/
+
+Ко дню рождения Далай-ламы | https://habrahabr.ru/post/305096/
+
+Регулярные выражения для простых смертных | https://habrahabr.ru/company/piter/blog/300892/
+
+String.raw: некоторые возможности и ограничения | https://habrahabr.ru/post/300846/
+
+Один из способов поиска неэкранированных символов с помощью новых средств JavaScript | https://habrahabr.ru/post/282275/
+
+Unicode character properties в регулярных выражениях V8 | https://habrahabr.ru/post/281755/
+
+Поиск регулярных выражений с помощью регулярных выражений | https://habrahabr.ru/post/281547/
+
+Lookbehind assertions в регулярных выражениях V8 | https://habrahabr.ru/post/281270/
+
+Невозможно проверить адрес e-mail на допустимость с помощью регулярных выражений | https://habrahabr.ru/post/280798/
+
+MSLibrary. ПРОСТО: удаляем из строки ненужные символы, используя регулярные выражения, для iOS и не только… | https://habrahabr.ru/post/279563/
+
+MSLibrary. Реализация множественного выбора условий с помощью битовых масок, для iOS и не только… | https://habrahabr.ru/post/279441/
+
+Разбор пазла с регулярными выражениями от Linkedin | https://habrahabr.ru/post/279199/
+
+Как делать парсинг текста голым хардвером, без процессора и без софтвера | https://habrahabr.ru/post/278681/
+
+MSLibrary. Захват и верификация телефонных номеров с помощью регулярных выражений, для iOS и не только… Часть 2 | https://habrahabr.ru/post/278359/
+
+MSLibrary. Захват и верификация телефонных номеров с помощью регулярных выражений, для iOS и не только… Часть 1 | https://habrahabr.ru/post/278345/
+
+Я знал, как валидировать email-адрес. Пока не прочитал RFC | https://habrahabr.ru/post/274985/
+
+Незаметные достоинства регулярных выражений в Python | https://habrahabr.ru/company/mailru/blog/274349/
+
+Как подружить Linq-to-Entities и Regex | https://habrahabr.ru/post/272917/
+
+Поиск с помощью регулярных выражений может быть простым и быстрым | https://habrahabr.ru/company/mailru/blog/270507/
+
+Новые курсы на Хекслете: React, Ansible и другие | https://habrahabr.ru/company/hexlet/blog/261489/
+
+Делаем себя развидеть это, или Право на предварительную правку | https://habrahabr.ru/post/256339/
+
+JSON, который можно комментировать | https://habrahabr.ru/post/247473/
+
+Строго типизированные комбинаторы для построения парсера и синтезатора естественного языка | https://habrahabr.ru/company/primetalk/blog/241567/
+
+Dummy about Dummies и одно увлекательное путешествие в недра Excel. Долгожданный RegExp в таблицах | https://habrahabr.ru/post/239369/
+
+Сверхэффективная обработка текста | https://habrahabr.ru/post/231929/
+
+Изучаем алгоритм работы регулярных выражений в Ruby | https://habrahabr.ru/post/231017/
+
+Кроссворд из RegEx | https://habrahabr.ru/post/224799/
+
+С регулярно наступающим Новым годом вас! | https://habrahabr.ru/post/206858/
+
+Поиск различных вариантов транслитерации русских текстов (ФИО) латиницей для выборок в MySQL | https://habrahabr.ru/post/202528/
+
+Ruby: про email вообще и ради валидации без регекспов, в частности | https://habrahabr.ru/post/175399/
+
+Разбор регулярных выражений | https://habrahabr.ru/post/192920/
+
+Регулярные выражения в WinEdt: поиск формул с неиспользуемыми номерами | https://habrahabr.ru/post/192356/
+
+Набор регулярных выражений для MarkDown | https://habrahabr.ru/post/190304/
+
+Хватит писать регулярные выражения. Используйте вербальные выражения | https://habrahabr.ru/post/189852/
+
+Перестаньте избегать регулярных выражений | https://habrahabr.ru/post/180967/
+
+Прививка от реальности: розовые очки для браузера | https://habrahabr.ru/post/180241/
+
+Кроссворд из регулярных выражений: интерактивная версия | https://habrahabr.ru/post/175847/
+
+Прекратите проверять Email с помощью регулярных выражений! | https://habrahabr.ru/post/175375/
+
+Как найти или проверить e-mail адрес | https://habrahabr.ru/post/175329/
+
+4-числовая система нумерации версий с датой и минорами | https://habrahabr.ru/post/175187/
+
+Regexponline – интерактивный анализатор и редактор регулярных выражений | https://habrahabr.ru/post/175179/
+
+Истинное могущество регулярных выражений | https://habrahabr.ru/post/171667/
+
+PostgreSQL, TCL и другие: Критическая ошибка в RE engine. Возможная уязвимость | https://habrahabr.ru/post/169183/
+
+Кроссворд из регулярных выражений | https://habrahabr.ru/post/168591/
+
+PCRE в JavaScript под Node | https://habrahabr.ru/post/168355/
+
+Разминаем мозг регулярными выражениями — Regex Tuesday Challenge | https://habrahabr.ru/post/167015/
+
+Регулярные выражения изнутри | https://habrahabr.ru/post/166777/
+
+Опережающие и ретроспективные проверки в регулярных выражениях | https://habrahabr.ru/post/159483/
+
+Использование регулярных выражений в Ruby | https://habrahabr.ru/post/156395/
+
+Пример использования Perl REGEXP для быстрой обработки текста | https://habrahabr.ru/post/151681/
+
+Создание регулярных выражений из диапазонов мобильных телефонных номеров | https://habrahabr.ru/post/144563/
+
+Имитируем пересечение, исключение и вычитание, с помощью опережающих проверок, в регулярных выражениях в ECMAScript | https://habrahabr.ru/post/143857/
+
+Императивный RegExp. Нотация | https://habrahabr.ru/post/143026/
+
+Объемные регулярные выражения | https://habrahabr.ru/post/128103/
+
+re2c — компилятор регулярных выражений | https://habrahabr.ru/post/117843/
+
+Префиксная оптимизация регулярных выражений на Java | https://habrahabr.ru/post/117177/
+
+280 кроказябл или взрывная мощь регулярных выражений | https://habrahabr.ru/post/114156/
+
+Тонкости регулярных выражений. Часть 2: возвраты и их количество | https://habrahabr.ru/post/112327/
+
+Тонкости регулярных выражений. Часть 1: метасимволы внутри и вне символьных классов | https://habrahabr.ru/post/112016/
+
+Номер телефона | https://habrahabr.ru/post/110731/
+
+Тест простоты числа регулярным выражением | https://habrahabr.ru/post/104768/
+
+Квантификаторы в регулярных выражениях | https://habrahabr.ru/post/68345/
+
+Примитивное сравнение производительности search и indexOf в Javascript | https://habrahabr.ru/post/68282/
+
+Некоторые ошибки при написании регэкспов | https://habrahabr.ru/post/67158/
+
+8 полезных регэкспов с наглядным разбором | https://habrahabr.ru/post/66931/
+
+Улучшим регулярные выражения | https://habrahabr.ru/post/62664/
+
+Атомарная группировка, или Ни шагу назад! | https://habrahabr.ru/post/56765/
+
+Сверхжадные квантификаторы | https://habrahabr.ru/post/55863/
+
+Регулярные выражения — символьные классы, конструкция выбора, метапоследовательности | https://habrahabr.ru/post/55843/
+
+Валидация email | https://habrahabr.ru/post/55820/
+
+Regexp — это «язык программирования». Основы | https://habrahabr.ru/post/55766/
+
+Вступление | https://habrahabr.ru/post/55755/
+
+Named Capturing Group и Backreferences | https://habrahabr.ru/post/54681/
+

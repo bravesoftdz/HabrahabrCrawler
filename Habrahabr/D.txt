@@ -1,0 +1,142 @@
+Почему дизайн Go плох для умных программистов | https://habrahabr.ru/post/344356/
+
+Лучше чем C | https://habrahabr.ru/post/336392/
+
+Dlang Tour переведен на русский язык | https://habrahabr.ru/post/331670/
+
+Метарегулярные выражения на D | https://habrahabr.ru/post/323186/
+
+Иммутабельные данные в С++. Часть 2 | https://habrahabr.ru/post/322450/
+
+Иммутабельные данные в C++ | https://habrahabr.ru/post/322208/
+
+Идиома Ranges | https://habrahabr.ru/post/318266/
+
+Так ли быстр ваш любимый С или нативная реализация линейной алгебры на D | https://habrahabr.ru/post/311568/
+
+Свой блог на vibe-d, часть 1: простое веб приложение с использованием шифрования | https://habrahabr.ru/post/310436/
+
+REST-сервер и тонкий клиент с использованием vibe-d | https://habrahabr.ru/post/310268/
+
+Реализация reference counting или жизнь без GC (почти) | https://habrahabr.ru/post/304074/
+
+dlang-requests — типа python-requests, только для D (часть 2) | https://habrahabr.ru/post/304106/
+
+dlang-requests — типа python-requests, только для D | https://habrahabr.ru/post/304072/
+
+DConf2016 | https://habrahabr.ru/post/303658/
+
+Сравнение прозводительности D и Go для веб | https://habrahabr.ru/post/303590/
+
+man!(C => D => Rust) | https://habrahabr.ru/post/280904/
+
+man!(D => Rust).basics | https://habrahabr.ru/post/280642/
+
+man!( Go => D ).concurrency | https://habrahabr.ru/post/280378/
+
+man!( Go => D ).basics | https://habrahabr.ru/post/279657/
+
+Разбор функции из стандартной библиотеки D | https://habrahabr.ru/post/263515/
+
+Пишем на D для Raspberry Pi | https://habrahabr.ru/post/278775/
+
+D std.ndslice как замена Python Numpy | https://habrahabr.ru/post/277715/
+
+UFCS в языке программирования D | https://habrahabr.ru/post/277097/
+
+Передача сообщений между потоками. Классические блокирующие алгоритмы | https://habrahabr.ru/post/211717/
+
+man!( C => D ) | https://habrahabr.ru/post/276227/
+
+[Перевод] Ассоциативные массивы в языке D | https://habrahabr.ru/post/274723/
+
+Немного сахара в комбинаторике | https://habrahabr.ru/post/274619/
+
+[Перевод] Работа с файлами в языке программирования D | https://habrahabr.ru/post/270189/
+
+Compile-time рефлексия D, практика | https://habrahabr.ru/post/261641/
+
+Compile-time рефлексия D | https://habrahabr.ru/post/261349/
+
+Сравнение производительности языков на примере простейшего классификатора | https://habrahabr.ru/post/261201/
+
+D для новичков, часть 2 | https://habrahabr.ru/post/261079/
+
+D для новичков, часть 1 | https://habrahabr.ru/post/261043/
+
+Контракты в D | https://habrahabr.ru/post/260779/
+
+Управление и уборка в D | https://habrahabr.ru/post/260151/
+
+Python и D | https://habrahabr.ru/post/259727/
+
+Начинаем использовать GTKD | https://habrahabr.ru/post/259717/
+
+Метапрограммирование: какое оно есть и каким должно быть | https://habrahabr.ru/post/258667/
+
+DLang плагин для IntelliJ IDEA (Alpha, EAP, POC) | https://habrahabr.ru/post/256151/
+
+Дайджест событий из мира D | https://habrahabr.ru/post/256131/
+
+DlangUI — кросплатформенный GUI для D (Часть 1) | https://habrahabr.ru/post/253923/
+
+Tree — убийца JSON, XML, YAML и иже с ними | https://habrahabr.ru/post/248147/
+
+3D на D | https://habrahabr.ru/post/248119/
+
+Lua API for D language | https://habrahabr.ru/post/248039/
+
+Пишем вектор на Dlang | https://habrahabr.ru/post/246763/
+
+Фишки языка D | https://habrahabr.ru/post/246623/
+
+Учебник по языку программирования D. Часть 5 | https://habrahabr.ru/post/244525/
+
+Учебник по языку программирования D. Часть 4 | https://habrahabr.ru/post/243687/
+
+Учебник по языку программирования D. Часть 3 | https://habrahabr.ru/post/243595/
+
+REST интерфейс генератор фреймворка vibe.d | https://habrahabr.ru/post/231581/
+
+Учебник по языку программирования D. Часть 2 | https://habrahabr.ru/post/226565/
+
+Compile-time функциональное программирование в D | https://habrahabr.ru/post/227015/
+
+Использование в языке D сторонних библиотек | https://habrahabr.ru/post/226301/
+
+Учебник по языку программирования D. Часть 1 | https://habrahabr.ru/post/226071/
+
+Сравнение D и C++ и Rust на примерах | https://habrahabr.ru/post/225507/
+
+Под капотом: сборка и открытие исходников flint | https://habrahabr.ru/post/224419/
+
+Функциональная обработка изображений в D | https://habrahabr.ru/post/218429/
+
+dub: менеджер зависимостей для языка D | https://habrahabr.ru/post/218125/
+
+Facebook совместно с Digital Mars платят за исправление багов в компиляторе D | https://habrahabr.ru/post/202430/
+
+Свой Web проект на D под ОС Ubuntu | https://habrahabr.ru/post/185878/
+
+Voldemort типы в D | https://habrahabr.ru/post/183488/
+
+Прошла DConf 2013 — конференция, посвящённая языку программирования D | https://habrahabr.ru/post/179413/
+
+Kickstarter + D = DConf 2013 | https://habrahabr.ru/post/169425/
+
+Разрушая распространённые мифы о D | https://habrahabr.ru/post/154345/
+
+Message dispatching на D | https://habrahabr.ru/post/149809/
+
+Web-сервер на D? | https://habrahabr.ru/post/142964/
+
+Почему я выбираю D | https://habrahabr.ru/post/138635/
+
+Язык D2 и метапрограммирование: всё страньше и страньше | https://habrahabr.ru/post/135670/
+
+Язык программирования D — продолжение | https://habrahabr.ru/post/135248/
+
+Язык программирования D | https://habrahabr.ru/post/135044/
+
+Новая версия компилятора LDC | https://habrahabr.ru/post/63273/
+

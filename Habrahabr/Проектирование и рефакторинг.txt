@@ -1,0 +1,1344 @@
+Защищенность переменных в Kotlin на примере Java | https://habrahabr.ru/post/344864/
+
+Краткий справочник информатики | https://habrahabr.ru/post/344810/
+
+Управление зависимостями в PHP | https://habrahabr.ru/company/mailru/blog/344498/
+
+Внедрение зависимостей в .Net Марка Симана 2 — Внедрение конструктора, время жизни | https://habrahabr.ru/post/344380/
+
+Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном | https://habrahabr.ru/post/344164/
+
+Два года успешного использования Edition-Based Redefiniton в базах Oracle | https://habrahabr.ru/company/qiwi/blog/343782/
+
+Принципы SOLID в действии: от Slack до Twilio | https://habrahabr.ru/post/343966/
+
+Дискуссия о статическом анализе кода | https://habrahabr.ru/company/pvs-studio/blog/343940/
+
+Внедрение зависимостей в .Net Марка Симана 1 — Зависимости между слоями приложения | https://habrahabr.ru/post/343830/
+
+Model-View-Presenter — компромисс и универсальный рецепт | https://habrahabr.ru/post/343438/
+
+В разрезе: новостной агрегатор на Android с бэкендом. Разработка под Android: выработка архитектуры | https://habrahabr.ru/post/343446/
+
+Рефакторим вместе с Roslyn | https://habrahabr.ru/company/veeam/blog/343244/
+
+Как написать свой сваггер и не пожалеть об этом | https://habrahabr.ru/post/342566/
+
+Чтобы научиться мыслить как программист, надо научиться мыслить как не программист | https://habrahabr.ru/post/343124/
+
+RxPM — реактивная реализация паттерна Presentation Model | https://habrahabr.ru/company/mobileup/blog/342850/
+
+Разделка бегемота. Еще раз о проектировании и рефакторинге от Сэнди Метц | https://habrahabr.ru/company/piter/blog/342810/
+
+Проблемы понимания MVC в ASP.NET MVC и не только | https://habrahabr.ru/post/342748/
+
+Тестирование ssd P4800X | https://habrahabr.ru/post/342714/
+
+UniRx — Rx для Unity3d | https://habrahabr.ru/post/342660/
+
+Сервис-ориентированная архитектура (SOA) | https://habrahabr.ru/company/mailru/blog/342526/
+
+Как облачный сервис Кабинет Дримкас справляется со спонтанными нагрузками | https://habrahabr.ru/company/dreamkas/blog/335964/
+
+Во всём виноват PHP OPCache? | https://habrahabr.ru/company/mailru/blog/341912/
+
+Глобальная теплокарта Strava: теперь в 6 раз горячее | https://habrahabr.ru/post/341900/
+
+Шаблон проектирования «состояние» двадцать лет спустя | https://habrahabr.ru/post/341134/
+
+Exantech Code Jam: Hacktoberfest 2017 | https://habrahabr.ru/company/exante/blog/340878/
+
+Как мы Raiffeisen Online создавали… | https://habrahabr.ru/company/raiffeisenbank/blog/340510/
+
+Области сокрытия кода и рефакторинг | https://habrahabr.ru/post/340726/
+
+Пулл-реквесты с эмпатией | https://habrahabr.ru/company/mobileup/blog/340456/
+
+Железнодорожно-ориентированное программирование. Обработка ошибок в функциональном стиле | https://habrahabr.ru/post/339606/
+
+Принцип единственной ответственности: фундамент декомпозиции | https://habrahabr.ru/post/338064/
+
+Часть 2: MVVM: полное понимание (+WPF) | https://habrahabr.ru/post/339538/
+
+Монады для Go-программистов | https://habrahabr.ru/company/mailru/blog/339426/
+
+MVVM: полное понимание (+WPF) Часть 1 | https://habrahabr.ru/post/338518/
+
+Литература на выходные: 15 материалов по структурированию кода для разработчиков | https://habrahabr.ru/company/it-grad/blog/337836/
+
+«Паттерны» функционального программирования | https://habrahabr.ru/post/337880/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 7. Передача требований в производство. Заключение | https://habrahabr.ru/post/337802/
+
+10 интересных нововведений в JUnit 5 | https://habrahabr.ru/post/337700/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 6. Поведение системы. Совершенстваоние требований | https://habrahabr.ru/post/337678/
+
+Архитектурная пирамида приложения | https://habrahabr.ru/post/336496/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 5. Сущности предметной области и немного о стратегиях | https://habrahabr.ru/post/337400/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 4. Бизнес процессы, автоматизируемые системой | https://habrahabr.ru/post/337228/
+
+Оживляя динозавров: TDD vs Test-Last | https://habrahabr.ru/post/336916/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 3. Функции системы и Границы проекта | https://habrahabr.ru/post/336950/
+
+Чистый код на PHP | https://habrahabr.ru/company/mailru/blog/336788/
+
+Hanami Getting Started | https://habrahabr.ru/post/336814/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 1. Вводная | https://habrahabr.ru/post/336694/
+
+MongoDB на вырост | https://habrahabr.ru/post/335698/
+
+Борьба со сложностью в сетевом протоколе прикладного уровня | https://habrahabr.ru/post/336464/
+
+Отчетность в 1С: Система Компоновки Данных (СКД), идея и архитектура | https://habrahabr.ru/company/1c/blog/336258/
+
+Как стать лучшим разработчиком приложений Андроид: 31 совет | https://habrahabr.ru/company/alconost/blog/336204/
+
+DDD на практике. Проектирование списка желаний | https://habrahabr.ru/post/335834/
+
+Управление памятью в Python | https://habrahabr.ru/company/mailru/blog/336156/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 3 | https://habrahabr.ru/post/336026/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 2 | https://habrahabr.ru/post/335924/
+
+EntityFramework: (анти)паттерн Repository | https://habrahabr.ru/post/335856/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 1 | https://habrahabr.ru/post/335830/
+
+Точность через неточность: Улучшаем Time-объекты | https://habrahabr.ru/post/335494/
+
+Система управления складом с использованием CQRS и Event Sourcing. Service Layer | https://habrahabr.ru/post/335636/
+
+Заблуждения Clean Architecture | https://habrahabr.ru/company/mobileup/blog/335382/
+
+В разрезе: новостной агрегатор на Android с бэкендом. Библиотека обхода интернет-сайтов на Java (crawler4j) | https://habrahabr.ru/post/335340/
+
+Red Architecture — красная кнопка помощи для сложных и запутанных систем — часть 3 (многопоточность нам в помощь) | https://habrahabr.ru/post/334840/
+
+Microservices и Модель Акторов (Actor Model) | https://habrahabr.ru/post/334586/
+
+Red Architecture — красная кнопка помощи для сложных и запутанных систем — часть 2 (пример с миллиардом ячеек) | https://habrahabr.ru/post/334204/
+
+Синглтоны и общие экземпляры | https://habrahabr.ru/company/mailru/blog/334078/
+
+Как мы в 1С: Предприятии работаем с моделями данных (или «Почему мы не работаем с таблицами?») | https://habrahabr.ru/company/1c/blog/334050/
+
+Правила хорошего тона для API | https://habrahabr.ru/company/zerotech/blog/333884/
+
+Red Architecture — красная кнопка помощи для сложных и запутанных систем | https://habrahabr.ru/post/333870/
+
+Система управления складом с использованием CQRS и Event Sourcing. Проектирование | https://habrahabr.ru/post/333678/
+
+Переход на embedded PostgreSQL в unit-тестах | https://habrahabr.ru/company/hh/blog/333616/
+
+Основы CQRS | https://habrahabr.ru/company/simbirsoft/blog/329970/
+
+Прочитайте код своего продукта. Весь | https://habrahabr.ru/company/infopulse/blog/333488/
+
+Как правильно использовать переменные в препроцессорах LESS и SASS | https://habrahabr.ru/post/332382/
+
+Признаки проблемного дизайна | https://habrahabr.ru/post/331732/
+
+Как запутать аналитика. Часть третья. Глаголы и числительные | https://habrahabr.ru/post/332506/
+
+Рефакторинг кода в обеденный перерыв: знакомство с сodemod-скриптами | https://habrahabr.ru/company/badoo/blog/332402/
+
+Классификация текста с помощью нейронной сети на Java | https://habrahabr.ru/post/332078/
+
+Как запутать аналитика. Часть вторая: что такое моделирование предметной области? | https://habrahabr.ru/post/332064/
+
+Некоторые мысли о паттерне Visitor | https://habrahabr.ru/post/332042/
+
+Система управления складом с использованием CQRS и Event Sourcing. Постановка требований | https://habrahabr.ru/post/331654/
+
+Как улучшить legacy-код | https://habrahabr.ru/post/331328/
+
+Вы — не Google | https://habrahabr.ru/company/infopulse/blog/330708/
+
+Умные заглушки для интеграции | https://habrahabr.ru/company/efs/blog/330376/
+
+Понятия: множество, тип, атрибут | https://habrahabr.ru/post/330196/
+
+Технологии технологиями, а главное — код | https://habrahabr.ru/company/devconf/blog/329704/
+
+Почему ненавидеть код-ревьюера – хорошо | https://habrahabr.ru/post/329644/
+
+Моделирование конструкций. Требования к моделлеру | https://habrahabr.ru/post/329576/
+
+О дженериках в PHP и о том, зачем они нам нужны | https://habrahabr.ru/company/mailru/blog/329494/
+
+Иерархия исключений в современном PHP-приложении | https://habrahabr.ru/post/329140/
+
+Интеграция CRM и телефонии, уроки разработки сложного продукта | https://habrahabr.ru/company/sipuni/blog/328798/
+
+Архитектура клиентского приложения (механизмы структуризации) | https://habrahabr.ru/company/larian/blog/329032/
+
+Обратная сторона авиабилета. Как Туту.ру помогает подобрать оптимальный тариф | https://habrahabr.ru/company/tuturu/blog/328750/
+
+SOLID: принцип единственности ответственности | https://habrahabr.ru/post/328584/
+
+10 основных ошибок, совершаемых Django-разработчиками | https://habrahabr.ru/company/mailru/blog/328352/
+
+Как давать определения? | https://habrahabr.ru/post/328228/
+
+Нужно ли экспериментировать в процессе разработки? | https://habrahabr.ru/company/virtuozzo/blog/328440/
+
+Реализация Frameworx в телекоммуникационном API | https://habrahabr.ru/post/322972/
+
+Понятие системы и конструкции. Их место в проектировании информационных систем | https://habrahabr.ru/post/328192/
+
+Реализация NetFlow сенсора на FPGA + CPU — гибко и быстро | https://habrahabr.ru/company/metrotek/blog/327894/
+
+Построение гибких PHP приложений | https://habrahabr.ru/post/327746/
+
+Классификация конструкций: примеры и заблуждения | https://habrahabr.ru/post/327688/
+
+Функциональное программирование в JavaScript с практическими примерами | https://habrahabr.ru/company/mailru/blog/327522/
+
+Что такое service mesh и почему он мне нужен [для облачного приложения с микросервисами]? | https://habrahabr.ru/company/flant/blog/327536/
+
+Как я пишу код | https://habrahabr.ru/company/infopulse/blog/327482/
+
+Развенчание мифов о мета-объектном компиляторе Qt | https://habrahabr.ru/company/infopulse/blog/327176/
+
+DeclarativeCOS — Декларативное программирование на Caché | https://habrahabr.ru/company/intersystems/blog/327016/
+
+Архитектура модульных React + Redux приложений 2. Ядро | https://habrahabr.ru/post/327196/
+
+Сложность на границе хаоса, или что общего между сексом, нейронными сетями, микросервисами и организацией компании | https://habrahabr.ru/post/327138/
+
+О карте МегаФона — технические подробности, часть 2 | https://habrahabr.ru/company/megafon/blog/327090/
+
+Трудные уроки: пять лет с Node.js | https://habrahabr.ru/post/327058/
+
+Открытая трансляция главного зала конференции Mobius 2017: Поговорим про архитектуру мобильных приложений и кое-что еще | https://habrahabr.ru/company/jugru/blog/326954/
+
+Реактивные приложения с паттерном RxPM. Прощайте​ MVP и MVVM | https://habrahabr.ru/company/mobileup/blog/326962/
+
+Выбор MQ для высоконагруженного проекта | https://habrahabr.ru/post/326880/
+
+TypeScript в Slack | https://habrahabr.ru/post/326854/
+
+Под капотом среды разработки. Базовые модели | https://habrahabr.ru/post/326632/
+
+Сравнение производительности версий PHP | https://habrahabr.ru/company/mailru/blog/326696/
+
+Идиомы Attorney-Client и Passkey для выборочного доступа к методам класса | https://habrahabr.ru/post/326540/
+
+Архитектура модульных React + Redux приложений | https://habrahabr.ru/post/326484/
+
+Зачем использовать статические типы в JavaScript? (Преимущества и недостатки) | https://habrahabr.ru/post/326394/
+
+Как мы ускорили наш DNS стек в 3 раза | https://habrahabr.ru/post/326372/
+
+Guard классы — использовать или нет? | https://habrahabr.ru/post/326168/
+
+Шаблоны проектирования с человеческим лицом | https://habrahabr.ru/company/mailru/blog/325492/
+
+PWA, «Зловещая долина» и стабильная работа в офлайне | https://habrahabr.ru/company/webo/blog/325788/
+
+Как понять и подружиться с транзакциями и JPA | https://habrahabr.ru/post/325470/
+
+Композиция или наследование: как выбрать? | https://habrahabr.ru/post/325478/
+
+Инфраструктура Twitter: масштаб | https://habrahabr.ru/post/325282/
+
+Шаблон проектирования «Спецификация» в C# | https://habrahabr.ru/post/325280/
+
+Запрещенные изменения в коде или продолжение истории ремонта одного крана | https://habrahabr.ru/post/325124/
+
+Микрооптимизации важны: предотвращаем 20 миллионов системных вызовов | https://habrahabr.ru/company/mailru/blog/324466/
+
+Политика обратной совместимости при разработке фреймворка на примере Magento 2. Часть 1 | https://habrahabr.ru/post/324450/
+
+Yapf — причесываем код Python автокорректором | https://habrahabr.ru/post/324336/
+
+Уголовный кодекс разработчика | https://habrahabr.ru/post/324130/
+
+Через MVP к VIPER. Часть первая: MVP | https://habrahabr.ru/post/323764/
+
+Выбор правильной стратегии обработки ошибок (части 3 и 4) | https://habrahabr.ru/company/mailru/blog/322804/
+
+Охота на мифический MVC. Построение пользовательского интерфейса | https://habrahabr.ru/post/322700/
+
+Выбор правильной стратегии обработки ошибок (части 1 и 2) | https://habrahabr.ru/company/mailru/blog/322416/
+
+EventAggregator — антипаттерн | https://habrahabr.ru/post/322652/
+
+Четыре НЕ — секретные советы Штирлица | https://habrahabr.ru/post/322454/
+
+История об ужасах стандартов кодирования | https://habrahabr.ru/company/infopulse/blog/322418/
+
+Union Type, TPT, DDD, ORM и RDBMS | https://habrahabr.ru/post/322168/
+
+Создаём развивающее приложение при помощи Android Studio | https://habrahabr.ru/post/322008/
+
+Ответ на введение в проектирование сущностей, проблемы создания объектов | https://habrahabr.ru/post/321892/
+
+Умер ли MVC для фронтенда? | https://habrahabr.ru/company/tuturu/blog/321820/
+
+Рефакторинг платежного процесса Я.Денег — пробуждение силы | https://habrahabr.ru/company/yamoney/blog/321824/
+
+Почему VIPER это хороший выбор для вашего следующего приложения | https://habrahabr.ru/post/321590/
+
+Почему VIPER это плохой выбор для вашего следующего приложения | https://habrahabr.ru/post/321370/
+
+Структура «Feature Folders» в ASP.NET Core MVC | https://habrahabr.ru/post/321392/
+
+Введение в проектирование сущностей, проблемы создания объектов | https://habrahabr.ru/post/321340/
+
+Охота на мифический MVC. Обзор, возвращение к первоисточникам и про то, как анализировать и выводить шаблоны самому | https://habrahabr.ru/post/321050/
+
+Архитектура микросервисов | https://habrahabr.ru/company/mailru/blog/320962/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 5 | https://habrahabr.ru/post/320928/
+
+Хитрости и трюки Netbeans на живых примерах | https://habrahabr.ru/post/320666/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 4 | https://habrahabr.ru/post/320662/
+
+Рефакторинг салона видеопроката на JavaScript | https://habrahabr.ru/post/320280/
+
+Кэширование данных в web приложениях. Использование memcached | https://habrahabr.ru/company/oleg-bunin/blog/320044/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 3 | https://habrahabr.ru/post/319898/
+
+О сравнении объектов по значению — 6: Structure Equality Implementation | https://habrahabr.ru/post/319100/
+
+Горизонтальное масштабирование. Что, зачем, когда и как? | https://habrahabr.ru/company/oleg-bunin/blog/319526/
+
+Строгое определение понятий: объект, состояние, событие, бизнес-операция и бизнес- функция | https://habrahabr.ru/post/319442/
+
+Динамическое перенаправление сетевого трафика | https://habrahabr.ru/post/319410/
+
+Что общего между написанием Властелина колец и программированием? | https://habrahabr.ru/company/Voximplant/blog/319324/
+
+Разработка электроники: от идеи до устройства | https://habrahabr.ru/post/319370/
+
+Сравнительный анализ методов балансировки трафика | https://habrahabr.ru/company/oleg-bunin/blog/319262/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 2 | https://habrahabr.ru/post/319202/
+
+Переходим c Tarantool 1.5 на 1.6 | https://habrahabr.ru/company/mailru/blog/319170/
+
+С чего начать внедрение Hadoop в компании | https://habrahabr.ru/company/oleg-bunin/blog/319138/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 1 | https://habrahabr.ru/post/319126/
+
+О сравнении объектов по значению — 5: Structure Equality Problematic | https://habrahabr.ru/post/315622/
+
+Трудности в моделировании операций стандартными способами. Моделирование 4-объектов, постановка задачи | https://habrahabr.ru/post/319032/
+
+Проектирование и рефакторинг: по стопам Эвклида | https://habrahabr.ru/post/319022/
+
+Постановка задачи: Объекты учета и моделирование отношений между ними | https://habrahabr.ru/post/318924/
+
+Информационные технологии в новогоднем мюзикле «Чародеи» | https://habrahabr.ru/company/infopulse/blog/318910/
+
+Трудности на пути создания «универсальной» метамодели для моделирования предметных областей | https://habrahabr.ru/post/318874/
+
+Как я научился не волноваться и полюбил микросервисы, часть 1: Эффекты плохого кода | https://habrahabr.ru/post/318520/
+
+Простой framework UI ERP c помощью Vaadin | https://habrahabr.ru/post/318496/
+
+Подписки в ABBYY Cloud OCR SDK: «заткнитесь и возьмите мои деньги!» | https://habrahabr.ru/company/abbyy/blog/318328/
+
+Мобильный банк для iOS: добавляем блочную архитектуру к Cocoa MVC | https://habrahabr.ru/post/318200/
+
+Улучшение производительности PHP 7 | https://habrahabr.ru/company/mailru/blog/318008/
+
+Системный подход в повышении эффективности работающего веб-проекта | https://habrahabr.ru/company/SECL_GROUP/blog/318038/
+
+О карте МегаФона — технические подробности | https://habrahabr.ru/company/megafon/blog/317740/
+
+Настройка Swashbuckle (Swagger) для WebAPI | https://habrahabr.ru/post/317338/
+
+Domain-Driven Design: тактическое проектирование. Часть 2 | https://habrahabr.ru/post/316890/
+
+Подмостки для Вавилонской башни, или О собственных типах данных для многоязычных приложений | https://habrahabr.ru/company/custis/blog/313284/
+
+Длина функции | https://habrahabr.ru/post/316708/
+
+Псевдо-инкапсуляция легаси include-ов когда нет времени рефакторить | https://habrahabr.ru/post/316650/
+
+Domain-Driven Design: стратегическое проектирование. Часть 1 | https://habrahabr.ru/post/316438/
+
+Очереди и блокировки. Теория и практика | https://habrahabr.ru/company/oleg-bunin/blog/316458/
+
+Рефакторинг — это не задача в Backlog | https://habrahabr.ru/company/infopulse/blog/316236/
+
+Как избежать излишней сложности состояния приложения [перевод] | https://habrahabr.ru/post/316070/
+
+О сравнении объектов по значению — 4, или Inheritance & Equality operators | https://habrahabr.ru/post/315258/
+
+О сравнении объектов по значению — 3, или Type-specific Equals & Equality operators | https://habrahabr.ru/post/315168/
+
+JetBrains Night в Москве. Видео. Kotlin как первый шаг к JVM | https://habrahabr.ru/company/JetBrains/blog/314826/
+
+Текстовая трансляция HighLoad++ 2016. День второй | https://habrahabr.ru/company/oleg-bunin/blog/314442/
+
+О сравнении объектов по значению — 2, или Особенности реализации метода Equals | https://habrahabr.ru/post/314500/
+
+Как enum доступным всем сделать, да в мета-тип записать | https://habrahabr.ru/post/314486/
+
+О сравнении объектов по значению — 1: Beginning | https://habrahabr.ru/post/314328/
+
+Композиция и интерфейсы | https://habrahabr.ru/post/314258/
+
+Простые и удобные уведомления | https://habrahabr.ru/post/314072/
+
+Различия между MVVM и остальными MV*-паттернами | https://habrahabr.ru/company/mobileup/blog/313538/
+
+Советские «Эльбрусы» — обзор архитектуры | https://habrahabr.ru/post/313376/
+
+Элементы функционального программирования в C++: частичное применение | https://habrahabr.ru/post/313370/
+
+Дробим монолит: Рефакторинг архитектуры Web-приложений | https://habrahabr.ru/company/jugru/blog/313286/
+
+Разделяем интерфейс и реализацию в функциональном стиле на С++ | https://habrahabr.ru/post/312148/
+
+Эволюционный дизайн баз данных | https://habrahabr.ru/post/312970/
+
+Критерии простоты | https://habrahabr.ru/post/312950/
+
+Каким должно быть ТЗ на Корпоративную ИС? | https://habrahabr.ru/post/312538/
+
+Маленькая архитектура | https://habrahabr.ru/post/312366/
+
+Универсальная система управления данными на базе технологий скаффолдинга и платформы .NET Core | https://habrahabr.ru/post/311822/
+
+Как насчёт класть каждую функцию в свой файл? | https://habrahabr.ru/post/311748/
+
+Удобное создание Composition Root с помощью Autofac | https://habrahabr.ru/post/269479/
+
+Организация роутинга в clojure веб-приложении | https://habrahabr.ru/post/311500/
+
+Как считать счётчики и не сбиться со счёта | https://habrahabr.ru/post/311436/
+
+Как Yahoo перешла от Flash к HTML5 в видео | https://habrahabr.ru/post/311302/
+
+Unit-тестирование в сложных приложениях | https://habrahabr.ru/post/310826/
+
+DRY и цена неправильных абстракций | https://habrahabr.ru/post/311014/
+
+Сверхлегкая BDD: малая механизация автономных тестов | https://habrahabr.ru/post/310942/
+
+Строим свой full-stack на JavaScript: Клиент | https://habrahabr.ru/post/310788/
+
+Визуализация кодовой эволюции | https://habrahabr.ru/post/310782/
+
+101 способ приготовления RabbitMQ и немного о pipeline архитектуре | https://habrahabr.ru/company/oleg-bunin/blog/310418/
+
+Главные характеристики качественного кода | https://habrahabr.ru/post/310336/
+
+Наследование реализаций: закопайте стюардессу | https://habrahabr.ru/post/310314/
+
+Строим свой full-stack на JavaScript: Сервер | https://habrahabr.ru/post/310042/
+
+Принципы и приёмы обработки очередей | https://habrahabr.ru/company/oleg-bunin/blog/309332/
+
+Null, великий и ужасный | https://habrahabr.ru/post/309462/
+
+Строим свой full-stack на JavaScript: Основы | https://habrahabr.ru/post/309466/
+
+Анатомия веб-сервиса | https://habrahabr.ru/company/oleg-bunin/blog/309324/
+
+Книга об интенсивной обработке данных | https://habrahabr.ru/company/piter/blog/309106/
+
+MVP на стероидах: заставляем робота писать код за вас | https://habrahabr.ru/company/redmadrobot/blog/305798/
+
+Пилим монолит | https://habrahabr.ru/post/308372/
+
+Всему своё время | https://habrahabr.ru/company/oleg-bunin/blog/308616/
+
+Как эмодзи могут улучшить ваш код (на самом деле) | https://habrahabr.ru/post/308362/
+
+Забытое секретное оружие Unity — UnityEvents | https://habrahabr.ru/post/308570/
+
+DIY DI в Ruby | https://habrahabr.ru/post/308188/
+
+Рефакторинг — мощь сокрытая в качественном коде | https://habrahabr.ru/post/307762/
+
+Что такое программная инженерия. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/307384/
+
+Переход от монолита к микросервисам | https://habrahabr.ru/post/305826/
+
+По итогам Rambler.iOS #7 | https://habrahabr.ru/company/rambler-co/blog/306508/
+
+10 ошибок, приводящих к оверинжинирингу ПО | https://habrahabr.ru/company/infopulse/blog/306328/
+
+Рефлексивное метапрограммирование на Go: цикл for each средствами пакета reflect | https://habrahabr.ru/post/306304/
+
+Анонс Rambler.iOS #7 | https://habrahabr.ru/company/rambler-co/blog/305482/
+
+Немного особой контейнерной магии | https://habrahabr.ru/post/305050/
+
+Оптимизация веб-сервиса подсказок для почтовых адресов и ФИО | https://habrahabr.ru/post/304590/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 2 | https://habrahabr.ru/post/303800/
+
+Язык Go, микросервисы и DevOps – хорошая компания? | https://habrahabr.ru/company/piter/blog/304040/
+
+Readme Driven Development | https://habrahabr.ru/post/303262/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 1 | https://habrahabr.ru/post/303794/
+
+Внедрения реактива в архитектуру iOS приложений | https://habrahabr.ru/post/300962/
+
+Конференция OS DAY 2016. Своя система — свой процессор | https://habrahabr.ru/company/e-Legion/blog/302466/
+
+Model-View в QML. Часть четвертая: C++-модели | https://habrahabr.ru/post/302428/
+
+Почему мы пишем и храним код в текстовых файлах? | https://habrahabr.ru/company/infopulse/blog/302146/
+
+Large-Scale C++ Software Design рулит | https://habrahabr.ru/company/piter/blog/301978/
+
+Структуризация проекта в WordPress, Laravel Blade и не только | https://habrahabr.ru/post/301848/
+
+DevConf:: Хакатон по Yii в ТАСС 18-19 июня 2016 | https://habrahabr.ru/company/devconf/blog/301828/
+
+Фундамент масштабируемости javascript приложения | https://habrahabr.ru/post/301020/
+
+Ленивый event sourcing или как жить сегодняшним днем | https://habrahabr.ru/post/300956/
+
+Разговор о MVC и архитектуре веб-приложений | https://habrahabr.ru/post/283096/
+
+Валидация: внутри сущностей или снаружи? | https://habrahabr.ru/post/282878/
+
+Переводчик из машины, или как научить МФУ переводить документы | https://habrahabr.ru/company/abbyy/blog/282636/
+
+«А как всё хорошо начиналось...», или О пользе O-нотации не только для анализа алгоритмов | https://habrahabr.ru/post/282435/
+
+Yii: лучшие практики | https://habrahabr.ru/post/282407/
+
+Особенности национального менеджмента | https://habrahabr.ru/post/282181/
+
+GECOn 2016: Первая Гомельская IT-конференция (24 апреля) | https://habrahabr.ru/post/281775/
+
+Антихрупкость архитектуры хранилищ данных | https://habrahabr.ru/post/281553/
+
+Архитектурные паттерны в iOS | https://habrahabr.ru/company/badoo/blog/281162/
+
+По итогам Rambler.iOS #6 | https://habrahabr.ru/company/rambler-co/blog/280880/
+
+«Банда четырёх» была неправа, а вы не знаете, что такое делегирование | https://habrahabr.ru/post/280960/
+
+Как мы забили на асинхронность при походах на бэкенды | https://habrahabr.ru/company/hh/blog/280892/
+
+Microservices. Как правильно делать и когда применять? | https://habrahabr.ru/company/dataart/blog/280083/
+
+Ключевое слово «var» в Java: пожалуйста, только не это | https://habrahabr.ru/post/280075/
+
+Реализация грида для работы с большими таблицами. Часть 2 | https://habrahabr.ru/post/279083/
+
+Замена выброса исключений уведомлениями | https://habrahabr.ru/post/279737/
+
+Алгоритмы — это лишь одна из переменных в уравнении | https://habrahabr.ru/post/279651/
+
+Что делает программное обеспечение качественным? | https://habrahabr.ru/post/279459/
+
+Анонс Rambler.iOS #6 | https://habrahabr.ru/company/rambler-co/blog/279341/
+
+Архитектура Android приложений | https://habrahabr.ru/post/278815/
+
+Реализация грида для работы с большими таблицами. Часть 1 | https://habrahabr.ru/post/278773/
+
+Битрикс, HMVC и немного бреда… | https://habrahabr.ru/post/279017/
+
+Расширяемый код Android-приложений с MVP | https://habrahabr.ru/post/278769/
+
+Движок для построения отчётов на SQL. Идея | https://habrahabr.ru/post/278595/
+
+TOM.js — особая библиотека, для особых случаев | https://habrahabr.ru/post/278033/
+
+Шаблон проектирования View в языках с зависимыми типами | https://habrahabr.ru/company/spbau/blog/277989/
+
+Подходы к проектированию RESTful API | https://habrahabr.ru/company/dataart/blog/277419/
+
+Аргументы против использования фрагментов в Android | https://habrahabr.ru/post/277289/
+
+Реализация функциональности многоуровневого undo/redo на примере прототипа электронной таблицы | https://habrahabr.ru/post/277245/
+
+Android VIPER на реактивной тяге | https://habrahabr.ru/company/rambler-co/blog/277003/
+
+Moxy — реализация MVP под Android с щепоткой магии | https://habrahabr.ru/post/276189/
+
+Открытое письмо @ignored теста | https://habrahabr.ru/post/277123/
+
+Записки правдивого архитектора: просто о самом главном (Ч.2) | https://habrahabr.ru/post/276613/
+
+Записки правдивого архитектора: просто о самом главном (Ч.1) | https://habrahabr.ru/post/276527/
+
+Создание архитектуры программы или как проектировать табуретку | https://habrahabr.ru/post/276593/
+
+Я не умный, я просто сидел над этим дольше вас | https://habrahabr.ru/post/276317/
+
+Книга «Создание микросервисов» | https://habrahabr.ru/company/piter/blog/275891/
+
+Микросервисные паттерны проектирования | https://habrahabr.ru/company/piter/blog/275633/
+
+Entity vs Value Object: полный список отличий | https://habrahabr.ru/post/275599/
+
+Ваше проектирование – отстой | https://habrahabr.ru/post/275231/
+
+Введение в VIPER | https://habrahabr.ru/post/273061/
+
+По итогам Rambler.iOS V | https://habrahabr.ru/company/rambler-co/blog/273949/
+
+От STUPID кода к SOLID коду | https://habrahabr.ru/post/273843/
+
+Игра в больницу или как мы изучали и тестировали работу системы здравоохранения одной из европейских стран | https://habrahabr.ru/company/simbirsoft/blog/273621/
+
+Приложение для apps.com на PHP — особенности и грабли | https://habrahabr.ru/post/273485/
+
+Disposable без границ | https://habrahabr.ru/post/272497/
+
+Анонс Rambler.iOS V — V for VIPER | https://habrahabr.ru/company/rambler-co/blog/272551/
+
+Проектирование ПО для начинающих методом снежинки | https://habrahabr.ru/post/272569/
+
+Как справиться с проблемами в унаследованном проекте после 3 других команд | https://habrahabr.ru/company/simbirsoft/blog/272417/
+
+Управление конфигурацией в программном проекте | https://habrahabr.ru/post/271997/
+
+Осторожно, истинные контракты классов могут отличаться от формальных | https://habrahabr.ru/post/271533/
+
+Компонентно-ориентированный движок на C# [часть 2] | https://habrahabr.ru/post/271309/
+
+Чистая архитектура в Go-приложении. Часть 3 | https://habrahabr.ru/post/271157/
+
+Самая простая и надежная реализация шаблона проектирования Dispose | https://habrahabr.ru/post/270929/
+
+Компонентно-ориентированный движок на C# | https://habrahabr.ru/post/270825/
+
+Observer vs Pub-Sub | https://habrahabr.ru/post/270339/
+
+Скрытые зависимости как «запах» проектирования | https://habrahabr.ru/post/270547/
+
+Чистая архитектура в Go-приложении. Часть 2 | https://habrahabr.ru/post/270351/
+
+Как обойтись почти без исключений, заменив их уведомлениями | https://habrahabr.ru/company/piter/blog/270331/
+
+Загрузка и конвертация видео на Rutube: от костылей к мета-программированию | https://habrahabr.ru/company/rutube/blog/270223/
+
+Про роль техлида | https://habrahabr.ru/post/270259/
+
+Service Locator нарушает инкапсуляцию | https://habrahabr.ru/post/270005/
+
+Чистая архитектура в Go-приложении. Часть 1 | https://habrahabr.ru/post/269893/
+
+Пользовательская документация и GitHub | https://habrahabr.ru/post/269883/
+
+«Многие выбирают Agile, потому что больше ничего не умеют» — интервью с Дмитрием Завалишиным из DZ Systems | https://habrahabr.ru/company/jugru/blog/269803/
+
+Чистая архитектура | https://habrahabr.ru/post/269589/
+
+Области сокрытия кода и рефакторинг | https://habrahabr.ru/post/269425/
+
+CQRS, UI, основаный на заданиях, Источники событий… ах | https://habrahabr.ru/post/269475/
+
+Как правильно писать RFP на разработку ПО | https://habrahabr.ru/post/269111/
+
+Поддержка программного обеспечения | https://habrahabr.ru/company/edison/blog/267675/
+
+Разработка программного обеспечения: этапы и принципы | https://habrahabr.ru/company/edison/blog/267671/
+
+Как писать тестируемый код | https://habrahabr.ru/company/mailru/blog/267277/
+
+Обучаем сотрудников английскому: опыт Edison | https://habrahabr.ru/company/edison/blog/268009/
+
+Проектирование программного обеспечения | https://habrahabr.ru/company/edison/blog/267569/
+
+По итогам Rambler.iOS #4 | https://habrahabr.ru/company/rambler-co/blog/267913/
+
+Техобслуживание кода. Как «продать» рефакторинг бизнесу | https://habrahabr.ru/post/267241/
+
+Управление сложностью в проектах на ruby on rails. Часть 2 | https://habrahabr.ru/post/267233/
+
+Python 3.5; async/await | https://habrahabr.ru/post/266743/
+
+Старый код: почему он такой | https://habrahabr.ru/post/266803/
+
+Управление сложностью в проектах на ruby on rails. Часть 1 | https://habrahabr.ru/post/266761/
+
+Рефакторинг схем баз данных | https://habrahabr.ru/post/258629/
+
+Легко переходим на векторный формат картинок вместо нарезки под разные плотности экранов в Android 4.0+. Часть 2 из 2 | https://habrahabr.ru/post/265603/
+
+Легко переходим на векторный формат картинок вместо нарезки под разные плотности экранов в Android 4.0+. Часть 1 из 2 | https://habrahabr.ru/post/265601/
+
+В поисках аналога функций первого порядка в СУБД Caché | https://habrahabr.ru/company/intersystems/blog/264983/
+
+Пишем реализацию Observer-а над KVO на objective-c | https://habrahabr.ru/post/264823/
+
+Краткая история появления Mathematica | https://habrahabr.ru/company/wolfram/blog/264793/
+
+Разговор со спикерами FPConf (часть 2) | https://habrahabr.ru/company/railsclub/blog/264737/
+
+Управляем зависимостями в iOS-приложениях правильно: Typhoon Tips & Tricks | https://habrahabr.ru/company/rambler-co/blog/264683/
+
+Нотариальный лёд тронулся | https://habrahabr.ru/post/264465/
+
+Code contracts vs валидация входящих данных | https://habrahabr.ru/post/264113/
+
+Microservices Q&A | https://habrahabr.ru/company/luxoft/blog/264011/
+
+Пишем maintainable код | https://habrahabr.ru/company/icl_services/blog/261863/
+
+Как правильно использовать исключения | https://habrahabr.ru/post/263685/
+
+Исследование Oracle Form при помощи Java Development API(JDAPI) | https://habrahabr.ru/post/263675/
+
+Маленькие, и не очень, размышления о SOA, или жизнь в MVC-beyond мире (часть 0) | https://habrahabr.ru/post/263589/
+
+Киски: Рефакторинг. Часть третья или причесываем шероховатости | https://habrahabr.ru/post/263333/
+
+Автоматизируй это | https://habrahabr.ru/company/at_consulting/blog/263391/
+
+Рефакторинг: выделяй метод, когда это имеет смысл | https://habrahabr.ru/post/263371/
+
+Киски: Рефакторинг. Часть вторая или лечение зависимостей | https://habrahabr.ru/post/263139/
+
+PhpStorm: Tips and tricks. Часть 1 | https://habrahabr.ru/post/263239/
+
+Как я добавлял поддержку Code Contracts для VS2015 | https://habrahabr.ru/post/263235/
+
+Как мы за 24 часа построили конструктор Telegram-ботов, а потом половину выкинули и переписали | https://habrahabr.ru/post/262967/
+
+Киски: Рефакторинг | https://habrahabr.ru/post/262995/
+
+$mol_time — работаем с датами и временем правильно | https://habrahabr.ru/post/263041/
+
+Все дело не в количестве строк кода. От серийного разработчика модулей | https://habrahabr.ru/post/262681/
+
+Опыт разработки и проектирования на AngularJS | https://habrahabr.ru/company/relex/blog/262529/
+
+Компромиссы микросервисов | https://habrahabr.ru/post/261689/
+
+Типичные взаимные блокировки в MS SQL и способы борьбы с ними | https://habrahabr.ru/company/mindbox/blog/261661/
+
+Управляем зависимостями в iOS-приложениях правильно: Модульность Typhoon | https://habrahabr.ru/company/rambler-co/blog/261537/
+
+Action-Domain-Responder — доработка MVC под задачи веба | https://habrahabr.ru/post/260769/
+
+Универсальные платформы это зло | https://habrahabr.ru/post/261445/
+
+Хороший дизайн, плохой дизайн… | https://habrahabr.ru/post/261433/
+
+Как не угробить архитектуру сразу же? Видео с лекции Евгения Кривошеева | https://habrahabr.ru/company/jugru/blog/261379/
+
+Entity Framework или почему я реализую Repository | https://habrahabr.ru/post/261291/
+
+Плюсы микросервисной архитектуры | https://habrahabr.ru/post/261237/
+
+Brubeck — быстрый, statsd-совместимый агрегатор метрик от GitHub | https://habrahabr.ru/post/260971/
+
+Контракты в D | https://habrahabr.ru/post/260779/
+
+Почему я не преподаю SOLID и «принцип устранения зависимостей» | https://habrahabr.ru/company/skbkontur/blog/260781/
+
+Прогноз на Specification pattern в Domain layer — ожидаются проблемы | https://habrahabr.ru/post/260771/
+
+Организация «чистого» завершения приложений на Go | https://habrahabr.ru/post/260661/
+
+Обзор книги «Паттерны проектирования на платформе .NET» | https://habrahabr.ru/post/260649/
+
+Ретроспектива разработки Crash Bandicoot, или как разработчики упаковывали целые игры в 2MB RAM | https://habrahabr.ru/post/260637/
+
+Управляем зависимостями в iOS-приложениях правильно: Устройство Typhoon | https://habrahabr.ru/company/rambler-co/blog/260355/
+
+Салат «Руководство Microsoft под SymbolTable с нежным привкусом Antlr4» | https://habrahabr.ru/post/260271/
+
+Миграция приложений — примеры кода | https://habrahabr.ru/post/260023/
+
+Рентабельный код 2: крадущийся DDD, затаившийся CQRS | https://habrahabr.ru/post/259829/
+
+Миграция приложений — мифы и реальность | https://habrahabr.ru/post/259799/
+
+Битва «Слушатель vs Посетитель» на стадионе antlr4 | https://habrahabr.ru/post/259691/
+
+Сравнение систем типов PHP7 и Hack | https://habrahabr.ru/post/259209/
+
+Снова о разработке на основе предметной области (Domain-Driven Design, DDD) | https://habrahabr.ru/post/258693/
+
+Как Валера взял в команду стажера и начал учить его проектированию | https://habrahabr.ru/post/258725/
+
+Как я использую трейты | https://habrahabr.ru/post/258671/
+
+Управляем зависимостями в iOS-приложениях правильно: Знакомство с Typhoon | https://habrahabr.ru/company/rambler-co/blog/258325/
+
+Микросервисы. Хорошие, плохие, злые | https://habrahabr.ru/company/luxoft/blog/258257/
+
+Распределенные транзакции между RabbitMQ и MS SQL | https://habrahabr.ru/company/mindbox/blog/257949/
+
+Разработка простого плагина для JIRA для работы с базой данных: придаем нашему плагину нормальный внешний вид | https://habrahabr.ru/company/edison/blog/257007/
+
+Разработка простого плагина для JIRA для работы с базой данных | https://habrahabr.ru/company/edison/blog/256789/
+
+C#: коллекции только для чтения и LSP | https://habrahabr.ru/post/256605/
+
+Webiny Framework. Первый взгляд | https://habrahabr.ru/post/256309/
+
+Кросс-публикатор статей — каким он должен быть? | https://habrahabr.ru/post/255953/
+
+Снова про AUTO_INCREMENT | https://habrahabr.ru/post/255645/
+
+Приемы при проектировании архитектуры игр | https://habrahabr.ru/post/255561/
+
+Слой кэширования поверх Linq to SQL | https://habrahabr.ru/company/mindbox/blog/255231/
+
+Тернии вокруг золота | https://habrahabr.ru/post/254951/
+
+Money как Value Object | https://habrahabr.ru/post/254837/
+
+Декларативная разработка на Caché | https://habrahabr.ru/company/intersystems/blog/212671/
+
+Триггерные рассылки | https://habrahabr.ru/company/mindbox/blog/251915/
+
+Архитектурный дизайн мобильных приложений: часть 2 | https://habrahabr.ru/company/redmadrobot/blog/251337/
+
+Legacy-код — это рак | https://habrahabr.ru/post/250667/
+
+Антипаттерны проектирования: Functional Decomposition | https://habrahabr.ru/post/251089/
+
+Буриданов осел и композиция конфигурации | https://habrahabr.ru/company/ultima/blog/250685/
+
+Антипаттерны проектирования: Dead End | https://habrahabr.ru/post/250845/
+
+Архитектура Android-приложений… Правильный путь? | https://habrahabr.ru/post/250659/
+
+Антипаттерны проектирования: Poltergeists | https://habrahabr.ru/post/217847/
+
+Стадии рождения новой функциональности в программном продукте | https://habrahabr.ru/company/acronis/blog/250145/
+
+Техническая сторона Supl.biz | https://habrahabr.ru/company/suplbiz/blog/249873/
+
+KISS — принцип проектирования, содержащий все остальные принципы проектирования | https://habrahabr.ru/post/249639/
+
+Как устроен наш код. Серверная архитектура одного проекта | https://habrahabr.ru/post/249453/
+
+Монолитная система VS множество самостоятельных модулей на примере притчи о слоне и мудрецах | https://habrahabr.ru/post/249247/
+
+Boost.DI: внедрение зависимости в С++ | https://habrahabr.ru/company/infopulse/blog/248879/
+
+Simple container | https://habrahabr.ru/company/skbkontur/blog/248585/
+
+Именованные аргументы функции в C | https://habrahabr.ru/post/248385/
+
+Языки программирования. Композиционный взгляд | https://habrahabr.ru/post/248157/
+
+Как мы строим систему обработки сообщений | https://habrahabr.ru/post/248093/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 5. Тестирование | https://habrahabr.ru/post/248027/
+
+Пошаговый алгоритм создания архитектуры PHP-сайта | https://habrahabr.ru/post/247495/
+
+JSON, который можно комментировать | https://habrahabr.ru/post/247473/
+
+Разбираемся с Flux, реактивной архитектурой от facebook | https://habrahabr.ru/post/246959/
+
+Архитектура мобильного клиент-серверного приложения | https://habrahabr.ru/post/246877/
+
+Архитектурный дизайн мобильных приложений | https://habrahabr.ru/company/redmadrobot/blog/246551/
+
+SPA-архитектура для CRM-систем: часть 2 | https://habrahabr.ru/company/qbs/blog/245643/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 4 Serialization | https://habrahabr.ru/post/245441/
+
+Eggs.Variant — Часть I | https://habrahabr.ru/post/244573/
+
+Inversion of Control: Методы реализации с примерами на PHP | https://habrahabr.ru/post/244517/
+
+Фабричный метод без размещения в динамической памяти | https://habrahabr.ru/post/244497/
+
+Как я документирую процесс разработки | https://habrahabr.ru/post/244247/
+
+SPA-архитектура для CRM-систем: часть 1 | https://habrahabr.ru/company/qbs/blog/243545/
+
+Рефакторинг C++ кода в Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/243437/
+
+Cohesion in Enterprise Applications | https://habrahabr.ru/post/241943/
+
+По мотивам GUIRunner | https://habrahabr.ru/post/241377/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 3. DUnit + FireMonkey | https://habrahabr.ru/post/241301/
+
+Язык Go: реабилитация императивного программирования | https://habrahabr.ru/post/240917/
+
+Миф о идеальном количестве строк в методе | https://habrahabr.ru/post/239799/
+
+Размышления о принципах проектирования | https://habrahabr.ru/post/239431/
+
+Уровни сложности моделирования | https://habrahabr.ru/post/238599/
+
+Как правильно разрабатывать API с поддержкой обратной совместимости. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/237459/
+
+Активная аналитика для вашего проекта | https://habrahabr.ru/company/fintech_fab/blog/236943/
+
+RabbitMQ — Отложенные сообщения, часть 2 | https://habrahabr.ru/post/235983/
+
+RabbitMQ — отложенные сообщения | https://habrahabr.ru/post/235505/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 2 | https://habrahabr.ru/post/234801/
+
+Анонсированы новые функции Java 9 | https://habrahabr.ru/post/234031/
+
+Луковая архитектура. Часть 1 | https://habrahabr.ru/post/233747/
+
+Рентабельный код | https://habrahabr.ru/post/233221/
+
+MindStream. Как мы пишем ПО под FireMonkey | https://habrahabr.ru/post/232955/
+
+Как мы спроектировали и сделали True Image for Mac | https://habrahabr.ru/company/acronis/blog/232543/
+
+Ubiquitous Language и Bounded Context в DDD | https://habrahabr.ru/post/232881/
+
+Dependency Injection. JavaScript | https://habrahabr.ru/post/232851/
+
+JavaScript to TypeScript — трудности перевода | https://habrahabr.ru/post/232015/
+
+Интервью с Дино Эспозито, автором книги «Microsoft .NET: Architecting applications for the enterprise» | https://habrahabr.ru/company/luxoft/blog/231331/
+
+Анализ одного рефакторинга | https://habrahabr.ru/post/231325/
+
+Еще одна книга о паттернах? Дайте две! | https://habrahabr.ru/post/230873/
+
+Мониторинг транзакций, my little success story | https://habrahabr.ru/post/229413/
+
+Рефакторить или не рефакторить? | https://habrahabr.ru/company/enterra/blog/229051/
+
+OMG Scala is a complex language! | https://habrahabr.ru/post/228247/
+
+Как создаются Интернет-вещи?! | https://habrahabr.ru/post/227949/
+
+Мониторинг в ИТ, как организовать работу | https://habrahabr.ru/post/226639/
+
+Снижение компонентной связности кода С++ | https://habrahabr.ru/post/226333/
+
+Использование в языке D сторонних библиотек | https://habrahabr.ru/post/226301/
+
+Изучение TDD через интенсивную практику | https://habrahabr.ru/post/225929/
+
+Создание API: в рамку и на стену | https://habrahabr.ru/post/224929/
+
+Anemic Domain Model [Перевод] | https://habrahabr.ru/post/224879/
+
+Определение модульного теста | https://habrahabr.ru/post/222963/
+
+Дизайн и архитектура в ФП. Часть 3 | https://habrahabr.ru/post/222015/
+
+Практика рефакторинга. Завистливые функции | https://habrahabr.ru/post/220883/
+
+Где наша бизнес-логика для идеалиста? | https://habrahabr.ru/post/219445/
+
+Организация js кода для джуниоров | https://habrahabr.ru/post/218485/
+
+Fail Fast! принцип: Отлаживайте меньше и создавайте более надежное ПО | https://habrahabr.ru/post/218325/
+
+Концепция Абстрактного Типа Данных | https://habrahabr.ru/post/216725/
+
+Как мы управляем конфигурациями в Pics.io | https://habrahabr.ru/company/toptechphoto/blog/216367/
+
+Завершен перевод книги Эдди Османи «Паттерны для масштабируемых JavaScript-приложений» | https://habrahabr.ru/post/215493/
+
+Дизайн и архитектура в ФП. Часть 2 | https://habrahabr.ru/post/215161/
+
+Денормализация деревьев | https://habrahabr.ru/post/212847/
+
+Lightweight Tables или практические советы при проектировании БД… | https://habrahabr.ru/post/211885/
+
+Начало системной архитектуры. Философия и язык. Часть 1 | https://habrahabr.ru/post/212339/
+
+Классические паттерны проектирования на Scala | https://habrahabr.ru/post/212121/
+
+Паттерн HMVC в веб-разработке | https://habrahabr.ru/post/212065/
+
+Дизайн и архитектура в ФП. Введение и Часть 1 | https://habrahabr.ru/post/211871/
+
+Шпаргалка по шаблонам проектирования | https://habrahabr.ru/post/210288/
+
+Анализируем исходный код с помощью cppcheck | https://habrahabr.ru/post/210226/
+
+Перевод книги Эдди Османи «Паттерны для масштабируемых JavaScript-приложений» | https://habrahabr.ru/post/209424/
+
+C#. Сортировка членов типа с помощью ReSharper | https://habrahabr.ru/post/208464/
+
+Критика книги Боба Мартина «Принципы, паттерны и методики гибкой разработки на языке C#» | https://habrahabr.ru/post/208454/
+
+Именование объектов в Oracle. Взгляд «со стороны» | https://habrahabr.ru/post/207102/
+
+Утрата слабой связанности | https://habrahabr.ru/post/206684/
+
+Вещи, которые мы хотим сделать «потом» | https://habrahabr.ru/post/206672/
+
+Паттерн «VIP сервис» | https://habrahabr.ru/post/205516/
+
+Архитектура агрегаторов: паттерны веб-сервисов (Часть 1) | https://habrahabr.ru/post/204436/
+
+Социальная сеть без сервера. История разработки iOS-клиента и backend | https://habrahabr.ru/post/198864/
+
+Ущербно-ориентированное программирование | https://habrahabr.ru/post/203646/
+
+Как разрабатывать неподдерживаемое ПО | https://habrahabr.ru/post/203628/
+
+Что так с ООП и ФП, и что не так с программированием | https://habrahabr.ru/post/201920/
+
+Паттерн «VIP слушатель» | https://habrahabr.ru/post/201908/
+
+Что не так с ООП и ФП | https://habrahabr.ru/post/201874/
+
+Асинхронная добыча меток utm | https://habrahabr.ru/company/tinkoff/blog/201674/
+
+Итератор в шаблонизаторе doT.js по объектам с фильтрацией | https://habrahabr.ru/post/201592/
+
+Курс «Принципы реактивного программирования» на coursera.org | https://habrahabr.ru/post/200338/
+
+Аспектно-ориентированное программирование: изучи и сделай сам! | https://habrahabr.ru/post/199378/
+
+Dependency Injection в Objective-C с Магией и Кровью | https://habrahabr.ru/post/198328/
+
+Основы борьбы с неявным дублированием кода | https://habrahabr.ru/post/197932/
+
+Model-View в QML. Часть третья: Модели в QML и JavaScript | https://habrahabr.ru/post/195706/
+
+Делать мир лучше (karma policy) | https://habrahabr.ru/post/195568/
+
+7 рефакторингов для больших ActiveRecord — моделей | https://habrahabr.ru/post/192504/
+
+Темное программирование | https://habrahabr.ru/post/192320/
+
+Поддержка мультиязычности в веб-проектах — базовые варианты реализации | https://habrahabr.ru/post/192228/
+
+Опыт написания рефакторинга | https://habrahabr.ru/post/191604/
+
+Yii, непрерывная интеграция — как не сломать все | https://habrahabr.ru/post/191210/
+
+Вы таки (не) рефакторите? | https://habrahabr.ru/post/191086/
+
+Model-View в QML. Часть вторая: Кастомные представления | https://habrahabr.ru/post/190090/
+
+Понимание ООП на джаваскрипте (ES5), часть 2 | https://habrahabr.ru/post/189432/
+
+15 вещей, которые мы хотели бы знать перед разработкой стартапа | https://habrahabr.ru/post/189122/
+
+Как заставить интернет-магазин выдерживать нагрузку 280 000 посетителей в час? | https://habrahabr.ru/company/adv/blog/189016/
+
+Распараллеливание с минимальными правками в коде | https://habrahabr.ru/post/188508/
+
+Паттерны проектирования в Ruby: Шаблонный метод | https://habrahabr.ru/post/188046/
+
+Методология расчета нагрузки, количества пользователей информационной системы — web-сайта или сервиса | https://habrahabr.ru/post/187386/
+
+8 вещей, которых не должен бояться разработчик | https://habrahabr.ru/post/187052/
+
+Динамические примеси в PHP | https://habrahabr.ru/company/alawar/blog/186196/
+
+Грабли 2: Виртуальное наследование | https://habrahabr.ru/post/185826/
+
+Грабли 1: Восстание одиноких фениксов | https://habrahabr.ru/post/185128/
+
+Model-View в QML. Часть первая: Представления на основе готовых компонентов | https://habrahabr.ru/post/184416/
+
+Долой качество! | https://habrahabr.ru/post/184082/
+
+Российский футбол на «плюсе». А при плюсе? Или такой футбол нам не нужен: ч.1 теоретическая | https://habrahabr.ru/post/168143/
+
+Voldemort типы в D | https://habrahabr.ru/post/183488/
+
+Model-View в QML. Часть нулевая, вводная | https://habrahabr.ru/post/181712/
+
+Когда полиморфизм терпит неудачу | https://habrahabr.ru/post/181041/
+
+Множественные ветвления и шаблон «Правила» | https://habrahabr.ru/post/179069/
+
+Время подключать исходники. Введение в Source Maps | https://habrahabr.ru/post/178743/
+
+Рецепты против взаимных блокировок на сигнальных переменных | https://habrahabr.ru/company/nordavind/blog/178623/
+
+Рефакторинг с бубном, или как мы Халка усмиряли | https://habrahabr.ru/company/dnevnik_ru/blog/177817/
+
+Вариант организации контроля версий ПО для аппаратов с множеством сетевых устройств на борту | https://habrahabr.ru/post/177635/
+
+Два простых правила для предотвращения взаимных блокировок на мьютексах | https://habrahabr.ru/company/nordavind/blog/176541/
+
+Техника: Перемещение функций между объектами (рефакторинг М. Фаулера) | https://habrahabr.ru/post/174779/
+
+«Strategy Pattern. Просто о простом» или почему я хожу на собеседования «PHP Junior» ради fun'а | https://habrahabr.ru/post/176505/
+
+Быстрый старт: Визуальное проектирование базы данных в MySQL Workbench | https://habrahabr.ru/post/175985/
+
+Пять правил успешного кросс-платформенного проекта | https://habrahabr.ru/post/175801/
+
+M в MVC: почему модели непоняты и недооценены (перевод) | https://habrahabr.ru/post/175465/
+
+Боремся с deadlock-ами: паттерн unlocked callbacks | https://habrahabr.ru/company/nordavind/blog/175401/
+
+Правила жизни в ИТ проектах | https://habrahabr.ru/post/174859/
+
+Техника: Составление методов (рефакторинг М. Фаулера) | https://habrahabr.ru/post/173903/
+
+Код с душком (рефакторинг М. Фаулера) | https://habrahabr.ru/post/169139/
+
+Проектируем по DDD. Часть 1: Domain & Application | https://habrahabr.ru/post/173893/
+
+В чём разница между использованием MVC и MVP | https://habrahabr.ru/post/171925/
+
+Шаблон проектирования «Спецификация» | https://habrahabr.ru/post/171559/
+
+Про абстрагирование, слабосвязную архитектуру и проектирование в целом | https://habrahabr.ru/post/171331/
+
+Микро-рефакторинг, о котором мы так часто забываем | https://habrahabr.ru/post/171261/
+
+История одной оптимизации | https://habrahabr.ru/post/171005/
+
+Есть ли будущее за компонентной архитектурой? | https://habrahabr.ru/post/170623/
+
+Иерархия принципов проектирования, или самые важные слова для инженеров | https://habrahabr.ru/post/169487/
+
+Для чего нужны шаблоны проектирования | https://habrahabr.ru/post/170125/
+
+Business Natural Languages | https://habrahabr.ru/post/169711/
+
+Рецензия на книгу Марка Сиимана «Dependency Injection in .NET» | https://habrahabr.ru/post/168989/
+
+Система работы с атрибутами | https://habrahabr.ru/post/168477/
+
+Почему мы и дальше будем срывать сроки | https://habrahabr.ru/post/167847/
+
+Проект NULL | https://habrahabr.ru/post/158985/
+
+Автоматизированный рефакторинг в большом проекте | https://habrahabr.ru/company/badoo/blog/167337/
+
+Dependency Injection: анти-паттерны | https://habrahabr.ru/post/166287/
+
+Реализация шаблона проектирования декоратор на PHP | https://habrahabr.ru/post/166237/
+
+Так ли дорого прогрессивное улучшение? | https://habrahabr.ru/post/163877/
+
+Особенности обработки исключений в Windows | https://habrahabr.ru/post/163745/
+
+Почему Pinball убрали из Windows Vista | https://habrahabr.ru/post/163105/
+
+Ограничивая абстракции (.NET, ASP.NET MVC) | https://habrahabr.ru/post/161703/
+
+Количественная оценка понятности кода | https://habrahabr.ru/post/161209/
+
+О компонентах и интерфейсах. Java | https://habrahabr.ru/post/161085/
+
+О компонентах и интерфейсах | https://habrahabr.ru/post/160735/
+
+Код CSS «с душком» | https://habrahabr.ru/post/160177/
+
+Работая в интересах Будущих Разработчиков | https://habrahabr.ru/post/159421/
+
+Опыт разработки плагина для Yasca | https://habrahabr.ru/post/158229/
+
+Progressive Enhancement или всё-таки Graceful Degradation | https://habrahabr.ru/post/157115/
+
+Простая поддержка окружений в Spring 3.1+ | https://habrahabr.ru/post/156731/
+
+Визуализация кода | https://habrahabr.ru/post/156571/
+
+Разработка через страдание | https://habrahabr.ru/post/155959/
+
+Чем же занимаются программисты, и как объяснить это остальным? | https://habrahabr.ru/post/155429/
+
+Манифест эволюции программ | https://habrahabr.ru/post/155423/
+
+Динамическая интерпретация метамоделей | https://habrahabr.ru/post/154891/
+
+Функциональное программирование в ООП | https://habrahabr.ru/post/154019/
+
+Хлеб Маркуса и YAGNI | https://habrahabr.ru/post/153845/
+
+Двигаем элементы в прототипе Axure | https://habrahabr.ru/post/152263/
+
+Завяжите шнурки и подтяните свои штаны! | https://habrahabr.ru/post/151110/
+
+Главный принцип хорошего кода | https://habrahabr.ru/post/150868/
+
+Протоколирование: рекомендации по трассировке | https://habrahabr.ru/company/infopulse/blog/150563/
+
+Практика рефакторинга в больших проектах | https://habrahabr.ru/post/150027/
+
+Введение в CQRS + Event Sourcing: Часть 2 | https://habrahabr.ru/post/149464/
+
+Почему компьютерное зрение очень мало используется на практике | https://habrahabr.ru/post/148715/
+
+О дизайне. Часть 2. Практические примеры | https://habrahabr.ru/post/148640/
+
+О дизайне | https://habrahabr.ru/post/148050/
+
+Другой взгляд на эволюцию гадкого утёнка или рефакторинг спагетти | https://habrahabr.ru/post/147438/
+
+Из гадкого утёнка в лебедя, или как исправить криворукий код | https://habrahabr.ru/post/147416/
+
+Введение в CQRS + Event Sourcing: Часть 1. Основы | https://habrahabr.ru/post/146429/
+
+FuckItJS: принудительное исполнение JavaScript-кода | https://habrahabr.ru/post/146844/
+
+Контракты vs Юнит тесты | https://habrahabr.ru/post/146702/
+
+Как реанимировать ваш PHP-проект с помощью Symfony2 компонентов | https://habrahabr.ru/post/146521/
+
+Какая нотация для сохранения данных бизнес-объектов вам кажется более естественной | https://habrahabr.ru/post/144774/
+
+Мы решаем когда сохранять состояние объекта (в базу данных, любое другое хранилище) исходя: | https://habrahabr.ru/post/144757/
+
+Три ключевых принципа ПО, которые вы должны понимать | https://habrahabr.ru/post/144611/
+
+Жизнь без объектов | https://habrahabr.ru/post/143620/
+
+А как выглядит ваш прикладной код? | https://habrahabr.ru/post/143566/
+
+Правила разработки сложных систем. История одного проекта | https://habrahabr.ru/post/143804/
+
+О повторном использовании кода | https://habrahabr.ru/post/143441/
+
+Басни на ночь — Хорошие имена как залог успеха | https://habrahabr.ru/post/142146/
+
+Что значат для вас юнит-тесты? | https://habrahabr.ru/post/141769/
+
+Организация рабочих потоков: синхронизационный канал | https://habrahabr.ru/post/141509/
+
+Проектирование веб-приложений с применением Data Management System (на основе технологии скаффолдинга) | https://habrahabr.ru/post/141207/
+
+Асинхронный конечный автомат: идеология и технология | https://habrahabr.ru/post/141142/
+
+Коллекция паттернов и антипаттернов JavaScript | https://habrahabr.ru/post/140809/
+
+Существуют только структурная и объектная парадигмы программирования | https://habrahabr.ru/post/140613/
+
+Перестаньте писать классы | https://habrahabr.ru/post/140581/
+
+Бертран Мейер. Объектно-ориентированное конструирование программных систем | https://habrahabr.ru/post/140284/
+
+Усовершенствование паттерна Flyweight в биовычислениях | https://habrahabr.ru/post/140046/
+
+Правильное использование паттерна «Мост» (Мост с двухсторонним движением) или MVC->«Бизнес-сущность — Визуализация — Контроллер» | https://habrahabr.ru/post/138461/
+
+Наследование интерфейсов и контракты | https://habrahabr.ru/post/139443/
+
+Принцип замещения Лисков и контракты | https://habrahabr.ru/post/139039/
+
+Шаблон Bridge дополнительные штрихи | https://habrahabr.ru/post/138902/
+
+Отказ от использования CMS при проектировании веб-приложений | https://habrahabr.ru/post/138435/
+
+Повторное использование знаний | https://habrahabr.ru/post/138139/
+
+Прагматичный подход к производительности | https://habrahabr.ru/post/135484/
+
+Статический анализатор кода PC-Lint | https://habrahabr.ru/post/135439/
+
+Klocwork — впечатления от двухнедельного тестирования | https://habrahabr.ru/post/131245/
+
+Еще одно тестирование PVS-Studio | https://habrahabr.ru/post/135397/
+
+Объектно-ориентированная разработка инсталлятора Gin | https://habrahabr.ru/post/135310/
+
+Джон Кармак о статическом анализе кода | https://habrahabr.ru/post/135234/
+
+Объектно-ориентированная разработка инсталлятора Gin | https://habrahabr.ru/post/134876/
+
+Объектно-ориентированная разработка инсталлятора Gin | https://habrahabr.ru/post/134512/
+
+Объектно-ориентированная разработка инсталлятора Gin | https://habrahabr.ru/post/134439/
+
+Идеальная архитектура | https://habrahabr.ru/post/133287/
+
+Библия проектирования. Часть вторая. Костыли, изгнание из рая, Каин, Авель, и снова с чистого листа | https://habrahabr.ru/post/132254/
+
+Библия проектирования. Часть первая. Создание мира | https://habrahabr.ru/post/132179/
+
+Пишем свой сервис авто-обновлений | https://habrahabr.ru/post/131649/
+
+Нормализация отношений. Первая и вторая нормальные формы | https://habrahabr.ru/post/129195/
+
+Народ против PVS-Studio: дубль первый | https://habrahabr.ru/post/128607/
+
+Анализ утилит статического анализа C++ кода | https://habrahabr.ru/post/128534/
+
+Автоматическое тестирование программ | https://habrahabr.ru/post/128503/
+
+Принцип самурая | https://habrahabr.ru/post/128397/
+
+Эпидемия в данных | https://habrahabr.ru/post/125719/
+
+Как правильно комментировать код | https://habrahabr.ru/post/125545/
+
+Singleton — паттерн или антипаттерн? | https://habrahabr.ru/post/125238/
+
+Обеспечение бесперебойного клиент-серверного взаимодействия(WEB) | https://habrahabr.ru/post/124410/
+
+Паттерны поведения | https://habrahabr.ru/post/123070/
+
+Эффект второй системы | https://habrahabr.ru/post/121213/
+
+Синдром рефакторинга | https://habrahabr.ru/post/120000/
+
+Технический долг | https://habrahabr.ru/post/119490/
+
+Рефакторинг проекта в SVN с помощью ANT | https://habrahabr.ru/post/119013/
+
+Построение отказоустойчивой (fault tolerant) системы | https://habrahabr.ru/post/118496/
+
+Юнит тесты в ASP.NET WebForms | https://habrahabr.ru/post/118409/
+
+Интеграция информационных систем | https://habrahabr.ru/post/117468/
+
+Keep API simple | https://habrahabr.ru/post/117199/
+
+Одержимость красивым кодом, синдромом рефакторинга | https://habrahabr.ru/post/116346/
+
+Основы правильного проектирования баз данных в веб-разработке | https://habrahabr.ru/post/115777/
+
+Вторая нормальная форма (в терминологии SQL) | https://habrahabr.ru/post/113274/
+
+Вторая нормальная форма в примерах | https://habrahabr.ru/post/113260/
+
+Идиомы Pimpl и Fast Pimpl – указатель на реализацию | https://habrahabr.ru/post/111602/
+
+Ситуации, когда может пригодиться статический анализатор кода | https://habrahabr.ru/post/110690/
+
+Конфигурябельность | https://habrahabr.ru/post/110310/
+
+Отличная статья о сборке продуктов промышленного уровня | https://habrahabr.ru/post/108059/
+
+Взаимодействие звеньев и их изоляция. Часть 2 | https://habrahabr.ru/post/107569/
+
+Взаимодействие звеньев и их изоляция. Часть 1 | https://habrahabr.ru/post/107563/
+
+Singleton (Одиночка) или статический класс? | https://habrahabr.ru/post/103681/
+
+Плохие и хорошие Singleton'ы | https://habrahabr.ru/post/102768/
+
+5 советов по проведению хорошего обзора кода | https://habrahabr.ru/post/89918/
+
+20 причин проводить обзоры кода | https://habrahabr.ru/post/88075/
+
+Где наша бизнес-логика, сынок? | https://habrahabr.ru/post/65432/
+
+Перевод: Я ненавижу тебя: твой код – хлам! | https://habrahabr.ru/post/64086/
+
+Что такое анти-паттерны? | https://habrahabr.ru/post/59005/
+
+Безумные задачки | https://habrahabr.ru/post/19998/
+
+язык D в реализации от GNU | https://habrahabr.ru/post/17930/
+
+C/C+: эти коварные наборы строк. | https://habrahabr.ru/post/15504/
+
+Сокращение уровня вложенности | https://habrahabr.ru/post/15479/
+
+Ревизия кода Ext JS/ GridView | https://habrahabr.ru/post/13304/
+
+Ревизируем HTML и CSS «Хабрахабра» | https://habrahabr.ru/post/10841/
+
+Ленивые свойства объекта | https://habrahabr.ru/post/10550/
+

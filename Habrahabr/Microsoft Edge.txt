@@ -1,0 +1,44 @@
+Пусть интернет прогнётся под нас | https://habrahabr.ru/post/333776/
+
+Пора играть честно, Microsoft | https://habrahabr.ru/company/vivaldi/blog/320308/
+
+Доступны записи Microsoft Edge Web Summit 2016 — Часть 1 | https://habrahabr.ru/company/microsoft/blog/282023/
+
+Знакомимся с веб-стандартами. Работа с аудио. — Видео и история создания | https://habrahabr.ru/company/microsoft/blog/278593/
+
+Chakra официально принят Node.js | https://habrahabr.ru/post/276617/
+
+Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8 | https://habrahabr.ru/post/275779/
+
+ChakraCore: проверка JavaScript-движка для Microsoft Edge | https://habrahabr.ru/company/pvs-studio/blog/275701/
+
+Исходный код JavaScript-движка ChakraCore выложен на GitHub | https://habrahabr.ru/company/microsoft/blog/275067/
+
+Бенчмарк 32 и 64-битных версий браузеров: быстрее, сильнее, выше? | https://habrahabr.ru/post/274511/
+
+Исходный код JavaScript-движка Microsoft Edge будет открыт в январе | https://habrahabr.ru/company/microsoft/blog/272809/
+
+Упрощение асинхронного кода на JavaScript с внедрением асинхронных функций из ES2016 | https://habrahabr.ru/company/microsoft/blog/269871/
+
+Введение в работу с ORTC в Microsoft Edge | https://habrahabr.ru/company/microsoft/blog/269619/
+
+Как создать свой собственный браузер для Windows 10 на HTML и JavaScript | https://habrahabr.ru/company/microsoft/blog/269143/
+
+За что Microsoft Edge ненавидит закладки? | https://habrahabr.ru/post/265419/
+
+Внедрение премиального медиа-контента с HTML5 | https://habrahabr.ru/company/microsoft/blog/265259/
+
+Превью первых обновлений веб-платформы Microsoft Edge | https://habrahabr.ru/company/microsoft/blog/265153/
+
+7 советов, как улучшить работу вашего сайта в Microsoft Edge и других современных браузерах | https://habrahabr.ru/company/microsoft/blog/265037/
+
+Внедрение компонентого подхода в вебе: обзор веб-компонентов | https://habrahabr.ru/company/microsoft/blog/264791/
+
+Практические советы по повышению производительности HTML и JavaScript | https://habrahabr.ru/company/microsoft/blog/264675/
+
+Лучшие доклады конференции DevCon 2015 — Топ 10 | https://habrahabr.ru/company/microsoft/blog/262289/
+
+Веб-эксперименты #1. Адаптивность lvl. 80: веб-приложения, мозговые волны и уровень внимания | https://habrahabr.ru/company/microsoft/blog/261727/
+
+Asm.js пришел в Chakra и Microsoft Edge | https://habrahabr.ru/company/microsoft/blog/258019/
+

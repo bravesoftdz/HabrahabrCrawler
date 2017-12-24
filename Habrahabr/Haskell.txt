@@ -1,0 +1,342 @@
+Краткий справочник информатики | https://habrahabr.ru/post/344810/
+
+Винеровский хаос или Еще один способ подбросить монетку | https://habrahabr.ru/post/343148/
+
+FPConf 2017. Интервью с Александром Вершиловым | https://habrahabr.ru/post/343104/
+
+Паттерн Model-Update-View и зависимые типы | https://habrahabr.ru/post/341988/
+
+FPConf 2017. Интервью с Денисом Шевченко | https://habrahabr.ru/post/342470/
+
+Приглашаем на конференцию FPConf 2017 | https://habrahabr.ru/company/railsclub/blog/341656/
+
+Money-моноид | https://habrahabr.ru/post/341398/
+
+Моноиды, полугруппы и все-все-все | https://habrahabr.ru/company/jugru/blog/340178/
+
+Создаём GTK-видеоплеер с использованием Haskell | https://habrahabr.ru/company/mailru/blog/338176/
+
+Пишем (недо)интерпретатор на Haskell с помощью alex и happy | https://habrahabr.ru/post/335366/
+
+Вышел GHC 8.2 | https://habrahabr.ru/post/334028/
+
+DevConf::BackEnd уже на этой неделе 17 июня в субботу, программа сформирована | https://habrahabr.ru/company/devconf/blog/330748/
+
+Избегание ада с помощью монад | https://habrahabr.ru/post/329242/
+
+Как я "<" моноидом делал | https://habrahabr.ru/post/328110/
+
+Типизируя техническое интервью | https://habrahabr.ru/post/327913/
+
+Пишу как хочу, или Все на встречу с ruHaskell в «Лаборатории Касперского» | https://habrahabr.ru/company/kaspersky/blog/325190/
+
+Haskell: об одном методе реализации функций с переменным числом параметров | https://habrahabr.ru/post/324190/
+
+От моноидов к алгебрам де Моргана. Строим абстракции на Haskell | https://habrahabr.ru/post/323832/
+
+Магия newtype в Haskell | https://habrahabr.ru/post/323526/
+
+Haskell. Монады. Монадные трансформеры. Игра в типы | https://habrahabr.ru/post/315022/
+
+Stack Overflow рассказал, какие языки и технологии программирования популярны как хобби | https://habrahabr.ru/post/321464/
+
+Про хаскелль для самых маленьких на примере задачи с codefights | https://habrahabr.ru/post/319440/
+
+Параллельная быстрая сортировка на Хаскеле и как нелегко её оказалось написать | https://habrahabr.ru/post/317348/
+
+Функциональные языки в разработке аппаратуры | https://habrahabr.ru/post/316748/
+
+Процедурная генерация планетарных карт | https://habrahabr.ru/post/313420/
+
+Статическая и динамическая типизация | https://habrahabr.ru/post/308484/
+
+Митап Haskell-программистов в «Лаборатории Касперского» (в смысле — ждем) | https://habrahabr.ru/company/kaspersky/blog/307764/
+
+История языков программирования: как Haskell стал стандартом функционального программирования | https://habrahabr.ru/post/307618/
+
+Скоро ICFPC 2016 | https://habrahabr.ru/post/306882/
+
+Функторы (глава книги «Теория категорий для программистов») | https://habrahabr.ru/post/305018/
+
+Недостатки чистого функционального программирования | https://habrahabr.ru/post/303984/
+
+Комонада, она как монада, только комонада | https://habrahabr.ru/post/283368/
+
+Простые алгебраические типы данных | https://habrahabr.ru/post/274103/
+
+Haskell для ВКонтакте, JavaScript и ReactJS, Или «Чужой против Симпсонов» | https://habrahabr.ru/post/272871/
+
+«Страшные» абстракции Haskell без математики и без кода (почти). Часть I | https://habrahabr.ru/post/272115/
+
+Произведения и копроизведения | https://habrahabr.ru/post/271927/
+
+Включение внешних языков в программы на Haskell | https://habrahabr.ru/post/269939/
+
+Выбор языка (Haskell vs Go) | https://habrahabr.ru/post/270707/
+
+Интервью с Одри Тан, часть 1 | https://habrahabr.ru/company/regru/blog/268911/
+
+Kotlin ❤ FP | https://habrahabr.ru/post/268463/
+
+Очисти код свободными монадами | https://habrahabr.ru/post/263959/
+
+Приглашаем на FPConf.ru | https://habrahabr.ru/company/railsclub/blog/263581/
+
+Пример решения типичной ООП задачи на языке Haskell | https://habrahabr.ru/post/263575/
+
+Генератор кода для Haskell | https://habrahabr.ru/post/260239/
+
+Проблемы, вызванные определением кортежей как функторов | https://habrahabr.ru/post/259275/
+
+REST-сервер для простого блога на Haskell | https://habrahabr.ru/post/257491/
+
+Чем хороши свободные монады | https://habrahabr.ru/post/254715/
+
+Арифметика с контролем диапазонов в Haskell с помощью Type-Level Literals | https://habrahabr.ru/post/253157/
+
+Мины в Haskell и Gloss: быстрое прототипирование интерактивной графики | https://habrahabr.ru/post/249803/
+
+Немного о каррировании в Haskell | https://habrahabr.ru/post/249241/
+
+Категории Клейсли | https://habrahabr.ru/post/249113/
+
+Письмо Дейкстры: почему обучение программированию нужно начинать с функционального языка | https://habrahabr.ru/company/hexlet/blog/248921/
+
+Об именах в Haskell | https://habrahabr.ru/post/248685/
+
+Приближенное сравнение чисел в Haskell | https://habrahabr.ru/post/248043/
+
+Категории, большие и малые | https://habrahabr.ru/post/248257/
+
+Типы и функции | https://habrahabr.ru/post/247765/
+
+Как работают ленивые вычисления | https://habrahabr.ru/post/247213/
+
+Категория: суть композиции | https://habrahabr.ru/post/246009/
+
+Теория категорий для программистов: предисловие | https://habrahabr.ru/post/245797/
+
+Изучаем Haskell | https://habrahabr.ru/company/piter/blog/244973/
+
+Пальчиковые деревья (часть 2. Операции) | https://habrahabr.ru/post/243205/
+
+Пальчиковые деревья (Часть 1. Представление) | https://habrahabr.ru/post/240783/
+
+XMonad + XMobar = ❤ | https://habrahabr.ru/post/242351/
+
+[Перевод] Почему Go не так хорош | https://habrahabr.ru/post/228849/
+
+Клеточные автоматы с помощью комонад | https://habrahabr.ru/post/225473/
+
+Haskell. Тестируем многопоточное приложение | https://habrahabr.ru/company/spbau/blog/224075/
+
+Дуальные числа в бизнесе или как оценить чувствительность решения к изменению начальных условий | https://habrahabr.ru/post/222789/
+
+Дизайн и архитектура в ФП. Часть 3 | https://habrahabr.ru/post/222015/
+
+Дизайн и архитектура в ФП. Часть 2 | https://habrahabr.ru/post/215161/
+
+Зачем нужны все эти функторы и монады? | https://habrahabr.ru/post/212955/
+
+Дизайн и архитектура в ФП. Введение и Часть 1 | https://habrahabr.ru/post/211871/
+
+Новая книга по Haskell на русском? | https://habrahabr.ru/company/piter/blog/211496/
+
+Vim-крокет | https://habrahabr.ru/post/211108/
+
+Зоопарк Алгебрaических Типов Данных | https://habrahabr.ru/post/207126/
+
+Haskell, как что-то очень близкое, или получаем комиты из github api | https://habrahabr.ru/post/205830/
+
+Классы типов на C++ | https://habrahabr.ru/post/205482/
+
+Монады и do-нотация в C++ | https://habrahabr.ru/post/205026/
+
+Конспекты лекций «Haskell как первый язык программирования». Часть2 | https://habrahabr.ru/post/204566/
+
+Конспекты лекций «Haskell как первый язык программирования». Часть1 | https://habrahabr.ru/post/204086/
+
+Löb и möb: странные петли в Хаскеле | https://habrahabr.ru/post/203800/
+
+Прелюдия или как полюбить Haskell | https://habrahabr.ru/post/203690/
+
+Haskell — невозможное возможно? | https://habrahabr.ru/post/201446/
+
+Кооперативные потоки с нуля в 33 строках на Хаскеле | https://habrahabr.ru/post/195274/
+
+Haskell в продакте: Отчёт менеджера проекта | https://habrahabr.ru/post/193722/
+
+Модульного тестирования недостаточно. Нужна статическая типизация! | https://habrahabr.ru/post/192108/
+
+iPhone, встречай Haskell | https://habrahabr.ru/post/192048/
+
+Программируем императивно в Хаскеле, используя линзы | https://habrahabr.ru/post/190442/
+
+Семьи типов и Покемоны | https://habrahabr.ru/post/187272/
+
+Первый высокоуровневый язык программирования для квантовых компьютеров | https://habrahabr.ru/post/185936/
+
+Happstack Lite: Веб-фреймворк на Хаскеле | https://habrahabr.ru/post/185524/
+
+Тройка полезных монад | https://habrahabr.ru/post/184722/
+
+Yesod = Haskell $ Web | https://habrahabr.ru/post/184058/
+
+Функторы, аппликативные функторы и монады в картинках | https://habrahabr.ru/post/183150/
+
+Священный грааль динамической диспетчеризации | https://habrahabr.ru/post/182576/
+
+Hakyll для начинающих | https://habrahabr.ru/post/175877/
+
+Обновлен SublimeHaskell | https://habrahabr.ru/post/171459/
+
+Принципы быстрого Хаскеля под GHC | https://habrahabr.ru/post/171425/
+
+Yarr — dataflow-фреймворк (обработки изображений) на Хаскеле | https://habrahabr.ru/post/170571/
+
+Полиморфия и классы в Haskell | https://habrahabr.ru/post/166353/
+
+Решение турнирных задач на языке Haskell | https://habrahabr.ru/post/166763/
+
+Играем в Haskell | https://habrahabr.ru/post/165559/
+
+Принцип «Разделяй и властвуй», а также бесконечные потоки в Haskell | https://habrahabr.ru/post/162657/
+
+Simon Marlow уходит из Microsoft Research в Facebook | https://habrahabr.ru/post/159819/
+
+Две простенькие задачи на Haskell (для начинающих) | https://habrahabr.ru/post/159127/
+
+SublimeHaskell | https://habrahabr.ru/post/154859/
+
+Ленивый hGetContents. Баг или фича? (Haskell) | https://habrahabr.ru/post/153659/
+
+Через тернии к Haskell (перевод). 2/2 | https://habrahabr.ru/post/153383/
+
+Через тернии к Haskell. 1/2 | https://habrahabr.ru/post/152889/
+
+Решение японских кроссвордов на Haskell | https://habrahabr.ru/post/151819/
+
+Легкая прогулка от функтора через монаду к стрелке | https://habrahabr.ru/post/151703/
+
+Динамические мат. функции в C++ | https://habrahabr.ru/post/149450/
+
+Монада ContT в картинках (Haskell) | https://habrahabr.ru/post/149174/
+
+Верифицированный QuickSort на Agda | https://habrahabr.ru/post/148769/
+
+Задача конкурса ICFPC-2012: робот и λ | https://habrahabr.ru/post/147789/
+
+Меню для Yi | https://habrahabr.ru/post/142769/
+
+Структуры данных в haskell и как они влияют на garbage collector | https://habrahabr.ru/post/141257/
+
+Реактивное программирование | https://habrahabr.ru/post/140719/
+
+Что не так с циклами for? | https://habrahabr.ru/post/140439/
+
+Решение задачи о миссионерах и каннибалах на языке Haskell | https://habrahabr.ru/post/140163/
+
+Haskell — Эстетика | https://habrahabr.ru/post/138884/
+
+В поисках жирного (The Quest For FAT) | https://habrahabr.ru/post/134432/
+
+Эндофункторы категории Hask и их моноидальная структура | https://habrahabr.ru/post/133579/
+
+Категория Hask | https://habrahabr.ru/post/133277/
+
+Введение в Template Haskell. Часть 3. Прочие аспекты TH | https://habrahabr.ru/post/133009/
+
+Как питонистам читать Haskell | https://habrahabr.ru/post/132969/
+
+Введение в Template Haskell. Часть 2. Инструменты цитирования кода | https://habrahabr.ru/post/132679/
+
+Введение в Template Haskell. Часть 1. Необходимый минимум | https://habrahabr.ru/post/131998/
+
+Ленивые вычисления | https://habrahabr.ru/post/131910/
+
+Динамическое программирование и ленивые вычисления | https://habrahabr.ru/post/130945/
+
+Еще Одно Руководство по Монадам (часть 4: Монада Maybe и монада списка) | https://habrahabr.ru/post/129909/
+
+Haskell в реальном мире | https://habrahabr.ru/post/129235/
+
+JQuery-UI внутри бинарника | https://habrahabr.ru/post/128705/
+
+Изучай Хаскель ради добра! Моноиды | https://habrahabr.ru/post/128586/
+
+Еще Одно Руководство по Монадам (часть 3: Монадные Законы) | https://habrahabr.ru/post/128538/
+
+Еще Одно Руководство по Монадам (часть 2: функции >>= и return) | https://habrahabr.ru/post/128070/
+
+Еще Одно Руководство по Монадам (часть 1: основы) | https://habrahabr.ru/post/127556/
+
+Продолжения в Haskell | https://habrahabr.ru/post/127040/
+
+Haskell в настоящем проекте | https://habrahabr.ru/post/124270/
+
+Изучай Хаскель ради добра! Аппликативные функторы | https://habrahabr.ru/post/123767/
+
+Haskell Quest Tutorial — Зал | https://habrahabr.ru/post/123422/
+
+Haskell Quest Tutorial — Вид каньона | https://habrahabr.ru/post/122788/
+
+Haskell Quest Tutorial — Поляна | https://habrahabr.ru/post/122259/
+
+Решение загадки Эйнштейна на Haskell | https://habrahabr.ru/post/122123/
+
+Haskell Quest Tutorial — Лес | https://habrahabr.ru/post/121189/
+
+Графика через OpenGL на Haskell | https://habrahabr.ru/post/120686/
+
+Haskell Quest Tutorial — Преддверие | https://habrahabr.ru/post/120759/
+
+Haskell Quest Tutorial — Приветствие | https://habrahabr.ru/post/120590/
+
+IO работает с кучей Хаскеля | https://habrahabr.ru/post/118837/
+
+Вычисление в куче Хаскеля | https://habrahabr.ru/post/118831/
+
+Куча Хаскеля | https://habrahabr.ru/post/118797/
+
+Haskell без монад | https://habrahabr.ru/post/118167/
+
+Пример асинхронной монады | https://habrahabr.ru/post/117031/
+
+Haskell Tutorial с другой стороны | https://habrahabr.ru/post/116760/
+
+И да придет Haskell… | https://habrahabr.ru/post/111797/
+
+Пытаемся сделать PDF-книгу из веб-комикса при помощи Haskell на примере xkcd | https://habrahabr.ru/post/113001/
+
+Реализация целочисленной арифметики на Haskell | https://habrahabr.ru/post/111063/
+
+WebSocket сервер на Haskell | https://habrahabr.ru/post/108890/
+
+Dan Piponi | https://habrahabr.ru/post/96421/
+
+репостинг Twitter (или rss) в статус vkontakte.ru на Haskell | https://habrahabr.ru/post/85894/
+
+Объяснение ввода-вывода в Haskell без монад | https://habrahabr.ru/post/80396/
+
+Комбинатор неподвижной точки | https://habrahabr.ru/post/79713/
+
+О монадических технологиях | https://habrahabr.ru/post/74649/
+
+Изучай Haskell ради… Haskell'а | https://habrahabr.ru/post/74164/
+
+Часть 1/3. Компилятор идеальной VM для ICFPC 2009, на Haskell, с популяризаторскими комментариями | https://habrahabr.ru/post/68995/
+
+Интервью с Саймоном Пейтоном-Джонсом, одним из создателей языка Haskell | https://habrahabr.ru/post/65274/
+
+Zipper — производная от типа | https://habrahabr.ru/post/59552/
+
+Классы типов, монады | https://habrahabr.ru/post/51046/
+
+Создаём парсер для ini-файлов на Haskell | https://habrahabr.ru/post/50337/
+
+Типы данных, паттернг матчинг и функции | https://habrahabr.ru/post/50600/
+
+Основы | https://habrahabr.ru/post/50310/
+
+Вступление | https://habrahabr.ru/post/50176/
+

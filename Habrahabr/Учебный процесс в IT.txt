@@ -1,0 +1,2216 @@
+Делаем адаптивный HTML, добавляя одну строку в CSS | https://habrahabr.ru/company/edison/blog/344878/
+
+Блокчейн в сфере образования | https://habrahabr.ru/post/344764/
+
+Искусственный интеллект трансформирует информационную безопасность, но не стоит ждать мгновенных перемен | https://habrahabr.ru/company/vps_house/blog/344664/
+
+Загоним мамонта в яму: как провести презентацию, чтобы вас услышали и запомнили | https://habrahabr.ru/company/lanit/blog/344490/
+
+Основы информационной безопасности. Цена ошибки | https://habrahabr.ru/company/vps_house/blog/344440/
+
+Как читать техническую литературу: советы резидентов Quora, Reddit и Hacker News | https://habrahabr.ru/company/1cloud/blog/344332/
+
+«3 класса приходской школы» или учимся в Microsoft Virtual Academy (MVA) | https://habrahabr.ru/post/344256/
+
+Обзор литературы по языку Python для начинающих | https://habrahabr.ru/post/344192/
+
+Взламываем собеседования: по алгоритмам, по архитектуре, поведенческие и прочее | https://habrahabr.ru/company/edison/blog/344018/
+
+Мастер-класс «Почему Стив Джобс любил шрифты» (Алексей Каптерев) | https://habrahabr.ru/company/mailru/blog/344132/
+
+Трудности обучения: как «лирику» подружиться с технологией | https://habrahabr.ru/company/regionsoft/blog/344110/
+
+Pygest #19. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [20 ноября 2017 — 5 декабря 2017] | https://habrahabr.ru/post/344026/
+
+Agile Kitchen в офисе Туту.ру | https://habrahabr.ru/company/tuturu/blog/343962/
+
+PLATO: история первой в мире системы электронного обучения | https://habrahabr.ru/company/it-grad/blog/343724/
+
+Разбираемся, что же там нового открыли в задаче о ферзях | https://habrahabr.ru/post/343738/
+
+Я создал приложение, которое делает изучение алгоритмов и структур данных гораздо интереснее | https://habrahabr.ru/company/edison/blog/343706/
+
+GoTo в ИТМО: Ботали неделю. Порвали 2 баяна | https://habrahabr.ru/company/goto/blog/342996/
+
+Учим CSS Grid за 5 минут | https://habrahabr.ru/company/edison/blog/343614/
+
+Как программистам не дают больше ничем заниматься | https://habrahabr.ru/post/343570/
+
+Как становятся профессионалами в Университете ИТМО: Олимпиада «Я — профессионал», трек «Фотоника» | https://habrahabr.ru/company/spbifmo/blog/343586/
+
+Олимпиада «Я — профессионал», трек «Информационная и кибербезопасность» | https://habrahabr.ru/company/spbifmo/blog/343510/
+
+Основы информационной безопасности. Часть 2. Информация и средства её защиты | https://habrahabr.ru/company/vps_house/blog/343498/
+
+Вот — новый поворот? От педагогики к андрагогике, от андрагогики к хьютагогике | https://habrahabr.ru/company/lanit/blog/343396/
+
+Ecowaterair — очередной скам или что-то похуже? Пахнет паленым | https://habrahabr.ru/post/343444/
+
+«Без лишних слов»: самые короткие научные статьи | https://habrahabr.ru/company/spbifmo/blog/343320/
+
+«Пишите письма…» или тренируемся работать с данными по обращениям граждан в правительство Москвы (DataScience) | https://habrahabr.ru/post/343216/
+
+Как IaaS и SaaS технологии меняют сферу образования | https://habrahabr.ru/company/1cloud/blog/343198/
+
+Чтобы научиться мыслить как программист, надо научиться мыслить как не программист | https://habrahabr.ru/post/343124/
+
+Машинный интеллект ищет ответы на загадки Вселенной. Как — расскажем на открытом семинаре AI@MIPT | https://habrahabr.ru/company/mipt/blog/343146/
+
+Работа мечты и поступление в вуз без экзаменов. Олимпиада «Я — профессионал» трек «Компьютерные науки» | https://habrahabr.ru/company/spbifmo/blog/343046/
+
+Голосуем за школьное обучение информатике | https://habrahabr.ru/post/342896/
+
+Pygest #18. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [5 ноября 2017 — 15 ноября 2017] | https://habrahabr.ru/post/342604/
+
+Карьера или наука: почему в Университете ИТМО не нужно выбирать что-то одно | https://habrahabr.ru/company/spbifmo/blog/342688/
+
+Советы самому себе в молодости (дизайнерская версия) | https://habrahabr.ru/company/edison/blog/342608/
+
+Как получить более 3500 звезд на GitHub за неделю и зачем это нужно | https://habrahabr.ru/company/everydaytools/blog/342600/
+
+Вице-президент Shazam по странам EMEA, LATAM и Канады Джош Партридж: «Айтишникам не хватает понимания бизнес-процессов» | https://habrahabr.ru/company/innopolis_university/blog/342450/
+
+Как искать IT вакансии в ЕС | https://habrahabr.ru/company/itroles/blog/341978/
+
+Как программисты-самоучки в реальности получают работу | https://habrahabr.ru/post/342156/
+
+За пять дней я прошел собеседования в пяти компаниях Силиконовой долины и получил пять предложений о работе | https://habrahabr.ru/company/everydaytools/blog/342104/
+
+Разрыв в навыках кибербезопасности: обучение следующего поколения | https://habrahabr.ru/company/kingservers/blog/342070/
+
+Scratch — подтягиваем математику, развиваем самоконтроль | https://habrahabr.ru/post/342016/
+
+ИИ на Физтехе: цифровая экономика, блокчейн, чат-боты и вот это всё | https://habrahabr.ru/company/mipt/blog/341962/
+
+Правила английского, которые нарушают ваши иностранные коллеги | https://habrahabr.ru/company/englishdom/blog/341954/
+
+ICO: хайп уйдёт, а мы останемся, или время против токенов | https://habrahabr.ru/post/341732/
+
+Мета-взгляд на проблемы (не)образованной молодежи | https://habrahabr.ru/post/341834/
+
+Что мы расскажем на Highload++ 2017 | https://habrahabr.ru/company/mailru/blog/341720/
+
+У вас есть синдром ученика? | https://habrahabr.ru/post/341672/
+
+Физтех запускает онлайн-курсы по высшей математике для подготовки к поступлению в магистратуру | https://habrahabr.ru/company/mipt/blog/341544/
+
+Дайджест Университета ИТМО: наши разработки в 2017 году. Часть 2 | https://habrahabr.ru/company/spbifmo/blog/341536/
+
+Дайджест: разработки Университета ИТМО в 2017 году | https://habrahabr.ru/company/spbifmo/blog/341356/
+
+Cisco Sales Associate Program | https://habrahabr.ru/company/cisco/blog/340954/
+
+Смарт-контракт Ethereum для расчета бонусов используя дробные степени | https://habrahabr.ru/post/340984/
+
+Как применить нейротехнологии на практике: хакатон Neuromedia-2017 | https://habrahabr.ru/company/spbifmo/blog/340958/
+
+Экономика токенов: дисконты — основные проблемы | https://habrahabr.ru/post/339570/
+
+Лангуаге файлюрен, или что нам делать с языком? | https://habrahabr.ru/post/340700/
+
+«Звездный торговец» или компьютерное обучение в эпоху мини-компьютеров | https://habrahabr.ru/post/340652/
+
+Необразованная молодёжь. Вавилонские младенцы | https://habrahabr.ru/post/340480/
+
+Стив Возняк открыл онлайн-университет Woz U | https://habrahabr.ru/post/340200/
+
+Задача о переправе | https://habrahabr.ru/post/340124/
+
+Как стать программистом | https://habrahabr.ru/post/339528/
+
+7 выводов программиста самоучки за 1 год | https://habrahabr.ru/post/340044/
+
+Необразованная молодёжь. Что осталось за кадром | https://habrahabr.ru/post/339878/
+
+Коллективная работа и электронный документооборот. Опыт обучения в университете | https://habrahabr.ru/company/ascon/blog/339836/
+
+Как я поехал на летнюю стажировку и остался | https://habrahabr.ru/company/skbkontur/blog/339812/
+
+Образованная молодежь. О шаблонах и процессах | https://habrahabr.ru/post/339754/
+
+Необразованная молодежь. Жизнь в глубинках | https://habrahabr.ru/post/339550/
+
+Необразованная молодежь: да, еще один пост с точки зрения школьника | https://habrahabr.ru/post/339512/
+
+Ответ на публикацию «Из хирурга в разработчики: как в 40 лет сменить профессию?» или почему я не люблю заказные статьи | https://habrahabr.ru/post/339486/
+
+Необразованная молодёжь: попытка подытожить и немного личного | https://habrahabr.ru/post/339458/
+
+Как необразованная молодежь становится образованной. Ответ университета | https://habrahabr.ru/post/339434/
+
+Необразованная молодёжь. Как выкручиваться студенту | https://habrahabr.ru/post/339438/
+
+Как удалить безвозвратно 100 000 пользователей и остаться живым? | https://habrahabr.ru/post/339178/
+
+Необразованная молодёжь. Ответ бизнеса | https://habrahabr.ru/company/regionsoft/blog/339284/
+
+Рынки на триллион, или успеть сделать за 10 лет | https://habrahabr.ru/post/339274/
+
+Ричард Хэмминг: «Я часто сравниваю креативность с сексом» | https://habrahabr.ru/post/336846/
+
+Необразованная молодёжь. Ответ преподавателя-совместителя | https://habrahabr.ru/post/339208/
+
+Подборка интересных мероприятий на неделю в Москве | https://habrahabr.ru/post/339136/
+
+Необразованная молодёжь | https://habrahabr.ru/post/339022/
+
+Micromaster's degree как новая форма образования. Краткий обзор первого пилота программы | https://habrahabr.ru/post/338942/
+
+SAP ищет специалистов будущего для работы с data science и machine learning | https://habrahabr.ru/company/sap/blog/338800/
+
+Дайджест IT событий на октябрь | https://habrahabr.ru/company/everydaytools/blog/338730/
+
+Я б в программеры пошёл, пусть меня научат | https://habrahabr.ru/company/regionsoft/blog/338664/
+
+Как написать отличную научную статью по CS | https://habrahabr.ru/post/338324/
+
+Из эскулапов в сисадмины: есть ли жизнь в IT после Клятвы Гиппократа? | https://habrahabr.ru/post/338280/
+
+Из хирурга в разработчики: как в 40 лет сменить профессию? | https://habrahabr.ru/post/338232/
+
+Опыт обучения программированию детей от 8 лет онлайн | https://habrahabr.ru/post/337738/
+
+Это не статья — просто пища для размышлений о том, как её написать | https://habrahabr.ru/company/cit/blog/337656/
+
+Путь джедая. От мелкого юзера до сотрудника IT-компании | https://habrahabr.ru/post/337554/
+
+Экономика токенов: почему так популярны ICO? | https://habrahabr.ru/post/337416/
+
+Топ 10 стажировок для IT-специалистов | https://habrahabr.ru/company/studyqa/blog/337270/
+
+Дайджест IT событий на сентябрь | https://habrahabr.ru/company/everydaytools/blog/337172/
+
+Знайте меньше, молчите чаще: или как в России и Китае ICO запретили | https://habrahabr.ru/post/337148/
+
+Материалы летней школы Deep|Bayes по байесовским методам в глубинном обучении | https://habrahabr.ru/post/337028/
+
+Разработка игр для консоли на Arduino в летнем лагере | https://habrahabr.ru/post/336632/
+
+Гарант для ICO: сводное представление. Пример Descrow | https://habrahabr.ru/post/336820/
+
+Как зарабатывают на ICO? И как делать этого не нужно | https://habrahabr.ru/post/336810/
+
+Kickico — революция в краудфандинге, или ICO для ICO (сравнение с другими платформами) | https://habrahabr.ru/post/336702/
+
+Как писать, когда не умеешь и лень | https://habrahabr.ru/post/336660/
+
+Как «башня» превращается в «пирамиду» — на примере темы анализа и фильтрации DNS | https://habrahabr.ru/post/325604/
+
+Как разработать эффективный план управления проектом и научиться предотвращать проблемы до их наступления | https://habrahabr.ru/company/mipt/blog/336606/
+
+Беседы о Виртуальной реальности. Беседа №1. Реально о Виртуальности | https://habrahabr.ru/post/336460/
+
+Дайджест Университета ИТМО: учеба, спортивное программирование и наука | https://habrahabr.ru/company/spbifmo/blog/336190/
+
+Blockchain: будущее, которое стоит знать it-специалистам | https://habrahabr.ru/post/336284/
+
+Sosnovkino — первый отечественный скам? Или соберём денег побыстрее и побольше | https://habrahabr.ru/post/335728/
+
+Как распознать scam ICO? Часть II. Зрим | https://habrahabr.ru/post/335548/
+
+IT-школа SAMSUNG от лица ученика | https://habrahabr.ru/post/335430/
+
+Как С# разработчику перейти на Unity | https://habrahabr.ru/company/plarium/blog/335370/
+
+Комиксы Даниэля Стори (часть 2) | https://habrahabr.ru/company/cloud4y/blog/335232/
+
+«Паровозик, который смог!» или «Специализация Машинное обучение и анализ данных», глазами новичка в Data Science | https://habrahabr.ru/post/335214/
+
+Генерация Галактики и обучение начальным знаниям астрономии | https://habrahabr.ru/post/335098/
+
+Где логика? Учимся мыслить системно. Часть 3 | https://habrahabr.ru/post/334972/
+
+Что отставной генерал НАТО преподаёт студентам Университета Иннополис | https://habrahabr.ru/company/innopolis_university/blog/334900/
+
+Судьба программистов в РФ или как уехать из города Энска | https://habrahabr.ru/post/334764/
+
+Как создать бизнес-предложение, в основе которого результат НИОКР и технологий | https://habrahabr.ru/company/mipt/blog/334630/
+
+Грант для стартаперов: онлайн-магистратура ждет лучших | https://habrahabr.ru/company/mipt/blog/334402/
+
+Как сдают ISTQB® Foundation Level на русском: шпаргалка по сертификации тестировщика | https://habrahabr.ru/post/334358/
+
+IT-события, которые вы можете посетить до конца лета | https://habrahabr.ru/company/everydaytools/blog/334238/
+
+Неклассическое поступление в вуз | https://habrahabr.ru/company/spbifmo/blog/334232/
+
+Новшества главной робототехнической олимпиады России в официальном видео | https://habrahabr.ru/company/innopolis_university/blog/334152/
+
+Как программисту получить свой первый оффер | https://habrahabr.ru/post/334122/
+
+10 лет Школе анализа данных Яндекса | https://habrahabr.ru/company/yandex/blog/334066/
+
+ICO: основные юрисдикции и вопросы | https://habrahabr.ru/post/333748/
+
+Летняя школа Wolfram 2017: рассказ участника | https://habrahabr.ru/company/wolfram/blog/333728/
+
+Обучение в онлайн-магистратуре как вариант профессионального и карьерного роста | https://habrahabr.ru/company/mipt/blog/333638/
+
+Как складывается карьера после Университета ИТМО – рассказывают выпускники | https://habrahabr.ru/company/spbifmo/blog/332824/
+
+«Айсберг вместо Оскара!» или как я пробовал освоить азы DataScience на kaggle | https://habrahabr.ru/post/331992/
+
+Дайджест IT событий на июль | https://habrahabr.ru/company/everydaytools/blog/331890/
+
+Итоги конкурса Stepik Contest и новые адаптивные онлайн-курсы | https://habrahabr.ru/company/stepic/blog/331708/
+
+«Теперь он и тебя сосчитал» или Наука о данных с нуля (Data Science from Scratch) | https://habrahabr.ru/post/331794/
+
+МФТИ запустил первую в России онлайн-магистратуру по технологическому предпринимательству | https://habrahabr.ru/company/mipt/blog/331768/
+
+Использование музыки вместо лингафонного курса при изучении иностранного языка | https://habrahabr.ru/post/331454/
+
+Как семантические технологии улучшают онлайн-образование: проект ученых Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/331410/
+
+Российские студенты доминируют на олимпиадах по программированию и американские студенты этому не удивлены | https://habrahabr.ru/post/331364/
+
+Лекция о спортивном программировании в рамках проекта Интеллекций | https://habrahabr.ru/post/331018/
+
+Ловись Data большая и маленькая! (Краткий обзор курсов по Data Science от Cognitive Class) | https://habrahabr.ru/post/331118/
+
+Впервые в России на робототехнической олимпиаде пройдут соревнования беспилотников | https://habrahabr.ru/company/innopolis_university/blog/330972/
+
+Один урок программирования | https://habrahabr.ru/post/330744/
+
+Информационная безопасность: не ждите «жареного петуха» — он сам придет | https://habrahabr.ru/company/redsys/blog/330592/
+
+Самообразование и Hello, world: проблема вводных курсов и не только | https://habrahabr.ru/post/330556/
+
+ТОП 100 англоязычных сайтов об IT | https://habrahabr.ru/company/cloud4y/blog/329936/
+
+I want to break free. Чему и как учиться, чтобы сбежать от 1С | https://habrahabr.ru/post/329906/
+
+Natural Language Processing — как это будет по-русски? | https://habrahabr.ru/company/stepic/blog/329386/
+
+IT — проект со школьниками: несколько рекомендаций | https://habrahabr.ru/post/329758/
+
+Chronobank: продаём время, «покупаем» людей | https://habrahabr.ru/post/329738/
+
+Дайджест IT событий конца мая-июнь | https://habrahabr.ru/company/everydaytools/blog/329450/
+
+ТОП-11 бесплатных ресурсов для изучения английской грамматики | https://habrahabr.ru/company/englishdom/blog/329382/
+
+Простой алгоритм проверки победы в крести-нолики на не стандартном поле | https://habrahabr.ru/post/329300/
+
+Golos — часть I: нарушенная хронология, или коротко о главном | https://habrahabr.ru/post/329278/
+
+Два слова об абстрактных силах, управляющих Мирами | https://habrahabr.ru/post/329156/
+
+VMware vSphere 6 для технических писателей | https://habrahabr.ru/post/329036/
+
+Туры в исследовательском тестировании. Личный перевод из книги Д. Виттакера «Исследовательское тестирование ПО» | https://habrahabr.ru/post/328990/
+
+Лучшие игрушки для будущих технарей времён нашего детства (СССР и США) | https://habrahabr.ru/company/cloud4y/blog/328870/
+
+Почему вы не отвечаете на мой вопрос? | https://habrahabr.ru/post/328530/
+
+Как учить по 100 английских слов в день | https://habrahabr.ru/company/englishdom/blog/328112/
+
+Английский для собеседований в IT-компании: что нужно для старта карьеры? | https://habrahabr.ru/company/englishdom/blog/328038/
+
+14 полезных сервисов и приложений для изучения английского | https://habrahabr.ru/company/englishdom/blog/327500/
+
+Теперь можно научиться дизайну интерфейсов на Coursera | https://habrahabr.ru/company/mipt/blog/327438/
+
+Мозгойога для ленивых или Индивидуальная интеллектуальная деятельность, или Основы дивергентного мышления на практике | https://habrahabr.ru/post/326952/
+
+С чего начинать программировать в доп. образовании? Или SmallBasic и все-все-все | https://habrahabr.ru/post/326926/
+
+Лучшие онлайн-курсы по Data Science | https://habrahabr.ru/company/studyqa/blog/326808/
+
+30 IT-мероприятий, которые вы можете посетить этой весной | https://habrahabr.ru/company/everydaytools/blog/326742/
+
+IT-стажировки: ожидание vs реальность | https://habrahabr.ru/company/icanchoose/blog/326702/
+
+Яндекс глазами стажера | https://habrahabr.ru/company/yandex/blog/326518/
+
+10 нелепых заблуждений о блокчейн | https://habrahabr.ru/company/icanchoose/blog/326466/
+
+Кроме науки: чем еще увлекаются наши студенты | https://habrahabr.ru/company/spbifmo/blog/326396/
+
+Приглашаю на выставку и конференцию по виртуальной реальности | https://habrahabr.ru/company/miip/blog/326352/
+
+Антифрод. Закон. Сотовая связь: мои вопросы | https://habrahabr.ru/post/326336/
+
+Финтех: адаптируйся или умри | https://habrahabr.ru/company/icanchoose/blog/325902/
+
+Календарь ИТ-мероприятий на апрель '17 | https://habrahabr.ru/company/Voximplant/blog/325740/
+
+Сравнение OpenMP на различных платформах | https://habrahabr.ru/post/325360/
+
+Опыт разработки автоматизированной системы прокторинга для подтверждения результатов онлайн-экзаменов | https://habrahabr.ru/post/325296/
+
+Особенности интернет-эквайринга и альтернативные платежные инструменты на европейском рынке | https://habrahabr.ru/company/payonline/blog/312380/
+
+Открытая лекция Сергея Зыкова о первоапрельских акциях в играх | https://habrahabr.ru/company/miip/blog/324974/
+
+Дороги, которые нас изменяют | https://habrahabr.ru/post/324872/
+
+Брутим crackme#03 от korsader | https://habrahabr.ru/post/324884/
+
+90+ бесплатных ресурсов для самостоятельного обучения онлайн | https://habrahabr.ru/post/324638/
+
+МФТИ запустил онлайн-курс по управлению инновационными проектами | https://habrahabr.ru/company/mipt/blog/324236/
+
+Как нелюбовь к коду помогла мне «прокачать» навыки дизайнера | https://habrahabr.ru/company/everydaytools/blog/324258/
+
+Пять причин, почему вам придется выучить английский язык | https://habrahabr.ru/company/englishdom/blog/323002/
+
+Из инженера в iOS-программисты | https://habrahabr.ru/post/324000/
+
+Инженер VS Программист. Или куда уходят инженеры | https://habrahabr.ru/post/323866/
+
+15-го марта пройдет вебинар, посвященный особенностям платежного бизнеса и интернет-эквайринга в Европе | https://habrahabr.ru/company/payonline/blog/312376/
+
+Разнообразный и мотивирующий «Английский онлайн» | https://habrahabr.ru/company/englishdom/blog/322992/
+
+Топ ключевых угроз, сильных трендов и многообещающих технологий. Прогнозы Gartner на ближайшие несколько лет | https://habrahabr.ru/company/solarsecurity/blog/322858/
+
+Как я сдавал экзамен Hortonworks Data Platform Certified Administrator (HDPCA) | https://habrahabr.ru/post/320586/
+
+Опыт подготовки и прохождения экзамена Oracle Certified Professional Java SE 8 Programmer 1Z0-810 | https://habrahabr.ru/post/322606/
+
+Опыт создания курса по Android разработке на Udemy | https://habrahabr.ru/post/322592/
+
+Приглашаем на мартовские открытые лекции по игровой индустрии и IT в ВШБИ | https://habrahabr.ru/company/miip/blog/322228/
+
+«Другие блоги»: Преподаватели, выпускники и студенты Университета ИТМО на Хабре | https://habrahabr.ru/company/spbifmo/blog/322282/
+
+Российские стартаперы не достигают успеха из-за лени | https://habrahabr.ru/company/innopolis_university/blog/322222/
+
+Как я научился кодить, создал веб-приложение и запустил его на Product Hunt за 2 месяца | https://habrahabr.ru/company/everydaytools/blog/322068/
+
+Как получить опыт работы, не имея опыта работы: разрываем замкнутый круг дизайнера-новичка | https://habrahabr.ru/company/everydaytools/blog/321940/
+
+Как опыт создания битов может помочь разобраться в HTML и CSS | https://habrahabr.ru/company/everydaytools/blog/321860/
+
+Скорочтение. Как быстро поглощать информацию, зная структуру текста | https://habrahabr.ru/company/smartprogress/blog/321770/
+
+От нулевого опыта к 6-значной зарплате: пьеса в 8 действиях | https://habrahabr.ru/company/everydaytools/blog/321566/
+
+Школа мобильного маркетинга, UI дизайна и Unity 3D разработки своими руками | https://habrahabr.ru/company/everydaytools/blog/321412/
+
+Однодневная конференция по игровой индустрии в ВШБИ 11 февраля | https://habrahabr.ru/company/miip/blog/321356/
+
+Прокрастинация. Как посадить в клетку демона, который мешал двигаться к цели | https://habrahabr.ru/company/smartprogress/blog/321188/
+
+О состоянии дел в области детского технического творчества. Ближайшие перспективы | https://habrahabr.ru/post/320974/
+
+Цель как антидепрессант | https://habrahabr.ru/company/smartprogress/blog/320922/
+
+Еще одна история сдачи экзамена JNCIE-SP | https://habrahabr.ru/post/320706/
+
+Попытка научить студентов программировать и о том, где этот процесс можно и нужно автоматизировать | https://habrahabr.ru/post/320426/
+
+Олимпиада МФТИ по электронике для школьников | https://habrahabr.ru/company/mipt/blog/320344/
+
+Курс «Grant Proposal»: как найти правильные слова, чтобы привлечь внимание и деньги к вашей разработке | https://habrahabr.ru/company/mipt/blog/320042/
+
+Приемная кампания 2017: Полезные ссылки и материалы для будущих бакалавров, магистров и аспирантов Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/320020/
+
+Почему в России много идей, но мало стартапов | https://habrahabr.ru/company/innopolis_university/blog/319960/
+
+Первый митап Amazon Web Services User Group Russia | https://habrahabr.ru/post/319896/
+
+Скорочтение. Как запоминать и понимать больше, если научился читать в восемь раз быстрее | https://habrahabr.ru/company/smartprogress/blog/319648/
+
+Высшее образование и ИТ — текущие реалии и перспективы, мнения и опыт экспертов | https://habrahabr.ru/post/319342/
+
+Стандартные вопросы на программистских форумах требуют стандартных ответов | https://habrahabr.ru/post/319012/
+
+WRO 2016: премьера фильма о победах сборной России на Всемирной олимпиаде роботов | https://habrahabr.ru/company/innopolis_university/blog/318672/
+
+Как разговаривать с мудаками. 7 стратегий общения с неадекватными людьми | https://habrahabr.ru/company/smartprogress/blog/318390/
+
+Скорочтение. Как читать в восемь раз быстрее, если тебя преследуют демоны | https://habrahabr.ru/company/smartprogress/blog/317400/
+
+Почему мы злые? | https://habrahabr.ru/post/317880/
+
+Задание с экзамена по защите информации | https://habrahabr.ru/post/317818/
+
+Академия Гениев | https://habrahabr.ru/company/lenovo/blog/317772/
+
+Как стать Oracle Certified Professional Java SE 8 Programmer | https://habrahabr.ru/post/317432/
+
+Глобальный конкурс задач Stepik Contest | https://habrahabr.ru/company/stepic/blog/317062/
+
+5 лучших книг начинающего предпринимателя + 1 совет | https://habrahabr.ru/company/smartprogress/blog/316894/
+
+SmartDigest #1. Что читать или лучшее из книг за неделю | https://habrahabr.ru/company/smartprogress/blog/316480/
+
+Идея для Хабра: уровни сложности статей | https://habrahabr.ru/post/316474/
+
+Краткое руководство как стать Google Certified Associate Android Developer | https://habrahabr.ru/post/316426/
+
+Как писать конспекты, если ты программист | https://habrahabr.ru/post/316404/
+
+You, Inc. Как развить личные и профессиональные навыки, продать их и выделиться из толпы | https://habrahabr.ru/company/smartprogress/blog/315916/
+
+Приглашаем 3 декабря на мастер-класс по трудоустройству в игровую индустрию | https://habrahabr.ru/company/miip/blog/315584/
+
+Защитить диплом. Пять минут позора или достойное выступление | https://habrahabr.ru/post/315756/
+
+5 книг, которые помогут мыслить нестандартно и почему это важно именно сейчас | https://habrahabr.ru/company/smartprogress/blog/315510/
+
+Как решать простые задачи оптимизации на питоне с помощью cvxpy | https://habrahabr.ru/post/315236/
+
+Онлайн курс по компьютерным сетям начального уровня | https://habrahabr.ru/post/315116/
+
+Легко ли учить людей делать сайты? | https://habrahabr.ru/post/315112/
+
+Как провести «Час Кода»: казахстанский опыт | https://habrahabr.ru/post/314950/
+
+Ждём всех на GeekWeek 2016: учись и развлекайся | https://habrahabr.ru/company/geekbrains/blog/314708/
+
+7 вещей о книгах и жизни, которые я узнал, прочитав 100 книг за год | https://habrahabr.ru/company/smartprogress/blog/314566/
+
+«Здесь все помешаны на программировании, простое общение никому не интересно» | https://habrahabr.ru/company/innopolis_university/blog/314696/
+
+Как проходят уроки информатики в разных странах мира: 5 основных выводов | https://habrahabr.ru/post/314372/
+
+В поисках предела. 6 мифов эффективности, которые я развеял, работая по 14 часов в день на протяжении месяца | https://habrahabr.ru/company/smartprogress/blog/313894/
+
+Как писать на английском языке научные статьи в журналы и заявки на гранты | https://habrahabr.ru/company/mipt/blog/313668/
+
+Как стать умнее в мире, где нас хотят оставить идиотом | https://habrahabr.ru/company/smartprogress/blog/313502/
+
+30 толковых книг по бизнесу, саморазвитию и творчеству, которые изменили мою жизнь | https://habrahabr.ru/company/smartprogress/blog/312726/
+
+Алгоритм чтения книг по программированию | https://habrahabr.ru/post/312932/
+
+Защита от акул, сверхлегкие дроны и телепортация фотонов: Настоящее и будущее технологий «доставки» информации | https://habrahabr.ru/company/it-grad/blog/312036/
+
+Финансовые технологии, которыми пользуются дети | https://habrahabr.ru/company/payonline/blog/305650/
+
+Успех на автопилоте. Как найти любимое занятие, заработать на нём кучу денег и купить счастье | https://habrahabr.ru/company/smartprogress/blog/312130/
+
+Сертификации CompTIA для ИТ-специалистов. Часть 3 из 7. CompTIA Cloud+ | https://habrahabr.ru/company/muk/blog/311834/
+
+Трансгуманизм: Новая ступень эволюции или конец человечества | https://habrahabr.ru/company/it-grad/blog/310634/
+
+Как преподнести учащимся курсовой/дипломный проект или строим «башню» со второго этажа | https://habrahabr.ru/post/311632/
+
+Город-сказка: работа мечты в Иннополисе | https://habrahabr.ru/company/itpark/blog/311686/
+
+Как ответить на вопрос — что такое «компьютерный вирус» | https://habrahabr.ru/post/305268/
+
+Успех на автопилоте. 9 привычек, которые изменили мою жизнь | https://habrahabr.ru/company/smartprogress/blog/311516/
+
+Сертификации CompTIA для ИТ-специалистов. Часть 5 из 7. CompTIA CASP (Advanced Security Practitioner) | https://habrahabr.ru/company/muk/blog/311548/
+
+Дино Эспозито: «Здесь разработчики более востребованы, а их труд оплачивается выше» | https://habrahabr.ru/company/plarium/blog/311308/
+
+The Game of Java: Java-конференция в Киеве 14-15 октября 2016 года | https://habrahabr.ru/company/javarush/blog/311192/
+
+Что нельзя говорить со сцены на ИТ-конференциях, но очень хочется | https://habrahabr.ru/post/311000/
+
+Из физиков в Data Science (Из двигателей науки в офисный планктон). Вторая часть | https://habrahabr.ru/post/310776/
+
+5 стипендий в области Computer Science | https://habrahabr.ru/company/studyqa/blog/310756/
+
+Компания ISPsystem: мы проводим хакатон | https://habrahabr.ru/company/ispsystem/blog/310578/
+
+Создание проекта в Adobe Captivate поэтапно на примере «модели бортового компьютера» для ролевой игры живого действия | https://habrahabr.ru/post/310382/
+
+Алан Кей: Будущее «чтения» зависит от будущего «обучения сложным для понимания вещей» | https://habrahabr.ru/company/edison/blog/310588/
+
+Пол Грэм: Что надо делать в вузе, чтобы стать хорошим хакером | https://habrahabr.ru/company/edison/blog/310232/
+
+Современная web-разработка для школьников | https://habrahabr.ru/company/1c_club/blog/310166/
+
+Сьюзен Войжитски: от студента CS50 до CEO Youtube | https://habrahabr.ru/company/javarush/blog/309764/
+
+Обзор возможностей инструмента Adobe Captivate | https://habrahabr.ru/post/309698/
+
+Future is now: что будет на JavaDay Kharkiv 2016, 17 сентября | https://habrahabr.ru/company/javarush/blog/309338/
+
+Онлайн-программа по анализу данных на Stepik.org | https://habrahabr.ru/company/stepic/blog/309258/
+
+Как получить стажировку | https://habrahabr.ru/post/309044/
+
+Выпускники онлайн-программы делятся впечатлениями | https://habrahabr.ru/company/spbau/blog/309016/
+
+Будущее компьютерных технологий: обзор современных трендов | https://habrahabr.ru/company/plarium/blog/308776/
+
+Начинать программировать никогда не рано: взгляд девятилетнего | https://habrahabr.ru/post/308554/
+
+Кто Вы, профессор Малан? | https://habrahabr.ru/company/javarush/blog/308226/
+
+Как починить «сломанный» VPS сервер на Linux | https://habrahabr.ru/company/ruvds/blog/307976/
+
+Забудьте про иностранные языки и музыку — учите детей программированию | https://habrahabr.ru/post/306390/
+
+Приглашаем на открытую лекцию Вячеслава Уточкина “Монетизационные акции: как удвоить доходы своей игры” | https://habrahabr.ru/company/miip/blog/307978/
+
+Кто виноват, и что делать, если айтишник скучает на работе. Результаты опроса | https://habrahabr.ru/company/newprolab/blog/307870/
+
+О летней школе Sailfish OS 2016 | https://habrahabr.ru/post/307834/
+
+Систематизация публикаций в web. Часть 3 из 3: Стратегия размещение научных публикаций | https://habrahabr.ru/post/307328/
+
+SQL и XPath против РосРеестра | https://habrahabr.ru/post/307294/
+
+10 приёмов, позволяющих ощутить себя специалистом, работая с Google Drive | https://habrahabr.ru/post/307198/
+
+Кому ИКРА? Школа креативного мышления для мира digital | https://habrahabr.ru/company/ikraikra/blog/307196/
+
+IT-студент с жаждой путешествий? Пора в магистратуру | https://habrahabr.ru/post/307052/
+
+Обзор двух курсов специализации «Machine Learning» ресурса Coursera | https://habrahabr.ru/post/307048/
+
+МФТИ: заканчивается прием заявок в онлайн-магистратуру по современной комбинаторике | https://habrahabr.ru/company/mipt/blog/306912/
+
+Развернутый комментарий к статьям «Систематизация публикаций в web» | https://habrahabr.ru/post/306790/
+
+Систематизация публикаций в web. Часть 2 из 3: Три шага к научной респектабельности | https://habrahabr.ru/post/306648/
+
+Гарвардский курс CS50 на русском: появились 3 и 4 лекции | https://habrahabr.ru/company/javarush/blog/306482/
+
+Игровое образование в России | https://habrahabr.ru/company/miip/blog/306374/
+
+AI 101: введение в автоматизацию и искусственный интеллект в аутсорсинге | https://habrahabr.ru/company/icl_services/blog/306454/
+
+«Пятничный формат»: AI – новый враг или новый бог | https://habrahabr.ru/company/it-grad/blog/304660/
+
+Систематизация публикаций в web. Часть 1 из 3: Постановка задачи | https://habrahabr.ru/post/305994/
+
+Автовыход пользователя на сервере Windows. Использование его для оптимизации работы вашего VDS / VPS сервера | https://habrahabr.ru/company/ultravds/blog/305988/
+
+Тонкий клиент Win2008 R2 (AD+TFTP)+thinkstation+Win2008 R2 (RDP) | https://habrahabr.ru/post/305768/
+
+Язык межпрофессионального общения. Результаты опроса | https://habrahabr.ru/company/newprolab/blog/305676/
+
+Как подключиться к серверу по RDP c Windows, Mac OS, iPhone, iPad, Android, Ubuntu или Debian (Linux ОС) | https://habrahabr.ru/company/ultravds/blog/305672/
+
+Городской АД: школьники и студенты | https://habrahabr.ru/company/goto/blog/305526/
+
+МФТИ запустил онлайн-магистратуру по современной комбинаторике | https://habrahabr.ru/company/mipt/blog/305296/
+
+Как вузы учат будущих безопасников? | https://habrahabr.ru/post/305072/
+
+Как изучать языки программирования | https://habrahabr.ru/post/304816/
+
+Опрос: нужен ли айтишнику английский язык? | https://habrahabr.ru/company/newprolab/blog/304696/
+
+Учите детей программировать — они изменят мир | https://habrahabr.ru/post/304556/
+
+Финтех: почему программистов здесь ждут | https://habrahabr.ru/company/Voximplant/blog/304538/
+
+Бесплатная магистратура в одном из топовых вузов мира: Италия | https://habrahabr.ru/post/304394/
+
+Лучшие IT-курсы западных вузов по версии хабрасообщества 2016 года | https://habrahabr.ru/company/javarush/blog/304464/
+
+Все же хотим сытого и светлого будущего для своих детей? | https://habrahabr.ru/post/304380/
+
+Экзамены для поступления в «бесплатную» магистратуру в США | https://habrahabr.ru/post/304254/
+
+Гарвардский курс CS50 на русском: появилась вторая лекция | https://habrahabr.ru/company/javarush/blog/304218/
+
+Поступление в «бесплатную» магистратуру в США. Часть первая | https://habrahabr.ru/post/304170/
+
+Гарвардский курс по основам программирования CS50 теперь на русском | https://habrahabr.ru/company/javarush/blog/303806/
+
+7 правил написания технической документации мирового класса | https://habrahabr.ru/post/303760/
+
+Сотню старичков могут выбросить на улицу | https://habrahabr.ru/company/serverclub/blog/303708/
+
+Конспект книги Т. Дэвенпорта и К. Джин Хо «О чём говорят цифры. Как понимать и использовать данные» | https://habrahabr.ru/post/303298/
+
+GoTo АД. Летние школы по программированию, анализу данных и робототехнике для самых упоротых старшеклассников | https://habrahabr.ru/company/goto/blog/302334/
+
+Летняя школа Wolfram: рассказ участника | https://habrahabr.ru/company/wolfram/blog/303000/
+
+Рекомендательные системы в онлайн-образовании | https://habrahabr.ru/company/stepic/blog/302702/
+
+Айтрекер на службе консультанта по презентациям | https://habrahabr.ru/company/poborchy/blog/302648/
+
+Wolfram технологии: 4-я российская конференция | https://habrahabr.ru/company/wolfram/blog/302566/
+
+Освоение программирования – без проблем | https://habrahabr.ru/post/302556/
+
+Чемпионат студенческих IT-проектов Техностарт-2016 | https://habrahabr.ru/company/mailru/blog/302290/
+
+Техносфера Mail.Ru: проекты студентов, лаборатория и чемпионаты по Data Science | https://habrahabr.ru/company/mailru/blog/301236/
+
+Honor Cup | https://habrahabr.ru/company/huawei/blog/300924/
+
+Как выбрать лучшего поставщика услуг ИТ-аутсорсинга? | https://habrahabr.ru/company/icl_services/blog/300582/
+
+«Динамические» онлайн-курсы потребуют нового «нормализованного» контента | https://habrahabr.ru/company/nerepetitor/blog/300566/
+
+Стихийный геймдизайн | https://habrahabr.ru/company/universarium/blog/300528/
+
+Видео: конкурс технологических стартапов Danske Ideer 2016 | https://habrahabr.ru/company/yasno_tv/blog/300316/
+
+Интернет вещей для бизнес-объектов (часть 7) | https://habrahabr.ru/post/300170/
+
+Интернет вещей для бизнес-объектов (часть 6) | https://habrahabr.ru/post/300168/
+
+Интернет вещей для бизнес-объектов (часть 5) | https://habrahabr.ru/post/300166/
+
+6 бесплатных бизнес-курсов как альтернатива MBA | https://habrahabr.ru/company/icanchoose/blog/300198/
+
+Интернет вещей для бизнес-объектов (часть 4) | https://habrahabr.ru/post/300164/
+
+Интернет вещей для бизнес-объектов (часть 3) | https://habrahabr.ru/post/300090/
+
+Интернет вещей для бизнес-объектов (часть 2) | https://habrahabr.ru/post/300066/
+
+Интернет вещей для бизнес-объектов (часть 1) | https://habrahabr.ru/post/299910/
+
+Визуальные искажения данных | https://habrahabr.ru/company/poborchy/blog/299612/
+
+Экскурсия в нанокластер Дании: 4 разных отдела | https://habrahabr.ru/company/yasno_tv/blog/299600/
+
+Что надо знать об информационных инструментах управления | https://habrahabr.ru/post/299236/
+
+Какие IT специалисты сейчас в спросе в Германии, Нидерландах и на Мальте (часть 2) | https://habrahabr.ru/company/itroles/blog/299370/
+
+Тонкости ознакомительного интервью или как простые вещи играют решающую роль | https://habrahabr.ru/company/itroles/blog/299172/
+
+Как обычному менеджеру вместе с хардкорным технарем прокачаться до IT-управленца? | https://habrahabr.ru/post/299108/
+
+Что не так с вашим IT резюме — анализ на основе опыта | https://habrahabr.ru/company/itroles/blog/298992/
+
+Как педагогу распространять свои цифровые образовательные ресурсы | https://habrahabr.ru/post/298972/
+
+Call to action в технической презентации | https://habrahabr.ru/company/poborchy/blog/298948/
+
+Зачем нужна теория вероятностей в жизни | https://habrahabr.ru/company/yasno_tv/blog/298898/
+
+Как узнать, достаточен ли ваш уровень английского для работы за границей | https://habrahabr.ru/company/itroles/blog/298872/
+
+Три технических совета по работе со слайдами | https://habrahabr.ru/company/poborchy/blog/298690/
+
+Что у меня получилось за пять месяцев обучения по программе Data Analyst Nanodegree от Udacity | https://habrahabr.ru/post/298656/
+
+Обратная сторона Startup Chile +видеоинтервью | https://habrahabr.ru/company/smartprogress/blog/298574/
+
+Быстрый старт в изучении анализа данных и машинного обучения от МФТИ и Яндекса | https://habrahabr.ru/company/mipt/blog/298544/
+
+В чём не следует подражать Джобсу | https://habrahabr.ru/company/poborchy/blog/298534/
+
+Какие IT специалисты сейчас в спросе в Германии (отчет по результатам работы) | https://habrahabr.ru/company/itroles/blog/298398/
+
+Как мы увеличили команду поддержки в 3 раза без потери качества | https://habrahabr.ru/company/wrike/blog/298396/
+
+Три свойства хорошего примера в технологическом выступлении | https://habrahabr.ru/company/poborchy/blog/298364/
+
+3 бизнес-симулятора MIT: ценообразование продажи соли, развитие экологического стартапа, доминирование игровой платформы | https://habrahabr.ru/company/bpsimulator/blog/298240/
+
+Party Hard! — железячная конференция и выставка в Минске | https://habrahabr.ru/company/promwad/blog/275961/
+
+«Голый кондуктор бежит под вагоном». Об онлайн переводе | https://habrahabr.ru/post/275715/
+
+Как за пару недель увеличить скорость чтения в 2 раза | https://habrahabr.ru/post/297976/
+
+Использование голосового набора текста в Mac OS X | https://habrahabr.ru/post/297782/
+
+3 бизнес-игры IBM: клиентское обслуживание, цепь поставок и трафик | https://habrahabr.ru/company/bpsimulator/blog/297682/
+
+Что общего у предпринимателя, системного аналитика и гипнотизёра? И где здесь IT | https://habrahabr.ru/post/297594/
+
+Как добиться повышенной концентрации внимания во время подготовки к тестам | https://habrahabr.ru/company/testutor/blog/297480/
+
+Памятка начинающего преподавателя, или почему нытикам не стоит работать в ВУЗах | https://habrahabr.ru/post/297426/
+
+Памятка начинающего преподавателя, или почему не стоит работать преподавателем в вузе | https://habrahabr.ru/post/297412/
+
+Идея! Давайте вместе создадим рейтинг вузов | https://habrahabr.ru/company/levelpride/blog/297198/
+
+7 витаминов для сервиса. Как обеспечить сервис командой мотивированных сотрудников | https://habrahabr.ru/company/icl_services/blog/297108/
+
+Совмещаем изучение английского языка с досугом | https://habrahabr.ru/post/296886/
+
+Зачем ходить на IT-конференции, даже если вы не айтишник? | https://habrahabr.ru/company/ichar/blog/296910/
+
+Как мы сделали революцию в назначении стипендий студентам | https://habrahabr.ru/company/levelpride/blog/296842/
+
+Обучающий видео-курс «Как устроен интернет» | https://habrahabr.ru/company/yasno_tv/blog/296834/
+
+Как проходит интервью в самый известный акселератор 500 Startups. Наш опыт | https://habrahabr.ru/company/biotrack/blog/296630/
+
+IT Global Meetup: взгляд изнутри. Идеолог инициативы Piter United о ежеквартальных слетах IT-специалистов Петербурга | https://habrahabr.ru/company/ichar/blog/296616/
+
+Стратегии эффективного обучения для программистов. Часть 2 | https://habrahabr.ru/company/paysto/blog/296048/
+
+Стратегии эффективного обучения для программистов. Часть 1 Установка на рост | https://habrahabr.ru/company/paysto/blog/295978/
+
+Desmos – онлайн графический калькулятор | https://habrahabr.ru/post/295838/
+
+Самыми успешными топ-менеджерами в будущем могут оказаться геймеры | https://habrahabr.ru/post/295824/
+
+Есть ли в регионах IT-предпринимательство? | https://habrahabr.ru/company/ichar/blog/295756/
+
+Научный органайзер Citavi: установка и первоначальная настройка | https://habrahabr.ru/post/295676/
+
+Как порешить? Учить… иль менеджером быть… | https://habrahabr.ru/post/295626/
+
+Как за 2 часа овладеть древним знанием «Лояльные клиенты» или сериал «Поговорим за чашечкой кофе» | https://habrahabr.ru/company/impro/blog/295590/
+
+Bloomberg Businessweek опубликовал необыкновенный рейтинг бизнес-школ мира | https://habrahabr.ru/post/295588/
+
+«Программирование для начинающих» + теория вероятностей | https://habrahabr.ru/company/yasno_tv/blog/295150/
+
+Летние IT-школы в Якутии: как это сделано | https://habrahabr.ru/post/294834/
+
+Конкурс для предпринимателей: победители получат до €25 тысяч на обучение по программе «СКОЛКОВО MBA» | https://habrahabr.ru/post/294826/
+
+Как попасть в акселератор Стартап-Чили. Интервью со стартапом Keywordtool | https://habrahabr.ru/company/cloverr/blog/294722/
+
+В конце сентября в России открывается национальная образовательная онлайн-платформа | https://habrahabr.ru/post/294560/
+
+Как попасть в акселератор Стартап Чили и получить инвестиции на стартап — Startup Chile | https://habrahabr.ru/company/cloverr/blog/294502/
+
+Как получить Blue Card или вид на жительство в Германии и сколько это стоит | https://habrahabr.ru/company/itroles/blog/294470/
+
+Обучение начинающих дизайнеров | https://habrahabr.ru/company/paysto/blog/294430/
+
+Как мы участвовали в хакатоне | https://habrahabr.ru/company/supereon/blog/294328/
+
+50+ полезных ресурсов для самообучения | https://habrahabr.ru/post/294326/
+
+Facebook проспонсирует новосибирскую олимпиаду по программированию | https://habrahabr.ru/post/294146/
+
+Как добиться успеха в нелюбимом деле? | https://habrahabr.ru/company/smartprogress/blog/294086/
+
+Быстрый путь к успеху Pixar с Академией Хана | https://habrahabr.ru/post/294098/
+
+Осенние онлайн-курсы от Computer Science Center и Академического университета | https://habrahabr.ru/company/spbau/blog/293952/
+
+Как мы сравнивали КСС. Часть 2 | https://habrahabr.ru/company/supereon/blog/293840/
+
+Как я поступал на магистратуру во Францию | https://habrahabr.ru/post/293616/
+
+Памятка будущему PM | https://habrahabr.ru/post/293764/
+
+Советы — как понимать больше, запоминать дольше | https://habrahabr.ru/post/293730/
+
+5 практических способов ускорения обучения | https://habrahabr.ru/post/293720/
+
+Образование мультипликативно | https://habrahabr.ru/post/293664/
+
+Онлайн-программа по основам программирования | https://habrahabr.ru/company/spbau/blog/293596/
+
+Идеальная презентация для стартапа: 3 минуты 44 секунды на убеждение инвесторов | https://habrahabr.ru/company/friifond/blog/293444/
+
+Выбор серверного окружения или как не нужно ставить Moodle | https://habrahabr.ru/post/293426/
+
+Наталья Багрова и Евгения Карпова: «Образовательную программу DataArt мы сделали сами» | https://habrahabr.ru/company/dataart/blog/292934/
+
+Создание студенческой организации разработчиков ПО | https://habrahabr.ru/post/292408/
+
+Гид Университета Иннополис по конкурсам и грантам | https://habrahabr.ru/company/innopolis_university/blog/292226/
+
+Почему так трудно стать программистом? | https://habrahabr.ru/post/292092/
+
+Почему не нужно учиться программировать | https://habrahabr.ru/company/kidsncode/blog/292032/
+
+Иллюзорность стартапов | https://habrahabr.ru/post/291894/
+
+Самообучение английскому — оптимальная организация времени. Практика занятий по методу Умин для компьютера и смартфона | https://habrahabr.ru/post/291714/
+
+Твитер, Бобук, Биткоин | https://habrahabr.ru/company/avoapp/blog/291680/
+
+Как мы попали в акселератор Sabantuy CEO CAMP | https://habrahabr.ru/company/nubex/blog/291594/
+
+Школа инвестиций: Обучение эффективным инвестициям в стартапы | https://habrahabr.ru/company/friifond/blog/291470/
+
+Как поделить один планшет со всеми членами семьи и детьми? | https://habrahabr.ru/company/whisperarts/blog/291422/
+
+Магистратура в Швеции: особенности, поступление, стоимость обучения | https://habrahabr.ru/company/mbaconsult/blog/291320/
+
+QR-код Шредингера: когда монохромный рисунок «оживет»? | https://habrahabr.ru/company/skbkontur/blog/291380/
+
+Как меня занесло в UX | https://habrahabr.ru/post/291350/
+
+Эмоциональное образование | https://habrahabr.ru/company/paysto/blog/291296/
+
+Незаменимые ресурсы для изучения иностранных языков | https://habrahabr.ru/company/icanchoose/blog/291222/
+
+DataArt.EDU, или 240 000 часов учебы без университетов | https://habrahabr.ru/company/dataart/blog/291206/
+
+Особенности работы инженеров медико-технического профиля | https://habrahabr.ru/post/291084/
+
+К черту талант | https://habrahabr.ru/company/paysto/blog/291136/
+
+7 идей о детском user-testing | https://habrahabr.ru/company/kidsncode/blog/291064/
+
+Как не встретить апокалипсис или свести его вероятность к минимуму | https://habrahabr.ru/post/290664/
+
+IT-карьера и учёба в Польше. Как я здесь оказался | https://habrahabr.ru/post/290626/
+
+Школа программирования HeadHunter — как это было на самом деле | https://habrahabr.ru/post/290308/
+
+Опыт получения Data Science specialization на Coursera за 6 месяцев | https://habrahabr.ru/post/290306/
+
+Летняя школа по биоинформатике: научные проекты | https://habrahabr.ru/company/spbau/blog/289894/
+
+Магистратура во Франции: стоимость обучения, проживание, стипендии и гранты, трудоустройство | https://habrahabr.ru/company/mbaconsult/blog/289896/
+
+Simplilearn привлек очередную порцию капитала | https://habrahabr.ru/post/289922/
+
+Cервис для записи конспектов при просмотре on-line видео | https://habrahabr.ru/post/289850/
+
+Записки с iForum-2015 – в помощь стартаперу | https://habrahabr.ru/company/polyglot/blog/289784/
+
+Напутственные слова выступающему на конференции в первый раз | https://habrahabr.ru/post/289742/
+
+Магистратура во Франции: особенности, направления обучения и поступление | https://habrahabr.ru/company/mbaconsult/blog/289630/
+
+«30 day challenge» по веб-программированию | https://habrahabr.ru/post/289514/
+
+Хождение по MOOCам: опыт обучения на онлайн-курсах | https://habrahabr.ru/post/289510/
+
+Учеба в Голландии: стипендии, проживание, виза и работа во время учебы | https://habrahabr.ru/company/mbaconsult/blog/289394/
+
+Coursera. Лучшие апрельские курсы бизнеса, управления и предпринимательства | https://habrahabr.ru/post/289222/
+
+Встреча с создателем MySQL | https://habrahabr.ru/company/acronis/blog/289208/
+
+Как сделать доклад на конференции, если вы этого никогда не делали | https://habrahabr.ru/post/289144/
+
+Учеба в Голландии: особенности, рейтинги, стоимость обучения | https://habrahabr.ru/company/mbaconsult/blog/289108/
+
+Как работать играючи или введение в геймификацию | https://habrahabr.ru/post/289122/
+
+Поступление в магистратуру в Германии | https://habrahabr.ru/post/289064/
+
+От LinguaLeo до 90 уровня | https://habrahabr.ru/post/288980/
+
+Как рассказать школьникам о разработчиках? | https://habrahabr.ru/company/skbkontur/blog/286994/
+
+Магистратура Германии – делимся опытом | https://habrahabr.ru/company/mbaconsult/blog/286954/
+
+Магистратура в Англии | https://habrahabr.ru/company/mbaconsult/blog/286804/
+
+Лучшие университетские кампусы России: живи, учись и отдыхай | https://habrahabr.ru/company/innopolis_university/blog/286574/
+
+Сертификация VMware Virtual Networking | https://habrahabr.ru/post/286494/
+
+«БАРС Груп» и «Ростелеком» внедрили «Электронный Детский Сад» в регионах | https://habrahabr.ru/post/286468/
+
+Поступление на PhD — 2-3. Языковые тесты и GRE | https://habrahabr.ru/post/286426/
+
+Как получить образовательный грант? | https://habrahabr.ru/company/innopolis_university/blog/286382/
+
+5 Мифов об образовании за рубежом | https://habrahabr.ru/company/mbaconsult/blog/286354/
+
+Магистратура за рубежом: гранты и стипендиальные программы | https://habrahabr.ru/company/mbaconsult/blog/286080/
+
+Проблемно-игровой метод мотивации студента специальности «Информационная безопасность» | https://habrahabr.ru/post/286114/
+
+Чек-лист для выступления в стиле TED | https://habrahabr.ru/post/286112/
+
+Британский поставщик онлайн курсов FutureLearn взял миллионную планку | https://habrahabr.ru/post/286060/
+
+О самообразовании в IT | https://habrahabr.ru/post/286022/
+
+Магистратура за рубежом: стоимость обучения | https://habrahabr.ru/company/mbaconsult/blog/285978/
+
+Бесплатный вебинар «Подготовка руководителей, менеджеров и аудиторов к сертификациям в области информационной безопасности» | https://habrahabr.ru/company/muk/blog/285986/
+
+Формализованный метод разбора и анализа нормативных и методических документов, а также синтеза на их основе локальных актов | https://habrahabr.ru/post/285922/
+
+Как Coursera сводит своих студентов с такими работодателями как Google | https://habrahabr.ru/post/285908/
+
+Поступление на PhD — 1. Выбор университета | https://habrahabr.ru/post/285892/
+
+Методика выбора темы диссертации по специальности «Информационная безопасность» | https://habrahabr.ru/post/285842/
+
+Российские студенты не вполне доверяют онлайн-образованию | https://habrahabr.ru/post/285828/
+
+Выбираем магистерскую программу в Азии | https://habrahabr.ru/company/mbaconsult/blog/285792/
+
+Проект разработки образовательной программы по специальности «Информационная безопасность» | https://habrahabr.ru/post/285794/
+
+Кризис кризисом, а учеба по расписанию — накапливайте бонусы на свой учебный счет 2015 в УЦ MUK | https://habrahabr.ru/company/muk/blog/285774/
+
+Магистратура Академического университета открывает набор на 2015 год | https://habrahabr.ru/company/spbau/blog/285764/
+
+Обзорные онлайн-курсы по математике | https://habrahabr.ru/company/spbau/blog/285754/
+
+Выбираем магистерскую программу в Европе и США | https://habrahabr.ru/company/mbaconsult/blog/285718/
+
+Управление IT-компанией: разлучаем теорию с практикой | https://habrahabr.ru/company/redmadrobot/blog/283994/
+
+Возврат инвестиций в MBA Full-Time в Европе | https://habrahabr.ru/company/mbaconsult/blog/284016/
+
+Бакалавриат СПбАУ. Начало | https://habrahabr.ru/company/spbau/blog/283988/
+
+Магистратура за рубежом шаг за шагом | https://habrahabr.ru/company/mbaconsult/blog/283902/
+
+Курс «Управление IT-проектами с применением стандартов PMBOK» в Киеве | https://habrahabr.ru/company/muk/blog/283866/
+
+Как самостоятельно учиться веб-разработке | https://habrahabr.ru/company/paysto/blog/283854/
+
+Минкомсвязи подвело итоги «Часа кода»: в акции приняли участие более 7 миллионов школьников | https://habrahabr.ru/post/283850/
+
+2015: год Учащегося | https://habrahabr.ru/post/283822/
+
+Магистратура в США. Fulbright Graduate Student Program. Часть 2 | https://habrahabr.ru/post/283794/
+
+Учеба по программе МАСА в Израиле | https://habrahabr.ru/post/247901/
+
+Простой клавиатурный тренажер для программистов | https://habrahabr.ru/post/246943/
+
+Учебник программирования для детей | https://habrahabr.ru/post/247533/
+
+Лепим Стартап. Начало | https://habrahabr.ru/post/247341/
+
+Интервальное повторение иностранных слов: Anki, LinguaLeo, Memrise | https://habrahabr.ru/post/246459/
+
+Как дряхлеют большие конторы | https://habrahabr.ru/post/243631/
+
+Ещё раз про образование в школе | https://habrahabr.ru/post/242813/
+
+Девушки и технические науки | https://habrahabr.ru/post/242505/
+
+Как мы делали школу мобильных разработчиков в Саранске | https://habrahabr.ru/post/241778/
+
+Еще раз про учебу и работу ИТ-шника в Германии | https://habrahabr.ru/post/241630/
+
+А если нет ментора? | https://habrahabr.ru/post/241481/
+
+Coursera запустила 18 новых курсов | https://habrahabr.ru/post/241183/
+
+Помнить все: Evernote и Anki | https://habrahabr.ru/post/240451/
+
+Английские слова | https://habrahabr.ru/post/240439/
+
+Высшее образование в Германии стало бесплатным. Для иностранных студентов тоже | https://habrahabr.ru/post/240057/
+
+Хороший менеджер – ленивый менеджер | https://habrahabr.ru/post/238209/
+
+Мой опыт преподавания | https://habrahabr.ru/post/237277/
+
+Автоматизация создания и редактирования списков использованных источников с помощью Mendeley | https://habrahabr.ru/post/236559/
+
+«Learning how to learn»: краткий обзор материалов курса | https://habrahabr.ru/post/236349/
+
+Learning How to Learn: впечатления | https://habrahabr.ru/post/235095/
+
+MPAA и RIAA собираются ввести в США курс обучения авторскому праву для школьников | https://habrahabr.ru/post/235959/
+
+Как я училась в вузе | https://habrahabr.ru/post/235255/
+
+Свой образовательный лагерь с покером, 3d-принтером, роботами и посадкой на Марс | https://habrahabr.ru/post/234567/
+
+Университет Флориды убрал из библиотеки бумажные книги | https://habrahabr.ru/post/234689/
+
+Как поступить в магистратуру США? | https://habrahabr.ru/post/234607/
+
+Степень магистра в Норвегии | https://habrahabr.ru/post/233979/
+
+Новые курсы по безопасности от компании Cisco | https://habrahabr.ru/post/233981/
+
+Грамотность — не в упадке | https://habrahabr.ru/post/231679/
+
+Минобразования Украины отменило запрет 2007 года на использование мобильных телефонов в школах | https://habrahabr.ru/post/233373/
+
+Учеба за границей: Вьетнам | https://habrahabr.ru/post/231881/
+
+О высшем образовании | https://habrahabr.ru/post/225623/
+
+Летняя ФМШ инновационных проектов «Сотворение будущего»: как это было | https://habrahabr.ru/post/231191/
+
+Конспект по подготовке Pitch-выступления | https://habrahabr.ru/post/231013/
+
+Турнир Юных Физиков | https://habrahabr.ru/post/230949/
+
+Как не поступить в вуз США | https://habrahabr.ru/post/230789/
+
+Методы Макдональдса не работают, что делать? | https://habrahabr.ru/post/230783/
+
+Магистратура в США. Fulbright Graduate Student Program. Часть 1 | https://habrahabr.ru/post/230503/
+
+Как с большой вероятностью поступить в североамериканский ВУЗ | https://habrahabr.ru/post/230533/
+
+Как мы учили английский язык в японской школе на Филиппинах | https://habrahabr.ru/post/229829/
+
+Аспирантура в Голландии: Что (учебно-рабочий процесс) | https://habrahabr.ru/post/229845/
+
+Панельная дискуссия «Уничтожит ли интернет университетское образование?» | https://habrahabr.ru/post/229505/
+
+Как я получил работу в Google | https://habrahabr.ru/post/229323/
+
+Первый год на ВМК | https://habrahabr.ru/post/228207/
+
+Полиция Далласа не справилась с новым софтом, 20 задержанных отпустили на свободу | https://habrahabr.ru/post/227613/
+
+Правительство готово оплачивать учебу россиян в иностранных ВУЗах | https://habrahabr.ru/post/227261/
+
+Магистратура или работать? | https://habrahabr.ru/post/226355/
+
+Магистратура в Финляндии — учебный процесс и тонкости поступления 2014 | https://habrahabr.ru/post/225261/
+
+Едете учиться в Тулузу? | https://habrahabr.ru/post/225139/
+
+На Coursera вышел курс от нобелевского лауреата с русским дубляжом | https://habrahabr.ru/post/224695/
+
+Обучение с помощью лекций неэффективно, говорят учёные | https://habrahabr.ru/post/224221/
+
+Интервью с преподавателями Coursera | https://habrahabr.ru/post/223603/
+
+О бедном джуниоре замолвите слово | https://habrahabr.ru/post/222969/
+
+Аспирантура во Франции, личный опыт | https://habrahabr.ru/post/222517/
+
+О начинающих разработчиках и принципах работы с ними | https://habrahabr.ru/post/222727/
+
+Два проекта массового онлайн-сотрудничества | https://habrahabr.ru/post/222345/
+
+5 игр для развития логики и обучения детей программированию | https://habrahabr.ru/post/221019/
+
+Вспомнить всё: нейропрограммирование для дошкольников | https://habrahabr.ru/post/218331/
+
+Клуб анонимных программистов, или почему только псих может стать настоящим программистом | https://habrahabr.ru/post/218727/
+
+Download Peter Thiel’s brain | https://habrahabr.ru/post/218583/
+
+Образование как трансформация человека и развитие личности | https://habrahabr.ru/post/218291/
+
+Программирование на MegaBloks | https://habrahabr.ru/post/207548/
+
+Как я поступил на дистанционное образование в магистратуру Walden (США) | https://habrahabr.ru/post/218209/
+
+Из разработчика в дизайнеры: опыт и советы | https://habrahabr.ru/post/215441/
+
+Научно-образовательная школа МГУ «ЛАНАТ» | https://habrahabr.ru/post/214225/
+
+Кандидатская диссертация. Инструкция по корчеванию научных пней.Часть 2 | https://habrahabr.ru/post/214783/
+
+Кадры решают все | https://habrahabr.ru/post/214159/
+
+Увеличение бюджетных мест по ИТ-специальностям в ВУЗах РФ в 2015-2016 учебном году | https://habrahabr.ru/post/213521/
+
+Какие видеоуроки вы смотрите? | https://habrahabr.ru/post/213487/
+
+Кандидатская диссертация.Инструкция по корчеванию научных пней.Часть 1 | https://habrahabr.ru/post/213367/
+
+Российские прорывные исследования в сфере ИТ | https://habrahabr.ru/post/212623/
+
+Перевод Code Club Scratch Curriculum, краудсорсинг | https://habrahabr.ru/post/211877/
+
+Кто такой новичок? | https://habrahabr.ru/post/211274/
+
+Что такое теория и причем тут научный метод | https://habrahabr.ru/post/210386/
+
+Список литературы для менеджера продукта 80 уровня | https://habrahabr.ru/post/210372/
+
+Центр онлайн-обучения на базе свободного программного обеспечения за 15 минут, или Еще раз о BigBlueButton | https://habrahabr.ru/post/210148/
+
+Coursera запустила специализации | https://habrahabr.ru/post/210120/
+
+Как мы на энтузиазме автоматизаторов обучали | https://habrahabr.ru/post/209852/
+
+Чего никто не говорит новичкам | https://habrahabr.ru/post/209652/
+
+Опрос: Уровень вашего образования | https://habrahabr.ru/post/209416/
+
+Как научить программировать гуманитария | https://habrahabr.ru/post/209284/
+
+Онлайн курсы, взгляд преподавателя + зов разработчикам | https://habrahabr.ru/post/208002/
+
+На работу с чистой совестью | https://habrahabr.ru/post/208320/
+
+Магистратура в Финляндии — опыт уходящего года | https://habrahabr.ru/post/207044/
+
+Информатизация системы образования, взгляд изнутри | https://habrahabr.ru/post/206922/
+
+Как и насколько быстро вы считаете в уме на элементарном уровне? | https://habrahabr.ru/post/206404/
+
+Список скептика | https://habrahabr.ru/post/206202/
+
+Барак Обама призывает всех американцев учить программирование | https://habrahabr.ru/post/205642/
+
+Caltech выложил в онлайн фейнмановские лекции по физике | https://habrahabr.ru/post/205142/
+
+Glyndwr University или еще одна статья об образовании за границей | https://habrahabr.ru/post/204450/
+
+Обучение в сфере веб-разработки, веб-дизайна и интернет-маркетинга | https://habrahabr.ru/post/204204/
+
+5 причин учить детей программированию | https://habrahabr.ru/post/200462/
+
+Проблемы деградации современного высшего образования | https://habrahabr.ru/post/200334/
+
+От чего зависят оценки в техническом вузе? | https://habrahabr.ru/post/199286/
+
+Аспирантура в Голландии: Kак (поиск, собеседование, оформление) | https://habrahabr.ru/post/199214/
+
+Как открыть научный журнал | https://habrahabr.ru/post/168903/
+
+iversity — онлайн курсы от европейской платформы MOOC | https://habrahabr.ru/post/199124/
+
+Российские университеты стали партнерами Coursera | https://habrahabr.ru/post/199086/
+
+Материалы летней школы по биоинформатике | https://habrahabr.ru/post/198784/
+
+Пара интересных книг для революционеров-стартаперов | https://habrahabr.ru/post/197982/
+
+Методики и принципы экстремального программирования | https://habrahabr.ru/post/197760/
+
+Проект General Assembly запустил интерактивный курс для желающих овладеть CSS, JavaScript и HTML | https://habrahabr.ru/post/197712/
+
+Принципы ИТ-профессионала | https://habrahabr.ru/post/197428/
+
+Короткий экскурс в открытие лаборатории робототехники в Лицее в Москве или ответ хабрапосту | https://habrahabr.ru/post/196814/
+
+Так ли необходимо высшее образование системному администратору? | https://habrahabr.ru/post/196242/
+
+Выходят бесплатные курсы от Iversity | https://habrahabr.ru/company/yasno_tv/blog/196192/
+
+Выучить французский и остаться в Тулузе | https://habrahabr.ru/post/195220/
+
+Прочтите это, прежде чем отправить очередное деловое письмо | https://habrahabr.ru/company/alconost/blog/195488/
+
+Молодая поросль, или Найдите мне компьютерный кружок | https://habrahabr.ru/post/195472/
+
+О рейтингах вузов: отделяем зёрна от плевел | https://habrahabr.ru/post/195092/
+
+Вся правда об AgileCamp 2013 | https://habrahabr.ru/post/194510/
+
+Игрофикация учебного процесса | https://habrahabr.ru/post/193516/
+
+Система обучения в американском университете на специальность Computer Science | https://habrahabr.ru/post/193150/
+
+Построение карьеры в большой организации. Tips&tricks | https://habrahabr.ru/post/193366/
+
+Взгляд на проблемы высшего ИТ-образования со стороны преподавателя | https://habrahabr.ru/post/192728/
+
+Программа для вузов «5 в 100» или «игра в догонялки на миллиарды либо выбывание» | https://habrahabr.ru/post/192476/
+
+В попытке заглянуть за пределы своего ВУЗа или еще одно размышление об учебном процессе | https://habrahabr.ru/post/192172/
+
+Аттракцион невиданной щедрости от университета Восточной Финляндии | https://habrahabr.ru/post/191886/
+
+Дай человеку рыбу, и он будет сыт целый день. Предложи ему учиться программированию, и он… | https://habrahabr.ru/post/191158/
+
+Изменения в структуре знания | https://habrahabr.ru/post/190966/
+
+Управление карьерой в IT | https://habrahabr.ru/post/190356/
+
+Учим английский: фильмы, книги, словари | https://habrahabr.ru/post/189684/
+
+Летняя школа по биоинформатике | https://habrahabr.ru/post/189062/
+
+Квест как дипломный проект | https://habrahabr.ru/post/184308/
+
+Семь навыков профессионального программиста | https://habrahabr.ru/post/188430/
+
+Дуальная система образования в Германии — что это такое и с чем ее едят | https://habrahabr.ru/post/187666/
+
+Магистратура по ИТ Сколковского института науки и технологий | https://habrahabr.ru/post/185874/
+
+Изменены сроки приёма экзаменов Microsoft | https://habrahabr.ru/post/185148/
+
+Видеоотчет о положении дел в компьютерной отрасли за 1991 год | https://habrahabr.ru/post/184906/
+
+Как перестать быть «блогером» и почувствовать себя «ученым» | https://habrahabr.ru/post/184894/
+
+Летняя школа системного программирования (SSS'13) | https://habrahabr.ru/post/183532/
+
+Как стать хорошим менеджером | https://habrahabr.ru/post/183252/
+
+Шпаргалка выступающего, или Как я делал свой первый доклад | https://habrahabr.ru/post/182358/
+
+Интенсивность важнее тщательности | https://habrahabr.ru/post/182046/
+
+Опыт обучения школьников программированию | https://habrahabr.ru/post/179307/
+
+Практика в Microsoft USA (резюме и телефонное интервью) | https://habrahabr.ru/post/174787/
+
+Система изучения языка в Дании | https://habrahabr.ru/post/181690/
+
+Как проходит опрос по ИТ | https://habrahabr.ru/post/181528/
+
+Будущее высшего образования | https://habrahabr.ru/post/181267/
+
+Написание диссертации, связанной с it: ожидания и российская действительность | https://habrahabr.ru/post/181043/
+
+А пойдёмте учиться в Гарвард? | https://habrahabr.ru/post/180875/
+
+Неделя бесплатных курсов на Сreative Live | https://habrahabr.ru/post/180463/
+
+Как в вашей компании обстоит дело с учебными отпусками? | https://habrahabr.ru/post/180327/
+
+RE: ВУЗ для IT специалиста: взгляд изнутри | https://habrahabr.ru/post/179891/
+
+Технологический институт Джорджии будет давать степень магистра компьютерных наук онлайн за 7000$ | https://habrahabr.ru/post/179889/
+
+ВУЗ для IT специалиста: взгляд изнутри | https://habrahabr.ru/post/179759/
+
+Мнемоника: можно запомнить даже цифры | https://habrahabr.ru/post/179397/
+
+Мнемоника: можно запомнить всё | https://habrahabr.ru/post/179373/
+
+Последипломная программа Automotive Systems Design в Нидерландах | https://habrahabr.ru/post/178675/
+
+Аспирантура в Киотском Университете. Продолжение | https://habrahabr.ru/post/178529/
+
+10 грантов по €25000 на создание Массовых Открытых Онлайн Курсов. Голосуют все! | https://habrahabr.ru/post/178573/
+
+Университеты США начинают использовать материалы онлайн курсов, в «смешанных» классах | https://habrahabr.ru/post/178503/
+
+Обучение в Японии, в Киотском Университете. Начало | https://habrahabr.ru/post/178277/
+
+Впечатления после первого года бакалавриата в Канаде | https://habrahabr.ru/post/178039/
+
+Обучение в Computer Science центре: НИР и практики | https://habrahabr.ru/post/176641/
+
+Интервью с Эдвардом Йордоном | https://habrahabr.ru/company/payonline/blog/177511/
+
+Хорошая беседа о борьбе с прокрастинацией | https://habrahabr.ru/company/muk/blog/176979/
+
+Электронная вселенная (взгляд на информатику из 80х годов) | https://habrahabr.ru/post/176885/
+
+Как учить английский язык | https://habrahabr.ru/post/176621/
+
+Открытый Java проект для тех, кто ищет первый опыт разработки | https://habrahabr.ru/post/176579/
+
+Как я однажды преподавал программирование не как все | https://habrahabr.ru/post/175885/
+
+Скоро лето | https://habrahabr.ru/post/175809/
+
+Электронные учебники: состояние дел и перспективы | https://habrahabr.ru/post/175843/
+
+SSAS 2012: от многомерной к табличной модели данных | https://habrahabr.ru/post/175587/
+
+На заметку поступающим в американские колледжи | https://habrahabr.ru/post/175543/
+
+Почему MineCraft стоит использовать в образовании | https://habrahabr.ru/post/175087/
+
+30 технологий, которые перевернут образование к 2028 году | https://habrahabr.ru/post/174897/
+
+Некоторые полезные средства настройки графиков (plot) в MATLAB | https://habrahabr.ru/post/174697/
+
+Сказ о том, как один нерадивый провинциал в MIT поступал | https://habrahabr.ru/post/173413/
+
+Программирование в научной работе | https://habrahabr.ru/post/173411/
+
+Перестаньте учить английские слова | https://habrahabr.ru/post/172873/
+
+Professional Doctorate in Engineering в Нидерландах | https://habrahabr.ru/post/172193/
+
+Citavi: профессиональный органайзер научной работы | https://habrahabr.ru/post/172195/
+
+Взгляд изнутри: аспирантура в EPFL. Часть 2 | https://habrahabr.ru/post/171877/
+
+Магистратура в Техническом Университете Мюнхена | https://habrahabr.ru/post/169791/
+
+Логические уровни обучения и психотерапия | https://habrahabr.ru/post/169783/
+
+Взгляд изнутри: аспирантура в EPFL. Часть 1 | https://habrahabr.ru/post/169099/
+
+Сколько английских слов вы знаете? | https://habrahabr.ru/post/168419/
+
+Как научиться писать книги | https://habrahabr.ru/post/168153/
+
+Полтора года жизни под знаком IT. Как менеджер менеджеру | https://habrahabr.ru/post/168017/
+
+Электронные учебники Microsoft SkillPipe для слушателей и тренеров | https://habrahabr.ru/post/167739/
+
+Gamification мобильных игр | https://habrahabr.ru/post/167595/
+
+Обзор предложений Coursera и edX | https://habrahabr.ru/post/166697/
+
+Методика Милашевича обучения техническому переводу | https://habrahabr.ru/post/166527/
+
+Ультиматум | https://habrahabr.ru/post/166473/
+
+Что стопорит инновации в Силиконовой долине? | https://habrahabr.ru/company/alconost/blog/165847/
+
+Лицензионное ПО для учебных заведений. Бесплатно и не совсем | https://habrahabr.ru/post/165839/
+
+[Перевод] Как я читаю книги по программированию | https://habrahabr.ru/post/165753/
+
+Подтвержденные сертификаты от Coursera | https://habrahabr.ru/post/165257/
+
+Эмиграция в Польшу как студент либо как фрилансер | https://habrahabr.ru/post/164783/
+
+Иммиграция в Словакию: как это проходило у меня | https://habrahabr.ru/post/164791/
+
+Визуализация презентаций в стиле IT-компаний | https://habrahabr.ru/post/162983/
+
+«Я не понимаю» | https://habrahabr.ru/post/162919/
+
+Есть ли шансы у MOOC в России | https://habrahabr.ru/post/162833/
+
+Свободное дистанционное образование | https://habrahabr.ru/post/161783/
+
+Как скачать материалы курса с coursera.org — краткое руководство | https://habrahabr.ru/post/161475/
+
+Методы ввода иероглифов | https://habrahabr.ru/post/160249/
+
+Маркетинговые роли в ИТ-компании | https://habrahabr.ru/post/160071/
+
+Цикл Дэвида Колба в жизни | https://habrahabr.ru/post/159321/
+
+Джейлбрейк для высшего образования | https://habrahabr.ru/post/159299/
+
+Инженерный подход к подготовке специалистов по программной инженерии | https://habrahabr.ru/post/158637/
+
+Ошибки на Хабре и как от них избавиться | https://habrahabr.ru/post/158253/
+
+Магистратура в Германии: переезд и первые дни | https://habrahabr.ru/post/154679/
+
+Какими ресурсами Вы предпочитаете пользоваться для самообучения? | https://habrahabr.ru/post/157943/
+
+Необычный способ изучения иностранного языка | https://habrahabr.ru/post/157249/
+
+Обучение без учителя в африканской деревне | https://habrahabr.ru/post/157083/
+
+Какой бывает наука в России | https://habrahabr.ru/post/157049/
+
+«Мнемотехника» и «изучение иностранного языка» несовместимые понятия?! Давайте разберемся | https://habrahabr.ru/post/156599/
+
+Обучение наоборот | https://habrahabr.ru/post/156357/
+
+Когнитивное образование: от зубрёжки к познанию. От инженеров к когнитариям | https://habrahabr.ru/post/155791/
+
+Ещё раз об изучении языков (часть 2) | https://habrahabr.ru/post/155721/
+
+Coursera вне закона в штате Миннесота (обновлено) | https://habrahabr.ru/post/155411/
+
+Зачем нужны попы в ВУЗе? | https://habrahabr.ru/post/155041/
+
+Как я решил потихоньку учить питон, а попал в дебри CS188.1x Artificial Intelligence | https://habrahabr.ru/post/154959/
+
+Время на самообучение — когда и сколько? (основной источник новых знаний) | https://habrahabr.ru/post/154807/
+
+Стажировка PhD | https://habrahabr.ru/post/154777/
+
+Еще раз об изучении языков | https://habrahabr.ru/post/154685/
+
+Открытый курс по инфографике и визуализации данных на Knight Center | https://habrahabr.ru/post/154495/
+
+Зачем делиться опытом или Зачем писать статьи на Хабр? | https://habrahabr.ru/post/154231/
+
+CBS: все гениальное — просто, или Как я поступал в датский университет | https://habrahabr.ru/post/152839/
+
+Как вы чаще всего читаете техническую литературу? | https://habrahabr.ru/post/153635/
+
+IT База Знаний в вашей компании | https://habrahabr.ru/post/153575/
+
+Наши инструменты в наших институтах, или зачем инженеру лэптоп | https://habrahabr.ru/post/152259/
+
+Ремесло писателя. Как научиться писать? | https://habrahabr.ru/post/152137/
+
+Легкий способ записывать лекции по техническим предметам с LibreOffice Math | https://habrahabr.ru/post/152116/
+
+CBS: от студента к предпринимателю, или Модель датского университета | https://habrahabr.ru/post/151980/
+
+Как я учусь на бакалавриате в Канаде | https://habrahabr.ru/post/151966/
+
+Как поступить в магистратуру в Англии | https://habrahabr.ru/post/151844/
+
+Получение PhD в Австралии. Продолжение | https://habrahabr.ru/post/151833/
+
+Получение PhD в Австралии | https://habrahabr.ru/post/151711/
+
+Поступление в магистратуру в Германии | https://habrahabr.ru/post/151643/
+
+В Стэнфордском университете ввели должность проректора по онлайн-обучению | https://habrahabr.ru/post/151490/
+
+Слишком много информации | https://habrahabr.ru/post/151417/
+
+Как быть программистом в этом жестоком мире | https://habrahabr.ru/post/151402/
+
+Алгоритмы? Не, не знаю | https://habrahabr.ru/post/151215/
+
+16 бесплатных курсов Стэнфорда на осенний семестр | https://habrahabr.ru/post/151211/
+
+Трехмесячный программист | https://habrahabr.ru/post/151111/
+
+Как гуманитарию стать программистом? | https://habrahabr.ru/post/151091/
+
+Начало карьеры и первый проект. От потенциального экономиста к программисту | https://habrahabr.ru/post/151078/
+
+Бесплатные группы по C++ и веб-программированию в Москве для старшеклассников! | https://habrahabr.ru/post/150932/
+
+Как открыть коворкинг-центр: подробное руководство | https://habrahabr.ru/post/150712/
+
+Обучение в США | https://habrahabr.ru/post/150790/
+
+Приглашения на закрытые зарубежные трекеры обучающей тематики (Часть III) | https://habrahabr.ru/post/150670/
+
+Как я поступил на бакалавриат в Канаде | https://habrahabr.ru/post/150553/
+
+Если у Вас есть диплом IT-специалиста, полученный в России в последнее десятилетие, работаете ли Вы по указанной в нём специальности? | https://habrahabr.ru/post/150520/
+
+Результаты теста «Договориться можно обо всем» | https://habrahabr.ru/post/150481/
+
+30% студентов выбрали в 2012 году ИТ специальности | https://habrahabr.ru/post/150403/
+
+Договориться можно обо всём | https://habrahabr.ru/post/150320/
+
+Интервью с Чарльзом Уэзереллом, автором книги «Этюды для программистов» | https://habrahabr.ru/post/150238/
+
+Перечень российских научных журналов по теме информационных технологий | https://habrahabr.ru/post/149922/
+
+Обучение детей с ограниченными возможностями с использованием сетевых технологий: 2006-2011 | https://habrahabr.ru/post/149886/
+
+Розалинд — платформа для изучения биоинформатики | https://habrahabr.ru/post/149632/
+
+Онлайновый учебный курс «Algorithms: Design and Analysis, Part I» | https://habrahabr.ru/post/149673/
+
+Как расширить горизонты познания? Рассказ, зачем мы делаем новый сервис онлайн-курсов | https://habrahabr.ru/post/149070/
+
+Work and travel — глупо, бесполезно, унизительно? | https://habrahabr.ru/post/149608/
+
+Поступление в докторантуру университета Тренто, Италия | https://habrahabr.ru/post/149267/
+
+Ментальные ловушки | https://habrahabr.ru/post/149408/
+
+Образование — это выбор | https://habrahabr.ru/post/149393/
+
+Идея организации распределенной сетевой инфраструктуры смешанного типа для публикации электронных образовательных ресурсов | https://habrahabr.ru/post/149062/
+
+Современное школьное образование, часть 4 | https://habrahabr.ru/post/148969/
+
+ACACES'12 — HiPEAC Summer School | https://habrahabr.ru/post/148857/
+
+Аспирантура в Японии — опыт поступления и личные впечатления | https://habrahabr.ru/post/142854/
+
+Программная инженерия в НИУ-ВШЭ, абитуриентам | https://habrahabr.ru/post/148649/
+
+О сложности тестового задания или так ли много 40 часов | https://habrahabr.ru/post/148339/
+
+Публичные выступления. Что? Как? Зачем? | https://habrahabr.ru/post/148095/
+
+Coursera — это маленькая революция: +12 университетов, >100 онлайн курсов | https://habrahabr.ru/post/147966/
+
+Какими сервисами для проведения вебинаров вы пользуетесь? | https://habrahabr.ru/post/147692/
+
+Магистратура по специальности «Математические методы компьютерной безопасности» на кафедре ИБКС ФТК СПбГПУ | https://habrahabr.ru/post/147679/
+
+Лингвистические проблемы в информатике | https://habrahabr.ru/post/147545/
+
+Какую бумажную периодику читаешь ты, %username%? | https://habrahabr.ru/post/146989/
+
+Искусство публичных выступлений в историях о жизни | https://habrahabr.ru/post/147031/
+
+Современное школьное образование, часть 3 | https://habrahabr.ru/post/146390/
+
+Duolingo | https://habrahabr.ru/post/146868/
+
+Взгляд IT-студента на способы повышения качества высшего образования | https://habrahabr.ru/post/146785/
+
+Электронные учебные курсы? Никогда не слышал… Форма и функционал | https://habrahabr.ru/post/146428/
+
+Современное школьное образование, часть 2 | https://habrahabr.ru/post/146377/
+
+“Книжная полка хакера” — библиотека бесплатной компьютерной литературы | https://habrahabr.ru/post/146387/
+
+Современное школьное образование, часть 1 | https://habrahabr.ru/post/146304/
+
+Первый язык программирования в современных вузах СНГ? (фактический) | https://habrahabr.ru/post/146193/
+
+Когда я говорил… | https://habrahabr.ru/post/145960/
+
+Статистика и впечатления от курса по электронике MITx 6.002x | https://habrahabr.ru/post/145868/
+
+5 новых курсов Udacity | https://habrahabr.ru/post/142853/
+
+SMART Jobs Act: трудоустройство для иностранных студентов в США | https://habrahabr.ru/post/144133/
+
+Воспитательница детского сада заработала 700.000 долларов на продаже планов уроков | https://habrahabr.ru/post/144098/
+
+Практика выведения отдела ИТ из кризисного состояния | https://habrahabr.ru/post/143976/
+
+Первый опыт разработки портала дистанционного образования | https://habrahabr.ru/post/143802/
+
+Особенности культуры преподавания в ВУЗах на компьютерных специальностях | https://habrahabr.ru/post/143494/
+
+MIT и Гарвард вкладывают 60 миллионов долларов в дистанционное обучение | https://habrahabr.ru/post/143226/
+
+Болee 40 онлайн-курсов от Coursera и Udacity | https://habrahabr.ru/post/142315/
+
+Оптимальный способ запоминания цифр | https://habrahabr.ru/post/141475/
+
+Где в России обучают компьютерной лингвистике? | https://habrahabr.ru/post/142020/
+
+Искусство публичных выступлений | https://habrahabr.ru/post/141922/
+
+Как влияет факт наличия высшего IT образования на заработную плату и условия в этой сфере? | https://habrahabr.ru/post/141916/
+
+Chaordic teaching или что общего между Agile и обучением в IT | https://habrahabr.ru/post/141897/
+
+Еще раз о том, как уехать учиться за границу | https://habrahabr.ru/post/141655/
+
+CS Center. Впечатления | https://habrahabr.ru/post/141466/
+
+Мой друг компьютер | https://habrahabr.ru/post/141462/
+
+Учеба в Германии | https://habrahabr.ru/post/141377/
+
+King Abdullah University of Science and Technology | https://habrahabr.ru/post/140567/
+
+Онлайн-курсы Stanford University, Berkley и MIT в доступном виде | https://habrahabr.ru/post/141089/
+
+Перевод первого задания курса Technology Entrepreneurship Стенфордского Университета | https://habrahabr.ru/post/140748/
+
+Где в России из бакалавра качественно прокачаться до IT-магистра? | https://habrahabr.ru/post/139136/
+
+Магистратура за рубежом: как поступить и получить стипендию? | https://habrahabr.ru/post/139992/
+
+Создание групп для курса Technology Entrepreneurship от Stanford University | https://habrahabr.ru/post/139780/
+
+Moodle, как платформа организации eLearning и дистанционного обучения | https://habrahabr.ru/post/139629/
+
+Обновление по онлайн-курсам Stanford University | https://habrahabr.ru/post/139542/
+
+«Я научу вас любить и страдать», или Шпаргалка по обучению в IT | https://habrahabr.ru/post/138530/
+
+Как хорошо Вы знаете английский язык? | https://habrahabr.ru/post/138514/
+
+MIT выпустил первый «полностью автоматизированный» онлайновый курс | https://habrahabr.ru/post/138198/
+
+Немного новостей о курсах университета Стенфорд на 2012 год | https://habrahabr.ru/post/137988/
+
+Udacity создаёт учебный план и будет выдавать дипломы | https://habrahabr.ru/post/137655/
+
+Последний год в ИТМО или пишем диплом на факультете ИТиП | https://habrahabr.ru/post/137563/
+
+Конструктор по созданию уроков JS, Ruby и Python | https://habrahabr.ru/post/137360/
+
+IT образование в рф: реальность или миф? | https://habrahabr.ru/post/137126/
+
+Изучение иностранных языков: живые учителя или интернет? | https://habrahabr.ru/post/137305/
+
+Аспирантура в Швейцарии, собственный опыт и наблюдения | https://habrahabr.ru/post/137287/
+
+Магистратура и аспирантура в Японии: 2012 | https://habrahabr.ru/post/137222/
+
+Поступление в Немецкую Аспирантуру и как Определиться с Темой Диссертации | https://habrahabr.ru/post/136908/
+
+Udacity: первые 2 курса | https://habrahabr.ru/post/136862/
+
+Торрент лекций Лекториум | https://habrahabr.ru/post/136749/
+
+Образование в вузе и за его пределами: взгляд с кафедры | https://habrahabr.ru/post/136289/
+
+Весной MIT запустит новую платформу онлайн обучения — MITx | https://habrahabr.ru/post/136281/
+
+Какой язык программирования должен быть первым при изучении в школе? | https://habrahabr.ru/post/136272/
+
+Решение для публикации учебных материалов в интернете | https://habrahabr.ru/post/135944/
+
+О том, как будущие программисты-автоматизаторы физику учили | https://habrahabr.ru/post/135859/
+
+Кто кого учит: преподаватель студента или студент преподавателя? | https://habrahabr.ru/post/135844/
+
+Наперегонки с машиной: вызовы и перспективы экономики будущего | https://habrahabr.ru/post/135740/
+
+Преподавательская практика | https://habrahabr.ru/post/135665/
+
+Мой отчет о семестровом преподавании в ВУЗе | https://habrahabr.ru/post/135578/
+
+Итоги курса по базам данных от Стэнфордского Университета | https://habrahabr.ru/post/134700/
+
+Онлайн курсы от Stanford University и Berkeley University на 2012 год | https://habrahabr.ru/post/134628/
+
+Высшее образование как важный этап формирования личности, или тестирование под нагрузкой | https://habrahabr.ru/post/134400/
+
+Как сконвертировать видео из GoToMeeting (g2m) в wmv3 | https://habrahabr.ru/post/133669/
+
+X студенческая олимпиада по электронике в Томске | https://habrahabr.ru/post/133042/
+
+Как стать Microsoft Certified Professional? И зачем? | https://habrahabr.ru/post/132782/
+
+Новые бесплатные онлайн курсы от Stanford | https://habrahabr.ru/post/132793/
+
+Как я уехал в Италию заниматься исследованиями по Computer Science | https://habrahabr.ru/post/132659/
+
+Учебный курс ITIL Expert, приготовление по Lifecycle рецепту | https://habrahabr.ru/post/132514/
+
+У страха глаза велики, или клонирование HDD с MAC OS и Win XP в учебном классе | https://habrahabr.ru/post/132498/
+
+Этапы отбора на стипендиальную программу GSP-SNU для учебы в магистратуре Южной Кореи | https://habrahabr.ru/post/130683/
+
+MentorNet: опыт общения с личным наставником | https://habrahabr.ru/post/130637/
+
+Социальная автоматизация ВУЗов на примере Incampus.ru | https://habrahabr.ru/post/130879/
+
+Обучение it-специалистов в Сербии | https://habrahabr.ru/post/130824/
+
+Курс философии для студентов ИТ-специальностей: каким он должен быть? | https://habrahabr.ru/post/130742/
+
+Балльно-рейтинговая технология оценки знаний | https://habrahabr.ru/post/130572/
+
+6 советов студентам | https://habrahabr.ru/post/130519/
+
+Магистратура в Южной Корее | https://habrahabr.ru/post/130244/
+
+Английский для айтишника? Легко! | https://habrahabr.ru/post/130208/
+
+From user to developer | https://habrahabr.ru/post/129521/
+
+Дистанционный курс по «Machine learning» от Стэнфордского университета | https://habrahabr.ru/post/129468/
+
+Море, солнце, студпроекты: летняя школа Мат-меха | https://habrahabr.ru/post/129208/
+
+Проблемы создания образовательной социальной сети | https://habrahabr.ru/post/128696/
+
+Магистратура и аспирантура в Японии | https://habrahabr.ru/post/128545/
+
+Концепция образовательной социальной сети | https://habrahabr.ru/post/128532/
+
+Приглашения на закрытые зарубежные трекеры обучающей тематики (Часть II) | https://habrahabr.ru/post/127508/
+
+Бесплатные компьютерные курсы для школьников 7-10 класса (Москва) | https://habrahabr.ru/post/127502/
+
+Курс Стэнфорда по цифровой фотографии | https://habrahabr.ru/post/127397/
+
+История одной компьютерной войны | https://habrahabr.ru/post/111114/
+
+Почему бакалавриат в России готовит ИТ-недоучек? Советы первокурсникам | https://habrahabr.ru/post/126619/
+
+Дистанционное образование в LSE | https://habrahabr.ru/post/126860/
+
+Произносим правильно | https://habrahabr.ru/post/124403/
+
+90% людей не знают про Ctrl+F | https://habrahabr.ru/post/126731/
+
+Поступление на кафедру информационной безопасности в МГТУ им Н.Э.Баумана через программу «Шаг в Будущее. Москва» | https://habrahabr.ru/post/126548/
+
+13 бесплатных курсов Стэнфордского университета | https://habrahabr.ru/post/126527/
+
+Ещё один проект, давший дорогу в МГТУ им. Баумана | https://habrahabr.ru/post/126498/
+
+E-Humanities: проекты и инициативы | https://habrahabr.ru/post/125649/
+
+Как тренируются программисты в Карелии | https://habrahabr.ru/post/124428/
+
+Студенческий плагиат в рефератах неискореним, так что надо отказаться от рефератов | https://habrahabr.ru/post/124415/
+
+Открытая наука и открытое образование | https://habrahabr.ru/post/124383/
+
+Социальная сеть как инструмент научной работы | https://habrahabr.ru/post/123932/
+
+Советы для начинающих по самостоятельной подготовке к сдаче экзаменов Microsoft | https://habrahabr.ru/post/123556/
+
+Это знает любой студент-программист | https://habrahabr.ru/post/123582/
+
+К вопросу о Федеральных Университетах | https://habrahabr.ru/post/122989/
+
+Кодить и учить. В Сомали | https://habrahabr.ru/post/122977/
+
+Mikogo 4.0 — утилита для демонстрации экрана, вебинаров, онлайн конференций и удаленного доступа | https://habrahabr.ru/post/121856/
+
+Куда пойти учиться программисту? | https://habrahabr.ru/post/120783/
+
+Студенческие проекты Мат-меха СПбГУ | https://habrahabr.ru/post/120367/
+
+Если Вы уже закончили ВУЗ — как относитесь к своему дипломному проекту? | https://habrahabr.ru/post/119445/
+
+Экстремальное программирование или IT в современной пенитенциарной системе | https://habrahabr.ru/post/119084/
+
+Как учиться правильно? | https://habrahabr.ru/post/118903/
+
+Возможности для студентов, о которых вы, возможно, не знали | https://habrahabr.ru/post/118630/
+
+РИС: Кафедра речевых информационных технологий ИТМО | https://habrahabr.ru/post/118191/
+
+Будьте авторами своей жизни! | https://habrahabr.ru/post/117955/
+
+Запрет нейростимуляторов заставит студентов честно конкурировать | https://habrahabr.ru/post/115768/
+
+Софт для вебинаров — Saba Centra | https://habrahabr.ru/post/115165/
+
+Шведская магистратура в области IT | https://habrahabr.ru/post/114858/
+
+Высшее образование, нерепрезентативная выборка | https://habrahabr.ru/post/114134/
+
+Промо ролики МИФИ по физике | https://habrahabr.ru/post/113359/
+
+В Оксфорде объединили компьютерную науку и философию | https://habrahabr.ru/post/113189/
+
+Как Вы относитесь к тренингам командообразования для IT команд (экстремальные, верёвочные курсы)? | https://habrahabr.ru/post/112462/
+
+Стипендии. Нужны ли они? | https://habrahabr.ru/post/112186/
+
+Долгоживущие компьютерные навыки, или Чему учить детей и школьников | https://habrahabr.ru/post/111934/
+
+Ролевое информационное моделирование в программировании | https://habrahabr.ru/post/111509/
+
+Научим работать с компьютером | https://habrahabr.ru/post/111476/
+
+Erasmus глазами очевидца | https://habrahabr.ru/post/111296/
+
+IT в дошкольном и (частично) школьном образовании | https://habrahabr.ru/post/111057/
+
+IT-образование в школах и вузах | https://habrahabr.ru/post/110749/
+
+Задачи в области российского образования | https://habrahabr.ru/post/110264/
+
+Бизнес-информатика | https://habrahabr.ru/post/109452/
+
+Инновации в школе или как добить российское образование | https://habrahabr.ru/post/109021/
+
+Трассировка успеха | https://habrahabr.ru/post/108695/
+
+В Петербурге работает Педагогический клуб сетевого взаимодействия | https://habrahabr.ru/post/107746/
+
+Поступление в американскую бизнес-школу | https://habrahabr.ru/post/106810/
+
+Диплом глазами студента в МГТУ им Баумана | https://habrahabr.ru/post/106450/
+
+Карьерное плато | https://habrahabr.ru/post/106073/
+
+О знаниях, полученных на бегу | https://habrahabr.ru/post/103747/
+
+Филиппинский феномен | https://habrahabr.ru/post/103538/
+
+О проблеме продвижения научных работ и исследований | https://habrahabr.ru/post/103150/
+
+Дневник IT студента | https://habrahabr.ru/post/102662/
+
+IT факультет Стэнфорда — мои впечатления | https://habrahabr.ru/post/102440/
+
+Мы, строим внутренний портал в ВУЗ'е | https://habrahabr.ru/post/102019/
+
+Чем студенты 21 века пользуются для записи лекций? | https://habrahabr.ru/post/101598/
+
+Какой должен быть коллектив в классе? 30 человек? Зачем?! | https://habrahabr.ru/post/101554/
+
+Главный недостаток российской системы образования — непонимание назначения | https://habrahabr.ru/post/101453/
+
+Кандидат наук в картинках | https://habrahabr.ru/post/101445/
+
+Необходимые вещи | https://habrahabr.ru/post/100739/
+
+Магистерская программа по биоинформатике Санкт-Петербургского Академического университета (бывший АФТУ РАН) | https://habrahabr.ru/post/100204/
+
+Высшее образование 2 | https://habrahabr.ru/post/99623/
+
+Curious Reef — сайт для он-лайн студентов | https://habrahabr.ru/post/99514/
+
+Программы для удаленного обучения (Live Meeting Web Access) | https://habrahabr.ru/post/99220/
+
+Высшее образование | https://habrahabr.ru/post/99046/
+
+Программы для удаленного обучения (сегодня говорим об Adobe Connect) | https://habrahabr.ru/post/98346/
+
+О науке Веб и аспирантуре в Англии | https://habrahabr.ru/post/90639/
+
+Учиться учиться? | https://habrahabr.ru/post/97163/
+
+Программы для удаленного обучения (вебинары) | https://habrahabr.ru/post/96699/
+
+Студентов НИЯУ МИФИ заставляют заниматься переписью 2010 | https://habrahabr.ru/post/96638/
+
+RuSSIR 2010: школа по информационному поиску | https://habrahabr.ru/post/91832/
+
+Самообразование с самостимулированием | https://habrahabr.ru/post/95304/
+
+Algodoo — игра-симулятор физики в виде «2D песочницы» | https://habrahabr.ru/post/94936/
+
+Учимся в университете США | https://habrahabr.ru/post/93435/
+
+«Халява» глазами преподавателя | https://habrahabr.ru/post/93217/
+
+Отделение интеллектуальных систем РГГУ: взгляд преподавателя | https://habrahabr.ru/post/93183/
+
+Плати и учись | https://habrahabr.ru/post/92527/
+
+Чешская национальная техническая библиотека | https://habrahabr.ru/post/91157/
+
+Поступление в магистратуру Израиля | https://habrahabr.ru/post/91099/
+
+Как учат информатике в Германии | https://habrahabr.ru/post/90720/
+
+TANDBERG в организации | https://habrahabr.ru/post/90648/
+
+Магистратура в Израиле | https://habrahabr.ru/post/90671/
+
+Философский вопрос | https://habrahabr.ru/post/90658/
+
+Как поступают в университеты США | https://habrahabr.ru/post/90621/
+
+Как учат в США (continued) | https://habrahabr.ru/post/90544/
+
+Подход к образованию по-английски | https://habrahabr.ru/post/90509/
+
+Как учат в США | https://habrahabr.ru/post/90537/
+
+Как учат информатике в Европе (и в Чехии в частности) | https://habrahabr.ru/post/90529/
+
+МГТУ им. Баумана, Компьютерные системы и сети | https://habrahabr.ru/post/90355/
+
+Да, это образование | https://habrahabr.ru/post/90275/
+
+Конспекты для ленивых | https://habrahabr.ru/post/90236/
+
+Это образование! | https://habrahabr.ru/post/90184/
+
+Как реформировать образование | https://habrahabr.ru/post/90005/
+
+Не стоит прогибаться под изменчивый мир или создаем свою атмосферу | https://habrahabr.ru/post/88892/
+
+Информатизация школ есть или все таки не очень? | https://habrahabr.ru/post/88528/
+
+Глупости в ЕГЭ | https://habrahabr.ru/post/87480/
+
+Бакалавриат США: Поступление | https://habrahabr.ru/post/88122/
+
+Свободные семинары HowTo Linux 2010 в Нижнем Новгороде | https://habrahabr.ru/post/87996/
+
+Проблемы высшего образования | https://habrahabr.ru/post/87947/
+
+ПО для организации очной формы обучения | https://habrahabr.ru/post/87600/
+
+ООП с примерами (часть 2) | https://habrahabr.ru/post/87205/
+
+ООП с примерами (часть 1) | https://habrahabr.ru/post/87119/
+
+Удаленное обучение на основе Open Source — BigBlueButton | https://habrahabr.ru/post/87109/
+
+Детям-инвалидам Северной Осетии выдали Маки | https://habrahabr.ru/post/87048/
+
+Что такое генетический алгоритм? | https://habrahabr.ru/post/86777/
+
+Где вы храните идеи? | https://habrahabr.ru/post/86146/
+
+Послезавтра в МИФИ Святейшему Патриарху Московскому и всея Руси Кириллу дадут звание Почетного доктора | https://habrahabr.ru/post/86047/
+
+«Эффективная работа в Mozilla Firefox» | https://habrahabr.ru/post/86006/
+
+Проектная работа с юными программистами | https://habrahabr.ru/post/85977/
+
+Есть ли будущее у онлайн-образования? | https://habrahabr.ru/post/85502/
+
+Управляем голосом или правильный посыл | https://habrahabr.ru/post/85415/
+
+Несколько фишек для изучающих английский язык | https://habrahabr.ru/post/85405/
+
+Завершение поставок лицензий на проприетарное ПО в школы России | https://habrahabr.ru/post/85383/
+
+Малоизвестный блэкаут | https://habrahabr.ru/post/85263/
+
+В вашем ВУЗ'е до сих пор преподают Pascal? | https://habrahabr.ru/post/85212/
+
+Как вы относитесь к разработке опенсорс-продуктов в процессе учёбы? | https://habrahabr.ru/post/85075/
+
+Как я в вузе электронную коммерцию преподавала (ч. 2, первые занятия) | https://habrahabr.ru/post/84220/
+
+Разворачивание wifi-сети на школу | https://habrahabr.ru/post/84524/
+
+Видеолекция: Where Is Your Money? | https://habrahabr.ru/post/84254/
+
+Как я в вузе электронную коммерцию преподавала (ч. 1, подготовка к семестру) | https://habrahabr.ru/post/84205/
+
+Внедрение свободного программного обеспечения в школах | https://habrahabr.ru/post/83896/
+
+(фото)отчет о Балтийском конкурсе | https://habrahabr.ru/post/83758/
+
+Учитесь отдавать! | https://habrahabr.ru/post/83433/
+
+А ты готов сдать ЕГЭ по информатике? | https://habrahabr.ru/post/83388/
+
+Всероссийская Олимпиада по Прикладной Информатике | https://habrahabr.ru/post/82921/
+
+Нужна ли наша магистратура тем кто не собирается идти в науку? (Комментарий прочти!) | https://habrahabr.ru/post/82829/
+
+Как сдвинуть гору Фудзи или Интервью для гениев | https://habrahabr.ru/post/82752/
+
+Обновления проекта Computer Science Student | https://habrahabr.ru/post/82705/
+
+Управляй эмоциями! | https://habrahabr.ru/post/82328/
+
+В Латвийских школах учат русскому мату | https://habrahabr.ru/post/82315/
+
+Апгрейд мозгов вместо школы | https://habrahabr.ru/post/82256/
+
+Секреты успешной системы образования | https://habrahabr.ru/post/81950/
+
+Магистратура компании IBS | https://habrahabr.ru/post/81924/
+
+Искусство убивать драконов | https://habrahabr.ru/post/81840/
+
+С Днём российского студенчества | https://habrahabr.ru/post/81827/
+
+Образование: психологический аспект | https://habrahabr.ru/post/81803/
+
+Как одновременно сделать хорошо студентам, преподавателям, работодателям и стране в целом (идеалистическая и наивная версия модернизации высшей школы) | https://habrahabr.ru/post/81779/
+
+Кто хочет, тот ищет возможности, кто не хочет — ищет причины | https://habrahabr.ru/post/81766/
+
+А вы работаете по специальности, полученной в ВУЗе? | https://habrahabr.ru/post/81768/
+
+Нас не учат «как», нас учат «чему-то» | https://habrahabr.ru/post/81756/
+
+Учись говорить | https://habrahabr.ru/post/81432/
+
+«Правильно заданный вопрос – половина ответа»(с) | https://habrahabr.ru/post/81046/
+
+Как учить детей программированию: Kodu Game Lab теперь доступен для PC | https://habrahabr.ru/post/80832/
+
+Дрейфусовская модель приобретения навыков | https://habrahabr.ru/post/80698/
+
+Сдача сессии по-английски | https://habrahabr.ru/post/80732/
+
+ТВ. Результаты теста | https://habrahabr.ru/post/80254/
+
+Часто ли вы смотрите ТВ? | https://habrahabr.ru/post/80158/
+
+Где погрызть гранит науки | https://habrahabr.ru/post/80059/
+
+Концепт XO-3 от OLPC | https://habrahabr.ru/post/79250/
+
+МИЭМ 1962-2010 | https://habrahabr.ru/post/79239/
+
+К вопросу о борьбе со списыванием | https://habrahabr.ru/post/78417/
+
+Развитие объектного мышления у студентов | https://habrahabr.ru/post/78055/
+
+Профессиональная переподготовка | https://habrahabr.ru/post/78040/
+
+Сказ о том, почему я встал и ушел | https://habrahabr.ru/post/78017/
+
+Обсуждение проблем и методик образования: неформальная встреча | https://habrahabr.ru/post/77997/
+
+Глупые дети, или неправильная картина мира | https://habrahabr.ru/post/77729/
+
+Honeywell Users Group 2010 | https://habrahabr.ru/post/77695/
+
+Дилеммы молодого преподавателя | https://habrahabr.ru/post/77630/
+
+Почему я убегу из школы | https://habrahabr.ru/post/77623/
+
+Качества идеального преподавателя | https://habrahabr.ru/post/77611/
+
+Кто нас учит? | https://habrahabr.ru/post/77557/
+
+Итоги семестра | https://habrahabr.ru/post/77511/
+
+Про реформу образования и гуманитариев | https://habrahabr.ru/post/77240/
+
+Новичок в сети. Что порекомендуете? | https://habrahabr.ru/post/76959/
+
+Школа нытиков | https://habrahabr.ru/post/76683/
+
+Бакалавриат США: Общая информация | https://habrahabr.ru/post/76345/
+
+Современное образование на практике или чему учат в 21 веке | https://habrahabr.ru/post/76201/
+
+Как искать правильно? | https://habrahabr.ru/post/75231/
+
+Видео-трансляция лекций. Реализация | https://habrahabr.ru/post/74456/
+
+Оценивание курсовых работ по IT-дисциплинам | https://habrahabr.ru/post/73897/
+
+Студент, маши лопатой | https://habrahabr.ru/post/73841/
+
+Инструменты для акцентирования внимания | https://habrahabr.ru/post/73655/
+
+Образование для будущих ИТ-специалистов в России: ВМК МГУ | https://habrahabr.ru/post/73279/
+
+Свободный выбор предметов | https://habrahabr.ru/post/73152/
+
+Программа начального обучения Интернету | https://habrahabr.ru/post/71868/
+
+Научный вакуум | https://habrahabr.ru/post/71733/
+
+Темы дипломов | https://habrahabr.ru/post/71618/
+
+Computer Science Student, 11 эпизод | https://habrahabr.ru/post/71611/
+
+Вебсайты в обучении | https://habrahabr.ru/post/71093/
+
+Computer Science Student: версия 2.0.1 | https://habrahabr.ru/post/70813/
+
+Идеальный университет | https://habrahabr.ru/post/70618/
+
+Classmate/OLPC лагерь. Обучение может быть интересным! | https://habrahabr.ru/post/69092/
+
+Время завидовать австралийским школьникам (Цифровая революция в образовании — ноутбук для обучения) | https://habrahabr.ru/post/68347/
+
+Привычка не думать | https://habrahabr.ru/post/68216/
+
+C# для школьников | https://habrahabr.ru/post/67372/
+
+Практика разговорного американского | https://habrahabr.ru/post/65778/
+
+ЕГЭ — один плюс и два минуса | https://habrahabr.ru/post/66440/
+
+OpenSource Система электронных дневников | https://habrahabr.ru/post/64223/
+
+Высшее техническое образование | https://habrahabr.ru/post/63268/
+
+Выбор специальности для ITшника | https://habrahabr.ru/post/63262/
+
+Твой вуз, IT-специалист! | https://habrahabr.ru/post/63246/
+
+Во сколько лет, по вашему мнению, стоит допускать ребёнка к интернету? | https://habrahabr.ru/post/62110/
+
+ЕГЭ глазами другого админа | https://habrahabr.ru/post/62906/
+
+Как молоды мы были… | https://habrahabr.ru/post/62509/
+
+Пособие по проведению вебинаров | https://habrahabr.ru/post/62343/
+
+Детская Википедия. Нужна? | https://habrahabr.ru/post/62308/
+
+Субъективный взгляд на ЕГЭ с четырёх точек зрения | https://habrahabr.ru/post/62153/
+
+ЕГЭ изнутри (глазами админа) | https://habrahabr.ru/post/62109/
+
+Всё, что я думаю о ЕГЭ | https://habrahabr.ru/post/62054/
+
+Поиск рецензента | https://habrahabr.ru/post/61680/
+
+Химия | https://habrahabr.ru/post/61445/
+
+Книга о школьных сайтах. Зачем проектировать сайт? Информационные адресаты | https://habrahabr.ru/post/60866/
+
+Книга о школьных сайтах. О целях школьного сайта | https://habrahabr.ru/post/60700/
+
+Книга о школьных сайтах. О целях школьного сайта | https://habrahabr.ru/post/60699/
+
+Зачем программисту читать художественную литературу | https://habrahabr.ru/post/60690/
+
+Контентная фильтрация в школах — тестирование системы | https://habrahabr.ru/post/60616/
+
+Книга о школьных сайтах. Начало | https://habrahabr.ru/post/60550/
+
+Наследство выпускника, или Последнее д/з по информатике | https://habrahabr.ru/post/60209/
+
+Ресурсы, которые помогут выучить английский язык | https://habrahabr.ru/post/60133/
+
+Как учить английские слова | https://habrahabr.ru/post/60113/
+
+Стив Баллмер берет слово в стенах Стэнфорда | https://habrahabr.ru/post/59586/
+
+Помогите школьным сайтам | https://habrahabr.ru/post/59516/
+
+Полезное видео | https://habrahabr.ru/post/59260/
+
+OpenSource-курсач, или заставляем преподавателя выпасть в осадок | https://habrahabr.ru/post/59274/
+
+Разработка сайта кафедры | https://habrahabr.ru/post/58633/
+
+Текущий семестр и задание на Perl | https://habrahabr.ru/post/57191/
+
+Инициатива FRUCT — общее описание | https://habrahabr.ru/post/55644/
+
+Университетская степень в области социальных медиа | https://habrahabr.ru/post/56008/
+
+Пишем статью | https://habrahabr.ru/post/53705/
+
+Computer Science Student, 6й эпизод | https://habrahabr.ru/post/52927/
+
+Программа для аспирантов | https://habrahabr.ru/post/52119/
+
+Начало научной карьеры (часть 7) | https://habrahabr.ru/post/51656/
+
+Начало научной карьеры (часть 6) | https://habrahabr.ru/post/51631/
+
+Начало научной карьеры (часть 5) | https://habrahabr.ru/post/51390/
+
+Начало научной карьеры (часть 4) | https://habrahabr.ru/post/50855/
+
+Стимул учиться хорошо — Медведев предложил переводить лучших студентов на бесплатные места | https://habrahabr.ru/post/50857/
+
+Начало научной карьеры (часть 3) | https://habrahabr.ru/post/50808/
+
+Начало научной карьеры (часть 2) | https://habrahabr.ru/post/50670/
+
+Начало научной карьеры (часть 1) | https://habrahabr.ru/post/50543/
+
+Задания ЕГЭ по информатике | https://habrahabr.ru/post/50557/
+
+Горячая линия: магистратура, аспирантура, подготовка и защита диссертации | https://habrahabr.ru/post/50357/
+
+Более 30 лучших российских онлайн курсов | https://habrahabr.ru/post/48778/
+
+Обучение Ruby и Rails, частные занятия | https://habrahabr.ru/post/48267/
+
+Деревья, двоичные деревья | https://habrahabr.ru/post/46683/
+
+Курс Software Engineering и «Миямотополия» | https://habrahabr.ru/post/45963/
+
+Что думают про ЕГЭ независимые эксперты? | https://habrahabr.ru/post/45776/
+
+Проект CSS: Абстрактные типы данных и алгоритмы | https://habrahabr.ru/post/45715/
+
+Видео-проект «Computer Science Student» | https://habrahabr.ru/post/45620/
+
+Образование в России: какое, почему и что делать? | https://habrahabr.ru/post/45005/
+
+Курс для совсем начинающего | https://habrahabr.ru/post/42125/
+
+Мой опыт образования | https://habrahabr.ru/post/41469/
+
+Веб-технологии. Что включить в изучение HTML? | https://habrahabr.ru/post/41159/
+
+Вуз 2.0 и развитие комплекса услуг для судентов и преподавателей | https://habrahabr.ru/post/40511/
+
+Стэнфорд открыл учебные материалы по программированию и ИИ | https://habrahabr.ru/post/40236/
+
+Lineage и WoW — учебник научного мышления для детей | https://habrahabr.ru/post/39584/
+
+Эффективное обучение: практические советы | https://habrahabr.ru/post/38838/
+
+Отличие работы с электронными источниками от работы с печатными | https://habrahabr.ru/post/38311/
+
+Digital Learners — о том, каким бы мог быть процесс нашего обучения | https://habrahabr.ru/post/38188/
+
+Можно ли внести веб-сайт в список источников академической работы | https://habrahabr.ru/post/38098/
+
+Учить информатику в Германии или | https://habrahabr.ru/post/38024/
+
+Новая система образования | https://habrahabr.ru/post/37974/
+
+Как найти владельца сайта, чтобы получить дополнительные сведения о размещённых на нём документах | https://habrahabr.ru/post/37807/
+
+Почему программистов не учат? Часть 2. | https://habrahabr.ru/post/37381/
+
+Программирование и математика | https://habrahabr.ru/post/37217/
+
+Как в курсовых работах оформляются ссылки на электронные источники | https://habrahabr.ru/post/37185/
+
+Почему программистов не учат? | https://habrahabr.ru/post/37149/
+
+Студенческий проект биржи недвижимости | https://habrahabr.ru/post/29772/
+
+Imagine Cup '08: из Парижа с победой | https://habrahabr.ru/post/28954/
+
+Это интернет писал работу, я ее только сдал | https://habrahabr.ru/post/27863/
+
+Подготовка студента к предзащите | https://habrahabr.ru/post/25357/
+
+Хабр как испытание | https://habrahabr.ru/post/24113/
+
+Высшее образование по-русски | https://habrahabr.ru/post/23666/
+
+Imagine Cup '08: Microsoft ищет таланты | https://habrahabr.ru/post/23557/
+
+21 тезис Образования 2.0 | https://habrahabr.ru/post/22502/
+
+Энциклопедия жизни переписывает всех | https://habrahabr.ru/post/22329/
+
+А в чей карман идут инвестиции в «Образование 2.0»? | https://habrahabr.ru/post/20729/
+
+Вместо курсовой работы студенты редактируют Википедию | https://habrahabr.ru/post/15630/
+
+Университет Беркли выложил более 300 часов лекций на YouTube | https://habrahabr.ru/post/14719/
+
+Программисты из МАИ предлагают внедрить школьникам карты памяти | https://habrahabr.ru/post/13183/
+
+Leopard: новый язык программирования для обучения детишек | https://habrahabr.ru/post/11693/
+
+За «удалёнными» студентами будут следить при помощи веб-камер | https://habrahabr.ru/post/11033/
+
+SlideBurner — вебдванольный сервис хостинга презентаций | https://habrahabr.ru/post/8148/
+
+O'Reilly открывает интерактивную школу информационных технологий | https://habrahabr.ru/post/6479/
+
+Создана программа для веб-конференций Zoho Meeting | https://habrahabr.ru/post/5693/
+
+Виртуальное будущее университетов | https://habrahabr.ru/post/3115/
+
+Алгоритмы для интернета | https://habrahabr.ru/post/1184/
+
+Образование должно быть дванольным! | https://habrahabr.ru/post/804/
+

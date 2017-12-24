@@ -1,0 +1,50 @@
+Sharing общих сборок между процессами и доменами в IIS | https://habrahabr.ru/post/341950/
+
+Как IIS поддерживает нашу BI-аналитику, и в чем особенности настройки под Highload | https://habrahabr.ru/company/yamoney/blog/339976/
+
+RequestQueueLimitPerSession и его распространение на старые версии .net | https://habrahabr.ru/post/335138/
+
+IIS Request filtering против ddos-атаки | https://habrahabr.ru/post/316550/
+
+Развёртывание Django 1.9 на IIS 7+ | https://habrahabr.ru/post/305566/
+
+Исправлена серьезная ошибка в официальной документации по настройке SSL в web-ролях Microsoft Azure | https://habrahabr.ru/company/abbyy/blog/302530/
+
+Вышел драйвер PDO MSSQL(pdo_sqlsrv) для PHP7 | https://habrahabr.ru/post/281991/
+
+Деплой ASP.NET приложений при помощи символических ссылок | https://habrahabr.ru/post/281338/
+
+Как не самое удачное поведение по умолчанию может годами маскировать неправильную работу | https://habrahabr.ru/company/abbyy/blog/280840/
+
+Установка Битрикс24 на IIS сервер с использованием MSSQL и AD | https://habrahabr.ru/post/280402/
+
+Добавление прокси в любое приложение на IIS | https://habrahabr.ru/post/278453/
+
+Ферма IIS и Application Request Routing | https://habrahabr.ru/company/inoventica/blog/274923/
+
+Управление удалённым IIS | https://habrahabr.ru/company/arcadia/blog/249837/
+
+Оптимизация ASP.NET — практические советы по работе с IIS | https://habrahabr.ru/post/250881/
+
+День ASP.NET: пик Балмера, Pluralsight и будущее ASP.NET | https://habrahabr.ru/company/geekfamily/blog/250773/
+
+Настраиваем авторизацию в IIS по сертификатам используя OneToOne | https://habrahabr.ru/post/249503/
+
+IIS как пограничный веб-сервер (теперь haproxy) | https://habrahabr.ru/post/240495/
+
+Windows 2012 R2 + IIS + MS SQL + PHP установка, настройка, подводные камни | https://habrahabr.ru/post/237105/
+
+Вэб-приложение на Katana OWIN для уже существующего сайта | https://habrahabr.ru/post/209964/
+
+Решение проблем настроек web-сервера при публикации web-приложений | https://habrahabr.ru/post/198452/
+
+Основы архитектуры IIS, или запросопровод для ASP.NET | https://habrahabr.ru/post/189086/
+
+IIS — изменяем размер картинок на лету | https://habrahabr.ru/post/160059/
+
+Необычные заголовки HTTP | https://habrahabr.ru/post/149852/
+
+Настраиваем FTP из командной строки (IIS) | https://habrahabr.ru/post/145598/
+
+Начало работы с AppCmd | https://habrahabr.ru/post/145476/
+

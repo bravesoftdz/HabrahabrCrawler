@@ -1,0 +1,832 @@
+Эволюция «img»: Gif без формата GIF | https://habrahabr.ru/company/edison/blog/343958/
+
+Видеонаблюдение в подъезде своими силами | https://habrahabr.ru/post/343672/
+
+Трансляция h264 видео без перекодирования и задержки | https://habrahabr.ru/company/singularis/blog/343362/
+
+Как мы делали гигантский объём связи для немаленькой охранной структуры | https://habrahabr.ru/company/croc/blog/343352/
+
+Flussonic Watcher для интернет-провайдера | https://habrahabr.ru/company/erlyvideo/blog/343138/
+
+Один на всех: как разорвать замкнутый круг сложностей при разработке коробочного продукта | https://habrahabr.ru/company/macroscop/blog/342592/
+
+Видео на электронной книжке. Попытка использовать е-ink reader в качестве второго монитора в linux | https://habrahabr.ru/post/341748/
+
+Глубокий расчет. Как 3D-технологии помогают считать людей и делают жизнь проще? | https://habrahabr.ru/company/macroscop/blog/341470/
+
+Работа с видео в Full Throttle Remastered | https://habrahabr.ru/post/340564/
+
+Убираем радиальное искажение с фото и видео при помощи библиотеки openCV и языка python | https://habrahabr.ru/post/341160/
+
+Перевод и озвучка фильма дома — Indie Game: The Movie Special Edition | https://habrahabr.ru/post/341074/
+
+Регистратор на Bash для камер с rtsp | https://habrahabr.ru/post/341024/
+
+Иллюзия движения | https://habrahabr.ru/post/338796/
+
+Процесс создания синематика вживую. Стрим сегодня, 27 июля в 15.00 | https://habrahabr.ru/company/plarium/blog/334198/
+
+Аддитивные цветовые пространства в колориметрии | https://habrahabr.ru/post/332776/
+
+Как сделано интро на 64k | https://habrahabr.ru/post/330090/
+
+Лучшие дизайны по версии пользователей Behance | https://habrahabr.ru/company/netologyru/blog/328974/
+
+Обучение видео-съёмке с ментором | https://habrahabr.ru/company/yasno_tv/blog/328534/
+
+Визуализация требований к анимации интерфейсов | https://habrahabr.ru/company/netologyru/blog/326728/
+
+5 советов по созданию впечатляющей моушн-графики | https://habrahabr.ru/company/netologyru/blog/325706/
+
+История цветовой модели RGB | https://habrahabr.ru/post/320304/
+
+5 действительно бесплатных нелинейных видеоредакторов для Windows | https://habrahabr.ru/post/318214/
+
+Как мы оживляем презентацию | https://habrahabr.ru/company/jalinga/blog/317082/
+
+Построение компактных коллиматоров для мощных светодиодов | https://habrahabr.ru/post/316828/
+
+Магия H.264 | https://habrahabr.ru/post/316580/
+
+VP8, VP9 и H265. Аппаратное ускорение кодирования и декодирования видео в процессорах 6-го поколения Skylake | https://habrahabr.ru/company/intel/blog/311320/
+
+Создание пластилиновой анимации для использования в мобильной игре | https://habrahabr.ru/post/308288/
+
+Просмотр видео «сбоку» | https://habrahabr.ru/post/306282/
+
+Хорошо ли вам видно | https://habrahabr.ru/company/huawei/blog/303662/
+
+Разработка в собственном соку или как мы поняли, что занимаемся не тем, что нужно пользователям | https://habrahabr.ru/company/macroscop/blog/282736/
+
+Создание сверхдлинных плоских панорамных изображений из видео | https://habrahabr.ru/post/282265/
+
+Инструмент для быстрого поиска сцен в видео файлах | https://habrahabr.ru/post/281537/
+
+Бюджетная самодельная ПТС «НА КОЛЕНКАХ» (Передвижная тв-станция). Часть 2: расположение камер и работа команды | https://habrahabr.ru/post/274371/
+
+9 советов по локализации аудио | https://habrahabr.ru/company/alconost/blog/273981/
+
+Бюджетная самодельная ПТС «НА КОЛЕНКАХ» (Передвижная телевизионная станция). Часть 1 | https://habrahabr.ru/post/273759/
+
+Игроделу о субтитрах: теория и практика | https://habrahabr.ru/post/265131/
+
+Обзор возможностей видеостримера Flussonic | https://habrahabr.ru/company/erlyvideo/blog/268311/
+
+Псевдостриминг mp4 в nginx с каналом 7Gbit/s | https://habrahabr.ru/post/265897/
+
+Трансляция онлайн-видео с минимальной задержкой | https://habrahabr.ru/post/265675/
+
+«Хозяин, напиши для нас приложение». Требуется разработчик софта и железа для дронов DJI | https://habrahabr.ru/company/neuronspace/blog/259527/
+
+Стоп, снято. Записано и передано | https://habrahabr.ru/company/erlyvideo/blog/262467/
+
+Коммутатор видеосигналов для ТВ | https://habrahabr.ru/post/262393/
+
+Легенды и мифы современных реализаций x265/HEVC или x264 vs x265 в сравнении скриншотов | https://habrahabr.ru/post/262309/
+
+Графика процессоров Intel Core. Краткое справочное руководство | https://habrahabr.ru/company/intel/blog/259871/
+
+Dell приходит на помощь студии видеопродакшена | https://habrahabr.ru/company/dellemc/blog/259551/
+
+Как делаются видео с НЛО | https://habrahabr.ru/post/258775/
+
+Событийное видеонаблюдение через Интернет для многоквартирных и частных домов. Виртуальный консьерж | https://habrahabr.ru/company/synesis/blog/257219/
+
+Видеостудия для записи MOOC | https://habrahabr.ru/company/stepic/blog/255053/
+
+Оптимизация PhonoPaper с использованием инструментов Intel | https://habrahabr.ru/company/intel/blog/251701/
+
+Создание вращающегося логотипа с помощью ImageMagick и FFMPEG | https://habrahabr.ru/post/251029/
+
+Как создать веб-сайт, используя видео с YouTube в качестве фона? | https://habrahabr.ru/post/249553/
+
+Аналоговый видеовход для Виртурилки и его применение в народном хозяйстве | https://habrahabr.ru/company/virt2real/blog/245459/
+
+Перевод и озвучка фильма дома: Хокинг. Моя краткая история | https://habrahabr.ru/post/245187/
+
+Невероятная Athena | https://habrahabr.ru/company/lenovo/blog/244769/
+
+Как собрать студию для съемки видео c минимальными затратами и за три дня | https://habrahabr.ru/company/besmart/blog/244291/
+
+Форум All-over-IP в Москве: репортаж и впечатления | https://habrahabr.ru/company/synesis/blog/244339/
+
+Разработка New media платформы. Этап доставки пользователям видео-контента | https://habrahabr.ru/company/qbs/blog/242127/
+
+Переход к облачной видеоаналитике: проблемы и решения | https://habrahabr.ru/company/synesis/blog/239835/
+
+«Классика» в современной обработке: обзор медиаплеера iconBIT XDS73D mk2 | https://habrahabr.ru/company/smartgadget/blog/238649/
+
+Анализ существующих подходов к распознаванию лиц | https://habrahabr.ru/company/synesis/blog/238129/
+
+Реконструкция 3D-модели движущегося лица | https://habrahabr.ru/post/237827/
+
+Отладка и оптимизация скриптов gstreamer на примере онлайн трансляции (live streaming) | https://habrahabr.ru/post/236805/
+
+Как мы делали студию для записи онлайн-курсов | https://habrahabr.ru/company/stepic/blog/235867/
+
+Нужен ли голос видеороликам | https://habrahabr.ru/company/alconost/blog/236157/
+
+Amazon купил видеостриминговый сервис Twitch за $970 млн | https://habrahabr.ru/post/234583/
+
+Бюджетная многокамерная FullHD видеосъёмка концерта своими руками | https://habrahabr.ru/post/234437/
+
+Видеонаблюдение от идеи до… идеи. Факты | https://habrahabr.ru/post/234243/
+
+Видеоаналитика в исследованиях влияния стресса на организм | https://habrahabr.ru/company/synesis/blog/234165/
+
+Видеонаблюдение от идеи до… идеи | https://habrahabr.ru/post/234139/
+
+На Хабре встроили поддержку Ivideon или Как улучшить посты с помощью прямой трансляции | https://habrahabr.ru/company/ivideon/blog/234065/
+
+Это видео будет вечным или широко-доступно увеличиваем вместимость видеорегистратора (NVR/DVR) | https://habrahabr.ru/post/234021/
+
+Расширение функционала IP-видеонаблюдения для применения в быту | https://habrahabr.ru/post/233081/
+
+Алгоритм cтабилизации видео с помощью 3D-моделирования сцены | https://habrahabr.ru/post/232877/
+
+Justin.tv закрылся | https://habrahabr.ru/post/232433/
+
+HLS против RTMP — сухая статистика | https://habrahabr.ru/post/232297/
+
+Исследователи восстановили звук из колебаний предметов на видеозаписи | https://habrahabr.ru/post/232245/
+
+Домашнее видеонаблюдение «без осложнений»: обзор AdvoCam-HappyCam | https://habrahabr.ru/company/smartgadget/blog/231279/
+
+Обзор iconBIT DVR QX PRO: любопытный регистратор со съемкой 1080p 60 FPS | https://habrahabr.ru/company/smartgadget/blog/230693/
+
+Аниматор из России работает над созданием 3D версии интро к Futurama | https://habrahabr.ru/post/230253/
+
+Как в России делают видеорегистраторы: репортаж с завода AdvoCam во Владимирской области | https://habrahabr.ru/company/smartgadget/blog/229489/
+
+Отпускные гаджеты: опыт эксплуатации Nikon CoolPix AW120 и Sony Action Cam AS100V | https://habrahabr.ru/company/smartgadget/blog/229321/
+
+Превращаем ноутбук в видеорегистратор | https://habrahabr.ru/company/ivideon/blog/228511/
+
+Azarkant: короткометражный мультфильм, на который ушло три года | https://habrahabr.ru/post/228651/
+
+Разработан алгоритм, эффективно удаляющий из видео все «скучные» фрагменты | https://habrahabr.ru/company/nordavind/blog/228229/
+
+Обзор бюджетного регистратора AdvoCam-FD Black-GPS: Novatek 96650 vs Ambarella A5 | https://habrahabr.ru/company/smartgadget/blog/227999/
+
+OpenColorIO и Krita: обработка и рисование HDR изображений | https://habrahabr.ru/post/227597/
+
+Защита подъезда методом организации разумного видеонаблюдения без консьержа | https://habrahabr.ru/post/226299/
+
+Кодирование x264 + Vorbis | https://habrahabr.ru/post/225291/
+
+x264 + VirtualDub vs XviD. Исследуем возможности, повышаем эффективность | https://habrahabr.ru/post/225033/
+
+Зачем что-то придумывать, если есть YouTube? | https://habrahabr.ru/post/224505/
+
+Обзор AdvoCam-FD8 Profi-GPS Red: регистратор с LDWS и другими «плюшками» + «внутри» | https://habrahabr.ru/company/smartgadget/blog/224329/
+
+Обзор медиа-приставки iconBIT Toucan Smart 3D Quad: центр развлечений с множеством разъемов | https://habrahabr.ru/company/smartgadget/blog/222633/
+
+Обзор iconBIT Toucan Stick 4K: топовый HDMI-стик на AllWinner A31 | https://habrahabr.ru/company/smartgadget/blog/222001/
+
+Пользователь YouTube опубликовал 80 000 видеороликов | https://habrahabr.ru/post/221597/
+
+Как делаются видеоролики для игр | https://habrahabr.ru/company/alconost/blog/220805/
+
+HD FPV на Raspberry Pi. Работа над ошибками | https://habrahabr.ru/post/220953/
+
+Обзор FineVu CR-2000S: как я изучал люксовый регистратор с двумя Full HD-камерами | https://habrahabr.ru/company/smartgadget/blog/220809/
+
+HD FPV на Raspberry Pi | https://habrahabr.ru/post/220019/
+
+О том, как мы искали поезд | https://habrahabr.ru/company/synesis/blog/219611/
+
+Серверы для видеонаблюдения STSS Flagman | https://habrahabr.ru/post/219541/
+
+Проба железа для HD FPV * | https://habrahabr.ru/company/virt2real/blog/218611/
+
+ПО для монтажа и сборки нелинейного интерактивного кино | https://habrahabr.ru/post/217999/
+
+Internet Archive начал оцифровку 40 000 видеокассет VHS и Betamax | https://habrahabr.ru/post/217237/
+
+Первопроходцы: детектор антисоциального поведения на базе видеоаналитики | https://habrahabr.ru/company/synesis/blog/217019/
+
+Новые мониторы LG линейки Ultrawide | https://habrahabr.ru/company/LG_Russia/blog/216877/
+
+Миниатюрный HD-видеотранслятор на виртурилке: тесты в сетях 3G и 4G | https://habrahabr.ru/company/virt2real/blog/216583/
+
+Как строить многоэтажные дома за 2 месяца, а города на 100 000 жителей — за 2 года | https://habrahabr.ru/company/alconost/blog/215303/
+
+Съемка промо-ролика для мобильного приложения в домашних условиях | https://habrahabr.ru/company/eastbanctech/blog/214473/
+
+iON Adventure: гибрид профессиональной экстрим-камеры и авторегистратора с G-сенсором и GPS | https://habrahabr.ru/company/smartgadget/blog/213659/
+
+Записываем видео с VGA-выхода видеокарты — железные методы | https://habrahabr.ru/post/213737/
+
+Свободные кодеки победили в голосовании Википедии | https://habrahabr.ru/post/212965/
+
+Эффект 3D с помощью белых линий | https://habrahabr.ru/post/212921/
+
+BitTorrent выпустит мобильное приложение для организации peer-to-peer видеотрансляций | https://habrahabr.ru/post/212783/
+
+Обзор Aiptek ProjectorCam C25: видеокамера со встроенным проектором | https://habrahabr.ru/company/smartgadget/blog/212251/
+
+4 миллиарда рублей на систему интеллектуального видеонаблюдения для Московского метрополитена | https://habrahabr.ru/company/synesis/blog/212119/
+
+AdvoCam-FD7 Profi-GPS – топовый регистратор с возможностью записи в Super Full HD 1296p | https://habrahabr.ru/company/smartgadget/blog/211510/
+
+FaceRig — анимация персонажа в реальном времени | https://habrahabr.ru/post/207748/
+
+Raspberry Pi: Кодируем H.264 видео в реальном времени | https://habrahabr.ru/company/intel/blog/207314/
+
+В мозге обнаружен механизм видеокомпрессии | https://habrahabr.ru/post/207276/
+
+Манипуляции с матрицами квантования. Часть 2 | https://habrahabr.ru/post/207170/
+
+«Восход Земли» — реконструкция полета Apollo 8 к Луне от NASA в честь 45-летия события | https://habrahabr.ru/post/207052/
+
+Российский рынок видеоаналитики: итоги 2013 года | https://habrahabr.ru/company/synesis/blog/206538/
+
+Манипуляции с матрицами квантования | https://habrahabr.ru/post/206104/
+
+Как SmartTV забыли о главном | https://habrahabr.ru/post/205612/
+
+Перевод и озвучка фильма дома — The Mars Underground | https://habrahabr.ru/post/204570/
+
+Обзор Akenori 1080 X: как превратить регистратор в систему комплексной безопасности | https://habrahabr.ru/company/smartgadget/blog/204390/
+
+Обзор регистратора AdvoCam-FD5S Profi-GPS: «свидетель» с 3-дюймовым экраном и широкоугольной оптикой | https://habrahabr.ru/company/smartgadget/blog/203954/
+
+Microsoft выпустила программу для бесшовной циклической анимации | https://habrahabr.ru/post/203872/
+
+Подготовка видео для звукового дизайна. Какой кодек выбрать | https://habrahabr.ru/post/203396/
+
+Снегопад с помощью фильтров FFmpeg | https://habrahabr.ru/post/203314/
+
+Как мы организовали фото/видео студию в офисных условиях | https://habrahabr.ru/company/alee/blog/203258/
+
+Payoneer и Pond5: новые возможности для стокеров | https://habrahabr.ru/company/payoneer/blog/202934/
+
+Автоматизация сэмплинг-акций: терминал для раздачи образцов и пробников продукции | https://habrahabr.ru/company/alconost/blog/202126/
+
+Обзор Akenori DriveCam 1080 PRO: когда регистратор предупредит о «Стрелке» | https://habrahabr.ru/company/smartgadget/blog/201986/
+
+Делаем детектор движения, или OpenCV — это просто | https://habrahabr.ru/company/avi/blog/200804/
+
+iON Air Pro 2 Wi-Fi: флагманская «подводная» камера – нюансы и особенности | https://habrahabr.ru/company/smartgadget/blog/199526/
+
+Создание музыки для War Thunder: Начало | https://habrahabr.ru/post/197790/
+
+А много ли дроны дают молока? Приёмы обратной разработки в звуковом дизайне | https://habrahabr.ru/post/194670/
+
+Ломаем стереотипы: Женская озвучка World of Tanks | https://habrahabr.ru/post/194358/
+
+IFA 2013: action-камеры | https://habrahabr.ru/company/smartgadget/blog/194118/
+
+Работа над авторским озвучанием World of Tanks | https://habrahabr.ru/post/193628/
+
+Создание видео редактора — полезные рецепты avconv (ffmpeg) | https://habrahabr.ru/post/192724/
+
+Drive Market: шопинг за рулем автомобиля | https://habrahabr.ru/company/alconost/blog/193314/
+
+Видеосервис Play – новинки и лучшие фильмы, легально и без рекламы | https://habrahabr.ru/company/play/blog/193070/
+
+Вышел DivX 10 с поддержкой стандарта сжатия видео HEVC | https://habrahabr.ru/post/192888/
+
+3D-моделирование окружения с помощью видеокамеры | https://habrahabr.ru/post/191884/
+
+Lumia 925: и видео тоже | https://habrahabr.ru/company/microsoftlumia/blog/191330/
+
+Cowon AE1: очередной необычный регистратор от производителя плееров | https://habrahabr.ru/company/smartgadget/blog/191066/
+
+Обзор пикопроектора Aiptek PocketCinema V100: 120 дюймов за $415 | https://habrahabr.ru/company/smartgadget/blog/190754/
+
+Опыт эксплуатации Highscreen Black Box Outdoor в качестве экстрим-камеры | https://habrahabr.ru/company/smartgadget/blog/189850/
+
+Распознавание и конвертация субтитров из VOB в SRT формат | https://habrahabr.ru/post/189804/
+
+Pixomondo и Dell: на крыльях успеха | https://habrahabr.ru/company/dellemc/blog/189420/
+
+Создание полноценного видеохостинга своими руками (nginx+php5-fpm+ffmpeg+cumulusclips) | https://habrahabr.ru/post/188380/
+
+LG IPS277 — домашние 27 дюймов с FullHD | https://habrahabr.ru/company/LG_Russia/blog/181324/
+
+Обзор AdvoCam-FD2 Mini-GPS: компактный и легкий регистратор | https://habrahabr.ru/company/smartgadget/blog/186684/
+
+Об особенностях видеосъёмки лекций | https://habrahabr.ru/company/lektorium/blog/186004/
+
+4К-видео Сатурна и его спутников | https://habrahabr.ru/post/185756/
+
+Подробный разбор аудиоэффектов Premiere Pro CS6 Часть 1/3 | https://habrahabr.ru/post/184018/
+
+Превращаем iPhone в экшн-камеру | https://habrahabr.ru/company/smartgadget/blog/184854/
+
+Компьютерное зрение позволяет увидеть пульс человека, даже если он носит маску | https://habrahabr.ru/company/nordavind/blog/184610/
+
+Практикум: как я сравнивал «одинаковые» регистраторы AdvoCam и teXet | https://habrahabr.ru/company/smartgadget/blog/184198/
+
+В Instagram появилось видео | https://habrahabr.ru/post/184062/
+
+Система компьютерного зрения, разработанная в MIT, позволяет успешнее проходить собеседования | https://habrahabr.ru/company/nordavind/blog/183898/
+
+Работа со звуком в Adobe Premiere Pro CS 6 | https://habrahabr.ru/post/183844/
+
+Вся наблюдаемая Вселенная в одном видео от ученых Лионского университета | https://habrahabr.ru/post/183512/
+
+Обработка видео на CPU и GPU. Ответы эксперта | https://habrahabr.ru/company/intel/blog/181902/
+
+XBMC 12.3 DSPlayer + SmoothVideo Project = мечты сбываются | https://habrahabr.ru/post/181598/
+
+В видеоредакторе Youtube появилась функция интеллектуального замедления времени | https://habrahabr.ru/post/181386/
+
+Задаем вопросы экспертам Intel. Все, что связано с обработкой видео на CPU и GPU | https://habrahabr.ru/company/intel/blog/180813/
+
+Беспилотный боевой робот | https://habrahabr.ru/company/alconost/blog/180793/
+
+Эффект пленочного кинопроектора в цифровых видеотехнологиях | https://habrahabr.ru/post/180271/
+
+Видеоклип на песню Дэвида Боуи, снятый на борту МКС, стал хитом Youtube | https://habrahabr.ru/post/180073/
+
+Google призывает к скорейшему переходу на кодек VP9 | https://habrahabr.ru/post/180033/
+
+Программа BBC Click об Умном городе и будущем современного городского транспорта | https://habrahabr.ru/company/synesis/blog/179801/
+
+В IBM Research создали мультик, используя отдельные молекулы | https://habrahabr.ru/company/ibm/blog/178609/
+
+Видеоредактор Lightworks для Linux — Официальный релиз (Beta) | https://habrahabr.ru/post/178519/
+
+Делаем систему видеонаблюдения | https://habrahabr.ru/post/177071/
+
+Ресторан будущего: технология моментального обслуживания | https://habrahabr.ru/company/alconost/blog/176297/
+
+Классификация продающих видеороликов об IT продуктах | https://habrahabr.ru/company/alconost/blog/176059/
+
+На YouTube появился новый видеорежим 144p | https://habrahabr.ru/post/175839/
+
+Профессиональная видеоаналитика пришла в российский ритейл | https://habrahabr.ru/company/synesis/blog/175357/
+
+Синезис и РТИ начинают сотрудничество в рамках проекта «Безопасный город» | https://habrahabr.ru/company/synesis/blog/175345/
+
+Видеоаналитика: прагматичный взгляд | https://habrahabr.ru/company/synesis/blog/174309/
+
+Уроки рисования или как снимался фильм «Секунда свободного падения» | https://habrahabr.ru/post/174075/
+
+﻿Таблица для выбора диагонали экрана и разрешения | https://habrahabr.ru/post/174069/
+
+О применении CMTime | https://habrahabr.ru/post/173897/
+
+Видеоредактор OpenShot с обновлённым движком идёт на Windows и Mac | https://habrahabr.ru/post/174021/
+
+Принципы анимации: как сделать хороший скринкаст программного продукта | https://habrahabr.ru/company/alconost/blog/173685/
+
+Съемка Матрицы в домашних условиях с помощью 15-ти камер GoPro | https://habrahabr.ru/post/173365/
+
+Удаление лишних людей из видеоролика | https://habrahabr.ru/post/173171/
+
+Мерцание видео при использовании Qt widget и Directshow | https://habrahabr.ru/post/172869/
+
+Новый дизайн YouTube доступен для каждого | https://habrahabr.ru/post/172305/
+
+Новые видеоролики от Alconost | https://habrahabr.ru/company/alconost/blog/172253/
+
+Canon разработала сенсор для съёмки видео FullHD, способный снимать почти в полной темноте | https://habrahabr.ru/post/171839/
+
+Тестирование автомобилей с пейнтболом, дронами и лунапарком, тьфу, большим ангаром | https://habrahabr.ru/post/171671/
+
+Технология безоперационного удаления холестериновых отложений. Будущее рядом | https://habrahabr.ru/company/alconost/blog/171229/
+
+19 команд ffmpeg для любых нужд | https://habrahabr.ru/post/171213/
+
+«Фэйковое видео работы смартфон-приложения с фоном вокруг» или «Как сэкономить на DIY системе стабилизации» или «А нельзя ли записать это с помощью какого-нить софта прямо в смарте?» | https://habrahabr.ru/post/171029/
+
+Пицца, утиные яйца, немного Linux и Android или что нового в Ivideon | https://habrahabr.ru/company/ivideon/blog/170511/
+
+Попытка перевода и озвучки видео в домашних условиях | https://habrahabr.ru/post/170557/
+
+Резервное копирование данных из аккаунта Google: видео How to | https://habrahabr.ru/company/alconost/blog/169149/
+
+YouTube тестирует новый дизайн каналов | https://habrahabr.ru/post/169091/
+
+ITU официально одобрил черновик стандарта сжатия видео H.265 | https://habrahabr.ru/post/167187/
+
+Фишки youtube: распознавание речи (в текст), автоматические субтитры | https://habrahabr.ru/post/166949/
+
+R’ha — короткометражный анимационный фильм немецкого студента, открывший ему двери в Голливуд | https://habrahabr.ru/post/166009/
+
+Где же ты, плеер мечты для Android? | https://habrahabr.ru/company/alconost/blog/165047/
+
+YouTube пришел в Украину | https://habrahabr.ru/post/162605/
+
+Будущее рядом: королева Елизавета вещает в 3D | https://habrahabr.ru/post/162007/
+
+Самоходный дорожностроительный комбайн: 1 км дороги за 1 день и $3-5 млн | https://habrahabr.ru/company/alconost/blog/161271/
+
+И ботаники делают бизнес | https://habrahabr.ru/company/ivideon/blog/161101/
+
+Правильный перевод или как делалась локализация сериала «Сцена» | https://habrahabr.ru/post/160083/
+
+Разработка израильских ученых позволит слепым «видеть» как летучие мыши | https://habrahabr.ru/post/160829/
+
+Мобильные дома-трансформеры | https://habrahabr.ru/company/alconost/blog/160375/
+
+Любительское видео фотокамерой | https://habrahabr.ru/post/160075/
+
+Сделай сам: как изготовить видеоролик в домашних условиях | https://habrahabr.ru/post/159815/
+
+CTRL+console: планшет в качестве монтажного контроллера | https://habrahabr.ru/post/159519/
+
+Официальное видео коворкинга «Рабочая станция» | https://habrahabr.ru/company/coworkstation/blog/158709/
+
+В DARPA работают над интеллектуальной системой предсказания преступлений | https://habrahabr.ru/post/158217/
+
+Один день Интернета: статистика, цифры, факты | https://habrahabr.ru/company/alconost/blog/157675/
+
+Контроллер ShuttlePRO v2 от Contour Design: Обзор, назначение и первые впечатления от использования | https://habrahabr.ru/post/157657/
+
+УФМС в Кемерово транслирует видео из приёмной на свой сайт | https://habrahabr.ru/post/157529/
+
+Панорамное видео из кабины болида Формулы-1 | https://habrahabr.ru/post/157415/
+
+Шаблонные видеоролики: как мы оптимизировали процесс производства видео и добились цены $300 за ролик | https://habrahabr.ru/company/alconost/blog/155777/
+
+Подводные камни видеосъемки цифровыми фотоаппаратами | https://habrahabr.ru/post/153393/
+
+Установка Kernel Tube Video Sharing 2.4.3 на Ubuntu 12.04 | https://habrahabr.ru/post/151432/
+
+Уроки After Effects. Про что рассказать? | https://habrahabr.ru/post/153327/
+
+Как делать видео-отзывы об ИТ-курсах | https://habrahabr.ru/company/muk/blog/152673/
+
+Онлайн-премьера четвёртого открытого короткометражного фильма Tears Of Steel | https://habrahabr.ru/post/152405/
+
+Запись видео с экрана Mac OS X средствами open-source | https://habrahabr.ru/post/148677/
+
+Снимаем видео на Google Glass | https://habrahabr.ru/post/151568/
+
+IP камеры наблюдения Grandstream GXV3611 | https://habrahabr.ru/company/muk/blog/151366/
+
+Перекодирование видео с Intel Quick Sync Video — сделай это по-быстрому | https://habrahabr.ru/company/intel/blog/150205/
+
+Как смотреть видео сразу с двумя потоками субтитров | https://habrahabr.ru/post/151135/
+
+Проект «Рассвет» / Предложение для спонсоров | https://habrahabr.ru/company/trailerss/blog/150998/
+
+Пакетное преобразование видео для бытовых плееров | https://habrahabr.ru/post/150595/
+
+Перенос проектов Adobe After Effects | https://habrahabr.ru/post/150337/
+
+Представлен стандарт сжатия видео MPEG H.265 | https://habrahabr.ru/post/149775/
+
+Закладки в Media Player Classic Home Cinema | https://habrahabr.ru/post/149436/
+
+Выборочная деанимация видео | https://habrahabr.ru/post/149037/
+
+Ночной вид с международной космической станции | https://habrahabr.ru/post/148229/
+
+Теперь на Youtube можно размывать лица | https://habrahabr.ru/post/148058/
+
+Проект Mango приближается к завершению | https://habrahabr.ru/post/147832/
+
+Облачные сервисы: от видеонаблюдения к видеоаналитике | https://habrahabr.ru/company/synesis/blog/147117/
+
+Вышел плеер VLC beta для Android | https://habrahabr.ru/post/146942/
+
+Kinect + DSLR = 3D-киносъёмка | https://habrahabr.ru/post/145951/
+
+Сериалы: онлайн-просмотр или скачивание? | https://habrahabr.ru/post/145644/
+
+Оптимизация обработки аудио и видео в Windows 8 | https://habrahabr.ru/post/145600/
+
+В MIT разработали необычную технологию улучшения видео | https://habrahabr.ru/post/145224/
+
+Распознавание пульса человека на видео | https://habrahabr.ru/post/145135/
+
+Вышел бесплатный профессиональный видеоредактор Lightworks | https://habrahabr.ru/post/144649/
+
+Шон Паркер запускает новый проект | https://habrahabr.ru/post/144694/
+
+В России создана платформа для проведения видеоконференций с рекордным числом участников | https://habrahabr.ru/post/144428/
+
+9 этажей | https://habrahabr.ru/company/trailerss/blog/144081/
+
+x264 или как кодировать видео | https://habrahabr.ru/post/144033/
+
+Кабина для 3D-телеконференций в полный рост (в стиле Star Trek) | https://habrahabr.ru/post/143515/
+
+Улучшенная стабилизация на Youtube | https://habrahabr.ru/post/143420/
+
+Апгрейд киноискусства: 60 впечатлений в секунду | https://habrahabr.ru/post/142931/
+
+Canon объявила о скором выходе 2 камер, способных снимать 4К-видео: EOS-1D C и EOS C500 | https://habrahabr.ru/post/142007/
+
+Конвертирование видео фильмов в формат .mо (Mobiclip) | https://habrahabr.ru/post/140188/
+
+Видео-реклама в новом измерении | https://habrahabr.ru/company/defa/blog/140479/
+
+Mercedes сделал «прозрачный» автомобиль (LED и видеокамера) | https://habrahabr.ru/post/139387/
+
+ТВ-рипы переходят на x264 | https://habrahabr.ru/post/139373/
+
+Установка видеонаблюдения на избирательных участках | https://habrahabr.ru/post/139323/
+
+Доработка видеоплеера ffmpeg | https://habrahabr.ru/post/138426/
+
+Видеоплеер на базе ffmpeg | https://habrahabr.ru/post/137793/
+
+Видеокарта AMD Radeon HD6850, монитор + TV, tearing эффект | https://habrahabr.ru/post/136780/
+
+HD-видео на компьютере: CPU, DXVA, Hi10P, плееры | https://habrahabr.ru/post/136778/
+
+Проблема TV/PC диапазонов видео | https://habrahabr.ru/post/136318/
+
+Sintel: о технологичности искусства | https://habrahabr.ru/post/135583/
+
+Рендеринг замедленной съёмки на основе отдельных кадров | https://habrahabr.ru/post/134775/
+
+Сборка ffmpeg на CentOS 6.0 x64 для Web видео mp4, webm, ogv | https://habrahabr.ru/post/132495/
+
+FFMPEG. Перегнать видео в формат мобильного телефона. Соблюдение пропорций. Операнд PAD | https://habrahabr.ru/post/129461/
+
+CUDA в Adobe Premiere CS5: оправдано ли использование бюджетной видеокарты? | https://habrahabr.ru/post/128751/
+
+Кодирование видео для веб-проектов | https://habrahabr.ru/post/127910/
+
+Монтаж четвертушками | https://habrahabr.ru/post/126517/
+
+Совместим несовместимое? Вейвлеты и компенсация движения | https://habrahabr.ru/post/126387/
+
+AVCHD. Портирование тайм-кодов видеокамеры в субтитры видеофильма | https://habrahabr.ru/post/126243/
+
+На выставке SIGGRAPH 2011 рабочая станция HP Z800 одновременно обрабатывала 12 потоков Full HD видео | https://habrahabr.ru/post/126096/
+
+Final Cut Pro X: причины истерии | https://habrahabr.ru/post/123781/
+
+Webm и Android | https://habrahabr.ru/post/118438/
+
+Avidemux — быстрый и простой видеоредактор | https://habrahabr.ru/post/118163/
+
+60 кадров в секунду: новые впечатления от старого видео | https://habrahabr.ru/post/117426/
+
+Смотрим любое потоковое видео с сайта «ВКонтакте», практически на любом android-смартфоне или планшете без поддержки flash | https://habrahabr.ru/post/114554/
+
+A Day Made of Glass | https://habrahabr.ru/post/114099/
+
+Видеохостинг своими руками | https://habrahabr.ru/post/111249/
+
+Про сжатие видео — Введение | https://habrahabr.ru/post/111244/
+
+Кодирование видео в реальном времени во время загрузки | https://habrahabr.ru/post/110421/
+
+Построение систем доставки видео на основе HTTP Dynamic Streaming от Adobe и OpenSource | https://habrahabr.ru/post/110135/
+
+Прямой эфир телеканала «Россия-24» можно смотреть в приложении «Вести» для iPhone | https://habrahabr.ru/post/107199/
+
+Изменение форм и пропорций тела на видео | https://habrahabr.ru/post/106128/
+
+BitTorrent-фильм «Туннель» всё-таки включили в базу IMDb | https://habrahabr.ru/post/105579/
+
+music.ivi.ru — мы полностью открылись | https://habrahabr.ru/post/105500/
+
+live камера с Международной Космической Станции | https://habrahabr.ru/post/104211/
+
+HDR видео с помощью двух 5D Mark II | https://habrahabr.ru/post/103946/
+
+madVR: как выжать максимум качества из видео | https://habrahabr.ru/post/103837/
+
+Миф о бесплатности H.264 | https://habrahabr.ru/post/103108/
+
+Наш плеер на HTML5 | https://habrahabr.ru/post/102576/
+
+Небо видело всё | https://habrahabr.ru/post/100467/
+
+Представляем самый быстрый декодер VP8 в мире: ffvp8 | https://habrahabr.ru/post/100076/
+
+Подмена фона в видеочате | https://habrahabr.ru/post/98855/
+
+BBC разрабатывает стандарт протокола интернет-телевидения | https://habrahabr.ru/post/97588/
+
+Сравнение кодеков VP8, x264 и libtheora | https://habrahabr.ru/post/96888/
+
+Лицензия на WebM теперь совместима с GPL | https://habrahabr.ru/post/95633/
+
+Устранение утечки нефти в прямом эфире | https://habrahabr.ru/post/94891/
+
+Покадровое сравнение H.264 и VP8 | https://habrahabr.ru/post/94394/
+
+Юристы MPEG LA начали собирать патентный пул против кодека VP8 | https://habrahabr.ru/post/94163/
+
+Мысли о WebM | https://habrahabr.ru/post/94036/
+
+Стандарт H.264 и вопросы лицензии на него (и немного об Ogg Theora) | https://habrahabr.ru/post/93153/
+
+Поддержка H.264 High Profile Level 5.1 в ATI Catalyst 10.4 | https://habrahabr.ru/post/92589/
+
+Конвертирование видео в Ogg Theora. UNIX Way | https://habrahabr.ru/post/91963/
+
+«Прожектор Пэрис Хилтон» заманили на ivi.ru | https://habrahabr.ru/post/89766/
+
+Первый артист достиг рубежа 1 млрд видеопросмотров | https://habrahabr.ru/post/89261/
+
+Video rip. Часть 3. Сжимаем и запаковываем | https://habrahabr.ru/post/88668/
+
+Video rip. Часть 2-4. IVTC | https://habrahabr.ru/post/88654/
+
+Новая версия Divx H.264 декодера с поддержкой DXVA | https://habrahabr.ru/post/88312/
+
+Обзор бесплатного онлайн-кинотеатра ivi.ru, делящегося с правообладателями | https://habrahabr.ru/post/85659/
+
+Запустился крупнейший в России видеосервис с полнометражным контентом ivi.ru | https://habrahabr.ru/post/85650/
+
+Тормоза HD-видео. Давайте разбираться вместе | https://habrahabr.ru/post/84574/
+
+Пробуем создать спецэффект | https://habrahabr.ru/post/83761/
+
+Бесплатный H.264 продлили до 2016 года | https://habrahabr.ru/post/83129/
+
+Просто посмотрев видеоролик H.264 с нарушением патента, вы подлежите ответственности | https://habrahabr.ru/post/83030/
+
+Сравнение кодеков libtheora и x264 | https://habrahabr.ru/post/82544/
+
+Vimeo тоже за HTML5 и H.264 | https://habrahabr.ru/post/81544/
+
+Аниматроника от Johnnolanfilms | https://habrahabr.ru/post/81454/
+
+Шпаргалка по расшифровке имен видеофайлов | https://habrahabr.ru/post/80721/
+
+Загрузил ролик, получил контракт на $30 000 000! | https://habrahabr.ru/post/78794/
+
+Скорость кодирования Theora VS XVID | https://habrahabr.ru/post/76829/
+
+Официальный релиз Theora 1.1 | https://habrahabr.ru/post/70830/
+
+Кручу-верчу, взлететь хочу | https://habrahabr.ru/post/70457/
+
+Хостинг на Photoshop.com | https://habrahabr.ru/post/67861/
+
+Организация видео трансляции | https://habrahabr.ru/post/66636/
+
+YouTube развенчивает мифы | https://habrahabr.ru/post/65125/
+
+Video rip. Часть 2-3. Избавление от обычной чересстрочности (deinterlace) | https://habrahabr.ru/post/61822/
+
+Video rip. Часть 2-2. Как определить что у нас: progressive, interlaced или telecined? | https://habrahabr.ru/post/61826/
+
+Несколько дней «Плохих парней 2» | https://habrahabr.ru/post/59262/
+
+Theora обошла H.264 по качеству | https://habrahabr.ru/post/59176/
+
+Stop Motion видео с волком и свиньей | https://habrahabr.ru/post/57204/
+
+Имитация автоматной очереди (учебное видео) | https://habrahabr.ru/post/52424/
+
+Video rip. Часть 2-1. Что такое interlace и с чем его едят | https://habrahabr.ru/post/51201/
+
+Video rip. Часть 1-2. Подготовка DVD. DGMPGDec | https://habrahabr.ru/post/50611/
+
+Ёжик в тумане | https://habrahabr.ru/post/50371/
+
+Video rip. Часть 1-1. Подготовка DVD. vStrip | https://habrahabr.ru/post/50256/
+
+Video rip. Часть 0. Вводная | https://habrahabr.ru/post/50218/
+
+Знакомство с AviSynth | https://habrahabr.ru/post/49735/
+
+YouTubeTV теперь на Wii и PS3 | https://habrahabr.ru/post/49659/
+
+В DivX добавлена поддержка H.264 и MKV | https://habrahabr.ru/post/49305/
+
+Цамети (Тринадцать) — Фильм Гелы Бабулуани | https://habrahabr.ru/post/48080/
+
+100 000 000 американцев смотрят YouTube | https://habrahabr.ru/post/46660/
+
+Пиротехника и кровавые эффекты | https://habrahabr.ru/post/46448/
+
+Дешёвый способ имитации попадания пули в человека | https://habrahabr.ru/post/45400/
+
+Официальный релиз Theora 1.0 | https://habrahabr.ru/post/43977/
+
+YouTube хвастается музыкальными ссылками, новыми возможностями просмотра | https://habrahabr.ru/post/41847/
+
+XSPF — идеальный формат для плейлистов. | https://habrahabr.ru/post/41462/
+
+Усовершенствования кодека ogg Theora | https://habrahabr.ru/post/38035/
+
+Поддержка открытого формата ogg в Mozilla | https://habrahabr.ru/post/37911/
+
+Один звонок и у вас анимированная аватарка | https://habrahabr.ru/post/27238/
+
+Снимается кино о пользе чата в деле убийства | https://habrahabr.ru/post/26858/
+
+Видео@Mail.Ru: редизайн в стиле Веб 2.0 | https://habrahabr.ru/post/26638/
+
+Алишер Усманов запускает видеопортал «ПроНовости» | https://habrahabr.ru/post/24878/
+
+Онлайновый видеоконвертер | https://habrahabr.ru/post/24841/
+
+Моя прелесть на Муви | https://habrahabr.ru/post/24337/
+
+Что случилось с Vimeo? | https://habrahabr.ru/post/24154/
+
+Китай приступил к уничтожению видеохостингов | https://habrahabr.ru/post/22090/
+
+Ogg (Vorbis, Theora, Speex, FLAC) в будущем сети. | https://habrahabr.ru/post/21792/
+
+Очень быстрое кино | https://habrahabr.ru/post/21786/
+
+Открылся «YouTube для уличных танцоров» | https://habrahabr.ru/post/21134/
+
+Сравнение популярных видео хостингов | https://habrahabr.ru/post/20820/
+
+В Китае вводят государственные лицензии для сервисов UGC | https://habrahabr.ru/post/18477/
+
+ITU принял стандарт для интернет-телевидения | https://habrahabr.ru/post/17731/
+
+5 обезьян | https://habrahabr.ru/post/17227/
+
+Кинопрокат добрался до виртуальных миров | https://habrahabr.ru/post/17030/
+
+Первый канал начал вещание на Silverlight | https://habrahabr.ru/post/16249/
+
+Joost на пути от социального веба к интернет-ТВ | https://habrahabr.ru/post/14895/
+
+Разработчики плеера Miro просят денег на демократию | https://habrahabr.ru/post/14159/
+
+Ролики Rutube покажут по телевидению | https://habrahabr.ru/post/14099/
+
+Флэш-клоны Joost пошли в тираж | https://habrahabr.ru/post/13954/
+
+Пресс-конференция онлайн | https://habrahabr.ru/post/13614/
+
+Винт Сёрф пророчит смерть телевидению | https://habrahabr.ru/post/13604/
+
+Учёные создали аналог YouTube для лекций и презентаций | https://habrahabr.ru/post/13373/
+
+Трафик интернет-ТВ вырастет до 7 млн тебибайт | https://habrahabr.ru/post/13368/
+
+Людям не нравится покупать кино в онлайне | https://habrahabr.ru/post/13220/
+
+Google прекращает продажу видео | https://habrahabr.ru/post/13175/
+
+Myvi.ru выплачивает стипендии | https://habrahabr.ru/post/13007/
+
+Исследование Akamai показало критическую связь между качеством видео и лояльностью посетителей | https://habrahabr.ru/post/13002/
+
+Информационная машина | https://habrahabr.ru/post/12938/
+
+На Rutube появилось лицензионное кино | https://habrahabr.ru/post/12758/
+
+Видео на YouTube смотрят 35% пользователей Сети | https://habrahabr.ru/post/12340/
+
+Госдума запустила Rutube-канал | https://habrahabr.ru/post/11774/
+
+В понедельник Blinkx выпустит аналог Adsense для видео | https://habrahabr.ru/post/11122/
+
+Исследования Forrester: интернетчики не хотят платить за видео | https://habrahabr.ru/post/8410/
+
+Итальянский конкурент Joost — Babelgum | https://habrahabr.ru/post/8352/
+
+YouTube будет платить популярным пользователям | https://habrahabr.ru/post/7921/
+
+YouTube готов размещать рекламу в роликах пользователей | https://habrahabr.ru/post/7241/
+
+Кино для гика | https://habrahabr.ru/post/7045/
+
+Встречайте webflix.ru, отечественный интернет-прокат DVD | https://habrahabr.ru/post/6741/
+
+Аскар Туганбаев: телевизионщик на тракторе | https://habrahabr.ru/post/6381/
+
+Burning Safari | https://habrahabr.ru/post/5677/
+
+ChubbChubbs. | https://habrahabr.ru/post/5676/
+
+Не спать! | https://habrahabr.ru/post/5519/
+
+Порция мульти-настроения! | https://habrahabr.ru/post/5497/
+
+MS тоже попытается конкурировать с YouTube | https://habrahabr.ru/post/3326/
+
+Google: неоднозначное видео | https://habrahabr.ru/post/4990/
+
+«НТВ-Плюс» покажет британский футбол в интернете | https://habrahabr.ru/post/2548/
+
+Новый год с Chevrolet | https://habrahabr.ru/post/1004/
+
+Видео-подкастинг: телеканалы пытаются повернуться лицом к интернету | https://habrahabr.ru/post/4845/
+
+UTube.com решил подзаработать на невнимательных пользователях | https://habrahabr.ru/post/2366/
+
+Эффект видео: YouTube спасёт телевидение? | https://habrahabr.ru/post/4711/
+
+Теперь под ударом Google Video | https://habrahabr.ru/post/2103/
+
+YouTube опять не угодил. На этот раз — футболистам Германии | https://habrahabr.ru/post/2072/
+
+YouTube вернул комедийные шоу на место | https://habrahabr.ru/post/2061/
+
+YouTube удаляет отрывки из популярных шоу Comedy Central | https://habrahabr.ru/post/2035/
+
+YouTube выдал пользователя юристам | https://habrahabr.ru/post/4567/
+
+Universal Music подаёт иск против двух медиа-сервисов | https://habrahabr.ru/post/1942/
+
+Британское правительство: «Спасти интернет-видео!» | https://habrahabr.ru/post/4541/
+
+Они сделали это! Google и YouTube официально оформили сделку | https://habrahabr.ru/post/4498/
+
+Google ведёт переговоры о покупке YouTube | https://habrahabr.ru/post/309/
+

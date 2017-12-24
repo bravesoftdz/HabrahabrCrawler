@@ -1,0 +1,212 @@
+Локализация комментариев в коде. Лекция Яндекса | https://habrahabr.ru/company/yandex/blog/341192/
+
+Автоматизация работы с Logs API в AppMetrica. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/340126/
+
+20 лет Яндексу. Лекция Ильи Сегаловича — человека, который придумал это слово | https://habrahabr.ru/company/yandex/blog/338562/
+
+Как настроить рассылку отчетов из Яндекс.Метрики с помощью R (с нуля) | https://habrahabr.ru/post/337518/
+
+Как создавалась карта с голосами болельщиков для Олимпиады. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/335982/
+
+Алгоритм для запоминания иностранных слов | https://habrahabr.ru/post/335212/
+
+Caché Localization Manager или i18n в InterSystems Caché | https://habrahabr.ru/company/intersystems/blog/313206/
+
+YML (Yandex Market Language) — Генерация файла товаров для Яндекс Вебмастер | https://habrahabr.ru/post/313256/
+
+Обработка голосовых запросов в Telegram с помощью Yandex SpeechKit Cloud | https://habrahabr.ru/post/311578/
+
+Использование Google Cloud Speech API v2 в Asterisk для распознавания русской речи | https://habrahabr.ru/post/310622/
+
+Dynamic DNS на C# и Яндекс.API | https://habrahabr.ru/post/310534/
+
+«Сообщения сообщества» и «Вебвизор» от Яндекса | https://habrahabr.ru/post/310030/
+
+Яндекс.Карты (а также Google Maps и др.), когда вы начнёте использовать mesh-сети? | https://habrahabr.ru/post/307074/
+
+API Яндекс.Панорам: как сделать свою виртуальную прогулку или просто довести человека от метро | https://habrahabr.ru/company/yandex/blog/305846/
+
+Leaflet как оболочка для «Яндекс.Карт» — отображаем 100 тысяч маркеров на карте | https://habrahabr.ru/post/283354/
+
+Собственный «Кто звонил?» на базе Мультифона | https://habrahabr.ru/post/278679/
+
+БЭМ-методология: с чего всё начиналось и зачем это всё нужно | https://habrahabr.ru/company/yandex/blog/276035/
+
+Расширенный поиск Яндекса (и Гугла) с помощью установленного скрипта или в интерфейсе | https://habrahabr.ru/post/275479/
+
+Насколько важен API или сравниваем Яндекс.XML и реальную выдачу | https://habrahabr.ru/post/275197/
+
+Автоматизация вывода виджета Яндекс.Карты на платформе 1C Bitrix | https://habrahabr.ru/post/275021/
+
+Подводные камни использования Excel Power Query и MySQL для автоматизации отчетности | https://habrahabr.ru/post/274615/
+
+Интерактивная карта клиентов — Apache Spark Streaming и Яндекс.Карты | https://habrahabr.ru/company/bitrix/blog/274041/
+
+Применение SpeechKit Cloud API для озвучивания погоды и новостей от Yandex | https://habrahabr.ru/post/271081/
+
+Скрипт управлениями доставками интернет-магазина | https://habrahabr.ru/post/269003/
+
+19 принципов разработки по БЭМ, или что должен знать каждый разработчик библиотек | https://habrahabr.ru/company/yandex/blog/267875/
+
+Как мы делали Разговор: от прототипа на хакатоне до приложения Яндекса | https://habrahabr.ru/company/yandex/blog/267679/
+
+API для валидатора от Яндекса. А также почему валидаторы микроразметки выдают разные ответы? | https://habrahabr.ru/company/yandex/blog/265965/
+
+Стоимость жилья как функция координат | https://habrahabr.ru/post/265783/
+
+В помощь аналитику: пишем свою автоматическую выгрузку отчетов Яндекс.Метрики с помощью AWS бесплатно | https://habrahabr.ru/post/265383/
+
+Botan.io — экспериментальный инструмент аналитики ботов Telegram от Яндекса | https://habrahabr.ru/company/yandex/blog/264121/
+
+Как найти себе место на земле и не попасть на счетчик Яндекса | https://habrahabr.ru/company/yandex/blog/263863/
+
+Пришла беда откуда не ждали, уязвимость XSS в сервисе Яндекс.Метрика | https://habrahabr.ru/post/263113/
+
+Анализ звонков в колл-центры | https://habrahabr.ru/post/261993/
+
+Анимация фильтрации маркеров в Yandex Maps API | https://habrahabr.ru/post/261859/
+
+Визуализация геоданных сети референцных станций Санкт-Петербурга | https://habrahabr.ru/post/261735/
+
+Яндекс-Перевод в терминале через Java | https://habrahabr.ru/post/261259/
+
+DataSync API от Яндекс.Диска: облако для приложений и структурированных данных | https://habrahabr.ru/company/yandex/blog/255357/
+
+Мониторинг цен ритейлеров в России | https://habrahabr.ru/post/252549/
+
+Оплата на счет Яндекс.Денег картой VISA/MasterCard или как заблокировать произвольный кошелек | https://habrahabr.ru/post/250927/
+
+Попытка реинкарнации и вброс в Open-Source Яндекс.Подписок | https://habrahabr.ru/post/249663/
+
+Яндекс убил сервис Подписки | https://habrahabr.ru/post/249635/
+
+Стриминг аудио в iOS на примере Яндекс.Диск | https://habrahabr.ru/post/249605/
+
+Интерфейс для Яндекс.Диска в Ubuntu 14.04 | https://habrahabr.ru/post/249267/
+
+Запросы к Яндекс в прямом эфире | https://habrahabr.ru/post/247139/
+
+Былина о том, как я Drupal и Яндекс.ПДД связывал | https://habrahabr.ru/company/ua-hosting/blog/245117/
+
+Как мы пытались внедрить Яндекс.Кассу | https://habrahabr.ru/post/245401/
+
+Интерактивное голосовое редактирование текста с помощью новых речевых технологий от Яндекса | https://habrahabr.ru/company/yandex/blog/243813/
+
+ObjectManager в API Яндекс.Карт. Как быстро отрисовать 10 000 меток на карте и не затормозить всё вокруг | https://habrahabr.ru/company/yandex/blog/243665/
+
+Особенности загрузки объектов из карты формата KML на карту Яндекса | https://habrahabr.ru/post/242697/
+
+На Яндекс.Картах теперь можно создавать тепловые карты | https://habrahabr.ru/company/yandex/blog/241361/
+
+Как написать собственное приложение с REST API Яндекс.Диска | https://habrahabr.ru/company/yandex/blog/241223/
+
+Как мы весь день тратили 10 рублей или Хакатон ЯД | https://habrahabr.ru/post/240247/
+
+Почтовый офис Яндекса: как мы сделали сервис, анализирующий результаты рассылок в реалтайме | https://habrahabr.ru/company/yandex/blog/240181/
+
+Yandex слышит тебя, dude | https://habrahabr.ru/company/papabubadiop/blog/236079/
+
+И снова Яндекс.Погода для сайта: время суток, направление ветра и прочие параметры | https://habrahabr.ru/post/233243/
+
+Реализация и тестирование Qt C++ клиента сетевого сервиса с асинхронным интерфейсом на примере Yandex Dictionary Api | https://habrahabr.ru/post/233099/
+
+Открытая Yandex PHP Library для работы с API Яндекса | https://habrahabr.ru/company/yandex/blog/231495/
+
+Про QML и новое REST API Яндекс.Диска | https://habrahabr.ru/post/230435/
+
+Генплан посёлка на основе Яндекс api v2 или как соотнести координаты картинки и карты | https://habrahabr.ru/post/230215/
+
+Новая Яндекс.Метрика через API: конструктор отчётов и поддержка API других стандартов | https://habrahabr.ru/company/yandex/blog/228569/
+
+Новый REST API Яндекс.Диска и Полигон. А также зачем Диску ещё один API и как мы его делали | https://habrahabr.ru/company/yandex/blog/227377/
+
+Распознавание речи в Asterisk с использованием Yandex SpeechKit HTTP API | https://habrahabr.ru/post/225179/
+
+Вредные советы от создателей API Яндекс.Карт. Как сделать так, чтобы всё было плохо | https://habrahabr.ru/company/yandex/blog/221139/
+
+Корректный YML для Яндекс.Маркета. Взгляд программиста | https://habrahabr.ru/post/216985/
+
+Некорректная работа API Яндекс.Денег при приеме платежей картой | https://habrahabr.ru/post/213377/
+
+Служба Automator, загружающая изображения на Яндекс.Фотки | https://habrahabr.ru/post/207818/
+
+Яндекс.Карты меняют API. Почему нам понадобилось ломать обратную совместимость в кластеризаторе | https://habrahabr.ru/company/yandex/blog/207202/
+
+API Яндекс Лингвистики под .NET | https://habrahabr.ru/post/204372/
+
+Как подружить капчу Yandex API и AJAX | https://habrahabr.ru/post/205456/
+
+Выпущены Яндекс.Навигатор и SpeechKit для Windows Phone | https://habrahabr.ru/company/microsoft/blog/203862/
+
+Пишем простой аналог клиента Яндекс.Диск под Linux (и Windows) | https://habrahabr.ru/post/196370/
+
+JavaScript API Яндекс.Карт — версия 2.1-beta — новый дизайн и новые возможности | https://habrahabr.ru/company/yandex/blog/196288/
+
+SDK от Яндекс.Диска | https://habrahabr.ru/company/yandex/blog/196212/
+
+Голосовой поиск «по-русски» | https://habrahabr.ru/post/196158/
+
+Платформа «Атом» от Яндекса — интернет, адаптированный для каждого | https://habrahabr.ru/company/yandex/blog/195982/
+
+Устройство системы Безопасного Поиска Яндекса | https://habrahabr.ru/company/yandex/blog/195408/
+
+YaC: почему важно не пропустить главную технологическую конференцию Яндекса в 2013 году | https://habrahabr.ru/company/yandex/blog/194276/
+
+История открытых данных и Хакатон Яндекса | https://habrahabr.ru/company/yandex/blog/193336/
+
+На Яндекс.Диске теперь можно купить дополнительное место | https://habrahabr.ru/company/yandex/blog/188314/
+
+Работа с API Яндекс.Метрика на Python | https://habrahabr.ru/post/187384/
+
+Как устроен Яндекс.Диск: загрузчик | https://habrahabr.ru/company/yandex/blog/186752/
+
+В этот особенный день — обновленный API Яндекс.Подписок | https://habrahabr.ru/company/yandex/blog/185198/
+
+«Острова» Яндекса: техническая сторона и API | https://habrahabr.ru/company/yandex/blog/181646/
+
+Делаем dDNS-клиент для DNS Яндекса на MikrotikOS | https://habrahabr.ru/post/180497/
+
+Яндекс обновился. Яндекс острова | https://habrahabr.ru/post/179877/
+
+Вышла новая версия Яндекс.Браузера: с синхронизацией и API Табло | https://habrahabr.ru/company/yandex/blog/179507/
+
+Об облачных и не только технологиях Яндекса в Киеве в эту субботу | https://habrahabr.ru/company/yandex/blog/177763/
+
+Как мы делали Яндекс.Диск: серверная сторона, WebDAV и Erlang | https://habrahabr.ru/company/yandex/blog/176251/
+
+Как мы выбрали и реализовали WebDAV в Яндекс.Диске | https://habrahabr.ru/company/yandex/blog/173343/
+
+Пишем расширение для Google Chrome (и публикуем его) | https://habrahabr.ru/post/170765/
+
+Создание сводной таблицы посещаемости нескольких сайтов с помощью Яндекс.Метрики | https://habrahabr.ru/post/166433/
+
+Авто-импорт данных о расходах из Яндекс.Директа в Google Analytics по API | https://habrahabr.ru/post/163205/
+
+Пользовательские кнопки в API Яндекс.Карт 2.0 | https://habrahabr.ru/post/161763/
+
+Автоматический прием Яндекс.Денег на сайте на php | https://habrahabr.ru/post/160969/
+
+Работа с API Яндекс.Вебмастер | https://habrahabr.ru/post/157753/
+
+Яндекс Карты: Поиск произвольных объектов | https://habrahabr.ru/post/154581/
+
+Печать Яндекс.Карты под API 2.x с метками и кластерами | https://habrahabr.ru/post/150061/
+
+Занимательная геодезия | https://habrahabr.ru/post/143898/
+
+Фоткер — комфортный просмотр Яндекс.Фоток | https://habrahabr.ru/post/148055/
+
+Блогер пытается отсудить у Яндекса 10 млн. за плохую индексацию | https://habrahabr.ru/post/146925/
+
+Кластеризация на клиенте или как показать 10000 точек на карте | https://habrahabr.ru/post/145832/
+
+Создание пользовательского контрола карты с помощью API Яндекс.Карт 2.0 | https://habrahabr.ru/post/145548/
+
+Использование API Яндекс.Карт для работы с произвольными подложками | https://habrahabr.ru/post/142930/
+
+АПИшник Яндекс.Карт | https://habrahabr.ru/company/yandex/blog/142473/
+
+JavaScript API Яндекс.Карт — версия 2.0 | https://habrahabr.ru/company/yandex/blog/142310/
+
+Делаем dDNS-клиент для DNS Яндекса | https://habrahabr.ru/post/129600/
+

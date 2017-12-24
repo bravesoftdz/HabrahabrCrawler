@@ -1,0 +1,674 @@
+Scrum внедрили, agile — забыли | https://habrahabr.ru/post/344444/
+
+Приглашаем на Рождественский Agile MeetUp | https://habrahabr.ru/company/raiffeisenbank/blog/344518/
+
+Команда разработчиков Renga: как мы достигли идиллии, работая без менеджеров | https://habrahabr.ru/company/ascon/blog/343840/
+
+Недельный спринт, анкета кандидата и картонный мужик | https://habrahabr.ru/company/alfa/blog/344240/
+
+Зависимые события и статистические флуктуации или почему «водопад» умрет | https://habrahabr.ru/post/344198/
+
+Как мы решили внедрять Помидор в компании | https://habrahabr.ru/post/343994/
+
+Agile Kitchen в офисе Туту.ру | https://habrahabr.ru/company/tuturu/blog/343962/
+
+Фактический человеко-месяц | https://habrahabr.ru/company/wrike/blog/343372/
+
+Фрэймворк для разработки продуктов от Facebook | https://habrahabr.ru/company/edison/blog/343184/
+
+Методика Lego Serious Play: как сформулировать и использовать ценности команды с помощью детского конструктора | https://habrahabr.ru/post/343180/
+
+Видео докладов с конференции Agile Kitchen в «М.Видео» | https://habrahabr.ru/company/mvideo/blog/342528/
+
+Scrum не только в разработке – используем гибкую методологию в организации IT-фестиваля для детей и родителей | https://habrahabr.ru/company/codabra/blog/343012/
+
+Product owner в банке – кто это и что он умеет | https://habrahabr.ru/company/alfa/blog/342768/
+
+PM из Facebook: контринтуитивные выводы о менеджменте (часть 1) | https://habrahabr.ru/company/edison/blog/341642/
+
+Agile Turkey Summit 2017, и такая противоречивая «международность» мероприятия | https://habrahabr.ru/post/342114/
+
+Agile в России — 82.9% компаний сообщают, что используют хоть что-то из Agile. Первые результаты опроса | https://habrahabr.ru/company/yougile/blog/340936/
+
+Повышение качества отбора персонала на основе данных | https://habrahabr.ru/post/341220/
+
+Почему Agile иногда не работает | https://habrahabr.ru/company/alconost/blog/340900/
+
+Бизнес хочет коробочные решения на всё. Кого-то волнует закон Яровой? | https://habrahabr.ru/company/yougile/blog/340024/
+
+Внедрение в Mars IS процесса Service Introduction | https://habrahabr.ru/company/marsis/blog/340528/
+
+О пользе лаконичности | https://habrahabr.ru/post/340434/
+
+Как рассказать что такое Agile на заводе? Топ 5 самых популярных Agile-практик | https://habrahabr.ru/company/yougile/blog/329754/
+
+Еще один пост «почему Agile не работает» (с картинками) | https://habrahabr.ru/post/340096/
+
+Как мы обманываем клиентов. Софт как Сервис | https://habrahabr.ru/company/yougile/blog/337634/
+
+Совместное использование Scrum и DevOps — перевод статьи The Convergence of Scrum and DevOps | https://habrahabr.ru/post/339674/
+
+Техническая композиция диаграмм процессов | https://habrahabr.ru/post/339278/
+
+Сказка о хорошо выстроенных бизнес-процессах, или как одна проблема хакнула идеально работающую систему разработки | https://habrahabr.ru/post/339104/
+
+Графический интерфейс или чат бот в управлении проектами: что эффективнее?.. Практический эксперимент | https://habrahabr.ru/company/meanotek/blog/338906/
+
+Mars Information Services: добро пожаловать в Mars | https://habrahabr.ru/company/marsis/blog/338886/
+
+Искусство создания диаграмм процессов | https://habrahabr.ru/post/338356/
+
+Внедрение элементов гибких методологий в Банке | https://habrahabr.ru/post/336554/
+
+Ланнистеры всегда платят свои долги! (и технические тоже) | https://habrahabr.ru/company/ncloudtech/blog/337308/
+
+Интервью с Иваром Якобсоном, основоположником UML, RUP, Essence | https://habrahabr.ru/post/336782/
+
+Деловая игра Kanban-пицца в офисе Туту.ру | https://habrahabr.ru/company/tuturu/blog/337218/
+
+Шпаргалка для предпринимателя по IT-миру | https://habrahabr.ru/post/337238/
+
+Сударь, ваша команда — не команда | https://habrahabr.ru/post/337048/
+
+Управление разработкой технологически сложных интернет-приложений в условиях острой нехватки времени | https://habrahabr.ru/post/336540/
+
+Особенности разработки мобильной MMO RTS. Часть 6 | https://habrahabr.ru/company/plarium/blog/336254/
+
+Test Management for JIRA и его применение при разработке программного обеспечения | https://habrahabr.ru/post/335932/
+
+Как мы починили свой процесс и стали меньше отвлекаться | https://habrahabr.ru/post/334936/
+
+Как использовать Канбан для удобной работы не только менеджеров, но и программистов | https://habrahabr.ru/post/334860/
+
+hh и в продакшн: как выпустить новую фичу | https://habrahabr.ru/company/hh/blog/334562/
+
+Google re:Work — Руководство: Постановка целей с помощью OKR (перевод) | https://habrahabr.ru/post/334416/
+
+Про Agile, Scrum и командную работу. Как устроены процессы развития продуктов в Альфа-Лаборатории | https://habrahabr.ru/company/alfa/blog/334294/
+
+Как подсознательно побудить сотрудников соблюдать дедлайны проекта | https://habrahabr.ru/post/333796/
+
+Опасности при измерении продуктивности | https://habrahabr.ru/company/parallels/blog/333482/
+
+Стоимость качества в разработке программного обеспечения | https://habrahabr.ru/post/332724/
+
+Почему руководство не принимает agile и что вы можете с этим сделать | https://habrahabr.ru/post/333032/
+
+Проведение ретроспективы по методу шести шляп | https://habrahabr.ru/post/332264/
+
+Baking Boards или секретный ингредиент идеальной Agile кухни | https://habrahabr.ru/company/JetBrains/blog/331954/
+
+13 вопросов, чтобы узнать, готовы ли вы нанимать команду мобильной разработки | https://habrahabr.ru/post/331510/
+
+Первыми закрываются компании где ставится много задач. Статистика использования системы управления проектами YouGile | https://habrahabr.ru/company/yougile/blog/329752/
+
+Скрам в реальном мире. Обзор встречи для скрам-мастеров | https://habrahabr.ru/company/wrike/blog/329552/
+
+Групповой чат как ежедневная погоня | https://habrahabr.ru/company/alconost/blog/329422/
+
+OKR: Как поставить цели и выполнить их на 70% | https://habrahabr.ru/company/wrike/blog/329272/
+
+Как проверить бизнес-идею за 75$. Спросите у мух дрозофил | https://habrahabr.ru/post/328686/
+
+Как выглядит Scrum в реальном мире? Выясняем на встрече sсrum-мастеров 23 мая в Санкт-Петербурге | https://habrahabr.ru/company/wrike/blog/328678/
+
+«Дальше не придумали, импровизируй» или Agile в информационной безопасности | https://habrahabr.ru/company/solarsecurity/blog/328410/
+
+Преимущества Иерархической Структуры Работ (WBS) для менеджеров ИТ проектов | https://habrahabr.ru/post/327872/
+
+Что если добавить немного магии в рабочий процесс? | https://habrahabr.ru/post/327314/
+
+7 препятствий для внедрения гибких методологий в больших организациях | https://habrahabr.ru/post/327158/
+
+Как мы строим бережливое производство (Lean) в своей компании | https://habrahabr.ru/post/326398/
+
+Книга «Пользовательские истории. Искусство гибкой разработки ПО» | https://habrahabr.ru/company/piter/blog/326294/
+
+Agile у каждого свой: как плыть по течению, управлять проектами и не страдать | https://habrahabr.ru/company/icanchoose/blog/326130/
+
+Гибкое планирование выпуска релизов 101 (на основе Excel) | https://habrahabr.ru/post/325476/
+
+Канбан в управлении разработкой продуктов в машиностроении | https://habrahabr.ru/post/323940/
+
+Зачем играть в getKanban: опыт Туту.ру | https://habrahabr.ru/company/tuturu/blog/323792/
+
+FixPrice Agile или SCRUM через Ж… иру | https://habrahabr.ru/post/323178/
+
+Реализация процедуры «Планирование выпуска релизов по продуктам» инструментами семейства Atlassian | https://habrahabr.ru/post/321598/
+
+Как мы не прошли в Y Combinator “…план по прибыли простой — тут наркотики легальны, $70 косяк...” | https://habrahabr.ru/company/yougile/blog/321276/
+
+Дополняем Scrum архитектурными процессами. Часть 1. Требования | https://habrahabr.ru/post/317652/
+
+Процесс «Управление релизами» — для постпроектной поддержки или развития продукта | https://habrahabr.ru/post/321664/
+
+Как оценивать большие задачи | https://habrahabr.ru/company/mindbox/blog/321270/
+
+Agile в небольших командах — как красиво сломать себе шею | https://habrahabr.ru/company/bitrix/blog/321098/
+
+85% сотрудников забивает на системы управления проектами. Как мы делаем свою | https://habrahabr.ru/company/yougile/blog/321072/
+
+Законы Лармана об организационном поведении | https://habrahabr.ru/company/scrumtrek/blog/320832/
+
+Agile умер, да здравствует… Agile | https://habrahabr.ru/post/320782/
+
+Обратная сторона Agile — разбирая чужие ошибки | https://habrahabr.ru/post/320548/
+
+Области гибкости | https://habrahabr.ru/company/scrumtrek/blog/320158/
+
+Развитие продукта: два года работы над мобильным приложением банка «Открытие» | https://habrahabr.ru/company/redmadrobot/blog/319806/
+
+PI-планирование в SAFe | https://habrahabr.ru/company/scrumtrek/blog/319460/
+
+Нужна ли нам система оценок? | https://habrahabr.ru/post/319556/
+
+Обратная сторона Agile | https://habrahabr.ru/post/319232/
+
+Ревью кода в распределенной команде | https://habrahabr.ru/company/mailru/blog/318510/
+
+Как довести проект до ума с помощью PERT-диаграмм | https://habrahabr.ru/post/318738/
+
+Как мы подложили компании «свинью» | https://habrahabr.ru/company/qiwi/blog/318300/
+
+Становлюсь ли я лучше? | https://habrahabr.ru/post/318180/
+
+Agile в работе с аутсорсом | https://habrahabr.ru/company/friifond/blog/318032/
+
+Discord. Тизер к уходящему году — Поиск, Скриншаринг, Видеочат, Логи аудита и Менеджмент каналов | https://habrahabr.ru/post/317982/
+
+Мифы и заблуждения о проектировании в Scrum | https://habrahabr.ru/post/317376/
+
+PAEI-стили менеджмента Адизеса и роли Scrum | https://habrahabr.ru/post/317344/
+
+Скрамуниздили | https://habrahabr.ru/post/316730/
+
+Что происходит с командами при использовании BaseCamp, Trello, YouTrack, Smartsheet, Slack, YouGile. Обзор часть 1 | https://habrahabr.ru/company/redhelper/blog/316636/
+
+Как мы делали сервис по IP телефонии: с 0 до 1800 клиентов за 3 месяца | https://habrahabr.ru/company/SECL_GROUP/blog/316534/
+
+Худой Scrum лучше доброго Agile | https://habrahabr.ru/company/wrike/blog/316342/
+
+Оценка стоимости ПО: Дэн Гэлорат и SEER-SEM | https://habrahabr.ru/post/314100/
+
+FDD для беклога продукта | https://habrahabr.ru/post/315794/
+
+Алистер Коберн: Командная разработка и agile | https://habrahabr.ru/company/edison/blog/315642/
+
+Scrum: Правила Игры | https://habrahabr.ru/company/wrike/blog/315580/
+
+Велосипедный Agile | https://habrahabr.ru/company/edison/blog/315124/
+
+Управление задачами на разработку. История из жизни | https://habrahabr.ru/post/314448/
+
+Почему в очередной раз проваливается внедрение CRM | https://habrahabr.ru/post/314082/
+
+Be Agile. Как уйти от Waterfall | https://habrahabr.ru/post/313766/
+
+Как объяснить бабушке, что такое Agile за 15 минут с картинками | https://habrahabr.ru/company/edison/blog/313410/
+
+Как еще раз перестать беспокоиться о неэффективных сотрудниках | https://habrahabr.ru/post/313174/
+
+Мотивация каратистов: как перестать беспокоиться о неэффективных сотрудниках? | https://habrahabr.ru/post/313136/
+
+Scrum от военного летчика: Искусство делать вдвое больше дел в два раза быстрее | https://habrahabr.ru/company/edison/blog/312680/
+
+Удалённая работа 2.0. Надежда Юринова, директор по маркетингу Bookmate | https://habrahabr.ru/post/312326/
+
+Сентиментальная встреча: как 17 анархистов-разработчиков в 2001 году манифест Agile подписывали | https://habrahabr.ru/company/edison/blog/311400/
+
+Автоматизация работы ИТ-службы | https://habrahabr.ru/post/310466/
+
+Agile-переговоры | https://habrahabr.ru/post/309434/
+
+Ключевые навыки успешной Agile-команды или как сделать так, чтобы Agile заработал? | https://habrahabr.ru/company/oleg-bunin/blog/309888/
+
+Как понять, что Agile работает | https://habrahabr.ru/company/oleg-bunin/blog/309878/
+
+Про наш финансовый отдел и собственную CRM | https://habrahabr.ru/company/southbridge/blog/309472/
+
+Agile или Lean: Ага ага, какая разница-то? | https://habrahabr.ru/post/309356/
+
+Как дать адекватную оценку времени, когда неопределённость бьёт по башке | https://habrahabr.ru/post/308494/
+
+«Поговорим об этом»: Работа проектировщика | https://habrahabr.ru/company/pechkin/blog/308058/
+
+Тестирование в рамках SCRUM. Тернии, грабли и успехи | https://habrahabr.ru/company/livetyping/blog/307860/
+
+Как планировать и оценивать проекты в Agile? | https://habrahabr.ru/company/luxoft/blog/307760/
+
+Исследуем вопрос наказаний 2.0 | https://habrahabr.ru/post/307594/
+
+Ещё одна версия настройки TFS под командную работу | https://habrahabr.ru/post/306958/
+
+Open WG Talk #3: Новые процессы и продуктовое управление | https://habrahabr.ru/company/wargaming/blog/304670/
+
+Делайте работу качественно и будьте счастливы | https://habrahabr.ru/post/304172/
+
+О важности User Stories | https://habrahabr.ru/company/piter/blog/303532/
+
+Консалтинговые ИТ-проекты в стиле Agile? | https://habrahabr.ru/company/hpe/blog/302686/
+
+Кнопочное мышление против целостного IT-продукта | https://habrahabr.ru/post/302382/
+
+Электронный «излучатель информации» при минимуме затрат | https://habrahabr.ru/post/301860/
+
+Российские ИТ-компании рассматривают Agile как средство для реализации «аварийной стратегии» развития на рынке | https://habrahabr.ru/post/301518/
+
+Ломай меня полностью… разве это про Scrum? | https://habrahabr.ru/post/281657/
+
+Как набрать в IT-стартап команду разработки, которая действительно сделает продукт? | https://habrahabr.ru/post/301148/
+
+Scrum. Взгляд программиста | https://habrahabr.ru/post/300662/
+
+Так что же такое «Техническое Задание»? | https://habrahabr.ru/post/300420/
+
+Тренинг «Управление требованиями в Agile проектах» | https://habrahabr.ru/company/scrumtrek/blog/300332/
+
+Миссия невыполнима: Метод планирования с недостижимыми целями | https://habrahabr.ru/company/wrike/blog/300368/
+
+Продуктивность для цифровой трансформации | https://habrahabr.ru/company/hpe/blog/300360/
+
+Как сохранить холодную голову, когда вокруг хаос | https://habrahabr.ru/post/299940/
+
+Как улучшить мир? | https://habrahabr.ru/company/hpe/blog/299872/
+
+Сценарии как инструмент аналитика, и как они помогают работать с требованиями | https://habrahabr.ru/post/299772/
+
+Теория, игра и практика Канбан — Certified Kanban/Lean Training | https://habrahabr.ru/company/scrumtrek/blog/299120/
+
+Откуда мифы про Agile | https://habrahabr.ru/company/bipulse/blog/299136/
+
+Сертификационный курс Certified Agile Professional | https://habrahabr.ru/post/298598/
+
+GosAgile — будет ли ГОСТ на Agile? | https://habrahabr.ru/company/scrumtrek/blog/298546/
+
+Конференция AgileDays'16 пройдет 14-15 марта в Москве | https://habrahabr.ru/company/scrumtrek/blog/298086/
+
+Блок-схема выбора оптимальной методологии разработки ПО | https://habrahabr.ru/post/297612/
+
+Как мотивировать программистов в рамках «эффективных» технологий — на войне как на войне | https://habrahabr.ru/post/297368/
+
+Мы работаем 8 часов в сутки. Можно ли наладить 24/5 производство интеллектуального продукта? | https://habrahabr.ru/post/297346/
+
+Новое ПО — Большой электронный словарь украинского языка | https://habrahabr.ru/company/polyglot/blog/297340/
+
+«Scrum. Революционный метод управления проектами». Книга за 15 минут | https://habrahabr.ru/company/makeright/blog/297250/
+
+Вдохновляйтесь! Рецензия на книгу Фредерика Лалу «Открывая организации будущего» | https://habrahabr.ru/post/297242/
+
+Lego Serious Play или «менеджеры играют в модели» | https://habrahabr.ru/company/scrumtrek/blog/296954/
+
+Еще раз про ретроспективу | https://habrahabr.ru/post/296500/
+
+Рецензия на книгу Джеффа Сазерленда «Scrum. Революционный метод управления проектами» | https://habrahabr.ru/post/296218/
+
+Управление проектами: Жизненный цикл и фаза исследования | https://habrahabr.ru/company/friifond/blog/295110/
+
+Прозрачный процесс разработки ПО | https://habrahabr.ru/post/295074/
+
+Scrum. Из хаоса к порядку и высокой продуктивности | https://habrahabr.ru/post/295062/
+
+«Запустись или забудь»: Как недоработки тормозят ваше развитие | https://habrahabr.ru/company/1cloud/blog/294662/
+
+Предотвращение ошибок: Desk Check и стартовая встреча | https://habrahabr.ru/company/friifond/blog/294324/
+
+Настройка ума на частоту Agile | https://habrahabr.ru/company/scrumtrek/blog/294190/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/294066/
+
+Управление разработкой в проектах по созданию сложных программных систем. Опыт использования MS Project и Team Foundation Server | https://habrahabr.ru/company/cit/blog/293960/
+
+Как стать отличным front-end-разработчиком | https://habrahabr.ru/company/friifond/blog/293936/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/293874/
+
+Как мы оцениваем проекты | https://habrahabr.ru/post/293786/
+
+Налаживаем коммуникацию между бизнесом и UX: набор артефактов в помощь аналитику | https://habrahabr.ru/company/redmadrobot/blog/293728/
+
+Agile Camp 2015: путевые заметки | https://habrahabr.ru/post/293698/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/293696/
+
+Классификация клиентов в сервис центре | https://habrahabr.ru/post/293486/
+
+Успеть в кратчайшие сроки — разработка этапами | https://habrahabr.ru/post/293478/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/293472/
+
+Эффективный Kanban: Мифы и реальность | https://habrahabr.ru/company/scrumtrek/blog/292914/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/293252/
+
+Насколько ваша команда соответствует принципам agile? Пять вопросов для проверки | https://habrahabr.ru/company/scrumtrek/blog/292910/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/292780/
+
+Ретроспектива: как и зачем ее проводить? | https://habrahabr.ru/company/scrumtrek/blog/292600/
+
+Интервью о техническом долге | https://habrahabr.ru/post/292644/
+
+История одного факапа или почему итеративность — это необходимое, но не достаточное условие для Agile | https://habrahabr.ru/post/262713/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/292488/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/292228/
+
+Как работают профессионалы. Даниил Трабун, главный редактор журнала «Афиша» | https://habrahabr.ru/post/292116/
+
+Команды и их типология. Как построить самоорганизующуюся команду? | https://habrahabr.ru/company/scrumtrek/blog/291784/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/292020/
+
+AgileCamp2015, 23-24 июля | https://habrahabr.ru/company/scrumtrek/blog/291912/
+
+Кейс: Как организовать работу над интернет-проектом в Trello | https://habrahabr.ru/company/carrotquest/blog/291964/
+
+Визуализируй это, или планирование Agile проектов с помощью диаграммы Ганта | https://habrahabr.ru/post/291896/
+
+Явление «динамического звена» (как работать с инициативными сотрудниками) | https://habrahabr.ru/post/291834/
+
+Поколение Y, которое привыкло работать удаленно | https://habrahabr.ru/company/rocketcallback/blog/291820/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/291802/
+
+Принципы управления разработкой сервиса от Gov.uk | https://habrahabr.ru/company/friifond/blog/291644/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/291556/
+
+Бизнес-аналитики в Agile — зачем, почему, как | https://habrahabr.ru/company/dataart/blog/291448/
+
+Практические советы: как эффективно контролировать сотрудников в it-отделе? | https://habrahabr.ru/post/291400/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/291316/
+
+Интересные международные мероприятия июня | https://habrahabr.ru/post/291124/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/291120/
+
+Как использовать Agile во фрилансе | https://habrahabr.ru/post/291072/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/290872/
+
+Реализация проекта – один шаг за один раз | https://habrahabr.ru/company/paysto/blog/290648/
+
+Я разработчик, а не юрист | https://habrahabr.ru/company/paysto/blog/290498/
+
+Дисциплина или тесты. Выберите одно? | https://habrahabr.ru/company/luxoft/blog/290462/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/290456/
+
+Стендапы в стиле Kanban | https://habrahabr.ru/post/290438/
+
+Модель Дрейфуса для перехода к гибкой методологии работы | https://habrahabr.ru/company/paysto/blog/290390/
+
+Качество и тестирование: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/290366/
+
+Топ-5 инструментов управления Agile-проектами | https://habrahabr.ru/company/dataart/blog/290340/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/290234/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/290044/
+
+Как перестать беспокоиться и начать лучше продавать разработку ПО | https://habrahabr.ru/post/290022/
+
+Моделирование спринтов Scrum. Решаем проблемы взаимодействия с клиентом и внутри команды | https://habrahabr.ru/company/redmadrobot/blog/289916/
+
+Применение agile при разработке проекта для государственного заказчика | https://habrahabr.ru/post/289900/
+
+Agile с фиксированной стоимостью — это реально | https://habrahabr.ru/post/289802/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/289768/
+
+Как правильно оценивать сроки проекта на примере веб-студии | https://habrahabr.ru/post/289626/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/289520/
+
+10 докладов с AgileDays-2015 — Iteration-01 | https://habrahabr.ru/post/289366/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/289320/
+
+Эволюционное управление разработкой — гарантированный путь к успеху | https://habrahabr.ru/post/289266/
+
+Гибкие процессы и распределенные команды — секреты мастерства | https://habrahabr.ru/company/dataart/blog/289118/
+
+Тайм-менеджмент и смартфон. Самоорганизация на основе GTD и Google Calendar | https://habrahabr.ru/post/289068/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/289052/
+
+Вигерс, ты не прав! Ещё раз об итеративной и инкрементальной разработке | https://habrahabr.ru/post/287012/
+
+Качество: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/286920/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/286894/
+
+Какими знаниями не должен обладать Product Owner? | https://habrahabr.ru/company/luxoft/blog/286702/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/286698/
+
+LeanKanban-2014 — обзор конференции и видео докладов | https://habrahabr.ru/post/286686/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/286518/
+
+«Аджайлификация» одного проекта | https://habrahabr.ru/post/286424/
+
+Насыщенное состояние Agile | https://habrahabr.ru/post/286364/
+
+Региональный малый и средний бизнес в ИТ — 3 | https://habrahabr.ru/post/286326/
+
+Интересные международные мероприятия марта | https://habrahabr.ru/post/286310/
+
+События, произошедшие в выходные | https://habrahabr.ru/post/286302/
+
+There is no silver bullet, или как мы от водопада до Канбана через скрамовые аджайлы дошли | https://habrahabr.ru/company/acronis/blog/286258/
+
+10 новостей этого дня | https://habrahabr.ru/post/286230/
+
+Управление ретроспективой или взгляд в прошлое: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/286216/
+
+Философия системы Asana. 4 принципа работы в системе | https://habrahabr.ru/post/286224/
+
+Karma Driven Development (KDD) | https://habrahabr.ru/post/286180/
+
+[Москва] Анонс: Татьяна Белова — Корпоративная система управления проектами, PMBoK и жизненный цикл проекта | https://habrahabr.ru/company/codefreeze/blog/286162/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/286130/
+
+Возможно ли Великое Объединение в теории управления проектами? Часть 1 | https://habrahabr.ru/post/286014/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/285936/
+
+Почему Scrum иногда не работает и что с этим делать | https://habrahabr.ru/post/285826/
+
+Региональный малый и средний бизнес в ИТ — 2 | https://habrahabr.ru/post/285808/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/285758/
+
+Работаем с User stories: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/284032/
+
+Как получить деньги, которые вы не успели заработать? | https://habrahabr.ru/company/sobakapavlova/blog/284028/
+
+Agile с точки зрения программиста | https://habrahabr.ru/post/284012/
+
+Интересные международные мероприятия февраля | https://habrahabr.ru/post/283954/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/283940/
+
+Что нужно заказчику, и сколько он готов заплатить | https://habrahabr.ru/post/283910/
+
+Опыт организации удаленной команды в kubish.ru | https://habrahabr.ru/post/283906/
+
+Интервью с Джо Райнсбергером, канадским консультантом по разработке ПО | https://habrahabr.ru/company/luxoft/blog/283904/
+
+Как организовать техническую поддержку в веб-студии | https://habrahabr.ru/post/283870/
+
+21 способ минимизации удержания сотрудников | https://habrahabr.ru/post/283840/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/283808/
+
+Региональный малый и средний бизнес в ИТ | https://habrahabr.ru/post/248339/
+
+Гибкая методология разработки “Scrum” | https://habrahabr.ru/post/247319/
+
+Impact Mapping на практике | https://habrahabr.ru/post/246401/
+
+Про agile-методологии. Субъективно | https://habrahabr.ru/post/243675/
+
+Экспресс-курс «Проектное планирование» | https://habrahabr.ru/post/243503/
+
+Starban. Гибкая методология разработки, геймификация и еще много модных слов | https://habrahabr.ru/post/240491/
+
+Управление зависимостями в сложной Agile-среде | https://habrahabr.ru/post/240275/
+
+Семь раз отмерь, один раз отрежь: как не запутаться в метриках продукта, процесса и счастья команды | https://habrahabr.ru/post/233143/
+
+Scrum — как эффективно работать без project-менеджера | https://habrahabr.ru/post/232813/
+
+Как управлять командой — история одного успеха | https://habrahabr.ru/post/232499/
+
+Методология Kanban: введение | https://habrahabr.ru/post/230725/
+
+10 слайдкастов с AgileDays 2014 | https://habrahabr.ru/post/216829/
+
+Нелицеприятный тест вашего Agile | https://habrahabr.ru/post/214925/
+
+Гибкое управление продуктом в двух словах (русская версия) | https://habrahabr.ru/post/201626/
+
+Применение Agile в рамках договора с фиксированными фазами | https://habrahabr.ru/post/196916/
+
+Как работают создатели Pivotal Tracker… О разработке, управлении и найме людей | https://habrahabr.ru/post/194776/
+
+Отчет об AgileCamp 2013 | https://habrahabr.ru/post/194478/
+
+Подборка манифестов из мира IT | https://habrahabr.ru/post/193232/
+
+Это мифическое слово команда | https://habrahabr.ru/post/188450/
+
+Для начала внедрим Continuous Integration в мозг | https://habrahabr.ru/post/185740/
+
+Зачем и как мы делаем аудиты | https://habrahabr.ru/post/180417/
+
+Бизнес студии: про этапы, деньги, калькулятор и канбан | https://habrahabr.ru/post/179745/
+
+Заметки по внедрению Scrum — что обязательно приведет к провалу итерации, если ничего не предпринимать | https://habrahabr.ru/post/178085/
+
+SCRUM board + Квадрант Эйзенхауэра для управления продуктом | https://habrahabr.ru/post/175853/
+
+Рассуждения о нулевой итерации в Scrum | https://habrahabr.ru/post/173621/
+
+Технология CRUD-матрицы. Практический опыт | https://habrahabr.ru/post/172489/
+
+История развития методологий проектирования (программной инженерии) | https://habrahabr.ru/post/171513/
+
+Сеть оценок для планирования в Scrum | https://habrahabr.ru/post/167983/
+
+6 Способов убить Agile | https://habrahabr.ru/post/162851/
+
+Не трогай матчасть или Redmine vs. YouTrack | https://habrahabr.ru/post/160063/
+
+Agile+UX: как подружить качественный пользовательский интерфейс и гибкие методологии | https://habrahabr.ru/post/159019/
+
+Внедрять agile как готовить пироги | https://habrahabr.ru/company/scrumtrek/blog/157295/
+
+О мотивации в ИТ | https://habrahabr.ru/post/155677/
+
+Экстремальное программирование: Pair Programming | https://habrahabr.ru/post/151563/
+
+Мой взгляд на Scrum | https://habrahabr.ru/post/150203/
+
+Производство счастья промышленными методами | https://habrahabr.ru/post/149985/
+
+GTD vs Agile Results. Исправляем недочёты Дэвида Аллена | https://habrahabr.ru/post/149878/
+
+Война миров: программисты vs. тестировщики! | https://habrahabr.ru/post/149240/
+
+Agile: танцы с бубном или наука | https://habrahabr.ru/post/148238/
+
+Проект vs Отдел | https://habrahabr.ru/post/147969/
+
+Настройка workflow задач в TFS (практическая часть) | https://habrahabr.ru/post/147295/
+
+Настройка workflow задач в TFS | https://habrahabr.ru/post/147294/
+
+Глубина погружения в Agile: Agile Evaluation Framework | https://habrahabr.ru/post/146151/
+
+Глубина погружения в Agile: Shodan Adherence Metrics | https://habrahabr.ru/post/146019/
+
+Делаем сплав гибкой разработки и User Experience (UX) | https://habrahabr.ru/post/144760/
+
+О гибком планировании и управлении работами в TFS 11 Beta | https://habrahabr.ru/post/143268/
+
+Как Agile и Google календарь изменили мою жизнь | https://habrahabr.ru/post/140446/
+
+Практикум использования контрольных карт Шухарта | https://habrahabr.ru/post/139596/
+
+Scrum, CSM и Робин Даймонд 5-6 марта в Питере | https://habrahabr.ru/post/139059/
+
+Коротко о Lean на примере доставки пиццы | https://habrahabr.ru/post/136458/
+
+Основы 6-сигм и контрольных карт Шухарта (слайдкаст) | https://habrahabr.ru/post/136193/
+
+Agile по-простому | https://habrahabr.ru/post/135668/
+
+Как преодолеть традиционные проблемы при внедрении Agile | https://habrahabr.ru/post/134886/
+
+Проблемы при внедрении Agile | https://habrahabr.ru/post/134847/
+
+Почему Agile вам не подходит | https://habrahabr.ru/post/131926/
+
+Манифест «какбэ-Agile» разработки программного обеспечения | https://habrahabr.ru/post/129698/
+
+Заблуждения о самоорганизующихся командах | https://habrahabr.ru/post/127344/
+
+Разработка основанная на Readme | https://habrahabr.ru/post/126747/
+
+К юбилею AgileManifesto — материалы с AgileDays-2011 | https://habrahabr.ru/post/125949/
+
+Trololo Dev или программисты в общении | https://habrahabr.ru/post/125168/
+
+Оценка сложности задач | https://habrahabr.ru/post/124871/
+
+Agile лагерь строго режима или впечатления от AgileCamp 2011 в Самаре | https://habrahabr.ru/post/122400/
+
+Роль техдира в Agile — игра в Тетрис | https://habrahabr.ru/post/122091/
+
+«Серное» пчеловодство или игра в гуманизм | https://habrahabr.ru/post/121087/
+
+Scrum и управление требованиями в web-разработке | https://habrahabr.ru/post/121000/
+
+Новая встреча AgilePiter, 14 июня: «Инженерные практики в Agile» | https://habrahabr.ru/post/120920/
+
+SCRUM и его внедрение в моей компании. Начало | https://habrahabr.ru/post/118658/
+
+Подводные камни Scrum — разношерстные кадры | https://habrahabr.ru/post/118487/
+
+Новая встреча AgilePiter, 22 февраля: «Проведение совещаний в Scrum» | https://habrahabr.ru/post/113725/
+
+Экстремальный аджайл — танцую я один | https://habrahabr.ru/post/113419/
+
+Перевод «How we got rid of time reports» Henrik Kniberg | https://habrahabr.ru/post/111732/
+
+Adapting Configuration Management for Agile Teams — обзор книги | https://habrahabr.ru/post/111222/
+
+Новая встреча AgilePiter, 21 декабря: «Работа с заказчиком и управление требованиями» | https://habrahabr.ru/post/109210/
+
+Возобновляются встречи AgilePiter в Санкт-Петербурге! | https://habrahabr.ru/post/108175/
+
+Гибкой методологии исполняется 10 лет | https://habrahabr.ru/post/107662/
+
+Экстремальный аджайл — танцуют все! | https://habrahabr.ru/post/105008/
+
+Практический Agile | https://habrahabr.ru/post/95423/
+
+The Rise And Fall Of Waterfall | https://habrahabr.ru/post/83049/
+
+В Mozilla внедрили модель разработки Lorentz | https://habrahabr.ru/post/82055/
+
+Agile теперь соответствует SDL | https://habrahabr.ru/post/74894/
+
+Отчёт о конференции Agile Labs, 31 марта 2009 г. | https://habrahabr.ru/post/56510/
+
+Тренинг: Agile Product Management | https://habrahabr.ru/post/51111/
+
+МСК — Семинар Методология Scrum | https://habrahabr.ru/post/13901/
+

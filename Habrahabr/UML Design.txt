@@ -1,0 +1,70 @@
+Визуализация интеграционных приложений | https://habrahabr.ru/company/icl_services/blog/318084/
+
+Отличие каркаса от библиотеки | https://habrahabr.ru/post/315900/
+
+Диаграмма сценариев использования в процессе разработки ПО | https://habrahabr.ru/company/luxoft/blog/312188/
+
+Caché Class Explorer — исследуем Caché в нотации UML | https://habrahabr.ru/company/intersystems/blog/276003/
+
+Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель) | https://habrahabr.ru/company/cit/blog/273449/
+
+Разработка визуального языка моделирования с помощью Sirius | https://habrahabr.ru/company/cit/blog/267335/
+
+Разработка метамодели с помощью Eclipse Modeling Framework (и немного про моделирование данных) | https://habrahabr.ru/company/cit/blog/266433/
+
+Объектный язык ограничений (и немного про метамодели) | https://habrahabr.ru/company/cit/blog/264963/
+
+Пишем реализацию Observer-а над KVO на objective-c | https://habrahabr.ru/post/264823/
+
+Моделирование процедуры соединения bluetooth устройств и есть ли потребность в моделях такого рода | https://habrahabr.ru/post/231979/
+
+Системные и бизнес-аналитики в ожидании самого значимого события сферы! | https://habrahabr.ru/company/sqalab/blog/219423/
+
+Конференция Analyst Days словами участников | https://habrahabr.ru/company/sqalab/blog/217351/
+
+Отношения классов — от UML к коду | https://habrahabr.ru/post/150041/
+
+Online UML editor | https://habrahabr.ru/post/131925/
+
+Еще одна статья о code review | https://habrahabr.ru/post/142564/
+
+16 инструментов для создания прототипов | https://habrahabr.ru/company/aiken/blog/129653/
+
+Интеллект-карты как неплохой способ систематизировать любую деятельность | https://habrahabr.ru/post/140417/
+
+Quantum Leaps QP и UML statecharts | https://habrahabr.ru/post/114239/
+
+Кодогенерация на основе UML-модели | https://habrahabr.ru/post/117216/
+
+Как часто вы прибегаете к использованию UML | https://habrahabr.ru/post/96359/
+
+Кодогенерация UML->Python (Django) | https://habrahabr.ru/post/74923/
+
+Проектирование программного обеспечения | https://habrahabr.ru/post/74330/
+
+Изучение времен английского языка с помощью UML-CRC. Заметка | https://habrahabr.ru/post/64928/
+
+yUML — средство для генерации UML диаграмм для веба | https://habrahabr.ru/post/59190/
+
+Сравнение средств проектирования — 2 | https://habrahabr.ru/post/48729/
+
+UML — диаграмма вариантов использования (use case diagram) | https://habrahabr.ru/post/47940/
+
+Сравнение средств проектирования | https://habrahabr.ru/post/46648/
+
+Каким средством проектирования вы пользуетесь(для проектирования БД и для UML)? | https://habrahabr.ru/post/47528/
+
+Выбор инструмента проектирования (UML) | https://habrahabr.ru/post/46577/
+
+Используете ли вы автогенерацию кода на основе UML-диаграмм? | https://habrahabr.ru/post/45418/
+
+Создание UML по существующему PHP коду | https://habrahabr.ru/post/44306/
+
+UML, Классы и Отношения | https://habrahabr.ru/post/41155/
+
+Средства для визуального проектирования | https://habrahabr.ru/post/42812/
+
+В Visual Studio 10 будет поддержка UML | https://habrahabr.ru/post/27324/
+
+Sybase PowerDesigner — одно из лучших средств UML проектирования | https://habrahabr.ru/post/15761/
+

@@ -1,0 +1,518 @@
+Создаем свой кастомный плагин Style – Темизация Views в Drupal 8 | https://habrahabr.ru/post/330704/
+
+Drupal и WordPress — сравнение, аналогии, сходства, различия | https://habrahabr.ru/company/arcadia/blog/318808/
+
+Drupal Composer рецепты | https://habrahabr.ru/post/313298/
+
+Open source инициатива Docker4Drupal.org | https://habrahabr.ru/post/306504/
+
+Критические уязвимости в Drupal: подробности и эксплоиты | https://habrahabr.ru/company/pt/blog/306446/
+
+Опыт перехода сайта на Single Page Application с упором на SEO | https://habrahabr.ru/post/301288/
+
+Drupal: ajax_facets и history API | https://habrahabr.ru/post/283282/
+
+Дайджест интересных материалов из мира Drupal #20 | https://habrahabr.ru/post/282772/
+
+FAQ по лицензированию Backdrop | https://habrahabr.ru/post/282205/
+
+Анализ подходов для создания лендингов и лонгридов в Drupal | https://habrahabr.ru/post/281300/
+
+Дайджест интересных материалов из мира Drupal #19 | https://habrahabr.ru/post/280802/
+
+FAQ по лицензированию Drupal | https://habrahabr.ru/post/280228/
+
+Дайджест интересных материалов из мира Drupal #18 | https://habrahabr.ru/post/278227/
+
+Дайджест интересных материалов из мира Drupal #17 | https://habrahabr.ru/post/276137/
+
+Дайджест интересных материалов из мира Drupal #16 | https://habrahabr.ru/post/274101/
+
+Разворачиваем Drupal 8 с помощью Otto | https://habrahabr.ru/post/273009/
+
+Что случилось с hook_menu в Drupal 8? | https://habrahabr.ru/post/272863/
+
+Разворачиваем Drupal 8 с помощью Docker | https://habrahabr.ru/post/271751/
+
+Дайджест интересных материалов из мира Drupal #15 | https://habrahabr.ru/post/271445/
+
+Drupal 8. Обучающие материалы и не только | https://habrahabr.ru/post/271409/
+
+Вышел Drupal 8 — критический взгляд | https://habrahabr.ru/post/271323/
+
+Вышел Drupal 8 | https://habrahabr.ru/post/271293/
+
+Кэш в Drupal от А до Я | https://habrahabr.ru/post/269385/
+
+Дайджест интересных материалов из мира Drupal #14 | https://habrahabr.ru/post/269361/
+
+Дайджест интересных материалов из мира Drupal #13 | https://habrahabr.ru/post/266997/
+
+Дайджест интересных материалов из мира Drupal #12 | https://habrahabr.ru/post/265377/
+
+Сравнение скорости исполнения кода Drupal для PHP 5.3-5.6 и 7.0. «Битва оптимизаторов кода» apc vs xcache vs opcache | https://habrahabr.ru/post/264775/
+
+Ускорение и оптимизация PHP-сайта. Какие технологии стоит выбирать при настройке сервера под PHP | https://habrahabr.ru/post/264487/
+
+Continuous Success и почему об этом нельзя забывать при разработке проекта (на примере Drupal) | https://habrahabr.ru/post/263513/
+
+Дайджест интересных материалов из мира Drupal #11 | https://habrahabr.ru/post/263261/
+
+Даем право выбора доступа к странице с помощью Rules | https://habrahabr.ru/post/262607/
+
+Дайджест интересных материалов из мира Drupal #10 | https://habrahabr.ru/post/261335/
+
+Дайджест интересных материалов из мира Drupal #9 | https://habrahabr.ru/post/258777/
+
+Как быстро собрать мейлер для колл-центра | https://habrahabr.ru/post/257493/
+
+Дайджест интересных материалов из мира Drupal #8 | https://habrahabr.ru/post/256123/
+
+Дайджест интересных материалов из мира Drupal #7 | https://habrahabr.ru/post/254501/
+
+Дайджест интересных материалов из мира Drupal #6 | https://habrahabr.ru/post/252521/
+
+Ставим Drupal 7.x + модули + локализацию за несколько минут | https://habrahabr.ru/post/251721/
+
+Дайджест интересных материалов из мира Drupal #5 | https://habrahabr.ru/post/251255/
+
+Дайджест интересных материалов из мира Drupal #4 | https://habrahabr.ru/post/250223/
+
+Управление конфигурациями в Drupal 8, обзор для разработчиков | https://habrahabr.ru/post/248629/
+
+Data-mining в 40 строк или С кем и против кого вы заодно | https://habrahabr.ru/post/248607/
+
+Дайджест интересных материалов из мира Drupal #3 | https://habrahabr.ru/post/248293/
+
+Drupal — выбор бизнес консультанта | https://habrahabr.ru/company/trinion/blog/247059/
+
+Дайджест интересных материалов из мира Drupal #2 | https://habrahabr.ru/post/246573/
+
+Несколько советов по ускорению Drupal | https://habrahabr.ru/post/245763/
+
+Былина о том, как я Drupal и Яндекс.ПДД связывал | https://habrahabr.ru/company/ua-hosting/blog/245117/
+
+Дайджест интересных материалов из мира Drupal #1 | https://habrahabr.ru/post/245209/
+
+Basic performance. Заставим Drupal летать. Часть I | https://habrahabr.ru/post/243615/
+
+Очередная критическая уязвимость в Drupal 7 | https://habrahabr.ru/post/240721/
+
+Drupal 8 Beta | https://habrahabr.ru/post/238793/
+
+Модуль Drupal 7. Передача показаний приборов учета | https://habrahabr.ru/post/235251/
+
+Крупная уязвимость в WordPress и Drupal может положить сайт | https://habrahabr.ru/post/232601/
+
+Лучшие практики размещения Drupal в облачном окружении | https://habrahabr.ru/company/microsoft/blog/228841/
+
+Drupal 7 и ajax menu | https://habrahabr.ru/post/228809/
+
+Как мы ускоряли Drupal Commerce | https://habrahabr.ru/post/223913/
+
+Создание медиаплощадки средствами Drupal. Задачи и обзор соответствующих модулей и библиотек | https://habrahabr.ru/post/220985/
+
+Создание медиаплощадки средствами CMS Drupal | https://habrahabr.ru/post/220965/
+
+Нейтрализация последствий Heartbleed в Drupal 7 | https://habrahabr.ru/post/220013/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.7 — полнотекстовый поиск на русском языке | https://habrahabr.ru/post/213085/
+
+Drupal 7 — Модуль подписки на новые материалы по email | https://habrahabr.ru/post/208854/
+
+Обзор материалов для изучения Drupal | https://habrahabr.ru/post/202202/
+
+Payonline HCS. Модуль приема платежей для ЖКХ | https://habrahabr.ru/post/201918/
+
+Drupal 7. Модуль подписок своими руками | https://habrahabr.ru/post/200908/
+
+Создание модуля под Drupal 7. Часть 2 | https://habrahabr.ru/post/200382/
+
+Создание модуля под Drupal 7. Часть 1 | https://habrahabr.ru/post/200340/
+
+Drupal.org обновляется до Drupal 7 | https://habrahabr.ru/post/199510/
+
+Drupal 8 — революционные изменения | https://habrahabr.ru/post/197670/
+
+BUR. Модуль для массовой регистрации пользователей | https://habrahabr.ru/post/191848/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.6 — настраиваем apache solr + tomcat | https://habrahabr.ru/post/189840/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.5 — виджеты для фасетных фильтров | https://habrahabr.ru/post/182820/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.4 — фасетные фильтры | https://habrahabr.ru/post/180083/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.3 — учимся добавлять собственные поля и опции в индекс | https://habrahabr.ru/post/178285/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.2 — учимся настраивать индекс | https://habrahabr.ru/post/177509/
+
+Поиск на Drupal 7 с помощью Apache Solr ч.1 — базовая настройка | https://habrahabr.ru/post/175527/
+
+Используем less на Drupal | https://habrahabr.ru/post/158541/
+
+Drupal + Omega + Bootstrap: быстрое создание полностью кастомных тем оформления без верстки (Часть 2. Bootstrap) | https://habrahabr.ru/post/172585/
+
+Drupal + Omega + Bootstrap: быстрое создание полностью кастомных тем оформления без верстки (Часть 1. Omega) | https://habrahabr.ru/post/172213/
+
+Drupal + Git submodules: рецепты | https://habrahabr.ru/post/164019/
+
+Правильные ajax запросы в Drupal 7 | https://habrahabr.ru/post/164443/
+
+Drupal: пишем свой парсер для Feeds | https://habrahabr.ru/post/164707/
+
+Правильный вывод полей в Drupal 7 | https://habrahabr.ru/post/163501/
+
+Построение графа социальной сети с помощью Drupal и Feeds | https://habrahabr.ru/post/161207/
+
+Руководство по написанию JS скриптов для front-end разработчиков под Drupal 7 | https://habrahabr.ru/post/161039/
+
+Геотаргетинг nginx, частный случай | https://habrahabr.ru/post/159335/
+
+Делаем информационный виджет для Drupal сайта | https://habrahabr.ru/post/154117/
+
+Перенос данных через features API на Drupal — добавляем новый компонент для экспорта | https://habrahabr.ru/post/155709/
+
+Organic Groups в Drupal 7 | https://habrahabr.ru/post/155525/
+
+Мультиязычность в Drupal 7. Меню | https://habrahabr.ru/post/150677/
+
+Drupal, как игровая платформа (часть 1) | https://habrahabr.ru/post/150544/
+
+Мультиязычность в Drupal 7 | https://habrahabr.ru/post/150382/
+
+Корзина Ubercart в popup окне. Drupal 6 | https://habrahabr.ru/post/146891/
+
+Почему не Drupal? | https://habrahabr.ru/post/149590/
+
+Джентельменский набор модулей для Drupal 7 | https://habrahabr.ru/post/149115/
+
+Drush команда для мгновенной установки друпала | https://habrahabr.ru/post/148824/
+
+Загрузка и отправка формы по AJAX на Drupal 7 | https://habrahabr.ru/post/147262/
+
+Для кого же, все таки, Drupal? | https://habrahabr.ru/post/144857/
+
+Кто здесь работает или как быстро узнать информацию о callback`е для меню Drupal`а | https://habrahabr.ru/post/145180/
+
+Переопределение прав доступа в Drupal 6 | https://habrahabr.ru/post/144687/
+
+Создание гибких анкет в Drupal 7 | https://habrahabr.ru/post/144670/
+
+Пакетные операции, как это делается в Drupal | https://habrahabr.ru/post/144424/
+
+DrupalConf — 2 июня | https://habrahabr.ru/post/144360/
+
+Drupal PostInstall — модуль, позволяющий другим модулям «настраиваться» после установки | https://habrahabr.ru/post/143864/
+
+Проверка соблюдения стандартов кодирования РHP через git | https://habrahabr.ru/post/141447/
+
+Drupal и мультиязычность, как программно добавить переключатель языков | https://habrahabr.ru/post/140758/
+
+How-to: Как создать красивый и функциональный баннер ротатор средствами Drupal 7 | https://habrahabr.ru/post/136377/
+
+Расширяем hook_node_info() для настройки комментариев, отображения и прочих вещей | https://habrahabr.ru/post/135883/
+
+Интервью с Дрисом Байтаертом: о Drupal 8, Open Source, бизнесе и Индии | https://habrahabr.ru/post/135646/
+
+Краткий обзор современного инструментария для начинающего разработчика Drupal | https://habrahabr.ru/post/134772/
+
+Мультисайтинг в Drupal | https://habrahabr.ru/post/133086/
+
+Пример использования Batch | https://habrahabr.ru/post/132020/
+
+За что я люблю Drupal | https://habrahabr.ru/post/131606/
+
+Drupal Bundle Inherit — модуль для наследования типов сущностей | https://habrahabr.ru/post/130870/
+
+Разработка для Drupal 7 с помощью новой концепции сущностей (Entity) | https://habrahabr.ru/post/129543/
+
+Чем хорош друпал | https://habrahabr.ru/post/129302/
+
+Кризис Drupal | https://habrahabr.ru/post/128208/
+
+Массовый импорт панелей из модуля | https://habrahabr.ru/post/126554/
+
+Посетите бесплатный Drupal workshop на IT Jam 2011 Meet & Mix (20/08, Одесса) | https://habrahabr.ru/post/126197/
+
+Drupal + Ajax + Свои шрифты + Flash + PNG = кроссбраузерный сайт | https://habrahabr.ru/post/125947/
+
+Twitter использует Drupal | https://habrahabr.ru/post/123983/
+
+Пример использования API Яндекс.Метрики в Drupal | https://habrahabr.ru/post/123054/
+
+Вышел Drupal 7.2 | https://habrahabr.ru/post/120004/
+
+10 000 коммитов в проект Open Source от одного человека | https://habrahabr.ru/post/119517/
+
+Импорт сайтов из разных CMS на Drupal | https://habrahabr.ru/post/119224/
+
+Интуитивная доработка Vote Up/ Down и User Karma (радостные эмоции новичка друпалиста) | https://habrahabr.ru/post/116740/
+
+Еще один взгляд на кэширование на Drupal | https://habrahabr.ru/post/116384/
+
+Заглушка для IE6 под Drupal 7 | https://habrahabr.ru/post/114714/
+
+Кэширование на Drupal | https://habrahabr.ru/post/113166/
+
+Подмена node alias | https://habrahabr.ru/post/112586/
+
+House.gov решили перевести на Drupal | https://habrahabr.ru/post/112340/
+
+Импорт Content type вместе с CCK полями | https://habrahabr.ru/post/111684/
+
+Отправка письма с прикрепленным файлом из Drupal | https://habrahabr.ru/post/111541/
+
+Drupal Forms API. Часть 2 — для Drupal 7 | https://habrahabr.ru/post/111359/
+
+Drupal Forms API. Часть 1 — для Drupal 6 | https://habrahabr.ru/post/111264/
+
+Модуль Drupal для работы с Яндекс.Почтой | https://habrahabr.ru/post/111205/
+
+Вышел Drupal 7 | https://habrahabr.ru/post/111211/
+
+Кэширование nginx для анонимных пользователей на примере Drupal | https://habrahabr.ru/post/110958/
+
+Озвучена дата релиза Drupal 7 | https://habrahabr.ru/post/110504/
+
+Городской портал Большого Сочи на Drupal | https://habrahabr.ru/post/109905/
+
+Вышел Drupal 7.0 RC 2 | https://habrahabr.ru/post/109859/
+
+Встреча донецких Drupal разработчиков | https://habrahabr.ru/post/109411/
+
+Долгожданный RC Drupal 7 | https://habrahabr.ru/post/109186/
+
+Импорт views из модуля | https://habrahabr.ru/post/108990/
+
+Ускоряем Drupal: Pressflow + Nginx + Varnish | https://habrahabr.ru/post/107094/
+
+Вышел Drupal 7.0 Beta 2. До RC осталось всего восемь багов | https://habrahabr.ru/post/106794/
+
+Drupal и Альфа-банк вместе | https://habrahabr.ru/post/106667/
+
+Новый модуль Handy alias для гибкого создания синонимов страниц | https://habrahabr.ru/post/104850/
+
+PDF-версия руководства по быстрому старту в Drupal | https://habrahabr.ru/post/103766/
+
+Начинаем работать с Drupal: полное практическое руководство (часть 2) | https://habrahabr.ru/post/103603/
+
+Начинаем работать с Drupal: полное практическое руководство (часть 1) | https://habrahabr.ru/post/103600/
+
+WTF? Это только я могу редактировать «Security team» страницу? | https://habrahabr.ru/post/102559/
+
+Создание форума на drupal | https://habrahabr.ru/post/100720/
+
+Подборка крупных сайтов написанных на Drupal | https://habrahabr.ru/post/98696/
+
+[Ctrl+Enter] — шорткат для быстрой отправки форм в Drupal | https://habrahabr.ru/post/98156/
+
+Загрузка файлов через Form API | https://habrahabr.ru/post/97596/
+
+Работа с CCK Filefield. Вставка и отображение Flash | https://habrahabr.ru/post/96549/
+
+Cheat Sheet обои для рабочего стола разработчика Drupal | https://habrahabr.ru/post/96465/
+
+Полезные и интересные модули для Drupal 6.xx + Советы и трюки (Часть III) | https://habrahabr.ru/post/95521/
+
+Книга по Drupal (для начинающих) | https://habrahabr.ru/post/95267/
+
+Drush — командная строка для CMS Drupal | https://habrahabr.ru/post/94846/
+
+jQuery 1.4.2 для фронтенда сайта | https://habrahabr.ru/post/94510/
+
+DrupalCampKyiv 2010 — Перенос дат на 10-12 июня | https://habrahabr.ru/post/92999/
+
+Drupal, drush & svn | https://habrahabr.ru/post/91287/
+
+Создаем фотоблог на Drupal 6 | https://habrahabr.ru/post/90444/
+
+Drupal 6. Быстрая организация простого кеширования | https://habrahabr.ru/post/90393/
+
+DrupalCampKyiv 2010 — официальное открытие. Конференция пройдет 20-22 мая в Киеве | https://habrahabr.ru/post/88899/
+
+Paginator 3000 | https://habrahabr.ru/post/87875/
+
+Требования к вёрстке под drupal | https://habrahabr.ru/post/86978/
+
+Создаём тему для Drupal. Часть 3 | https://habrahabr.ru/post/86463/
+
+Создаём тему для Drupal. Часть 2 | https://habrahabr.ru/post/86460/
+
+Создаём тему для Drupal 6. Часть 1 | https://habrahabr.ru/post/86453/
+
+48 советов для программистов от Lullabot | https://habrahabr.ru/post/86073/
+
+DrupalCamp в Москве, 16-17 апреля | https://habrahabr.ru/post/85652/
+
+Drupal ностальгия | https://habrahabr.ru/post/84625/
+
+Полезные и интересные модули для Drupal 6.xx + Советы и трюки (Часть II) | https://habrahabr.ru/post/83575/
+
+Создание CCK-мультиполей | https://habrahabr.ru/post/83319/
+
+Типограф для BuEditor от artlebedev | https://habrahabr.ru/post/83294/
+
+CSS-заготовка для написания стилей админки Drupal | https://habrahabr.ru/post/82731/
+
+Модуль для кулинарного сайта | https://habrahabr.ru/post/82632/
+
+ModX и Drupal: разные истории | https://habrahabr.ru/post/82117/
+
+Страничка для счастливых обладателей IE6 | https://habrahabr.ru/post/81832/
+
+WYSIWYG image upload | https://habrahabr.ru/post/81553/
+
+Реализация 960gs в Drupal (NineSixty theme) | https://habrahabr.ru/post/80987/
+
+Модуль Views — API. Основы | https://habrahabr.ru/post/80663/
+
+Полезные и интересные модули для Drupal 6.xx + Советы и трюки (Часть I) | https://habrahabr.ru/post/80565/
+
+Brainstormblogger — система блогов на друпал | https://habrahabr.ru/post/80391/
+
+Интеграция поиска Google в сайт на Drupal | https://habrahabr.ru/post/79860/
+
+Покритикуйте Drupal-сайт | https://habrahabr.ru/post/79164/
+
+Простая схема деплоя мультисайтового друпала | https://habrahabr.ru/post/78951/
+
+Темизация на основе Zen | https://habrahabr.ru/post/77853/
+
+Drupal day 3 декабря | https://habrahabr.ru/post/76778/
+
+Видео доклада «Продвинутый мультисайтинг» | https://habrahabr.ru/post/76350/
+
+Темизация Drupal | https://habrahabr.ru/post/75795/
+
+Реальный опыт разработки интернет-магазина | https://habrahabr.ru/post/75035/
+
+Drupal признан 2009 Best Open Source PHP CMS | https://habrahabr.ru/post/74857/
+
+Швабрашвабр2 | https://habrahabr.ru/post/74719/
+
+OpenID с человеческим лицом в Drupal | https://habrahabr.ru/post/74416/
+
+Небольшой апгрейд постраничной навигации Drupal-a | https://habrahabr.ru/post/73791/
+
+Drupal 7: вести с фронта | https://habrahabr.ru/post/72867/
+
+Настройка Интернет-магазина Ubercart в CMS Drupal 5.x | https://habrahabr.ru/post/72194/
+
+И снова о сборках. Drupal | https://habrahabr.ru/post/67352/
+
+Быстрое создание галереи в Drupal 6 (с массовой загрузкой изображений) | https://habrahabr.ru/post/66642/
+
+Управление космическим кораблем с непонятными модулями, или как я боролся с друпалом | https://habrahabr.ru/post/65523/
+
+Использование XML-RPC в Drupal. Quickstart | https://habrahabr.ru/post/65714/
+
+Оптимизация Drupal | https://habrahabr.ru/post/64286/
+
+Drupal — победитель Webware 100 Awards | https://habrahabr.ru/post/60043/
+
+SMTP relay или что делать если ваш сервер попал в email-блеклист | https://habrahabr.ru/post/59018/
+
+Несколько полезных и интересных модулей для Друпала | https://habrahabr.ru/post/57940/
+
+импорт товаров с картинками в Ubercart | https://habrahabr.ru/post/56666/
+
+Выводим ноды на Google Maps | https://habrahabr.ru/post/56505/
+
+Безопасный код: Работа с пользовательским вводом | https://habrahabr.ru/post/56291/
+
+Drupal как MVC Framework | https://habrahabr.ru/post/56007/
+
+Вводный курс по Drupal | https://habrahabr.ru/post/54920/
+
+Создание сайта из готовых компонентов на примере сайта заказа еды в офис | https://habrahabr.ru/post/54394/
+
+Drupal Views Attach | https://habrahabr.ru/post/54351/
+
+Электронный документооборот. Реализация. | https://habrahabr.ru/post/53518/
+
+Скорость индексации сайта поисковиками | https://habrahabr.ru/post/53309/
+
+Танцы с бубном, часть 2 — tabbed menu в Drupal | https://habrahabr.ru/post/52601/
+
+Безопасный код в Друпале: Работа с базой данных | https://habrahabr.ru/post/52469/
+
+Установка IntenseDebate в Drupal | https://habrahabr.ru/post/52409/
+
+Безопасный код в Друпале: Подделка межсайтовых запросов | https://habrahabr.ru/post/52132/
+
+10 шагов к постижению форм в Друпале | https://habrahabr.ru/post/50476/
+
+Drupal: Text field > Radio button | https://habrahabr.ru/post/48316/
+
+Переезд с PostgreSQL на MySQL | https://habrahabr.ru/post/47389/
+
+Пример отображения картинок с помощью ImageField и Lightboox2 | https://habrahabr.ru/post/47329/
+
+AJAX комменты | https://habrahabr.ru/post/47301/
+
+Drupal 6. Примитивная галерея CCK+ImageField+ImageCache+Lightbox2 | https://habrahabr.ru/post/47205/
+
+Почему я люблю Drupal | https://habrahabr.ru/post/46899/
+
+Почему я не люблю Drupal | https://habrahabr.ru/post/44980/
+
+Drupal получил Overall 2008 Open Source CMS Award | https://habrahabr.ru/post/43787/
+
+Другие дистрибутивы Drupal | https://habrahabr.ru/post/42072/
+
+Поддержим Drupal 6 на 2008 Open Source CMS Award | https://habrahabr.ru/post/38936/
+
+DrupalCamp Kyiv'2008 | https://habrahabr.ru/post/37601/
+
+Крик о помощи. Есть время — помоги, нет — пройди мимо! | https://habrahabr.ru/post/37574/
+
+Drupal-картошка | https://habrahabr.ru/post/37545/
+
+Модификация форм Друпала | https://habrahabr.ru/post/37069/
+
+WYSIWYG редактор для drupal | https://habrahabr.ru/post/30252/
+
+Встреча друпалеров на iCamp! | https://habrahabr.ru/post/29035/
+
+Все, о чем вы не знали, и боялись спросить по поводу темизации Views | https://habrahabr.ru/post/28806/
+
+Две общающиеся ленты новостей. Как? | https://habrahabr.ru/post/28324/
+
+Скринкаст. Сборка коллективного блога своими руками. Часть 2 | https://habrahabr.ru/post/27557/
+
+Друпал ограничен только способностями разработчика! | https://habrahabr.ru/post/27454/
+
+Ресайз картинок из веба или борьба с вредными пользователями… | https://habrahabr.ru/post/27426/
+
+Скринкаст. Коллективный блог с элементами социальной сети своими руками. | https://habrahabr.ru/post/27339/
+
+Русская документация API Drupal | https://habrahabr.ru/post/26648/
+
+Решение проблемы модуля Simple Karma для Drupal 5.x | https://habrahabr.ru/post/25178/
+
+Разработка модуля SMFforum Integration module прекращена из-за претензий Simple Machines | https://habrahabr.ru/post/23967/
+
+Mollom — помощник в борьбе со спамом для Drupal-администраторов | https://habrahabr.ru/post/23335/
+
+24 апреля в Москве пройдет первый семинар по Drupal | https://habrahabr.ru/post/23328/
+
+Drupal на Webware 100 Awards 2008 | https://habrahabr.ru/post/22313/
+
+Fotonotes для Drupal 6. Заметки для фотографий в стиле Flickr.com | https://habrahabr.ru/post/22184/
+
+Drupal 6.0 released | https://habrahabr.ru/post/20236/
+
+Часть 2.0 Сделаем это по-быстрому – Habrahabr за пару часов | https://habrahabr.ru/post/19735/
+
+События на хабре, vote_up_down и многое другое | https://habrahabr.ru/post/19220/
+
+Сделаем это по-быстрому – habrahabr за пару часов | https://habrahabr.ru/post/19005/
+
+Drupal'у семь лет | https://habrahabr.ru/post/18808/
+
+Локализация Drupal 5.x | https://habrahabr.ru/post/18488/
+
+14 модулей для Drupal, о которых вы должны знать | https://habrahabr.ru/post/18114/
+
+Несколько вопросов о Drupal | https://habrahabr.ru/post/9707/
+

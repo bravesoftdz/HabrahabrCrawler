@@ -1,0 +1,2640 @@
+Самая быстрая и энергоэффективная реализация алгоритма BFS на различных параллельных архитектурах | https://habrahabr.ru/post/344378/
+
+Разреженные матрицы: как ученые ускорили машинное обучение на GPU | https://habrahabr.ru/company/it-grad/blog/344320/
+
+Перспективы эволюции жестких дисков: передовые технологии и трудности реализации | https://habrahabr.ru/company/wd/blog/344252/
+
+Производительность mdadm raid 5,6,10 и ZFS zraid, zraid2, ZFS striped mirror | https://habrahabr.ru/post/344204/
+
+Как я придумывал и применял формат хранения результатов экспериментов Measurelook | https://habrahabr.ru/post/344174/
+
+Список полезных идей для высоконагруженных сервисов | https://habrahabr.ru/post/344160/
+
+Два года успешного использования Edition-Based Redefiniton в базах Oracle | https://habrahabr.ru/company/qiwi/blog/343782/
+
+Как я написал приложение, которое за 15 минут делало то же самое, что и регулярное выражение за 5 дней | https://habrahabr.ru/post/343116/
+
+Первый в России митап по Apache Ignite, 12 декабря | https://habrahabr.ru/company/gridgain/blog/343826/
+
+Секреты React и Redux при разработке веб-приложений | https://habrahabr.ru/company/piter/blog/343680/
+
+In-Memory Computing Summit 2017 San Francisco | https://habrahabr.ru/company/gridgain/blog/343556/
+
+Цена JavaScript | https://habrahabr.ru/post/343562/
+
+MSA и не только: как мы создаем высоконагруженные сервисы для банка | https://habrahabr.ru/company/vtb/blog/343506/
+
+Как мы переписали архитектуру Яндекс.Погоды и сделали глобальный прогноз на картах | https://habrahabr.ru/company/yandex/blog/343518/
+
+«Punch It, Chewie»: смоделирована работа 56-кубитного квантового компьютера | https://habrahabr.ru/company/it-grad/blog/343204/
+
+Первый HighLoad Cup: как мы это пережили | https://habrahabr.ru/company/mailru/blog/343032/
+
+Версионирование и деплой кода PostgreSQL | https://habrahabr.ru/company/avito/blog/342946/
+
+10 очевидных шагов для подготовки инфраструктуры интернет-магазина к Чёрной пятнице | https://habrahabr.ru/company/flant/blog/342976/
+
+Когда стоит переходить к автоматизации тестирования | https://habrahabr.ru/company/jugru/blog/342780/
+
+Как PacketZoom Mobile Expresslane увеличивает производительность приложений | https://habrahabr.ru/company/globaldots/blog/342540/
+
+Оптимизация скорости визуализации веб-страниц | https://habrahabr.ru/company/jugru/blog/342632/
+
+CubeDB: минималистичное хранилище счётчиков с многомерными ключами | https://habrahabr.ru/company/badoo/blog/342564/
+
+Переписать базу сообщений ВКонтакте с нуля и выжить | https://habrahabr.ru/company/vkontakte/blog/342570/
+
+Как облачный сервис Кабинет Дримкас справляется со спонтанными нагрузками | https://habrahabr.ru/company/dreamkas/blog/335964/
+
+Миграция базы данных с InnoDB на MyRocks | https://habrahabr.ru/company/badoo/blog/342336/
+
+Анонс Java-конференции JPoint 2018: JDK 9, высокие нагрузки и производительность JVM | https://habrahabr.ru/company/jugru/blog/341750/
+
+Нагрузочное тестирование, история автоматизации процесса | https://habrahabr.ru/post/342380/
+
+Storage. Multi-tier software-defined storage. Почему, зачем и как реализовано на примере облака MIRhosting | https://habrahabr.ru/company/jelastic/blog/342278/
+
+IBM Research анонсировали 50-кубитный квантовый компьютер | https://habrahabr.ru/company/it-grad/blog/341920/
+
+Высокопроизводительные вычисления: Проект Microsoft и Cray | https://habrahabr.ru/company/1cloud/blog/341746/
+
+В поисках самого лучшего способа тестирования системы | https://habrahabr.ru/company/jugru/blog/341852/
+
+Открытая трансляция главного зала HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/341794/
+
+Virtuozzo Storage: Реальный опыт эксплуатации, советы по оптимизации и решению проблем | https://habrahabr.ru/post/341168/
+
+IBM применили вычисления в памяти для машинного обучения | https://habrahabr.ru/company/it-grad/blog/341568/
+
+Что мы расскажем на Highload++ 2017 | https://habrahabr.ru/company/mailru/blog/341720/
+
+Avito на Highload++ 2017 | https://habrahabr.ru/company/avito/blog/341632/
+
+Открытая трансляция главного зала HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/341600/
+
+Tarantool: когда на сервис оповещения миллиона пользователей нужно 500 строк кода | https://habrahabr.ru/company/mailru/blog/341498/
+
+Как мы делаем карту для тех, кто делает карту | https://habrahabr.ru/company/2gis/blog/341508/
+
+Обзор конференции Highload fwdays’17 | https://habrahabr.ru/company/dataart/blog/341448/
+
+Настраиваем VM Instance Google Cloud для задач машинного обучения | https://habrahabr.ru/post/341446/
+
+Бесплатная YouTube-трансляция Joker 2017: Java 9, Concurrency, GC, Spring и, конечно, паззлеры | https://habrahabr.ru/company/jugru/blog/341330/
+
+Создан первый молекулярный компьютер на синтетических полимерах | https://habrahabr.ru/company/it-grad/blog/341272/
+
+Сервис оповещения миллиона пользователей с помощью RabbitMQ | https://habrahabr.ru/company/tensor/blog/341068/
+
+Совместный доступ с RAIDIX и Apple Xsan. Яблочный спас для видеомонтажеров | https://habrahabr.ru/company/raidix/blog/341102/
+
+Архитектура хранения и отдачи фотографий в Badoo | https://habrahabr.ru/company/oleg-bunin/blog/340976/
+
+Реализация HFT роботов на устройствах CEPappliance | https://habrahabr.ru/post/341084/
+
+Качественное уменьшение изображений за константное время | https://habrahabr.ru/post/340966/
+
+Студенческие суперкомпьютерные соревнования: инструкция по применению | https://habrahabr.ru/post/340974/
+
+Асинхронность 3: Субъекторная модель | https://habrahabr.ru/post/340732/
+
+SALI — это Вам ~ язык программирования | https://habrahabr.ru/post/340464/
+
+Профилирование кода на C/С++ в *nix-системах | https://habrahabr.ru/company/oleg-bunin/blog/340394/
+
+Послевкусие от Kotlin, часть 3. Корутины — делим процессорное время | https://habrahabr.ru/post/339618/
+
+Практическое руководство по анализу производительности приложений | https://habrahabr.ru/company/jugru/blog/339926/
+
+Fujitsu построит суперкомпьютер для исследования искусственного интеллекта | https://habrahabr.ru/company/vasexperts/blog/338484/
+
+Реализация вебхуков на примере взаимодействия сторонних сервисов с онлайн-кассами | https://habrahabr.ru/company/dreamkas/blog/332798/
+
+Введение в архитектуры нейронных сетей | https://habrahabr.ru/company/oleg-bunin/blog/340184/
+
+За счет чего Tarantool такой оптимальный | https://habrahabr.ru/company/oleg-bunin/blog/340062/
+
+Как IIS поддерживает нашу BI-аналитику, и в чем особенности настройки под Highload | https://habrahabr.ru/company/yamoney/blog/339976/
+
+Golang Moscow: встреча в Avito | https://habrahabr.ru/company/avito/blog/339846/
+
+Intel представили первый 17-кубитный квантовый чип | https://habrahabr.ru/company/1cloud/blog/339832/
+
+Сравнение tick-to-trade задержек CEPappliance и Solarflare TCPDirect | https://habrahabr.ru/post/339702/
+
+Встречаем PostgreSQL 10. Перевод Release Notes | https://habrahabr.ru/company/avito/blog/339520/
+
+Много, быстро, распределенно: как выбирать In-Memory Data Grid-решение | https://habrahabr.ru/company/jugru/blog/339322/
+
+Оптимизация TensorFlow на современных архитектурах Intel | https://habrahabr.ru/company/intel/blog/338870/
+
+Вышел PostgreSQL 10 | https://habrahabr.ru/post/339568/
+
+Производительность .NET: приемы настоящего джедая | https://habrahabr.ru/company/jugru/blog/339230/
+
+t1ha = Fast Positive Hash | https://habrahabr.ru/post/339160/
+
+Профилирование PL/SQL кода при помощи IDE PL/SQL Developer | https://habrahabr.ru/post/339108/
+
+В поисках перформанса, часть 2: Профилирование Java под Linux | https://habrahabr.ru/company/jugru/blog/338928/
+
+Аналитика в госсекторе: особенности больших систем хранения данных | https://habrahabr.ru/post/338908/
+
+Моделирование смешанных схем на System Verilog | https://habrahabr.ru/post/338922/
+
+Перформанс: что в имени тебе моём? — Алексей Шипилёв об оптимизации в крупных проектах | https://habrahabr.ru/company/jugru/blog/338732/
+
+Суперкомпьютер Cray XC40 построит карту нейронов | https://habrahabr.ru/company/it-grad/blog/338618/
+
+Развертывание кода ES2015+ в продакшн сегодня | https://habrahabr.ru/post/338612/
+
+Быстрый пул для php+websocket без прослойки nodejs на основе lua+nginx | https://habrahabr.ru/post/338614/
+
+Квантовый компьютер IBM научили моделировать сложные химические элементы | https://habrahabr.ru/company/it-grad/blog/338616/
+
+Первый суперкомпьютер DGX-1 на базе Tesla V100 применят в медицине | https://habrahabr.ru/company/it-grad/blog/338212/
+
+Go быстрее Rust, Mail.Ru Group сделала замеры | https://habrahabr.ru/post/338268/
+
+Создаём GTK-видеоплеер с использованием Haskell | https://habrahabr.ru/company/mailru/blog/338176/
+
+Очередное решение HighLoadCup на Go | https://habrahabr.ru/post/338156/
+
+Мои 5 копеек про Highload Cup 2017 или история 9го места | https://habrahabr.ru/post/337854/
+
+Китай сделал новый ход в гонке суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/337898/
+
+SDAccel — проверяем передачу данных | https://habrahabr.ru/post/337568/
+
+Как написать хорошее решение для Highload Cup, но недостаточно хорошее чтобы выйти в топ | https://habrahabr.ru/post/337868/
+
+Как ускорить загрузку сайта | https://habrahabr.ru/company/netologyru/blog/337842/
+
+История 13 места на Highload Cup 2017 | https://habrahabr.ru/post/337710/
+
+От Торонто до Томска: подведение итогов и планирование будущих семинаров по микроэлектронике в России | https://habrahabr.ru/post/337702/
+
+AMD готовится потеснить Intel на рынке серверных решений | https://habrahabr.ru/company/it-grad/blog/337630/
+
+Параллелизм против многопоточности против асинхронного программирования: разъяснение | https://habrahabr.ru/post/337528/
+
+По следам highloadcup: php vs node.js vs go, swoole vs workerman, splfixedarray vs array и многое другое | https://habrahabr.ru/post/337298/
+
+Экскурсия по Музею Истории Компьютеров в Калифорнии, с пользой для разработки. Часть 1. ENIAC, Stretch, CDC6600, IBM/360 | https://habrahabr.ru/post/337164/
+
+Опыт разработки высоконагруженной системы в рамках HighLoad Cup | https://habrahabr.ru/post/337076/
+
+Секционирование PostgreSQL с помощью pg_pathman | https://habrahabr.ru/company/oleg-bunin/blog/336610/
+
+Как правильно хешировать пароли в высоконагруженных сервисах. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/336860/
+
+Работа с параметрами CST из Matlab | https://habrahabr.ru/post/336396/
+
+Хранилище логов для облачной платформы. Опыт внедрения ELK | https://habrahabr.ru/company/technoserv/blog/336154/
+
+Управление памятью в Python | https://habrahabr.ru/company/mailru/blog/336156/
+
+Plasma-протокол для чайников | https://habrahabr.ru/post/336122/
+
+Следущие шаги в черной магии процессоростроения после того, как вы освоили Харрис & Харрис | https://habrahabr.ru/post/336116/
+
+Нагрузочное тестирование Web-систем. Завершаем подготовку | https://habrahabr.ru/post/336104/
+
+«Java-разработчики не осознают проблему с профайлерами»: Андрей Паньгин и Нитсан Вакарт о Java-профилировании | https://habrahabr.ru/company/jugru/blog/335852/
+
+«Каждому по кванту»: Станут ли квантовые вычисления коммерческим продуктом? | https://habrahabr.ru/company/1cloud/blog/335890/
+
+Новый чемпионат для backend-разработчиков: HighLoad Cup | https://habrahabr.ru/company/mailru/blog/335384/
+
+Материализуем результаты поиска, или как мы освободили 25 процессорных ядер | https://habrahabr.ru/company/okmeter/blog/335266/
+
+CNCF предложила бесплатное облако Open Source-проектам для DevOps/микросервисов | https://habrahabr.ru/company/flant/blog/335218/
+
+Как Discord масштабировал Elixir на 5 млн одновременных пользователей | https://habrahabr.ru/post/335220/
+
+Что происходит на стыке базы данных и операционной системы? | https://habrahabr.ru/company/oleg-bunin/blog/335260/
+
+Надёжность Go в инфраструктуре Dropbox | https://habrahabr.ru/post/335056/
+
+R c H2O на Spark в HDInsight | https://habrahabr.ru/post/334898/
+
+Как я сделал самый быстрый ресайз изображений. Часть 3, числа с фиксированной точкой | https://habrahabr.ru/post/334790/
+
+Приглашаем на митап «Java и Linux – Борьба за микросекунды» | https://habrahabr.ru/company/dbtc/blog/334740/
+
+Обзор возможностей библиотеки Apache Curator для Apache Zookeeper | https://habrahabr.ru/post/334680/
+
+IaaS-дайджест: 30 материалов о работе с ПД, новых технологиях, ИБ и высокой производительности | https://habrahabr.ru/company/it-grad/blog/334424/
+
+Разбираемся с копированием и клонированием | https://habrahabr.ru/company/mailru/blog/334176/
+
+Сервер VESNIN: первые тесты дисковой подсистемы | https://habrahabr.ru/company/yadro/blog/334260/
+
+Что нового в nginx? | https://habrahabr.ru/company/oleg-bunin/blog/334194/
+
+Быстрое удаление пробелов из строк на процессорах ARM — альтернативный анализ | https://habrahabr.ru/post/334142/
+
+Bitfury Group провела 1-ю транзакцию в Lightning Network c использованием биткойн-протокола | https://habrahabr.ru/company/bitfury/blog/333864/
+
+Быстрое восстановление данных. Схема бабочки для регенерирующих кодов | https://habrahabr.ru/company/raidix/blog/333766/
+
+Google планирует представить облачный сервис для квантовых вычислений | https://habrahabr.ru/company/it-grad/blog/333688/
+
+Гибридный куб памяти (HMC): что это такое и как его подключить к FPGA | https://habrahabr.ru/post/333556/
+
+«Как это работает»: Классификация ЦОД Tier | https://habrahabr.ru/company/it-grad/blog/332864/
+
+Нагрузочное тестирование Web-систем. Продолжаем подготовку | https://habrahabr.ru/post/333504/
+
+«Ваш следующий шаг к блокчейну»: релиз платформы Exonum от Bitfury Group | https://habrahabr.ru/company/bitfury/blog/333446/
+
+IBM и ВВС США разрабатывают нейроморфный суперкомпьютер нового поколения | https://habrahabr.ru/company/ibm/blog/333378/
+
+Семантика exactly-once в Apache Kafka | https://habrahabr.ru/company/badoo/blog/333046/
+
+Нагрузочное тестирование Web-систем. Как к нему подготовиться | https://habrahabr.ru/post/332862/
+
+Запись с 1 млн нейронов: новые планы DARPA | https://habrahabr.ru/company/it-grad/blog/332828/
+
+Знакомьтесь, Apache BookKeeper — реплицируемый сервис журналов | https://habrahabr.ru/post/332686/
+
+Первая российская материнская плата массового сегмента | https://habrahabr.ru/company/stss/blog/320798/
+
+Быстрое удаление пробелов из строк на процессорах ARM | https://habrahabr.ru/post/332710/
+
+Алгоритм поиска наилучшего маршрута в linux | https://habrahabr.ru/post/331944/
+
+Kubernetes & production — быть или не быть? | https://habrahabr.ru/post/332108/
+
+Делаем деньги из дождя или засухи. Опыт The Weather Company | https://habrahabr.ru/company/ibm/blog/332536/
+
+Proxmox 5 и частичная запись в блочных устройствах эффективного хранения Ceph | https://habrahabr.ru/post/332514/
+
+Что, если выкинуть все лишнее из базы в распределенный кэш – наш опыт использования Hazelcast | https://habrahabr.ru/company/yamoney/blog/332462/
+
+Доставка миллиардов сообщений строго один раз | https://habrahabr.ru/post/332448/
+
+Bitfury Group провела первую успешную multi-hop-транзакцию в сети Lightning Network | https://habrahabr.ru/company/bitfury/blog/332436/
+
+AMD Strikes Back: Доля AMD на рынке CPU выросла до 31% | https://habrahabr.ru/company/it-grad/blog/332394/
+
+Отвечаем на вопросы читателей: что такое когнитивная система IBM Watson, и как она работает? | https://habrahabr.ru/company/ibm/blog/332070/
+
+Повышаем качество данных с Oracle Enterprise Data Quality | https://habrahabr.ru/company/jetinfosystems/blog/332024/
+
+Третье пришествие ГОСТ 28147-89 или «Русская рулетка» | https://habrahabr.ru/post/331960/
+
+Использование Pinba в Badoo: то, чего вы еще не знаете | https://habrahabr.ru/company/badoo/blog/331866/
+
+[Питер] Встреча JUG.ru c легендой параллельного программирования Maurice Herlihy — Transactional Memory and Beyond | https://habrahabr.ru/company/jugru/blog/331880/
+
+IBM Bluemix в университетах: примеры реализованных проектов от студентов и преподавателей | https://habrahabr.ru/company/ibm/blog/331868/
+
+Миллион WebSocket и Go | https://habrahabr.ru/company/mailru/blog/331784/
+
+Чипы Intel Skylake и Kaby Lake — обнаружена проблема при активном Hyper-Threading | https://habrahabr.ru/company/it-grad/blog/330580/
+
+Место Java в мире HFT | https://habrahabr.ru/company/raiffeisenbank/blog/331608/
+
+«В Тарантуле нет такой проблемы как сильная деградация со временем и под нагрузкой» – Василий Сошников | https://habrahabr.ru/company/pgdayrussia/blog/331646/
+
+Расставляем точки над микросервисами. Секция Avito на РИТ++ 2017 (Видео) | https://habrahabr.ru/company/avito/blog/331418/
+
+В MIT разработали фотонный чип для глубокого обучения | https://habrahabr.ru/company/it-grad/blog/330574/
+
+Создание быстрых и более оптимизированных сайтов на WordPress | https://habrahabr.ru/post/330918/
+
+Распределённые вычисления поверх Ceph RADOS и AsyncMessenger | https://habrahabr.ru/post/330908/
+
+Внимание, Хабрахабр: IBM открывает бесплатный доступ к большому количеству своих ресурсов | https://habrahabr.ru/company/ibm/blog/330838/
+
+DevConf::BackEnd уже на этой неделе 17 июня в субботу, программа сформирована | https://habrahabr.ru/company/devconf/blog/330748/
+
+Вы — не Google | https://habrahabr.ru/company/infopulse/blog/330708/
+
+Как получить оффер в Badoo в день собеседования. Часть вторая, для PHP-разработчика | https://habrahabr.ru/company/badoo/blog/330558/
+
+Быстрое восстановление данных. Чем нам помогут LRC? | https://habrahabr.ru/company/raidix/blog/330530/
+
+Задай вопрос разработчикам облачных сервисов Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/330348/
+
+«Сломай голосовалку на РИТ++». Даёшь 1 000 000 RPS | https://habrahabr.ru/company/odin_ingram_micro/blog/330368/
+
+Компания IBM представила первый в мире 5-нанометровый чип | https://habrahabr.ru/company/it-grad/blog/330304/
+
+Текстовый онлайн с фестиваля РИТ++ 2017. День второй | https://habrahabr.ru/company/oleg-bunin/blog/330100/
+
+Текстовый онлайн с фестиваля РИТ++ 2017. День первый | https://habrahabr.ru/company/oleg-bunin/blog/330098/
+
+Обзор изменений в новом мажорном релизе Node 8 | https://habrahabr.ru/post/329942/
+
+Чип для умных камер ELISE — одно из самых высокотехнологичных изделий России 2017 года. Плата для разработчиков и камера | https://habrahabr.ru/post/329864/
+
+Как учится и отвечает на вопросы когнитивная система IBM Watson. Часть 1 | https://habrahabr.ru/company/ibm/blog/329826/
+
+Intel представила 18-ядерный Core i9 Extreme из линейки Core X | https://habrahabr.ru/company/it-grad/blog/329398/
+
+Оцениваем эффективность Guetzli – время оптимизации и степень сжатия | https://habrahabr.ru/company/webo/blog/329766/
+
+Intel и Facebook совместно повышают производительность библиотеки Caffe2 | https://habrahabr.ru/company/intel/blog/329682/
+
+Исчерпывающее руководство по использованию HTTP/2 Server Push | https://habrahabr.ru/company/badoo/blog/329722/
+
+Оптимизация доставки контента с помощью Azure CDN | https://habrahabr.ru/post/329662/
+
+Потоки выполнения и PHP | https://habrahabr.ru/company/mailru/blog/329446/
+
+Intel открывает доступ к clDNN [высокопроизводительной библиотеке для глубокого обучения] | https://habrahabr.ru/company/1cloud/blog/329474/
+
+10 способов достижения HighLoad'а и BigData на ровном месте | https://habrahabr.ru/company/oleg-bunin/blog/329222/
+
+Выбираем СУБД для хранения временных рядов | https://habrahabr.ru/company/oleg-bunin/blog/329062/
+
+Вы неверно измеряете загрузку процессора | https://habrahabr.ru/company/infopulse/blog/329206/
+
+Автоматизация нагрузочного тестирования банковского ПО для терминалов | https://habrahabr.ru/company/jetinfosystems/blog/329014/
+
+Что нам стоит CDN построить | https://habrahabr.ru/post/328844/
+
+IBM открыла доступ к новому 16-кубитному квантовому процессору | https://habrahabr.ru/company/it-grad/blog/328590/
+
+Тестируем облачные платформы из Топ-3 | https://habrahabr.ru/post/328916/
+
+Gorilla: быстрая, масштабируемая in-memory time-series база данных | https://habrahabr.ru/company/okmeter/blog/327038/
+
+Как и зачем создавать NginX-модуль — теория, практика, профит | https://habrahabr.ru/company/oleg-bunin/blog/328978/
+
+Lua in Moscow впервые на DevConf 2017 | https://habrahabr.ru/company/devconf/blog/328906/
+
+Сервисы на Go в Badoo: как мы их пишем и поддерживаем | https://habrahabr.ru/company/badoo/blog/328062/
+
+Dummy Origin: тестируем работу CDN | https://habrahabr.ru/company/webo/blog/328772/
+
+Логирование, интерфейсы и аллокации в Go | https://habrahabr.ru/company/badoo/blog/328722/
+
+Скорость – нужна ли она банковским сайтам | https://habrahabr.ru/company/otkritie/blog/328718/
+
+Технология MIPS SIMD и процессор Байкал-Т1 | https://habrahabr.ru/post/328566/
+
+О том, как в Instagram отключили сборщик мусора Python и начали жить | https://habrahabr.ru/company/wunderfund/blog/328404/
+
+Можно ли использовать Laravel для больших Enterprise-решений? | https://habrahabr.ru/post/328610/
+
+Какой map быстрее, и есть ли альтернатива Judy | https://habrahabr.ru/company/badoo/blog/328472/
+
+Практическая оптимизация MySQL: измерять, чтобы ускорять | https://habrahabr.ru/company/oleg-bunin/blog/328458/
+
+Стресс-тест команды: как сделать GPU бенчмарк и не перегреться | https://habrahabr.ru/company/unigine/blog/328082/
+
+Потокобезопасный std::map с производительностью lock-free map | https://habrahabr.ru/post/328374/
+
+Ускоряем std::shared_mutex в 10 раз | https://habrahabr.ru/post/328362/
+
+Высокопроизводительные сервисы на Crystal, введение от новичка | https://habrahabr.ru/post/328364/
+
+Жирные программы — изучаем фактор памяти часть В | https://habrahabr.ru/post/328358/
+
+12 инструментов для отладки .NET-приложений по производительности и по памяти | https://habrahabr.ru/company/jugru/blog/328294/
+
+Профилирование и оптимизация символьных вычислений для будущего сервера | https://habrahabr.ru/post/328170/
+
+Волитроника может «продлить» действие закона Мура | https://habrahabr.ru/company/1cloud/blog/328034/
+
+Что такое service mesh и почему он мне нужен [для облачного приложения с микросервисами]? | https://habrahabr.ru/company/flant/blog/327536/
+
+Уже в этом году: Google планирует создать квантовый компьютер | https://habrahabr.ru/company/1cloud/blog/327420/
+
+Почему Apache Ignite — хорошая платформа для микросервисов | https://habrahabr.ru/company/gridgain/blog/327380/
+
+Как выбрать поставщика услуг информационной безопасности | https://habrahabr.ru/company/qrator/blog/327326/
+
+Сравнение производительности железного сервера и облака Amazon | https://habrahabr.ru/company/first/blog/327046/
+
+Открываем доступ к видеозаписям HighLoad++ за последние пять лет | https://habrahabr.ru/company/oleg-bunin/blog/327276/
+
+Виртуальная Машина PHP 7 | https://habrahabr.ru/company/badoo/blog/327068/
+
+Опыт внедрения Tarantool в сервисе Calltouch | https://habrahabr.ru/company/mailru/blog/326902/
+
+Как я сделал самый быстрый ресайз изображений. Часть 2, SIMD | https://habrahabr.ru/post/326900/
+
+Выбор MQ для высоконагруженного проекта | https://habrahabr.ru/post/326880/
+
+Масштабируя TLS | https://habrahabr.ru/company/qrator/blog/326824/
+
+Начнем с математики. Векторизация вычислений в реализации технологии RAID-6 | https://habrahabr.ru/company/raidix/blog/326816/
+
+Производительность приложений под Android | https://habrahabr.ru/company/jugru/blog/326848/
+
+Дилетантское ЧПУ? | https://habrahabr.ru/post/326834/
+
+Сравнение производительности версий PHP | https://habrahabr.ru/company/mailru/blog/326696/
+
+Жирные программы — факторы скорости | https://habrahabr.ru/post/326592/
+
+Быстрая загрузка данных из файлов в R | https://habrahabr.ru/post/326616/
+
+Centrifugo – 3.5 миллиона оборотов в минуту | https://habrahabr.ru/post/326236/
+
+Введение в Storage Performance Development Kit (SPDK) | https://habrahabr.ru/company/intel/blog/326094/
+
+Эволюция приложений или куда мы идем | https://habrahabr.ru/post/326016/
+
+Tarantool как основное хранилище данных для серверных приложений, написанных на .NET | https://habrahabr.ru/company/mailru/blog/326216/
+
+Как сократить время запуска приложений под iOS | https://habrahabr.ru/company/jugru/blog/325796/
+
+Кинетика больших кластеров | https://habrahabr.ru/post/325798/
+
+Отказоустойчивая обработка 10M OAuth-токенов на Tarantool | https://habrahabr.ru/company/mailru/blog/325582/
+
+Библиотека Google Benchmark | https://habrahabr.ru/company/wunderfund/blog/325634/
+
+Простейший HTTP сервер на Golang и Elixir. Сравнение производительности | https://habrahabr.ru/post/324818/
+
+Инфраструктура Twitter: масштаб | https://habrahabr.ru/post/325282/
+
+Что я изменил бы в Go | https://habrahabr.ru/company/mailru/blog/325046/
+
+Frontera: архитектура фреймворка для обхода веба и текущие проблемы | https://habrahabr.ru/post/325154/
+
+Масштабирование Git (и кое-какая предыстория) | https://habrahabr.ru/post/325116/
+
+Новый рекорд в распознавании речи: уровень ошибок алгоритма снижен до 5,5% | https://habrahabr.ru/company/ibm/blog/325098/
+
+Управление CST MWS с помощью Matlab | https://habrahabr.ru/post/325012/
+
+Сможет ли Питон прожевать миллион запросов в секунду? | https://habrahabr.ru/company/southbridge/blog/323556/
+
+Реализация на Java хешированного бинарного дерева | https://habrahabr.ru/post/324988/
+
+Микрооптимизации важны: предотвращаем 20 миллионов системных вызовов | https://habrahabr.ru/company/mailru/blog/324466/
+
+Как Discord индексирует миллиарды сообщений | https://habrahabr.ru/post/324902/
+
+Делаем быстрый поиск по турам на основе ClickHouse | https://habrahabr.ru/post/324846/
+
+Запись при чтении в postgresql: скандалы, интриги, расследования | https://habrahabr.ru/company/okmeter/blog/324494/
+
+Интел усиливает позиции в HPC | https://habrahabr.ru/post/324608/
+
+IBM Q – разработка квантового компьютера, работающего через облако | https://habrahabr.ru/company/ibm/blog/324576/
+
+Badoo time-series storage: итак, она звалась Кассандрой | https://habrahabr.ru/company/badoo/blog/324510/
+
+«Сложную архитектуру очень просто сделать» — интервью с Олегом Анастасьевым из Одноклассников | https://habrahabr.ru/company/jugru/blog/324424/
+
+Видеозаписи лучших докладов DotNext 2016 Moscow: Перфоманс, CLR и функциональное программирование на .NET | https://habrahabr.ru/company/jugru/blog/324038/
+
+«В 100 000 раз быстрее»: ультракороткие световые импульсы в вычислительной технике | https://habrahabr.ru/company/vasexperts/blog/321120/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 3) | https://habrahabr.ru/company/google/blog/323908/
+
+PG Metricus — сбор метрик из plpgsql кода или как три строчки кода упростили жизнь | https://habrahabr.ru/company/avito/blog/323900/
+
+Репликация из MySQL в Tarantool | https://habrahabr.ru/company/mailru/blog/323870/
+
+Как Discord хранит миллиарды сообщений | https://habrahabr.ru/post/323694/
+
+Как оптимизировать сайт на Magento | https://habrahabr.ru/company/webo/blog/323632/
+
+Как сделать высоконагруженный сервис, не зная количество нагрузки | https://habrahabr.ru/post/323358/
+
+Я написал самую быструю хеш-таблицу | https://habrahabr.ru/company/mailru/blog/323242/
+
+Nginx + PHP 7.1.1 FPM vs Node.js 7.7.1 в качестве бэкенда ч.2 | https://habrahabr.ru/post/323208/
+
+Микросервисы: опыт использования в нагруженном проекте | https://habrahabr.ru/post/323154/
+
+Архитектура поиска в Booking.com | https://habrahabr.ru/post/323094/
+
+Java-конференция JPoint 2017: Москва, 7-8 апреля — Обзор докладов | https://habrahabr.ru/company/jugru/blog/323040/
+
+Сравнение производительности процессоров Intel разных поколений | https://habrahabr.ru/company/stss/blog/323016/
+
+Дизайн REST API для высокопроизводительных систем | https://habrahabr.ru/post/323010/
+
+Как кастомные решения помогли сэкономить на сетевой инфраструктуре | https://habrahabr.ru/company/webo/blog/322946/
+
+Страх и ненависть в распределённых системах | https://habrahabr.ru/post/322876/
+
+Смотрим внутренности отечественного 28нм MIPS процессора — Baikal-T1 | https://habrahabr.ru/company/zeptobars/blog/322884/
+
+История одного толстого бинарника | https://habrahabr.ru/company/badoo/blog/322880/
+
+ClickHouse: очень быстро и очень удобно | https://habrahabr.ru/post/322724/
+
+Big Data: большие возможности или большой обман | https://habrahabr.ru/company/1cloud/blog/322670/
+
+Архитектура растущего проекта на примере ВКонтакте | https://habrahabr.ru/post/322562/
+
+MySQL и MongoDB — когда и что лучше использовать | https://habrahabr.ru/post/322532/
+
+Система BBR: регулирование заторов непосредственно по заторам | https://habrahabr.ru/post/322430/
+
+Как я сделал самый быстрый ресайз изображений. Часть 1, общие оптимизации | https://habrahabr.ru/post/322352/
+
+Снесите это немедленно | https://habrahabr.ru/post/322326/
+
+Tarantool: нагрузочное тестирование | https://habrahabr.ru/post/322266/
+
+IBM открывает доступ к главному компоненту Watson | https://habrahabr.ru/company/1cloud/blog/322196/
+
+$mol_app_bench: готовим JS бенчмарки быстро и просто | https://habrahabr.ru/post/322162/
+
+OpenResty: превращаем NGINX в полноценный сервер приложений | https://habrahabr.ru/post/321864/
+
+Многократное использование кода в микросервисной архитектуре — на примере SPRING BOOT | https://habrahabr.ru/company/piter/blog/322102/
+
+Вот что квант животворящий делает | https://habrahabr.ru/company/parallels/blog/321900/
+
+«Нейроморфные чипы»: иной взгляд на машинное обучение | https://habrahabr.ru/company/1cloud/blog/321870/
+
+Производительность старта JavaScript | https://habrahabr.ru/company/mailru/blog/321748/
+
+Вебинар: Введение в Singularity | https://habrahabr.ru/company/flyelephant/blog/321808/
+
+Где живут ваши объявления? | https://habrahabr.ru/company/avito/blog/321796/
+
+Как я сделал самый быстрый ресайз изображений. Часть 0 | https://habrahabr.ru/post/321744/
+
+История успеха «Яндекс.Почты» с PostgreSQL | https://habrahabr.ru/post/321756/
+
+Сравнение решений по балансировке высоконагруженных систем | https://habrahabr.ru/post/321560/
+
+Осваиваем Tarantool 1.6 | https://habrahabr.ru/company/oleg-bunin/blog/319968/
+
+Остроумие и отвага: как мы много раз ошибались, создавая iFunny | https://habrahabr.ru/company/funcorp/blog/321508/
+
+Как сделать ЖКХ, чтобы оно было ГИС | https://habrahabr.ru/company/lanit/blog/321476/
+
+Балансировка нагрузки и отказоустойчивость в «Одноклассниках» | https://habrahabr.ru/post/321448/
+
+Поддержка высоконагруженного проекта | https://habrahabr.ru/company/oleg-bunin/blog/321382/
+
+Поиск по большим документам в ElasticSearch | https://habrahabr.ru/post/321352/
+
+Neurostream — новый чип для глубокого обучения | https://habrahabr.ru/company/1cloud/blog/321304/
+
+Особенности архитектуры распределённого хранилища в Dropbox | https://habrahabr.ru/post/321274/
+
+Tarantool: Хороший, Плохой, Злой | https://habrahabr.ru/post/321252/
+
+Архитектура микросервисов | https://habrahabr.ru/company/mailru/blog/320962/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 2) | https://habrahabr.ru/company/google/blog/320192/
+
+D-Wave Systems продали свой первый 2000-кубитный квантовый компьютер | https://habrahabr.ru/company/it-grad/blog/319618/
+
+PHP 7.1.1 FPM vs Node.js 7.4.0 в качестве web backend сервера | https://habrahabr.ru/post/320670/
+
+В поисках перформанса: мониторинг производительности JVM под Linux при помощи BPF | https://habrahabr.ru/company/jugru/blog/320620/
+
+Грузовики и рефрижераторы в облаке | https://habrahabr.ru/company/microsoft/blog/319856/
+
+33 способа ускорить ваш фронтенд в 2017 году | https://habrahabr.ru/company/badoo/blog/320558/
+
+Хайлайтинг больших текстовых полей в ElasticSearch | https://habrahabr.ru/post/320390/
+
+Производительность сети малой латентности InfiniBand на виртуальном кластере HPC HUB | https://habrahabr.ru/company/hpchub/blog/319940/
+
+Анонс DotNext 2017 Piter: Jon Skeet в Петербурге | https://habrahabr.ru/company/jugru/blog/319954/
+
+Кэширование данных в web приложениях. Использование memcached | https://habrahabr.ru/company/oleg-bunin/blog/320044/
+
+Мониторинг приложений с помощью Pinba | https://habrahabr.ru/company/badoo/blog/319934/
+
+Spotify: миграция подсистемы событий в Google Cloud (часть 1) | https://habrahabr.ru/company/google/blog/319772/
+
+Сравнение производительности аналитических СУБД HPE Vertica и Exasol с использованием TPC-H Benchmark | https://habrahabr.ru/post/319902/
+
+Я работаю в ТехЦентре Дойче Банка | https://habrahabr.ru/company/dbtc/blog/319784/
+
+Конкурс GraphHPC-2017 на самую быструю реализацию задачи Betweenness Centrality | https://habrahabr.ru/post/319646/
+
+Инфраструктура онлайн игры | https://habrahabr.ru/post/319582/
+
+Горизонтальное масштабирование. Что, зачем, когда и как? | https://habrahabr.ru/company/oleg-bunin/blog/319526/
+
+Real-time BeagleBone: использование высокоскоростных выводов | https://habrahabr.ru/post/319338/
+
+Повышаем производительность кода: сначала думаем о данных | https://habrahabr.ru/company/mailru/blog/319194/
+
+Сравнительный анализ методов балансировки трафика | https://habrahabr.ru/company/oleg-bunin/blog/319262/
+
+Простая реализация FDTD на Java | https://habrahabr.ru/post/319216/
+
+Переходим c Tarantool 1.5 на 1.6 | https://habrahabr.ru/company/mailru/blog/319170/
+
+С чего начать внедрение Hadoop в компании | https://habrahabr.ru/company/oleg-bunin/blog/319138/
+
+Скорость с доставкой до пользователя | https://habrahabr.ru/company/oleg-bunin/blog/319114/
+
+NoSQL – коротко о главном | https://habrahabr.ru/company/oleg-bunin/blog/319052/
+
+Сравнение Lock-free алгоритмов — CAS и FAA на примере JDK 7 и 8 | https://habrahabr.ru/post/319036/
+
+Производительность запросов в PostgreSQL – шаг за шагом | https://habrahabr.ru/company/oleg-bunin/blog/319018/
+
+Быстрый Data Mining или сравнение производительности C# vs Python (pandas-numpy-skilearn) | https://habrahabr.ru/post/318484/
+
+Правда о традиционных JavaScript-бенчмарках | https://habrahabr.ru/company/mailru/blog/318282/
+
+Сравнение производительности аналитической СУБД Exasol и Oracle In-Memory Option | https://habrahabr.ru/post/318416/
+
+«Распределение в запросе» или «избавляемся от перебора» | https://habrahabr.ru/post/318240/
+
+SetGoroutineName | https://habrahabr.ru/post/318220/
+
+Невычислимые функции на примере Busy Beaver Game | https://habrahabr.ru/post/317996/
+
+Улучшение производительности PHP 7 | https://habrahabr.ru/company/mailru/blog/318008/
+
+Преобразование формы представления данных при помощи Excel+PowerQuery | https://habrahabr.ru/post/318058/
+
+Системный подход в повышении эффективности работающего веб-проекта | https://habrahabr.ru/company/SECL_GROUP/blog/318038/
+
+Оптимизация одного запроса с GROUP BY в PostgreSQL | https://habrahabr.ru/post/317980/
+
+Обзор (и видеозаписи) лучших докладов Java-конференции JPoint 2016: BigData, кишки JVM и паззлеры | https://habrahabr.ru/company/jugru/blog/317764/
+
+Тестирование производительности Oracle In-Memory Option c использованием TPC-H Benchmark | https://habrahabr.ru/post/317774/
+
+Как Discord обрабатывает более 1 000 000 push-запросов в минуту с помощью Elixir GenStage | https://habrahabr.ru/post/317724/
+
+Вебинар: Введение в Data Science | https://habrahabr.ru/company/flyelephant/blog/317690/
+
+MemC3 — компактный Memcache с повышенной параллельностью — за счет более тупого кэширования и более умного хэширования | https://habrahabr.ru/company/okmeter/blog/316762/
+
+DotNext — Moscow 2016. Как это было | https://habrahabr.ru/post/317620/
+
+Избранные места из популярного учебника микроэлектроники на русском, который наконец-то выходит на бумаге | https://habrahabr.ru/post/317558/
+
+Асинхронная обработка запросов в СУБД в памяти, или как справиться с миллионом транзакций в секунду на одном ядре | https://habrahabr.ru/company/mailru/blog/317274/
+
+HighLoad++2016: как это было | https://habrahabr.ru/company/tm/blog/317264/
+
+О языке С и производительности | https://habrahabr.ru/company/mailru/blog/317180/
+
+Как избежать скачков во времени отклика и потреблении памяти при снятии снимков состояния в СУБД в оперативной памяти | https://habrahabr.ru/company/mailru/blog/317150/
+
+Опрос Data Science Tools | https://habrahabr.ru/company/flyelephant/blog/317020/
+
+Эффективное хранение: как мы из 50 Пб сделали 32 Пб | https://habrahabr.ru/company/mailru/blog/316740/
+
+«Производительность – это фича». Интервью с Марко Чеккони, Stack Overflow | https://habrahabr.ru/company/jugru/blog/316854/
+
+Использование memcached и Redis в высоконагруженных проектах | https://habrahabr.ru/company/oleg-bunin/blog/316652/
+
+Что такое СУБД в оперативной памяти и как она эффективно сохраняет данные | https://habrahabr.ru/company/mailru/blog/316634/
+
+9 способов оптимизации производительности Front-End | https://habrahabr.ru/post/316618/
+
+Низкоуровневая оптимизация и измерение производительности кода на R | https://habrahabr.ru/post/316516/
+
+Очереди и блокировки. Теория и практика | https://habrahabr.ru/company/oleg-bunin/blog/316458/
+
+FlyElephant празднует первый год работы в публичном доступе и анонсирует сотрудничество с HPC-HUB | https://habrahabr.ru/company/flyelephant/blog/316146/
+
+Поезд, приходящий без опозданий: Анонс Java-конференции JPoint 2017 | https://habrahabr.ru/company/jugru/blog/315976/
+
+Применение FPGA для расчета деполимеризации микротрубочки методом броуновской динамики | https://habrahabr.ru/post/314296/
+
+Выбор технологий для большого и не очень большого веб-проекта | https://habrahabr.ru/company/SECL_GROUP/blog/315734/
+
+Однажды встретились JMeter и незнакомка… | https://habrahabr.ru/post/314408/
+
+Оптимизация нейросетевой платформы Caffe для архитектуры Intel | https://habrahabr.ru/company/intel/blog/315582/
+
+Наконец-то приличный отечественный процессор ЦОС – 1967BH28 | https://habrahabr.ru/post/314986/
+
+Можно скачать материалы семинара Nanometer ASIC (РОСНАНО / МИСиС / Imagination Technologies) — ликбез по всему про чипы | https://habrahabr.ru/post/314892/
+
+Анализируем производительность сервера Oracle SPARC T7-2 | https://habrahabr.ru/company/jetinfosystems/blog/314810/
+
+NetApp ONTAP & ESXi 6.х tuning | https://habrahabr.ru/post/314778/
+
+JRuby + Ratpack = ❤️ | https://habrahabr.ru/post/314726/
+
+Текстовая трансляция HighLoad++ 2016. День второй | https://habrahabr.ru/company/oleg-bunin/blog/314442/
+
+Текстовая трансляция HighLoad++ 2016. День первый | https://habrahabr.ru/company/oleg-bunin/blog/314396/
+
+Ускорение библиотеки HeatonResearchNeural (нейросети) в 30 раз | https://habrahabr.ru/post/313740/
+
+«Мониторинг производительности .NET-приложений: подходы и инструменты», — интервью с Диной Гольдштейн | https://habrahabr.ru/company/jugru/blog/313640/
+
+Асинхронная репликация без цензуры | https://habrahabr.ru/company/oleg-bunin/blog/313594/
+
+Slate – «серебряная пуля» для расположения окон на экранах OS X | https://habrahabr.ru/post/313578/
+
+Просто, мощно, навсегда. Элекард CodecWorks 990 — программный лайв транскодер для AVC и HEVC | https://habrahabr.ru/company/intel/blog/313544/
+
+Живая миграция контейнеров: взгляд изнутри | https://habrahabr.ru/company/jelastic/blog/313512/
+
+GPU в облаках | https://habrahabr.ru/post/313478/
+
+Упрощаем бинарный поиск в Excel — реализация Double VLOOKUP Trick с помощью UDF | https://habrahabr.ru/post/313476/
+
+Sharding – patterns and antipatterns | https://habrahabr.ru/company/oleg-bunin/blog/313366/
+
+Контроль качества кода в перспективе развития проекта | https://habrahabr.ru/company/SECL_GROUP/blog/313104/
+
+Создание разделяемого хранилища на базе CEPH RBD и GFS2 | https://habrahabr.ru/company/hpchub/blog/312652/
+
+«Любое техническое изменение должно отвечать на вопрос «зачем?» — Одноклассники о Java и не только | https://habrahabr.ru/company/odnoklassniki/blog/312562/
+
+Подсаживаем на Java-хардкор: Бесплатная трансляция трека Joker 2016 без купюр | https://habrahabr.ru/company/jugru/blog/312302/
+
+Web-Оповещения в нагруженных проектах | https://habrahabr.ru/post/312504/
+
+Сага о кластере. Все, что вы хотели знать про горизонтальное масштабирование в Postgres‘е | https://habrahabr.ru/company/oleg-bunin/blog/312494/
+
+Для любителей ПЛИС-ов, ASIC-ов, архитектуры и микроархитектуры — еще про семинары и про конвейеры | https://habrahabr.ru/post/312354/
+
+Оптимизация кода: память | https://habrahabr.ru/post/312078/
+
+Когда старый MapReduce лучше нового Tez | https://habrahabr.ru/company/mailru/blog/312194/
+
+[Питер] Встреча с Gil Tene из Azul Systems про время отклика приложений | https://habrahabr.ru/company/jugru/blog/312168/
+
+Как выбрать In-memory NoSQL базу данных с умом. Тестируем производительность | https://habrahabr.ru/company/oleg-bunin/blog/312062/
+
+Приглашаем на Java-конференцию Joker 2016, которая состоится 14 и 15 октября в Санкт-Петербурге | https://habrahabr.ru/company/piter/blog/312020/
+
+На видео — разработчица одного из блоков внутри российского микропроцессора Байкал-Т | https://habrahabr.ru/post/311662/
+
+96 вычислительных ядер и оптимизация кода муравьиного алгоритма поиска маршрутов | https://habrahabr.ru/company/intel/blog/311618/
+
+Оптимизация сайта. Диагнозы и курсы лечения | https://habrahabr.ru/company/oleg-bunin/blog/311464/
+
+Как считать счётчики и не сбиться со счёта | https://habrahabr.ru/post/311436/
+
+.NET и CLR: Взгляд изнутри | https://habrahabr.ru/company/jugru/blog/311286/
+
+Виртуальный суперкомпьютер по требованию | https://habrahabr.ru/company/hpchub/blog/311394/
+
+Укрощаем асинхронные процессы в Android с RxJava. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/311084/
+
+Видеозапись вебинара «Инструменты для работы Data Scientist» | https://habrahabr.ru/company/flyelephant/blog/311318/
+
+JSON-сериализатор на быстрых шаблонах | https://habrahabr.ru/post/311262/
+
+Двойная скорость и половина памяти: оптимизация PHP 7 | https://habrahabr.ru/company/intel/blog/305144/
+
+Измеряем производительность кэша Apache Ignite | https://habrahabr.ru/post/311140/
+
+Tarantool: как сэкономить миллион долларов на базе данных на высоконагруженном проекте | https://habrahabr.ru/company/oleg-bunin/blog/310690/
+
+Украинец подсказал британцу сделать вебинар для разработчиков IoT для сельского хозяйства. А мы поговорим о CPU внутри | https://habrahabr.ru/post/310666/
+
+Что особенного в СУБД для данных в оперативной памяти | https://habrahabr.ru/company/oleg-bunin/blog/310560/
+
+101 способ приготовления RabbitMQ и немного о pipeline архитектуре | https://habrahabr.ru/company/oleg-bunin/blog/310418/
+
+Как мы сделали ровную балансировку нагрузки на фронтенд-кластере | https://habrahabr.ru/company/oleg-bunin/blog/310366/
+
+Вебинар: Инструменты для работы Data Scientist | https://habrahabr.ru/company/flyelephant/blog/309992/
+
+Тестирование производительности баз данных при помощи tSQLt и SQLQueryStress | https://habrahabr.ru/post/310328/
+
+Запуск функций R на нескольких машинах | https://habrahabr.ru/company/infopulse/blog/309052/
+
+Введение в futures-rs: асинхронщина на Rust [перевод] | https://habrahabr.ru/post/310234/
+
+Как устроен поиск | https://habrahabr.ru/company/oleg-bunin/blog/310208/
+
+Оптимизация кода: процессор | https://habrahabr.ru/post/309796/
+
+Modest — разработка открытого движка HTML рендера на «голом» Си | https://habrahabr.ru/post/309756/
+
+Принципы и приёмы обработки очередей | https://habrahabr.ru/company/oleg-bunin/blog/309332/
+
+Масштабирование базы данных через шардирование и партиционирование | https://habrahabr.ru/company/oleg-bunin/blog/309330/
+
+Основы индексирования и возможности EXPLAIN в MySQL | https://habrahabr.ru/company/oleg-bunin/blog/309328/
+
+Как устроена MySQL-репликация | https://habrahabr.ru/company/oleg-bunin/blog/309326/
+
+Миф о RAM и O(1) | https://habrahabr.ru/post/309394/
+
+Анатомия веб-сервиса | https://habrahabr.ru/company/oleg-bunin/blog/309324/
+
+Intel Software Conference 2016. Сентябрь, Москва, Санкт-Петербург | https://habrahabr.ru/company/intel/blog/308990/
+
+Tarantool: примеры использования | https://habrahabr.ru/company/bitrix/blog/309000/
+
+Использование TCL в разработке на FPGA | https://habrahabr.ru/post/308962/
+
+Небольшое введение в параллельное программирование на R | https://habrahabr.ru/company/infopulse/blog/307708/
+
+Всему своё время | https://habrahabr.ru/company/oleg-bunin/blog/308616/
+
+R и Spark | https://habrahabr.ru/post/308534/
+
+Как увеличить жизнь батареи на Mac и другие функции Parallels Desktop 12 | https://habrahabr.ru/company/parallels/blog/307996/
+
+Java Stream API: что делает хорошо, а что не очень | https://habrahabr.ru/company/jugru/blog/307938/
+
+DotNext 2016 Moscow: 8 MVP, StackOverflow и немного хардкора | https://habrahabr.ru/company/jugru/blog/307884/
+
+Дино Эспозито на uDev Tech Events: «Life as a Service: Scalability and other Aspects» | https://habrahabr.ru/company/plarium/blog/307900/
+
+Аппаратное ускорение корпоративных вычислений | https://habrahabr.ru/company/jetinfosystems/blog/307862/
+
+«Чтобы вылезти выше среднего, нужна какая-то мотивация за пределами денег» — интервью с Русланом Черёминым | https://habrahabr.ru/company/jugru/blog/307644/
+
+Производительность Java: настоящее и будущее | https://habrahabr.ru/company/jugru/blog/307178/
+
+Как мы сделали конвертер и плеер для CinemaDNG на CUDA | https://habrahabr.ru/post/306566/
+
+Есть ли жизнь после отказа популярных браузеров от поддержки архитектуры NPAPI | https://habrahabr.ru/company/aladdinrd/blog/306920/
+
+Облачное хранилище: новые функции API | https://habrahabr.ru/company/selectel/blog/306560/
+
+Сообщество экспертов, совместная работа над проектами и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/306494/
+
+Mongoose: инструмент для тестирования производительности СХД | https://habrahabr.ru/post/306448/
+
+Strata + Hadoop 2016 review | https://habrahabr.ru/company/badoo/blog/306208/
+
+Modern Code. Программируй современно | https://habrahabr.ru/company/intel/blog/306018/
+
+Архивирование как ответ на «пакет Яровой» | https://habrahabr.ru/company/dellemc/blog/305940/
+
+Векторизация кода преобразования координат в пространстве на Intel® Xeon Phi™ с помощью низкоуровневых инструкций | https://habrahabr.ru/company/singularis/blog/305558/
+
+Печатать с удовольствием | https://habrahabr.ru/post/305158/
+
+Анализ производительности отдельных подсистем программы по Linux perf report | https://habrahabr.ru/post/305188/
+
+Обзор серверов Quantа: интересные решения, blade-корзины размером со стойку, ульи микросерверов и HPC-фермы | https://habrahabr.ru/company/croc/blog/305014/
+
+Фильтр Блума для веб-разработчиков | https://habrahabr.ru/post/304800/
+
+Концепция производительности и масштабируемости Spryker | https://habrahabr.ru/post/304604/
+
+Оптимизация веб-сервиса подсказок для почтовых адресов и ФИО | https://habrahabr.ru/post/304590/
+
+Реализуем http/2 server push с помощью nghttp2 | https://habrahabr.ru/post/304422/
+
+Реализация reference counting или жизнь без GC (почти) | https://habrahabr.ru/post/304074/
+
+«Разрубить Гордиев узел» или преодоление проблем шифрования информации в ОС Windows | https://habrahabr.ru/company/aladdinrd/blog/304024/
+
+Dell Storage SC9000: интеллектуальная система хранения для эффективного дата-центра | https://habrahabr.ru/company/dellemc/blog/303796/
+
+NetApp ONTAP & ESXi 6.х тюнинг | https://habrahabr.ru/post/303844/
+
+Профилирование в R | https://habrahabr.ru/company/infopulse/blog/303684/
+
+Ещё раз про быстрый JPEG на CUDA | https://habrahabr.ru/post/303306/
+
+Delayed Durability или история о том как получилось ускорить выполнение автотестов с 11 до 2,5 минут | https://habrahabr.ru/post/303156/
+
+DevConf::Go — 17 июня в Сколково, экслюзивный мастер-класс по Go 18 июня в ТАСС | https://habrahabr.ru/company/devconf/blog/303066/
+
+Data Plane Development Kit (DPDK): приступая к работе | https://habrahabr.ru/company/intel/blog/302126/
+
+Выбор и настройка Garbage Collector для Highload системы в Hotspot JVM | https://habrahabr.ru/company/getintent/blog/302910/
+
+Супер-сервера SGI, HPE и Fujitsu с 24-ядерными процессорами Xeon E7 v4 — и как нам обуздать это «железо»? | https://habrahabr.ru/post/302754/
+
+IBM представляет первую в мире память PCM с записью трёх битов в ячейку | https://habrahabr.ru/company/ibm/blog/302550/
+
+Повышение производительности мультимедиа приложений с помощью аппаратного ускорения | https://habrahabr.ru/company/intel/blog/301698/
+
+Видео докладов с Весеннего Go митапа | https://habrahabr.ru/company/badoo/blog/302134/
+
+DevConf::PHP 2016 — заканчивается финальное голосование по докладам секции, успей отдать свой голос до 31 мая | https://habrahabr.ru/company/devconf/blog/301806/
+
+ASP.NET Core сегодня: за и против | https://habrahabr.ru/company/jugru/blog/301512/
+
+Быстрое кодирование видео в Linux c Nvidia NVENC с SDK 7.5 и ffmpeg 3.0.2 на Nvidia GTX 960/970/980 | https://habrahabr.ru/post/301654/
+
+Pillow-SIMD | https://habrahabr.ru/post/301576/
+
+Тест производительности: удивительно и просто | https://habrahabr.ru/post/171475/
+
+[СПб, Анонс] Встреча с Андреем Паньгиным — Всё, что вы хотели знать о стек-трейсах и хип-дампах | https://habrahabr.ru/company/odnoklassniki/blog/301182/
+
+Как сделать быстрое веб-приложение или 8 советов разработчикам по оптимизации кода | https://habrahabr.ru/company/diafan/blog/300930/
+
+Заметки о Percona Live 2016 CA | https://habrahabr.ru/company/badoo/blog/300906/
+
+.NET-разработка: девять вопросов взрослым | https://habrahabr.ru/company/jugru/blog/283516/
+
+[Питер] Встреча про OpenOnload: высокопроизводительный сетевой стек для Linux | https://habrahabr.ru/company/jugru/blog/283258/
+
+F1 2015: новый уровень реалистичности на PC | https://habrahabr.ru/company/intel/blog/283244/
+
+Вышел uvloop — продвинутая реализация цикла событий для asyncio в Python | https://habrahabr.ru/post/282972/
+
+Delphi. Что таит в себе TDictionary | https://habrahabr.ru/post/282902/
+
+Новый высокоскоростной протокол доступа на срочном рынке Московской Биржи | https://habrahabr.ru/company/moex/blog/282620/
+
+Весенний Go в Badoo | https://habrahabr.ru/company/badoo/blog/282606/
+
+Идеальная производительность протокола HTTP | https://habrahabr.ru/company/infopulse/blog/282517/
+
+Тихая революция: внедрение x86-архитектуры вместо RISC-машин для процессинга банка | https://habrahabr.ru/company/croc/blog/282449/
+
+Сетевой протокол для резервного копирования данных в сетях с задержками и потерями пакетов | https://habrahabr.ru/company/spbau/blog/282157/
+
+Профилирование JS-кода из функций. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/282159/
+
+Увеличение производительности Magento | https://habrahabr.ru/post/282025/
+
+Как ухудшить производительность вашего приложения — типичные ошибки разработчиков | https://habrahabr.ru/company/intel/blog/281823/
+
+Быстродействие динамической оперативной памяти и нелепая идея как ее увеличить | https://habrahabr.ru/post/281929/
+
+Сравнение производительности Hadoop на DAS и Isilon | https://habrahabr.ru/company/dellemc/blog/281799/
+
+Серверный шкаф с интеллектуальным активным шумоподавлением | https://habrahabr.ru/company/stss/blog/279245/
+
+Взаимодействие программных и аппаратных средств | https://habrahabr.ru/post/281887/
+
+Перспективы языка го для программиста | https://habrahabr.ru/post/281320/
+
+IBM Watson помогает ВВС США автоматизировать процесс госзакупок | https://habrahabr.ru/company/ibm/blog/281090/
+
+Как перенести бизнес на облако | https://habrahabr.ru/company/hosting-cafe/blog/280966/
+
+О ресторанном столе UHD-разрешения и прочих интерактивных технологиях от Kodisoft | https://habrahabr.ru/company/intel/blog/280816/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection: Итоги | https://habrahabr.ru/post/280860/
+
+В США создан суперкомпьютер на основе чипа TrueNorth с энергопотреблением в 2.5 Вт | https://habrahabr.ru/company/ibm/blog/280844/
+
+Эффект кофты на шейдерах для мобильных устройств | https://habrahabr.ru/post/280804/
+
+Quad-tree визуализация в реальном времени на Shader Model 2.0 | https://habrahabr.ru/post/280674/
+
+Сбор и анализ логов демонов в Badoo | https://habrahabr.ru/company/badoo/blog/280606/
+
+Диалоги о Java Performance | https://habrahabr.ru/company/jugru/blog/280420/
+
+Настройка и использование Apache Ignite в качестве MyBatis кэш второго уровня (L2 cache) | https://habrahabr.ru/company/at_consulting/blog/280452/
+
+IBM выпустила новое поколение системы хранения данных — Storwize v5000 Gen2 | https://habrahabr.ru/company/ibm/blog/280336/
+
+IBM Watson понимает эмоции человека и отвечает, зная, что чувствует пользователь | https://habrahabr.ru/company/ibm/blog/280127/
+
+Под высокой нагрузкой: наши способы применения Tarantool | https://habrahabr.ru/company/mailru/blog/279999/
+
+Оценка и оптимизация производительности вычислений на многоядерных системах. Часть 2 | https://habrahabr.ru/company/intel/blog/279669/
+
+JetBrains C++ night: впечатления и записи докладов | https://habrahabr.ru/company/JetBrains/blog/279925/
+
+«Половина научных работ по Concurrency — полная чушь!» — интервью с Романом Елизаровым из Devexperts | https://habrahabr.ru/company/jugru/blog/279819/
+
+Парсеров всем! Анализируем и тестируем существующие HTML парсеры | https://habrahabr.ru/post/279409/
+
+Майк Шапиро, DSSD/EMC: «Когда паззл сложился, мы получили решение, опережающее продукты конкурентов в десять раз» | https://habrahabr.ru/company/dellemc/blog/278975/
+
+Продолжаем ускорять блог на WordPress — PHP7, ESI в Varnish, XtraDB, эффективное сжатие и отключение лишнего | https://habrahabr.ru/post/278899/
+
+Стратегии по ускорению кода на R, часть 2 | https://habrahabr.ru/company/infopulse/blog/277693/
+
+Работа с приватными репозиториями и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/278751/
+
+Квантовый скачок | https://habrahabr.ru/company/dellemc/blog/278193/
+
+Очень шустрый блог на WordPress при помощи связки nginx + PHP-FPM + MariaDB + Varnish | https://habrahabr.ru/post/278189/
+
+Видеоконференцсвязь Mind — оптимальный выбор для бизнеса | https://habrahabr.ru/company/stss/blog/277013/
+
+Оценка и оптимизация производительности вычислений на многоядерных системах | https://habrahabr.ru/company/intel/blog/277407/
+
+Производительность и многопоточность на Java-конференции JPoint 2016 | https://habrahabr.ru/company/jugru/blog/278001/
+
+Как использовать IPP FIR фильтры в приложениях максимально эффективно | https://habrahabr.ru/company/intel/blog/276687/
+
+Стратегии по ускорению кода на R, часть 1 | https://habrahabr.ru/company/infopulse/blog/277681/
+
+Как устроен Relap.io — сервис, который выдает 30 миллиардов рекомендаций в месяц | https://habrahabr.ru/company/surfingbird/blog/277559/
+
+О пользе технологий больших данных в повседневной жизни | https://habrahabr.ru/company/odnoklassniki/blog/277527/
+
+CAT — Управление размером кэша процессора | https://habrahabr.ru/company/intel/blog/144196/
+
+Отчёт с Tarantool Meetup 28 января | https://habrahabr.ru/company/mailru/blog/277051/
+
+CEPH-кластер: хронология работ по апгрейду нашего файлового хранилища на новую архитектуру (56Gb/s IB) | https://habrahabr.ru/company/croc/blog/277011/
+
+Вышел Nginx 1.9.11 с поддержкой динамических модулей | https://habrahabr.ru/post/276961/
+
+Новый лидер в price-performance среди СХД? | https://habrahabr.ru/company/trinity/blog/276583/
+
+ПК, ноутбуки и все-все-все | https://habrahabr.ru/company/fujitsu/blog/276877/
+
+Передача сообщений между потоками. Классические блокирующие алгоритмы | https://habrahabr.ru/post/211717/
+
+AI, BigData & HPC Digest #4 | https://habrahabr.ru/company/flyelephant/blog/276677/
+
+Профилировка производительности и памяти с разных углов обзора | https://habrahabr.ru/post/276607/
+
+Отчёт по итогам посещения ISC-2015 | https://habrahabr.ru/company/acronis/blog/276541/
+
+Прогноз, облачные вычисления в 2016 году | https://habrahabr.ru/company/hosting-cafe/blog/276095/
+
+Как мы Elasticsearch готовили, или О том, как обработать 36 тысяч логов в секунду | https://habrahabr.ru/post/275815/
+
+Форсаж под нагрузкой на Symfony + HHVM + MongoDB + CouchDB + Varnish | https://habrahabr.ru/post/275661/
+
+Высокопроизводительный long polling чат | https://habrahabr.ru/post/275671/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection | https://habrahabr.ru/post/275577/
+
+FlyElephant как инструмент для вычислений на C++, R, Python или Octave | https://habrahabr.ru/company/flyelephant/blog/275571/
+
+Поиск множества регулярных выражений при помощи библиотеки Hyperscan | https://habrahabr.ru/post/275507/
+
+Система рейтингов в высоконагруженном проекте | https://habrahabr.ru/post/275281/
+
+IBM Watson совершенствует свои когнитивные способности и предлагает новые возможности для разработчиков | https://habrahabr.ru/company/ibm/blog/274989/
+
+Новые инструменты (Octave и Scilab) во FlyElephant и анонс вебинаров | https://habrahabr.ru/company/flyelephant/blog/274883/
+
+Высокоскоростной протокол передачи файлов – Aspera FASP | https://habrahabr.ru/company/ibm/blog/274807/
+
+Расчет биномиальных коэффициентов с использованием Фурье-преобразований | https://habrahabr.ru/post/274729/
+
+Низкоуровневая оптимизация параллельных алгоритмов или SIMD в .NET | https://habrahabr.ru/post/274605/
+
+IBM продолжает работу с Apache Spark: корпорация запускает Spark-as-a-service | https://habrahabr.ru/company/ibm/blog/274575/
+
+Parallelism vs Concurrency: правильно подбираем инструменты | https://habrahabr.ru/company/piter/blog/274569/
+
+IBM открывает blockchain-лабораторию | https://habrahabr.ru/company/ibm/blog/274501/
+
+AI, BigData & HPC Digest #3 | https://habrahabr.ru/company/flyelephant/blog/274335/
+
+Повышаем производительность поиска с помощью партиционирования индекса в Apache Solr | https://habrahabr.ru/company/wrike/blog/274059/
+
+Я хочу, чтобы сайты открывались мгновенно | https://habrahabr.ru/post/274129/
+
+Разработка цифровой аппаратуры на C++/SystemC глазами SystemVerilog программиста | https://habrahabr.ru/post/274137/
+
+Компания NetApp объявила о покупке SolidFire | https://habrahabr.ru/post/274011/
+
+Приглашаем на Tarantool meetup 28 января | https://habrahabr.ru/company/mailru/blog/273845/
+
+IBM Watson поможет лечить детей с редкими заболеваниями | https://habrahabr.ru/company/ibm/blog/273835/
+
+Hub AI&BigData meetup #1 | https://habrahabr.ru/company/flyelephant/blog/273825/
+
+Как спроектировать рабочее место, которое понравится сотрудникам и зачем это надо? BYOD — значит любит | https://habrahabr.ru/company/icl_services/blog/273707/
+
+Как сэкономить миллион долларов с помощью Tarantool | https://habrahabr.ru/company/mailru/blog/273695/
+
+Немного о трендах в области суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/273667/
+
+Тестируем российскую серверную платформу E-Class от «Т-Платформы» | https://habrahabr.ru/company/stss/blog/273247/
+
+Эволюция структур данных в Яндекс.Метрике | https://habrahabr.ru/company/yandex/blog/273305/
+
+Разработка сервиса БД на базе графов: от прототипа к надежному и масштабируемому решению в облаке | https://habrahabr.ru/company/microsoft/blog/273263/
+
+Использование DPDK для обеспечения высокой производительности прикладных решений (часть 0) | https://habrahabr.ru/post/267591/
+
+Важнейшее из искусств: как мы реализовали проигрывание видео в Облаке Mail.Ru | https://habrahabr.ru/company/mailru/blog/272769/
+
+Tarantool как сервер приложений | https://habrahabr.ru/company/mailru/blog/272669/
+
+Altera + OpenCL: вскрываем ядро | https://habrahabr.ru/post/269925/
+
+Измерение производительности функций в JavaScript | https://habrahabr.ru/company/mailru/blog/272087/
+
+NetApp становится еще эффективнее с inline dedupe | https://habrahabr.ru/company/trinity/blog/272083/
+
+Применение модулей LRDIMM в высокопроизводительных серверах | https://habrahabr.ru/company/hostkey/blog/272063/
+
+RDMA: взгляд изнутри | https://habrahabr.ru/post/271877/
+
+ARM сегодня 25 | https://habrahabr.ru/post/271885/
+
+Неудобные вопросы об архитектуре RDMA | https://habrahabr.ru/post/271393/
+
+Какие технологии использует Netflix | https://habrahabr.ru/company/1cloud/blog/271159/
+
+Видеонаблюдение и аналитика Macroscop в деталях | https://habrahabr.ru/company/stss/blog/267929/
+
+7 ключевых преимуществ технической поддержки компании Dell | https://habrahabr.ru/company/dellemc/blog/270747/
+
+Передача видеоданных на частотах до 100МГц в ПК | https://habrahabr.ru/post/270733/
+
+Введение в Storage Performance Development Kit | https://habrahabr.ru/company/intel/blog/270713/
+
+Семь советов по внедрению HTTP/2 | https://habrahabr.ru/post/269853/
+
+Data ONTAP 8.3 ADP: FlashPool StoragePools | https://habrahabr.ru/post/270169/
+
+Altera + OpenCL: программируем под FPGA без знания VHDL/Verilog | https://habrahabr.ru/post/269009/
+
+Загрузка и конвертация видео на Rutube: от костылей к мета-программированию | https://habrahabr.ru/company/rutube/blog/270223/
+
+Майкл Стоунбрейкер — Hadoop на распутье | https://habrahabr.ru/post/270017/
+
+Highload на Java: о чем нужно помнить | https://habrahabr.ru/post/270059/
+
+Python Meetup 25.09.2015: мониторинг производительности и использование BDD | https://habrahabr.ru/company/wargaming/blog/269957/
+
+Блоки. Внутреннее устройство файла базы данных Caché. Часть 3 | https://habrahabr.ru/company/intersystems/blog/268587/
+
+Тестируем NVIDIA GRID + VMware Horizon | https://habrahabr.ru/company/stss/blog/269087/
+
+Планировщик Go | https://habrahabr.ru/company/ua-hosting/blog/269271/
+
+Балансировка 70 тысяч запросов в секунду на HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/269119/
+
+Блоки. Внутреннее устройство файла базы данных Caché. Часть 2 | https://habrahabr.ru/company/intersystems/blog/268195/
+
+HAProxy исполнилось 1.6 | https://habrahabr.ru/post/269005/
+
+Глобалы — мечи-кладенцы для хранения данных. Разреженные массивы. Часть 3 | https://habrahabr.ru/company/intersystems/blog/268465/
+
+«Чтобы стать хорошим системщиком, нужно 5–10 лет опыта» — интервью с Алексеем Шипилёвым из Java Performance Team | https://habrahabr.ru/company/jugru/blog/268847/
+
+Alibaba vs. Facebook – там, где Запад сходится с Востоком | https://habrahabr.ru/company/oleg-bunin/blog/268751/
+
+Ты помнишь, как все начиналось… | https://habrahabr.ru/company/fujitsu/blog/268701/
+
+Битва за время: как апгрейд процессора, софта и видеокарты влияет на ускорение постобработки видео | https://habrahabr.ru/company/dellemc/blog/268469/
+
+Сервис нагрузочного тестирование loadme | https://habrahabr.ru/post/268503/
+
+PostgreSQL и задачи, с ней связанные, на HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/268485/
+
+NGINX — Ускорение или Детектив для программиста «Оптимизация под Windows» | https://habrahabr.ru/post/268459/
+
+Поисковые подсказки изнутри | https://habrahabr.ru/company/mailru/blog/267469/
+
+Три дня, которые потрясли нас в 2013 | https://habrahabr.ru/company/odnoklassniki/blog/268413/
+
+Ethernet + PCIe + FPGA = LOVE | https://habrahabr.ru/post/267183/
+
+AI, BigData & HPC Digest #2 | https://habrahabr.ru/company/flyelephant/blog/268327/
+
+Профилировка работы с памятью с Intel® VTune™ Amplifier XE | https://habrahabr.ru/company/intel/blog/266687/
+
+Блоки. Внутреннее устройство файла базы данных Caché | https://habrahabr.ru/company/intersystems/blog/267951/
+
+4 must-have-элемента тестирования ПО | https://habrahabr.ru/company/universarium/blog/268181/
+
+«Мы можем лучше протестировать Java, чем Oracle» — интервью с Андреем Паньгиным из Одноклассников | https://habrahabr.ru/company/jugru/blog/259415/
+
+Демократия и Программный комитет | https://habrahabr.ru/company/oleg-bunin/blog/268061/
+
+Ускоряем векторизацию и обращения к памяти в DL_MESO: примеры оптимизации с Vectorization Advisor на большом проекте | https://habrahabr.ru/company/intel/blog/266685/
+
+Приемы использования масочных регистров в AVX512 коде | https://habrahabr.ru/company/intel/blog/266055/
+
+Утилиты командной строки могут быть в 235-раз быстрее вашего Hadoop кластера | https://habrahabr.ru/post/267697/
+
+Хакатон на школе InterSystems 2015 | https://habrahabr.ru/company/intersystems/blog/267459/
+
+Скорость локального форматирования чисел | https://habrahabr.ru/post/267387/
+
+SYNful knock на ОС маршрутизаторов Cisco Systems | https://habrahabr.ru/company/it-grad/blog/267057/
+
+Реализация генератора псевдослучайных чисел на ПЛИС с использованием Vivado HLS 2014.4 | https://habrahabr.ru/post/266897/
+
+Разрабатываем систему мониторинга на 55000 видео-потоков RTP | https://habrahabr.ru/company/metrotek/blog/266561/
+
+Повышаем эффективность массива | https://habrahabr.ru/company/jetinfosystems/blog/266629/
+
+HighLoad++ — это блюдо, которое подают высоконагруженным | https://habrahabr.ru/company/oleg-bunin/blog/266393/
+
+Intel Broadwell Xeon E3-1200 v4 — все что надо знать про новую линейку Xeon и eDRAM | https://habrahabr.ru/company/hostkey/blog/266519/
+
+Вышла в свет новая версия Node.js v4.0.0 | https://habrahabr.ru/post/266499/
+
+Устройство модуля памяти на магнитных сердечниках в винтажном мейнфрейме IBM 1401 | https://habrahabr.ru/company/ibm/blog/266425/
+
+Сравнение производительности С++ и C# | https://habrahabr.ru/post/266163/
+
+Чем хороши новые процессоры Intel Skylake | https://habrahabr.ru/company/1cloud/blog/266133/
+
+Тюним память и сетевой стек в Linux: история перевода высоконагруженных серверов на свежий дистрибутив | https://habrahabr.ru/company/odnoklassniki/blog/266005/
+
+Оптимизация работы git-сервера | https://habrahabr.ru/company/it-grad/blog/265957/
+
+IBM собрала из нейроморфных чипов нового типа «мозгоподобную» систему | https://habrahabr.ru/company/ibm/blog/265551/
+
+LinuxONE: мейнфрейм от IBM, работающий только с Linux. Подробности проекта | https://habrahabr.ru/company/ibm/blog/265413/
+
+Распределенный крон и планировщик пакетных задач в кластере Prun | https://habrahabr.ru/post/265327/
+
+Как исправить ошибку в Node.js и нечаянно поднять производительность в 2 раза | https://habrahabr.ru/post/264851/
+
+Миллиарды запросов в день встречают Go 1.5 | https://habrahabr.ru/post/265183/
+
+Аппаратное обеспечение для глубокого обучения | https://habrahabr.ru/company/it-grad/blog/265167/
+
+Загрузка видео «без единого разрыва» | https://habrahabr.ru/company/odnoklassniki/blog/265133/
+
+DMP часть 1. Микросегментирование аудитории с помощью ключевых слов | https://habrahabr.ru/company/targetix/blog/264821/
+
+Влияет ли объём данных на трудоёмкость разработки. Учёт в муравейнике | https://habrahabr.ru/post/264807/
+
+Введение в высокочастотный трейдинг (HFT) | https://habrahabr.ru/post/264799/
+
+Анализ производительности игры на WebGL при помощи about:tracing | https://habrahabr.ru/post/264639/
+
+Глобалы — мечи-кладенцы для хранения данных. Деревья. Часть 2 | https://habrahabr.ru/company/intersystems/blog/264173/
+
+Глобалы — мечи-кладенцы для хранения данных. Деревья. Часть 1 | https://habrahabr.ru/company/intersystems/blog/263791/
+
+Третий лишний: как мы реализовали сбор почты с использованием OAuth 2.0 | https://habrahabr.ru/company/mailru/blog/264049/
+
+Сравнение производительности UI в WPF, Qt, WinForms и FLTK | https://habrahabr.ru/post/263897/
+
+Правильный дизайн API: что такое «один», «много», «нуль» и «ничто» | https://habrahabr.ru/company/piter/blog/263895/
+
+Sphinx distribute. Ускоряем поиск | https://habrahabr.ru/post/263849/
+
+nxweb – HTTP сервер для приложений на Си | https://habrahabr.ru/post/263545/
+
+IncrediBuild для проверки большого проекта с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/263449/
+
+Поиск по геному с помощью Wolfram Language (Mathematica) и HadoopLink | https://habrahabr.ru/company/wolfram/blog/263307/
+
+10 лет «на коленке» и вынужденная эволюция — на заметку молодым | https://habrahabr.ru/post/263117/
+
+Защитные механизмы в HP Superdome X | https://habrahabr.ru/company/hpe/blog/262733/
+
+Анонс Java-конференции Joker 2015 | https://habrahabr.ru/company/jugru/blog/262745/
+
+36 млн запросов в час, 10000+ постоянно работающих клиентов, на одном сервере, nginx+mysql | https://habrahabr.ru/post/262623/
+
+Сборщик почты (делаем простые вещи сложно) | https://habrahabr.ru/post/262613/
+
+HP Superdome X — современное решение для бизнес-критичных задач | https://habrahabr.ru/company/hpe/blog/262583/
+
+Эффективное кодирование видео в Linux c Nvidia NVENC: часть 1, общая | https://habrahabr.ru/post/262507/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 2 | https://habrahabr.ru/post/262431/
+
+Сборщик мусора в Go: решение проблемы отзывчивости в Go 1.5 | https://habrahabr.ru/post/262335/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 1 | https://habrahabr.ru/post/262175/
+
+Автоматическая реорганизация массивов в памяти графического ускорителя | https://habrahabr.ru/post/261535/
+
+Бесплатная летняя школа по HPC в научных и инженерных задачах — заявки принимаются до 24 июля | https://habrahabr.ru/company/innopolis_university/blog/262003/
+
+PostgreSQL и btrfs — слон на маслянной диете | https://habrahabr.ru/post/261921/
+
+OpenCL. Как начать | https://habrahabr.ru/post/261323/
+
+Оптимизация производительности MySQL | https://habrahabr.ru/company/1cloud/blog/261741/
+
+Улучшение производительности Python 2.7 | https://habrahabr.ru/post/261575/
+
+Среда для виртуальных машин Dell VDI | https://habrahabr.ru/company/dellemc/blog/261385/
+
+XMPP отстой | https://habrahabr.ru/post/259337/
+
+Сравнение производительности языков на примере простейшего классификатора | https://habrahabr.ru/post/261201/
+
+ELK+R как хранилище логов 2. Установка и настройка | https://habrahabr.ru/post/261197/
+
+Как оптимизировал работу с MongoDB с помощью устаревшего api или о чем молчит её спецификация… | https://habrahabr.ru/post/261105/
+
+Brubeck — быстрый, statsd-совместимый агрегатор метрик от GitHub | https://habrahabr.ru/post/260971/
+
+ELK+R как хранилище логов | https://habrahabr.ru/post/260869/
+
+Пулы потоков: ускоряем NGINX в 9 и более раз | https://habrahabr.ru/post/260669/
+
+Высокопроизводительный код на платформе .NET | https://habrahabr.ru/company/piter/blog/260623/
+
+ECP и API управления процессами | https://habrahabr.ru/company/intersystems/blog/260419/
+
+Docker. Best practices на примере образа Oracle xe 11g | https://habrahabr.ru/post/260305/
+
+NGINX — История перерождения под Windows | https://habrahabr.ru/post/260133/
+
+Быстрая установка SQL кластера Galera MariaDB c HaProxy и ClusterControl от Severalnines | https://habrahabr.ru/post/260125/
+
+NGINX изнутри: рожден для производительности и масштабирования | https://habrahabr.ru/post/260065/
+
+Строительство Bitcoin дата-центров продолжается, несмотря на падение стоимости криптовалюты | https://habrahabr.ru/company/kingservers/blog/260073/
+
+Архитектура хранения фотографий в Badoo — интервью с докладчиком DevConf 2015 | https://habrahabr.ru/company/devconf/blog/260005/
+
+Визуальный граф вызовов: VTune Amplifier и не только | https://habrahabr.ru/company/intel/blog/259863/
+
+Разработка крупного масштабируемого web 2.0 проекта с нуля (соц.сеть на 100 млн пользователей) — интервью с ведущим мастер-класса на DevConf 2015 | https://habrahabr.ru/company/devconf/blog/259857/
+
+Разработка из Университета Алабамы поможет распространению пассивных систем охлаждения для серверов и обычных ПК | https://habrahabr.ru/company/kingservers/blog/259647/
+
+iSCSI 2.0 с FAS2xxx или путь масштабирования маленького ЦОДа | https://habrahabr.ru/post/258881/
+
+Как продеть слона через игольное ушко. Обработка максимальных объемов данных за минимальное время | https://habrahabr.ru/company/xakep/blog/258961/
+
+Увеличиваем производительность с помощью SO_REUSEPORT в NGINX 1.9.1 | https://habrahabr.ru/post/259403/
+
+AI, BigData & HPC Digest #1 (7 мая — 3 июня) | https://habrahabr.ru/company/flyelephant/blog/259397/
+
+Wargaming: тыл — фронту! Узнай что у твоего танка под капотом. Python Видео с DevConf 2014 | https://habrahabr.ru/company/devconf/blog/259413/
+
+Несколько советов по OpenMP | https://habrahabr.ru/post/259153/
+
+Sexy primes, «медленный питон» или как я бился о стену непонимания | https://habrahabr.ru/post/259095/
+
+Полупроводник InGaAs как альтернатива кремнию | https://habrahabr.ru/company/ua-hosting/blog/259027/
+
+Krita: уровни детализации или как рисовать кистью диаметром 1k на холсте в 10k пикселов | https://habrahabr.ru/company/krita/blog/258985/
+
+Новый дата-центр Rackspace в Великобритании: фотоэкскурсия и особенности работы нового ДЦ | https://habrahabr.ru/company/kingservers/blog/258745/
+
+Жажда скорости: Оптимизация производительности торгового терминала | https://habrahabr.ru/company/itinvest/blog/257919/
+
+Самая медленная инструкция x86 | https://habrahabr.ru/company/intel/blog/244565/
+
+Щупаем китайское железо и выясняем, насколько это дешево и сердито | https://habrahabr.ru/company/croc/blog/258433/
+
+Лекции Техносферы. 2 семестр. Методы распределенной обработки больших объемов данных в Hadoop | https://habrahabr.ru/company/mailru/blog/258045/
+
+Распределенные транзакции между RabbitMQ и MS SQL | https://habrahabr.ru/company/mindbox/blog/257949/
+
+Intel Enterprise Edition – «абажур» для Lustre | https://habrahabr.ru/company/intel/blog/257489/
+
+Vectorization Advisor, ещё один пример — разгоняем фрактал | https://habrahabr.ru/company/intel/blog/257309/
+
+Как Facebook сэкономил 75% энергии, которая требуется для хранения фоточек котиков и селфи пользователей | https://habrahabr.ru/company/kingservers/blog/257699/
+
+AI, BigData & HPC дайджест #0. Пилотный выпуск | https://habrahabr.ru/company/flyelephant/blog/257463/
+
+Размазываем PHP | https://habrahabr.ru/post/257281/
+
+IBM представила гибридную микросхему: кремниевая фотоника в действии | https://habrahabr.ru/company/ibm/blog/256939/
+
+Как сэкономить на покупке тяжёлого железа | https://habrahabr.ru/company/croc/blog/256801/
+
+Функции IPP c поддержкой бордюров для обработки изображений в нескольких потоках | https://habrahabr.ru/company/intel/blog/255931/
+
+Семь принципов эффективности дата-центра от Microsoft | https://habrahabr.ru/company/kingservers/blog/256575/
+
+Google вложит еще $1 млрд в свой дата-центр в Каунсил-Блафс | https://habrahabr.ru/company/kingservers/blog/256487/
+
+Новый инструмент анализа SIMD программ — Vectorization Advisor | https://habrahabr.ru/company/intel/blog/255731/
+
+Как SpaceX использует GPU для обсчёта ракетных двигателей | https://habrahabr.ru/post/256081/
+
+Intel Xeon`ы врываются на рынок отказоустойчивых RISC-серверов, построенных по лекалам mainframe | https://habrahabr.ru/post/256033/
+
+Почему PayPal заменил VMware OpenStack-ом? | https://habrahabr.ru/company/kingservers/blog/256013/
+
+Сериал: Big Data — как мечта. 6-я серия. BD (Bolt Data) — Быстрые Big Data данные | https://habrahabr.ru/company/palitrumlab/blog/255963/
+
+Что нам стоит открытый дата-центр построить? Некоторые подробности о структуре ДЦ Facebook в Алтуне | https://habrahabr.ru/company/kingservers/blog/255933/
+
+Шифрование ГОСТ 28147-89 на х86- и GPU-процессорах | https://habrahabr.ru/company/securitycode/blog/255863/
+
+Топливные ячейки как надежный источник энергии для дата-центра? | https://habrahabr.ru/company/kingservers/blog/255675/
+
+Google открыл новый дата-центр ценой в $600 млн | https://habrahabr.ru/company/kingservers/blog/255497/
+
+Intel® Parallel Studio XE 2016 Beta – что нового? | https://habrahabr.ru/company/intel/blog/255175/
+
+Уолл Cтрит меняет подход к датацентрам | https://habrahabr.ru/company/kingservers/blog/255291/
+
+5 отличий дата-центров будущего от современных ДЦ | https://habrahabr.ru/company/kingservers/blog/255085/
+
+Муравьиный алгоритм MMAS | https://habrahabr.ru/post/255003/
+
+Лекции Технопарка. 3 семестр. Проектирование высоконагруженных систем | https://habrahabr.ru/company/mailru/blog/254843/
+
+Dell выпустила защищенный дата-центр для военных | https://habrahabr.ru/company/kingservers/blog/254859/
+
+Асинхронная работа с Tarantool на Python | https://habrahabr.ru/company/mailru/blog/254727/
+
+Как повысить производительность бесплатно, без регистрации и смс | https://habrahabr.ru/company/dellemc/blog/254599/
+
+Совсем просто про минимальное идеальное хеширование, основанное на графах | https://habrahabr.ru/post/254431/
+
+Ждем вас на EMC Technology Day #3 | https://habrahabr.ru/company/dellemc/blog/254367/
+
+Lenovo и IBM x86: чего ждать в ближайшее время? | https://habrahabr.ru/company/lenovo/blog/253949/
+
+Файловая система Linux полностью на tmpfs — скорость без компромиссов | https://habrahabr.ru/post/253759/
+
+«Софт + коробочный сервер» или комплексное решение? | https://habrahabr.ru/company/dellemc/blog/253607/
+
+Урок 1.1 — Акторы и ActorSystem | https://habrahabr.ru/post/253575/
+
+Akka.NET Bootcamp — Часть 1: начальный уровень Akka.NET | https://habrahabr.ru/post/253555/
+
+Akka.NET Bootcamp | https://habrahabr.ru/post/253547/
+
+Как это работает: архитектура тайлового бэкенда карт «Спутника» | https://habrahabr.ru/company/rostelecom/blog/252921/
+
+IBM Containers теперь в Bluemix: разложим все по полочкам | https://habrahabr.ru/company/ibm/blog/252785/
+
+Высокая производительность и хостинг-инфраструктура: Опыт проекта 1cloud | https://habrahabr.ru/company/1cloud/blog/252719/
+
+Курс по Big Data: три месяца на основные знания, и зачем это нужно | https://habrahabr.ru/company/newprolab/blog/252589/
+
+Правильная платформа для Java EE приложений: как z/OS + DB2 оказались в 3 раза быстрее Linux + Oracle | https://habrahabr.ru/company/ibm/blog/252057/
+
+Квантовая песочница: часть 2 | https://habrahabr.ru/post/251085/
+
+Сага о геолокации и как сделать гео-вебсервис на NGINX без движка базы данных и без программирования | https://habrahabr.ru/company/nodasoft/blog/251463/
+
+Разбор вызовов функций в PHP | https://habrahabr.ru/company/mailru/blog/250861/
+
+Как Linux работает с памятью. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/250753/
+
+HighLoad в платформе для интернет-магазинов автозапчастей | https://habrahabr.ru/company/nodasoft/blog/250721/
+
+CoreOS — Linux для минималистичных кластеров. Коротко | https://habrahabr.ru/post/244585/
+
+Производительный отказоустойчивый географически разнесенный кластер, работающий по схеме Active-Active на мейнфрейме IBM zEnterprise EC 12 | https://habrahabr.ru/company/ibm/blog/250485/
+
+Intel® Graphics Technology. Часть I: почти Gran Turismo | https://habrahabr.ru/company/intel/blog/249743/
+
+Анализ OpenMP регионов с Intel® VTune™ Amplifier XE | https://habrahabr.ru/company/intel/blog/248979/
+
+IBM Research объявила о запуске инновационной облачной технологии для защиты персональных данных | https://habrahabr.ru/company/ibm/blog/249565/
+
+Как нельзя проводить олимпиаду или настройка ejudge с распределением вычислений | https://habrahabr.ru/post/249293/
+
+Использование DSP-сопроцессора DM8168 с помощью фреймворка C6Accel | https://habrahabr.ru/company/promwad/blog/248591/
+
+IBM представила новый мейнфрейм z13 | https://habrahabr.ru/company/ibm/blog/248833/
+
+Исследуем производительность баз данных SQL SERVER 2014 при помощи PowerEdge R630 с HDD- и SSD-накопителями | https://habrahabr.ru/company/dellemc/blog/248485/
+
+NetApp FAS и VMware ESXi: Swap | https://habrahabr.ru/post/247631/
+
+VMware ESXi 5.Х и NetApp ONTAP 8: тюнинг | https://habrahabr.ru/post/247833/
+
+Рецепт «Быстрых данных» на основе решения для больших данных | https://habrahabr.ru/company/dellemc/blog/247669/
+
+How-To по установке Btier в Debian Wheezy | https://habrahabr.ru/post/247461/
+
+IBM работает вместе с Nvidia над созданием суперкомпьютеров нового поколения | https://habrahabr.ru/company/ibm/blog/247153/
+
+Квантовая онлайн-песочница от Google | https://habrahabr.ru/post/246483/
+
+Пилотный выпуск видео курса «Параллельное Программирование и Оптимизация для Intel Xeon Phi копроцессоров» | https://habrahabr.ru/post/246055/
+
+Корпорация IBM открыла доступ к Watson Analytics для всех | https://habrahabr.ru/company/ibm/blog/246001/
+
+Система хранения медиа данных с 10G доступом | https://habrahabr.ru/post/245993/
+
+IOMeter2 v1.1.0 | https://habrahabr.ru/post/245859/
+
+ASUS ESC4000 G2S — наиболее эффективный суперкомпьютер в мире | https://habrahabr.ru/company/ua-hosting/blog/245475/
+
+Какая связь между червем длиной около миллиметра и OpenCL? | https://habrahabr.ru/post/245563/
+
+Какой цикл быстрее? Тестируем 1С | https://habrahabr.ru/post/245687/
+
+RedHat/Oracle Linux с NetApp FAS (SAN) | https://habrahabr.ru/post/245357/
+
+Сергей Чернышев: «С каждым годом Веб становится только медленнее» | https://habrahabr.ru/company/caspowa/blog/245237/
+
+Сравнение скорости обработки данных (ETS, DETS, Memcached, MongoDb) в Erlang (сферическое в вакууме) | https://habrahabr.ru/post/245135/
+
+Ядро PCI-express в ПЛИС Achronix — быстрый старт | https://habrahabr.ru/post/244997/
+
+Об Oracle Coherence по-русски: Зачем он нужен? | https://habrahabr.ru/post/245057/
+
+Windows 2008/2012 c NetApp ONTAP 8 (SAN) | https://habrahabr.ru/post/243153/
+
+Аналитический отчёт по трейсу Microsoft SQL Server | https://habrahabr.ru/company/npo-comp/blog/243587/
+
+Самые быстрые суперкомпьютеры мира | https://habrahabr.ru/company/ua-hosting/blog/244593/
+
+Как согреться за «чужой» счет | https://habrahabr.ru/company/ua-hosting/blog/244519/
+
+Принтеры штрих кодов в автоматизации торговли | https://habrahabr.ru/company/scancode/blog/244437/
+
+Ветер перемен: экспансия серверных ARM продолжается | https://habrahabr.ru/company/ua-hosting/blog/244363/
+
+Нужно ли стандартизировать моделирование? | https://habrahabr.ru/post/244267/
+
+NetApp FAS оптимизация производительности | https://habrahabr.ru/post/243045/
+
+CTOcast #3: Беседа с Сергеем Чернышевым | https://habrahabr.ru/company/caspowa/blog/243999/
+
+Node.js в огне | https://habrahabr.ru/post/243945/
+
+Суперкомпьютер с системой водяного охлаждения HP Apollo 8000 | https://habrahabr.ru/company/ua-hosting/blog/243693/
+
+Ненадёжный Ethernet | https://habrahabr.ru/post/243119/
+
+Увеличиваем производительность сетевых устройств: технология fast path в процессорах Marvell Kirkwood | https://habrahabr.ru/company/promwad/blog/243447/
+
+Битва key-value хранилищ | https://habrahabr.ru/post/243451/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №22 (10 — 16 ноября 2014) | https://habrahabr.ru/post/243339/
+
+Postgres. Выборка N случайных записей | https://habrahabr.ru/post/242999/
+
+О том, как сайт Have I been pwned? масштабировался под высокой нагрузкой и сколько это стоило (<$25) | https://habrahabr.ru/company/microsoft/blog/242975/
+
+CERN планирует увеличение своих вычислительных возможностей до 150 000 ядер | https://habrahabr.ru/company/ua-hosting/blog/242933/
+
+Эволюция ЦОД в кино | https://habrahabr.ru/company/ua-hosting/blog/242845/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №21 (3 — 9 ноября 2014) | https://habrahabr.ru/post/242687/
+
+Охлаждение погружением, серверы «под водой»: Immersion-2 для 3M™ Novec™ обеспечил волшебные результаты, применение на практике в Гонконге | https://habrahabr.ru/company/ua-hosting/blog/242601/
+
+Капитан Америка vs VirtualSurfaceImageSource | https://habrahabr.ru/post/242311/
+
+Как мы делали аналитику для высоконагруженного сайта | https://habrahabr.ru/post/242369/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №20 (27 октября — 2 ноября 2014) | https://habrahabr.ru/post/242237/
+
+Оптимизируем VPS за 5$ (512MB RAM / 1 CPU) так, что сайт на wordpress выдерживает нагрузку в 42,735,587 хитов в день | https://habrahabr.ru/post/242011/
+
+I am Groot. Делаем свою аналитику на событиях | https://habrahabr.ru/company/ivi/blog/236253/
+
+«Погружаем» серверы под воду!? | https://habrahabr.ru/company/ua-hosting/blog/241752/
+
+Обновление стоечных решений OCP и OCS | https://habrahabr.ru/company/etegro/blog/241433/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №19 (20 — 26 октября 2014) | https://habrahabr.ru/post/241527/
+
+Гарри Каспаров проиграл суперкомпьютеру Deep Blue в шахматы из-за компьютерного сбоя | https://habrahabr.ru/post/241531/
+
+Распределенные вычисления для поиска жилья | https://habrahabr.ru/post/240941/
+
+Критерий выгодности подстановки и динамическая профилировка | https://habrahabr.ru/company/intel/blog/240203/
+
+Новый мультфильм «Диснея» рендерили на 55 000 ядрах | https://habrahabr.ru/post/241171/
+
+Просто о сложном: высокопроизводительные вычисления для инженерных и научно-исследовательских задач | https://habrahabr.ru/post/240899/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №18 (13 — 19 октября 2014) | https://habrahabr.ru/post/240835/
+
+Использование сервера очередей beanstalkd для распределения нашей почтовой рассылки | https://habrahabr.ru/company/shopozzcom/blog/240483/
+
+Погружаясь в производительность | https://habrahabr.ru/company/airbnb/blog/239829/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №17 (6 — 12 октября 2014) | https://habrahabr.ru/post/240139/
+
+Дата-майнинг делает научные открытия | https://habrahabr.ru/post/240067/
+
+Опыт разработки движка тотального кэширования | https://habrahabr.ru/post/239871/
+
+Оптимизация на упреждение | https://habrahabr.ru/post/239737/
+
+Не стоит бояться использовать HandlerSocket | https://habrahabr.ru/post/239637/
+
+Highload 2014, полный HA | https://habrahabr.ru/company/sdn/blog/239595/
+
+Преждевременная оптимизация — зло! | https://habrahabr.ru/post/239529/
+
+Зачем HFT-трейдеры скупают старые вышки | https://habrahabr.ru/post/239267/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №16 (29 сентября — 5 октября 2014) | https://habrahabr.ru/post/239247/
+
+Как решать проблемы пользователей не за сутки, а за минуты: ускоряем поиск по логам | https://habrahabr.ru/company/mailru/blog/238569/
+
+OpenCL 2.0 и драйверы от AMD и Intel | https://habrahabr.ru/post/238467/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №15 (22 — 28 сентября 2014) | https://habrahabr.ru/post/238431/
+
+Пару слов о конвейерах в FPGA | https://habrahabr.ru/post/235037/
+
+Новое поколение серверов x86 от IBM | https://habrahabr.ru/company/ibm/blog/237825/
+
+Обзор наиболее интересных материалов по высокой производительности (15 — 21 сентября 2014) | https://habrahabr.ru/post/237581/
+
+Приглашаем на HadoopKitchen | https://habrahabr.ru/company/mailru/blog/237131/
+
+Hazelcast 3.3 — что нового? | https://habrahabr.ru/post/236485/
+
+Новый сервис от IBM Watson поможет ученым работать более эффективно | https://habrahabr.ru/company/ibm/blog/236295/
+
+Как мы провели Летнюю Школу высокопроизводительных вычислений | https://habrahabr.ru/company/innopolis_university/blog/235863/
+
+Как Docker помог нам достичь (почти) невозможного | https://habrahabr.ru/post/235417/
+
+Параллельная сортировка методом пузырька на CUDA | https://habrahabr.ru/post/235391/
+
+RocksDB сервер – быстрое key-value хранилище для SSD накопителей | https://habrahabr.ru/post/234173/
+
+Базы данных и NoSQL (Гл. 4 книги «Масштабируемые и высокопроизводительные веб-приложения») | https://habrahabr.ru/post/233761/
+
+Улучшаем производительность: полезные советы и приёмы в .NET | https://habrahabr.ru/post/233253/
+
+Генерация ID для шардинга в MySQL | https://habrahabr.ru/post/232845/
+
+Несколько версий PHP в ISPmanager | https://habrahabr.ru/company/simnetworks/blog/233061/
+
+NVIDIA представила 64-разрядный Tegra K1 процессор с двумя ядрами Denver | https://habrahabr.ru/post/233041/
+
+Реактивные акторы на java | https://habrahabr.ru/post/232897/
+
+Система для большой науки | https://habrahabr.ru/company/dellemc/blog/231315/
+
+Плис Achronix – опыт освоения | https://habrahabr.ru/post/231007/
+
+StackOverflow: 560 млн показов в месяц, 25 серверов | https://habrahabr.ru/post/230677/
+
+Быстрая морфология или файлы против MySQL | https://habrahabr.ru/post/230393/
+
+IBM планирует уменьшить размеры суперкомпьютера Watson до размеров коробки для пиццы | https://habrahabr.ru/company/ibm/blog/230173/
+
+О плюсах и минусах Go | https://habrahabr.ru/post/229169/
+
+SYN-флудим со спуффингом на 14 mpps или нагрузочная вилка V 2.0 | https://habrahabr.ru/post/229733/
+
+Улучшаем производительность: boxing в .NET, которого можно избежать | https://habrahabr.ru/post/229741/
+
+IBM Watson поможет кулинарам составлять новые рецепты при помощи нового приложения | https://habrahabr.ru/company/ibm/blog/229285/
+
+Исследуем и тестируем распределенные вычисления от Hazelcast | https://habrahabr.ru/post/229149/
+
+Приглашаем на бесплатную школу по HPC в биологии и медицине | https://habrahabr.ru/company/innopolis_university/blog/228913/
+
+Исследуем и тестируем очереди от Hazelcast | https://habrahabr.ru/post/228445/
+
+Компания Samsung представила производительные SSD высокой емкости с вертикальной структурой ячеек памяти | https://habrahabr.ru/post/228321/
+
+Производительность хранилищ | https://habrahabr.ru/post/228041/
+
+Linux доминирует на суперкомпьютерах как никогда раньше | https://habrahabr.ru/post/227903/
+
+Quaternion Encryption Scheme (QES) на FPGA, XeonPhi, GPU | https://habrahabr.ru/post/226779/
+
+Microsoft переходит на процессоры собственной разработки | https://habrahabr.ru/post/226665/
+
+Как IT в Питере наводит мосты между городской администрацией и жителями | https://habrahabr.ru/company/dellemc/blog/225799/
+
+DevConf 2014: Разработка крупного масштабируемого web 2.0 проекта с нуля (15 июня, мастер-класс на целый день) | https://habrahabr.ru/company/devconf/blog/225045/
+
+LSI и Avago — незаметное слияние гигантов | https://habrahabr.ru/post/224861/
+
+Слишком быстрый, слишком мегаморфный: что влияет на производительность вызова метода в Java? | https://habrahabr.ru/company/maxifier/blog/223875/
+
+PHP + Java, или In-memory кластер теперь и для PHP разработчиков | https://habrahabr.ru/post/197628/
+
+Добавь газку: +200% производительности | https://habrahabr.ru/company/toptechphoto/blog/223773/
+
+Dell Active Fabric Manager 2.5: зачем он нужен и что нового в свежей версии | https://habrahabr.ru/company/dellemc/blog/223245/
+
+Подключение Macbook Pro к 10G Ethernet сети | https://habrahabr.ru/post/222319/
+
+Чеклист по оптимизации VPS на PHP/Mysql/Nginx | https://habrahabr.ru/post/221803/
+
+Транзакционная память: история и развитие | https://habrahabr.ru/post/221667/
+
+Ускоряем PHP (с ReactPHP) | https://habrahabr.ru/post/220393/
+
+Компания IBM представила новые серверы на основе процессоров Power8 | https://habrahabr.ru/company/ibm/blog/221115/
+
+Революционные компьютеры на подходе. Осталось научиться их программировать | https://habrahabr.ru/post/221199/
+
+Суперкомпьютер IBM Watson опробует себя в роли квалифицированного продавца-консультанта | https://habrahabr.ru/company/ibm/blog/221015/
+
+Демонстрация возможностей высокоростной обработки IP-пакетов, на примере простого DDOS-фильтра, разработанного на базе фреймворка NETMAP | https://habrahabr.ru/post/220331/
+
+Ученые из IBM обнаружили интересный физический феномен на примере «нанопроволочек» из полупроводников | https://habrahabr.ru/company/ibm/blog/220451/
+
+PHP-расширение dom_varimport: быстрое преобразования вложенных массивов в DOMDocument | https://habrahabr.ru/post/219907/
+
+Полезные приёмы работы с Apache Camel | https://habrahabr.ru/post/219629/
+
+Используем MongoDB вместо memcached: быть или не быть? | https://habrahabr.ru/post/219481/
+
+Эффективность команды. Расчет бонусов | https://habrahabr.ru/post/219135/
+
+Анонсирован самый быстрый в мире ускоритель AMD Radeon R9 295X2 | https://habrahabr.ru/post/218687/
+
+Первый 128-гигабайтный DDR4-модуль памяти Hynix | https://habrahabr.ru/post/218673/
+
+Преимущества выделенных серверов над облачными решениями на примере серверной архитектуры Tuffle.com | https://habrahabr.ru/company/tuffle/blog/218521/
+
+50 лет мэйнфреймам | https://habrahabr.ru/company/ibm/blog/218501/
+
+Классные скидки или время обзавестись системой хранения данных для HDTV контента | https://habrahabr.ru/company/it-grad/blog/216105/
+
+Dripstat — сервис мониторинга производительности JVM или MMO игра? | https://habrahabr.ru/post/217507/
+
+Используйте поиск по хешу, а не обыск массива | https://habrahabr.ru/post/216865/
+
+CPU Load: когда начинать волноваться? | https://habrahabr.ru/post/216827/
+
+Предполагаемый размер базы транзакций Bitcoin | https://habrahabr.ru/post/216631/
+
+Сравниваем производительность reflection в JDK8 и JDK7 | https://habrahabr.ru/post/216435/
+
+IBM и National Geographic планируют создать самую маленькую в мире обложку журнала | https://habrahabr.ru/company/ibm/blog/216085/
+
+Быстрая генерация массивов случайных чисел для задач имитационного моделирования, статистического оценивания и создания повторной выборки | https://habrahabr.ru/post/215775/
+
+Суперкомпьютер IBM Watson научился создавать собственные рецепты блюд | https://habrahabr.ru/company/ibm/blog/215207/
+
+Производительность log4j 1.x в синхронном и асинхронном режиме | https://habrahabr.ru/post/215147/
+
+Исполнение SSH-команд на сотнях серверов с помощью Go | https://habrahabr.ru/post/215111/
+
+Data URI изображения вместо спрайтов в Ruby on Rails | https://habrahabr.ru/post/214091/
+
+Всемирный чемпионат Master the Mainframe | https://habrahabr.ru/company/ibm/blog/215013/
+
+Один год из жизни проекта Ответы@Mail.ru | https://habrahabr.ru/company/mailru/blog/214919/
+
+Агрегаты многомерных кубов OLAP в оперативной памяти | https://habrahabr.ru/post/214643/
+
+PHP и различные виды NoSQL | https://habrahabr.ru/post/214647/
+
+Суперкомпьютер IBM Watson будет доступен со смартфона: объявлен конкурс для разработчиков мобильных приложений | https://habrahabr.ru/company/ibm/blog/214527/
+
+Учёного выгнали из Гарварда за майнинг криптовалюты | https://habrahabr.ru/post/213593/
+
+Как получить бесплатно профессиональный аккаунт Wunderlist на 12 месяцев | https://habrahabr.ru/post/213127/
+
+Анализ производительности приложений как отдельное направление в IT | https://habrahabr.ru/post/212895/
+
+Этот крошечный чип делает интернет в 4 раза быстрее | https://habrahabr.ru/post/212631/
+
+Netapp — реальность против маркетинга | https://habrahabr.ru/company/tinkoff/blog/212453/
+
+Тестирование СХД NetApp FAS при помощи генератора нагрузки IOMeter | https://habrahabr.ru/post/209422/
+
+IBM представила шестое поколение архитектуры X-Architecture | https://habrahabr.ru/company/ibm/blog/211512/
+
+Опыт внедрения кэширования в небольшой проект с сильной социальной составляющей | https://habrahabr.ru/post/211478/
+
+В NERSC запускают суперкомпьютер Edison с производительностью 2,4 петафлопс | https://habrahabr.ru/company/kingservers/blog/211270/
+
+О производительности Thin Provision в LVM2 | https://habrahabr.ru/post/210856/
+
+Создание и использование Matlab кластеров | https://habrahabr.ru/post/210816/
+
+Горизонтальное масштабирование PHP приложений. Часть 1 | https://habrahabr.ru/post/210656/
+
+User Timing API | https://habrahabr.ru/post/210564/
+
+Распараллеливаем процессы для ускорения вычислений и выполнения заданий в Linux | https://habrahabr.ru/company/xakep/blog/210480/
+
+Список оптимизаций рендеринга DOM, реализуемых на уровне Javascript фреймворка | https://habrahabr.ru/post/210558/
+
+7 простых оптимизаций, уменьшивших нагрузку на CPU с 80% до 27% | https://habrahabr.ru/post/210390/
+
+Будущее программирования аппаратных ускорителей | https://habrahabr.ru/post/209606/
+
+Тестируем: сравнение производительности IMX6 и OMAP4 | https://habrahabr.ru/company/promwad/blog/209844/
+
+Интернет-магазин Wildberries: что происходит по ту сторону монитора | https://habrahabr.ru/company/dellemc/blog/207568/
+
+Собственное корпоративное облако ownCloud с NGINX во frontend и несколькими серверами backend | https://habrahabr.ru/post/209432/
+
+Суперкомпьютер IBM Watson станет отдельным подразделением корпорации с бюджетом в 1 миллиард долларов | https://habrahabr.ru/company/ibm/blog/209194/
+
+«Дружим» redis с nginx | https://habrahabr.ru/post/208590/
+
+Nvidia анонсировала процессор Tegra K1 (Tegra 5) со 192 ядрами | https://habrahabr.ru/post/208230/
+
+Node.JS + taskset == немного странного юмора | https://habrahabr.ru/post/207612/
+
+Google Photon. Обработка данных со скоростью света* | https://habrahabr.ru/post/207348/
+
+В 2014 году сегмент микросерверов вырастет на 139% | https://habrahabr.ru/company/kingservers/blog/207530/
+
+Бенчмарк HTTP-серверов (С/C++) в FreeBSD | https://habrahabr.ru/post/207460/
+
+Dremel. Как Google считает в real-time? | https://habrahabr.ru/post/207234/
+
+Colossus. Распределенная файловая система от Google | https://habrahabr.ru/post/206986/
+
+Google Platform. 10+ лет | https://habrahabr.ru/post/206972/
+
+Инструментарий суперкомпьютера IBM Watson стал доступным для разработчиков в виде «облака» | https://habrahabr.ru/company/ibm/blog/206856/
+
+Повышаем производительность смартфона. Все «за и против» | https://habrahabr.ru/post/206854/
+
+AWS объявила о новых инстансах. Теперь до 32 ядер, 244ГБ RAM, 8x800 ГБ SSD | https://habrahabr.ru/post/206816/
+
+Зачем переходить на DDR4? | https://habrahabr.ru/company/intel/blog/205608/
+
+Как считают звёзды? Использование InterSystems Caché eXtreme в Gaia | https://habrahabr.ru/company/intersystems/blog/194814/
+
+Гаджеты для онлайн-трейдинга | https://habrahabr.ru/company/itinvest/blog/206506/
+
+Настройка маленького кластера Hadoop 2.2.0 с нуля | https://habrahabr.ru/post/206196/
+
+Массивы хранения данных Dell Powervault MD3 | https://habrahabr.ru/company/dellemc/blog/206180/
+
+Highly Available кластер RabbitMQ | https://habrahabr.ru/post/193332/
+
+Моделирование кавитационных пузырьков получило премию Гордона Белла | https://habrahabr.ru/company/ibm/blog/205800/
+
+IT, откуда не ждали | https://habrahabr.ru/company/dellemc/blog/205490/
+
+IBM PureData для Hadoop: чем эта система может мне помочь? | https://habrahabr.ru/company/ibm/blog/205334/
+
+IBM и Nvidia разрабатывают суперкомпьютеры нового поколения | https://habrahabr.ru/company/ibm/blog/205054/
+
+Tsubame-KFC: суперкомпьютер с погружной системой охлаждения из Японии | https://habrahabr.ru/company/kingservers/blog/204718/
+
+Учебное пособие по кэшированию, часть 2 | https://habrahabr.ru/post/204464/
+
+Graph500 (рейтинг суперкомпьютеров 2013) | https://habrahabr.ru/company/ibm/blog/204434/
+
+Профилировка производительности OpenMP приложений | https://habrahabr.ru/company/intel/blog/204058/
+
+MongoDB Is Web Scale | https://habrahabr.ru/post/204392/
+
+Тестирование в Яндексе: ObjectBuilders для описания и генерации синтетических тестовых данных | https://habrahabr.ru/company/yandex/blog/204192/
+
+Миграция фотографий или ещё одна очередь на MySQL | https://habrahabr.ru/company/badoo/blog/204028/
+
+Учебное пособие по кэшированию, часть 1 | https://habrahabr.ru/post/203548/
+
+Qualcomm и Xilinx начали поставки образцов микросхем произведенных по технологии 20нм | https://habrahabr.ru/post/203730/
+
+Теория большого суперкомпьютера | https://habrahabr.ru/company/dellemc/blog/203704/
+
+Как работает Stack Overflow — железо | https://habrahabr.ru/post/203406/
+
+Изящный вебсервер на Go (Graceful Restart) | https://habrahabr.ru/post/202584/
+
+Кубит продержался 39 минут при комнатной температуре | https://habrahabr.ru/post/202372/
+
+Масштабируемые NAS | https://habrahabr.ru/post/201698/
+
+Кто быстрее: стартапы или компании-тяжеловесы? | https://habrahabr.ru/company/caspowa/blog/201634/
+
+Борьба с производительностью Tastypie API | https://habrahabr.ru/post/201294/
+
+/dev/null as a Service | https://habrahabr.ru/post/200230/
+
+Ускоряем Nginx за 5 минут | https://habrahabr.ru/post/198982/
+
+Сравнение библиотек для работы с Memcached на Node.JS | https://habrahabr.ru/post/200060/
+
+Как мы ускорили поиск в Яндекс.Почте и при этом освободили 25 серверов | https://habrahabr.ru/company/yandex/blog/199432/
+
+Межпроцедурный анализ и оптимизации (I) | https://habrahabr.ru/company/intel/blog/199112/
+
+Высокопроизводительный SUN/ONCRPC сервер на Java NIO | https://habrahabr.ru/post/199196/
+
+Пишем numpy-модуль для ускорения математических функций с помощью SIMD-инструкций | https://habrahabr.ru/post/198916/
+
+Высшая ступень | https://habrahabr.ru/company/dellemc/blog/198824/
+
+Производительный сетевой сервер на PHP | https://habrahabr.ru/company/bitrix/blog/198540/
+
+Предотвращаем участие в dns amplification attack или опыт написания ядерного кода | https://habrahabr.ru/post/198264/
+
+Внедрение высокопроизводительного Pony ORM в проект Django | https://habrahabr.ru/post/197962/
+
+Новая 280-мегаваттная «солнечная» электростанция может работать в течение 6 часов после заката | https://habrahabr.ru/post/197668/
+
+Суперкомпьютер Watson обучили ставить диагнозы пациентам и тренировать студентов-медиков | https://habrahabr.ru/company/ibm/blog/197626/
+
+Сравнение производительности MongoDB vs PostgreSQL. Часть I: No index | https://habrahabr.ru/post/197590/
+
+Балансировщик на Go в 200 строк | https://habrahabr.ru/post/197570/
+
+Как мы мигрировали миллионные страны за рабочий день | https://habrahabr.ru/company/badoo/blog/197456/
+
+Пара недочётов в создании веб приложения на Go | https://habrahabr.ru/post/197468/
+
+Большие данные — неотъемлемая часть нашей жизни | https://habrahabr.ru/post/197462/
+
+Сказ о том, как сервер Dell PowerEdge ураган Сэнди пережил | https://habrahabr.ru/company/dellemc/blog/195876/
+
+Производительность фронтэнда. Часть 2 — кешируем динамический контент с помощью etagify | https://habrahabr.ru/company/nordavind/blog/196818/
+
+Пишем сервер, который не падает под нагрузкой | https://habrahabr.ru/company/nordavind/blog/196518/
+
+Caterham F1 Team & Dell @ Moscow City Racing 2013 | https://habrahabr.ru/company/dellemc/blog/195866/
+
+Охотимся за утечками памяти в Node.js (1-я из 12 статей о Node.js от команды Mozilla Identity) | https://habrahabr.ru/company/nordavind/blog/195494/
+
+Google потратил почти $21 млрд на постройку дата-центров | https://habrahabr.ru/post/195410/
+
+У Федрезерва США кто-то украл. Семь миллисекунд | https://habrahabr.ru/post/195222/
+
+IBM Watson станет в два раза умнее | https://habrahabr.ru/company/ibm/blog/195108/
+
+Вам не нужен Hadoop — у вас просто нет столько данных | https://habrahabr.ru/post/194434/
+
+Вы понимаете Hadoop неправильно | https://habrahabr.ru/post/194314/
+
+Вебкаст: «Решения Dell Quest для резервного копирования и восстановления данных» | https://habrahabr.ru/company/dellemc/blog/194086/
+
+Прямая передача данных между ПЛИС Virtex-7 по шине PCI Express | https://habrahabr.ru/post/193646/
+
+786 432 ядра суперкомпьютера IBM MIRA начали проводить моделирование ранней Вселенной | https://habrahabr.ru/company/ibm/blog/193524/
+
+Вебкаст: Решения Dell для инфраструктуры виртуальных настольных систем | https://habrahabr.ru/company/dellemc/blog/193504/
+
+Новый игровой ПК от Gigabyte помещается на ладони | https://habrahabr.ru/post/193486/
+
+IBM представляет NeXtScale System – высокопроизводительную вычислительную платформу для ЦОД | https://habrahabr.ru/company/ibm/blog/193454/
+
+Джефф Дин из компании Google — это Чак Норрис нашего времени | https://habrahabr.ru/post/192604/
+
+Вебкаст: Решения Dell для конвергентных сетей | https://habrahabr.ru/company/dellemc/blog/192554/
+
+Imagination выпустит серверные MIPS-процессоры к концу 2014 года | https://habrahabr.ru/post/192066/
+
+Кэширование фронтэнда: Flask, Nginx+Memcached+SSI | https://habrahabr.ru/post/191788/
+
+10 самых быстрых суперкомпьютеров в картинках | https://habrahabr.ru/post/191486/
+
+Про InfiniBand: как мы уменьшали пинг с 7 мкс до 2,4 мкс (и результаты тестов) | https://habrahabr.ru/company/croc/blog/191306/
+
+Жизнь за пределами Зиона | https://habrahabr.ru/post/190862/
+
+Кластер JBoss 7 — балансировка нагрузки с помощью Apache | https://habrahabr.ru/post/190196/
+
+Google упал на две минуты — объем мирового трафика сократился на 40% | https://habrahabr.ru/post/190450/
+
+Управление загрузкой изображений | https://habrahabr.ru/post/189764/
+
+LSI Nytro MegaRAID NMR8100-4i в деле | https://habrahabr.ru/company/hostkey/blog/189634/
+
+Как создать кластер в JBoss AS 7.1 в автономном (standalone) режиме? | https://habrahabr.ru/post/189588/
+
+Оптимизация изображений bash-скриптом | https://habrahabr.ru/post/154683/
+
+10Gbit сетевое хранилище — 2 | https://habrahabr.ru/post/189370/
+
+Процессоры для корпораций | https://habrahabr.ru/post/189088/
+
+Симуляция 1-й секунды активности 1% мозга заняла 40 минут на кластере из 82 944 процессоров | https://habrahabr.ru/post/189004/
+
+Снова о производительности ORM, или новый перспективный проект — Pony ORM | https://habrahabr.ru/post/188842/
+
+2027 мм бизнес класса — от первого полета на Луну до облачных вычислений | https://habrahabr.ru/company/ibm/blog/187648/
+
+ЦОДы уходят в облака | https://habrahabr.ru/company/dellemc/blog/187510/
+
+CloudEngine. Заявка на лидерство от Huawei. Часть 1 | https://habrahabr.ru/post/186792/
+
+Шоколадная электроника | https://habrahabr.ru/post/186344/
+
+Поможем лежебокам или дарю идею… | https://habrahabr.ru/post/185716/
+
+Кейт Матсудейра: Масштабируемая веб-архитектура и распределенные системы | https://habrahabr.ru/post/185636/
+
+Хранилище фотографий Topface теперь open source | https://habrahabr.ru/post/184652/
+
+Мега-ЦОДы — пионеры инноваций. Часть 2 | https://habrahabr.ru/post/184442/
+
+NETMAP (от Luigi Rizzo). Простой и удобный opensource фреймворк для обработки трафика на скоростях 10Gbit/s или 14 Mpps | https://habrahabr.ru/post/183832/
+
+TCP(syn-flood)-netmap-generator производительностью 1,5 mpps | https://habrahabr.ru/post/183692/
+
+Китайский суперкомпьюьтер Тяньхэ-2 возглавил мировой рейтинг Top500 | https://habrahabr.ru/post/183598/
+
+Масляное охлаждение корпуса (продолжение) | https://habrahabr.ru/post/181708/
+
+Как выглядят 10 миллисекунд высокочастотного трейдинга | https://habrahabr.ru/post/183484/
+
+Microsoft Dryad vs Apache Hadoop. Неначатое сражение за Big Data | https://habrahabr.ru/post/182688/
+
+Dryad. Фреймворк распределенных вычислений | https://habrahabr.ru/post/182164/
+
+Мега-ЦОДы — пионеры инноваций | https://habrahabr.ru/post/182104/
+
+IBM использует роботов Roomba для контроля температуры в дата-центрах | https://habrahabr.ru/company/ibm/blog/182062/
+
+10Gbit сетевое хранилище при умеренных затратах | https://habrahabr.ru/post/181822/
+
+Bitmap-индексы в Caché на глобалах | https://habrahabr.ru/company/intersystems/blog/174657/
+
+Выбор инструмента для расчётов с плавающей точкой — практические советы | https://habrahabr.ru/post/181051/
+
+Корпус с масляным охлаждением компонентов | https://habrahabr.ru/post/181003/
+
+ARM как основа для новых суперкомпьютеров | https://habrahabr.ru/post/181011/
+
+Кейт Мэтсудейра: Масштабируемая Веб-архитектура и распределенные системы | https://habrahabr.ru/post/180487/
+
+Построение HA систем на базе Jboss AS 6 | https://habrahabr.ru/post/180015/
+
+22 года на орбите | https://habrahabr.ru/company/r-style/blog/177203/
+
+Практика LSI | https://habrahabr.ru/post/179671/
+
+Миллион PPS в секунду — связанность и балансировка | https://habrahabr.ru/post/179535/
+
+Из говнокода в Highload. Используем ТАРАНtool. 5 рецептов повышения производительности | https://habrahabr.ru/post/113298/
+
+Проблемы кликов-переходов: сколько леммингов тонет? | https://habrahabr.ru/post/178209/
+
+Как выглядит DDoS-атака | https://habrahabr.ru/post/178153/
+
+05 — HP Z420 — мощная рабочая станция и средства виртуализации | https://habrahabr.ru/company/hpe/blog/177327/
+
+04 — HP T610+ тонкий клиент с широкими возможностями | https://habrahabr.ru/company/hpe/blog/177017/
+
+Хвостовое масштабирование | https://habrahabr.ru/post/168031/
+
+Стартует митап-группа «Moscow Cassandra Users» | https://habrahabr.ru/post/176881/
+
+02 — «Тонкий» клиент и «толстый» сервер | https://habrahabr.ru/company/hpe/blog/175823/
+
+Разработан алгоритм, позволяющий значительно увеличить пропускную способность оптоволоконных сетей | https://habrahabr.ru/post/175859/
+
+HPC. Программа, онлайн-трансляция и бесплатные билеты | https://habrahabr.ru/company/it_dominanta/blog/175591/
+
+Опубликована окончательная версия спецификации сверхбыстрой оперативной памяти нового поколения | https://habrahabr.ru/post/175521/
+
+Что мы знаем о серверах высокой плотности | https://habrahabr.ru/company/it-grad/blog/175155/
+
+Интерфейс SAS: история, примеры организации хранения | https://habrahabr.ru/post/175313/
+
+Самый мощный суперкомпьютер 2009 года уступает место новому поколению | https://habrahabr.ru/company/ibm/blog/174929/
+
+«Т-Платформы» оказались в списке врагов США | https://habrahabr.ru/post/174775/
+
+Cyberbunker vs Spamhaus | https://habrahabr.ru/post/174643/
+
+Одна из самых больших DDoS-атак в истории | https://habrahabr.ru/post/174483/
+
+Новое в СУБД Caché 2013.1: добавление и генерация индексов на «живых» классах | https://habrahabr.ru/company/intersystems/blog/173739/
+
+Действительно ли у каждого ядра есть «свой собственный» кэш первого и второго уровней? | https://habrahabr.ru/company/intel/blog/173001/
+
+2 апреля в Петербурге состоится High Performance Conference 4.0 | https://habrahabr.ru/company/e-Legion/blog/173543/
+
+Альтернативное использование мощностей GPU? | https://habrahabr.ru/post/172969/
+
+Как мы перешли с 30 серверов на 2: Go | https://habrahabr.ru/post/172795/
+
+Основы HPC-технологий | https://habrahabr.ru/post/172567/
+
+О правильном использовании памяти в NUMA-системах под управлением ОС Linux | https://habrahabr.ru/company/intel/blog/171079/
+
+Авиалайнер «Боинг-787» генерирует 500 ГБ за каждый полёт | https://habrahabr.ru/post/172151/
+
+Рассказ об участии в конкурсе Intel Accelerate Your Code | https://habrahabr.ru/post/171707/
+
+Оптимизация сборки крупного проекта | https://habrahabr.ru/company/pt/blog/171801/
+
+Принципы быстрого Хаскеля под GHC | https://habrahabr.ru/post/171425/
+
+Проектирование высокопроизводительных систем: о чем не расскажут в книгах | https://habrahabr.ru/post/171433/
+
+Суперкомпьютер своими руками | https://habrahabr.ru/post/170349/
+
+VDS, VDI, кого хочешь выбирай: виртуализация десктопов глазами Dell | https://habrahabr.ru/company/dellemc/blog/170241/
+
+Заметки о реализации hashCode() в Java | https://habrahabr.ru/post/169733/
+
+Тестирование производительности: подводные камни | https://habrahabr.ru/company/etnasoft/blog/168651/
+
+Найдено 48-е простое число Мерсенна | https://habrahabr.ru/post/168417/
+
+Wholesale Electric: Хьюстон, у нас нет проблем | https://habrahabr.ru/company/dellemc/blog/168337/
+
+1,8 гигапиксельная камера для подглядывания от DARPA | https://habrahabr.ru/post/168157/
+
+Поиск часто встречающихся элементов в массиве | https://habrahabr.ru/post/167177/
+
+Настройка нескольких экземпляров Postfix на одном сервере | https://habrahabr.ru/post/167269/
+
+Архитектура масштабируемой почтовой системы | https://habrahabr.ru/company/southbridge/blog/167051/
+
+NUMизматика, NUMерология и просто о NUMA | https://habrahabr.ru/company/intel/blog/165903/
+
+Через 5 дней после запуска файл-хостинг Mega обошёл Rapidshare и Dropbox | https://habrahabr.ru/post/166847/
+
+Дамп memcached на диск | https://habrahabr.ru/post/166781/
+
+Архитектура highload проекта на примере веб-консультанта | https://habrahabr.ru/company/southbridge/blog/166739/
+
+Замена двоичной логики — увеличит ли это производительность? | https://habrahabr.ru/post/166679/
+
+Насколько плохим код должен быть? | https://habrahabr.ru/post/166341/
+
+Формальное описание аппаратного микроядра L4 | https://habrahabr.ru/post/113654/
+
+Дата-центр Mega еле справляется с нагрузкой | https://habrahabr.ru/post/166327/
+
+BCache готов к включению в ядро Linux | https://habrahabr.ru/post/166015/
+
+Эх, ухнем! Распределенные вычисления вчера и сегодня | https://habrahabr.ru/company/intel/blog/165585/
+
+Предельная производительность: C# | https://habrahabr.ru/post/165729/
+
+Photoshop Scripting для автоматизации печати многотиражной полиграфической продукции | https://habrahabr.ru/post/165517/
+
+2013: пора прекратить погоню за флопсами | https://habrahabr.ru/post/164353/
+
+Nvidia представила Tegra 4 | https://habrahabr.ru/post/164963/
+
+WPF, WinForms: 15000 FPS. Хардкорные трюки ч.1.5 | https://habrahabr.ru/post/164885/
+
+WPF, WinForms: рисуем Bitmap c >15000 FPS. Хардкорные трюки ч.1 | https://habrahabr.ru/post/164705/
+
+Бенчмарк HTML парсеров | https://habrahabr.ru/post/163979/
+
+HP StoreEasy – легкое хранение неструктурированных данных | https://habrahabr.ru/company/hpe/blog/163145/
+
+Сетевой рендеринг на гибридном кластере | https://habrahabr.ru/company/depocomputers/blog/163829/
+
+ЦОД eBay и адиабатное увлажнение | https://habrahabr.ru/company/dellemc/blog/163821/
+
+Презумпция виновности программиста или почему компилятор иногда «тупит» | https://habrahabr.ru/company/intel/blog/162831/
+
+Высокочастотный трейдинг (HFT) с использованием FPGA | https://habrahabr.ru/post/163371/
+
+Баллада о «Мультиклете» | https://habrahabr.ru/post/163057/
+
+Срочно обновляем RVM (Ruby Version Manager) | https://habrahabr.ru/post/162533/
+
+Переход на Percona XtraDB Cluster. Часть II. Накладные расходы на репликацию | https://habrahabr.ru/post/160921/
+
+Разбиение цикла как пример высокоуровневой оптимизации | https://habrahabr.ru/company/intel/blog/161155/
+
+Конференция High Performance Conference 3.0 | https://habrahabr.ru/company/microsoft/blog/161139/
+
+SSD не для всех, или как я общался с Fusion-io ioDrive Duo | https://habrahabr.ru/company/advanserv/blog/160413/
+
+Автоматическая оптимизация настроек MySQL, PostgreSQL | https://habrahabr.ru/company/southbridge/blog/160395/
+
+Работа с временем в Google | https://habrahabr.ru/post/160301/
+
+Веб-сервер за рубежом + статика в России = ускорение скорости загрузки страницы | https://habrahabr.ru/company/southbridge/blog/160127/
+
+Распределенный мониторинг и географическая доступность | https://habrahabr.ru/post/159795/
+
+Японский сканер оцифровывает книгу в 250 страниц за минуту | https://habrahabr.ru/post/159791/
+
+История одной модернизации | https://habrahabr.ru/company/dellemc/blog/159463/
+
+Когда каждый день как DDOS. Крупнейшие китайские сайты | https://habrahabr.ru/post/158591/
+
+Основные проблемы влияющие на производительность вычислительного ядра и приложения и методы их решения компилятором | https://habrahabr.ru/company/intel/blog/158759/
+
+PostgreSQL — Asynchronous Replication + Pooling + Failover | https://habrahabr.ru/post/158731/
+
+36 ядерный маршрутизатор от Mikrotik и кое-что еще | https://habrahabr.ru/post/158525/
+
+Cray Titan — самый мощный суперкомпьютер современности | https://habrahabr.ru/post/158389/
+
+Знакомьтесь, filestream.me | https://habrahabr.ru/post/158199/
+
+Applescript общего назначения в повседневной офисной работе | https://habrahabr.ru/post/157003/
+
+HighLoad 2012 | https://habrahabr.ru/post/155951/
+
+Vertica на HighLoad++ | https://habrahabr.ru/company/lifestreet/blog/155773/
+
+Новые 4-сокетные серверы HP ProLiant Gen8 – удвоенная плотность вычислений | https://habrahabr.ru/company/hpe/blog/155609/
+
+Первый взгляд на Fusion-IO ioDrive2 | https://habrahabr.ru/post/155627/
+
+За кулисами Формулы 1 | https://habrahabr.ru/company/dellemc/blog/155367/
+
+Видеозаписи докладов с High Performance Conference | https://habrahabr.ru/company/itmozg/blog/154487/
+
+Fluid Data: «маленькая» победа в хранении «больших» данных — часть 2 | https://habrahabr.ru/company/dellemc/blog/154449/
+
+Fluid Data: «маленькая» победа в хранении «больших» данных | https://habrahabr.ru/company/dellemc/blog/154135/
+
+Почему нужно 1000 раз подумать, прежде чем использовать noSQL | https://habrahabr.ru/post/153859/
+
+Тезисы к докладу на Highload++ «Опыт создания собственных key/value хранилищ для небольших высоконагруженных проектов» | https://habrahabr.ru/post/153667/
+
+Кардиостимулятор для кота Шредингера | https://habrahabr.ru/post/153509/
+
+Использование более 4Гб оперативной памяти в 32 битных гостевых операционных системах | https://habrahabr.ru/post/153033/
+
+NoSQL базы данных: понимаем суть | https://habrahabr.ru/post/152477/
+
+15 миллионов страниц в сутки. Результаты нагрузочного тестирования .NET Forge CMS в облаке Windows Azure и на Windows Server | https://habrahabr.ru/company/microsoft/blog/152463/
+
+А что вы знаете о высоких нагрузках: часть вторая | https://habrahabr.ru/company/itmozg/blog/152071/
+
+Производительность VPS: сколько вешать в граммах? | https://habrahabr.ru/post/151852/
+
+Сохраняйся! Сохраняйся!!! | https://habrahabr.ru/company/dellemc/blog/151845/
+
+Миллион партиклов. Часть 1 | https://habrahabr.ru/post/151821/
+
+Установлен новый мировой рекорд разгона Intel Core i7 3770K на ASRock Z77 OC Formula | https://habrahabr.ru/post/151705/
+
+Western Digital заменит воздух в жестком диске на гелий для повышения производительности | https://habrahabr.ru/post/151524/
+
+«Суперкомпьютер» из 64 Raspberry Pi и Lego | https://habrahabr.ru/post/151445/
+
+Мониторинг связности в сети сервисов | https://habrahabr.ru/company/lifestreet/blog/151435/
+
+Коммутатор Google Pluto | https://habrahabr.ru/post/151431/
+
+Дата-центр IBM вскоре откроется в России | https://habrahabr.ru/post/151218/
+
+Ускоряем node.js: нативные модули и CUDA | https://habrahabr.ru/post/151117/
+
+Переводчикам на заметку: ускорение работы ABBYY Lingvo и других инструментов | https://habrahabr.ru/post/150810/
+
+Intel тестирует систему охлаждения сервера на основе минерального масла | https://habrahabr.ru/post/150750/
+
+Коммуникационные фабрики и с чем их едят | https://habrahabr.ru/company/intel/blog/150538/
+
+Мейнфрейм IBM zEC12 с процессорами по 5,5 ГГц и транзакционной памятью | https://habrahabr.ru/company/ibm/blog/150430/
+
+Facebook хранит данные в одном дата-центре и обрабатывает 500 Тб данных в день | https://habrahabr.ru/post/150135/
+
+Firefox OS запустили на Raspberry Pi | https://habrahabr.ru/post/149758/
+
+Мониторинг производительности PHP-кода с помощью Pinba | https://habrahabr.ru/company/badoo/blog/149695/
+
+Миллион одновременных соединений на Node.js | https://habrahabr.ru/post/123154/
+
+Перечень «граблей» внедрения websocket′ов на клиентские веб-ресурсы конструктора сайтов | https://habrahabr.ru/post/149592/
+
+Передача данных с помощью нейтрино | https://habrahabr.ru/post/149162/
+
+Параметризованные запросы и производительность django orm | https://habrahabr.ru/post/149066/
+
+Меченые указатели, или как уместить объект в одном инте | https://habrahabr.ru/post/149012/
+
+Размещаем индекс Lucene в RAM при помощи Azul Zing JVM | https://habrahabr.ru/post/148892/
+
+Хабракамп | https://habrahabr.ru/post/148795/
+
+Написание программ на PHP с использованием fork() | https://habrahabr.ru/post/148688/
+
+Дисковые массивы Dell EqualLogic | https://habrahabr.ru/company/dellemc/blog/148451/
+
+Познавательно о PGM протоколе | https://habrahabr.ru/post/148444/
+
+GC и большой heap: друзья или враги? | https://habrahabr.ru/post/148322/
+
+Использование разделяемой памяти в Java и off-heap кеширование | https://habrahabr.ru/company/odnoklassniki/blog/148139/
+
+SSD-диски на database-серверах? | https://habrahabr.ru/post/148111/
+
+Откуда тормоза в ORM? | https://habrahabr.ru/post/148044/
+
+ZooKeeper или пишем сервис распределенных блокировок | https://habrahabr.ru/post/144708/
+
+Насколько крупны порносайты? | https://habrahabr.ru/post/147330/
+
+Интересна ли вам услуга LoadBalancer? | https://habrahabr.ru/company/selectel/blog/147184/
+
+Flash-память в дата-центрах: почему она иногда дешевле жестких дисков? | https://habrahabr.ru/company/croc/blog/147023/
+
+Критический взгляд со стороны на процессоры Мультиклет / Multiclet | https://habrahabr.ru/post/146964/
+
+Что такое — выглядит как мемкеш, ведет себя как мемкеш, но не мемкеш? | https://habrahabr.ru/company/wapstart/blog/146957/
+
+Первые шаги с OpenCL или сказ о том как одинаковый код на GPU и CPU запускать | https://habrahabr.ru/post/146823/
+
+Первая опытно-промышленная партия отечественных мультиклеточных процессоров MCp | https://habrahabr.ru/post/146865/
+
+Суперкомпьютер IBM Sequoia стал самым быстрым в мире, обогнав Fujitsu K в полтора раза | https://habrahabr.ru/company/ibm/blog/146093/
+
+Feed2Tabs: когда надо часто открывать статьи фида в отдельных табах | https://habrahabr.ru/post/145954/
+
+HA (High Available) кластер VMware vSphere на блейд-серверах HP BL460c и EVA | https://habrahabr.ru/company/hpe/blog/145859/
+
+Адронный коллайдер, десятибалльный ветер и коммутаторы | https://habrahabr.ru/company/dellemc/blog/145742/
+
+Топологии серверов приложений WebSphere Application Server для обеспечения высокой доступности | https://habrahabr.ru/post/145308/
+
+В чем причина засора? Cтатистика веб-приложений | https://habrahabr.ru/company/mamba/blog/144910/
+
+Новый виток архитектуры CUDA | https://habrahabr.ru/post/144202/
+
+Архитектура Pinterest – 18 миллионов посетителей, 10-кратный прирост, 12 сотрудников, 410 ТБ данных | https://habrahabr.ru/post/144336/
+
+Команда Microsoft Research побила мировой рекорд по сортировке | https://habrahabr.ru/post/144295/
+
+Как найти девушку за 250 микросекунд | https://habrahabr.ru/company/mamba/blog/144084/
+
+Вычисление CRC32 строк в compile-time | https://habrahabr.ru/post/143975/
+
+Закон Мура — закон или маркетинговая стратегия? | https://habrahabr.ru/post/142220/
+
+15 лет назад компьютер Deep Blue обыграл человека в шахматы | https://habrahabr.ru/company/ibm/blog/143676/
+
+[SSD only] Активация TRIM в Mac OS Lion / Mountain Lion 10.8 | https://habrahabr.ru/post/143659/
+
+Будущее за микросерверами на MIPS-процессорах | https://habrahabr.ru/post/142827/
+
+Использование дополнительных инструкций CPU в одной из задач на PHP для ускорения производительности | https://habrahabr.ru/post/142823/
+
+Nvidia для профессиональных 3D приложений | https://habrahabr.ru/post/142369/
+
+Rule Engine, или как сделать систему проще | https://habrahabr.ru/post/142622/
+
+OPTIMIZE огромных таблиц в условиях ограниченных ресурсов или закат солнца вручную | https://habrahabr.ru/post/142607/
+
+Измерение производительности Play Framework 2.0 | https://habrahabr.ru/post/141960/
+
+Рендеринг мира | https://habrahabr.ru/post/142089/
+
+Эволюция архитектуры: от «самописных» сервисов к HandlerSocket | https://habrahabr.ru/company/badoo/blog/141945/
+
+[HighLoad] Алексей Рыбак: мастер-класс — Основы построения масштабируемых высоконагруженных веб-проектов 10 июня 2012 | https://habrahabr.ru/company/devconf/blog/141861/
+
+Go for IT. Часть первая | https://habrahabr.ru/post/141426/
+
+Программа «Рыбка» решила королевский гамбит на 1 апреля | https://habrahabr.ru/post/141309/
+
+10 миллионов хитов в день с WordPress на сервере за $15 | https://habrahabr.ru/post/141152/
+
+О погоде: модели поверх моделей | https://habrahabr.ru/company/ibm/blog/140262/
+
+Обзор Typesafe Stack 2.0 и введение в модель акторов на примере Akka 2.0 | https://habrahabr.ru/post/140368/
+
+Экскурсия в ЦОД «Билайна» | https://habrahabr.ru/post/140171/
+
+Сколько серверов в облаке Amazon EC2? | https://habrahabr.ru/post/140069/
+
+Быстрое сжатие изображений по алгоритму JPEG на CUDA | https://habrahabr.ru/post/139970/
+
+Анализируем проприетарное приложение на OpenCL, написанное с использованием AMD APP SDK | https://habrahabr.ru/post/139499/
+
+AMD APP SDK: Compute Abstraction Layer (CAL) | https://habrahabr.ru/post/139049/
+
+В IBM говорят, что готовы создавать квантовые компьютеры | https://habrahabr.ru/company/ibm/blog/139056/
+
+Методы мониторинга веб-сайтов и сервисов | https://habrahabr.ru/post/138989/
+
+AMD APP SDK: Intermediate Language (IL) | https://habrahabr.ru/post/138954/
+
+Ученые начали разработку метода «тепловой» записи данных | https://habrahabr.ru/post/137917/
+
+Текстовая онлайн-трансляция при большой нагрузке | https://habrahabr.ru/post/136627/
+
+Подробности о файловой системе ReFS (Protogon) | https://habrahabr.ru/post/136464/
+
+Оптимизация длинной арифметики на C++ | https://habrahabr.ru/post/135590/
+
+Hadoop достиг версии 1.0 | https://habrahabr.ru/post/135521/
+
+Суперкомпьютер на 10 петафлопс для МГУ | https://habrahabr.ru/post/135384/
+
+Многоядерный процессор для беспилотников | https://habrahabr.ru/post/135131/
+
+Разработка на Java и OpenCL: Дорога в облака | https://habrahabr.ru/post/134500/
+
+Компания Fusion-io выпустила новый твердотельный накопитель объемом в 10 ТБ | https://habrahabr.ru/post/134073/
+
+Red Hat, HP и новый рекорд скорости виртуализации | https://habrahabr.ru/post/133876/
+
+США и Япония запустили в работу скоростную подводную транстихоокеанскую сеть | https://habrahabr.ru/post/132207/
+
+Yac 2011: Технический отчёт | https://habrahabr.ru/post/132205/
+
+Многоядерность — рентабельный выбор для медицинского оборудования? | https://habrahabr.ru/post/132144/
+
+Опыт использования GPU для финансового моделирования | https://habrahabr.ru/post/131983/
+
+Gartner оценивает объем рынка оборудования для дата-центров в 99 млрд долларов США | https://habrahabr.ru/post/130553/
+
+V-Ray и Iray. Сравнение и обзор | https://habrahabr.ru/post/130378/
+
+Microsoft поддерживает Hadoop | https://habrahabr.ru/post/130346/
+
+Disruptor — новая парадигма многопоточного программирования | https://habrahabr.ru/post/130113/
+
+Matlab кластер своими руками | https://habrahabr.ru/post/129315/
+
+Storm («Hadoop в реальном времени») теперь Open Source | https://habrahabr.ru/post/128808/
+
+25000$ грант от Nvidia для исследовательских проектов связанных с графикой и GPGPU | https://habrahabr.ru/post/128060/
+
+Node: Масштабирование в малом против масштабирования в целом | https://habrahabr.ru/post/127696/
+
+Google работает над ускорением DNS | https://habrahabr.ru/post/127456/
+
+In-memory-data-grid. Режимы работы, индексы, блокировки | https://habrahabr.ru/post/126973/
+
+Компания IBM разрабатывает самое большое хранилище данных в мире | https://habrahabr.ru/post/127189/
+
+Ускорения параллельных вычислений | https://habrahabr.ru/post/127007/
+
+Как убрать все управляющие символы из строки — история одной бурной оптимизации | https://habrahabr.ru/post/126954/
+
+Введение в параллельные вычисления | https://habrahabr.ru/post/126930/
+
+In-memory-data-grid. Масштабируемые хранилища данных | https://habrahabr.ru/post/126580/
+
+OpenCL: мы дождались — версия 1.1 от nVidia, а что нового? | https://habrahabr.ru/post/125687/
+
+OpenCL: универсальность и высокая производительность или не так все просто? | https://habrahabr.ru/post/125398/
+
+Введение в OpenCL | https://habrahabr.ru/post/124925/
+
+OpenCL под C# это просто | https://habrahabr.ru/post/124873/
+
+Прогноз погоды своими руками | https://habrahabr.ru/post/117140/
+
+Использование GPGPU для сжатия данных (Часть I) | https://habrahabr.ru/post/124210/
+
+Действия пользователей Интернет за 60 секунд в мире | https://habrahabr.ru/post/122706/
+
+Dataflow-архитектуры. Часть 2 | https://habrahabr.ru/post/122530/
+
+Dataflow-архитектуры. Часть 1 | https://habrahabr.ru/post/122479/
+
+Автопроизводители тоже начали строить собственные дата-центры | https://habrahabr.ru/post/121939/
+
+Что снится оранжевым тележкам | https://habrahabr.ru/post/121888/
+
+FreeBSD + PostgreSQL: тюнинг сервера БД | https://habrahabr.ru/post/120932/
+
+Компания OCZ представила два новых производительных накопителя на Computex 2011 | https://habrahabr.ru/post/120600/
+
+В Чикаго открылась современная автоматическая роботизированная библиотека | https://habrahabr.ru/post/120025/
+
+Поддержка GPU в математическом пакете MATLAB | https://habrahabr.ru/post/119892/
+
+CUDA: аспекты производительности при решении типичных задач | https://habrahabr.ru/post/119435/
+
+Высокопроизводительные вычисления: проблемы и решения | https://habrahabr.ru/post/117021/
+
+Исследователи достигли скорости передачи данных в 100 терабит/сек | https://habrahabr.ru/post/118522/
+
+[Перевод] Теперь поиск Twitter ещё в 3 раза быстрее | https://habrahabr.ru/post/117258/
+
+Суперкомпьютеры: третья мировая гонка | https://habrahabr.ru/post/116733/
+
+Быстрое восстановление пароля по MD5-хешу методом брутфорса | https://habrahabr.ru/post/110809/
+
+OpenCL: Как заставить эту штуку работать | https://habrahabr.ru/post/116579/
+
+Веб-кластер — опыт реального применения | https://habrahabr.ru/post/115373/
+
+Суперкомпьютер на третьем поколении процессоров Loongson | https://habrahabr.ru/post/115139/
+
+Масштабирование нагрузки web-приложений | https://habrahabr.ru/post/113992/
+
+libscgi — эффективное решение для простых и быстрых скриптов | https://habrahabr.ru/post/111587/
+
+Про техники оптимизации | https://habrahabr.ru/post/111021/
+
+Dell собирается купить компанию Compellent Technologies | https://habrahabr.ru/post/109726/
+
+Oracle уменьшит количество ядер в процессорах SPARC T4 | https://habrahabr.ru/post/109628/
+
+Видео с пользовательской конференции по Sphinx (~8часов) | https://habrahabr.ru/post/109282/
+
+Проверяем отказоустойчивость сайта | https://habrahabr.ru/post/109247/
+
+Повышение производительности за счет блочного кеширования | https://habrahabr.ru/post/109050/
+
+В Intel работают над созданием 1000-ядерного процессора | https://habrahabr.ru/post/108551/
+
+Highload на дешевом хостинге: хэш-таблица в MySQL | https://habrahabr.ru/post/108457/
+
+Запустили первую в мире коммерческую магистраль на 100 Гбит/сек | https://habrahabr.ru/post/108403/
+
+Еще раз об архитектуре сетевых демонов | https://habrahabr.ru/post/108294/
+
+0W-httpd — простой быстрый фронтэнд | https://habrahabr.ru/post/108246/
+
+Сервер подсчета кликов | https://habrahabr.ru/post/107713/
+
+Анализ использования циклов процессоров Intel Core 2 | https://habrahabr.ru/post/107650/
+
+Поиск и решение проблем масштабируемости на примере многоядерных процессоров Intel Core 2 (часть 4) | https://habrahabr.ru/post/107624/
+
+Поиск и решение проблем масштабируемости на примере многоядерных процессоров Intel Core 2 (часть 3) | https://habrahabr.ru/post/107622/
+
+Поиск и решение проблем масштабируемости на примере многоядерных процессоров Intel Core 2 (часть 2) | https://habrahabr.ru/post/107621/
+
+Поиск и решение проблем масштабируемости на примере многоядерных процессоров Intel Core 2 (часть 1) | https://habrahabr.ru/post/107620/
+
+Дата-центр в водяном баке | https://habrahabr.ru/post/105988/
+
+Началось строительство суперкомпьютера “K” на 10 петафлопс | https://habrahabr.ru/post/105101/
+
+Facebook извинился за 2,5 часа простоя | https://habrahabr.ru/post/104894/
+
+Японцы представили прототип самого быстрого сканера книг | https://habrahabr.ru/post/104304/
+
+Компания Toshiba выпускает самую быструю SD-память | https://habrahabr.ru/post/103460/
+
+Компания IBM запустила продажи процессора z196 (5,2 ГГц) | https://habrahabr.ru/post/103298/
+
+Корпорация Microsoft строит дата-центр нового типа | https://habrahabr.ru/post/103171/
+
+Facebook первым перейдёт на ARM-серверы? | https://habrahabr.ru/post/102529/
+
+NVIDIA построит для военных США самый мощный в мире компьютер | https://habrahabr.ru/post/101514/
+
+Согласованные в конечном счете (Eventually Consistent) | https://habrahabr.ru/post/100891/
+
+Рекорд скорости сортировки: 1 терабайт в минуту | https://habrahabr.ru/post/100595/
+
+Тестирование производительности кластера под Windows. Linpack, Lizard | https://habrahabr.ru/post/99783/
+
+Японцы построили «зеленый» суперкомпьютер | https://habrahabr.ru/post/99573/
+
+Использование Intel AVX: пишем программы завтрашнего дня | https://habrahabr.ru/post/99367/
+
+Сравнение OpenCL с CUDA, GLSL и OpenMP | https://habrahabr.ru/post/96122/
+
+IBM запустила суперкомпьютер с охлаждением горячей водой | https://habrahabr.ru/post/98377/
+
+Статистика OS в TOP500 самых мощных компьютеров мира | https://habrahabr.ru/post/95175/
+
+Результаты тестирования масштабируемости облачных сервисов | https://habrahabr.ru/post/94964/
+
+«The Simdsons» — финал | https://habrahabr.ru/post/94789/
+
+«The Simdsons» — немного о семействе векторных инструкций SIMD | https://habrahabr.ru/post/94381/
+
+Введение в шаблонизатор Blitz | https://habrahabr.ru/post/93720/
+
+Возле дата-центра Amazon упал столб: пятый даунтайм за неделю | https://habrahabr.ru/post/93597/
+
+Молекула йода в тысячу раз мощнее среднего ПК | https://habrahabr.ru/post/93186/
+
+Разработка системы распределенных вычислений для мобильных платформ | https://habrahabr.ru/post/92392/
+
+Про сайт metro29.ru | https://habrahabr.ru/post/89657/
+
+Отладка Hadoop приложений | https://habrahabr.ru/post/89365/
+
+Новостные сайты не готовы к высокой нагрузке | https://habrahabr.ru/post/89232/
+
+Дата-центры охлаждают ветром | https://habrahabr.ru/post/84309/
+
+Google переходит на EXT4 | https://habrahabr.ru/post/80861/
+
+nginx + apache. Кеширование | https://habrahabr.ru/post/79876/
+
+Realplexor: производительный Comet-сервер с API для PHP и Javascript (realtime) | https://habrahabr.ru/post/79189/
+
+Установка PHP-FPM на Debian из пакетов | https://habrahabr.ru/company/truevds/blog/78356/
+
+Нагрузочное тестирование «по-быстренькому» | https://habrahabr.ru/post/77593/
+
+Готовимся к Хабра-эффекту | https://habrahabr.ru/post/77045/
+
+SpeedGeeks L.A. – October 26, 2009 (Videos + Presentations) | https://habrahabr.ru/post/76575/
+
+Китай и AMD покоряют рейтинг суперкомпьютеров | https://habrahabr.ru/post/75487/
+
+Отдаём статику nginx'ом | https://habrahabr.ru/post/67738/
+
+Протокол SPDY ускорит Сеть вдвое | https://habrahabr.ru/post/75117/
+
+OpenCL. Практика | https://habrahabr.ru/post/73526/
+
+OpenCL. Подробности технологии | https://habrahabr.ru/post/72650/
+
+Подводные камни при использовании кэширования в nginx | https://habrahabr.ru/post/72539/
+
+Swarm: язык распределённых вычислений в облаке | https://habrahabr.ru/post/72422/
+
+OpenCL. Что это такое и зачем он нужен? (если есть CUDA) | https://habrahabr.ru/post/72247/
+
+«Рапидшара» разрослась до 10 петабайт | https://habrahabr.ru/post/72196/
+
+dklab_multiplexor: постоянное Javascript-соединение с сервером в условиях сотен тысяч онлайн-клиентов | https://habrahabr.ru/post/69457/
+
+EHcache RESTful сервер, РНР и просто эксперименты… | https://habrahabr.ru/post/66464/
+
+Google издевается над веб-сервисами Microsoft | https://habrahabr.ru/post/63135/
+
+Порт завершения (Completion Port) | https://habrahabr.ru/post/59282/
+
+Разгоняем Wordpress | https://habrahabr.ru/post/57346/
+
+AppScale — а построй ка мне Google AppEngine сам? Будет сделано! | https://habrahabr.ru/post/56947/
+
+SoapClient: параллельные асинхронные запросы, реконнект, обработка тайм-аутов | https://habrahabr.ru/post/55200/
+
+Марш против RDBMS или проекты распределенных хранилищ (key-value stores) | https://habrahabr.ru/post/55077/
+
+Домашний Linux-кластер из 20-ти серверов, всего за 1000$ | https://habrahabr.ru/post/52872/
+
+Новый стартап Воза | https://habrahabr.ru/post/51170/
+
+Gentoo+drbd+ocfs2 | https://habrahabr.ru/post/50143/
+
+Краткий обзор MQ (Messages queue) для применения в проектах на РНР. Часть 2 | https://habrahabr.ru/post/45891/
+
+Краткий обзор MQ (Messages queue) для применения в проектах на РНР. Часть 1 | https://habrahabr.ru/post/44907/
+
+Hadoop Distributed File System | https://habrahabr.ru/post/42858/
+
+Amazon S3: рекордная нагрузка | https://habrahabr.ru/post/42007/
+
+MemcacheDB и MemcacheQ — ключевые компоненты высокопроизводительной инфраструктуры | https://habrahabr.ru/post/41464/
+
+Highload 2008 — сколько платить? | https://habrahabr.ru/post/37990/
+
+10gen — ещё один стартап в области Cloud Computing | https://habrahabr.ru/post/36609/
+
+Eucalyptus — ваша открытая платформа для создания Elastic Cloud Platform | https://habrahabr.ru/post/27611/
+
+Пуленепробиваемый подход к WEB-программированию — нагрузка от 1 000 000 хостов и выше на PHPConf 2007 | https://habrahabr.ru/post/7469/
+

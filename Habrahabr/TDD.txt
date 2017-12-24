@@ -1,0 +1,332 @@
+Тестирование глазами разработчика: инструменты, мифы, ситуации | https://habrahabr.ru/company/dataart/blog/342098/
+
+Контравариантные тесты | https://habrahabr.ru/post/339790/
+
+Оживляя динозавров: TDD vs Test-Last | https://habrahabr.ru/post/336916/
+
+Hanami Getting Started | https://habrahabr.ru/post/336814/
+
+Применение MVP+TDD в разработке iOS приложений | https://habrahabr.ru/post/335908/
+
+Юнит тесты. Первый шаг к качеству | https://habrahabr.ru/post/336030/
+
+TDD React.js-приложений | https://habrahabr.ru/post/335020/
+
+Unit-тесты: что, как и когда тестировать? | https://habrahabr.ru/company/jugru/blog/329372/
+
+BDD — рабочий метод или TDD в модной обертке? | https://habrahabr.ru/company/jugru/blog/329468/
+
+Трагедия стопроцентного покрытия кода | https://habrahabr.ru/company/everydaytools/blog/328406/
+
+Генератор тестовых данных для C++ | https://habrahabr.ru/post/326576/
+
+Continuous Integration UWP приложений в Visual Studio Team Services | https://habrahabr.ru/post/321638/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 5 | https://habrahabr.ru/post/320928/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 4 | https://habrahabr.ru/post/320662/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 3 | https://habrahabr.ru/post/319898/
+
+Тестирование с базой данных в .NET | https://habrahabr.ru/post/319568/
+
+Алгоритм Дейкстры и разработка через тестирование | https://habrahabr.ru/company/piter/blog/319490/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 2 | https://habrahabr.ru/post/319202/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 1 | https://habrahabr.ru/post/319126/
+
+Анализ покрытия кода тестами в Ruby | https://habrahabr.ru/post/317326/
+
+Hype Driven Development | https://habrahabr.ru/company/edison/blog/316668/
+
+Марсоход, Координаты посадки | https://habrahabr.ru/post/315684/
+
+Марсоход, Посадка | https://habrahabr.ru/post/314958/
+
+Заменяем тестирование алгоритмов тестированием вносимых эффектов | https://habrahabr.ru/post/315114/
+
+TDD не работает | https://habrahabr.ru/post/314994/
+
+Марсоход, Инициализация | https://habrahabr.ru/post/314544/
+
+Марсоход, Введение | https://habrahabr.ru/post/314536/
+
+TDD все еще сравнивают с TLD — мнения экспертов | https://habrahabr.ru/post/313584/
+
+The Pros & Cons of Test-Driven Development | https://habrahabr.ru/company/jugru/blog/313514/
+
+AVA — Футуристическая JavaScript библиотека для тестирования | https://habrahabr.ru/post/313468/
+
+Отзыв на книгу Growing Object-Oriented Software, Guided by Tests | https://habrahabr.ru/post/312248/
+
+«Flaskr» — введение во Flask, разработка через тестирование (TDD) и jQuery | https://habrahabr.ru/post/312110/
+
+Правила внедрения TDD в старом проекте | https://habrahabr.ru/post/306962/
+
+TDD для хранимых процедур Oracle | https://habrahabr.ru/post/304888/
+
+Создаём свои теги в RSpec тестах | https://habrahabr.ru/company/aligntechnology/blog/303998/
+
+CodeRush for Roslyn: Part 1 — полезные фичи для разработки через тестирование | https://habrahabr.ru/company/devexpress/blog/303008/
+
+UI тесты: Cucumber + Selenide | https://habrahabr.ru/post/283422/
+
+UI тесты: Cucumber + Selenide | https://habrahabr.ru/post/283384/
+
+Реализация мониторинга и интеграционного тестирования информационной системы с использованием Scalatest. Часть 2 | https://habrahabr.ru/company/cit/blog/281354/
+
+Встреча Coding Dojo в Artec 3D | https://habrahabr.ru/company/artec3d/blog/280890/
+
+Масштабирование Wix до 100 миллионов пользователей. Начало | https://habrahabr.ru/company/wix/blog/279903/
+
+Профессионализм и TDD | https://habrahabr.ru/post/279713/
+
+Wix: разработка с видом на море | https://habrahabr.ru/company/wix/blog/279357/
+
+Тестирование JS. Кармический Webpack | https://habrahabr.ru/company/rambler-co/blog/278503/
+
+Архитектура чистого кода и разработка через тестирование в PHP | https://habrahabr.ru/company/mailru/blog/277543/
+
+Открытое письмо @ignored теста | https://habrahabr.ru/post/277123/
+
+Проблема дублирования и устаревания знания в mock-объектах или Интеграционные тесты — это хорошо | https://habrahabr.ru/post/275249/
+
+Кто вы, пишущие на Gherkin? Или корнишон в поисках целевой аудитории | https://habrahabr.ru/post/275013/
+
+Детали test-first, которых так не хватало | https://habrahabr.ru/company/mailru/blog/274771/
+
+Эффективные UI-тесты на Selenide | https://habrahabr.ru/post/274071/
+
+Вышла новая версия LinqTestable — библиотеки для тестирования запросов к бд через ORM | https://habrahabr.ru/post/273801/
+
+Интересная багофича 1С при работе с контекстом управляемой формы | https://habrahabr.ru/post/273155/
+
+Визуальные тесты с Galen Framework. Улучшаем читабильность кода | https://habrahabr.ru/post/272213/
+
+Автоматизированное тестирование контроллеров в Rails | https://habrahabr.ru/post/271427/
+
+Эволюция автоматического тестирования в среде 1С: Предприятие | https://habrahabr.ru/post/270061/
+
+Библиотека, помогающая преодолеть концептуальный разрыв между ООП и БД во время тестирования при использовании ORM, — LinqTestable | https://habrahabr.ru/post/269917/
+
+TDD по-фольксвагеновски | https://habrahabr.ru/post/269035/
+
+Разделяем интерфейсы для юнит-тестирования | https://habrahabr.ru/company/ivi/blog/256517/
+
+Новое в Runkit 1.0.4: PHP 5.6+, closures везде и еще 12 новых фич | https://habrahabr.ru/post/267495/
+
+Создание тестового DB-контекста в тестах с использованием xUnit | https://habrahabr.ru/post/265501/
+
+Ещё один способ автоматического вызова unit-тестов на языке Си | https://habrahabr.ru/company/embox/blog/265461/
+
+Разработка через тестирование в iOS | https://habrahabr.ru/company/rambler-co/blog/263087/
+
+Юнит-тесты в Caché – это просто | https://habrahabr.ru/company/intersystems/blog/263677/
+
+Fixie – тестирование по соглашению | https://habrahabr.ru/post/263057/
+
+Упрощаем юнит-тесты с помощью связки AutoFixture и xUnit | https://habrahabr.ru/post/262435/
+
+И опять о DevOps | https://habrahabr.ru/post/260659/
+
+Дублирование логики — единственный способ верификации ПО | https://habrahabr.ru/post/260447/
+
+Юнит-тесты, BDD и сила текучих утверждений (fluent assertions) в 1С | https://habrahabr.ru/post/260013/
+
+Использование junit-quickcheck на простом примере в практике TDD | https://habrahabr.ru/post/259859/
+
+Майская встреча Rambler.iOS | https://habrahabr.ru/company/rambler-co/blog/257461/
+
+Тернии вокруг золота | https://habrahabr.ru/post/254951/
+
+Любите ли вы Assert.That так, как его любят некоторые другие или выходу беты NUnit v3 посвящается | https://habrahabr.ru/post/254289/
+
+Создание кастомного матчера для unit тестирования в Jasmine 2.0 | https://habrahabr.ru/post/253323/
+
+Авто-регистрация тестов на С средствами языка | https://habrahabr.ru/post/252439/
+
+Повышаем стабильность Front-end | https://habrahabr.ru/company/tinkoff/blog/251421/
+
+CxxMock — Mock-объекты в C++ | https://habrahabr.ru/post/250979/
+
+Почему разработчики не любят Юнит Тесты | https://habrahabr.ru/post/250053/
+
+Почти правильная разработка на 1С, без революций | https://habrahabr.ru/post/248669/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 5. Тестирование | https://habrahabr.ru/post/248027/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 4 Serialization | https://habrahabr.ru/post/245441/
+
+Тесты, которые тестируют тесты | https://habrahabr.ru/post/245097/
+
+Юнит тесты на Си — нет ничего проще | https://habrahabr.ru/post/244835/
+
+По мотивам GUIRunner | https://habrahabr.ru/post/241377/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 3. DUnit + FireMonkey | https://habrahabr.ru/post/241301/
+
+Старая псина учит новые трюки: Code Kata с использованием QuickCheck | https://habrahabr.ru/post/240811/
+
+Облачные автотесты Selenium + Ubuntu (пошаговая инструкция) | https://habrahabr.ru/post/239645/
+
+Тестирование встроенных систем | https://habrahabr.ru/company/embox/blog/239387/
+
+Экстремальное программирование в стиле тестеров-крутотенечек! | https://habrahabr.ru/post/234749/
+
+TDD — «утка». Введение в Quack-Driven Development. Современная waterfowl-методология для программистов | https://habrahabr.ru/post/232927/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 3 | https://habrahabr.ru/post/232097/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 2 | https://habrahabr.ru/post/232081/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 1 | https://habrahabr.ru/post/231657/
+
+TDD мертв. Да здравствует тестирование | https://habrahabr.ru/post/226303/
+
+Изучение TDD через интенсивную практику | https://habrahabr.ru/post/225929/
+
+Тестирование через абстрактные классы в TestNG | https://habrahabr.ru/post/224077/
+
+Определение модульного теста | https://habrahabr.ru/post/222963/
+
+Тестирование отдельных Symfony 2 бандлов | https://habrahabr.ru/post/221259/
+
+Continuous Integration. Путь обеспечения надежности и доверия к системе | https://habrahabr.ru/post/219891/
+
+Как стать тестировщиком мирового уровня? | https://habrahabr.ru/company/sqalab/blog/218135/
+
+Autotest для PHP | https://habrahabr.ru/post/215955/
+
+BFT – Потоковое тестирование | https://habrahabr.ru/company/ifree/blog/212567/
+
+Глубинное погружение в test-driven JavaScript | https://habrahabr.ru/post/209936/
+
+Перевод статьи Хенрика Книберга «ATDD from Trenches» (ATDD с передовой) | https://habrahabr.ru/post/209576/
+
+Опыт работы с TDD и размышления о том, как надо тестировать код | https://habrahabr.ru/post/207448/
+
+TDD for Responsive Design. Или как автоматизировать тестирование отображения сайта для разных устройств с помощью Galen Framework | https://habrahabr.ru/post/203506/
+
+Unit тесты на практике | https://habrahabr.ru/post/191986/
+
+Много тестов не бывает | https://habrahabr.ru/post/191164/
+
+Почему изучать TDD трудно и что с этим делать. Часть 2 | https://habrahabr.ru/post/191478/
+
+Почему изучать TDD трудно и что с этим делать. Часть 1 | https://habrahabr.ru/post/191010/
+
+Тестируем CSS в Selenium IDE | https://habrahabr.ru/post/190358/
+
+Вышел test.it v1.1.0 — что дальше? | https://habrahabr.ru/post/190200/
+
+test.it — не опять, а снова | https://habrahabr.ru/post/189216/
+
+Karma — тестируем javascript в консоли | https://habrahabr.ru/post/187094/
+
+Читабельный тест | https://habrahabr.ru/post/186666/
+
+Step-by-step: настройка SpecFlow для русскоязычного проекта при написании тестов в среде .Net | https://habrahabr.ru/post/182160/
+
+Введение в модульное тестирование для c# проектов в среде MonoDevelop | https://habrahabr.ru/post/181255/
+
+Как начать писать тесты за 10 шагов по 10 минут | https://habrahabr.ru/company/infopulse/blog/177581/
+
+Управление front-end проектом с помощью NPM | https://habrahabr.ru/post/177553/
+
+Пара слов о книге «Professional TDD with C#» | https://habrahabr.ru/post/176637/
+
+Автоматизированное интеграционное тестирование ASP.NET приложения | https://habrahabr.ru/post/174735/
+
+Тестирование тривиального кода | https://habrahabr.ru/post/174781/
+
+Лень-driven development | https://habrahabr.ru/company/infopulse/blog/174283/
+
+Прагматичность TDD | https://habrahabr.ru/post/173961/
+
+Опрос о специфике тестирования при разработке приложений для Android? | https://habrahabr.ru/post/173455/
+
+Откуда есть пошел xUnit | https://habrahabr.ru/post/170215/
+
+Модульное тестирование и непрерывная интеграция при помощи Jenkins для C++ проектов | https://habrahabr.ru/post/170847/
+
+Быстрый старт с Google Test | https://habrahabr.ru/company/infopulse/blog/164471/
+
+Простое написание тестов — это не TDD! | https://habrahabr.ru/post/162417/
+
+OCUnit в XCode 4.5 для новичков | https://habrahabr.ru/post/159985/
+
+Что такое Coding Dojo и где можно практиковаться | https://habrahabr.ru/company/scrumtrek/blog/157985/
+
+Делаем TDD привычкой: проблемы и внедрение | https://habrahabr.ru/company/scrumtrek/blog/157729/
+
+Почему Вы должны сейчас все бросить и начать писать юнит тесты | https://habrahabr.ru/post/154041/
+
+Selenide: удобные тесты на Selenium WebDriver | https://habrahabr.ru/post/143269/
+
+Простой, но показательный пример использования TDD | https://habrahabr.ru/post/151639/
+
+Тестирование iOS-приложений | https://habrahabr.ru/post/144673/
+
+Test Driven Design — первый опыт внедрения | https://habrahabr.ru/post/144412/
+
+Тестирование в стиле TSA | https://habrahabr.ru/post/143616/
+
+Codeception — новости проекта | https://habrahabr.ru/post/143567/
+
+Николай Гребнев (CUSTIS) — Что такое DDD? — доклад с конференции ADD | https://habrahabr.ru/company/sqalab/blog/142491/
+
+Тестирование в Java. Spock Framework | https://habrahabr.ru/post/137561/
+
+Тестирование параллельных потоков | https://habrahabr.ru/post/135815/
+
+О влиянии TDD на разработку (мнения читателей) | https://habrahabr.ru/post/134210/
+
+Учебный пример разработки PHP-класса с использованием TDD | https://habrahabr.ru/post/130086/
+
+Юнит-тесты в Cocoa | https://habrahabr.ru/post/129896/
+
+А ты используешь TDD, хабрачеловек? | https://habrahabr.ru/post/129387/
+
+Real-life unit tests | https://habrahabr.ru/post/127114/
+
+Еще немного о TDD и модульных тестах | https://habrahabr.ru/post/111095/
+
+Assert DSL на примере .Net | https://habrahabr.ru/post/124254/
+
+Установка и настройка функционального тестирования в Symfony2 с помощью Behat и Mink | https://habrahabr.ru/post/124100/
+
+Тестирование в Java. TestNG | https://habrahabr.ru/post/121234/
+
+Тестирование в Java. JUnit | https://habrahabr.ru/post/120101/
+
+PHPUnit && ordered tests | https://habrahabr.ru/post/116896/
+
+Как не выстрелить себе в ногу | https://habrahabr.ru/post/116514/
+
+Unit-тесты, пытаемся писать правильно, чтобы потом не было мучительно больно | https://habrahabr.ru/post/116372/
+
+Тесты разные важны, а иные не нужны | https://habrahabr.ru/post/114142/
+
+Вдохновение для юнит-тестов | https://habrahabr.ru/post/113487/
+
+Тесты для тестов | https://habrahabr.ru/post/112851/
+
+«Я не пишу юнит-тесты, потому что ...» — отговорки | https://habrahabr.ru/post/112685/
+
+TDD — это как сноубординг | https://habrahabr.ru/post/108638/
+
+Эволюция юнит-теста | https://habrahabr.ru/post/107262/
+
+Как очистить карму своему коду? | https://habrahabr.ru/post/99525/
+
+Ссылка: живая демонстрация Ping-pong programming | https://habrahabr.ru/post/97910/
+
+Зачем дьявол придумал javadoc | https://habrahabr.ru/post/97320/
+
+Test Infected | https://habrahabr.ru/post/86364/
+
+Видео. Пример разработки приложения с помощью TDD | https://habrahabr.ru/post/84715/
+
+TDD для начинающих. Ответы на популярные вопросы | https://habrahabr.ru/post/82842/
+

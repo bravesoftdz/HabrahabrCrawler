@@ -1,0 +1,590 @@
+Новый выпуск Oh, My Code — Облако, Perl и хорошие программисты | https://habrahabr.ru/company/mailru/blog/342284/
+
+Обзор плагинов SparrowHub | https://habrahabr.ru/post/342288/
+
+Приглашаем на конференцию YAPC::Russia 4 ноября | https://habrahabr.ru/company/mailru/blog/341454/
+
+Рекомендательная система на коленке как средство против экзистенциального кризиса | https://habrahabr.ru/post/340262/
+
+Поиск файлов по тэгам в XMP / IPTC и операции с найденным | https://habrahabr.ru/post/339642/
+
+Быстрая разработка скриптов мониторинга с помощью Bash, Outthentic и Sparrow | https://habrahabr.ru/post/338144/
+
+Простенький скрипт поиска возможно осиротевших файлов проекта | https://habrahabr.ru/post/337140/
+
+Скрипт на Perl в помощь HTML-верстальщику | https://habrahabr.ru/post/336550/
+
+Бот для Telegram за 48 часов на Perl или как купить кошачий корм не выходя из чата | https://habrahabr.ru/post/333586/
+
+Разработка скриптов-обёрток с помощью инструмента Sparrow | https://habrahabr.ru/post/333410/
+
+Почему я больше не хочу програмировать на Perl | https://habrahabr.ru/post/327408/
+
+«Почему вы просто не перепишете это на язык X?» | https://habrahabr.ru/company/everydaytools/blog/327070/
+
+Аудит актуальных уязвимостей без регистрации и смс | https://habrahabr.ru/post/326084/
+
+Функциональное программирование на Perl в примерах | https://habrahabr.ru/post/326028/
+
+Разработка и тестирование chef кукбуков с помощью инструмента Sparrowdo v2 | https://habrahabr.ru/post/325848/
+
+Отказоустойчивая обработка 10M OAuth-токенов на Tarantool | https://habrahabr.ru/company/mailru/blog/325582/
+
+Отчет с Moscow.pm 2 февраля | https://habrahabr.ru/company/mailru/blog/324696/
+
+Модуль HTML::Phl для обработки HTML-документов, содержащих инструкции с кодом Perl | https://habrahabr.ru/post/304634/
+
+Лекции Техносферы. Программирование на Perl (осень 2015) | https://habrahabr.ru/company/mailru/blog/308826/
+
+Гейзенбаг, или как Луна портит код | https://habrahabr.ru/post/308462/
+
+Эффективное кеширование. От теории к практике | https://habrahabr.ru/company/surfingbird/blog/306252/
+
+История языков программирования: Perl — необычный язык, созданный лингвистом для программистов | https://habrahabr.ru/post/305402/
+
+Sparrowdo — простой инструмент управления конфигурациями | https://habrahabr.ru/post/304982/
+
+Приглашаем на YAPC::Russia 2016 | https://habrahabr.ru/company/mailru/blog/303856/
+
+Вышла версия 2.1 Perl плагина для IntelliJ IDEA | https://habrahabr.ru/post/303628/
+
+Synology DSM, Perl и Mojolicious | https://habrahabr.ru/post/302746/
+
+Разработка Docker контейнеров с помощью системы многоцелевых сценариев Sparrow | https://habrahabr.ru/post/302278/
+
+Вышла версия 2.0 Perl плагина для IntelliJ IDEA | https://habrahabr.ru/post/301910/
+
+API к zadarma.com на perl и python | https://habrahabr.ru/post/301356/
+
+Разработка Sparrow плагинов | https://habrahabr.ru/post/300876/
+
+Вышла версия 1.5 Perl плагина для IntelliJ IDEA | https://habrahabr.ru/post/282592/
+
+SparrowHub — репозиторий готовых утилит для системного администрирования | https://habrahabr.ru/post/281583/
+
+Быстрый анализ транзитного трафика | https://habrahabr.ru/post/280986/
+
+Погоня с препятствиями | https://habrahabr.ru/post/278853/
+
+Вышла версия 1.4 Perl плагина для IntelliJ IDEA | https://habrahabr.ru/post/279821/
+
+Отчёт со встречи Perl-программистов Moscow.pm 4 февраля | https://habrahabr.ru/company/mailru/blog/278275/
+
+Чиним MySQL-дамп (меньше чем за 30 строк) | https://habrahabr.ru/post/277101/
+
+Объективные критерии качества Perl кода | https://habrahabr.ru/post/276839/
+
+Вышла версия 1.3 Perl5 плагина для IntelliJ IDEA | https://habrahabr.ru/post/276359/
+
+Приглашаем на встречу Moscow.pm 4 февраля | https://habrahabr.ru/company/mailru/blog/275923/
+
+Разработчики Perl 6: язык готов к использованию | https://habrahabr.ru/post/274069/
+
+SWAT — DSL для быстрой разработки автоматических тестов web приложений | https://habrahabr.ru/post/273731/
+
+Perl5 плагин для IntelliJ IDEA v1.2: Moose и сигнатуры | https://habrahabr.ru/post/272677/
+
+Sparrow — perl фреймворк тестирования и мониторинга web приложений | https://habrahabr.ru/post/272245/
+
+Особенности (traits) в Perl 6 – метаданные вместе с символом | https://habrahabr.ru/post/271711/
+
+Поиск с помощью регулярных выражений может быть простым и быстрым | https://habrahabr.ru/company/mailru/blog/270507/
+
+Буферы и двоичный ввод и вывод в Perl6 | https://habrahabr.ru/post/270069/
+
+PG как эволюция Perl для математиков в WeBWorK | https://habrahabr.ru/post/269981/
+
+Интервью с Одри Тан, часть 1 | https://habrahabr.ru/company/regru/blog/268911/
+
+Perl5 плагин для IntelliJ IDEA v1.1 | https://habrahabr.ru/post/269573/
+
+Как я мониторил Avito по SMS | https://habrahabr.ru/post/268857/
+
+Хороший день для кодогенерации | https://habrahabr.ru/post/268215/
+
+OTRS на прокачку в стиле REG.RU | https://habrahabr.ru/company/regru/blog/267925/
+
+.sort'ировка в Perl 6 | https://habrahabr.ru/post/267887/
+
+Унификация дизайна со стороны бэкенда: JavaScript на сервере | https://habrahabr.ru/company/mailru/blog/266713/
+
+Perl5 плагин для IntelliJ IDEA | https://habrahabr.ru/post/265799/
+
+Проверяем все страницы сайта в валидаторе html | https://habrahabr.ru/post/265709/
+
+Meta-Object Protocol в Perl6 | https://habrahabr.ru/post/265199/
+
+Можно ли полагаться на данные, извлекаемые WMI классами? | https://habrahabr.ru/post/264717/
+
+Парсим pod от Perl 5 при помощи Perl 6 | https://habrahabr.ru/post/264225/
+
+Как сделать грамматику в Perl 6 | https://habrahabr.ru/post/263965/
+
+Как мы провели пару дней, работая над ускорением Perl | https://habrahabr.ru/post/263939/
+
+Автоматизация обновления темплейтов OpenVZ на Proxmox | https://habrahabr.ru/post/263269/
+
+Логирование чего угодно в Perl | https://habrahabr.ru/post/260373/
+
+LIVR — «независимые от языка правила валидации» или валидация данных без «проблем» | https://habrahabr.ru/post/246521/
+
+Как я стал мейнтейнером одного из модулей Perl на CPAN | https://habrahabr.ru/post/258549/
+
+Конференция YAPC::Russia::MayPerl 2015 в Москве 16-17 мая, не пропусти | https://habrahabr.ru/company/mailru/blog/257959/
+
+Решение лабиринтов на Perl | https://habrahabr.ru/post/257251/
+
+Транслитерация в Perl6 | https://habrahabr.ru/post/257021/
+
+Работа с датой и временем в Perl6 | https://habrahabr.ru/post/256893/
+
+Запоминаем просмотренные видео на youtube | https://habrahabr.ru/post/255549/
+
+Конференция YAPC::Russia::MayPerl 2015 в Москве 16-17 мая | https://habrahabr.ru/company/mailru/blog/255265/
+
+Perl 6: nextsame и его родственники | https://habrahabr.ru/post/254787/
+
+Время Perl | https://habrahabr.ru/company/regru/blog/254453/
+
+Perl 6 и умное соответствие | https://habrahabr.ru/post/254029/
+
+Perl 6 и последовательности Маркова | https://habrahabr.ru/post/253917/
+
+Скармливающие операторы в Perl 6 | https://habrahabr.ru/post/253701/
+
+Perl 6: Разные названия для разных вещей | https://habrahabr.ru/post/253345/
+
+Лексические переменные в Perl 6 | https://habrahabr.ru/post/253133/
+
+Метаоператоры X и Z в Perl 6 | https://habrahabr.ru/post/253077/
+
+Последовательности в Perl 6 / Rakudo | https://habrahabr.ru/post/253047/
+
+Операции с файлами в Perl 6 | https://habrahabr.ru/post/252509/
+
+Взаимодействие с командной строкой perl 6 из функции MAIN | https://habrahabr.ru/post/252451/
+
+Приглашаем на Moscow.pm 5 марта | https://habrahabr.ru/company/mailru/blog/251913/
+
+OpenCage — самый мощный инструмент для геокодирования | https://habrahabr.ru/company/what3words/blog/251497/
+
+Авторинг Perl модулей | https://habrahabr.ru/post/249767/
+
+Приглашаем на Moscow.pm 5 февраля | https://habrahabr.ru/company/mailru/blog/249255/
+
+Perl 6 и Rakudo: заметки от 2009 года | https://habrahabr.ru/post/248713/
+
+Введение в разработку web-приложений на PSGI/Plack. Часть 4. Асинхронность | https://habrahabr.ru/post/248457/
+
+Введение в разработку web-приложений на PSGI/Plack. Часть 3. Starman | https://habrahabr.ru/post/248283/
+
+Введение в разработку web-приложений на PSGI/Plack. Часть 2 | https://habrahabr.ru/post/247733/
+
+Введение в разработку web-приложений на PSGI/Plack | https://habrahabr.ru/post/247545/
+
+Как я получил медаль за код | https://habrahabr.ru/post/246885/
+
+Простое решение для использования ЭЦП | https://habrahabr.ru/post/246467/
+
+День рождения Perl и лучшие решения Golf от Moscow.pm | https://habrahabr.ru/company/mailru/blog/246117/
+
+Perl. 27 лет спустя | https://habrahabr.ru/post/245659/
+
+6-й санкт-петербургский Perl-воркшоп и хакатон Saint Perl 2014 | https://habrahabr.ru/company/regru/blog/245639/
+
+Как организовать отправку push-уведомлений на айфон | https://habrahabr.ru/company/surfingbird/blog/245087/
+
+Полезное и приятное для разработчика в Mojolicious | https://habrahabr.ru/post/244317/
+
+Zabbix + Communigate Pro: low-level discovery и мониторинг аккаунтов | https://habrahabr.ru/post/243379/
+
+Приглашаем на Moscow Django Meetup и Moscow.pm 6 ноября | https://habrahabr.ru/company/mailru/blog/242273/
+
+Test::Spec: плюсы, минусы и особенности | https://habrahabr.ru/company/regru/blog/239417/
+
+Самодельный Dynamic DNS | https://habrahabr.ru/post/239465/
+
+Golf от Moscow.pm для всех | https://habrahabr.ru/company/mailru/blog/239087/
+
+Приглашаем на Moscow.pm и Perl Golf | https://habrahabr.ru/company/mailru/blog/238659/
+
+Руководство по оформлению кода на Перле | https://habrahabr.ru/post/238407/
+
+Многопоточный прокси на Perl, или как покупать на books.ru удобно | https://habrahabr.ru/post/237259/
+
+Удобное скачивание с сайта Books.ru или пристраиваем к делу WWW::Mechanize | https://habrahabr.ru/post/236519/
+
+RabbitMQ — Отложенные сообщения, часть 2 | https://habrahabr.ru/post/235983/
+
+Perl Golf на YAPC::Russia 2014 | https://habrahabr.ru/company/regru/blog/235767/
+
+Свободная литература или сказ про дружбу CoolReader c Tor | https://habrahabr.ru/post/235581/
+
+RabbitMQ — отложенные сообщения | https://habrahabr.ru/post/235505/
+
+Блокировка запуска второго экземпляра программы на Perl | https://habrahabr.ru/post/235279/
+
+Mojolicious Perl Style | https://habrahabr.ru/post/233991/
+
+Асинхронный многопоточный пул воркеров на Perl | https://habrahabr.ru/post/234835/
+
+Функции в Perl | https://habrahabr.ru/company/regru/blog/232933/
+
+Документация Mojolicious: Потерянные Главы | https://habrahabr.ru/post/228141/
+
+Документация Mojolicious: Потерянные Главы | https://habrahabr.ru/post/227493/
+
+Право на свой код | https://habrahabr.ru/company/mailru/blog/220519/
+
+Zabbix + Communigate Pro: мониторим очередь сообщений на выбранные домены и хосты | https://habrahabr.ru/post/221795/
+
+Мониторинг RabbitMQ в  Zabbix и скрытые возможности Zabbix key | https://habrahabr.ru/post/218741/
+
+Проверяем доступность SIP провайдера | https://habrahabr.ru/post/212401/
+
+Плагин perl-support для vim | https://habrahabr.ru/post/208492/
+
+Приглашаем на Moscow PM 06/02 | https://habrahabr.ru/company/mailru/blog/211044/
+
+Касаемо точек | https://habrahabr.ru/post/209898/
+
+Замена ctags для Perl в mooedit | https://habrahabr.ru/post/208754/
+
+Web Фреймворк по-японски — Amon2 | https://habrahabr.ru/post/122611/
+
+18 декабря языку Perl исполнилось 26 лет | https://habrahabr.ru/post/206704/
+
+Тюнинг mooedit, работа над ошибками | https://habrahabr.ru/post/206152/
+
+Тюнинг mooedit | https://habrahabr.ru/post/205328/
+
+Работа с форматом JSON на языке PERL | https://habrahabr.ru/post/205130/
+
+Система поиска плагиата | https://habrahabr.ru/post/199190/
+
+Написание бота для Grepolis | https://habrahabr.ru/post/201272/
+
+Мигаем Scroll lock'ом при входящем email сообщении (perl + bash) | https://habrahabr.ru/post/199270/
+
+О том как перестать бояться и полюбить частые релизы | https://habrahabr.ru/post/198376/
+
+Metaobject Protocol для базового Perl 5 | https://habrahabr.ru/post/198274/
+
+Переход Почты Mail.Ru на 64-битную архитектуру: как это было | https://habrahabr.ru/company/mailru/blog/198122/
+
+Coro и ещё одна реализация rouse-callback | https://habrahabr.ru/post/197130/
+
+Реализация голосового меню на perl через usb модем Huawei e1550 | https://habrahabr.ru/post/193586/
+
+Perl Golf от REG.RU на YAPC::Europe 2013 | https://habrahabr.ru/company/regru/blog/191704/
+
+perl скрипт производящий голосовой обзвон (оповещение) через usb модем huawei e1550 | https://habrahabr.ru/post/192930/
+
+Небольшая заметка про utf-8 в Mojolicious | https://habrahabr.ru/post/192024/
+
+Хакаем Transcend WiFi SDHC карту памяти | https://habrahabr.ru/post/191742/
+
+Вникаем в нюансы программирования Request Tracker | https://habrahabr.ru/post/190822/
+
+Perl6 — Ещё немного о блоках (Phasers) | https://habrahabr.ru/post/190778/
+
+Вся правда о UTF-8 флаге | https://habrahabr.ru/post/190584/
+
+Perl6 — Обработка исключений | https://habrahabr.ru/post/190406/
+
+Perl6 — Работа с типами данных | https://habrahabr.ru/post/190266/
+
+Perl6 — Перегрузка операторов | https://habrahabr.ru/post/190186/
+
+Perl6 — Комментарии, пробельные символы, скобки | https://habrahabr.ru/post/190114/
+
+REPL для Perl | https://habrahabr.ru/post/187222/
+
+Moscow.pm в офисе Mail.Ru Group: о Play Perl и предрассудках Perl-программистов | https://habrahabr.ru/company/mailru/blog/183706/
+
+Удлинитель субтитров формата SubRip (.srt) | https://habrahabr.ru/post/178615/
+
+«Жемчужный» доступ к 1С: Предприятию 8.2 | https://habrahabr.ru/post/174857/
+
+Голосовое дерево для Asterisk с помощью Perl AGI | https://habrahabr.ru/post/172561/
+
+Вычисление рекуррентных соотношений на Perl | https://habrahabr.ru/post/169469/
+
+Ещё один способ отстрелить себе ногу в Perl | https://habrahabr.ru/post/168559/
+
+HTML::TokeParser | https://habrahabr.ru/post/163567/
+
+Насколько вы подвержены тупняку, и немного holywar | https://habrahabr.ru/post/163467/
+
+Работа с кодировками в Perl | https://habrahabr.ru/post/163439/
+
+Языку программирования Perl сегодня исполнилось 25 лет | https://habrahabr.ru/post/163029/
+
+Perl6 — Ввод-вывод, модули | https://habrahabr.ru/post/161989/
+
+Почему мотоцикл не смог заменить танк, или перевод сайта REG.RU с Template::Toolkit на Text::Xslate | https://habrahabr.ru/company/regru/blog/161351/
+
+Мой первый клиент мертв | https://habrahabr.ru/post/161047/
+
+Псевдо веб сокеты | https://habrahabr.ru/post/160679/
+
+Простой способ подготовки отчетов на основе rtf-бланков | https://habrahabr.ru/post/156805/
+
+Perl6 — Классы | https://habrahabr.ru/post/155571/
+
+There’s More Than One Way To Do It | https://habrahabr.ru/post/155461/
+
+Perl6 — Работа с функциями | https://habrahabr.ru/post/154997/
+
+Perl6 — Условные операторы, циклы | https://habrahabr.ru/post/154701/
+
+Perl6 — Операции над переменными, анонимные блоки | https://habrahabr.ru/post/153875/
+
+Что должен знать начинающий Perl разработчик о перловой инфраструктуре | https://habrahabr.ru/post/154613/
+
+Особенности работы с переменными и литералами в Perl6 | https://habrahabr.ru/post/152403/
+
+Четыре профессиональные деформации программистов на языке Perl, демонстрируемые на живом примере | https://habrahabr.ru/post/150511/
+
+Amazon Glacier: клиент на Perl с многопоточной/multipart закачкой | https://habrahabr.ru/post/150324/
+
+Я просто оставлю это здесь | https://habrahabr.ru/post/150140/
+
+Скрипт мониторинга процессов MySQL на Perl | https://habrahabr.ru/post/145573/
+
+Сборки Rakudo Star для Windows теперь будут регулярными | https://habrahabr.ru/post/149778/
+
+Перечень «граблей» внедрения websocket′ов на клиентские веб-ресурсы конструктора сайтов | https://habrahabr.ru/post/149592/
+
+Perl — еще раз о деплое | https://habrahabr.ru/post/149586/
+
+Распаковка Perl2Exe | https://habrahabr.ru/post/149015/
+
+Взаимодействие веб-сервисов через REST | https://habrahabr.ru/post/148492/
+
+Simple automation: фотоальбом | https://habrahabr.ru/post/147964/
+
+1532 дня без изменений в коде | https://habrahabr.ru/post/147790/
+
+Локализация проектов написанных с использованием MVC Framework Catalyst | https://habrahabr.ru/post/146893/
+
+Mojolicious/PSGI-приложение на виртуальном хостинге | https://habrahabr.ru/post/146879/
+
+Публикация модуля на cpan | https://habrahabr.ru/post/146821/
+
+VK::App — модуль для создания клиентских приложений в vk.com | https://habrahabr.ru/post/146598/
+
+Mojolicious 3.0 | https://habrahabr.ru/post/146554/
+
+Moose: ООП в Perl | https://habrahabr.ru/post/146442/
+
+Основные принципы работы с MVC Framework Catalyst | https://habrahabr.ru/post/146074/
+
+Простой торговый бот для The Settlers Online | https://habrahabr.ru/post/145842/
+
+Риалтайм дашборд | https://habrahabr.ru/post/144639/
+
+Термометр с прогнозом погоды | https://habrahabr.ru/post/144624/
+
+Эпиграф к perl 5.16.0 | https://habrahabr.ru/post/144317/
+
+Шпаргалка по mock-объектам в Perl | https://habrahabr.ru/post/142667/
+
+Конечные автоматы. Пишем ДКА | https://habrahabr.ru/post/141503/
+
+Справочник email адресов компании или репликация данных в нестабильной сети | https://habrahabr.ru/post/140954/
+
+Komodo IDE 6 Settings | https://habrahabr.ru/post/140848/
+
+Развитие модуля FCGI::ProcManager | https://habrahabr.ru/post/140631/
+
+Вариация на тему: прогноз погоды по телефону | https://habrahabr.ru/post/139656/
+
+Краткий обзор качества коммерческой CMS на Perl | https://habrahabr.ru/post/136807/
+
+Благотворительный Фонд craigslist пожертвовал $100,000 языку программирования Perl | https://habrahabr.ru/post/136963/
+
+Почему в Perl так редко используется IoC, DI и магическая пилюля Kaiten::Container | https://habrahabr.ru/post/134891/
+
+Успокаиваем нервы при помощи Perl и GD | https://habrahabr.ru/post/132132/
+
+Легкий PERL-скрипт для отправки и приема SMS через мобильный телефон | https://habrahabr.ru/post/130391/
+
+Установка Perl-модулей в Gentoo | https://habrahabr.ru/post/129055/
+
+Производительность пакетов ООП в Perl | https://habrahabr.ru/post/128745/
+
+Многопоточность в Perl, или Как я посмотрел ролик о съёмках Warehouse 13 | https://habrahabr.ru/post/128477/
+
+Используем Flickr API из Perl | https://habrahabr.ru/post/125961/
+
+Общение с fastcgi менеджером | https://habrahabr.ru/post/124691/
+
+Stackato: разворачиваем Perl приложение в своем облаке за 3 шага | https://habrahabr.ru/post/124481/
+
+YAPC::Europe 15–17 августа в Риге | https://habrahabr.ru/post/122991/
+
+IRC-тренинг «One day with the Debian Perl Team» | https://habrahabr.ru/post/122864/
+
+Config::YAML::Modern — работа с .yaml конфигурационными файлами на стероидах | https://habrahabr.ru/post/122818/
+
+Собираем статистику просмотра постов в LJ/LI | https://habrahabr.ru/post/122013/
+
+Стеганография на Perl | https://habrahabr.ru/post/121989/
+
+ActiveState приобрела Phenona | https://habrahabr.ru/post/121829/
+
+Многопоточный сервер на Perl? Легко! | https://habrahabr.ru/post/120170/
+
+Выпущен Perl 5.14 | https://habrahabr.ru/post/119321/
+
+Mojolicious v1.12 | https://habrahabr.ru/post/117693/
+
+Perl::Critic + Subversion = внедрение единых практик кодирования в команде | https://habrahabr.ru/post/115395/
+
+Универсальный шаблонный движок за 1 минуту из подручных материалов | https://habrahabr.ru/post/115173/
+
+Видео с Perl-воркшоп «Saint Perl — 2» (Санкт-Петербург), 18 декабря | https://habrahabr.ru/post/112129/
+
+Нефункциональное модульное тестирование — «главное чтобы блестел». Часть 2 | https://habrahabr.ru/post/111655/
+
+Пишем icq-бот на perl | https://habrahabr.ru/post/111031/
+
+Perl 23 года с нами | https://habrahabr.ru/post/110736/
+
+Perl-воркшоп «Saint Perl — 2» в Санкт-Петербурге, 18 декабря | https://habrahabr.ru/post/109691/
+
+NetBeans IDE — голосуем за поддержку Perl | https://habrahabr.ru/post/92124/
+
+Необычный оператор диапазона | https://habrahabr.ru/post/87272/
+
+Этот загадочный while… | https://habrahabr.ru/post/84762/
+
+Особенности национальных выражений | https://habrahabr.ru/post/83644/
+
+Прогресс-индикатор со стеком | https://habrahabr.ru/post/81765/
+
+Moscow.pm 2009 => 2010 | https://habrahabr.ru/post/80423/
+
+Mini-FAQ по Perl (Частые вопросы, ЧаВо) | https://habrahabr.ru/post/80328/
+
+PSGI — интерфейс между web-серверами и web-приложениями на perl | https://habrahabr.ru/post/78377/
+
+Компиляция Perl под Windows | https://habrahabr.ru/post/78034/
+
+Конференция Saint Perl | https://habrahabr.ru/post/77844/
+
+Perl и GUI. Взаимодействие приложений | https://habrahabr.ru/post/74743/
+
+Флаеры в кино | https://habrahabr.ru/post/72108/
+
+Perl и GUI. Виджеты | https://habrahabr.ru/post/72075/
+
+Однострочные программы на Perl | https://habrahabr.ru/post/70610/
+
+Применение наследования в шаблонах Mason | https://habrahabr.ru/post/54290/
+
+Пример построения неблокирующего веб-приложения | https://habrahabr.ru/post/69890/
+
+Почти-web-сервер своими руками | https://habrahabr.ru/post/69411/
+
+Как поменять кодировку id3 меток в mp3 | https://habrahabr.ru/post/69360/
+
+Perl и GUI. Работа с меню | https://habrahabr.ru/post/68840/
+
+IPC::Open3. Решение проблемы с STDERR | https://habrahabr.ru/post/67712/
+
+Асинхронность в DBD::Pg | https://habrahabr.ru/post/67390/
+
+Интересная ошибка Perl-разработчика | https://habrahabr.ru/post/67143/
+
+Perl и GUI. Упаковка виджетов | https://habrahabr.ru/post/65774/
+
+Mojolicious::Lite | https://habrahabr.ru/post/65662/
+
+Perl и GUI. Работа с потоками | https://habrahabr.ru/post/65592/
+
+Модуль управления деревьями Nested Sets | https://habrahabr.ru/post/65495/
+
+Perl и GUI. Часть 1 | https://habrahabr.ru/post/65466/
+
+Perl и GUI. Сравнение тулкитов | https://habrahabr.ru/post/65433/
+
+Вышел Parrot 1.4.0 «Mundo Cani» | https://habrahabr.ru/post/65042/
+
+Perl — Отправляем файлы на сервер HTTP запросом | https://habrahabr.ru/post/63432/
+
+Moose(X). Продолжение | https://habrahabr.ru/post/59542/
+
+Ставим Perl на Apache, работающий под Windows. | https://habrahabr.ru/post/56065/
+
+Конференция YAPC::Russia 2009 «May Perl — 2» | https://habrahabr.ru/post/54298/
+
+Пара слов про UTF-8 | https://habrahabr.ru/post/53578/
+
+FastCGI-приложение на Perl. Часть третья. | https://habrahabr.ru/post/53540/
+
+Атрибуты: взгляд внутрь | https://habrahabr.ru/post/53455/
+
+Атрибуты: введение | https://habrahabr.ru/post/53451/
+
+FastCGI-приложение на Perl. Часть вторая. | https://habrahabr.ru/post/53206/
+
+FastCGI-приложение на Perl. Часть первая. | https://habrahabr.ru/post/52980/
+
+Корректное использование AUTOLOAD | https://habrahabr.ru/post/52532/
+
+Мучаем Last.fm и СDDB. | https://habrahabr.ru/post/51736/
+
+Украинский воркшоп «Перл мова» — 2009 | https://habrahabr.ru/post/51628/
+
+Вызов пользовательской функции в Perl из переменной | https://habrahabr.ru/post/49200/
+
+Чаще всего я пишу на Perl: | https://habrahabr.ru/post/43061/
+
+Почему корпорации ненавидят Perl? | https://habrahabr.ru/post/38014/
+
+Тестирование программ Perl для начинающих. Test:: Simple | https://habrahabr.ru/post/30626/
+
+Тестирование программ Perl для начинающих. Test Anything Protocol (TAP) | https://habrahabr.ru/post/30398/
+
+Тестирование программ Perl для начинающих. Введение | https://habrahabr.ru/post/30342/
+
+Perl все еще лучше PHP! | https://habrahabr.ru/post/29077/
+
+17—18 мая в Москве пройдёт конференция YAPC:: Russia 2008 «May Perl» | https://habrahabr.ru/post/24378/
+
+Руководство по использованию PDF:: API2 (Perl) для начинающих | https://habrahabr.ru/post/22040/
+
+Персональный OpenID сервер на Perl | https://habrahabr.ru/post/20864/
+
+Самовоспроизводящийся код. | https://habrahabr.ru/post/20575/
+
+Cache:: Memcached:: Fast 0.08 | https://habrahabr.ru/post/19263/
+
+С двадцатилетием тебя, Perl! | https://habrahabr.ru/post/17650/
+
+Правильный способ реализации таймеров и таймаутов. | https://habrahabr.ru/post/17156/
+
+Прощай, if $DEBUG! | https://habrahabr.ru/post/17126/
+
+Fork в приложениях использующих event loop | https://habrahabr.ru/post/17000/
+
+Что нового в Perl 5.10? | https://habrahabr.ru/post/16556/
+
+goto в CORE:: GLOBAL:: exit — где грабли? | https://habrahabr.ru/post/13681/
+
+Руководство по решению любой проблемы с Perl от brian d foy | https://habrahabr.ru/post/31223/
+
+Perl умер. Да здравствует Perl! | https://habrahabr.ru/post/31192/
+
+POE — portable multitasking and networking framework for Perl. | https://habrahabr.ru/post/12692/
+
+Как вызвать метод, которого нет | https://habrahabr.ru/post/12135/
+
+Сравнение способов присваивания в perl | https://habrahabr.ru/post/10817/
+
+Why Perl sucks? | https://habrahabr.ru/post/31074/
+
+Хабраперл | https://habrahabr.ru/post/53/
+

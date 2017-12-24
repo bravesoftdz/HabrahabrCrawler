@@ -1,0 +1,298 @@
+Vim как эзотерический язык для редактирования текста | https://habrahabr.ru/post/342562/
+
+Vim спустя 15 лет | https://habrahabr.ru/company/mailru/blog/340740/
+
+Киллерфича в vim — это режимы? Серьёзно? | https://habrahabr.ru/post/340376/
+
+Немного о VIM и IDE | https://habrahabr.ru/post/339988/
+
+Киллер фича Vim | https://habrahabr.ru/post/339908/
+
+Разработка на скорости 450 слов в минуту | https://habrahabr.ru/post/336600/
+
+Почему я до сих пор использую Vim? | https://habrahabr.ru/post/335364/
+
+Stack Overflow вывел из Vim уже больше миллиона пользователей | https://habrahabr.ru/company/everydaytools/blog/329514/
+
+Vim и переключение раскладок: о наболевшем | https://habrahabr.ru/post/321902/
+
+Упрощаем работу с русскими текстами в Sublime Text 3 + Vintage | https://habrahabr.ru/post/321776/
+
+История одного плагина | https://habrahabr.ru/post/316752/
+
+Семантический перенос строк | https://habrahabr.ru/post/307388/
+
+Почему, ну почему, эти #?@! придурки используют vi? | https://habrahabr.ru/post/307084/
+
+Текстовые редакторы vs IDE | https://habrahabr.ru/post/306048/
+
+Vim и IDE — это разные вещи | https://habrahabr.ru/post/304832/
+
+VIM: зачем, если есть IDE, и как? | https://habrahabr.ru/post/303554/
+
+Опыт перехода с Sublime на Vim | https://habrahabr.ru/post/303524/
+
+Humane VimScript: Инициализация редактора | https://habrahabr.ru/post/302752/
+
+Что нового в Vim 8 | https://habrahabr.ru/post/281521/
+
+Humane VimScript: минималистичная объектная ориентация | https://habrahabr.ru/post/278623/
+
+Oбновление Vim FileStyle | https://habrahabr.ru/post/267765/
+
+Навигация в крупных проектах для Vim и Emacs | https://habrahabr.ru/post/265635/
+
+Работа с цветом в vim | https://habrahabr.ru/post/265579/
+
+Vim как не IDE | https://habrahabr.ru/post/265441/
+
+Редактор или IDE? Очередная попытка анализа | https://habrahabr.ru/post/265197/
+
+Vim по полной: Библиотека, на которой все держится | https://habrahabr.ru/post/264351/
+
+Vim по полной: Тестирование с помощью xUnit | https://habrahabr.ru/post/264297/
+
+Vim по полной: Деплой | https://habrahabr.ru/post/263487/
+
+Vim по полной: Работа с Git | https://habrahabr.ru/post/261783/
+
+Vim по полной: Компиляция и выполнение чего угодно | https://habrahabr.ru/post/261179/
+
+Vim по полной: Snippets и шаблоны файлов | https://habrahabr.ru/post/260591/
+
+Vim по полной: Уровень проекта и файловая система | https://habrahabr.ru/post/259995/
+
+Vim по полной: Менеджер плагинов без фатальных недостатков | https://habrahabr.ru/post/259725/
+
+Vim по полной: Введение | https://habrahabr.ru/post/259701/
+
+Проверка Vim при помощи PVS-Studio в GNU/Linux | https://habrahabr.ru/company/pvs-studio/blog/253553/
+
+Еще один менеджер плагинов для Vim | https://habrahabr.ru/post/250525/
+
+Как я полюбил vim, Emacs и клавиатуру | https://habrahabr.ru/post/247789/
+
+Зачем vi-топор программисту 21-го века | https://habrahabr.ru/post/247487/
+
+Об удобной навигации и отладке C++ кода в Vim | https://habrahabr.ru/post/245681/
+
+Vim FileStyle: проверяем открытый файл на соответствие настройкам Vim | https://habrahabr.ru/post/245691/
+
+Настройка стартового экрана Vim | https://habrahabr.ru/post/239579/
+
+Зачем нужна мышь, если есть клавиатура? | https://habrahabr.ru/post/238483/
+
+Загружаемся в Vim или Vim c PID 1 | https://habrahabr.ru/post/237213/
+
+Упрощение жизни программиста с vim + vim-slime + tmux | https://habrahabr.ru/post/236981/
+
+Кнопка раздолбая и педалирование Vim | https://habrahabr.ru/post/235711/
+
+Педалируем Vim | https://habrahabr.ru/post/232177/
+
+Макросы в Vim — это просто | https://habrahabr.ru/post/230487/
+
+VIM как IDE для разработки на Python | https://habrahabr.ru/post/224979/
+
+Почему вам стоит использовать Vim | https://habrahabr.ru/post/224181/
+
+Храним пароли с помощью редактора vim | https://habrahabr.ru/post/222805/
+
+XKB: перенастроим клавиши под себя любимого | https://habrahabr.ru/post/222285/
+
+Использование Vim в качестве C/C++ IDE | https://habrahabr.ru/post/221267/
+
+Neovim: современный клон текстового редактора Vim | https://habrahabr.ru/post/213517/
+
+Плагин perl-support для vim | https://habrahabr.ru/post/208492/
+
+Vim-крокет | https://habrahabr.ru/post/211108/
+
+Как я классы в Vim писал | https://habrahabr.ru/post/210930/
+
+.vimrc для фронтендера | https://habrahabr.ru/post/206262/
+
+Обзор и настройка расширения Unite | https://habrahabr.ru/post/201564/
+
+Настраиваем Vim для работы с Python кодом | https://habrahabr.ru/post/196550/
+
+VIM, Windows, quickfix — борьба с кодировкой компилятора | https://habrahabr.ru/post/196470/
+
+Редкий язык — кодинг без IDE, но с удобством | https://habrahabr.ru/post/195620/
+
+Jedi — библиотека автодополнения для Python | https://habrahabr.ru/post/192610/
+
+Вышел Vim 7.4 | https://habrahabr.ru/post/189688/
+
+Vim-airline — новая строка статуса для Vim | https://habrahabr.ru/post/187588/
+
+Пока Vim пишет код за Вас… | https://habrahabr.ru/post/187290/
+
+Вышла бета‐версия Vim 7.4 | https://habrahabr.ru/post/185800/
+
+Настройка поддержки русского языка в GVim (windows) | https://habrahabr.ru/post/183222/
+
+Нормальная поддержка PHP в Ctags | https://habrahabr.ru/post/182252/
+
+Коаны Vim | https://habrahabr.ru/post/176187/
+
+Vim и переключение раскладки клавиатуры | https://habrahabr.ru/post/175709/
+
+Rusmode — решение проблемы с русской раскладкой | https://habrahabr.ru/post/174741/
+
+Настройка Vim для работы с Python и Django | https://habrahabr.ru/post/173473/
+
+Замена " на ' и обратно одним кликом | https://habrahabr.ru/post/172045/
+
+Консольный VIM в Windows | https://habrahabr.ru/post/170163/
+
+Продвинутая настройка VIM | https://habrahabr.ru/post/165723/
+
+Эффективная разработка игр и не только | https://habrahabr.ru/post/163317/
+
+Vim в Windows и переключение раскладки клавиатуры | https://habrahabr.ru/post/162483/
+
+Удобная разработка для OS Inferno в Vim | https://habrahabr.ru/post/162287/
+
+Плагин для записи процесса редактирования файла | https://habrahabr.ru/post/155837/
+
+Пишем плагин для поддержки cmake проектов под vim | https://habrahabr.ru/post/153873/
+
+Некоторые особенности VimL | https://habrahabr.ru/post/149919/
+
+Vim :bw, :bd, :bun, :quit, :close. Что со всем этим делать? | https://habrahabr.ru/post/149817/
+
+Vim на рабочий стол | https://habrahabr.ru/post/149220/
+
+Vundle. Менеджер плагинов для Vim | https://habrahabr.ru/post/148549/
+
+Vim | https://habrahabr.ru/post/147831/
+
+Vico мертв. Да здравствует Vico | https://habrahabr.ru/post/147661/
+
+VIM — жестокий и беспощадный | https://habrahabr.ru/post/146336/
+
+ТОП-10 подводных камней, на которые вы можете наткнуться при переходе на Vim | https://habrahabr.ru/post/143175/
+
+Играй и изучай VIM одновременно | https://habrahabr.ru/post/142777/
+
+VIM, Django… Django, VIM | https://habrahabr.ru/post/140164/
+
+Подсветка синтаксиса в VIM: полное погружение | https://habrahabr.ru/post/140161/
+
+Настройка наследования отступа для длинных строк | https://habrahabr.ru/post/138857/
+
+VimCommander: работаем с удалённой системой по ssh | https://habrahabr.ru/post/137170/
+
+Небольшой лайфхак с редактированием буфера обмена | https://habrahabr.ru/post/136849/
+
+Vim портирован на iOS | https://habrahabr.ru/post/136676/
+
+viewdoc — удобный доступ к любой документации | https://habrahabr.ru/post/136665/
+
+Цветовые схемы в Vim | https://habrahabr.ru/post/134194/
+
+Эффективное использование Vim | https://habrahabr.ru/post/131951/
+
+Продуктивная работа в vim с использованием snipMate | https://habrahabr.ru/post/125355/
+
+О заменах в Vim, использующих регулярные выражения | https://habrahabr.ru/post/119059/
+
+Pathogen. Организуем плагины | https://habrahabr.ru/post/116523/
+
+Плагины VIM о которых следует знать, часть 2: repeat.vim | https://habrahabr.ru/post/116422/
+
+Плагины VIM о которых следует знать, часть 1: surround.vim | https://habrahabr.ru/post/114813/
+
+Убираем лишние запятые из javascript-кода | https://habrahabr.ru/post/114435/
+
+Еще одна шпаргалка | https://habrahabr.ru/post/109613/
+
+Syntastic. Плагин для невнимательных и многоязычных | https://habrahabr.ru/post/108564/
+
+Автоматическая индексация файлов проекта | https://habrahabr.ru/post/102954/
+
+Вкладки | https://habrahabr.ru/post/102373/
+
+Плагин для Vim, который обеспечивает удобное переключение раскладки клавиатуры в X11 | https://habrahabr.ru/post/101935/
+
+Vim 7.3 вышел | https://habrahabr.ru/post/101884/
+
+Вышел Vim 7.3 public beta | https://habrahabr.ru/post/99598/
+
+Плагин для Vim, который обеспечивает удобное переключение раскладки клавиатуры в Mac OS X | https://habrahabr.ru/post/98756/
+
+Vim и кириллица: парочка приёмов | https://habrahabr.ru/post/98393/
+
+NERDTree: добавление/удаление файлов/папок в консольном vim | https://habrahabr.ru/post/82800/
+
+Автоматическое обновление плагинов* | https://habrahabr.ru/post/78828/
+
+VIM и JSLint | https://habrahabr.ru/post/75373/
+
+Vim. Одновременное изменение нескольких файлов. Развернутый пример с комментариями | https://habrahabr.ru/post/68249/
+
+Серия скринкастов по VIM | https://habrahabr.ru/post/67953/
+
+Vim и Visual Studio | https://habrahabr.ru/post/67151/
+
+Создание «умных» резервных копий редактируемых файлов | https://habrahabr.ru/post/66819/
+
+.vimrc, который всегда со мной | https://habrahabr.ru/post/65518/
+
+Выполняем sudo при записи | https://habrahabr.ru/post/64315/
+
+Настройка отступов в VIM | https://habrahabr.ru/post/64224/
+
+vim + psql | https://habrahabr.ru/post/64198/
+
+Делаем файлы сценариев исполняемыми | https://habrahabr.ru/post/63904/
+
+ropevim = vim + rope + python | https://habrahabr.ru/post/56025/
+
+VIM и twitter | https://habrahabr.ru/post/55051/
+
+Как vim затмение победил(ходим по функциям как в eclipse) | https://habrahabr.ru/post/54470/
+
+Vim как IDE для веб-разработки, и не только. | https://habrahabr.ru/post/53435/
+
+vim, и как сделать из него полноценную IDE. | https://habrahabr.ru/post/53241/
+
+Создаем свою подсветку синтаксиса | https://habrahabr.ru/post/42141/
+
+Устрой bug fix day | https://habrahabr.ru/post/40425/
+
+Умный make | https://habrahabr.ru/post/40369/
+
+html omnicomplete | https://habrahabr.ru/post/37766/
+
+Вышел Vim 7.2 | https://habrahabr.ru/post/36672/
+
+Очередной HowTo по Vim | https://habrahabr.ru/post/30173/
+
+Забудьте про свой редактор. Используйте Vim | https://habrahabr.ru/post/30058/
+
+Окно Vim на полный экран в Windows | https://habrahabr.ru/post/29410/
+
+Назначение имен заголовкам табов в Vim | https://habrahabr.ru/post/29373/
+
+Vim magic — Ввод символов, которых нет на клавиатуре | https://habrahabr.ru/post/29282/
+
+Vim magic — Регистры | https://habrahabr.ru/post/29058/
+
+Окна и буферы | https://habrahabr.ru/post/28572/
+
+Vim для программиста | https://habrahabr.ru/post/28362/
+
+Vim magic — Visual mode | https://habrahabr.ru/post/28190/
+
+Настоящее оборудование для Vi/Vim | https://habrahabr.ru/post/28185/
+
+Кодировки | https://habrahabr.ru/post/28181/
+
+Все немецкие дети должны делать это в vim | https://habrahabr.ru/post/28172/
+
+эффективное использование vim: «incredibly tips, part I» | https://habrahabr.ru/post/28155/
+
+эффективное использование vim: «from the very begining» | https://habrahabr.ru/post/28108/
+

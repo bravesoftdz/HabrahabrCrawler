@@ -1,0 +1,52 @@
+Как изучение Smalltalk может улучшить ваши навыки программиста | https://habrahabr.ru/post/328156/
+
+С днём рождения, Алан Кейǃ (или как получить +80 к IQ) | https://habrahabr.ru/company/edison/blog/300922/
+
+Выходу Dolphin Smalltalk 7 под Open Sourсe посвящается | https://habrahabr.ru/company/pvs-studio/blog/274909/
+
+Dolphin Smalltalk 7 выходит под open source лицензией MIT | https://habrahabr.ru/post/274289/
+
+Неизвестный Smalltalk | https://habrahabr.ru/company/flprog/blog/257611/
+
+Метаклассы в Smalltalk | https://habrahabr.ru/post/207982/
+
+Внутреннее устройство llst, часть 3. Магия JIT, или как ускорить виртуальную машину в 50 раз | https://habrahabr.ru/post/197474/
+
+Внутреннее устройство llst, часть 2 или Little Smalltalk + LLVM = ♥ | https://habrahabr.ru/post/191250/
+
+Откуда есть пошел xUnit | https://habrahabr.ru/post/170215/
+
+Разработчик Smalltalk для JVM собирает средства для завершения разработки версии 1.0 | https://habrahabr.ru/post/170413/
+
+Светский разговор об управляемой тестами выпечке | https://habrahabr.ru/post/168993/
+
+Ruby, SmallTalk и переменные класса | https://habrahabr.ru/post/167457/
+
+Внутреннее устройство llst, часть 1. Введение в Smalltalk | https://habrahabr.ru/post/164769/
+
+LLST: Новая жизнь Little Smalltalk | https://habrahabr.ru/post/164153/
+
+«Ровная» объектная модель или чего стоит «синтаксический сахар» | https://habrahabr.ru/post/149882/
+
+Алан Кей в мире компьютеров | https://habrahabr.ru/post/77316/
+
+Видеоматериал с семинара RSUG: Smalltalk в России | https://habrahabr.ru/post/74493/
+
+Заметка о синтаксисе Smalltalk | https://habrahabr.ru/post/72007/
+
+Squeak: Работа над ошибками | https://habrahabr.ru/post/56093/
+
+Seaside 2.9: Частичные продолжения | https://habrahabr.ru/post/55801/
+
+Как попробовать Smalltalk на вкус | https://habrahabr.ru/post/55797/
+
+Поиск методов в Squeak смолтоке | https://habrahabr.ru/post/55517/
+
+Martin Fowler — GUI Architectures. Часть 3 | https://habrahabr.ru/post/53920/
+
+Martin Fowler — GUI Architectures. Часть 2 | https://habrahabr.ru/post/53536/
+
+Io Language: Синтаксис | https://habrahabr.ru/post/28167/
+
+Io programming language | https://habrahabr.ru/post/28041/
+

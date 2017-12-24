@@ -1,0 +1,666 @@
+Настройка звука в Ubuntu | https://habrahabr.ru/post/343718/
+
+Как перетасовать песни? | https://habrahabr.ru/post/343482/
+
+Классификация звуков с помощью TensorFlow | https://habrahabr.ru/company/dataart/blog/343464/
+
+Парсер на PHP-коленке или как я свою музыкальную коллекцию пополнял | https://habrahabr.ru/post/343294/
+
+Обзор дефектов кода музыкального софта. Часть 5. Steinberg SDKs | https://habrahabr.ru/company/pvs-studio/blog/343252/
+
+Обзор дефектов кода музыкального софта. Часть 4. Ardour | https://habrahabr.ru/company/pvs-studio/blog/343002/
+
+Перевод и озвучка фильма дома — Indie Game: The Movie Special Edition | https://habrahabr.ru/post/341074/
+
+Обзор дефектов кода музыкального софта. Часть 3. Rosegarden | https://habrahabr.ru/company/pvs-studio/blog/340730/
+
+Исследование качества звука на SoundCloud | https://habrahabr.ru/post/340462/
+
+Обзор дефектов кода музыкального софта. Часть 2. Audacity | https://habrahabr.ru/company/pvs-studio/blog/339816/
+
+Обзор дефектов кода музыкального софта. Часть 1. MuseScore | https://habrahabr.ru/company/pvs-studio/blog/338808/
+
+Лучше один раз услышать чем семь раз прочитать | https://habrahabr.ru/post/331096/
+
+Как сделано интро на 64k | https://habrahabr.ru/post/330090/
+
+Как создать музыку для видеоигры | https://habrahabr.ru/post/324280/
+
+Простейшее управление компьютером при помощи голоса | https://habrahabr.ru/post/319564/
+
+Создание музыкальных интерфейсов | https://habrahabr.ru/company/everydaytools/blog/318800/
+
+Собираем свою библиотеку ударных инструментов для драм-машины Hydrogen + проекты в Ardour 4.6 | https://habrahabr.ru/post/311542/
+
+Светомузыка из BMW | https://habrahabr.ru/post/308170/
+
+Когда программные продукты общаются с нами, должны ли они быть дружелюбными | https://habrahabr.ru/post/303566/
+
+OFFF 2016 | https://habrahabr.ru/company/acronis/blog/303278/
+
+Хабразвук | https://habrahabr.ru/post/278915/
+
+Евклидов алгоритм генерации традиционных музыкальных ритмов | https://habrahabr.ru/post/278265/
+
+Цифровой звук: DSD vs PCM | https://habrahabr.ru/post/275613/
+
+9 советов по локализации аудио | https://habrahabr.ru/company/alconost/blog/273981/
+
+Распознавание речи с помощью CMU Sphinx | https://habrahabr.ru/post/267539/
+
+Мидирование синтезатора на примере Korg Monotron | https://habrahabr.ru/post/262651/
+
+Управление громкостью многозонного усилителя при помощи приложения для Android и Arduino | https://habrahabr.ru/post/259579/
+
+Создание входа AUX магнитоле Kenwood GX806EF2 захватом шины i2c | https://habrahabr.ru/post/259075/
+
+О передаче данных через аудиоразъём | https://habrahabr.ru/company/intel/blog/258495/
+
+Транзисторный усилитель класса А своими руками | https://habrahabr.ru/post/258507/
+
+USB MIDI-контроллер на Arduino | https://habrahabr.ru/post/257717/
+
+Бюджетный многозонный усилитель низкой частоты | https://habrahabr.ru/post/257003/
+
+Игровые наушники. Звук для геймеров. Звуковые иллюзии | https://habrahabr.ru/company/neuronspace/blog/253919/
+
+Программирование на PureData. Часть 1 | https://habrahabr.ru/post/252143/
+
+Оптимизация PhonoPaper с использованием инструментов Intel | https://habrahabr.ru/company/intel/blog/251701/
+
+Откуда есть пошел Animusic | https://habrahabr.ru/post/251883/
+
+Как мы делали сингл на Ubuntu Studio 14.04 | https://habrahabr.ru/post/250357/
+
+Музыка в KolibriOS: полный обзор и последние новинки | https://habrahabr.ru/company/kolibrios/blog/251371/
+
+Ламповый усилитель | https://habrahabr.ru/post/251087/
+
+Анализ алгоритмов аудиоаналитики | https://habrahabr.ru/company/synesis/blog/250935/
+
+Программирование на PureData. Часть 0 | https://habrahabr.ru/post/250321/
+
+Оборудование помещения для прослушивания музыки | https://habrahabr.ru/post/250247/
+
+Музыка как инфраструктура: выбор наушников | https://habrahabr.ru/post/250057/
+
+Слушаем птичек из 1905-ого года. Восстановление старых записей | https://habrahabr.ru/post/249451/
+
+Как мы делали Multitouch Table | https://habrahabr.ru/post/249399/
+
+Музыка как big data. Почему вместо качества звука надо задуматься об удобстве | https://habrahabr.ru/post/249389/
+
+Звук на чипе AY-3-8910 (или Yamaha YM2149F) родом с ZX Spectrum на PC через USB | https://habrahabr.ru/post/248115/
+
+Влияние кабелей на параметры систем «усилитель-АС» и «микрофон-микшер» | https://habrahabr.ru/post/248497/
+
+Сказ о разработке активной беспроводной акустической системы HiFi. Ио. Часть_1 | https://habrahabr.ru/post/248305/
+
+Достойный встраиваемый цифровой усилитель НЧ своими руками за разумные деньги | https://habrahabr.ru/company/masterkit/blog/245341/
+
+Простой встраиваемый усилитель НЧ на микросхеме с FM приемником на основе Arduino | https://habrahabr.ru/company/masterkit/blog/245517/
+
+Перевод и озвучка фильма дома: Хокинг. Моя краткая история | https://habrahabr.ru/post/245187/
+
+VoiceFabric: технология синтеза речи из облака | https://habrahabr.ru/company/speechpro/blog/244663/
+
+Как собрать студию для съемки видео c минимальными затратами и за три дня | https://habrahabr.ru/company/besmart/blog/244291/
+
+Медиаплеер для переводчиков — feci quod potui | https://habrahabr.ru/post/244141/
+
+Приставка MIDI для синтезатора (taptempo) | https://habrahabr.ru/post/243971/
+
+Как восстановить ретрозвук? Работа аудиоархеологов из Саутгемптона | https://habrahabr.ru/post/242233/
+
+Как мы озвучивали стадион «Спартака» | https://habrahabr.ru/company/croc/blog/241305/
+
+Найти и сохранить: как спасти музыку, скупая все виниловые пластинки мира | https://habrahabr.ru/company/audiomania/blog/240695/
+
+Шоу Звук #18 — Подкаст об аудиотехнике, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/240705/
+
+Шоу Звук #17 — Подкаст об аудиотехнике, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/238651/
+
+Исключительно под ваши уши: печать наушников на 3D-принтере | https://habrahabr.ru/company/audiomania/blog/238135/
+
+Шоу Звук #16 — Подкаст об аудиотехнике, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/237305/
+
+Модульные аналоговые синтезаторы | https://habrahabr.ru/post/236703/
+
+Слух: наука и искусство | https://habrahabr.ru/company/audiomania/blog/236463/
+
+Нужен ли голос видеороликам | https://habrahabr.ru/company/alconost/blog/236157/
+
+Виброрезонансный синтез звука | https://habrahabr.ru/post/235835/
+
+Визуализация музыки: от традиционных подходов к современным интерфейсам | https://habrahabr.ru/company/audiomania/blog/235339/
+
+Шоу Звук #15 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/234813/
+
+Бюджетная многокамерная FullHD видеосъёмка концерта своими руками | https://habrahabr.ru/post/234437/
+
+Музыкальная многозадачность. Часть 2: почему музыка должна быть всегда и всюду | https://habrahabr.ru/company/audiomania/blog/234261/
+
+Шоу Звук #14 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/233721/
+
+Руководство по выбору оборудования для подкастов от Дэна Бенжамина | https://habrahabr.ru/company/audiomania/blog/233317/
+
+Перспективы развития систем распознавания речи (выдержка из исследования) | https://habrahabr.ru/post/232613/
+
+Слушать музыку или нет – вот в чем вопрос | https://habrahabr.ru/company/audiomania/blog/232595/
+
+Исследователи восстановили звук из колебаний предметов на видеозаписи | https://habrahabr.ru/post/232245/
+
+Создание аудиоплагинов, часть 15 | https://habrahabr.ru/post/231923/
+
+Шоу Звук #13 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/231715/
+
+Создание аудиоплагинов, часть 13 | https://habrahabr.ru/post/228267/
+
+Как Sony делает звук высокой четкости мейнстримом | https://habrahabr.ru/company/audiomania/blog/230163/
+
+Шоу Звук #12 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/230187/
+
+Ищем мелодию по фрагменту | https://habrahabr.ru/post/229937/
+
+Влияние технологий на среднюю длину песен | https://habrahabr.ru/post/229675/
+
+Sound Blaster ROAR: Boombox XXI века | https://habrahabr.ru/post/229391/
+
+История компании Westone | https://habrahabr.ru/post/228033/
+
+Шоу Звук #11 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/228571/
+
+Шумопонижение в CMU Sphinx | https://habrahabr.ru/post/227099/
+
+Создание аудиоплагинов, часть 10 | https://habrahabr.ru/post/227601/
+
+Разница между «включил музыку фоном» и «слушаю музыку» | https://habrahabr.ru/company/audiomania/blog/227319/
+
+Качество vs. кайф: что на самом деле важно в аудиотехнике? | https://habrahabr.ru/post/227033/
+
+Создание аудиоплагинов, часть 8 | https://habrahabr.ru/post/226823/
+
+Большое Ухо или «Почему глухой должен быть немым?» | https://habrahabr.ru/post/226623/
+
+Аналоговое становится все более цифровым | https://habrahabr.ru/post/226203/
+
+Сверхбюджетная звуковая система школы | https://habrahabr.ru/post/225983/
+
+Создание аудиоплагинов, часть 5 | https://habrahabr.ru/post/225755/
+
+Сочинение и обработка музыки с помощью Haskell | https://habrahabr.ru/post/225499/
+
+Звуковая карта как последовательный порт | https://habrahabr.ru/post/224169/
+
+Шоу Звук #10 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/223681/
+
+Samsung выпускает новую серию мобильных аудиоустройств Samsung Level | https://habrahabr.ru/company/samsung/blog/223623/
+
+Создавай музыку из чего угодно | https://habrahabr.ru/company/telebreeze/blog/222935/
+
+Задача изменения голоса. Часть 3. Прикладные модели представления речевого сигнала: LPC | https://habrahabr.ru/company/ifree/blog/222173/
+
+О недостатках современных синтезаторов и как с ними бороться | https://habrahabr.ru/post/221831/
+
+Шоу Звук #9 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/221053/
+
+Интернет-радио с множеством ведущих из разных городов и звонками в прямом эфире | https://habrahabr.ru/post/220123/
+
+2500 бунзеновских горелок и визуализация звуковых волн | https://habrahabr.ru/post/220159/
+
+Печать и воспроизведение звука на бумаге | https://habrahabr.ru/post/220061/
+
+Качество транспонирования сэмплов в инструментах Ableton Live 8 и бесплатных плагинах | https://habrahabr.ru/post/219437/
+
+Звук на чипе AY-3-8910 (или Yamaha YM2149F) родом с ZX Spectrum на PC через LPT-порт | https://habrahabr.ru/post/218763/
+
+Шоу Звук #8 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/218779/
+
+Перевод и озвучание ролика MARS ONE WAY | https://habrahabr.ru/post/217183/
+
+Шоу Звук #7 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/216481/
+
+Data Mining в музыке. Определяем музыкальный инструмент при помощи Деревьев Классификации | https://habrahabr.ru/post/216467/
+
+Можно ли измерить качество звука? | https://habrahabr.ru/company/audiomania/blog/215995/
+
+Использование DSP звуковой платы SB Live! на пользу радиолюбителей (KX Driver's) — Часть [2/2] | https://habrahabr.ru/post/215099/
+
+Использование DSP звуковой платы SB Live! на пользу радиолюбителей (KX Driver's) — Часть [1/2] | https://habrahabr.ru/post/214755/
+
+Шоу Звук #6 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/214827/
+
+Шоу Звук #1-5 — Подкаст об аудиотехнике, комплектующих, форматах и технологиях | https://habrahabr.ru/company/audiomania/blog/214015/
+
+Установка VLC Player нарушает гарантию динамиков в ноутбуке Dell | https://habrahabr.ru/post/212091/
+
+Оона Ряйсянен определила GPS-координаты вертолёта по звуку с Youtube | https://habrahabr.ru/post/211128/
+
+Задача изменения голоса. Часть 2. Физический/акустический подход к представлению речевого сигнала | https://habrahabr.ru/company/ifree/blog/210646/
+
+Управляемая акустическая левитация: еще один пример | https://habrahabr.ru/post/208188/
+
+Предновогодний Creative | https://habrahabr.ru/post/207806/
+
+Станиславский для робота. Как использовать возможности эмоционального синтеза | https://habrahabr.ru/company/speechpro/blog/207536/
+
+McLaren заменит щётки стеклоочистителей силовым полем из звуковых волн | https://habrahabr.ru/post/206310/
+
+Как мы создавали сингл на Ubuntu Studio 13.10 | https://habrahabr.ru/post/206204/
+
+Задача изменения голоса. Часть 1. Что такое голос? | https://habrahabr.ru/company/ifree/blog/203946/
+
+Краткая история дискретных мультимедийных аудиокарт | https://habrahabr.ru/post/203538/
+
+Подготовка видео для звукового дизайна. Какой кодек выбрать | https://habrahabr.ru/post/203396/
+
+Elektron Octatrack – подробности | https://habrahabr.ru/post/202772/
+
+Внутриканальные наушники: все о них | https://habrahabr.ru/post/202276/
+
+ShotSpotter: система акустического наблюдения в Washington, DC локализовала 39000 выстрелов с 2006 года | https://habrahabr.ru/post/200850/
+
+Создание музыки для War Thunder: Начало | https://habrahabr.ru/post/197790/
+
+Elektron Octatrack DPS-1 — первые впечатления | https://habrahabr.ru/post/197622/
+
+Колонка Viks VS-BT10 как решение детско-родительских музыкальных проблем | https://habrahabr.ru/company/smartgadget/blog/197568/
+
+Процедурное аудио | https://habrahabr.ru/post/196130/
+
+А много ли дроны дают молока? Приёмы обратной разработки в звуковом дизайне | https://habrahabr.ru/post/194670/
+
+Подкаст на миллион. История успеха и пошаговое руководство | https://habrahabr.ru/post/194420/
+
+Ломаем стереотипы: Женская озвучка World of Tanks | https://habrahabr.ru/post/194358/
+
+Работа над авторским озвучанием World of Tanks | https://habrahabr.ru/post/193628/
+
+TX16Wx — В поисках идеального сэмплера | https://habrahabr.ru/post/191134/
+
+Как записать электрогитару в Cubase 5 | https://habrahabr.ru/post/189262/
+
+Передача звука через картинки в соцсетях | https://habrahabr.ru/post/187166/
+
+Coursera для музыкантов: краткий обзор курсов | https://habrahabr.ru/post/185794/
+
+Новый вид аудио-рекламы — трансляция звука прямо в голову | https://habrahabr.ru/post/185620/
+
+Ещё немного автоматической генерации музыки | https://habrahabr.ru/post/185606/
+
+Подробный разбор аудиоэффектов Premiere Pro CS6 Часть 1/3 | https://habrahabr.ru/post/184018/
+
+Cowon D20 — наследник легендарного D2+ | https://habrahabr.ru/company/boxowerview/blog/173603/
+
+О знакомстве с «арматурным» звуком на примере Rock It Sounds R-20 | https://habrahabr.ru/company/boxowerview/blog/183446/
+
+Автокомпозитор мелодий Muzz | https://habrahabr.ru/post/184672/
+
+Речевые технологии. Распознавание слитной речи для чайников на примере IVR систем | https://habrahabr.ru/company/speechpro/blog/184832/
+
+Общественное обсуждение проекта ГОСТ по компрессии оцифрованных аудиоданных | https://habrahabr.ru/company/nordavind/blog/181922/
+
+Работа со звуком в Adobe Premiere Pro CS 6 | https://habrahabr.ru/post/183844/
+
+Музыкальные репетиции: теперь и через интернет | https://habrahabr.ru/post/183850/
+
+Загрузка заблокированных аудиозаписей в «ВКонтакте» | https://habrahabr.ru/post/183554/
+
+Системы акустического наблюдения | https://habrahabr.ru/company/nordavind/blog/183166/
+
+Технология «рисованного звука»: cинтез звука в СССР 30-х годов XX века | https://habrahabr.ru/post/182778/
+
+Как Яндекс распознаёт музыку с микрофона | https://habrahabr.ru/company/yandex/blog/181219/
+
+Видеоклип на песню Дэвида Боуи, снятый на борту МКС, стал хитом Youtube | https://habrahabr.ru/post/180073/
+
+В Сети появилась 128-летняя запись голоса Александра Белла | https://habrahabr.ru/post/178023/
+
+Недорогие IEM`ы с отличным звуком от SoundMAGIC (модели E10 и PL30) | https://habrahabr.ru/company/boxowerview/blog/173781/
+
+Обзор недорогих внутриканальных наушников SoundMAGIC (модели ES18 и PL11) | https://habrahabr.ru/company/boxowerview/blog/174827/
+
+Как я нашел наушники с Hi-Fi звуком по цене до 20$ | https://habrahabr.ru/post/175805/
+
+Извлечение звука из фотографий пластинок | https://habrahabr.ru/post/175695/
+
+О применении CMTime | https://habrahabr.ru/post/173897/
+
+Бейсболка-сонар для слабовидящих | https://habrahabr.ru/post/173585/
+
+19 команд ffmpeg для любых нужд | https://habrahabr.ru/post/171213/
+
+Как мы озвучили храм | https://habrahabr.ru/company/croc/blog/171147/
+
+В Google Chrome появятся индикаторы уровня звука в каждой вкладке | https://habrahabr.ru/post/170713/
+
+Обзор внешнего усилителя/ЦАПа FiiO E10 OLYMPUS | https://habrahabr.ru/company/boxowerview/blog/165481/
+
+«Лишние» записи в MIDI, или Как разработчики ПО соблюдают стандарты | https://habrahabr.ru/post/167087/
+
+Фишки youtube: распознавание речи (в текст), автоматические субтитры | https://habrahabr.ru/post/166949/
+
+Программируем AGC (авторегулятор громкости) на VB.Net | https://habrahabr.ru/post/166441/
+
+История реверс-инжиниринга одного пушистого зверька | https://habrahabr.ru/post/166377/
+
+«Как сделать так, чтоб канало» или запись и сведение: максимум из минимума | https://habrahabr.ru/post/165439/
+
+Где же ты, плеер мечты для Android? | https://habrahabr.ru/company/alconost/blog/165047/
+
+Печать грампластинок на 3D-принтере | https://habrahabr.ru/post/163525/
+
+Разработка израильских ученых позволит слепым «видеть» как летучие мыши | https://habrahabr.ru/post/160829/
+
+DJ контроллер | https://habrahabr.ru/post/160383/
+
+Любительское видео фотокамерой | https://habrahabr.ru/post/160075/
+
+Обзор беспроводной аудиосистемы Samsung DA-E750 | https://habrahabr.ru/company/samsung/blog/159873/
+
+«Звук мне в уши», или пять компьютерных гарнитур: обзор и сравнение | https://habrahabr.ru/post/159643/
+
+Гитарные табулатуры 2.0 | https://habrahabr.ru/post/159165/
+
+Как Вы предпочитаете слушать подкасты: с фоновым музыкальным сопровождением или без него? | https://habrahabr.ru/post/158657/
+
+Apple продаёт гитары Stratocaster за 199.95$ | https://habrahabr.ru/post/158633/
+
+Microsoft показывает почти мгновенный перевод с английского языка на китайский | https://habrahabr.ru/post/157981/
+
+Контроллер ShuttlePRO v2 от Contour Design: Обзор, назначение и первые впечатления от использования | https://habrahabr.ru/post/157657/
+
+Ученые воссоздали аудиозапись 134-летней давности | https://habrahabr.ru/post/156231/
+
+Philips CitiScape с плоским кабелем: Наушники, которые не путаются-2 | https://habrahabr.ru/post/151946/
+
+HiFiMAN HM-801: большой звук в кармане | https://habrahabr.ru/post/151957/
+
+Обзор бюджетных аудиофильских наушников | https://habrahabr.ru/post/151743/
+
+Чем заменить гарнитуру? Обзор стильных наушников | https://habrahabr.ru/post/151651/
+
+Philips THE SPECKED с плетеным кабелем: Наушники, которые не путаются? | https://habrahabr.ru/post/150877/
+
+Подсчёт md5-хэша для mp3-файла | https://habrahabr.ru/post/150715/
+
+Слушаешь ли ты музыку во время работы? | https://habrahabr.ru/post/149917/
+
+Android-докстанция Philips Fidelio или аудиосистема для телефона | https://habrahabr.ru/post/148746/
+
+Скрытые послания в музыке | https://habrahabr.ru/post/148655/
+
+Превращение шума в музыку: эволюционный алгоритм + краудсорсинг | https://habrahabr.ru/post/146423/
+
+Стримим радиоэфир или полицейская волна онлайн | https://habrahabr.ru/post/145973/
+
+Визуализация звука без компьютера | https://habrahabr.ru/post/145076/
+
+TDS и MLS методики оценок импульсных характеристик | https://habrahabr.ru/post/144625/
+
+Описания аудиоредакторов под Windows. Часть 1 | https://habrahabr.ru/post/143733/
+
+Я не понимаю, как они делают это, часть 2 | https://habrahabr.ru/post/143622/
+
+Тэги vs папки: взгляд со стороны | https://habrahabr.ru/post/141930/
+
+Подготовка материала к сведению и балансировка | https://habrahabr.ru/post/141908/
+
+Способы улучшения звучания инструментов используя технологию Layering | https://habrahabr.ru/post/141859/
+
+EQализация: устранение частотных конфликтов | https://habrahabr.ru/post/141730/
+
+Mixlr — сервис для музыкальных трансляций | https://habrahabr.ru/post/141625/
+
+Microsoft разрабатывает универсальный голосовой переводчик | https://habrahabr.ru/post/139877/
+
+MIDI и OSC — основные протоколы взаимодействия музыкальных приложений | https://habrahabr.ru/post/139226/
+
+Кодек Full-HD Voice для мобильных сетей | https://habrahabr.ru/post/138880/
+
+Упорядочивание аудиотеки. Практические советы | https://habrahabr.ru/post/137933/
+
+Создаем менеджер пресетов в PureData | https://habrahabr.ru/post/137019/
+
+Аудио микшер из двух и более звуковых карт на realtime Linux и Reaper | https://habrahabr.ru/post/135835/
+
+OpenMPT-программа, которая меня удивила | https://habrahabr.ru/post/135237/
+
+FM-синтезатор на WolframAlpha | https://habrahabr.ru/post/133165/
+
+Управление воспроизведением музыки с помощью кулера | https://habrahabr.ru/post/133145/
+
+MPD, домашнее аудиохранилище | https://habrahabr.ru/post/132573/
+
+Поиск талантов на Youtube методом акустического анализа | https://habrahabr.ru/post/132092/
+
+Математик сочинил «самую неприятную музыку в мире» | https://habrahabr.ru/post/132010/
+
+Принцип цикады в музыке или магия простых чисел (на примере PureData) | https://habrahabr.ru/post/131973/
+
+Делаем степ-секвенсор с помощью Max4Live | https://habrahabr.ru/post/131815/
+
+Измерение разборчивости речи: модуляционный подход | https://habrahabr.ru/post/130682/
+
+Секвенсор для полиритмов в Max/MSP | https://habrahabr.ru/post/130536/
+
+Программирование музыки на Лиспе | https://habrahabr.ru/post/130114/
+
+Измерение разборчивости речи: формантный подход | https://habrahabr.ru/post/128213/
+
+Гитара, компьютер, live (part 3: Cantabile Performer, обзор основных функций: rack и sub-session) | https://habrahabr.ru/post/128093/
+
+Гитара, компьютер, live (part 2: Guitar Rig4) | https://habrahabr.ru/post/128036/
+
+Гитара, компьютер, live (part 1: amplitube 3) | https://habrahabr.ru/post/127950/
+
+Max/MSP: обзорная статья | https://habrahabr.ru/post/127972/
+
+AviSynth + VirtualDub: Извлекаем аудио в командной строке | https://habrahabr.ru/post/127582/
+
+Sound Design в Cubase 5 | https://habrahabr.ru/post/127214/
+
+Основы саунддизайна: киберпанк в Древнем Египте | https://habrahabr.ru/post/126230/
+
+Измерение разборчивости речи: субъективные методы | https://habrahabr.ru/post/127064/
+
+Программная генерация звуков | https://habrahabr.ru/post/126835/
+
+Distortion (waveshaping) эффекты в Max/MSP | https://habrahabr.ru/post/126486/
+
+Устройство интернет-радиостанции | https://habrahabr.ru/post/120014/
+
+Пишем электронную музыку. VSTi синтезаторы | https://habrahabr.ru/post/126050/
+
+Инструкция для начинающих музыкантов | https://habrahabr.ru/post/125881/
+
+Введение в SuperCollider | https://habrahabr.ru/post/123133/
+
+EchoPrint — открытая система распознавания музыки | https://habrahabr.ru/post/122969/
+
+ChucK — программируем звук | https://habrahabr.ru/post/120145/
+
+Обзор онлайн редакторов звука и секвенсеров | https://habrahabr.ru/post/118880/
+
+Как я веду прямые эфиры на интернет-радиостанции | https://habrahabr.ru/post/118667/
+
+Музыкальная подсветка коллекции оптических стекол | https://habrahabr.ru/post/118618/
+
+Кодирование аудио с потерями. Что к чему? | https://habrahabr.ru/post/118454/
+
+Поехали! | https://habrahabr.ru/post/117255/
+
+Как вернуть качественный звук в Windows 7 — побитовый вывод, аппаратные эффекты (EAX и пр.) | https://habrahabr.ru/post/115092/
+
+Apple уговаривает лейблы повысить разрядность до 24 бит | https://habrahabr.ru/post/114332/
+
+Плазменное радио | https://habrahabr.ru/post/113969/
+
+Принимаем звонки с мобильного телефона в эфир студенческой радиостанции | https://habrahabr.ru/post/111302/
+
+Как создать свой Sound Production — или обзор бюджетного Ноmе Studio | https://habrahabr.ru/post/111229/
+
+Native Instruments Reaktor: синтез пилообразных, квадратных, треугольных и синусоидальных волн | https://habrahabr.ru/post/110936/
+
+Бюджет домашней студии | https://habrahabr.ru/post/110721/
+
+Hi-Fi в цифровой век. Часть 2 | https://habrahabr.ru/post/109969/
+
+Hi-Fi в цифровой век. Часть 1 | https://habrahabr.ru/post/109901/
+
+Обзор цифровой аудиостанции Cockos REAPER | https://habrahabr.ru/post/109851/
+
+Rock Music Inside | https://habrahabr.ru/post/109817/
+
+1-битная симфония Тристана Перича | https://habrahabr.ru/post/107393/
+
+Мой первый день с Jabra BT3030 | https://habrahabr.ru/post/105935/
+
+Запись и сведение в условиях отсутствия денег | https://habrahabr.ru/post/105464/
+
+Проблемы «лайва» | https://habrahabr.ru/post/105345/
+
+Myna — онлайн аудио редактор | https://habrahabr.ru/post/101915/
+
+Забытая музыка или немного о Nokia 3310, PC-Seaker’е и генерации MIDI файлов (ч1) | https://habrahabr.ru/post/100581/
+
+Учёные безуспешно пытаются синтезировать смех | https://habrahabr.ru/post/100067/
+
+Американцы обеспокоены цифровыми наркотиками | https://habrahabr.ru/post/99399/
+
+Музыкант в костюме Скорпиона играет тему Mortal Kombat на баяне | https://habrahabr.ru/post/98819/
+
+Легенда компьютерной музыки | https://habrahabr.ru/post/97482/
+
+Вувузела фильтр | https://habrahabr.ru/post/96700/
+
+Автомобильная аудиосистема из 62 колонок | https://habrahabr.ru/post/96718/
+
+Транслируйте вашу музыку в любую точку земли и делитесь ей с друзьями | https://habrahabr.ru/post/96625/
+
+Приятная музыкальная находка — сервис «Rock Baby!» | https://habrahabr.ru/post/93167/
+
+Отдыхаем от монитора: как собрать группу и играть музыку | https://habrahabr.ru/post/92994/
+
+Обработка гитарного звука в реальном времени на ПК | https://habrahabr.ru/post/91876/
+
+Экстремальное кодирование аудио | https://habrahabr.ru/post/89885/
+
+Blackstar — такой hip-hop нам нужен! | https://habrahabr.ru/post/88348/
+
+The Engadget Show: Взгляд на чиптюн и визуализацию изнутри | https://habrahabr.ru/post/87573/
+
+Обзор редакторов ID3 тэгов в Mac OS X | https://habrahabr.ru/post/85321/
+
+Обзор midi-контроллера за 60 долларов | https://habrahabr.ru/post/85243/
+
+Небольшой обзор веб-радио сервисов и интернет плееров | https://habrahabr.ru/post/84156/
+
+Конвертация музыки в формат FLAC с использованием CUDA | https://habrahabr.ru/post/83787/
+
+Приводим фонотеку в iTunes на нашем Mac OS в порядок | https://habrahabr.ru/post/82943/
+
+Создатели MP3 бросают вызов Apple iTunes | https://habrahabr.ru/post/82023/
+
+Чиптюн — что это такое, и с чем его едят — часть первая | https://habrahabr.ru/post/81346/
+
+Микро-обзор Fabfilter Micro | https://habrahabr.ru/post/81251/
+
+Стивен Хокинг и Карл Саган в музыке | https://habrahabr.ru/post/80230/
+
+Создание треков «Smack My Bitch Up» и «Voodoo People» в Ableton | https://habrahabr.ru/post/80151/
+
+My Hi-Fi PC | https://habrahabr.ru/post/79357/
+
+CUEgenerator | https://habrahabr.ru/post/77948/
+
+TrackID | https://habrahabr.ru/post/76401/
+
+Диджеинг в Ableton Live. Часть 2. Дератизация | https://habrahabr.ru/post/74021/
+
+Visionsonic 2009 | https://habrahabr.ru/post/73804/
+
+Создание dubstep баса в Logic 8 (ES2) | https://habrahabr.ru/post/73450/
+
+Korg Wavedrum WD-X ( Dynamic Percussion Synthesizer) | https://habrahabr.ru/post/73446/
+
+Ноутбук для меломанов от HP и Dr. Dre | https://habrahabr.ru/post/72255/
+
+Сделай бочку! | https://habrahabr.ru/post/72229/
+
+BSkyB запускает конкурента iTunes и Spotify | https://habrahabr.ru/post/72163/
+
+Советы начинающему композитору | https://habrahabr.ru/post/72103/
+
+Воспроизведение речи на пианино | https://habrahabr.ru/post/71792/
+
+MP3-плееры станут в 100 раз тише | https://habrahabr.ru/post/70840/
+
+Своя музыка — всюду, где есть интернет | https://habrahabr.ru/post/70727/
+
+«Faith and Heart» — онлайн-релиз от Knowing Existence | https://habrahabr.ru/post/70563/
+
+Чудо селекции — Traktor + Ableton | https://habrahabr.ru/post/70416/
+
+Пятничный джаз. Join us | https://habrahabr.ru/post/70028/
+
+Пятничный джаз. Join us | https://habrahabr.ru/post/69350/
+
+Хабр, i need help | https://habrahabr.ru/post/68432/
+
+Видео, которое связано с IT | https://habrahabr.ru/post/67327/
+
+OTTO | https://habrahabr.ru/post/64806/
+
+Медиатека и порядок | https://habrahabr.ru/post/64437/
+
+Photosounder: редактирование сонограммы | https://habrahabr.ru/post/64227/
+
+Лучшее видео, которое я видел сегодня, заставит вас улыбаться | https://habrahabr.ru/post/63309/
+
+Устаревшие теги MP3 | https://habrahabr.ru/post/62867/
+
+Оpen air своими руками | https://habrahabr.ru/post/62311/
+
+Wii-джеинг | https://habrahabr.ru/post/61827/
+
+Обращение к читателям | https://habrahabr.ru/post/61104/
+
+Windows 7 с точки зрения музыканта | https://habrahabr.ru/post/60505/
+
+Propellerheads… Record!!! | https://habrahabr.ru/post/60522/
+
+Мини-обзор музыкального ПО под nix-системы | https://habrahabr.ru/post/59815/
+
+Вышла публичная FL Studio 8.5 beta 3 | https://habrahabr.ru/post/59791/
+
+Гармоническое сведение | https://habrahabr.ru/post/59261/
+
+Диджеинг в Ableton Live | https://habrahabr.ru/post/56826/
+
+Monster Cable против вешалки: победила дружба | https://habrahabr.ru/post/55666/
+
+Начало пути — Часть 6. Основы сведения и мастеринга. | https://habrahabr.ru/post/54101/
+
+Начало пути — Часть 5. Терминология. | https://habrahabr.ru/post/53593/
+
+Начало пути — Часть 4. Аппаратные решения (Часть 2). | https://habrahabr.ru/post/52918/
+
+FL Studio – путь джедая (Часть 1). | https://habrahabr.ru/post/53124/
+
+Начало пути — Часть 3. Незапланированная. | https://habrahabr.ru/post/52689/
+
+Начало пути — Часть 2. Аппаратные решения (Часть 1). | https://habrahabr.ru/post/52069/
+
+Acoustica Mixcraft — искусство не требует жертв | https://habrahabr.ru/post/52224/
+
+Начало пути — Часть 1. Программные решения. | https://habrahabr.ru/post/51992/
+
+Открытие блога «Звук и Музыка» | https://habrahabr.ru/post/51826/
+
+AutoTranscoder — транскодирование из MP3 в Ogg Vorbis для портатива | https://habrahabr.ru/post/51636/
+
+Манипуляции с аудио, как с MIDI | https://habrahabr.ru/post/45868/
+
+Запись и обработка акапеллы | https://habrahabr.ru/post/44668/
+

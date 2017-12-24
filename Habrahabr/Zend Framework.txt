@@ -1,0 +1,292 @@
+Готовимся к собеседованию по PHP: Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур и не побоялись узнать | https://habrahabr.ru/post/328890/
+
+Организация большого проекта на Zend Framework 2/3 | https://habrahabr.ru/company/englishdom/blog/328550/
+
+«Runn Me!» — говорит нам очередной фреймворк* на PHP. А слышится «Throw Me!». Часть 2 | https://habrahabr.ru/post/328080/
+
+Уточка говорит «кря-кря», коровка говорит «му-му», «Runn Me!» — говорит нам очередной фреймворк* на PHP. Часть 1 | https://habrahabr.ru/post/326960/
+
+Держите данные под контролем | https://habrahabr.ru/post/306452/
+
+Обновление PHP до 7.0.6 может «сломать» ваш код | https://habrahabr.ru/post/283302/
+
+Мультиисключение или Хочу поделиться одним интересным архитектурным приемом | https://habrahabr.ru/post/279501/
+
+Приобретение Zend пока еще ничего не значит | https://habrahabr.ru/post/269125/
+
+ZF2 + Blitz templates | https://habrahabr.ru/post/268191/
+
+DevConf::PHP уже в эту пятницу — программа сформирована, в кулуарах расскажем как переносили сайт конференции на Laravel 5 | https://habrahabr.ru/company/devconf/blog/260347/
+
+Взгляды на Zend PHP Certification | https://habrahabr.ru/post/259765/
+
+Не мамонт ли Вы? (пятничный тест; который ложь, да в ней намек) | https://habrahabr.ru/post/258567/
+
+Zend Certification. Не так страшен черт | https://habrahabr.ru/post/252199/
+
+Анонсирован Zend Framework 3 Roadmap | https://habrahabr.ru/post/248609/
+
+Zend Framework 2: Service Manager | https://habrahabr.ru/post/241471/
+
+Подводные камни при системном тестировании модулей под Magento | https://habrahabr.ru/post/215025/
+
+Хелпер объединяющий скрипты и стили в один файл для старичка ZF1 | https://habrahabr.ru/post/212897/
+
+RESTful Api используя Zend framework 2 | https://habrahabr.ru/post/199502/
+
+Разбор URL в Zend Framework 2 | https://habrahabr.ru/post/198614/
+
+Пример разработки блога на Zend Framework 2. Часть 3. Работа с пользователями | https://habrahabr.ru/post/192726/
+
+Пример разработки блога на Zend Framework 2. Часть 2. Модуль MyBlog | https://habrahabr.ru/post/192608/
+
+Пример разработки блога на Zend Framework 2. Часть 1. ZendSkeletonApplication | https://habrahabr.ru/post/192522/
+
+ZendFramework + Bitrix | https://habrahabr.ru/post/187382/
+
+Кастомизация каптчи в Zend Framework 2 | https://habrahabr.ru/post/183232/
+
+… | https://habrahabr.ru/post/182128/
+
+ZF2: Получить db adapter без использования service locator | https://habrahabr.ru/post/175523/
+
+HOWTO: Одна из возможных реализация Модели (MVC) в Zend Framework | https://habrahabr.ru/post/169537/
+
+MVC система в Zend Framework 2 | https://habrahabr.ru/post/166657/
+
+Храним ID в Cookie | https://habrahabr.ru/post/166641/
+
+Zend Framework: XSL и самостоятельная сериализация Views | https://habrahabr.ru/post/166631/
+
+ZFTool, командная строка для ZF2 | https://habrahabr.ru/post/166385/
+
+ZF2 ActiveRecord Module | https://habrahabr.ru/post/159941/
+
+Пишем CLI модуль для Zend Framework 2 | https://habrahabr.ru/post/159155/
+
+Вышел в свет Zend Framework 2 stable | https://habrahabr.ru/post/150984/
+
+Взлом сайта Zend Framework от поклонников Symfony? | https://habrahabr.ru/post/150976/
+
+Zend Framework, субъективные впечатления | https://habrahabr.ru/post/150762/
+
+Простой способ организации очереди e-mail с помощью Zend_Mail | https://habrahabr.ru/post/150716/
+
+Миграция базы данных в Zend Framework: Akrabat_Db_Schema_Manager | https://habrahabr.ru/post/148843/
+
+Конвертирование Zend конфига из ini в yaml. Подводные камни | https://habrahabr.ru/post/148574/
+
+Фото, видео и презентации докладов с ZFConf 2012 | https://habrahabr.ru/company/wizartech/blog/143379/
+
+ZFConf 2010: Как это было (видео докладов) | https://habrahabr.ru/company/wizartech/blog/142238/
+
+Доклады и финальная регистрация ZFConf 2012 | https://habrahabr.ru/company/wizartech/blog/140890/
+
+Блого-социальная сеть на основе XenForo | https://habrahabr.ru/post/140346/
+
+Динамическое добавление групп элементов в формах Zend Framework с использованием ZendX_JQuery | https://habrahabr.ru/post/140178/
+
+Путь к проведению SQL-инъекций в Zend Framework | https://habrahabr.ru/post/140145/
+
+Zend Framework 2.0.0beta3 Released! | https://habrahabr.ru/post/139363/
+
+ZFConf 2012 пройдет весной в Москве — открыта предварительная регистрация | https://habrahabr.ru/company/wizartech/blog/137828/
+
+Учим Zend Memcache работать с тегами | https://habrahabr.ru/post/137150/
+
+Использование Zend_Form_Element_File в CRUD | https://habrahabr.ru/post/136438/
+
+Zend Framework 2 — долгожданные усовершенствования в Controller и View | https://habrahabr.ru/post/135768/
+
+Интеграция Zend_Tool в NetBeans | https://habrahabr.ru/post/134845/
+
+ZF2 EventManager | https://habrahabr.ru/post/131077/
+
+Zend Framework 2.0.0 beta1 Released | https://habrahabr.ru/post/130666/
+
+Элемент Zend_Form для выбора изображения | https://habrahabr.ru/post/128936/
+
+Кэшируем модели | https://habrahabr.ru/post/127418/
+
+Zend_Db_Table простота в использовании | https://habrahabr.ru/post/127271/
+
+Установка xDebug на Zend Server 5.1 и Windows 7 | https://habrahabr.ru/post/126645/
+
+Zend_Form_Element: создание своего элемента | https://habrahabr.ru/post/126133/
+
+Zend_Soap_AutoDiscover и eAccelerator | https://habrahabr.ru/post/122710/
+
+Практикум Zend Framework. Часть третья: Zend_Acl | https://habrahabr.ru/post/122469/
+
+Практикум Zend Framework. Часть вторая: Route и Registry | https://habrahabr.ru/post/121222/
+
+Практикум Zend Framework. Часть первая: Аутентификация и Acl | https://habrahabr.ru/post/121114/
+
+Как не надо разрабатывать на Zend Framework | https://habrahabr.ru/post/120187/
+
+Autoloading in Zend Framework (Автозагрузка классов в Zend Framework) | https://habrahabr.ru/post/119739/
+
+Составление запросов со сложными условиями | https://habrahabr.ru/post/111918/
+
+Обновление компонента Zend_Acl ломает функционал приложения | https://habrahabr.ru/post/107689/
+
+Проблема UTF-8 Byte Order Mark или кириллица в крякозябах | https://habrahabr.ru/post/103925/
+
+Интеграция Doctrine2 и ZendFramework | https://habrahabr.ru/post/99061/
+
+Named scope для Zend Framework | https://habrahabr.ru/post/98877/
+
+ZendFramework QuickStart — Создание Проекта | https://habrahabr.ru/post/95706/
+
+Zend_Search_Lucene + PHPMorphy — это просто | https://habrahabr.ru/post/90594/
+
+Разработка через тестирование с Zend Framework и PHPUnit | https://habrahabr.ru/post/87202/
+
+Накопительная сборка ZF в один файл | https://habrahabr.ru/post/86641/
+
+Сервис для сборки Zend Framework в один файл | https://habrahabr.ru/post/86535/
+
+Zend_Db_Table_Select Dynamic Finder | https://habrahabr.ru/post/86353/
+
+Формы в Zend Framework | https://habrahabr.ru/post/85858/
+
+Фокус с HeadScript (сборка в один файл) | https://habrahabr.ru/post/85324/
+
+Zend Framework советы и трюки | https://habrahabr.ru/post/84351/
+
+ZFCore — CMF на Zend Frameworkе | https://habrahabr.ru/post/84313/
+
+Zend Framework 1.10.0 Stable Released | https://habrahabr.ru/post/82304/
+
+Zend_XmlRpc_Client и кросспостинг в LiveJournal | https://habrahabr.ru/post/80361/
+
+Cache ресурс для Zend Framework | https://habrahabr.ru/post/78254/
+
+Lazy load modules bootstrap | https://habrahabr.ru/post/76975/
+
+Динамические роли и права | https://habrahabr.ru/post/76675/
+
+Select теряет ON при JOIN'e | https://habrahabr.ru/post/76317/
+
+Настройка Zend Framework 1.9.5 на Denwer 3 | https://habrahabr.ru/post/75535/
+
+Вышел Zend Framework 1.9.5 | https://habrahabr.ru/post/73617/
+
+Сборка Zend Framework | https://habrahabr.ru/post/73273/
+
+Zend Framework и магические кавычки | https://habrahabr.ru/post/72915/
+
+Интересный подход для кэширования моделей | https://habrahabr.ru/post/72828/
+
+небольшой хак для Zend_Db_Table_Row класса | https://habrahabr.ru/post/72667/
+
+Как правильно использовать Zend_Paginator | https://habrahabr.ru/post/72399/
+
+Zend Framework: стремимся к MVC для Javascript, CSS | https://habrahabr.ru/post/71619/
+
+Ускоряем разработку ч.1 (Расиширяем Zend_Db_Table) | https://habrahabr.ru/post/71553/
+
+Вложенные запросы при помощи Zend_Db_Select | https://habrahabr.ru/post/66607/
+
+Загрузка и переименование файлов | https://habrahabr.ru/post/71391/
+
+Zend_Form, русификация сообщений об ошибках | https://habrahabr.ru/post/70386/
+
+конфигурация модуля | https://habrahabr.ru/post/67511/
+
+Pluralization | https://habrahabr.ru/post/64975/
+
+In Zend We Trust | https://habrahabr.ru/post/64971/
+
+1.9.0 Alpha | https://habrahabr.ru/post/64808/
+
+Поговорим о Zend_Navigation | https://habrahabr.ru/post/64115/
+
+PHP SDK для Windows Azure | https://habrahabr.ru/post/63919/
+
+Подстановка значений в Zend_Config | https://habrahabr.ru/post/63478/
+
+Shared Hosting & mod_rewrite | https://habrahabr.ru/post/63053/
+
+Dispatch Process | https://habrahabr.ru/post/63008/
+
+Следующий перевод | https://habrahabr.ru/post/62812/
+
+1.8.4 Stable | https://habrahabr.ru/post/62759/
+
+Менеджер задач «Dodo» | https://habrahabr.ru/post/62376/
+
+ZFDebug | https://habrahabr.ru/post/62023/
+
+Наследование конфигов в Zend_Config | https://habrahabr.ru/post/61090/
+
+Zend_Dojo: первые шаги | https://habrahabr.ru/post/60472/
+
+Вышел Zend Framework 1.8.1 | https://habrahabr.ru/post/59601/
+
+Использование Zend_Tool | https://habrahabr.ru/post/58911/
+
+Дебаг в Zend Framework с использованием FirePHP | https://habrahabr.ru/post/58817/
+
+Нужен ли кому-нибудь перевод "Developing a Comprehensive Autoloader"? | https://habrahabr.ru/post/58811/
+
+Релиз Zend Framework 1.8.0 | https://habrahabr.ru/post/58791/
+
+Обзор Zend_CodeGenerator | https://habrahabr.ru/post/57609/
+
+1.8 Preview Release | https://habrahabr.ru/post/56744/
+
+Zend Framework: подключаем OpenID | https://habrahabr.ru/post/54734/
+
+Zend framework — туториал: авторизация | https://habrahabr.ru/post/53763/
+
+Zend Framework первой свежести, ч1: зендируем MVC | https://habrahabr.ru/post/52108/
+
+Zend_Form и ini-файлы | https://habrahabr.ru/post/46111/
+
+Расширение возможностей Zend_Form с использованием ExtJS | https://habrahabr.ru/post/49617/
+
+Как подготовиться к сертификации по Zend Framework? | https://habrahabr.ru/post/49546/
+
+Zend Framework Certification | https://habrahabr.ru/post/49517/
+
+Тонкости роутинга в Zend Framework | https://habrahabr.ru/post/48955/
+
+Zend Framework 1.7.2 | https://habrahabr.ru/post/47665/
+
+Увеличиваем производительность Zend Framework'а, собирая его классы в один файл | https://habrahabr.ru/post/46742/
+
+Тюнинг Zend Framework + Doctrine | https://habrahabr.ru/post/46084/
+
+Ошибки в компоненте Zend_Form_Element_File | https://habrahabr.ru/post/45939/
+
+Zend Framework 1.7.0 | https://habrahabr.ru/post/44911/
+
+Работа со сложными декораторами в Zend Framework | https://habrahabr.ru/post/42748/
+
+Как я Zend штурмовал. | https://habrahabr.ru/post/42494/
+
+Zend Framework и многоязычность | https://habrahabr.ru/post/42495/
+
+Zend_Mail отправка писем через SMTP с аутентификацией | https://habrahabr.ru/post/41127/
+
+Zend_Auth + Zend_Acl | https://habrahabr.ru/post/39577/
+
+Релиз 1.6.0 | https://habrahabr.ru/post/38796/
+
+Новый релиз-кандидат Zend Framework-а, уже третий | https://habrahabr.ru/post/38324/
+
+ZF 1.6 RC2 | https://habrahabr.ru/post/36891/
+
+Zend Framework 1.6.0 | https://habrahabr.ru/post/29754/
+
+Использование Zend_Db_Table | https://habrahabr.ru/post/29466/
+
+Интеграция Zend_Acl и MVC. Часть 2 (продвинутый вариант использования) | https://habrahabr.ru/post/31644/
+
+Интеграция Zend_Acl и MVC. Часть 1 (простейшее использование) | https://habrahabr.ru/post/31639/
+
+XML Конфиг под разные хосты | https://habrahabr.ru/post/28387/
+
+Zend Framework 1.5.0 Preview | https://habrahabr.ru/post/19448/
+

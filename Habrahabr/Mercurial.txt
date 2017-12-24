@@ -1,0 +1,46 @@
+Система управления проектами Redmine + Mercurial на Ubuntu 16.04 | https://habrahabr.ru/post/331006/
+
+6 секретов Bitbucket | https://habrahabr.ru/post/278547/
+
+Mercurial: изменяем историю | https://habrahabr.ru/post/274877/
+
+Опрос по системам контроля версий | https://habrahabr.ru/post/233935/
+
+Как развернуть систему контроля версий (VCS) без командной строки | https://habrahabr.ru/company/arnion/blog/206618/
+
+Получение списка файлов в удалённом репозитории | https://habrahabr.ru/post/197312/
+
+Полезности Mercurial | https://habrahabr.ru/post/188418/
+
+Review Board + Mercurial — опыт внедрения и автоматизации процесса code review | https://habrahabr.ru/post/187058/
+
+Стиль именования коммитов | https://habrahabr.ru/post/183646/
+
+Bitbucket выпустил лимитированную серию брендированных футболок | https://habrahabr.ru/post/182526/
+
+Bitbucket достиг одного миллиона пользователей — летим праздновать в Сан-Франциско | https://habrahabr.ru/post/182210/
+
+Сравнение Subversion и Mercurial (HG) | https://habrahabr.ru/post/177451/
+
+Обновление Windows Azure: Hadoop, Dropbox, Mercurial, PhoneGap | https://habrahabr.ru/post/174173/
+
+Война закончена, все победили | https://habrahabr.ru/post/173663/
+
+Kiln Harmony — Mercurial + git в одном репозитории | https://habrahabr.ru/post/173099/
+
+Переход на DVCS, Mercurial | https://habrahabr.ru/post/170339/
+
+Сходство и различие между Mercurial и Git | https://habrahabr.ru/post/168675/
+
+Установка mercurial-server over ssh из исходников | https://habrahabr.ru/post/164095/
+
+Жесткие ссылки при клонировании репозитория в mercurial | https://habrahabr.ru/post/143691/
+
+Mercurial: с чего начать внедрение и зачем нужны патчи | https://habrahabr.ru/post/140496/
+
+Установка Mercurial Server и использование авторизации по SSH | https://habrahabr.ru/post/140347/
+
+Ещё раз о «Mercurial против Git» (с картинками) | https://habrahabr.ru/post/123700/
+
+Переезд с SVN на Mercurial: личный опыт | https://habrahabr.ru/post/112968/
+

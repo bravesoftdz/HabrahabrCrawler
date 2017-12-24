@@ -1,0 +1,3818 @@
+PVS-Studio 2018: CWE, Java, RPG, macOS, Keil, IAR, MISRA | https://habrahabr.ru/company/pvs-studio/blog/344734/
+
+Почтовые ящики, которые и не ящики вовсе… | https://habrahabr.ru/post/344580/
+
+OSU! Relax (основы) | https://habrahabr.ru/post/344552/
+
+Разработка приложений на языках C/C++ с использованием Tcl/Tk | https://habrahabr.ru/post/344526/
+
+Ускорение сборки C и C++ проектов | https://habrahabr.ru/company/pvs-studio/blog/344534/
+
+Самая быстрая и энергоэффективная реализация алгоритма BFS на различных параллельных архитектурах | https://habrahabr.ru/post/344378/
+
+Learnopengl. Урок 4.3 — Смешивание цветов | https://habrahabr.ru/post/343096/
+
+Rust vs. C++ на алгоритмических задачах | https://habrahabr.ru/post/344282/
+
+Скриптуем на WebAssembly, или WebAssembly без Web | https://habrahabr.ru/post/344246/
+
+Learnopengl. Урок 4.2 — Тест трафарета | https://habrahabr.ru/post/344238/
+
+Рефлексия в C++14 | https://habrahabr.ru/post/344206/
+
+Двуликая локаль в преобразовании из строки в дробное | https://habrahabr.ru/post/344108/
+
+Релиз CLion 2017.3: существенные улучшения поддержки C++, интеграция с Valgrind Memcheck и Boost.Test и многое другое | https://habrahabr.ru/company/JetBrains/blog/344076/
+
+Шаблон проектирования Entity-Component-System — реализация и пример игры | https://habrahabr.ru/post/343778/
+
+Как программисты с PVS-Studio ошибки в проектах искали | https://habrahabr.ru/company/pvs-studio/blog/343844/
+
+API BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/343010/
+
+Восемь возможностей C++17, которые должен применять каждый разработчик | https://habrahabr.ru/post/343622/
+
+Стоимость операций в тактах ЦП | https://habrahabr.ru/company/otus/blog/343566/
+
+Разработка инструмента веб-дизайнера на основе веб-приложения (Figma). Перевод | https://habrahabr.ru/post/343442/
+
+Как Discord каждый день изменяет размер 150 млн картинок с помощью Go и C++ | https://habrahabr.ru/post/343414/
+
+Повторное использование кода — как это бывает на практике | https://habrahabr.ru/post/343404/
+
+Conan: менеджер зависимостей для C/C++ | https://habrahabr.ru/post/342982/
+
+Обзор дефектов кода музыкального софта. Часть 5. Steinberg SDKs | https://habrahabr.ru/company/pvs-studio/blog/343252/
+
+Обзор дефектов кода музыкального софта. Часть 4. Ardour | https://habrahabr.ru/company/pvs-studio/blog/343002/
+
+Ещё один шажок к C++20. Встреча в Альбукерке | https://habrahabr.ru/company/yandex/blog/342354/
+
+Работа с API КОМПАС-3D → Урок 6 → Построение дуги окружности | https://habrahabr.ru/company/ascon/blog/342032/
+
+Драконье Стекло или рассказ о игровом редакторе Larian Studios | https://habrahabr.ru/company/larian/blog/342730/
+
+Сказ про резисторы и неонки | https://habrahabr.ru/post/341328/
+
+Паттерн Model-Update-View и зависимые типы | https://habrahabr.ru/post/341988/
+
+Learnopengl. Урок 4.1 — Тест глубины | https://habrahabr.ru/post/342610/
+
+Мой первый компилятор на LLVM | https://habrahabr.ru/post/342456/
+
+Интеграция физических тел полученных в редакторе Physics Body Editor в cocos2d-x-сцену | https://habrahabr.ru/post/342478/
+
+OpenApoc — Фанатам X-Com Apocalypse посвящается | https://habrahabr.ru/post/340886/
+
+Actors for fun and profit | https://habrahabr.ru/post/342316/
+
+Андрей Карпов считает, что код проекта Manticore качественнее, чем код проекта Sphinx | https://habrahabr.ru/company/pvs-studio/blog/342298/
+
+Знакомство с WebAssembly | https://habrahabr.ru/post/342180/
+
+Варианты operator<< для логгера | https://habrahabr.ru/post/342160/
+
+Работа с API КОМПАС-3D → Урок 5 → Графические примитивы | https://habrahabr.ru/company/ascon/blog/342030/
+
+Статические анализаторы кода на примере ClickHouse | https://habrahabr.ru/company/yandex/blog/342018/
+
+UB-2017. Часть 1 | https://habrahabr.ru/post/341694/
+
+CoLaboratory: приглашаем на C++ User Group Meetup | https://habrahabr.ru/company/kaspersky/blog/341982/
+
+Unreal Engine: QuickStart в Qt Creator под Arch Linux | https://habrahabr.ru/post/341756/
+
+Бестиарий С++. Справочник по загадочным персонажам | https://habrahabr.ru/company/mailru/blog/341584/
+
+О стеке простыми словами — для студентов и просто начинающих | https://habrahabr.ru/post/341586/
+
+Cocos2d-x — Диспетчер событий | https://habrahabr.ru/post/341066/
+
+Новости C++ User Group | https://habrahabr.ru/post/341372/
+
+RandLib. Библиотека вероятностных распределений на C++17 | https://habrahabr.ru/post/323158/
+
+«Иногда приходится заглядывать в код Spark»: Александр Морозов (SEMrush) об использовании Scala, Spark и ClickHouse | https://habrahabr.ru/company/jugru/blog/341288/
+
+Ключевое слово «mutable» в C++ | https://habrahabr.ru/company/infopulse/blog/341264/
+
+Broo — алгоритм сжатия без потерь. Улучшения | https://habrahabr.ru/post/341226/
+
+Супер-выразительный код с привлечением уровней абстракций | https://habrahabr.ru/post/341006/
+
+Телеметрия и программное обеспечение | https://habrahabr.ru/post/340882/
+
+Cocos2d-x — Сцены и особые типы узлов | https://habrahabr.ru/post/340110/
+
+Время устранять ошибки в Open-Source проектах, конкурс | https://habrahabr.ru/company/pvs-studio/blog/340910/
+
+Почему LLVM может вызвать никогда не вызываемую функцию? | https://habrahabr.ru/post/339700/
+
+Введение в Beautiful Capi, инструмент создания С++ оберток для С++ библиотек | https://habrahabr.ru/post/340770/
+
+Асинхронные режимы фреймворка gRPC и принципы их работы в С++ | https://habrahabr.ru/post/340758/
+
+Асинхронность 3: Субъекторная модель | https://habrahabr.ru/post/340732/
+
+Обзор дефектов кода музыкального софта. Часть 3. Rosegarden | https://habrahabr.ru/company/pvs-studio/blog/340730/
+
+Каррирование и частичное применение на C++14 | https://habrahabr.ru/post/340722/
+
+Библиотека для синхронизации состояния | https://habrahabr.ru/post/340654/
+
+Cocos2d-x — UI компоненты | https://habrahabr.ru/post/340354/
+
+Ваши собственные std::code_error | https://habrahabr.ru/post/340604/
+
+Ардуино головного мозга: импульсный датчик положения | https://habrahabr.ru/post/340448/
+
+Как проверить, находится ли значение указателя в заданной области памяти | https://habrahabr.ru/company/pvs-studio/blog/340458/
+
+Профилирование кода на C/С++ в *nix-системах | https://habrahabr.ru/company/oleg-bunin/blog/340394/
+
+Универсальный адаптер | https://habrahabr.ru/post/340314/
+
+Любите статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/340202/
+
+Cocos2d-x — Обработка действий | https://habrahabr.ru/post/339794/
+
+C++17 | https://habrahabr.ru/company/pvs-studio/blog/340014/
+
+[CppCon 2017] Matt Godbolt: Что мой компилятор сделал для меня? | https://habrahabr.ru/post/339962/
+
+Тернистый путь Hello World | https://habrahabr.ru/post/339698/
+
+Обзор дефектов кода музыкального софта. Часть 2. Audacity | https://habrahabr.ru/company/pvs-studio/blog/339816/
+
+Cocos2d-x — Работа со спрайтами | https://habrahabr.ru/post/339690/
+
+Как сделать число 100 из любого другого шестизначного числа | https://habrahabr.ru/post/339654/
+
+Cocos2d-x — Основные понятия | https://habrahabr.ru/post/339564/
+
+Оптимизация C/C++ кода | https://habrahabr.ru/post/339492/
+
+Пишем свою книгу заново | https://habrahabr.ru/post/338946/
+
+Оптимизация C/C++ кода | https://habrahabr.ru/post/339406/
+
+[CppCon 2017] Herb Sutter: Метапрограммирование и кодогенерация в C++ | https://habrahabr.ru/post/339186/
+
+[CppCon 2017] Ларс Кнолл: C++ фреймворк Qt: История, Настоящее и Будущее | https://habrahabr.ru/post/339180/
+
+[CppCon 2017] Бьёрн Страуструп: Изучение и преподавание современного C++ | https://habrahabr.ru/post/339036/
+
+Learnopengl. Урок 3.3 — Класс 3D-модели | https://habrahabr.ru/post/338998/
+
+На шаг ближе к С++20. Итоги встречи в Торонто | https://habrahabr.ru/company/yandex/blog/336264/
+
+Когда переменная bool не true и не false одновременно | https://habrahabr.ru/post/338898/
+
+Как может вызваться никогда не вызываемая функция? | https://habrahabr.ru/company/infopulse/blog/338812/
+
+Обзор дефектов кода музыкального софта. Часть 1. MuseScore | https://habrahabr.ru/company/pvs-studio/blog/338808/
+
+Делаем MitM с помощью openssl на Android | https://habrahabr.ru/company/infowatch/blog/338764/
+
+Профилирование сборки проекта | https://habrahabr.ru/company/infopulse/blog/338672/
+
+Работа с API КОМПАС-3D → Урок 4 → Основная надпись | https://habrahabr.ru/company/ascon/blog/337288/
+
+learnopengl. Уроки 3.1 (Assimp) + 3.2 (класс Mesh) | https://habrahabr.ru/post/338436/
+
+learnopengl. Урок 2.6 — Несколько источников освещения | https://habrahabr.ru/post/338254/
+
+Мои 5 копеек про Highload Cup 2017 или история 9го места | https://habrahabr.ru/post/337854/
+
+Хакатон HackCV, 7-8 октября | https://habrahabr.ru/company/luxoft/blog/337848/
+
+10 лет Computer Science клубу | https://habrahabr.ru/company/spbau/blog/337720/
+
+История 13 места на Highload Cup 2017 | https://habrahabr.ru/post/337710/
+
+Яндекс.Блиц. Почему и какие алгоритмические задачи нужно уметь решать, работая в поиске | https://habrahabr.ru/company/yandex/blog/337690/
+
+Микросервисы — MIF на C++ | https://habrahabr.ru/post/239571/
+
+Эзотерический язык, транслирующийся в шаблоны C++ | https://habrahabr.ru/post/337590/
+
+Learnopengl. Урок 2.5 — Источники света | https://habrahabr.ru/post/337642/
+
+Создание языка программирования с использованием LLVM. Часть 10: Заключение и другие вкусности LLVM | https://habrahabr.ru/post/337240/
+
+Сбалансированное дерево поиска B-tree (t=2) | https://habrahabr.ru/post/337594/
+
+Learnopengl. Урок 2.4 — Текстурные карты | https://habrahabr.ru/post/337550/
+
+CaptureManager SDK | https://habrahabr.ru/post/337190/
+
+Обзор одной российской RTOS, часть 3. Структура простейшей программы | https://habrahabr.ru/post/336944/
+
+Создание языка программирования с использованием LLVM. Часть 9: Добавляем отладочную информацию | https://habrahabr.ru/post/336980/
+
+Передаю привет разработчикам компании Yandex | https://habrahabr.ru/company/pvs-studio/blog/337182/
+
+syncProj – утилита для генерации Visual Studio C++ проектов | https://habrahabr.ru/post/337138/
+
+Создание языка программирования с использованием LLVM. Часть 8: Компиляция в объектный код | https://habrahabr.ru/post/336876/
+
+Многопоточность в C++ и SObjectizer с CSP-шными каналами, но совсем без акторов… | https://habrahabr.ru/post/336854/
+
+Создание языка программирования с использованием LLVM. Часть 7: Расширение языка: Изменяемые переменные | https://habrahabr.ru/post/336468/
+
+Обзор одной российской RTOS, часть 2. Ядро ОСРВ МАКС | https://habrahabr.ru/post/336696/
+
+Идеи о новых возможностях обычного/параллельного программирования (расширение C++) | https://habrahabr.ru/post/336458/
+
+Поддержка системных ошибок в C++ | https://habrahabr.ru/post/336012/
+
+Создание языка программирования с использованием LLVM. Часть 6: Расширение языка: Операторы, определяемые пользователем | https://habrahabr.ru/post/336080/
+
+Learnopengl. Урок 2.3 — Материалы | https://habrahabr.ru/post/336166/
+
+Планетарный ландшафт | https://habrahabr.ru/post/335588/
+
+Ломаем хаКс полностью. Читаем машинные коды как открытую книгу | https://habrahabr.ru/post/335970/
+
+Параметрическое моделирование в САПР SolveSpace: «Неисповедимы пути Решателя» или «Червоточины Ньютона» | https://habrahabr.ru/post/335962/
+
+Описание алгоритмов сортировки и сравнение их производительности | https://habrahabr.ru/post/335920/
+
+Обзор C++ библиотек глубокого обучения Apache.SINGA, tiny-dnn, OpenNN | https://habrahabr.ru/post/335838/
+
+Определение blocking-режима TCP-сокета под Windows | https://habrahabr.ru/post/335762/
+
+Вызов управляемого кода из неуправляемого | https://habrahabr.ru/company/icl_services/blog/335620/
+
+Интеграция Intel Threading Building Blocks в ваш CMake проект | https://habrahabr.ru/company/intel/blog/335346/
+
+Использование ImGui с SFML для создания инструментов для разработки игр | https://habrahabr.ru/post/335512/
+
+Пишем расширения для PHP 7 на C++ | https://habrahabr.ru/post/335478/
+
+Взгляд снизу вверх или Ubuntu Server для разработчика электроники. Часть 2 | https://habrahabr.ru/post/335042/
+
+Полиморфизм и указатели на функции | https://habrahabr.ru/post/335162/
+
+MMO с нуля. Часть 2. Наращивание функционала + алгоритм Diamond Square | https://habrahabr.ru/post/334786/
+
+Типы struct, union и enum в Modern C++ | https://habrahabr.ru/post/334988/
+
+Взгляд снизу вверх или Ubuntu Server для разработчика электроники. Часть 1 | https://habrahabr.ru/post/334948/
+
+Microsoft не изолировала Windows Defender в песочнице, так что это сделал я | https://habrahabr.ru/post/334792/
+
+Характеристики анализатора PVS-Studio на примере EFL Core Libraries, 10-15% ложных срабатываний | https://habrahabr.ru/company/pvs-studio/blog/334554/
+
+Граббер для одного книжного сайта | https://habrahabr.ru/post/334412/
+
+Метаклассы в C++ | https://habrahabr.ru/company/infopulse/blog/334284/
+
+Методология и руководство по стилю кода компании Ronimo | https://habrahabr.ru/post/334106/
+
+Cpp ❤️ Mobile | https://habrahabr.ru/company/2gis/blog/334156/
+
+Анализ исходного кода Doom 3 | https://habrahabr.ru/post/333836/
+
+Как я варил CLion | https://habrahabr.ru/post/334080/
+
+MMO с нуля. С помощью Netty и Unreal Engine. Часть 1 | https://habrahabr.ru/post/333788/
+
+Релиз CLion 2017.2: интеграция с Clang-Tidy, C++17 в мастере создания нового проекта, повышение производительности IDE | https://habrahabr.ru/company/JetBrains/blog/334012/
+
+Еще один breakpad сервер. Часть 1 | https://habrahabr.ru/post/333448/
+
+learnopengl. Урок 2.2 — Основы освещения | https://habrahabr.ru/post/333932/
+
+С/С++ на Linux в Visual Studio Code для начинающих | https://habrahabr.ru/company/microsoft/blog/333680/
+
+Установка MS SQL ODBC Driver под Linux и сборка плагина для Qt 5.9 | https://habrahabr.ru/post/333468/
+
+Снимаем «4D видео» с помощью depth-сенсора и триангуляции Делоне | https://habrahabr.ru/post/333532/
+
+Поговорим о микрооптимизациях на примере кода Tizen | https://habrahabr.ru/company/pvs-studio/blog/333474/
+
+Как мы искали и нашли ошибку в Visual Studio C++ | https://habrahabr.ru/post/333442/
+
+Дорога к С++20 | https://habrahabr.ru/post/333414/
+
+Чемпионы мира — о спортивном программировании | https://habrahabr.ru/company/dataart/blog/333354/
+
+Интеграция 3D-мыши в Renga | https://habrahabr.ru/company/ascon/blog/332676/
+
+Летайте самолетами UNIGINE: новый авиатренажер для МАКС-2017 | https://habrahabr.ru/company/unigine/blog/332910/
+
+27000 ошибок в операционной системе Tizen | https://habrahabr.ru/company/pvs-studio/blog/332912/
+
+Игровое управление моделям в условиях неполной информации | https://habrahabr.ru/post/332142/
+
+Обработка многократно возникающих SIGSEGV-подобных ошибок | https://habrahabr.ru/post/332626/
+
+Работа с API КОМПАС-3D → Урок 3 → Корректное подключение к КОМПАС | https://habrahabr.ru/company/ascon/blog/332554/
+
+Как Яндекс создавал курс по C++, или Почему нам всё пришлось переписать | https://habrahabr.ru/company/yandex/blog/332556/
+
+Цветовая сегментация для чайников | https://habrahabr.ru/post/332464/
+
+Имитируем управление устройствами с помощью акторов | https://habrahabr.ru/post/332166/
+
+Решение задачи коммивояжера алгоритмом Литтла с визуализацией на плоскости | https://habrahabr.ru/post/332208/
+
+The incredible machine или мой самый лучший тест | https://habrahabr.ru/post/331230/
+
+Работа с гетерогенными контейнерами с C++17 | https://habrahabr.ru/post/332084/
+
+Интеграция 1С с DLL с помощью Python | https://habrahabr.ru/post/332082/
+
+nstd — C++ библиотека — «джентельменский набор» полезных классов | https://habrahabr.ru/post/331564/
+
+Статический анализ как часть процесса разработки Unreal Engine | https://habrahabr.ru/company/pvs-studio/blog/331724/
+
+Головная боль от использования математического софта | https://habrahabr.ru/company/pvs-studio/blog/331638/
+
+Используем template + constexpr для создания масок регистров периферии микроконтроллера на этапе компиляции (C++14) | https://habrahabr.ru/post/331468/
+
+UNIGINE С++ School: бесплатный онлайн-курс для продвинутых | https://habrahabr.ru/company/unigine/blog/331330/
+
+Работа с API КОМПАС-3D → Урок 2 → Оформление чертежа | https://habrahabr.ru/company/ascon/blog/330588/
+
+Как PVS-Studio может помочь в поиске уязвимостей? | https://habrahabr.ru/company/pvs-studio/blog/331262/
+
+Повседневный C++: изолируем API в стиле C | https://habrahabr.ru/post/331100/
+
+Современный CMake: 10 советов по улучшению скриптов сборки | https://habrahabr.ru/post/330902/
+
+gdb-дуэль — списки, деревья и хэш таблицы против командной строки | https://habrahabr.ru/post/328180/
+
+Списки инициализации в C++: хороший, плохой, злой | https://habrahabr.ru/post/330402/
+
+Notepad++: проверка кода пять лет спустя | https://habrahabr.ru/company/pvs-studio/blog/330394/
+
+Свой скриптовый движок для игр средствами С++ и Lua (часть — 1) | https://habrahabr.ru/post/330062/
+
+Новые «плюшки» компилятора – безопасней, быстрее, совершеннее | https://habrahabr.ru/company/intel/blog/329938/
+
+learnopengl. Урок 2.1 — Цвета | https://habrahabr.ru/post/329592/
+
+Нужно ли инженеру поддержки кодить самому? (и другие любопытные вопросы и ответы) | https://habrahabr.ru/company/JetBrains/blog/329316/
+
+Непрерывная интеграция (CI) для GitHub проектов на С/C++ с CMake-сборкой | https://habrahabr.ru/post/329264/
+
+Работа с API КОМПАС-3D → Урок 1 → Основы | https://habrahabr.ru/company/ascon/blog/328088/
+
+Создание моделей данных для QComboBox | https://habrahabr.ru/post/329228/
+
+Зло живёт в функциях сравнения | https://habrahabr.ru/company/pvs-studio/blog/329090/
+
+Как ошибся Белл (если статья привела правильный пример) | https://habrahabr.ru/post/329064/
+
+Средства диагностики Плагин для Qt Creator | https://habrahabr.ru/post/329024/
+
+Подробнее об одном новшестве в свежей версии SObjectizer | https://habrahabr.ru/post/328872/
+
+Элементы функционального программирования в C++: композиции отображений | https://habrahabr.ru/post/328624/
+
+Поиск устройств в сети по SSDP с помощью Poco | https://habrahabr.ru/post/328726/
+
+Автоматизация обмена данными Qt форм с SQL базой данных | https://habrahabr.ru/post/328670/
+
+Облако.Mail.Ru + EncFS без локального хранения файлов | https://habrahabr.ru/post/320400/
+
+Реверс-инжиниринг «Казаков», часть последняя: второе дыхание | https://habrahabr.ru/post/328212/
+
+Использование модулей C++ в Visual Studio 2017 | https://habrahabr.ru/company/pvs-studio/blog/328482/
+
+Потокобезопасный std::map с производительностью lock-free map | https://habrahabr.ru/post/328374/
+
+Ускоряем std::shared_mutex в 10 раз | https://habrahabr.ru/post/328362/
+
+Делаем любой объект потокобезопасным | https://habrahabr.ru/post/328348/
+
+Видео C++ Russia 2017 доступны онлайн | https://habrahabr.ru/post/327400/
+
+Философия, или когда буквы были зелёными | https://habrahabr.ru/post/328296/
+
+Повесть о создании классической RTS в домашних условиях с нуля (часть 2: «Воскрешение») Окончание статьи: Сеть | https://habrahabr.ru/post/328118/
+
+Повесть о создании классической RTS в домашних условиях с нуля (часть 2: «Воскрешение») Продолжение статьи: GUI | https://habrahabr.ru/post/328116/
+
+Повесть о создании классической RTS в домашних условиях с нуля (часть 2: «Воскрешение») | https://habrahabr.ru/post/327596/
+
+2038: остался всего 21 год | https://habrahabr.ru/company/pvs-studio/blog/328054/
+
+Как используя PVS-Studio можно улучшить Visual C++ 2017 Libraries | https://habrahabr.ru/company/pvs-studio/blog/327784/
+
+learnopengl. Урок 1.9 — Камера | https://habrahabr.ru/post/327604/
+
+Простой и быстрый сервер на C/C++ с клиентом на C#: TCP версия | https://habrahabr.ru/post/327574/
+
+Виртуальность и оверхед | https://habrahabr.ru/company/everydaytools/blog/327052/
+
+Видео о статическом анализе кода | https://habrahabr.ru/company/pvs-studio/blog/327388/
+
+Развенчание мифов о мета-объектном компиляторе Qt | https://habrahabr.ru/company/infopulse/blog/327176/
+
+Приглашаем на VeloCPPed Meetup в Тензор | https://habrahabr.ru/company/tensor/blog/327018/
+
+Как я писал предложение к стандарту С++ | https://habrahabr.ru/company/yandex/blog/327080/
+
+Исключения в Windows x64. Как это работает. Часть 4 | https://habrahabr.ru/company/aladdinrd/blog/326878/
+
+Как сделать свой С++ код кроссплатформенным? | https://habrahabr.ru/company/tensor/blog/326856/
+
+Новости онлайн-курсов Mail.Ru Group: перезапуск «Углублённого программирования на С++» | https://habrahabr.ru/company/mailru/blog/326590/
+
+Свои потоки ввода-вывода в C++ с помощью std::streambuf | https://habrahabr.ru/post/326578/
+
+Генератор тестовых данных для C++ | https://habrahabr.ru/post/326576/
+
+Идиомы Attorney-Client и Passkey для выборочного доступа к методам класса | https://habrahabr.ru/post/326540/
+
+Немного о строках в Си, или несколько вариантов оптимизировать неоптимизируемое | https://habrahabr.ru/post/326108/
+
+Война машин: PVS-Studio vs TensorFlow | https://habrahabr.ru/company/pvs-studio/blog/326256/
+
+Функциональное программирование на Perl в примерах | https://habrahabr.ru/post/326028/
+
+Web приложение реального времени для простых устройств | https://habrahabr.ru/post/325942/
+
+Параметрическое моделирование в САПР SolveSpace: Степени свободы и уравнения ограничений | https://habrahabr.ru/post/325770/
+
+Тест на знание языка Си, найденный в первоапрельской шутке | https://habrahabr.ru/post/325880/
+
+Пиши на C как джентльмен | https://habrahabr.ru/post/325678/
+
+Библиотека Google Benchmark | https://habrahabr.ru/company/wunderfund/blog/325634/
+
+Настраиваем бесплатную сборку для написания и отладки программ под микроконтроллеры на основе ядра ARM под Windows 10 | https://habrahabr.ru/post/325450/
+
+Серьёзные ошибки в коде CryEngine V | https://habrahabr.ru/company/pvs-studio/blog/325600/
+
+Почему в стандартной библиотеке нет средств борьбы с висячими ссылками и как это исправить? | https://habrahabr.ru/post/325494/
+
+Украшаем жизнь с помощью gdb PrettyPrinting API | https://habrahabr.ru/post/325472/
+
+Релиз CLion 2017.1: C++14, C++17, код на дизассемблере в отладчике, Catch, MSVC и многое другое | https://habrahabr.ru/company/JetBrains/blog/325372/
+
+Как мы портировали программно-аппаратное решение из SPARC Solaris в AMD64 Linux и виртуализировали все это | https://habrahabr.ru/post/325304/
+
+Подводные камни для самодельной распределенности «из коробки» в С++ном акторном фреймворке | https://habrahabr.ru/post/325248/
+
+Основные концепции библиотеки chrono (C++) | https://habrahabr.ru/post/324984/
+
+Шишки, набитые за 15 лет использования акторов в C++. Часть II | https://habrahabr.ru/post/324978/
+
+IL2CPP: Интеграция сборщика мусора | https://habrahabr.ru/company/plarium/blog/325034/
+
+learnopengl. Урок 1.8 — Системы координат | https://habrahabr.ru/post/324968/
+
+Удобный C++ перечислитель | https://habrahabr.ru/post/324808/
+
+Windows hook: просто о сложном | https://habrahabr.ru/company/icl_services/blog/324718/
+
+Баг месяца: эстафета от PC-Lint к PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/324704/
+
+Функциональное программирование и c++ на практике | https://habrahabr.ru/post/324518/
+
+Шишки, набитые за 15 лет использования акторов в C++. Часть I | https://habrahabr.ru/post/324420/
+
+Борьба бобра с ослом, или Адаптация MSVC кода под gcc | https://habrahabr.ru/company/exante/blog/324512/
+
+Параметрическое моделирование в САПР SolveSpace: Эскиз | https://habrahabr.ru/post/324514/
+
+Что приняли в C++17, фотография Бьярне Страуструпа и опрос для C++20 | https://habrahabr.ru/company/yandex/blog/323972/
+
+Исключения в Windows x64. Как это работает. Часть 3 | https://habrahabr.ru/company/aladdinrd/blog/324376/
+
+Как и почему статические анализаторы борются с ложными срабатываниями | https://habrahabr.ru/company/pvs-studio/blog/324372/
+
+Дефекты безопасности, которые устранила команда PVS-Studio на этой неделе: выпуск N2 | https://habrahabr.ru/company/pvs-studio/blog/324222/
+
+PVS-Studio: поиск дефектов безопасности | https://habrahabr.ru/company/pvs-studio/blog/324114/
+
+IL2CPP: Обертки P/Invoke для типов и методов | https://habrahabr.ru/company/plarium/blog/323932/
+
+eMule на Android | https://habrahabr.ru/post/323834/
+
+Когда появится следующий большой язык программирования с точки зрения Дарвина | https://habrahabr.ru/company/wrike/blog/323550/
+
+Попытки сделать изучение алгоритмов поиска пути проще | https://habrahabr.ru/post/323650/
+
+Топ 10 ошибок в открытых проектах С++ за 2016 год | https://habrahabr.ru/company/pvs-studio/blog/323636/
+
+Красиво «взламываем» ООП с помощью C++14 | https://habrahabr.ru/post/323412/
+
+Я написал самую быструю хеш-таблицу | https://habrahabr.ru/company/mailru/blog/323242/
+
+DariaDB. Разработка базы данных для хранения временных рядов | https://habrahabr.ru/post/323256/
+
+Программирование SoC Zynq | https://habrahabr.ru/post/323224/
+
+Как написать собственную программу для контроллера ROBO TX | https://habrahabr.ru/post/323168/
+
+Снова о числах с плавающей точкой | https://habrahabr.ru/post/322984/
+
+PostgreSQL libpq connection pool | https://habrahabr.ru/post/322966/
+
+Рождение нового алгоритма по имени Broo и сравнение с Brotli и остальными | https://habrahabr.ru/post/322978/
+
+Исключения в Windows x64. Как это работает. Часть 2 | https://habrahabr.ru/company/aladdinrd/blog/322956/
+
+Простая реализация Stream из Java 8 в С++ | https://habrahabr.ru/post/322924/
+
+Выбор правильной стратегии обработки ошибок (части 3 и 4) | https://habrahabr.ru/company/mailru/blog/322804/
+
+Выбор правильной стратегии обработки ошибок (части 1 и 2) | https://habrahabr.ru/company/mailru/blog/322416/
+
+Как я писал компилятор С++. Пересказ спустя 15 лет | https://habrahabr.ru/post/322656/
+
+Иммутабельные данные в С++. Часть 2 | https://habrahabr.ru/post/322450/
+
+Там добавим const, отсюда удалим const… | https://habrahabr.ru/company/infopulse/blog/322320/
+
+Модель Акторов и C++: что, зачем и как? | https://habrahabr.ru/post/322250/
+
+Подробное введение в rvalue-ссылки для тех, кому не хватило краткого | https://habrahabr.ru/post/322132/
+
+Иммутабельные данные в C++ | https://habrahabr.ru/post/322208/
+
+Передаем указатели на функции-члены в C API | https://habrahabr.ru/post/321934/
+
+Как я СКАДу писал. Часть восьмая… | https://habrahabr.ru/post/322056/
+
+Портирование — дело тонкое: проверка Far Manager под Linux | https://habrahabr.ru/company/pvs-studio/blog/321948/
+
+Исключения в Windows x64. Как это работает. Часть 1 | https://habrahabr.ru/company/aladdinrd/blog/321868/
+
+Проверка open-source сервера World of Warcraft CMaNGOS | https://habrahabr.ru/company/pvs-studio/blog/321814/
+
+Как сделать из Ninja систему распределённой сборки? | https://habrahabr.ru/post/321660/
+
+C++ Russia: интервью с докладчиками | https://habrahabr.ru/company/cpp_russia/blog/321654/
+
+Как создавать, собирать, устанавливать и использовать пакеты с программами и библиотеками для UNIX-подобных систем | https://habrahabr.ru/post/321468/
+
+Метод рекурсивной координатной бисекции для декомпозиции расчетных сеток | https://habrahabr.ru/post/321456/
+
+Как работать с JIT | https://habrahabr.ru/company/badoo/blog/321378/
+
+Хост контроллер 3D принтера в 16 строк на С++ | https://habrahabr.ru/post/321314/
+
+Почему я не люблю синтетические тесты | https://habrahabr.ru/company/pvs-studio/blog/321242/
+
+Visual C++ for Linux Development: Практика использования для Windows разработчиков | https://habrahabr.ru/post/321228/
+
+Data Oriented Design на практике | https://habrahabr.ru/post/321106/
+
+Шустрый, удобный и кроссплатформенный профилировщик C++ кода | https://habrahabr.ru/post/318142/
+
+Исключения в UEFI приложении | https://habrahabr.ru/company/aladdinrd/blog/320948/
+
+Новая SQLite ORM для C++ | https://habrahabr.ru/post/320810/
+
+Практика метапрограммирования на C++: бинарное дерево поиска на этапе компиляции | https://habrahabr.ru/post/320686/
+
+Ускоряем передачу данных в localhost | https://habrahabr.ru/post/320508/
+
+Нескучный SCRUM и сегментация изображения для выделения Post-it наклеек | https://habrahabr.ru/post/320456/
+
+Как приручить дракона. Краткий пример на clang-c | https://habrahabr.ru/post/320074/
+
+Мастер-класс от JetBrains на C++ Russia 2017 | https://habrahabr.ru/company/JetBrains/blog/319780/
+
+Выпуск фреймворка Qt 5.8 | https://habrahabr.ru/post/320284/
+
+Visual C++ for IoT Development: Прорыв или разочарование? | https://habrahabr.ru/post/320120/
+
+Установка OpenCV в Windows для чайников и подключение библиотеки в Code Blocks | https://habrahabr.ru/post/318846/
+
+Расширение Visual C++ for Linux Development | https://habrahabr.ru/company/microsoft/blog/319962/
+
+dock: простая библиотека модульного тестирования кода на С++ | https://habrahabr.ru/post/319858/
+
+Кросскомпиляция под ARM | https://habrahabr.ru/post/319736/
+
+Unicode — это очень увлекательно | https://habrahabr.ru/post/319602/
+
+Одно приложение для трех платформ | https://habrahabr.ru/company/skyeng/blog/314662/
+
+Нейросетка играет в Доту | https://habrahabr.ru/post/319518/
+
+Неприлично простая реализация неприлично простого алгоритма генерации лабиринта | https://habrahabr.ru/post/319532/
+
+tiny-dnn — анонс библиотеки | https://habrahabr.ru/post/319436/
+
+C++17 изменения вывода auto при фигурной инициализации | https://habrahabr.ru/post/319474/
+
+Windows: Sleep(0.5) | https://habrahabr.ru/post/319402/
+
+Как PVS-Studio ищет ошибки: методики и технологии | https://habrahabr.ru/company/pvs-studio/blog/319382/
+
+Повышаем производительность кода: сначала думаем о данных | https://habrahabr.ru/company/mailru/blog/319194/
+
+Сохранение и загрузка игры в Unreal Engine | https://habrahabr.ru/post/319228/
+
+Головоломка по ассоциативным контейнерам STL или Как решить одну задачу восемью очень разными способами | https://habrahabr.ru/post/319252/
+
+Обнаружение в коде дефекта «разыменование нулевого указателя» | https://habrahabr.ru/company/echelon/blog/319218/
+
+Простая реализация FDTD на Java | https://habrahabr.ru/post/319216/
+
+Мастер-классы на C++ Russia 2017 | https://habrahabr.ru/company/cpp_russia/blog/319116/
+
+learnopengl. Урок 1.7 — Трансформации | https://habrahabr.ru/post/319144/
+
+О строковом форматировании в современном C++ | https://habrahabr.ru/post/318962/
+
+Абстрагируемся от горячих клавиш в десктопных приложениях, или как отлаживаться в любом IDE одними и теми же кнопками | https://habrahabr.ru/post/318934/
+
+Знакомство с Modbus | https://habrahabr.ru/post/318834/
+
+Как 10 лет назад начинался проект PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/318756/
+
+Идиома Ranges | https://habrahabr.ru/post/318266/
+
+Маршрутизация ортогональных соединений в редакторах диаграмм | https://habrahabr.ru/post/318722/
+
+Простейший вывод звука с помощью библиотеки Audiere | https://habrahabr.ru/post/318584/
+
+Создавая хтонических чудовищ, документируй | https://habrahabr.ru/post/318564/
+
+Самые востребованные языки программирования 2016 | https://habrahabr.ru/company/hh/blog/318450/
+
+История одного бага: выравнивание данных на x86 | https://habrahabr.ru/post/318456/
+
+Создание редактора квестов и диалогов для Unreal engine: Часть 2 технические аспекты | https://habrahabr.ru/post/318386/
+
+Создание редактора квестов и диалогов для Unreal engine: Часть 1 описание плагина | https://habrahabr.ru/post/318366/
+
+C++ Russia 2017 | https://habrahabr.ru/company/cpp_russia/blog/317386/
+
+Работа с кортежами С++ (std::tuple). Функции foreach, map и call | https://habrahabr.ru/post/318236/
+
+.NET-обёртки нативных библиотек на C++/CLI | https://habrahabr.ru/post/318224/
+
+Попытки открытия новой шашечной тактики или Что делать с несбыточной мечтой | https://habrahabr.ru/post/318210/
+
+Многопоточная сказка о потерянном времени | https://habrahabr.ru/post/318066/
+
+Декабрьский релиз ReSharper Ultimate 2016.3 | https://habrahabr.ru/company/JetBrains/blog/317936/
+
+Как написать свою «песочницу»: пример простейшей «песочницы». Часть II | https://habrahabr.ru/company/infowatch/blog/318026/
+
+Рекуррентные формулы для расчета ошибок итерационного суммирования двоичных чисел ограниченной длины | https://habrahabr.ru/post/317786/
+
+Lock-free структуры данных. Iterable list | https://habrahabr.ru/post/317882/
+
+Портабельный RWLock для Windows | https://habrahabr.ru/post/317958/
+
+Обертываем алгоритмы в итераторы | https://habrahabr.ru/company/piter/blog/317762/
+
+Как я в одиночку сделал игру и выводы | https://habrahabr.ru/post/317688/
+
+Оптимизация кода для платформы Эльбрус на простых примерах | https://habrahabr.ru/company/smartengines/blog/317672/
+
+Тестовое задание как средство сбора идей | https://habrahabr.ru/post/317610/
+
+OpenCV: установка таймаута на ожидание кадра в классе VideoCapture | https://habrahabr.ru/post/317624/
+
+Встраиваем PVS-Studio в Eclipse CDT (macOS) | https://habrahabr.ru/post/317518/
+
+Lock-free структуры данных. Итераторы: multi-level array | https://habrahabr.ru/post/314948/
+
+JetBrains Night в Москве. Видео. Как CLion справляется со сложностями языка C++ | https://habrahabr.ru/company/JetBrains/blog/317456/
+
+Как написать свою «песочницу»? Разбор простейшей «песочницы» | https://habrahabr.ru/company/infowatch/blog/317396/
+
+Сравнение стратегий игры 2048 | https://habrahabr.ru/post/317370/
+
+В C++17 до сих пор нет нормальных многомерных массивов, которые были в Fortran начиная с Fortran 90 | https://habrahabr.ru/post/317300/
+
+Генетический алгоритм своими руками | https://habrahabr.ru/post/317262/
+
+DEV Labs 2016. Онлайн конференция для C++ разработчиков. 10 декабря | https://habrahabr.ru/company/luxoft/blog/316920/
+
+Самая нужная программа на свете | https://habrahabr.ru/post/316814/
+
+Встраиваем PVS-Studio в Anjuta DevStudio (Linux) | https://habrahabr.ru/post/316720/
+
+Встраиваем PVS-Studio в Eclipse CDT (Linux) | https://habrahabr.ru/post/316670/
+
+С++17 и С++2a: новости со встречи ISO в Иссакуа | https://habrahabr.ru/company/yandex/blog/315606/
+
+Прогресс не стоит на месте: OpenMP 4.5 | https://habrahabr.ru/company/intel/blog/316164/
+
+Как использовать PVS-Studio бесплатно | https://habrahabr.ru/company/pvs-studio/blog/316484/
+
+Глобальные объекты и места их обитания | https://habrahabr.ru/company/playrix/blog/316416/
+
+Настоящая правда о сравнении CodeSonar и PC-lint | https://habrahabr.ru/company/pvs-studio/blog/316352/
+
+Лекции Техносферы. Подготовительный курс «Алгоритмы и структуры данных» (весна 2016) | https://habrahabr.ru/company/mailru/blog/316170/
+
+msvcore – c++, кроссплатформенная библиотека, велосипед и 12 лет разработки | https://habrahabr.ru/post/316220/
+
+Разбираемся в MAVLink. Часть 2 | https://habrahabr.ru/post/312592/
+
+Универсальный конструктор Auto | https://habrahabr.ru/post/316030/
+
+Задача коммивояжера методом Литтла на C++ | https://habrahabr.ru/post/316014/
+
+Как я написал систему визуализации для стенда | https://habrahabr.ru/post/315978/
+
+Релиз CLion 2016.3: улучшения поддержки C11, C++11 и C++14, изменения в работе с проектной моделью CMake и многое другое | https://habrahabr.ru/company/JetBrains/blog/315962/
+
+Доступен удобный браузер для выхода в сеть I2P | https://habrahabr.ru/post/315940/
+
+Использование технологий от Intel для передачи сетевого трафика из физического адаптера в виртуальный | https://habrahabr.ru/post/315914/
+
+Разделяемые указатели и многопоточность. И снова о них, в который раз | https://habrahabr.ru/post/311560/
+
+Расширения языков C и C++. Часть 1 | https://habrahabr.ru/post/315676/
+
+Алгоритм Форчуна на C++ для построения диаграммы Вороного на плоскости | https://habrahabr.ru/post/315658/
+
+Лепим микросервис | https://habrahabr.ru/post/315268/
+
+Делаем контур управления электродвигателем с заданием тока | https://habrahabr.ru/post/315488/
+
+Connect(); // 2016: Текстовая трансляция | https://habrahabr.ru/company/microsoft/blog/315434/
+
+learnopengl. Урок 1.6 — Текстуры | https://habrahabr.ru/post/315294/
+
+Как создавался PVS-Studio под Linux | https://habrahabr.ru/company/pvs-studio/blog/315232/
+
+Qt / QML REST Client | https://habrahabr.ru/post/314984/
+
+Думаешь, ты знаешь Си? | https://habrahabr.ru/company/edison/blog/315016/
+
+Пишем Rest API клиент на Qt5 | https://habrahabr.ru/post/314932/
+
+Разработка на базе фреймворка COREmanager. Как наши партнёры создавали решение для аутсорсинга техподдержки | https://habrahabr.ru/company/ispsystem/blog/314886/
+
+Оптимизация поиска при выборе кампании | https://habrahabr.ru/post/314818/
+
+Построение диаграммы Вороного методом 'разделяй и властвуй'. Релаксация Ллойда | https://habrahabr.ru/post/314852/
+
+Перевод: Анатомия игрового движка Total War, Часть 1 | https://habrahabr.ru/post/314744/
+
+Однократно выполняющийся блок в произвольном месте кода (C++11 и выше) | https://habrahabr.ru/post/314618/
+
+Измерение сопротивления и индуктивности двигателя постоянного тока | https://habrahabr.ru/post/314520/
+
+Как enum доступным всем сделать, да в мета-тип записать | https://habrahabr.ru/post/314486/
+
+Находим ошибки в коде проекта LLVM с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/314044/
+
+Реализация блочного шифра «Кузнечик» с режимом CFB на С++ | https://habrahabr.ru/post/313932/
+
+Сравнение библиотек логирования | https://habrahabr.ru/post/313686/
+
+Идем на рекорд: пятая проверка Chromium | https://habrahabr.ru/company/pvs-studio/blog/313670/
+
+Реализация Undo/Redo модели для сложного документа | https://habrahabr.ru/post/313654/
+
+JSON-RPC на C++ | https://habrahabr.ru/post/312994/
+
+PVS-Studio для Linux | https://habrahabr.ru/company/pvs-studio/blog/313498/
+
+Элементы функционального программирования в C++: частичное применение | https://habrahabr.ru/post/313370/
+
+learnopengl. Урок 1.5 — Shaders | https://habrahabr.ru/post/313380/
+
+Acyclic Visitor | https://habrahabr.ru/post/313134/
+
+Филиппинские кроссворды. Доработка мобильной 2D головоломки для работы с цветными кроссвордами | https://habrahabr.ru/post/313098/
+
+Майкл Фезерс, автор книги «Working Effectively with Legacy Code», едет в Харьков с докладом | https://habrahabr.ru/company/plarium/blog/313022/
+
+Анатомия KD-Деревьев | https://habrahabr.ru/post/312882/
+
+Задачка на std::multiset или поиск по полям структуры | https://habrahabr.ru/post/312830/
+
+Кластер Asterisk. Централизация информации о регистрации | https://habrahabr.ru/post/312630/
+
+Разбираемся в MAVLink. Часть 1 | https://habrahabr.ru/post/312300/
+
+Оптимизация кода: память | https://habrahabr.ru/post/312078/
+
+Visual Studio «15» Preview 5 | https://habrahabr.ru/company/infopulse/blog/312198/
+
+Нежная дружба агентов и исключений в SObjectizer | https://habrahabr.ru/post/312128/
+
+Разбор задачи с Международной олимпиады по информатике IOI 2016 | https://habrahabr.ru/post/312018/
+
+learnopengl. Урок 1.4 — Hello Triangle | https://habrahabr.ru/post/311808/
+
+Майкл Фезерс на uDev Tech Events: «Micro Refactoring and Macro Refactoring: Strategies and Techniques» | https://habrahabr.ru/company/plarium/blog/311912/
+
+Строки в кодовой памяти AVR | https://habrahabr.ru/post/311874/
+
+OpenGL ES 2.0. Отложенное освещение | https://habrahabr.ru/post/311730/
+
+libsodium: Public-key authenticated encryption или как я расшифровал сообщение без закрытого ключа | https://habrahabr.ru/post/311726/
+
+Я был просто обязан проверить проект ICQ | https://habrahabr.ru/company/pvs-studio/blog/311648/
+
+learnopengl. Урок 1.3 — Hello Window | https://habrahabr.ru/post/311234/
+
+Анимированные текстуры в OpenGL | https://habrahabr.ru/post/311346/
+
+JSON-сериализатор на быстрых шаблонах | https://habrahabr.ru/post/311262/
+
+learnopengl. Урок 1.2 — Создание окна | https://habrahabr.ru/post/311198/
+
+Анализ использования избыточности данных в качестве требуемой дополнительной памяти при сортировке алгоритмом слияния | https://habrahabr.ru/post/311150/
+
+Блокировки работают не так уж медленно | https://habrahabr.ru/company/infopulse/blog/311134/
+
+Какая-такая Data? Или ещё раз про MapReduce | https://habrahabr.ru/company/intersystems/blog/310180/
+
+Умный указатель для Pimpl | https://habrahabr.ru/post/311038/
+
+learnopengl. Урок 1.1 — OpenGL | https://habrahabr.ru/post/310790/
+
+SObjectizer: проблема перегрузки агентов и средства борьбы с ней | https://habrahabr.ru/post/310818/
+
+Моим самым важным проектом был интерпретатор байт-кода (или «как увидеть матрицу») | https://habrahabr.ru/post/310806/
+
+IL2CPP: вызовы методов | https://habrahabr.ru/company/plarium/blog/310614/
+
+Аналитическое вычисление производных на шаблонах C++ | https://habrahabr.ru/post/310016/
+
+Screen Space Ambient Occlusion | https://habrahabr.ru/post/310360/
+
+О фундаментальных ошибках в дизайне языков программирования | https://habrahabr.ru/company/infopulse/blog/310338/
+
+Встраивание функциональных объектов, функций и лямбд через шаблоны и унификация при помощи virtual на C++ | https://habrahabr.ru/post/310276/
+
+Наивная реализация std::bind(boost::bind) | https://habrahabr.ru/post/310270/
+
+15 самых популярных языков программирования по версии GitHub | https://habrahabr.ru/post/310262/
+
+Progrobot: бот справки по языкам программирования | https://habrahabr.ru/post/310162/
+
+Как избежать ошибок, используя современный C++ | https://habrahabr.ru/company/pvs-studio/blog/310064/
+
+Почему я отказался от Rust | https://habrahabr.ru/post/309968/
+
+Использование Android устройства в качестве тонкого UI для С++ программ | https://habrahabr.ru/post/309882/
+
+JetBrains Night в Москве 29 сентября | https://habrahabr.ru/company/JetBrains/blog/309830/
+
+Фатальные ошибки двоичной арифметики при работе с числами с плавающей точкой | https://habrahabr.ru/post/309812/
+
+Разработка мобильной 2D-игры «Составь слова из слова» | https://habrahabr.ru/post/309800/
+
+Оптимизация кода: процессор | https://habrahabr.ru/post/309796/
+
+Плохой код убивает | https://habrahabr.ru/post/309388/
+
+Диаграмма Вороного и её применения | https://habrahabr.ru/post/309252/
+
+Вывод типов в программировании | https://habrahabr.ru/post/309074/
+
+Baidu опубликовала демо инструмента глубинного обучения PaddlePaddle | https://habrahabr.ru/post/308994/
+
+Находим ошибки в коде компилятора GCC с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/308946/
+
+Простые сопрограммы для игр на C++ | https://habrahabr.ru/company/plarium/blog/308894/
+
+Перегрузка всех 49-и операторов в C++ | https://habrahabr.ru/post/308890/
+
+Let the Holy War begin: Java vs С++ | https://habrahabr.ru/company/jugru/blog/307180/
+
+OpenCV и обработка изображений | https://habrahabr.ru/company/piter/blog/308720/
+
+Синий. Нет! Жёлтый! — или — Дают ли новые языки программирования прирост скорости разработки | https://habrahabr.ru/post/308550/
+
+Пример использования policy-based design в С++ вместо копипасты и создания ООП-шых иерархий | https://habrahabr.ru/post/308594/
+
+Неожиданное поведение WinAPI-функции IsWow64Process() | https://habrahabr.ru/company/infopulse/blog/308490/
+
+Из опыта использования SObjectizer: акторы в виде конечных автоматов – это плохо или хорошо? | https://habrahabr.ru/post/308486/
+
+Оптимизация сравнения this с нулевым указателем в gcc 6.1 | https://habrahabr.ru/company/abbyy/blog/308346/
+
+Новый курс на платформе Stepic: «Углубленное программирование на С/С++» | https://habrahabr.ru/company/mailru/blog/308406/
+
+Использование С++ в AWS Lambda | https://habrahabr.ru/company/infopulse/blog/308330/
+
+Быстрее быстрого или глубокая оптимизация Медианной фильтрации для GPU Nvidia | https://habrahabr.ru/post/308214/
+
+1С, Linux, Excel, Word, OpenXML,ADO и Net Core | https://habrahabr.ru/post/308216/
+
+Как подружить Tensorflow и C++ | https://habrahabr.ru/post/308002/
+
+Qt: Вывод отчета стандартными средствами (или живем без генераторов отчета) | https://habrahabr.ru/post/308126/
+
+SObjectizer: от простого к сложному. Часть III | https://habrahabr.ru/post/308084/
+
+Не так-то просто обнулять массивы в VC++ 2015 | https://habrahabr.ru/company/abbyy/blog/307920/
+
+Преобразование обычного класса в странно повторяющийся шаблон | https://habrahabr.ru/post/307902/
+
+В ожидании Linux версии: проверка кода графического редактора Inkscape | https://habrahabr.ru/company/pvs-studio/blog/307786/
+
+Минуя бесконечность: t-тест своими руками | https://habrahabr.ru/post/307712/
+
+Каламбуры типизации функций в C | https://habrahabr.ru/post/307706/
+
+Как переменная может быть не равной её собственному значению | https://habrahabr.ru/post/307702/
+
+Chargebox на Arduino | https://habrahabr.ru/post/307518/
+
+Кроссплатформенное использование классов .Net в 1С через Native ВК. Или замена COM на Linux II | https://habrahabr.ru/post/307188/
+
+SObjectizer: от простого к сложному. Часть II | https://habrahabr.ru/post/307306/
+
+Const и оптимизации в C | https://habrahabr.ru/post/307266/
+
+Это маленькое чудо — алгоритм Кнута-Морриса-Пратта (КМП) | https://habrahabr.ru/post/307220/
+
+Борьба с загадочными падениями MSBuild на XamlTaskFactory | https://habrahabr.ru/post/307104/
+
+Долгожданная проверка CryEngine V | https://habrahabr.ru/company/pvs-studio/blog/307046/
+
+BILLmanager стал более открытым | https://habrahabr.ru/company/ispsystem/blog/306888/
+
+Coroutines everywhere | https://habrahabr.ru/post/306940/
+
+SObjectizer: от простого к сложному. Часть I | https://habrahabr.ru/post/306858/
+
+PVS-Studio признаётся в любви к Linux | https://habrahabr.ru/company/pvs-studio/blog/306636/
+
+Undo и Redo — анализ и реализации | https://habrahabr.ru/post/306398/
+
+Сообщество экспертов, совместная работа над проектами и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/306494/
+
+Желания сбываются: интересные Си++ конференции России | https://habrahabr.ru/company/pvs-studio/blog/306496/
+
+Представление движений в 3D моделировании: интерполяция, аппроксимация и алгебры Ли | https://habrahabr.ru/company/aligntechnology/blog/306400/
+
+Решаем проблемы с RAII у std::thread: cancellation_token как альтернатива pthread_cancel и boost::thread::interrupt | https://habrahabr.ru/post/306332/
+
+Троллейбус из буханки или alias analysis в LLVM | https://habrahabr.ru/post/306294/
+
+Команда PVS-Studio готовит технический прорыв, ну а пока перепроверим Blender | https://habrahabr.ru/company/pvs-studio/blog/306104/
+
+Релиз CLion 2016.2: удаленная отладка, поддержка формата Doxygen, новые возможности кодогенерации и многое другое | https://habrahabr.ru/company/JetBrains/blog/306028/
+
+Два в одном: USB хост и составное USB устройство | https://habrahabr.ru/post/305602/
+
+Оптимизация обработки изображений с использованием GPU на примере Медианной фильтрации | https://habrahabr.ru/post/305964/
+
+Последние новости о развитии C++ | https://habrahabr.ru/company/yandex/blog/304510/
+
+Анализ производительности отдельных подсистем программы по Linux perf report | https://habrahabr.ru/post/305188/
+
+Функторы (глава книги «Теория категорий для программистов») | https://habrahabr.ru/post/305018/
+
+Воспроизводим mp3 в своей программе и что может этому помешать | https://habrahabr.ru/post/304998/
+
+Концепты для отчаявшихся | https://habrahabr.ru/post/304728/
+
+Распознавание паспорта РФ на платформе Эльбрус. Часть 1 | https://habrahabr.ru/company/smartengines/blog/304750/
+
+PVS-Studio спешит на помощь CERN: проверка проекта Geant4 | https://habrahabr.ru/company/pvs-studio/blog/304626/
+
+Кроссплатформенное использование классов .Net в 1С через Native ВК. Или замена COM на Linux | https://habrahabr.ru/post/304542/
+
+Перевод С++ проекта на разработку с юнит-тестированием/TDD | https://habrahabr.ru/post/304492/
+
+Кроссплатформенное использование классов .Net из неуправляемого кода. Или аналог IDispatch на Linux | https://habrahabr.ru/post/304482/
+
+Апогей возможностей первокурсника — первая консольная игра на С++ | https://habrahabr.ru/post/304448/
+
+SObjectizer: что это, для чего это и почему это выглядит именно так? | https://habrahabr.ru/post/304386/
+
+std::shared_ptr и кастомный аллокатор | https://habrahabr.ru/post/304308/
+
+Анализ потокобезопасности в С++ | https://habrahabr.ru/company/infopulse/blog/304176/
+
+Единорог, который смог | https://habrahabr.ru/company/pvs-studio/blog/303854/
+
+Опыт разработки управляющего ПО для квеструма | https://habrahabr.ru/post/303742/
+
+QtQuick/QML в качестве игрового UI | https://habrahabr.ru/post/303722/
+
+Ищем аномалии в X-Ray Engine | https://habrahabr.ru/company/pvs-studio/blog/303664/
+
+Relinx — ещё одна реализация .NET LINQ методов на C++, с поддержкой «ленивых вычислений» | https://habrahabr.ru/post/303538/
+
+Проверка проекта OpenJDK с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/303534/
+
+Выпуск фреймворка Qt 5.7 | https://habrahabr.ru/post/303498/
+
+Создание компонента движения для системы лазания в Unreal Engine | https://habrahabr.ru/post/303394/
+
+Функциональное программирование непопулярно, потому что оно странное | https://habrahabr.ru/post/303312/
+
+Пишем сериализатор для сетевой игры на C++11 | https://habrahabr.ru/post/303368/
+
+2-3-дерево. Наивная реализация | https://habrahabr.ru/post/303374/
+
+Яндекс открывает ClickHouse | https://habrahabr.ru/company/yandex/blog/303282/
+
+«Привет, мир!» как инструмент для оценки навыков программирования | https://habrahabr.ru/post/303194/
+
+OpenGL ES 2.0. Один миллион частиц | https://habrahabr.ru/post/303142/
+
+Теория графов в Игре Престолов | https://habrahabr.ru/post/302936/
+
+Node-SPICE: Моделирование переходных процессов в электрической сети | https://habrahabr.ru/company/intel/blog/301684/
+
+Динамический неоднородный плотно упакованный контейнер | https://habrahabr.ru/post/302372/
+
+Разработка класса для работы с цепями Маркова | https://habrahabr.ru/post/302392/
+
+C++ без new и delete | https://habrahabr.ru/company/aligntechnology/blog/283352/
+
+Stack Trace в C++ или велосипедирование, уровень «Быдлокод» | https://habrahabr.ru/post/302170/
+
+Нейронная сеть Хопфилда на пальцах | https://habrahabr.ru/post/301406/
+
+Large-Scale C++ Software Design рулит | https://habrahabr.ru/company/piter/blog/301978/
+
+Почему я больше не использую современный C++ | https://habrahabr.ru/company/pvs-studio/blog/301736/
+
+Marmalade SDK. Интеграция с сервисами рекламы AdMob, Chartboost, Inmobi и Leadbolt на платформах iOS и Android | https://habrahabr.ru/post/301716/
+
+Функциональное тестирование программ на Qt | https://habrahabr.ru/post/301702/
+
+Сотрудники Яндекса будут представлять Россию в комитете по стандартизации C++ | https://habrahabr.ru/company/yandex/blog/301514/
+
+Как отслеживать новости в мире C++ | https://habrahabr.ru/company/infopulse/blog/301466/
+
+C++ User Group, встреча в Казани 28 мая 2016 | https://habrahabr.ru/post/301440/
+
+У вас не найдется минутки чтобы поговорить о C++? | https://habrahabr.ru/company/kaspersky/blog/301248/
+
+Разработка приложения для разгадывания филиппинских кроссвордов на C++ в среде Marmalade SDK | https://habrahabr.ru/post/301184/
+
+Предупреждения компилятора в С++: принять нельзя отказать | https://habrahabr.ru/company/cloud4y/blog/301006/
+
+Сжатие и передача потокового видео по TCP с помощью OpenCV | https://habrahabr.ru/post/301018/
+
+Передача видео с глубоководного робота | https://habrahabr.ru/post/277955/
+
+Японские кроссворды на QtQuick | https://habrahabr.ru/post/283474/
+
+Добавление в Unreal Engine поддержки dxf формата | https://habrahabr.ru/post/283554/
+
+Vulkan API (glNext) от Khronos Group | https://habrahabr.ru/post/283490/
+
+Давайте знакомиться: компания Align Technology | https://habrahabr.ru/company/aligntechnology/blog/283470/
+
+Приводим данные и код в порядок: данные и разметка, часть 2 | https://habrahabr.ru/company/intel/blog/283196/
+
+SDK для внедрения поддержки электронных книг в формате FB2 | https://habrahabr.ru/company/edison/blog/282804/
+
+Проверка Firebird 3.0 | https://habrahabr.ru/company/pvs-studio/blog/283348/
+
+Microsoft избавится от телеметрии в Visual C++ в Update 3 | https://habrahabr.ru/post/283308/
+
+Вы не знаете Node: краткий обзор основных возможностей | https://habrahabr.ru/company/mailru/blog/283228/
+
+Приводим данные и код в порядок: оптимизация и память, часть 1 | https://habrahabr.ru/company/intel/blog/282738/
+
+Очередная Reflection Library и ORM для C++ | https://habrahabr.ru/post/282660/
+
+C++ pattern matching | https://habrahabr.ru/post/282630/
+
+Рендеринг капли с прозрачностью и отражениями на OpenGL | https://habrahabr.ru/post/282590/
+
+Garbage Collector & C++ | https://habrahabr.ru/post/282544/
+
+Интеграция PVS-Studio в CI процесс | https://habrahabr.ru/company/aligntechnology/blog/282473/
+
+C/C++: как измерять процессорное время | https://habrahabr.ru/post/282301/
+
+Рендеринг UTF-8 текста с помощью SDF шрифта | https://habrahabr.ru/post/282191/
+
+Как это сделано: мобильный кроссплатформенный движок | https://habrahabr.ru/post/282065/
+
+Немного рефлексии для С++. Часть третья: документационная | https://habrahabr.ru/post/281997/
+
+Капелька рефлексии для С++. Часть вторая: публикация на GitHub | https://habrahabr.ru/post/281995/
+
+Капелька рефлексии для С++. Часть первая: ретроспектива разработки | https://habrahabr.ru/post/281993/
+
+JetCat: микроQt для тех, кому попроще | https://habrahabr.ru/post/281971/
+
+IL2CPP: советы по отладке генерируемого кода | https://habrahabr.ru/company/plarium/blog/281829/
+
+Генерация шейдеров GLSL, HLSL, Metal | https://habrahabr.ru/post/281767/
+
+Главный вопрос программирования, рефакторинга и всего такого | https://habrahabr.ru/company/pvs-studio/blog/281719/
+
+Nix как менеджер зависимостей для C++ | https://habrahabr.ru/post/281611/
+
+Urho3D: Игры всерьез | https://habrahabr.ru/post/280752/
+
+Как написать фильтр Блума в C ++ | https://habrahabr.ru/company/ua-hosting/blog/281517/
+
+Стандартная библиотека Visual Studio 2015 и телеметрия | https://habrahabr.ru/post/281374/
+
+QtWebApp — пошаговый разжёванный пример с подробными комментариями | https://habrahabr.ru/company/edison/blog/280932/
+
+Логические выражения в C/C++. Как ошибаются профессионалы | https://habrahabr.ru/company/pvs-studio/blog/281316/
+
+Небольшое сравнение производительности UWP/WinRT API языковых проекций | https://habrahabr.ru/post/280722/
+
+Плохой код пакета для создания 2D-анимаций Toonz | https://habrahabr.ru/company/pvs-studio/blog/281138/
+
+Безопасная очистка приватных данных | https://habrahabr.ru/company/pvs-studio/blog/281072/
+
+Релиз AppCode 2016.1: улучшенная поддержка Swift и C++ | https://habrahabr.ru/company/JetBrains/blog/280972/
+
+IL2CPP: экскурсия по генерируемому коду | https://habrahabr.ru/company/plarium/blog/280824/
+
+Фреймворк Fastcgi Container | https://habrahabr.ru/post/280814/
+
+Математика на пальцах: ардуино головного мозга или линейно-квадратичный регулятор для управления электродвигателем | https://habrahabr.ru/post/280486/
+
+C++ Russia 2016 на ++5 | https://habrahabr.ru/post/280628/
+
+Кроссплатформенные интегральные типы C++ | https://habrahabr.ru/post/280542/
+
+Видео-туториалы запуска вычислительных задач на Python, R, С++, Octave и Blender во FlyElephant | https://habrahabr.ru/company/flyelephant/blog/280472/
+
+Анатомия редакторов документов: общий код для онлайн и оффлайн-версий редакторов ONLYOFFICE | https://habrahabr.ru/company/teamlab/blog/279397/
+
+Создание своего режима редактирования в Unreal Engine | https://habrahabr.ru/post/280318/
+
+Реализация макроса try для gcc под win32 | https://habrahabr.ru/post/280304/
+
+Фреймворк Silicon — WebAPI на C++ | https://habrahabr.ru/company/infopulse/blog/280214/
+
+Парсим HTML на C++ и Gumbo | https://habrahabr.ru/post/280270/
+
+3.2 Обработка событий | https://habrahabr.ru/post/280153/
+
+C++17, который мы потеряли | https://habrahabr.ru/company/infopulse/blog/279927/
+
+Оценка и оптимизация производительности вычислений на многоядерных системах. Часть 2 | https://habrahabr.ru/company/intel/blog/279669/
+
+3.1 Открытие и управление окнами | https://habrahabr.ru/post/279957/
+
+JetBrains C++ night: впечатления и записи докладов | https://habrahabr.ru/company/JetBrains/blog/279925/
+
+Потокобезопасные сигналы, которыми действительно удобно пользоваться | https://habrahabr.ru/post/279851/
+
+Проверка исходного кода игрового движка Serious Engine v.1.10 к юбилею шутера Serious Sam | https://habrahabr.ru/company/pvs-studio/blog/279805/
+
+Обходим антивирус при помощи десяти строк кода | https://habrahabr.ru/company/ua-hosting/blog/279791/
+
+Машина Тьюринга на шаблонах | https://habrahabr.ru/post/279745/
+
+Выпуск фреймворка Qt 5.6 | https://habrahabr.ru/post/279731/
+
+2.3 Работа с пользовательскими потоками данных | https://habrahabr.ru/post/279689/
+
+2.2 Потоки | https://habrahabr.ru/post/279653/
+
+Релиз CLion 2016.1: новые инструменты и новые языки | https://habrahabr.ru/company/JetBrains/blog/279625/
+
+Немного размышлений и советов по оптимизации кода на С++ | https://habrahabr.ru/company/mailru/blog/279449/
+
+Мой велосипед или о том как я сэкономил свои нервные клетки | https://habrahabr.ru/post/279499/
+
+На чем писать десктопного клиента для веб-сервиса? | https://habrahabr.ru/post/279447/
+
+2.1 Обработка времени | https://habrahabr.ru/post/279347/
+
+1.5 Компиляция SFML с помощью CMake | https://habrahabr.ru/post/279279/
+
+Конечное поле GF(256) и немного магии | https://habrahabr.ru/post/279197/
+
+Краткий курс компьютерной графики: задание карт нормалей в касательном пространстве | https://habrahabr.ru/post/279143/
+
+С++ exception handling под капотом. Часть 3 | https://habrahabr.ru/post/279149/
+
+С++ exception handling под капотом. Часть 2 | https://habrahabr.ru/post/279151/
+
+С++ exception handling под капотом или как же работают исключения в C++ | https://habrahabr.ru/post/279111/
+
+1.4 SFML и Xcode (Mac OS X) | https://habrahabr.ru/post/279147/
+
+1.3 SFML и Linux | https://habrahabr.ru/post/279107/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 6 (Заключительная) | https://habrahabr.ru/post/278697/
+
+1.2 SFML и Code::Blocks (MinGW) | https://habrahabr.ru/post/279069/
+
+Костылик для сигнал-слот системы в Qt | https://habrahabr.ru/post/279007/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 5 (uniset2-testsuite) | https://habrahabr.ru/post/278607/
+
+1.1 SFML и Visual Studio | https://habrahabr.ru/post/278977/
+
+Свежий взгляд на код Oracle VM VirtualBox | https://habrahabr.ru/company/pvs-studio/blog/278959/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 4 (Наладка) | https://habrahabr.ru/post/278589/
+
+Решение задачи FizzBuzz | https://habrahabr.ru/post/278867/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 3 (Создание процесса управления) | https://habrahabr.ru/post/278565/
+
+Работа с приватными репозиториями и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/278751/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 2 (Запуск имитатора) | https://habrahabr.ru/post/278537/
+
+libuniset2 — библиотека для создания АСУ. Лучше один раз увидеть…Часть 1 | https://habrahabr.ru/post/278535/
+
+Использование кодовой базы проекта Chromium в качестве SDK для разработки кроссплатформенных приложений | https://habrahabr.ru/post/278579/
+
+Создание системы расстановки объектов по уровню при помощи редактора blueprint. Часть 2: добавление окна пред просмотра | https://habrahabr.ru/post/278491/
+
+Снова про STL: контейнеры | https://habrahabr.ru/company/ua-hosting/blog/278369/
+
+Возражения против принятия Coroutines с await в C++17 | https://habrahabr.ru/post/278267/
+
+CMake — создание динамических библиотек | https://habrahabr.ru/post/278207/
+
+Снова про STL | https://habrahabr.ru/company/ua-hosting/blog/278039/
+
+Pathfinding: До одури простая реализация алгоритма воронки (Funnel Algorithm) | https://habrahabr.ru/post/278151/
+
+Хуки — это просто (часть 3) | https://habrahabr.ru/company/infopulse/blog/277995/
+
+Что происходит в C++. Интервью с докладчиками и прямая трансляция встречи в Яндексе | https://habrahabr.ru/company/yandex/blog/277953/
+
+Использование библиотеки OpenSSL в проектах на C++ | https://habrahabr.ru/post/277935/
+
+Удобное преобразование перечислений (enum) в строковые в С++ | https://habrahabr.ru/company/nixsolutions/blog/277757/
+
+Другая реализация метафункции is_function<T> для C++98/03 | https://habrahabr.ru/post/277727/
+
+Ленивый список в C++ | https://habrahabr.ru/post/277737/
+
+C++ SDK для Amazon Web Services | https://habrahabr.ru/company/infopulse/blog/277711/
+
+Математика на пальцах: линейно-квадратичный регулятор | https://habrahabr.ru/post/277671/
+
+Рендеринг двунаправленного текста с поддержкой диакритиков | https://habrahabr.ru/post/277525/
+
+Создание системы расстановки объектов по уровню при помощи редактора blueprint | https://habrahabr.ru/post/277515/
+
+Как непродуманные предупреждения компиляторов помогают портить совершенно правильный код | https://habrahabr.ru/company/abbyy/blog/277261/
+
+PVS-Studio покопался в ядре FreeBSD | https://habrahabr.ru/company/pvs-studio/blog/277439/
+
+Математика на пальцах: методы наименьших квадратов | https://habrahabr.ru/post/277275/
+
+Copy elision, или как отстрелить ногу по самую шею… | https://habrahabr.ru/post/277333/
+
+Рефлексия и кодогенерация в C++ | https://habrahabr.ru/post/277329/
+
+Вот он, мутирующий алгоритм. Или чего не может «Lisp» | https://habrahabr.ru/post/277305/
+
+Шаблонный метод | https://habrahabr.ru/post/277295/
+
+Отличные типы данных в языке «Автор» | https://habrahabr.ru/post/277195/
+
+Простейшие самообучающиеся алгоритмы на языке «Автор» | https://habrahabr.ru/post/277145/
+
+Amazon представила новый бесплатный игровой движок Lumberyard | https://habrahabr.ru/post/277005/
+
+Шизоидный язык программирования самообучающихся алгоритмов «Автор» | https://habrahabr.ru/post/276895/
+
+Nuget++ для бедных | https://habrahabr.ru/post/276883/
+
+Передача сообщений между потоками. Классические блокирующие алгоритмы | https://habrahabr.ru/post/211717/
+
+Добавляем рефлексию для перечислений (enum) в C++ | https://habrahabr.ru/post/276763/
+
+Профилирование запросов к SQLite для Qt приложений | https://habrahabr.ru/post/276711/
+
+Undefined behavior ближе, чем вы думаете | https://habrahabr.ru/company/pvs-studio/blog/276657/
+
+Профилировка производительности и памяти с разных углов обзора | https://habrahabr.ru/post/276607/
+
+Введение в IL2CPP | https://habrahabr.ru/company/plarium/blog/276589/
+
+Отчёт по итогам посещения ISC-2015 | https://habrahabr.ru/company/acronis/blog/276541/
+
+«Почему ещё не изобрели искусственный интеллект?» или проверка инструментария CNTK от Microsoft Research | https://habrahabr.ru/company/pvs-studio/blog/276427/
+
+JSON Schema и ее использование для валидация JSON-документов в C++ | https://habrahabr.ru/post/276305/
+
+Управление игровыми состояниями в C++ | https://habrahabr.ru/company/piter/blog/276165/
+
+Unmanaged C++ library в .NET. Полная интеграция | https://habrahabr.ru/company/simbirsoft/blog/276011/
+
+Диалог выбора файлов на Wt | https://habrahabr.ru/post/275453/
+
+Rust и парадокс Блаба | https://habrahabr.ru/post/275801/
+
+Проект Qt меняет лицензию и открывает код некоторых модулей | https://habrahabr.ru/post/275725/
+
+Новости про C++ продукты и JetBrains C++ Night в Санкт-Петербурге | https://habrahabr.ru/company/JetBrains/blog/275723/
+
+ChakraCore: проверка JavaScript-движка для Microsoft Edge | https://habrahabr.ru/company/pvs-studio/blog/275701/
+
+FlyElephant как инструмент для вычислений на C++, R, Python или Octave | https://habrahabr.ru/company/flyelephant/blog/275571/
+
+Защита утилиты шифрования Scrypt с помощью Intel® Tamper Protection Toolkit | https://habrahabr.ru/company/intel/blog/274045/
+
+Моки, фейки и заглушки на C++ | https://habrahabr.ru/company/plarium/blog/275521/
+
+Поиск множества регулярных выражений при помощи библиотеки Hyperscan | https://habrahabr.ru/post/275507/
+
+Как не стать программистом или… тебе здесь не место | https://habrahabr.ru/post/275409/
+
+Система плагинов и модулей в Unreal Engine 4 | https://habrahabr.ru/post/275239/
+
+Isotoxin: свободный мультипротокольный мессенджер с поддержкой Tox | https://habrahabr.ru/post/274417/
+
+Автоматический контроль времени жизни общих C++-QML объектов | https://habrahabr.ru/post/274915/
+
+Вычисление биномиальных коэффициентов… всё-таки программно | https://habrahabr.ru/post/274911/
+
+Выходу Dolphin Smalltalk 7 под Open Sourсe посвящается | https://habrahabr.ru/company/pvs-studio/blog/274909/
+
+Слон и Моська, или подключение LCD к Attiny13A | https://habrahabr.ru/post/274895/
+
+ProDBG переходит на Rust | https://habrahabr.ru/post/274767/
+
+Низкоуровневая оптимизация параллельных алгоритмов или SIMD в .NET | https://habrahabr.ru/post/274605/
+
+Расчет биномиальных коэффициентов на Си (С++) и Python | https://habrahabr.ru/post/274689/
+
+Итоги 2015-го года для C++ | https://habrahabr.ru/company/infopulse/blog/274549/
+
+Скриншотим игры — the hard way | https://habrahabr.ru/post/272989/
+
+Создание своего типа ассета в Unreal Engine 4 и кастомизация панели свойств | https://habrahabr.ru/post/274159/
+
+Разработка цифровой аппаратуры на C++/SystemC глазами SystemVerilog программиста | https://habrahabr.ru/post/274137/
+
+Простые алгебраические типы данных | https://habrahabr.ru/post/274103/
+
+«Roslyn — еще очень сырая технология» — интервью с Сергеем Шкредовым, руководителем .NET-направления в JetBrains | https://habrahabr.ru/company/jugru/blog/274091/
+
+Сравнение алгоритмов сортировки | https://habrahabr.ru/post/274017/
+
+Компилируем С\С++ код в WebAssembly | https://habrahabr.ru/company/infopulse/blog/273957/
+
+Intel® Tamper Protection Toolkit — обфусцирующий компилятор и средства проверки целостности кода | https://habrahabr.ru/company/intel/blog/273183/
+
+QThread + QtSql the right way | https://habrahabr.ru/post/273743/
+
+Как мы распаковку игры автоматизировали | https://habrahabr.ru/post/273595/
+
+Распараллеливание алгоритма Штрассена на Intel® Xeon Phi(TM) | https://habrahabr.ru/company/singularis/blog/273585/
+
+Конференция C++ Russia 2016, Санкт-Петербург | https://habrahabr.ru/company/cpp_russia/blog/272931/
+
+Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов | https://habrahabr.ru/post/273401/
+
+Сравнительный анализ языков C# и C++ | https://habrahabr.ru/post/273331/
+
+С-подобные структуры в JavaScript | https://habrahabr.ru/post/273275/
+
+Мой опыт работы с wxWidgets | https://habrahabr.ru/post/273141/
+
+Смешиваем цвета правильно или оптимизируем AlphaBlend | https://habrahabr.ru/post/273109/
+
+Выпущен CrystaX NDK 10.3.0 | https://habrahabr.ru/post/273053/
+
+Marmalade C++ и ShiVa3D: начало работы с игровыми движками для платформы Android x86 | https://habrahabr.ru/company/intel/blog/272821/
+
+Самомодифицирующийся код | https://habrahabr.ru/post/272619/
+
+memset — сторона тьмы | https://habrahabr.ru/post/272269/
+
+Вперед, на поиски палиндромов 2 | https://habrahabr.ru/post/272555/
+
+Опыт разработки аркады под Android на С++ и Qt | https://habrahabr.ru/post/272423/
+
+Verone — статический анализатор для C++ с анализом на лету | https://habrahabr.ru/post/272407/
+
+Кросс-компиляция и сборка пакета под Synology DSM | https://habrahabr.ru/post/271011/
+
+Альтернатива стандарту IEEE754 | https://habrahabr.ru/post/272251/
+
+Самая опасная функция в мире С/С++ | https://habrahabr.ru/company/pvs-studio/blog/272243/
+
+Контрольная цифра методом Дамма | https://habrahabr.ru/post/272003/
+
+Написание МКЭ расчетчика в менее чем 180 строк кода | https://habrahabr.ru/post/271723/
+
+Анонс онлайн-курсов Технопарка, Техносферы и Технотрека на Stepic | https://habrahabr.ru/company/mailru/blog/271971/
+
+Произведения и копроизведения | https://habrahabr.ru/post/271927/
+
+Лёгкий блочный шифр Speck, или пылинка от агенства, которого нет | https://habrahabr.ru/post/271435/
+
+Поразрядная сортировка с человеческим лицом | https://habrahabr.ru/post/271677/
+
+Управление осциллографами Tektronix из Visual Studio | https://habrahabr.ru/post/271641/
+
+Атомарная обработка блоков данных без блокировки | https://habrahabr.ru/post/271583/
+
+Lock-free алгоритмы и реализация стека | https://habrahabr.ru/post/271549/
+
+Декларативное программирование на C++ | https://habrahabr.ru/post/270545/
+
+Защищенное TLS-соединение с использованием Boost.Asio и OpenSSL под Windows | https://habrahabr.ru/post/271203/
+
+Индикация уведомлений светодиодом веб-камеры [Часть 2] | https://habrahabr.ru/post/271187/
+
+Индикация уведомлений светодиодом веб-камеры [Часть 1] | https://habrahabr.ru/post/271125/
+
+Маленькая ОС с нуля на C++ и ассемблере | https://habrahabr.ru/post/270939/
+
+Дизайн и эволюция языка С++: выдержки | https://habrahabr.ru/post/270445/
+
+Sublime Text как IDE для ARM на примере STM32 | https://habrahabr.ru/post/270789/
+
+Империя наносит ответный удар | https://habrahabr.ru/company/pvs-studio/blog/270783/
+
+Статический анализ printf-like функций в Си при помощи libclang | https://habrahabr.ru/post/270743/
+
+Книга «Изучаем C++ через программирование игр» | https://habrahabr.ru/company/piter/blog/270559/
+
+Простой инлайн-визитор для boost::variant | https://habrahabr.ru/post/270689/
+
+Бюджетная рассылка СМС | https://habrahabr.ru/post/261387/
+
+CLion 1.2: еще больше возможностей и преимуществ | https://habrahabr.ru/company/JetBrains/blog/270185/
+
+К тридцатилетию первого C++ компилятора: ищем ошибки в Cfront | https://habrahabr.ru/company/pvs-studio/blog/270191/
+
+Онлайн-компиляция на статическом сайте, рецепт для начинающих | https://habrahabr.ru/post/270141/
+
+30 лет С++ | https://habrahabr.ru/post/270083/
+
+Управление памятью: Взгляд изнутри | https://habrahabr.ru/post/270009/
+
+Сортировка без if-ов | https://habrahabr.ru/post/269875/
+
+Платформа «1С: Предприятие» — что под капотом? | https://habrahabr.ru/company/1c/blog/269611/
+
+Поиск неинициализированных членов класса | https://habrahabr.ru/company/pvs-studio/blog/269599/
+
+Встроить JSON в Embedded? Проще простого | https://habrahabr.ru/post/269383/
+
+Конвертация видео файла в gif | https://habrahabr.ru/post/269315/
+
+Microsoft добавит поддержку компилятора Clang в ноябрьском обновлении Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/269313/
+
+Правила безопасного программирования на С: прошлое, настоящее и будущее | https://habrahabr.ru/company/luxoft/blog/269305/
+
+Схема Блома | https://habrahabr.ru/post/269229/
+
+Легендарные книги Амазона. Продолжение темы «Elements of Programming Interviews: The Insiders' Guide» | https://habrahabr.ru/company/piter/blog/269169/
+
+C++ Russia в Санкт-Петербурге | https://habrahabr.ru/company/cpp_russia/blog/268757/
+
+Алло! Это FreeSWITCH? Тогда мы проверим вас | https://habrahabr.ru/company/pvs-studio/blog/268603/
+
+Внешняя сортировка с O(1) дополнительной памяти | https://habrahabr.ru/post/268535/
+
+Настройка GPIO в Coremodule 920 | https://habrahabr.ru/post/268523/
+
+Поисковые подсказки изнутри | https://habrahabr.ru/company/mailru/blog/267469/
+
+Добавление нового семейства процессоров в IDA pro | https://habrahabr.ru/post/268339/
+
+Неконстантные константные выражения | https://habrahabr.ru/post/268141/
+
+Простой графический редактор с использованием OpenCV | https://habrahabr.ru/post/268115/
+
+Масштабируемая библиотека сериализации/десериализации JSON | https://habrahabr.ru/post/268015/
+
+По следам C++ Siberia: дракон в мешке | https://habrahabr.ru/post/267239/
+
+Проверяем исходный код Appleseed | https://habrahabr.ru/company/pvs-studio/blog/267893/
+
+Бинарные деревья поиска и рекурсия – это просто | https://habrahabr.ru/post/267855/
+
+Нет ничего проще, чем вызвать функцию, я сам это делал неоднократно | https://habrahabr.ru/post/267771/
+
+Поддержка C++ модулей в Visual Studio 2015 Update 1 | https://habrahabr.ru/company/infopulse/blog/267781/
+
+Статический анализ кода Mozilla Thunderbird c помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/267663/
+
+Программа для генерации звукового кода Морзе | https://habrahabr.ru/post/267605/
+
+Проверка Telegram с помощью PVS-Studio и наоборот | https://habrahabr.ru/company/pvs-studio/blog/267567/
+
+Реплицируемый объект. Часть 1: Введение | https://habrahabr.ru/post/267509/
+
+Вебинар: Основы распараллеливания С/С++ программ при помощи OpenMP | https://habrahabr.ru/company/flyelephant/blog/267453/
+
+Анонс C++ Core Guidelines | https://habrahabr.ru/post/267413/
+
+Intel Threading Building Blocks 4.4 – что нового? | https://habrahabr.ru/company/intel/blog/266587/
+
+Блок-схема для выбора STL-алгоритма | https://habrahabr.ru/post/267345/
+
+Rust, дисциплинирующий язык программирования | https://habrahabr.ru/company/piter/blog/267203/
+
+Оптимизация быстродействия динамического выделения памяти в многопоточной библиотеке | https://habrahabr.ru/post/267155/
+
+Простой алгоритм определения пересечения двух отрезков | https://habrahabr.ru/post/267037/
+
+Инкапсуляция интерфейсов. Делаем API в C++ удобным и понятным | https://habrahabr.ru/company/parallels/blog/266999/
+
+Как подружить C++ и QML | https://habrahabr.ru/post/266985/
+
+Использование QCustomPlot для создания анимированных графиков | https://habrahabr.ru/post/266957/
+
+Пешком по тайлам | https://habrahabr.ru/company/2gis/blog/266753/
+
+Простая в использовании обертка над LoadLibrary() и GetProcAddress() | https://habrahabr.ru/post/266809/
+
+Логируем контекст исключений | https://habrahabr.ru/post/266729/
+
+Способ написания синтаксических анализаторов на c++ | https://habrahabr.ru/post/266589/
+
+Защита корпоративных приложений: как стать разработчиком PT Application Firewall | https://habrahabr.ru/company/pt/blog/266415/
+
+Еще одно сравнение производительности С++ и C# | https://habrahabr.ru/post/266373/
+
+Избитая банальность. Как школьник бота писал | https://habrahabr.ru/post/266351/
+
+Конференция C++ Siberia'2015 | https://habrahabr.ru/company/cpp_russia/blog/265949/
+
+Сравнение производительности С++ и C# | https://habrahabr.ru/post/266163/
+
+Дополненная реальность на Qt | https://habrahabr.ru/post/265713/
+
+Как сделать тетрис за полгода на cocos2dx | https://habrahabr.ru/post/265809/
+
+gRPC — фреймворк от Google для удалённого вызова процедур | https://habrahabr.ru/company/infopulse/blog/265805/
+
+Intel Parallel Studio XE 2016: новые возможности компилятора C/C++ | https://habrahabr.ru/company/intel/blog/265565/
+
+NW.js (Node-Webkit) + Рутокен = RutokenJS (Начало) | https://habrahabr.ru/post/265575/
+
+Новый профилировщик памяти в Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/265507/
+
+Делаем свой итератор | https://habrahabr.ru/post/265491/
+
+Интервалы в С++, часть 4: к бесконечности и далее | https://habrahabr.ru/company/cpp_russia/blog/265355/
+
+Настоящее и будущее C++. Интервью с Эриком Ниблером | https://habrahabr.ru/company/yandex/blog/265351/
+
+Оптимизация циклов: нужны блоки | https://habrahabr.ru/company/intel/blog/265095/
+
+Числовые типы и контейнеры C++ с точки зрения производительности | https://habrahabr.ru/post/265323/
+
+Однослойный перцептрон для начинающих | https://habrahabr.ru/post/265301/
+
+Доступно обновление для ReSharper Ultimate | https://habrahabr.ru/company/JetBrains/blog/265191/
+
+Документируем ошибки в Doxygen | https://habrahabr.ru/company/pvs-studio/blog/265025/
+
+В Университете Иннополис открылась Школа высокопроизводительных вычислений в научных и инженерных задачах | https://habrahabr.ru/company/innopolis_university/blog/264977/
+
+Интервалы в С++, часть 3: представляем инкременторы (Iterable) | https://habrahabr.ru/company/cpp_russia/blog/264975/
+
+Когда размер имеет значение | https://habrahabr.ru/company/intel/blog/264795/
+
+Расковыриваем сжатие ресурсов в Might and Magic III | https://habrahabr.ru/post/264947/
+
+Мобильная печать | https://habrahabr.ru/post/264829/
+
+Упрощаем for-цикл по индексам: range-based версия | https://habrahabr.ru/post/264803/
+
+JetBrains Product Pack for Students и как его получить | https://habrahabr.ru/post/264767/
+
+DxGetText — GNU Gettext for Delphi and C++ Builder | https://habrahabr.ru/post/264693/
+
+О пользе изучения языков семейства С | https://habrahabr.ru/company/nixsolutions/blog/264559/
+
+Вебинар «Знакомство с FlyElephant» | https://habrahabr.ru/company/flyelephant/blog/264557/
+
+Технологии ASR и TTS для прикладного программиста: теоретический минимум | https://habrahabr.ru/post/264531/
+
+Интервалы в С++, часть 2: Бесконечные интервалы | https://habrahabr.ru/company/cpp_russia/blog/264473/
+
+Интервалы в С++, часть 1: Интервалы с ограничителями | https://habrahabr.ru/company/cpp_russia/blog/264201/
+
+Игнорируем лишние аргументы функции на C++ | https://habrahabr.ru/post/264157/
+
+Назад в будущее – Декапсуляция | https://habrahabr.ru/post/264063/
+
+Сделаем GCC C++ для AVR и Arduino лучше? | https://habrahabr.ru/company/amperka/blog/264041/
+
+Как перенести проект размером в 9 млн строк кода на 64-битную платформу? | https://habrahabr.ru/company/pvs-studio/blog/264021/
+
+Сравнение производительности UI в WPF, Qt, WinForms и FLTK | https://habrahabr.ru/post/263897/
+
+«Ра-а-авняйсь, смирно!». Выравниваем данные | https://habrahabr.ru/company/intel/blog/262933/
+
+Секретный конструктор std::shared_ptr | https://habrahabr.ru/post/263751/
+
+Идеальный путь внедрения статического анализатора кода | https://habrahabr.ru/company/pvs-studio/blog/263695/
+
+Новое предупреждение о неверном вычислении размера массива в gcc 5.1 | https://habrahabr.ru/company/abbyy/blog/263609/
+
+Удобная сериализация данных с Variadic Templates | https://habrahabr.ru/post/263599/
+
+Криптовалюта — как её создавать? | https://habrahabr.ru/post/263367/
+
+Добавление поддержки двунаправленного текста в собственный TextBox | https://habrahabr.ru/post/262987/
+
+Конференция C++ Siberia в Новосибирске | https://habrahabr.ru/company/cpp_russia/blog/263017/
+
+Брокер сообщений для сервисной архитектуры на базе ZMQ — или отдых разработчика | https://habrahabr.ru/post/262977/
+
+Удобный лог не роскошь, а средство отладки, или как подключить dll при помощи h файла | https://habrahabr.ru/post/262883/
+
+Возможности С++ 11/14/17 в Visual Studio 2015 RTM | https://habrahabr.ru/company/microsoft/blog/262805/
+
+Умножение Карацубы и C++ 11 | https://habrahabr.ru/post/262705/
+
+Такие удивительные семафоры | https://habrahabr.ru/post/261273/
+
+Использование LevelDB | https://habrahabr.ru/post/256207/
+
+Выбор между C++ и C# | https://habrahabr.ru/post/262461/
+
+Модернизация IDA Pro. Debugger-плагин. Часть I. Теория | https://habrahabr.ru/post/262433/
+
+Статический анализ библиотеки HPX при помощи PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/262455/
+
+Простая замена Boost::Optional для использования nullable-типов в проектах C++ | https://habrahabr.ru/post/262443/
+
+Автоматическая реорганизация массивов в памяти графического ускорителя | https://habrahabr.ru/post/261535/
+
+Qt Framework: потоки, иерархический конечный автомат, работа с USB-устройствами = QThread + QStateMaсhine + libUSB | https://habrahabr.ru/post/261955/
+
+Выпуск фреймворка Qt 5.5 | https://habrahabr.ru/post/261619/
+
+Объединяем Qt и AdMob | https://habrahabr.ru/post/261425/
+
+C++ User Group, встреча в Нижнем Новгороде | https://habrahabr.ru/post/261285/
+
+Как же программа работает со всеми этими ошибками? | https://habrahabr.ru/company/pvs-studio/blog/261279/
+
+Сравнение производительности языков на примере простейшего классификатора | https://habrahabr.ru/post/261201/
+
+Использование монад в С++. Часть 2: монада состояния | https://habrahabr.ru/company/infopulse/blog/261145/
+
+Использование монад в С++. Часть 1: монада списка | https://habrahabr.ru/company/infopulse/blog/260809/
+
+Релиз CrystaX NDK 10.2 | https://habrahabr.ru/post/261049/
+
+Разработка ММО РПГ – практическое руководство. Сервер (часть 2) | https://habrahabr.ru/company/starnigames/blog/260911/
+
+Введение в магию шаблонов | https://habrahabr.ru/post/260899/
+
+Копирование ключей dallas. Запись на на rw1990(rw1990.1) | https://habrahabr.ru/post/260891/
+
+Bindings QCustomPlot для Python | https://habrahabr.ru/post/260761/
+
+Как команда PVS-Studio улучшила код Unreal Engine | https://habrahabr.ru/company/pvs-studio/blog/260755/
+
+Шаблон для быстрого старта на Arduino Due в QtCreator | https://habrahabr.ru/post/260717/
+
+Доступ к разделяемым атомарным объектам из обработчика сигнала в C | https://habrahabr.ru/company/luxoft/blog/260509/
+
+Алгоритм сортировки Radix Compact. Часть 1: реализация на CPU | https://habrahabr.ru/post/260343/
+
+(Перевод) Введение в разработку C++ в UE4 Часть 2 | https://habrahabr.ru/post/257827/
+
+Веселые старты 2: for_each vs accumulate | https://habrahabr.ru/post/260193/
+
+Гибридная реализация алгоритма MST с использованием CPU и GPU | https://habrahabr.ru/post/253031/
+
+Операции как объекты | https://habrahabr.ru/post/259307/
+
+Передача сохраненных аргументов в функцию | https://habrahabr.ru/post/260027/
+
+Веселые старты или C++ и STL: кто быстрее? | https://habrahabr.ru/post/260025/
+
+Создание нативных Android-приложений с использованием компилятора Intel C++ Compiler в Android Studio 1.0.1 | https://habrahabr.ru/company/intel/blog/260003/
+
+О том, как мы опробовали статический анализ на своем проекте учебного симулятора рентгенэндоваскулярной хирургии | https://habrahabr.ru/company/pvs-studio/blog/259911/
+
+Прохождение интервью. Легендарные книги Амазона | https://habrahabr.ru/company/piter/blog/259875/
+
+C++ в современном мире | https://habrahabr.ru/company/pvs-studio/blog/259777/
+
+Пишем чат для локальной сети, используя C++ Builder. Клиентская часть | https://habrahabr.ru/post/259655/
+
+Пишем чат для локальной сети, используя C++ Builder. Серверная часть | https://habrahabr.ru/post/259641/
+
+Локализация RC (C++, MFC, Win32) | https://habrahabr.ru/post/259563/
+
+Статический анализ Wireshark средствами PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/259553/
+
+Как продеть слона через игольное ушко. Обработка максимальных объемов данных за минимальное время | https://habrahabr.ru/company/xakep/blog/258961/
+
+От обхода в ширину к алгоритму Дейкстры | https://habrahabr.ru/post/259295/
+
+Единорог в поисках внеземного разума: анализ кода SETI@home | https://habrahabr.ru/company/pvs-studio/blog/259151/
+
+Чтение 64-битных целых чисел из Oracle на OCCI (MSVC) | https://habrahabr.ru/post/259015/
+
+Сериализация, сэр! Сегодня на ужин байтовая каша, сваренная из объектов C++ | https://habrahabr.ru/company/xakep/blog/258959/
+
+Кросс-компиляция Qt5 под Linux для Win x32/x64/static/shared | https://habrahabr.ru/post/258951/
+
+Пишем плагин чтения файла изображений для OpenSceneGraph | https://habrahabr.ru/post/258851/
+
+Откровения метапрограммиста. Программируем программный код на этапе компиляции, используем шаблоны C++ для нешаблонных решений | https://habrahabr.ru/company/xakep/blog/257899/
+
+Удобоваримый вызов Java методов из нативного кода | https://habrahabr.ru/post/258707/
+
+DICOM Viewer изнутри. Функциональные возможности | https://habrahabr.ru/post/258621/
+
+Метапрограммирование: какое оно есть и каким должно быть | https://habrahabr.ru/post/258667/
+
+Исследование защиты Wing IDE | https://habrahabr.ru/post/258613/
+
+Всё, точка, приплыли! Учимся работать с числами с плавающей точкой и разрабатываем альтернативу с фиксированной точностью десятичной дроби | https://habrahabr.ru/company/xakep/blog/257897/
+
+64-битный код в 2015 году: что нового в диагностике возможных проблем? | https://habrahabr.ru/company/pvs-studio/blog/258491/
+
+Динамические метаобъекты (part 1, изучение) | https://habrahabr.ru/post/258441/
+
+GammaRay — средство интроспекции Qt-приложений | https://habrahabr.ru/company/infopulse/blog/258411/
+
+Грустная история забытых символов. Как не сойти с ума при работе с кодировками в C++ | https://habrahabr.ru/company/xakep/blog/257895/
+
+Размещай и властвуй! Используем размещающий new для оптимизации кода на C++ | https://habrahabr.ru/company/xakep/blog/257893/
+
+Что такого особенного в Nim? | https://habrahabr.ru/post/258119/
+
+Разработка ММО РПГ – практическое руководство. Сервер (часть 1) | https://habrahabr.ru/company/starnigames/blog/257985/
+
+Побег из темницы типов. Реализуем работу с данными, тип которых определяется динамически | https://habrahabr.ru/company/xakep/blog/257891/
+
+2D-платформер от Qt 5.2 до Qt 5.4 | https://habrahabr.ru/post/256879/
+
+Изменения в Visual C++ | https://habrahabr.ru/post/257509/
+
+Высокопроизводительное сжатие DEFLATE с оптимизацией для геномных наборов данных | https://habrahabr.ru/company/intel/blog/257273/
+
+STM32. Подключаем смарт-карты стандарта ISO7816 | https://habrahabr.ru/post/257279/
+
+Оптимизируем шаг за шагом с компилятором Intel C++ | https://habrahabr.ru/company/intel/blog/256251/
+
+Оптимизация кода на C++ (C++11) на примере конкретной задачи | https://habrahabr.ru/post/256929/
+
+Проверяем исходный код FreeCAD и его «нехорошие» зависимости | https://habrahabr.ru/company/pvs-studio/blog/257079/
+
+Мини-обзор библиотек для Reflection в C++ | https://habrahabr.ru/post/257071/
+
+Как прикрутить трейсинг из браузера в любой проект | https://habrahabr.ru/post/256907/
+
+Особенности внедрения DLL и установки хуков в Modern-приложениях Windows 8/10 | https://habrahabr.ru/company/infopulse/blog/256829/
+
+BalanceBall. Самобалансирующая платформа от А до Я | https://habrahabr.ru/post/256815/
+
+Мы закрываем проект CppCat | https://habrahabr.ru/company/pvs-studio/blog/256637/
+
+Алгоритм Quickhull для нахождения выпуклой оболочки | https://habrahabr.ru/post/245221/
+
+Самый худший из когда-либо созданных API | https://habrahabr.ru/post/254795/
+
+Проверка операционной системы Haiku (семейство BeOS) c помощью PVS-Studio. Часть 2 | https://habrahabr.ru/company/pvs-studio/blog/256525/
+
+Указатели в C++. Введение | https://habrahabr.ru/post/256443/
+
+О бедной рекурсии замолвите слово, или всё, что вы не знали и не хотите о ней знать | https://habrahabr.ru/post/256351/
+
+Проверка операционной системы Haiku (семейство BeOS) c помощью PVS-Studio. Часть 1 | https://habrahabr.ru/company/pvs-studio/blog/256347/
+
+Исследование защиты игры Limbo. Кейген | https://habrahabr.ru/post/255935/
+
+Fortran 2003: учим Фортран и С дружить | https://habrahabr.ru/company/intel/blog/255305/
+
+CLion 1.0 — мощный инструмент для мощного языка | https://habrahabr.ru/company/JetBrains/blog/255723/
+
+qt-items — новый фреймворк, или попытка найти Теорию Всего | https://habrahabr.ru/post/255573/
+
+Управление ресурсами с помощью явных специализаций шаблонов | https://habrahabr.ru/company/pt/blog/255487/
+
+Встречайте ReSharper C++ | https://habrahabr.ru/company/JetBrains/blog/255151/
+
+Доступно свежее обновление ReSharper Ultimate | https://habrahabr.ru/company/JetBrains/blog/255235/
+
+О переводе одного руководства | https://habrahabr.ru/company/flprog/blog/255101/
+
+(Перевод) Введение в разработку C++ в UE4 | https://habrahabr.ru/post/254931/
+
+Статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/254855/
+
+Пример простейшего cgi сервера | https://habrahabr.ru/post/254621/
+
+Заставляем камеру в Qt работать на Android | https://habrahabr.ru/post/254625/
+
+Простая игровая тв-приставка на Arduino | https://habrahabr.ru/post/254591/
+
+C++. От ламера до программера | https://habrahabr.ru/company/piter/blog/254483/
+
+Совсем просто про минимальное идеальное хеширование, основанное на графах | https://habrahabr.ru/post/254431/
+
+Правильное проставление определений препроцессора C++ в CMake | https://habrahabr.ru/post/254365/
+
+И ещё раз про уникальные константы | https://habrahabr.ru/post/254077/
+
+Как могла бы выглядеть поддержка JSON в современном С++ | https://habrahabr.ru/company/infopulse/blog/254075/
+
+Использование технологии Microsoft Active Accessibility для доступа к содержимому браузера | https://habrahabr.ru/company/infopulse/blog/253729/
+
+RAII и необрабатываемые исключения | https://habrahabr.ru/post/253749/
+
+Пишем компонент движения для RTS в Unreal engine 4 | https://habrahabr.ru/post/253711/
+
+Промышленное использование C++ & OpenCV. Часть 1: Постановка задачи и методы реализации | https://habrahabr.ru/post/253645/
+
+Intel® RealSense™. Работа с потоками необработанных данных | https://habrahabr.ru/company/intel/blog/253361/
+
+Администрирование глазами C++ программиста | https://habrahabr.ru/post/252675/
+
+Пишем клиент для Slack с оповещениями | https://habrahabr.ru/post/253579/
+
+Проверка Vim при помощи PVS-Studio в GNU/Linux | https://habrahabr.ru/company/pvs-studio/blog/253553/
+
+RabbitMQ tutorials на C++ | https://habrahabr.ru/post/253317/
+
+Построение диаграмм и графов в Doxygen | https://habrahabr.ru/post/253223/
+
+Вычислите длину окружности | https://habrahabr.ru/company/abbyy/blog/252871/
+
+PVS-Studio: 25 подозрительных фрагментов кода из CoreCLR | https://habrahabr.ru/company/pvs-studio/blog/253280/
+
+Будущее C: ООП | https://habrahabr.ru/post/253274/
+
+Lock-free структуры данных. Concurrent maps: деревья | https://habrahabr.ru/post/251267/
+
+Boost C++ libraries на Android | https://habrahabr.ru/post/253233/
+
+Создания Windows Runtime компонента на Visual C++ | https://habrahabr.ru/post/252759/
+
+Лекции Технопарка. 1 семестр. С/С++ | https://habrahabr.ru/company/mailru/blog/253095/
+
+ZeptoLab Code Rush 2015 уже близко | https://habrahabr.ru/company/ZeptoLab/blog/253003/
+
+(Без)опасный copy elision | https://habrahabr.ru/post/252885/
+
+Звуковые эффекты в приложениях Windows Phone 8 | https://habrahabr.ru/post/252829/
+
+Assembler вместе с C++ в Visual Studio 2013 | https://habrahabr.ru/post/252647/
+
+C++ Russia и после | https://habrahabr.ru/company/cpp_russia/blog/252505/
+
+Lock-free структуры данных. Concurrent maps: skip list | https://habrahabr.ru/post/250815/
+
+C#: как не «выстрелить себе в ногу» | https://habrahabr.ru/post/252419/
+
+REST сервис на C++: POCO+Angular TODO | https://habrahabr.ru/post/252519/
+
+DICOM Viewer изнутри. Воксельный рендер | https://habrahabr.ru/post/252429/
+
+Оформление документации в Doxygen | https://habrahabr.ru/post/252443/
+
+CxxMock — принцип действия | https://habrahabr.ru/post/251133/
+
+C#: как «выстрелить себе в ногу» | https://habrahabr.ru/post/252357/
+
+Документируем код эффективно при помощи Doxygen | https://habrahabr.ru/post/252101/
+
+Web-технологии глазами С++ программиста | https://habrahabr.ru/post/250825/
+
+Приручаем динозавров, или как я писал свой собственный host controller для лаборатории 3D-печати | https://habrahabr.ru/post/252189/
+
+Полноценный веб-сайт на C++ и немного диванной аналитики | https://habrahabr.ru/post/252215/
+
+Lock-free структуры данных. Concurrent maps: rehash, no rebuild | https://habrahabr.ru/post/250523/
+
+Lock-free структуры данных. Concurrent map: разминка | https://habrahabr.ru/post/250383/
+
+Ciklum Dnepropetrovsk C++ Saturday: Первый субботник года для любителей C++ рад встретить всех желающих | https://habrahabr.ru/company/Ciklum/blog/251935/
+
+Проверка проекта LibreOffice | https://habrahabr.ru/company/pvs-studio/blog/251817/
+
+Отзыв команды PVS-Studio о конференции C++ Russia, 2015 | https://habrahabr.ru/company/pvs-studio/blog/251777/
+
+Использование цветовых пространств в ATTiny13a для WS2811 | https://habrahabr.ru/post/251615/
+
+Гибридные приложения в Qt на примере использования D3.js | https://habrahabr.ru/post/218389/
+
+CxxMock — Mock-объекты в C++ | https://habrahabr.ru/post/250979/
+
+Указатели, ссылки и массивы в C и C++: точки над i | https://habrahabr.ru/post/251091/
+
+Разработка простой игры в Code::blocks с использованием Direct3D 9 | https://habrahabr.ru/post/251081/
+
+Драйвер внешнего оборудования для 1С на примере фискального регистратора Мария-301МТМ | https://habrahabr.ru/post/250341/
+
+Межпроцессная репликация объектов с помощью QtRemoteObjects | https://habrahabr.ru/post/216939/
+
+Использование альтернативного аллокатора памяти в проекте на C/C++ | https://habrahabr.ru/post/250809/
+
+Откуда берутся бреши в безопасности программ? | https://habrahabr.ru/company/reactos/blog/250749/
+
+Разыменовывание нулевого указателя приводит к неопределённому поведению | https://habrahabr.ru/company/pvs-studio/blog/250701/
+
+Обновление древовидной модели в Qt | https://habrahabr.ru/post/250431/
+
+Дайджест хороших образовательных программ для IT-специалистов и сочувствующих: в Москве и онлайне | https://habrahabr.ru/company/tceh/blog/250333/
+
+Библиотека для встраивания электронной подписи в приложения С++ | https://habrahabr.ru/company/aktiv-company/blog/249723/
+
+Что каждый программист должен знать про оптимизации компилятора | https://habrahabr.ru/company/enterra/blog/250199/
+
+Ужасный баг в Portland Group C++ компиляторе | https://habrahabr.ru/post/249817/
+
+Аннотация к «Effective Modern C++» Скотта Майерса. Часть 2 | https://habrahabr.ru/post/248901/
+
+Итоги C++ розыгрыша и демо рефакторингов в CLion | https://habrahabr.ru/company/JetBrains/blog/249479/
+
+Типобезопасные идентификаторы и фантомные типы | https://habrahabr.ru/post/198568/
+
+Как подружить QML с чужим OpenGL контекстом. Часть III: Обработка пользовательского ввода | https://habrahabr.ru/post/249383/
+
+Краткий курс компьютерной графики: пишем упрощённый OpenGL своими руками, статья 3.14 из 6 | https://habrahabr.ru/post/249101/
+
+70 эпичных докладов, сумасшедшая agile атмосфера и 1000+ соратников ждут тебя на AgileDays’15! | https://habrahabr.ru/company/scrumtrek/blog/249325/
+
+Категории Клейсли | https://habrahabr.ru/post/249113/
+
+Boost.DI: внедрение зависимости в С++ | https://habrahabr.ru/company/infopulse/blog/248879/
+
+Городские легенды о медленных вызовах виртуальных функций | https://habrahabr.ru/company/abbyy/blog/248429/
+
+C++11 variadic templates и длинная арифметика на этапе компиляции | https://habrahabr.ru/post/248897/
+
+Краткий курс компьютерной графики: пишем упрощённый OpenGL своими руками, статья 3.1 из 6 | https://habrahabr.ru/post/248909/
+
+Аннотация к «Effective Modern C++» Скотта Майерса | https://habrahabr.ru/post/248137/
+
+WRL и BindableAttribute | https://habrahabr.ru/post/248787/
+
+CMakeProjectManager2: немного удобства при работе с CMake в Qt Creator | https://habrahabr.ru/post/248517/
+
+Open source проекты: Media Player Classic и SharpDevelop. Первые впечатления | https://habrahabr.ru/post/248481/
+
+Розыгрыш билета на конференцию С++ Russia от компании JetBrains | https://habrahabr.ru/company/JetBrains/blog/248475/
+
+Релиз CrystaX NDK 10.1 | https://habrahabr.ru/post/248455/
+
+Еще один программный ШИМ или реабилитация Attiny13a при помощи Дзен | https://habrahabr.ru/post/248393/
+
+Pointer Checker: проверим наши указатели | https://habrahabr.ru/company/intel/blog/248099/
+
+Категории, большие и малые | https://habrahabr.ru/post/248257/
+
+C++ в 2015-м году | https://habrahabr.ru/company/infopulse/blog/248253/
+
+Как подружить QML с чужим OpenGL контекстом. Часть II: Загружаем QML | https://habrahabr.ru/post/248103/
+
+Простой бот для Skype на C++ Qt (ActiveX) | https://habrahabr.ru/post/248101/
+
+Именованные параметры C++. Не пригодились | https://habrahabr.ru/post/246711/
+
+Наследуемый класс компонента WinRT, написанный с использованием WRL | https://habrahabr.ru/post/248071/
+
+Как я делал игру под KolibriOS | https://habrahabr.ru/post/248001/
+
+Настройка проекта C++ в Eclipse на примере приложения SFML | https://habrahabr.ru/post/241133/
+
+ATtiny13a: Контроллер управления СТОП-сигналом и габаритными огнями автомобиля | https://habrahabr.ru/post/247799/
+
+Типы и функции | https://habrahabr.ru/post/247765/
+
+Генератор умных перечислений, EnumGenerator | https://habrahabr.ru/post/240537/
+
+Пять популярных мифов про C++, часть 2 | https://habrahabr.ru/post/247551/
+
+QQuickRenderControl, или как подружить QML с чужим OpenGL контекстом. Часть I | https://habrahabr.ru/post/247477/
+
+Пять популярных мифов про C++, часть 1 | https://habrahabr.ru/post/247401/
+
+Обработка структуры по списку базовых типов | https://habrahabr.ru/post/247365/
+
+Неудобства при работе с переводами в Qt и способы борьбы с ними | https://habrahabr.ru/post/247207/
+
+Короткая заметка про шаблоны и смешание выведение типа и явного его задания | https://habrahabr.ru/post/216901/
+
+ZeptoLab начал строить корпоративный университет | https://habrahabr.ru/company/ZeptoLab/blog/246407/
+
+Специализация шаблона базовым классом | https://habrahabr.ru/post/247081/
+
+Программирование Arduino в CLion | https://habrahabr.ru/post/247017/
+
+Грязные трюки с макросами C++ | https://habrahabr.ru/post/246971/
+
+Создание барьера синхронизации с использованием C++11 | https://habrahabr.ru/post/246947/
+
+Именованные параметры в современном C++ | https://habrahabr.ru/company/infopulse/blog/246663/
+
+Проверка симулятора The Powder Toy | https://habrahabr.ru/company/pvs-studio/blog/246641/
+
+Qt + MVP + QThread. Строим свой велосипед | https://habrahabr.ru/post/246445/
+
+Насколько медленны iostreams? | https://habrahabr.ru/post/246257/
+
+Сказ о том, как я дизассемблировал Supaplex и почти написал клон с 3D графикой | https://habrahabr.ru/post/246027/
+
+Категория: суть композиции | https://habrahabr.ru/post/246009/
+
+Конференция C++ Russia в Москве | https://habrahabr.ru/company/cpp_russia/blog/245807/
+
+Об удобной навигации и отладке C++ кода в Vim | https://habrahabr.ru/post/245681/
+
+Обфускация строк на этапе компиляции | https://habrahabr.ru/post/245719/
+
+Релиз IDE Qt Creator 3.3 | https://habrahabr.ru/post/245527/
+
+Чтение SVG в C++ | https://habrahabr.ru/post/245513/
+
+Релиз Qt 5.4 и Qt Creator 3.3 | https://habrahabr.ru/post/245521/
+
+Почему студентам нужен анализатор кода CppCat | https://habrahabr.ru/company/pvs-studio/blog/245465/
+
+Lock-free структуры данных. Диссекция очереди | https://habrahabr.ru/post/230349/
+
+Сериализация C++ с полиморфизмом и прототипами | https://habrahabr.ru/post/245305/
+
+Сводная таблица по поддержке C++ 11/14/17 | https://habrahabr.ru/post/245175/
+
+Пишем прошивку для Arduino на С++ с REST управлением через последовательный порт и экранчиком | https://habrahabr.ru/post/245043/
+
+Векторизация циклов: диагностика и контроль | https://habrahabr.ru/post/244505/
+
+Сериализация и С++11 | https://habrahabr.ru/post/244963/
+
+Атомарные и неатомарные операции | https://habrahabr.ru/post/244881/
+
+Техосмотр движка Spring RTS | https://habrahabr.ru/company/pvs-studio/blog/244865/
+
+Eggs.Variant — Часть I | https://habrahabr.ru/post/244573/
+
+Фабричный метод без размещения в динамической памяти | https://habrahabr.ru/post/244497/
+
+Проект Miranda NG получает приз «дикие указатели» (часть вторая) | https://habrahabr.ru/company/pvs-studio/blog/244415/
+
+Креативное программирование: openFrameworks — установка и пример визуализации музыки | https://habrahabr.ru/post/244265/
+
+C++14 для Qt программистов | https://habrahabr.ru/post/243981/
+
+Проект Miranda NG получает приз «дикие указатели» (часть первая) | https://habrahabr.ru/company/pvs-studio/blog/244097/
+
+Literal operator templates for strings | https://habrahabr.ru/post/243581/
+
+Мой велосипед к reflection в c++ | https://habrahabr.ru/post/243571/
+
+Рефакторинг C++ кода в Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/243437/
+
+Proxygen — HTTP-фреймворк для С++ от Facebook | https://habrahabr.ru/company/infopulse/blog/243181/
+
+Бесплатный CppCat для студентов | https://habrahabr.ru/company/pvs-studio/blog/243149/
+
+Logger с функциями-членами, которых нет | https://habrahabr.ru/post/242869/
+
+Идеальная передача и универсальные ссылки в C++ | https://habrahabr.ru/post/242639/
+
+Капитан Америка vs VirtualSurfaceImageSource | https://habrahabr.ru/post/242311/
+
+Алгоритм удаления узла из btree | https://habrahabr.ru/post/242411/
+
+Расширение Visual Studio для визуализации пользовательских классов в режиме отладки | https://habrahabr.ru/post/242231/
+
+Библиотека Strutext обработки текстов на C++ — реализация лексического уровня | https://habrahabr.ru/post/242173/
+
+С++ встречи в России | https://habrahabr.ru/company/cpp_russia/blog/237237/
+
+Интервью Скотта Мейерса в Яндексе. О настоящем и будущем C++ | https://habrahabr.ru/company/yandex/blog/241601/
+
+Доклады конференции CppCon 2014 | https://habrahabr.ru/company/infopulse/blog/241674/
+
+Библиотека Strutext обработки текстов на языке C++ | https://habrahabr.ru/post/240805/
+
+Разработка трехмерных игр для Windows 8 с помощью C++ и Microsoft DirectX | https://habrahabr.ru/company/intel/blog/241085/
+
+Дилетант и back-инжиниринг. Часть 2: Каркас | https://habrahabr.ru/post/240831/
+
+Методы расширения в С++ | https://habrahabr.ru/company/infopulse/blog/240851/
+
+Caesar III: game loop | https://habrahabr.ru/post/239013/
+
+Почему ваша первая реализация FizzBuzz на Rust может не работать | https://habrahabr.ru/post/240617/
+
+Асинхронность 2: телепортация сквозь порталы | https://habrahabr.ru/company/yandex/blog/240525/
+
+Персистентное декартово дерево по неявному ключу | https://habrahabr.ru/post/240519/
+
+Тяп-ляп, проверил библиотеки Visual C++ 2013 (update 3) | https://habrahabr.ru/company/pvs-studio/blog/240143/
+
+Таблица виртуальных методов и техника безопасности | https://habrahabr.ru/company/pvs-studio/blog/239915/
+
+Как я писал кросплатформенный 3d игровой движок | https://habrahabr.ru/post/239751/
+
+Каррируем на C++ | https://habrahabr.ru/post/238879/
+
+К глобальной куче без пробок. Исследуем менеджеры памяти | https://habrahabr.ru/company/billing/blog/238787/
+
+Взрывы в Box2D | https://habrahabr.ru/post/238753/
+
+Оказывается, современные компиляторы C++ поддерживают юникод в идентификаторах | https://habrahabr.ru/post/238627/
+
+Catch — framework for unit-tests | https://habrahabr.ru/post/238587/
+
+Единорог заинтересовался KDE | https://habrahabr.ru/company/pvs-studio/blog/238493/
+
+Универсальная метасистема на C++ | https://habrahabr.ru/post/238237/
+
+folly::fbvector — улучшенный std::vector от Facebook | https://habrahabr.ru/company/infopulse/blog/238131/
+
+Расширяемые отображения любых типов значений без использования макросов | https://habrahabr.ru/post/238077/
+
+Мьютексы в стиле Rust для C++ | https://habrahabr.ru/post/237941/
+
+Немного о внутренностях WebKit | https://habrahabr.ru/post/237771/
+
+Проверяем Oracle VM VirtualBox. Часть 2 | https://habrahabr.ru/company/pvs-studio/blog/237693/
+
+Lua API++ | https://habrahabr.ru/post/201860/
+
+Использовать Lua c С++ легче, чем вы думаете. Tutorial по LuaBridge | https://habrahabr.ru/post/237503/
+
+Проверяем Oracle VM VirtualBox. Часть 1 | https://habrahabr.ru/company/pvs-studio/blog/237393/
+
+Изучаем C++ через программирование игр | https://habrahabr.ru/company/piter/blog/237375/
+
+Перегрузка и специализация. Тонкий момент | https://habrahabr.ru/post/237323/
+
+Давай поиграем в игру | https://habrahabr.ru/company/pvs-studio/blog/237219/
+
+Как Ам Ням из Cut the Rope 2 переселялся на Amazon Fire Phone | https://habrahabr.ru/company/ZeptoLab/blog/236867/
+
+Дилетант и back-инжиниринг. Часть 1: Пути и файлы | https://habrahabr.ru/post/236899/
+
+Разработка сайтов (веб-приложений) на C++ (и не только) в виде подключаемых библиотек (*.so, *.dll) | https://habrahabr.ru/post/236865/
+
+Быстрый доступ к map по ключу строке | https://habrahabr.ru/post/236697/
+
+Компоновка с msvcrt.dll в Visual C++: проблемы и решения | https://habrahabr.ru/post/236355/
+
+String enum — строковые enum | https://habrahabr.ru/post/236403/
+
+Valgrind — это хорошо, но недостаточно | https://habrahabr.ru/company/pvs-studio/blog/236293/
+
+CLion — долгожданная IDE от JetBrains для С/С++ разработчиков — открывает публичный EAP | https://habrahabr.ru/company/JetBrains/blog/236061/
+
+Игра «жизнь», Хаос, «чёрный лебедь», этногенез и как все это связанно | https://habrahabr.ru/post/236035/
+
+Android NDK: работа с OpenSL ES | https://habrahabr.ru/post/235795/
+
+Инстанциирование шаблонов функций по списку типов (Часть 2) | https://habrahabr.ru/post/235887/
+
+Инстанциирование шаблонов функций по списку типов (Часть 1) | https://habrahabr.ru/post/235831/
+
+Data Mining. Оптимизация заказов товаров в аптеке (аптечном пункте) | https://habrahabr.ru/post/234723/
+
+Небольшое исследование по использованию функторов в стандартной библиотеке STL С++ | https://habrahabr.ru/post/234215/
+
+Отладка C++ программ в ОС GNU/Linux | https://habrahabr.ru/post/234237/
+
+У нас есть C++ 14! | https://habrahabr.ru/post/233829/
+
+Новая услуга: регулярный аудит Си/Си++ кода | https://habrahabr.ru/company/pvs-studio/blog/233783/
+
+Сериализация объектов Qt | https://habrahabr.ru/post/233045/
+
+Статически типизированные продолжения | https://habrahabr.ru/post/232979/
+
+Реализация и тестирование Qt C++ клиента сетевого сервиса с асинхронным интерфейсом на примере Yandex Dictionary Api | https://habrahabr.ru/post/233099/
+
+Можем ли мы доверять используемым библиотекам? | https://habrahabr.ru/company/pvs-studio/blog/232873/
+
+Пополняем шпаргалки по C++: неявно-генерируемые перемещающий конструктор и оператор присваивания | https://habrahabr.ru/post/232775/
+
+Проверка PVS-Studio с помощью Clang | https://habrahabr.ru/company/pvs-studio/blog/232753/
+
+Как я стенд для сборки с windows на wine мигрировал | https://habrahabr.ru/post/232341/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 3 | https://habrahabr.ru/post/232097/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 2 | https://habrahabr.ru/post/232081/
+
+Создание аудиоплагинов, часть 16 | https://habrahabr.ru/post/232153/
+
+Пишем простой интерпретатор на C++ с помощью TDD, часть 1 | https://habrahabr.ru/post/231657/
+
+Анимации на лямбдах в C++11 | https://habrahabr.ru/company/ivideon/blog/230501/
+
+Создание аудиоплагинов, часть 14 | https://habrahabr.ru/post/231513/
+
+Проверка Bitcoin | https://habrahabr.ru/company/pvs-studio/blog/231489/
+
+Пишем на языке С/C++ в Windows под KolibriOS | https://habrahabr.ru/company/kolibrios/blog/229231/
+
+Атрибут deprecated в С++14 | https://habrahabr.ru/company/infopulse/blog/231227/
+
+Variadic Templates, Low Coupling и немного размышлений | https://habrahabr.ru/post/231021/
+
+Генерация больших карт в ремейке игры «Caesar III(с)» | https://habrahabr.ru/post/230829/
+
+Динамическая система Лоренца и вычислительный эксперимент | https://habrahabr.ru/post/229959/
+
+Шаблонная фабрика объектов (ещё раз, и в пятнадцать строк) | https://habrahabr.ru/post/229993/
+
+Запись данных в формате JSON | https://habrahabr.ru/post/230079/
+
+Неопределённое поведение и теорема Ферма | https://habrahabr.ru/post/229963/
+
+О бедном C++ API замолвите словцо! | https://habrahabr.ru/post/229327/
+
+Как заставить работать бинарный классификатор чуточку лучше | https://habrahabr.ru/post/228963/
+
+Передача умных указателей по константной ссылке. Вскрытие | https://habrahabr.ru/post/228687/
+
+Спецификатор constexpr в C++11 и в C++14 | https://habrahabr.ru/post/228181/
+
+Android Studio для NDK под Windows | https://habrahabr.ru/post/228365/
+
+Крестики-нолики: компилятор против человека — экстремальный метапрограмминг | https://habrahabr.ru/post/228367/
+
+Console Audio Tools — пакет утилит для проверки и конвертации аудиофайлов | https://habrahabr.ru/post/228301/
+
+Variadic templates. Tuples, unpacking and more | https://habrahabr.ru/post/228031/
+
+Внедрение кода с пользой | https://habrahabr.ru/post/227455/
+
+Менеджер записей ELibrary | https://habrahabr.ru/post/227849/
+
+Создание аудиоплагинов, часть 12 | https://habrahabr.ru/post/227827/
+
+Создание аудиоплагинов, часть 11 | https://habrahabr.ru/post/227791/
+
+Почему Ваза утонул, а С++ всё ещё на плаву | https://habrahabr.ru/company/infopulse/blog/227529/
+
+Для новичков про stdafx.h | https://habrahabr.ru/company/pvs-studio/blog/227521/
+
+Создание аудиоплагинов, часть 9 | https://habrahabr.ru/post/227475/
+
+Команда PVS-Studio расширяет кругозор, выполняя разработку на заказ | https://habrahabr.ru/company/pvs-studio/blog/227169/
+
+Работа с ложными срабатываниями в PVS-Studio и CppCat | https://habrahabr.ru/company/pvs-studio/blog/227019/
+
+Quaternion Encryption Scheme (QES) на FPGA, XeonPhi, GPU | https://habrahabr.ru/post/226779/
+
+Шпаргалка по HTTP-библиотекам для С++ | https://habrahabr.ru/company/infopulse/blog/226557/
+
+Создание аудиоплагинов, часть 7 | https://habrahabr.ru/post/226573/
+
+Создание аудиоплагинов, часть 6 | https://habrahabr.ru/post/226439/
+
+Поиграем в эволюцию? Генетические алгоритмы в скринсейвере | https://habrahabr.ru/post/226337/
+
+Снижение компонентной связности кода С++ | https://habrahabr.ru/post/226333/
+
+Краткое введение в rvalue-ссылки | https://habrahabr.ru/post/226229/
+
+Логирование сообщений с Easylogging++ | https://habrahabr.ru/post/225363/
+
+Создание аудиоплагинов, часть 4 | https://habrahabr.ru/post/225751/
+
+Драйвера на С++ для STM8L051F3 | https://habrahabr.ru/post/225635/
+
+Сравнение D и C++ и Rust на примерах | https://habrahabr.ru/post/225507/
+
+Создание аудиоплагинов, часть 3 | https://habrahabr.ru/post/225457/
+
+Сравнение Rust и С++ на примерах | https://habrahabr.ru/post/225003/
+
+Создание аудиоплагинов, часть 2 | https://habrahabr.ru/post/225019/
+
+Создание аудиоплагинов, часть 1 | https://habrahabr.ru/post/224911/
+
+Зачем нам нужен Rust? | https://habrahabr.ru/post/224607/
+
+Cross-compile POCO из Windows для WinCE | https://habrahabr.ru/post/223157/
+
+Под капотом: сборка и открытие исходников flint | https://habrahabr.ru/post/224419/
+
+PVS-Studio проверяет OpenMW: во вселенной Morrowind не всё гладко | https://habrahabr.ru/company/pvs-studio/blog/224371/
+
+Вызов функции, соответствующей заданной строке | https://habrahabr.ru/post/223865/
+
+Tesseract. Распознаем ошибки в системе распознавания | https://habrahabr.ru/company/pvs-studio/blog/223743/
+
+Lock-free стек для Windows | https://habrahabr.ru/post/223361/
+
+GalaPlugin — JS/QML плагин для QtCreator | https://habrahabr.ru/post/223143/
+
+Новые возможности лямбд в C++14 | https://habrahabr.ru/post/223289/
+
+Анализатор PVS-Studio проверяет TortoiseGit | https://habrahabr.ru/company/pvs-studio/blog/223243/
+
+Разработка мобильных приложений в Embarcadero FireMonkey (FMX 6) | https://habrahabr.ru/post/222307/
+
+Cross-compile POCO из Windows для Linux | https://habrahabr.ru/post/222661/
+
+Внедрение зависимостей в C++ | https://habrahabr.ru/post/222007/
+
+Асинхронные задачи в С++11 | https://habrahabr.ru/post/222227/
+
+Сайт на с++ (CppCMS). Часть 1 | https://habrahabr.ru/post/219899/
+
+Транзакционная память: история и развитие | https://habrahabr.ru/post/221667/
+
+PVS-Studio теперь поддерживает C++/CLI | https://habrahabr.ru/company/pvs-studio/blog/221721/
+
+Почему я люблю Qt и вы все тоже должны его любить | https://habrahabr.ru/post/221523/
+
+Пишем плагин для GStreamer на MS Visual Studio | https://habrahabr.ru/post/221483/
+
+Компиляция исходников (cpp, cs) компилятором Visual Studio без запуска IDE в Windows | https://habrahabr.ru/post/215835/
+
+Почему нам необходима рефлексия в C++1y | https://habrahabr.ru/company/infopulse/blog/221123/
+
+«Правило ноля» | https://habrahabr.ru/post/221033/
+
+Unreal Engine 4.1 — поддержка XBox One, PlayStation 4, Linux, SteamOS и многое другое | https://habrahabr.ru/post/220755/
+
+C++ User Group, встреча в Нижнем Новгороде | https://habrahabr.ru/company/cpp_russia/blog/220199/
+
+Проверка открытого проекта WinSCP, разрабатываемого в Embarcadero C++ Builder | https://habrahabr.ru/company/pvs-studio/blog/220629/
+
+TypeList и Крестики-нолики | https://habrahabr.ru/post/220217/
+
+Пишем библиотеку DLL для Metastock с нуля. Часть 3 | https://habrahabr.ru/post/220111/
+
+Произвольный порядок списка инициализации шаблона | https://habrahabr.ru/post/219999/
+
+Пишем библиотеку DLL для Metastock с нуля.Часть2 | https://habrahabr.ru/post/219953/
+
+Пишем библиотеку DLL для Metastock с нуля. Часть 1 | https://habrahabr.ru/post/219133/
+
+Lock-free структуры данных. Очередной трактат | https://habrahabr.ru/post/219201/
+
+Долгожданная проверка Unreal Engine 4 | https://habrahabr.ru/company/pvs-studio/blog/219245/
+
+Строго-типизированный SignalSpy для тестирования Qt приложений | https://habrahabr.ru/post/218729/
+
+Интерпретация во время компиляции, или Альтернативное понимание лямбд в C++11 | https://habrahabr.ru/post/218341/
+
+PVS-Studio и 3DO-эмуляторы | https://habrahabr.ru/company/pvs-studio/blog/218613/
+
+C++ и копирование перекрывающихся областей памяти | https://habrahabr.ru/post/218451/
+
+Использование панели режимов QtCreator + 2 плагина | https://habrahabr.ru/post/218311/
+
+Жизнь во время компиляции | https://habrahabr.ru/post/218229/
+
+Signed Distance Field или как сделать из растра вектор | https://habrahabr.ru/post/215905/
+
+Эмуляция нажатия мультимедийных клавиш в Windows, Linux и Mac OS X | https://habrahabr.ru/post/217779/
+
+Свой http-сервер менее чем в 40 строк кода на libevent и C++11 | https://habrahabr.ru/post/217437/
+
+Математикам доверяй, но проверяй | https://habrahabr.ru/company/pvs-studio/blog/217557/
+
+Самый короткий веб-сервер на с++ | https://habrahabr.ru/post/217087/
+
+Поиск решений для игр со словами. Применение бора | https://habrahabr.ru/post/216845/
+
+Ref-qualified member functions | https://habrahabr.ru/post/216783/
+
+Отладка Android CMake проекта по-взрослому | https://habrahabr.ru/company/alawar/blog/216473/
+
+Обмен массивами данных с внешними компонентами 1С | https://habrahabr.ru/post/216381/
+
+Парсинг формул в 40 строк | https://habrahabr.ru/post/216449/
+
+Epic выпустили Unreal Engine 4 с исходниками по подписке за $19 | https://habrahabr.ru/post/216429/
+
+Неопределенное поведение в C++ | https://habrahabr.ru/post/216189/
+
+Веб-приложение на C++, или укрощение демона FastCGI | https://habrahabr.ru/post/216181/
+
+Lock-free структуры данных. Эволюция стека | https://habrahabr.ru/post/216013/
+
+Единорог заинтересовался микромиром | https://habrahabr.ru/company/pvs-studio/blog/216157/
+
+C++11 и 64-битные ошибки | https://habrahabr.ru/company/pvs-studio/blog/215939/
+
+Objective-c блоки и c++ лямбды | https://habrahabr.ru/post/204356/
+
+Сравнение анализаторов кода: CppCat, Cppcheck, PVS-Studio, Visual Studio | https://habrahabr.ru/company/pvs-studio/blog/215469/
+
+С++ для Perl программистов | https://habrahabr.ru/post/215339/
+
+Множественный выбор в QComboBox | https://habrahabr.ru/post/215289/
+
+Побочный результат: проверяем CryEngine 3 SDK с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/215199/
+
+Как работают сигналы и слоты в Qt (часть 2) | https://habrahabr.ru/post/215181/
+
+Method chaining | https://habrahabr.ru/post/215059/
+
+Создание и использование плагина для Clang в Xcode | https://habrahabr.ru/post/214275/
+
+Как работают сигналы и слоты в Qt (часть 1) | https://habrahabr.ru/post/214379/
+
+Сколько стоит одна ошибка в наших программах, или какие ошибки бывают в PVS-Studio и CppCat | https://habrahabr.ru/company/pvs-studio/blog/214161/
+
+Плагин поиска дублирующегося кода для QtCreator | https://habrahabr.ru/post/213785/
+
+Баги реализации стандарта С++11 в Visual Studio 2012, которые были исправлены в Visual Studio 2013 | https://habrahabr.ru/company/infopulse/blog/213863/
+
+Box2d: анатомия коллизий | https://habrahabr.ru/post/213549/
+
+Побочный результат: проверяем Firebird с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/213423/
+
+Кроссплатформенный сервер с неблокирующими сокетами. Часть 4 | https://habrahabr.ru/post/213301/
+
+Сборщик мусора на С++ | https://habrahabr.ru/post/213225/
+
+Именованные параметры Boost | https://habrahabr.ru/post/213015/
+
+Маскируем класс под граф Boost. Часть 3: Находим путь | https://habrahabr.ru/post/212871/
+
+Игровые боты. Начало | https://habrahabr.ru/post/212779/
+
+C++ User Group по-русски | https://habrahabr.ru/company/cpp_russia/blog/212793/
+
+Open-source проекты, которые мы проверили с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/212733/
+
+Маскируем класс под граф Boost. Часть 2: Завершаем реализацию поддержки концепций | https://habrahabr.ru/post/212089/
+
+C++ IDE от JetBrains: когда же? | https://habrahabr.ru/company/JetBrains/blog/212115/
+
+Кроссплатформенный https сервер с неблокирующими сокетами. Часть 3 | https://habrahabr.ru/post/212101/
+
+Управление графическим интерфейсом с помощью echo и cat | https://habrahabr.ru/post/212013/
+
+Вышла первая версия модуля интеграции Cppcheck в Visual Studio с открытым кодом | https://habrahabr.ru/company/abbyy/blog/211765/
+
+Кроссплатформенный https сервер с неблокирующими сокетами. Часть 2 | https://habrahabr.ru/post/211853/
+
+LibRaw, Coverity SCAN, PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/211727/
+
+Кроссплатформенный https сервер с неблокирующими сокетами | https://habrahabr.ru/post/211661/
+
+Маскируем класс под граф Boost. Часть 1: Не трогаем интерфейс | https://habrahabr.ru/post/211558/
+
+О вольностях в ссылках или простейший обмен сообщениями | https://habrahabr.ru/post/211476/
+
+Простейший кросcплатформенный сервер с поддержкой ssl | https://habrahabr.ru/post/211474/
+
+Поиск маршрутов за 1 человеко-месяц | https://habrahabr.ru/post/211388/
+
+Чиним hanstunnel на openwrt (вычисление контрольной суммы сетевого пакета) | https://habrahabr.ru/post/211284/
+
+Подсчет расстояния Хэмминга на большом наборе данных | https://habrahabr.ru/post/211264/
+
+Тонкости анализа исходного кода C/C++ с помощью cppcheck | https://habrahabr.ru/post/210256/
+
+CRTP. Static polymorphism. MixIn. Размышления на тему | https://habrahabr.ru/post/210894/
+
+Концепции Boost | https://habrahabr.ru/post/210838/
+
+Унификация ассоциативных STL-контейнеров шаблонным параметром — компаратором | https://habrahabr.ru/post/210746/
+
+Шпаргалка по С++11 для печати на кружке | https://habrahabr.ru/company/infopulse/blog/210644/
+
+Результаты конкурса на самый глючный код C++ | https://habrahabr.ru/post/210500/
+
+PVS-Studio, CppCat. Беседа с Андреем Карповым, техническим директором этих проектов | https://habrahabr.ru/company/pvs-studio/blog/210336/
+
+Анализируем исходный код с помощью cppcheck | https://habrahabr.ru/post/210226/
+
+Обзор статического анализатора CppCat | https://habrahabr.ru/company/infopulse/blog/209984/
+
+JUCE — Кроссплатформенный C++ фреймворк для разработки приложений с пользовательским интерфейсом | https://habrahabr.ru/post/209956/
+
+Испытания boost::lockfree на скорость и задержку передачи сообщения | https://habrahabr.ru/post/209824/
+
+Пишем сайт с новостями на Wt | https://habrahabr.ru/post/209754/
+
+Самый натуральный логарифм | https://habrahabr.ru/post/209278/
+
+Анализ проекта Source SDK | https://habrahabr.ru/company/pvs-studio/blog/209286/
+
+Альтернатива PVS-Studio за $250 | https://habrahabr.ru/company/pvs-studio/blog/208920/
+
+Lock-free структуры данных. Внутри. RCU | https://habrahabr.ru/post/206984/
+
+Что же там такого тяжелого в обработке исключений C++? | https://habrahabr.ru/post/208006/
+
+Бесшовное разбиение и склейка видео с помощью DirectShow | https://habrahabr.ru/post/208788/
+
+Операционные системы реального времени для начинающих | https://habrahabr.ru/post/208780/
+
+Программируем Raspberry Pi на голом железе | https://habrahabr.ru/post/208726/
+
+Идиомы С++. Static visitor | https://habrahabr.ru/post/208718/
+
+Динамическое программирование в шаблонах | https://habrahabr.ru/post/208186/
+
+Интервью с Бьерном Страуструпом о языке C++ | https://habrahabr.ru/post/207894/
+
+Смарт-поинтеры и RAII на службе программиста | https://habrahabr.ru/post/207842/
+
+Алгоритм быстрого поиска слов в игре балда | https://habrahabr.ru/post/207734/
+
+Бенчмарк HTTP-серверов (С/C++) в FreeBSD | https://habrahabr.ru/post/207460/
+
+Идиомы С++. Type erasure | https://habrahabr.ru/post/207294/
+
+C++ трюки и советы из Boost на каждый день | https://habrahabr.ru/post/206412/
+
+OpenGL в Qt 5.1 – Часть 1 и 2 | https://habrahabr.ru/post/206156/
+
+Секреты auto и decltype | https://habrahabr.ru/post/206458/
+
+Задачи на собеседованиях в Яндексе | https://habrahabr.ru/company/yandex/blog/206234/
+
+Секреты тернарного оператора | https://habrahabr.ru/post/205848/
+
+SFINAE — это просто | https://habrahabr.ru/post/205772/
+
+Cocos2d-x: несколько рекомендаций, как не допустить утечек памяти | https://habrahabr.ru/post/205568/
+
+Классы типов на C++ | https://habrahabr.ru/post/205482/
+
+Объектный пул и быстрое создание объектов в куче | https://habrahabr.ru/post/205316/
+
+Вы все еще кипятите и сравниваете this с нулем? | https://habrahabr.ru/company/abbyy/blog/205070/
+
+TIZEN Developer Summit & Hakathon 2013: взгляд из Нью-Йорка, Сеула и Владивостока | https://habrahabr.ru/post/205046/
+
+Монады и do-нотация в C++ | https://habrahabr.ru/post/205026/
+
+DEV Labs, часть 3. Онлайн конференция по C++ | https://habrahabr.ru/company/luxoft/blog/204798/
+
+Оптимизация обработки изображений на C++ с использованием SIMD. Медианный фильтр | https://habrahabr.ru/post/204682/
+
+Элемент управления Grid… продолжение 1 | https://habrahabr.ru/post/204374/
+
+Как мы пытаемся продать PVS-Studio в Google или очередные ошибки в Chromium | https://habrahabr.ru/company/pvs-studio/blog/204342/
+
+Стоит ли оптимизировать обработку изображений на С++ при помощи SIMD? | https://habrahabr.ru/post/204234/
+
+Внутреннее устройство llst, часть 2 или Little Smalltalk + LLVM = ♥ | https://habrahabr.ru/post/191250/
+
+Элемент управления Grid | https://habrahabr.ru/post/203968/
+
+Настройка WebRTC + Eclipse 4.3 + ubuntu 13.10 | https://habrahabr.ru/post/204068/
+
+Resumable функции | https://habrahabr.ru/company/infopulse/blog/203724/
+
+Meeting C++ 2013 | https://habrahabr.ru/post/203310/
+
+Qt: шаблон для корректной работы с потоками — более качественная реализация | https://habrahabr.ru/post/203254/
+
+Введение в Android NDK | https://habrahabr.ru/post/203014/
+
+Добавление широкоформатных разрешений в Grand Theft Auto | https://habrahabr.ru/post/202692/
+
+Lock-free структуры данных. Внутри. Схемы управления памятью | https://habrahabr.ru/post/202190/
+
+Qt: шаблон для корректной работы с потоками | https://habrahabr.ru/post/202312/
+
+Преимущества C++ как первого языка для обучения программированию | https://habrahabr.ru/post/202466/
+
+Динамический поиск потенциальных взаимоблокировок | https://habrahabr.ru/post/201388/
+
+Продолжение проверки Geant4 | https://habrahabr.ru/company/pvs-studio/blog/202158/
+
+Copy-Paste и мюоны | https://habrahabr.ru/company/pvs-studio/blog/202154/
+
+Асинхронность: назад в будущее | https://habrahabr.ru/post/201826/
+
+ABC-сортировка | https://habrahabr.ru/post/201534/
+
+Обзор новых возможностей С++14: Часть 2 | https://habrahabr.ru/post/198238/
+
+Использование статических переменных и статическая линковка исполняемых модулей друг в друга | https://habrahabr.ru/post/201414/
+
+SDL2: Основы | https://habrahabr.ru/post/201392/
+
+ReactOS: осенний марафон | https://habrahabr.ru/company/reactos/blog/200978/
+
+Эффективная реализация Readers–writer lock на основе «Interlocked Variable Access» | https://habrahabr.ru/post/200924/
+
+Lock-free структуры данных. Основы: Модель памяти | https://habrahabr.ru/post/197520/
+
+Цикл уроков по SDL 2.0: урок 2 | https://habrahabr.ru/post/200730/
+
+Система плагинов как упражнение на C++ 11 | https://habrahabr.ru/post/164699/
+
+Как собрать Qt 5.1.1 при помощи Visual Studio 2012 под XP | https://habrahabr.ru/post/200474/
+
+Перевод SDL Game Framework Series. Часть 6 — SDL Entities | https://habrahabr.ru/post/169295/
+
+Перевод SDL Game Framework Series. Часть 5 — SDL Animation | https://habrahabr.ru/post/169197/
+
+RMI средствами С++ и boost.preprocessor | https://habrahabr.ru/post/199496/
+
+Создаем платформер за 30 минут | https://habrahabr.ru/post/199064/
+
+DSL на JavaScript для C++ или кодгенератор — это просто! | https://habrahabr.ru/company/acronis/blog/199012/
+
+Алгоритм Ахо-Корасик | https://habrahabr.ru/post/198682/
+
+Что быстрее while (true) или for (;;)? | https://habrahabr.ru/post/198588/
+
+Цикл уроков по SDL 2.0: урок 1 | https://habrahabr.ru/post/198600/
+
+Lock-free структуры данных. Извне: введение в libcds | https://habrahabr.ru/post/196834/
+
+Как воспользоваться возможностями R в C++ | https://habrahabr.ru/post/198012/
+
+Проверка VirtualDub | https://habrahabr.ru/company/pvs-studio/blog/198060/
+
+Lock-free структуры данных. Основы: откуда пошли быть барьеры памяти | https://habrahabr.ru/post/196548/
+
+Впечатления от знакомства с Ultimate++ | https://habrahabr.ru/post/194590/
+
+Что такое скрипты и с чем их едят — Lua & C++ | https://habrahabr.ru/post/196272/
+
+«Boost.Asio C++ Network Programming». Глава 7: Boost.Asio – дополнительные темы | https://habrahabr.ru/post/197392/
+
+Интеграция C++ с QML | https://habrahabr.ru/post/197374/
+
+Пишем игры на C++, Часть 2/3 — State-based программирование | https://habrahabr.ru/post/197280/
+
+Пишем игры на C++, Часть 1/3 — Написание мини-фреймворка | https://habrahabr.ru/post/197278/
+
+Использование Lua и C++ для обработки и хранения данных | https://habrahabr.ru/post/197300/
+
+Файл, который нужно закоммитить перед уходом с работы | https://habrahabr.ru/post/197266/
+
+Шесть загадок по С++ | https://habrahabr.ru/post/197164/
+
+PVS-Studio теперь работает и без среды Visual Studio или C++Builder – проверяем препроцессированные файлы от чего угодно | https://habrahabr.ru/company/pvs-studio/blog/197162/
+
+«Boost.Asio C++ Network Programming». Глава 6: – другие особенности | https://habrahabr.ru/post/196888/
+
+Lock-free структуры данных. Основы: Атомарность и атомарные примитивы | https://habrahabr.ru/post/195948/
+
+Tizen Native programming. Пишем «Hello Habrahabr» для ОС Tizen | https://habrahabr.ru/post/196594/
+
+«Boost.Asio C++ Network Programming». Глава 5: Синхронное против асинхронного | https://habrahabr.ru/post/196354/
+
+Программирование STM3220G под eCos | https://habrahabr.ru/post/196240/
+
+Эдвард руки — С++ | https://habrahabr.ru/post/196110/
+
+WTF? | https://habrahabr.ru/company/pvs-studio/blog/195928/
+
+Lock-free структуры данных. 1 — Начало | https://habrahabr.ru/post/195770/
+
+«Boost.Asio C++ Network Programming». Глава 4: Клиент и Сервер | https://habrahabr.ru/post/195794/
+
+«Boost.Asio C++ Network Programming». Глава 3: Эхо сервер/клиент | https://habrahabr.ru/post/195386/
+
+Russian Code Cup 2013: разбираем задачи финала | https://habrahabr.ru/company/mailru/blog/195164/
+
+GCC и Variable-Length Arrays | https://habrahabr.ru/post/195148/
+
+Тестовое задание C++, функтор для сортировки | https://habrahabr.ru/post/195138/
+
+«Boost.Asio C++ Network Programming». Глава 2: Основы Boost.Asio. Часть 2 | https://habrahabr.ru/post/195006/
+
+Алгоритм выбора STL-контейнера | https://habrahabr.ru/company/infopulse/blog/194726/
+
+Делаем простое удержание курсора в окне Warcraft 3 | https://habrahabr.ru/post/194782/
+
+Shed Skin — экспериментальный транслятор из Python в C++ | https://habrahabr.ru/post/194650/
+
+Обновился Google Testing Framework | https://habrahabr.ru/post/194584/
+
+Данные переменной длинны — DataSizeVariable (DSV) | https://habrahabr.ru/post/194492/
+
+PACS-сервер своими руками | https://habrahabr.ru/post/193134/
+
+«Boost.Asio C++ Network Programming». Глава 2: Основы Boost.Asio. Часть 1 | https://habrahabr.ru/post/193038/
+
+Идем по грибы после Cppcheck | https://habrahabr.ru/company/pvs-studio/blog/192996/
+
+Еще один гайд по созданию плазмоида: конфигурация, события и уведомления | https://habrahabr.ru/post/192698/
+
+Конвертируем картинку в ANSI | https://habrahabr.ru/post/192912/
+
+Вычисление максимального числа в массиве на этапе компиляции | https://habrahabr.ru/post/192736/
+
+Большой Калькулятор выходит из под контроля | https://habrahabr.ru/company/pvs-studio/blog/192624/
+
+Аргументированная фабрика | https://habrahabr.ru/post/192520/
+
+Лямбда-функции и реализация удобного механизма Callback-ов на C++ | https://habrahabr.ru/post/159003/
+
+«Boost.Asio C++ Network Programming». Глава 1: Приступая к работе с Boost.Asio | https://habrahabr.ru/post/192284/
+
+Свежие впечатления о BlackBerry 10 NDK | https://habrahabr.ru/post/192064/
+
+Основы Irrlicht Engine для новичков | https://habrahabr.ru/post/191994/
+
+Подготовка среды и компиляция Shareaza сегодня | https://habrahabr.ru/post/191748/
+
+Отказываемся от шаблонных шаблонных параметров | https://habrahabr.ru/post/191588/
+
+Заземлённые указатели | https://habrahabr.ru/company/pvs-studio/blog/191688/
+
+PVS-Studio идет в народ – бесплатная проверка вашего проекта | https://habrahabr.ru/company/pvs-studio/blog/191346/
+
+Внешние компоненты в 1С 8.2 | https://habrahabr.ru/post/191014/
+
+Пять подводных камней при использовании shared_ptr | https://habrahabr.ru/post/191018/
+
+PVS-Studio наконец то добрался до Boost | https://habrahabr.ru/company/pvs-studio/blog/190888/
+
+Сверхбыстрое копирование\вставка фрагментов кода | https://habrahabr.ru/post/190338/
+
+Проверка open-source игры Multi Theft Auto | https://habrahabr.ru/company/pvs-studio/blog/190292/
+
+Шпаргалка по параллелизму в С++ | https://habrahabr.ru/company/infopulse/blog/189710/
+
+Третья проверка кода проекта Chromium с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/189892/
+
+Из подвала секретной лаборатории разработчиков PVS-Studio… | https://habrahabr.ru/company/pvs-studio/blog/189566/
+
+MEGA выпустили собственный SDK | https://habrahabr.ru/post/188808/
+
+Как ускорить сборку 1000 VisualStudio C++ проектов | https://habrahabr.ru/post/188622/
+
+Как я писал фикс широкоэкранных разрешений для FlatOut | https://habrahabr.ru/post/188594/
+
+Регулярные выражения в расчетах ядерной трансмутации | https://habrahabr.ru/post/188448/
+
+Распознавание рукописного ввода | https://habrahabr.ru/post/188390/
+
+Настройка WinDbg | https://habrahabr.ru/post/187522/
+
+Пишем простой ThreadPool с async и future | https://habrahabr.ru/post/188234/
+
+Работа с PEB и TEB | https://habrahabr.ru/post/187226/
+
+STL для новичков. Реализация класса-контейнера | https://habrahabr.ru/post/187010/
+
+Пишем свой системный монитор (Linux) | https://habrahabr.ru/post/186944/
+
+C++: Когда время жизни объекта определяется временем жизни ссылки на него | https://habrahabr.ru/post/186790/
+
+Не зная брода, не лезь в воду. Часть N4 | https://habrahabr.ru/company/pvs-studio/blog/186682/
+
+Читабельный тест | https://habrahabr.ru/post/186666/
+
+MySQL клиент формата A4 | https://habrahabr.ru/post/186650/
+
+Антихукинг — теория | https://habrahabr.ru/post/186334/
+
+Не бойтесь велосипедов. Или еще один Grand Central Dispatch (GCD) на C++11 | https://habrahabr.ru/post/186200/
+
+Грабли 2: Виртуальное наследование | https://habrahabr.ru/post/185826/
+
+QtDbus — тьма, покрытая тайною. Часть 1 | https://habrahabr.ru/post/185212/
+
+[C++] Всё ли мы знаем об операторах new и delete? | https://habrahabr.ru/post/185662/
+
+Техника написания аналога await/async из C# для C++ | https://habrahabr.ru/post/185706/
+
+Занимательный C++: Счетчик времени компиляции | https://habrahabr.ru/post/184800/
+
+Значок в области уведомлений на C++ | https://habrahabr.ru/post/185252/
+
+Грабли 1: Восстание одиноких фениксов | https://habrahabr.ru/post/185128/
+
+Умение видеть абстракции | https://habrahabr.ru/company/infopulse/blog/185144/
+
+Обзор новых возможностей С++14: Часть 1 | https://habrahabr.ru/post/184606/
+
+Поддержка С++ в ReSharper | https://habrahabr.ru/company/JetBrains/blog/184830/
+
+Мир опечаток и Copy-Paste | https://habrahabr.ru/company/pvs-studio/blog/184848/
+
+Работа с cURL на android | https://habrahabr.ru/post/184738/
+
+Рэгдолл физика своими руками. Часть первая | https://habrahabr.ru/post/184724/
+
+Thread concurrency C++11, свой велосипед технологии (Apple) GCD | https://habrahabr.ru/post/184562/
+
+Повторная проверка TortoiseSVN с помощью анализатора кода PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/184542/
+
+Реализуем полезный лог на основе потоков | https://habrahabr.ru/post/184486/
+
+Полезные идиомы многопоточности С++ | https://habrahabr.ru/post/184436/
+
+Как обеспечить надлежащее пересечение границ динамической библиотеки, используя пользовательские средства удаления смарт-указателей | https://habrahabr.ru/post/182970/
+
+Пишем асинхронный модуль для node.js с помощью C++ | https://habrahabr.ru/post/184338/
+
+Qt Graphics View Framework — темная сторона. Часть 2 | https://habrahabr.ru/post/183432/
+
+«constexpr» функции не имеют спецификатор «const» | https://habrahabr.ru/post/184250/
+
+Генерация карты высот | https://habrahabr.ru/post/183986/
+
+Online IDE и Local File Inclusion | https://habrahabr.ru/post/183976/
+
+Awesomium для C++ | https://habrahabr.ru/post/183826/
+
+Нумерация аргументов variadic template, или что скрывает скромный pair | https://habrahabr.ru/post/183830/
+
+Официальный релиз LLVM 3.3 | https://habrahabr.ru/post/183774/
+
+Return by value и const variables в C++11 | https://habrahabr.ru/post/183454/
+
+Qt Graphics Framework — темная сторона. Часть 1 | https://habrahabr.ru/post/182614/
+
+Switch для двух параметров в С++ | https://habrahabr.ru/post/183332/
+
+Десять возможностей C++11, которые должен использовать каждый C++ разработчик | https://habrahabr.ru/post/182920/
+
+Полиморфизм без виртуальных функций | https://habrahabr.ru/post/182824/
+
+Одним махом 100 миллионов убивахом. Или lock-free распределитель памяти | https://habrahabr.ru/post/182722/
+
+Создание QR-кодов на C/C++ | https://habrahabr.ru/post/182638/
+
+Потоки, блокировки и условные переменные в C++11 [Часть 2] | https://habrahabr.ru/post/182626/
+
+SIMD без SIMD, или ищем на С почти в два раза быстрее чем на С++ | https://habrahabr.ru/post/182588/
+
+Потоки, блокировки и условные переменные в C++11 [Часть 1] | https://habrahabr.ru/post/182610/
+
+Возможности оптимизации в языках C и C++ | https://habrahabr.ru/post/182356/
+
+Скорости разработки и исполнения, не достижимые на С | https://habrahabr.ru/post/182428/
+
+Красота и мощь Qt Graphics View Framework на примере | https://habrahabr.ru/post/182142/
+
+Изучаем С используя GDB | https://habrahabr.ru/post/181738/
+
+Doom 3 BFG — обзор исходного кода: Многопоточность (часть 2 из 4) | https://habrahabr.ru/post/181081/
+
+Архив интересного кода | https://habrahabr.ru/post/181714/
+
+Qt Creator 2.8.0 beta released | https://habrahabr.ru/post/181710/
+
+DOOM 3 BFG — обзор исходного кода: введение (часть 1 из 4) | https://habrahabr.ru/post/180973/
+
+Еще один Linq для С++ | https://habrahabr.ru/post/180859/
+
+Как сделать ваше приложение быстрым: профильная оптимизация C++ | https://habrahabr.ru/company/microsoft/blog/180777/
+
+Про мнимые и реальные оптимизации в 10 раз, целительный SSE, и все такое | https://habrahabr.ru/post/180161/
+
+Оптимизация времени выполнения программы на С++ (убираем условные переходы) | https://habrahabr.ru/post/180085/
+
+Обнаружены ошибки в библиотеках C++Builder | https://habrahabr.ru/company/pvs-studio/blog/179615/
+
+Несколько подробностей о шаблонах или форк-бомба этапа компиляции | https://habrahabr.ru/post/179137/
+
+Особенности реализации кортежей на c++ | https://habrahabr.ru/post/179153/
+
+Единорог вновь готов к общению с Си++ программистами | https://habrahabr.ru/company/pvs-studio/blog/179083/
+
+Добавляем Web API для программы на C++ с помощью библиотеки POCO | https://habrahabr.ru/company/infopulse/blog/178403/
+
+Марафонские задачки по С++ | https://habrahabr.ru/post/177111/
+
+Композиция vs наследование | https://habrahabr.ru/post/177447/
+
+Android NDK: OpenSL ES | https://habrahabr.ru/post/176933/
+
+Основы Android NDK на примере работы с OpenAL | https://habrahabr.ru/post/176559/
+
+Несколько подробностей об std::string | https://habrahabr.ru/post/175691/
+
+Автономная кроссплатформенная монолитная программа на Java | https://habrahabr.ru/post/176237/
+
+Сохранение изображения с помощью libpng | https://habrahabr.ru/post/176163/
+
+Миграция данных с MySQL на PostgreSQL | https://habrahabr.ru/post/175459/
+
+JetBrains готовит к выпуску С++ IDE | https://habrahabr.ru/post/175297/
+
+Оберточная библиотека-перехватчик | https://habrahabr.ru/post/174647/
+
+Частые ошибки при разработке lockfree-алгоритмов и их решения | https://habrahabr.ru/post/174369/
+
+Краткое введение в boost::program_options | https://habrahabr.ru/post/174347/
+
+Книга MinGW Starter | https://habrahabr.ru/post/174343/
+
+Пишем SOAP-клиент на C++, используя gSOAP | https://habrahabr.ru/post/174109/
+
+90 рекомендаций по стилю написания программ на C++ | https://habrahabr.ru/post/172091/
+
+Move semantics в C++11 и STL-контейнеры | https://habrahabr.ru/post/174019/
+
+GCC 4.8 завершил миграцию на C++ | https://habrahabr.ru/post/174017/
+
+Иерархические модели в Qt | https://habrahabr.ru/post/172187/
+
+Сравнение C++ Standard и Boost | https://habrahabr.ru/post/173639/
+
+Небольшая задача на C/C++ для разминки | https://habrahabr.ru/post/173613/
+
+Реализация длииииииинной арифметики на C++ | https://habrahabr.ru/post/172285/
+
+[В разработке] Перехватчик функций с неизвестными аргументами | https://habrahabr.ru/post/172879/
+
+RAII + С++ variadic templates = win | https://habrahabr.ru/post/172817/
+
+Intel System Studio — набор разработчика ПО для встраиваемых и мобильных систем | https://habrahabr.ru/company/intel/blog/172401/
+
+C/C++ plugin for IntelliJ IDEA as OpenSource | https://habrahabr.ru/post/172259/
+
+Соединяем Qt-сигнал с простой функцией и лямбда | https://habrahabr.ru/post/171835/
+
+Генератор абстракций — видеообзор | https://habrahabr.ru/post/171805/
+
+Знакомство с libuniset — библиотекой для создания АСУ | https://habrahabr.ru/post/171711/
+
+О модульности, хорошей архитектуре, внедрении зависимостей в С/C++ и разноцветных кружочках | https://habrahabr.ru/post/171479/
+
+Используем GYP для сборки С/C++ проекта | https://habrahabr.ru/post/171697/
+
+Организация сетевого взаимодействия на Qt | https://habrahabr.ru/post/171553/
+
+Дискретная математика для первокурсников: опыт преподавателя | https://habrahabr.ru/company/surfingbird/blog/171279/
+
+Boost Signals — сигналы и слоты для C++ | https://habrahabr.ru/post/171471/
+
+QML и C++. Гоняем данные, оцениваем скорость взаимодействия | https://habrahabr.ru/post/171341/
+
+Модульное тестирование и непрерывная интеграция при помощи Jenkins для C++ проектов | https://habrahabr.ru/post/170847/
+
+Система кэширования zero-cache | https://habrahabr.ru/post/170555/
+
+Разбор WKB формата без сторонних библиотек | https://habrahabr.ru/company/mailru/blog/167517/
+
+Обзор исходного кода Quake 3: Архитектура (Часть 1) | https://habrahabr.ru/post/170139/
+
+В C++ единицей инкапсуляции является класс | https://habrahabr.ru/post/170127/
+
+Путешествие исключений между C++ и Python или «Туда и обратно» | https://habrahabr.ru/post/169639/
+
+С++ библиотека от Google с контейнерами map и set на B-деревьях | https://habrahabr.ru/post/169199/
+
+Перевод SDL Game Framework Series. Часть 4 — SDL Tutorial: Tic Tac Toe | https://habrahabr.ru/post/167443/
+
+Вычисляем значение числа e на этапе компиляции | https://habrahabr.ru/post/168961/
+
+Boost Property Tree и его парсер XML | https://habrahabr.ru/post/168951/
+
+Конвертация типов в Boost.Python. Делаем преобразование между привычными типами C++ и Python | https://habrahabr.ru/post/168827/
+
+Объединяя C++ и Python. Тонкости Boost.Python. Часть вторая | https://habrahabr.ru/post/168233/
+
+Объединяя C++ и Python. Тонкости Boost.Python. Часть первая | https://habrahabr.ru/post/168083/
+
+Интервью с создателем C++ STL, 1995 г. Часть 3 | https://habrahabr.ru/post/167909/
+
+Проект NULL | https://habrahabr.ru/post/158985/
+
+LLVM+Clang 3.2: собираем самим собой под Windows | https://habrahabr.ru/post/167281/
+
+Sublime Text 2 для C/C++ разработчика или SublimeClang | https://habrahabr.ru/post/167353/
+
+Еще один «switch для строк» — но не только для строк и не только «switch» | https://habrahabr.ru/post/167309/
+
+Перевод SDL Game Framework Series. Часть 3 — SDL Events | https://habrahabr.ru/post/167245/
+
+Использование Python в многопоточном приложении на C++ и настоящая многопоточность в Python | https://habrahabr.ru/post/167261/
+
+Интервью с создателем C++ STL, 1995 г. Часть 2 | https://habrahabr.ru/post/167257/
+
+Версия таблицы STL-контейнеров для печати | https://habrahabr.ru/post/167241/
+
+Перевод SDL Game Framework Series. Часть 2 — SDL Coordinates and Bliting | https://habrahabr.ru/post/167035/
+
+Пример примитивного веб сервера на С++ с использованием OpenSSL | https://habrahabr.ru/post/167107/
+
+Перевод SDL Game Framework Series. Часть 1 — SDL Tutorial Basics | https://habrahabr.ru/post/166875/
+
+Интервью с создателем C++ STL, 1995 г. Часть 1 | https://habrahabr.ru/post/166849/
+
+Switch для строк в C++11 | https://habrahabr.ru/post/166201/
+
+Продолжаем изобретать function | https://habrahabr.ru/post/166589/
+
+Пишем кроссплатформенную библиотеку на C++ для работы с именованными каналами | https://habrahabr.ru/post/166155/
+
+Пингер на Boost.Asio и модульное тестирование | https://habrahabr.ru/company/pt/blog/166139/
+
+Исключительная красота исходного кода Doom 3 | https://habrahabr.ru/post/166113/
+
+C++ в 2013 году | https://habrahabr.ru/company/infopulse/blog/165997/
+
+Шаблоны с переменным количеством аргументов на примере обертки для Lua | https://habrahabr.ru/post/165765/
+
+ViBe — алгоритм вычитания фона | https://habrahabr.ru/post/165677/
+
+Сервис шаринга скриншотов и кода | https://habrahabr.ru/post/165647/
+
+Самопальная привязка С++ классов к JVM через JNI | https://habrahabr.ru/post/165165/
+
+Простейшая кластеризация изображени методом к-средних (k-means) | https://habrahabr.ru/post/165087/
+
+Создаем расширение (extension) Visual Studio для генерирования C++ директивы #define в header-файле | https://habrahabr.ru/post/164973/
+
+Портируем Qt4 приложение на Qt5 | https://habrahabr.ru/post/164721/
+
+Способы передвижения компьютерных персонажей (часть 3) | https://habrahabr.ru/post/164625/
+
+Результаты новогоднего Хабра-соревнования по программированию, анализ и обсуждение | https://habrahabr.ru/post/164567/
+
+Способы передвижения компьютерных персонажей (часть 2) | https://habrahabr.ru/post/164563/
+
+Способы передвижения компьютерных персонажей (Часть 1) | https://habrahabr.ru/post/164489/
+
+Новогоднее хабра-соревнование по программированию-2013 (C++) | https://habrahabr.ru/post/164515/
+
+Что такое TCHAR, WCHAR, LPSTR, LPWSTR,LPCTSTR (итд) | https://habrahabr.ru/post/164193/
+
+Быстрый старт с Google Test | https://habrahabr.ru/company/infopulse/blog/164471/
+
+Использование подключений к СУБД в многопоточных приложениях на Qt | https://habrahabr.ru/post/164377/
+
+LLST: Новая жизнь Little Smalltalk | https://habrahabr.ru/post/164153/
+
+Спецификатор времени компиляции noexcept в C++11 | https://habrahabr.ru/post/164221/
+
+Использование объединений в константных выражениях под С++11 | https://habrahabr.ru/company/infopulse/blog/164037/
+
+Чистый С++: Как правильно разрушать | https://habrahabr.ru/company/intel/blog/163907/
+
+NVIDIA Nsight Tegra preview release | https://habrahabr.ru/post/164025/
+
+Особенности обработки исключений в Windows | https://habrahabr.ru/post/163745/
+
+Использование try — catch для отладки | https://habrahabr.ru/post/163393/
+
+Создаем Свой Sniffer/FireWall/Parental control/ SpyWare/Клиент для компьютерного Клуба. Технология LSP | https://habrahabr.ru/post/162401/
+
+Об одном методе распределения памяти | https://habrahabr.ru/post/162187/
+
+Кросс-компиляция и отладка C++ Windows-приложения под Linux | https://habrahabr.ru/post/162171/
+
+Дружим Python 3 с MS Visual C++. Строим мост в Boost.Python с автоматической перекодировкой | https://habrahabr.ru/post/161931/
+
+Однажды вы читали о ключевом слове volatile… | https://habrahabr.ru/company/abbyy/blog/161607/
+
+Просмотр изображений OpenCV во время отладки C++ кода в Visual Studio | https://habrahabr.ru/post/161605/
+
+Многопоточная реализация алгоритма кеширования CART | https://habrahabr.ru/post/161597/
+
+Среды разработки С++ для Ubuntu | https://habrahabr.ru/post/161217/
+
+Как заставить компилятор C/C++ генерировать плохой код | https://habrahabr.ru/post/160995/
+
+Что нового в работе с исключениями в C++11 | https://habrahabr.ru/post/160955/
+
+Java Native Interface. C++. Linux. Первые шаги | https://habrahabr.ru/post/160293/
+
+Расширения PHP: несколько интересных особенностей | https://habrahabr.ru/post/160093/
+
+O Boost Multi-index Containers | https://habrahabr.ru/post/160009/
+
+Советы по C++ | https://habrahabr.ru/post/159839/
+
+[ANN]ounce книг 11'2012 | https://habrahabr.ru/post/159711/
+
+Пишем свой std::function (boost::function) | https://habrahabr.ru/post/159389/
+
+Интерполяция + (линейная | логарифмическая) шкала + С++ | https://habrahabr.ru/post/157407/
+
+Как портировать libcURL под Android | https://habrahabr.ru/post/158743/
+
+Генерация числа прописью из любого произвольного числа | https://habrahabr.ru/post/158437/
+
+Как malloc память ест | https://habrahabr.ru/post/158347/
+
+Параллельное программирование с помощью вычислительного графа | https://habrahabr.ru/company/intel/blog/157735/
+
+Работаем с SteamWorks. Часть 3 | https://habrahabr.ru/post/158219/
+
+Работаем с SteamWorks. Часть 2 | https://habrahabr.ru/post/158119/
+
+О тонкостях повышения performance на С++, или как делать не надо | https://habrahabr.ru/post/157997/
+
+Работаем с SteamWorks. Часть 1 | https://habrahabr.ru/post/157999/
+
+«Универсальные» ссылки в C++11 или T&& не всегда означает «Rvalue Reference» | https://habrahabr.ru/post/157961/
+
+Nested Diagnostic Context, log4cpp и Boost asio | https://habrahabr.ru/post/157353/
+
+RAII и делегирующие конструкторы в C++11 | https://habrahabr.ru/post/157315/
+
+Простая автоматизация версионности и сборки C/C++ проекта на Ruby | https://habrahabr.ru/post/157197/
+
+Презентация Герба Саттера про Visual C++ и C++11 на конференции BUILD | https://habrahabr.ru/post/157239/
+
+Чистый C++ | https://habrahabr.ru/company/intel/blog/156863/
+
+WebServer как тестовое задание | https://habrahabr.ru/post/152345/
+
+Автоматизируем сбор информации о падениях программы | https://habrahabr.ru/post/156255/
+
+Мультиметоды в C++. Библиотечная реализация. Введение в MML | https://habrahabr.ru/post/155515/
+
+Демонстрация сбоев программы при отсутствии барьеров памяти | https://habrahabr.ru/post/155507/
+
+Добавляем немного виртуальности в C | https://habrahabr.ru/post/155439/
+
+x-acl легковесная утилита для организации Access Control List (ACL) | https://habrahabr.ru/post/155099/
+
+Пишем свой отладчик под Windows [часть 1] | https://habrahabr.ru/post/154847/
+
+Интересная логика Random access итераторов в STL контейнерах | https://habrahabr.ru/post/154761/
+
+Игра «Жизнь». Опять. На этот раз в 3D | https://habrahabr.ru/post/154753/
+
+Web-приложение на C/C++ с помощью FastCGI — это просто | https://habrahabr.ru/post/154187/
+
+Как я Boost.Any с Boost.MPL дружил | https://habrahabr.ru/post/154311/
+
+Ловушки языка С++ | https://habrahabr.ru/post/154033/
+
+От последовательного кода к параллельному за пять шагов c Intel® Advisor XE | https://habrahabr.ru/company/intel/blog/152086/
+
+Qt виджет для добавления и удаления строк в таблицe QTableView | https://habrahabr.ru/post/152933/
+
+Разработка «универсальной» библиотеки для создания нейронной сети (Начало) | https://habrahabr.ru/post/152783/
+
+Доступен предзаказ 4-го издания «The C++ Programming Language» | https://habrahabr.ru/post/151760/
+
+«Концепты» на C++ | https://habrahabr.ru/post/151504/
+
+Что не так с ссылками в С++ | https://habrahabr.ru/post/151444/
+
+Как определить все мониторы и их разрешения | https://habrahabr.ru/post/151273/
+
+C++ Debugger Visualizers: отображение типов в отладчике из Boost, wxWidgets, TinyXML и TinyXML2 | https://habrahabr.ru/post/151266/
+
+Как правильно скопировать массив и при чем тут SFINAE | https://habrahabr.ru/post/150654/
+
+Во всём виноват компилятор | https://habrahabr.ru/post/150970/
+
+LISP-интерпретатор на чистом C | https://habrahabr.ru/post/150805/
+
+Работа с QDataStream | https://habrahabr.ru/post/150827/
+
+Авторизация в приложениях | https://habrahabr.ru/post/150755/
+
+Простой алгоритм распознавания речи по короткому словарю на основе MFCC | https://habrahabr.ru/post/150251/
+
+Реализация синглтона в многопоточном приложении | https://habrahabr.ru/post/150276/
+
+Алгоритмы сортировки. Gnome Sort на Си | https://habrahabr.ru/post/145682/
+
+AngelScript | https://habrahabr.ru/post/145340/
+
+Какой компилятор для C++ Вы используете? | https://habrahabr.ru/post/149818/
+
+Какая у вас основная IDE для C++? | https://habrahabr.ru/post/149773/
+
+Создаем стиль интерфейса Qt на примере таблицы | https://habrahabr.ru/post/149687/
+
+Поддержка C++ на avr в gcc | https://habrahabr.ru/post/149683/
+
+Вложенные функции на C++ | https://habrahabr.ru/post/149513/
+
+Вычисление производных с помощью шаблонов на С++ | https://habrahabr.ru/post/149470/
+
+Динамические мат. функции в C++ | https://habrahabr.ru/post/149450/
+
+Неприятная особенность std::list, о которой не все знают | https://habrahabr.ru/post/149384/
+
+Nokia заключила соглашение о передаче разработки Qt компании Digia | https://habrahabr.ru/post/149310/
+
+Взаимодействие процессов (приложений) на WinApi | https://habrahabr.ru/post/149299/
+
+Что быстрее преобразует int в std::string в с++? Настройки компилятора на максимальную скорость | https://habrahabr.ru/post/149296/
+
+Перегрузка и наследование | https://habrahabr.ru/post/149287/
+
+Руководство по созданию ActiveX-контролов на C++ с помощью ATL | https://habrahabr.ru/post/149277/
+
+Стиль кода, краткость и конкурентные преимущества | https://habrahabr.ru/post/149210/
+
+Список функций для получения текста ошибок из их кодов (WinAPI) | https://habrahabr.ru/post/149116/
+
+Один из методов работы с конфигурационными файлами в С++ (Qt) | https://habrahabr.ru/post/149085/
+
+Частичное применение и каррирование в C++ | https://habrahabr.ru/post/149056/
+
+Максимально точное измерение кода | https://habrahabr.ru/post/147852/
+
+Заставляем компилятор отличать коров от галош | https://habrahabr.ru/post/148985/
+
+Конфигурационные файлы. Библиотека libconfig | https://habrahabr.ru/post/148948/
+
+Небольшой логгер стека вызовов для C++ | https://habrahabr.ru/post/148781/
+
+Qt + OpenCV. Новое устройство GigE интерфейса доступа к сетевым видеокамерам как CvCapture | https://habrahabr.ru/post/148850/
+
+Захват изображений с веб-камеры через QCamera | https://habrahabr.ru/post/148775/
+
+Управление памятью в C++ | https://habrahabr.ru/post/148657/
+
+Аналог scope(exit) на С++ | https://habrahabr.ru/post/148534/
+
+Clang API. Начало | https://habrahabr.ru/post/148508/
+
+Магия макросов для объединения объявления и реализации | https://habrahabr.ru/post/148494/
+
+Qt + OpenCV. Runtime и Widget для CvCapture (устройства видеозахвата) | https://habrahabr.ru/post/148467/
+
+Автоматическая генерация операторов сравнения структур в C++ | https://habrahabr.ru/post/148348/
+
+О том, как мелкие баги в линкере Microsoft аукаются в Linux, на примере Firefox | https://habrahabr.ru/post/148309/
+
+GC в C++: преодоление соблазна | https://habrahabr.ru/post/148242/
+
+Portable Components, вспомогательные средства разработки ПО | https://habrahabr.ru/post/148227/
+
+Portable Components, кроссплатформенная библиотека для C++ | https://habrahabr.ru/post/148173/
+
+О том как я имя файла из С++ в Java передавал | https://habrahabr.ru/post/148115/
+
+Как я вставлял Java 7 в работающее приложение, и что пришлось изобрести для С runtime | https://habrahabr.ru/post/148068/
+
+Yet another factory | https://habrahabr.ru/post/147942/
+
+MSVS Lifehacks, ч.1 — Debugger. Управление пошаговым выполнением | https://habrahabr.ru/post/147655/
+
+Создание агента расширения SNMP | https://habrahabr.ru/post/147365/
+
+Тайна лишнего CMP или зачем Володька сбрил усы? | https://habrahabr.ru/post/147400/
+
+Краш-репорты в *nix: backtrace, SEGFAULT (и reinterpret_cast) | https://habrahabr.ru/post/147280/
+
+Три возраста паттерна Singleton | https://habrahabr.ru/post/147373/
+
+Однострочники на Си/С++. Часть 2 | https://habrahabr.ru/post/147277/
+
+Сравниваем производительность целочисленного умножения | https://habrahabr.ru/post/147272/
+
+Подсчет ссылок атомарными переменными в C/C++ и GCC | https://habrahabr.ru/post/147107/
+
+Пишем приложение на GTK+ используя C++ и GTKMM библиотеку | https://habrahabr.ru/post/146799/
+
+Однострочники на С++ | https://habrahabr.ru/post/146793/
+
+С11 исправит ошибки С99 | https://habrahabr.ru/post/146596/
+
+Как я дружил MatLab и C++ в Linux | https://habrahabr.ru/post/146568/
+
+Вебинары по QML и QtQuick: интеграция QML и C++ | https://habrahabr.ru/company/microsoftlumia/blog/146338/
+
+Qt Designer & Runtime Qt библиотеки на службе OpenCV разработчика, или тащим IplImage на QLabel | https://habrahabr.ru/post/146210/
+
+Перевод из любой системы счисления в любую чисел большой длины | https://habrahabr.ru/post/146167/
+
+Детский лепет или C++ тоже с чего-то начинается | https://habrahabr.ru/post/143335/
+
+Методы, как first class citizens в C++ | https://habrahabr.ru/post/145673/
+
+Как мы делали плагин для kate | https://habrahabr.ru/post/145663/
+
+Все информационные технологии в кратком изложении | https://habrahabr.ru/post/145415/
+
+Алгоритм моделирования многомерного массива данных, распределенных по нормальному закону | https://habrahabr.ru/post/145315/
+
+Анонс летней школы «Алгоритмы анализа, изменения и сравнения 3D полигональных моделей» | https://habrahabr.ru/post/145243/
+
+Создание приложений на GTK+/gtkmm с использованием среды Glade | https://habrahabr.ru/post/145160/
+
+Алгоритм параллельного поиска максимальных, общих подстрок в двух строках, и его имплементация на C++ (C++11) | https://habrahabr.ru/post/145198/
+
+Кроссплатформенная работа со строками на C++ | https://habrahabr.ru/post/145187/
+
+Please come back to me in Casablanca | https://habrahabr.ru/company/infopulse/blog/144925/
+
+Асинхронные запросы к MySQL на API (libmysqlclient) | https://habrahabr.ru/post/144918/
+
+Сравнение скорости работы range-based for, foreach(Qt) и кое-чего из STL при подсчете суммы элементов контейнеров | https://habrahabr.ru/post/144905/
+
+Разрабатываем модуль PHP на C++. Часть 1: экскурс в мир Zend Engine 2 | https://habrahabr.ru/post/144582/
+
+Type-rich Programming | https://habrahabr.ru/post/144334/
+
+Вычисление CRC32 строк в compile-time | https://habrahabr.ru/post/143975/
+
+Использование синтезатора в качестве компьютерной клавиатуры | https://habrahabr.ru/post/143893/
+
+Доработка плагина TODO для QtCreator 2.5.0 | https://habrahabr.ru/post/138814/
+
+Портируем C/C++ библиотеку на JavaScript (xml.js) | https://habrahabr.ru/post/143583/
+
+Делиться не всегда полезно: оптимизируем работу с кэш-памятью | https://habrahabr.ru/company/intel/blog/143446/
+
+Практика работы со временем в разных часовых поясах в unix-like системах | https://habrahabr.ru/post/143499/
+
+Отправка multipart/form-data запроса в Qt | https://habrahabr.ru/post/143168/
+
+Многопоточный QuickSort на С++ 2011 | https://habrahabr.ru/post/143055/
+
+Расставим точки над структурами C/C++ | https://habrahabr.ru/post/142662/
+
+Внутренность boolinq для взрослых | https://habrahabr.ru/post/142657/
+
+LINQ to Objects на языке C++ | https://habrahabr.ru/post/142632/
+
+Итак, вы решили запретить копирование объектов класса в C++ | https://habrahabr.ru/company/abbyy/blog/142595/
+
+Wt, библиотека C++ для разработки веб-приложений | https://habrahabr.ru/post/142585/
+
+CXXI: Мост между мирами C# и C++ | https://habrahabr.ru/post/142503/
+
+Самый правильный безопасный printf | https://habrahabr.ru/post/142352/
+
+Давайте сделаем паузу. Способ улучшения синхронизации потоков | https://habrahabr.ru/company/intel/blog/142382/
+
+Сигналы и слоты в Qt5 | https://habrahabr.ru/post/141983/
+
+Организация рабочих потоков: управление состоянием движка | https://habrahabr.ru/post/141783/
+
+Парсим Python код с помощью Flex и Bison | https://habrahabr.ru/post/141756/
+
+Практика работы с сигналами | https://habrahabr.ru/post/141206/
+
+Реализация exceptions на plain C | https://habrahabr.ru/post/141507/
+
+Организация рабочих потоков: синхронизационный канал | https://habrahabr.ru/post/141509/
+
+qutIM 0.3: Через тернии к звёздам! | https://habrahabr.ru/post/141192/
+
+Структура Radix Tree для сжатия данных | https://habrahabr.ru/post/141145/
+
+Особенности работы с Multicast | https://habrahabr.ru/post/141021/
+
+Простой скринсейвер с использованием библиотеки CImg, C++ | https://habrahabr.ru/post/141011/
+
+Оптимизация для CPU: как найти черную кошку в темной комнате | https://habrahabr.ru/company/intel/blog/140965/
+
+Краткое описание библиотеки CImg | https://habrahabr.ru/post/140935/
+
+Замечание по move semantics при операторе return в C++11 | https://habrahabr.ru/post/140699/
+
+А понимаете ли Вы move семантику? | https://habrahabr.ru/post/140578/
+
+Релиз GCC-4.7 | https://habrahabr.ru/post/140557/
+
+Image Control своими руками в Visual C++ | https://habrahabr.ru/post/140423/
+
+Описание работы с Virtual Grid Control в Visual C++ | https://habrahabr.ru/post/140388/
+
+Пользовательские литералы в C++11 | https://habrahabr.ru/post/140357/
+
+Интеграция Python и C++ | https://habrahabr.ru/company/PENXY/blog/139655/
+
+Извлекаем мета-информацию из Си/C++ кода при помощи (py)gccxml | https://habrahabr.ru/post/138906/
+
+Smart pointers для начинающих | https://habrahabr.ru/post/140222/
+
+[asio::udp] Не кроссплатформенное поведение | https://habrahabr.ru/post/139452/
+
+Причины любить C++ | https://habrahabr.ru/post/139198/
+
+Обзор конференции Going Native'2012 | https://habrahabr.ru/post/139064/
+
+Создание прокси-dll для запуска DirectDraw игр в окне | https://habrahabr.ru/post/133956/
+
+Простой индикатор раскладки клавиатуры в курсоре на С++ | https://habrahabr.ru/post/138940/
+
+Недооценённые итераторы | https://habrahabr.ru/post/122283/
+
+OpenGL Mathematics (GLM) Обзор библиотеки | https://habrahabr.ru/post/138731/
+
+Диспетчер произвольных сообщений на базе google protocol buffers | https://habrahabr.ru/post/138812/
+
+Compile-time проверка в C/C++ | https://habrahabr.ru/post/138813/
+
+Exceptions и производительность | https://habrahabr.ru/post/104172/
+
+Производительность shared_ptr и C++11: почему я не верю библиотекам | https://habrahabr.ru/post/138658/
+
+Here be dragons | https://habrahabr.ru/company/infopulse/blog/138586/
+
+Компилирование заголовочных файлов или документация на халяву | https://habrahabr.ru/post/138592/
+
+Тест производительности контейнеров и указателей на объекты | https://habrahabr.ru/post/138550/
+
+Тонкости реализации кода библиотеки. Часть вторая | https://habrahabr.ru/post/138438/
+
+Каспийские монстры многопоточности | https://habrahabr.ru/post/138248/
+
+GCC Profile-guided optimization | https://habrahabr.ru/post/138132/
+
+Макросы с переменным числом параметров | https://habrahabr.ru/post/138150/
+
+Тонкости реализации кода библиотеки. Часть первая | https://habrahabr.ru/post/138085/
+
+DynLib: библиотека для создания и работы с DLL | https://habrahabr.ru/post/137969/
+
+Минималистичная программа в формате ELF | https://habrahabr.ru/post/137706/
+
+Перевод статьи «Pimp my Pimpl», часть 2 | https://habrahabr.ru/post/137702/
+
+Константный указатель на неконстантный объект это: | https://habrahabr.ru/post/137375/
+
+BOOL или BOOLEAN — вот в чем вопрос? | https://habrahabr.ru/post/135490/
+
+Симплекс Серпинского | https://habrahabr.ru/post/136696/
+
+Я не знаю Си | https://habrahabr.ru/post/136283/
+
+Новая карта мира С++ от Alenacpp | https://habrahabr.ru/post/135917/
+
+Использовали ли Вы множественное наследование C++ в реальных проектах? | https://habrahabr.ru/post/135609/
+
+Использование SCM для управления драйверами в C# реализованной с помощью dll на C++/cli | https://habrahabr.ru/post/135410/
+
+Работа с бинарными файлами в стиле STL | https://habrahabr.ru/post/134788/
+
+Ускоряем OpenMP в Visual C++ 2010 | https://habrahabr.ru/post/134547/
+
+WebService c поддержкой gzip на C | https://habrahabr.ru/post/133176/
+
+C++ Variadic templates. Каррирование и частичное применение | https://habrahabr.ru/post/133084/
+
+Qt+OpenGl — Основы. Часть 1 | https://habrahabr.ru/post/132674/
+
+Еще раз о делегатах в C++ | https://habrahabr.ru/post/132333/
+
+Перегрузка операторов в C++ | https://habrahabr.ru/post/132014/
+
+std::stringstream и форматирование строк | https://habrahabr.ru/post/131977/
+
+Немного о том, почему использование STL бывает неоптимальным | https://habrahabr.ru/post/131598/
+
+Клиент-серверный чат, используя сокеты Qt/C++ | https://habrahabr.ru/post/131585/
+
+C++11 — removed and deprecated | https://habrahabr.ru/post/131512/
+
+Ещё более современный C++ | https://habrahabr.ru/post/131478/
+
+Простой сервер на Qt/C++ | https://habrahabr.ru/post/131472/
+
+Обработка Segmentation Fault в C++ | https://habrahabr.ru/post/131412/
+
+Как использовать C++ AMP из C# | https://habrahabr.ru/post/131372/
+
+Коды возврата & исключения | https://habrahabr.ru/post/131212/
+
+Шаблонная библиотека cxxtools | https://habrahabr.ru/post/131105/
+
+О бедном Александреску замолвлю я слово | https://habrahabr.ru/post/130465/
+
+Разбираемся в WinAPI | https://habrahabr.ru/post/130093/
+
+C/C++. Главное — начать! | https://habrahabr.ru/post/129744/
+
+На какие из вопросов вы можете с уверенностью ответить? | https://habrahabr.ru/post/129544/
+
+Подробности о разработке для GPU в Visual Studio и платформе C++ AMP | https://habrahabr.ru/post/129428/
+
+О TMP, энтузиазме и его злоупотреблении | https://habrahabr.ru/post/129281/
+
+Ставим объекты на поток, паттерн фабрика объектов | https://habrahabr.ru/post/129202/
+
+Разработка кросс-платформенного редактора с подсветкой синтаксиса на основе wxStyledTextCtrl | https://habrahabr.ru/post/129019/
+
+Особенность работы со смарт-поинтерами в Qt | https://habrahabr.ru/post/128740/
+
+С++: как не сделать кино не для всех | https://habrahabr.ru/post/128469/
+
+Запускаем Skype без надоедливой Главной страницы | https://habrahabr.ru/post/127558/
+
+Перезаписывать память – зачем? | https://habrahabr.ru/company/abbyy/blog/127259/
+
+Создаём приложение на С++ с использованием Tesseract-ocr, MinGW и напильника | https://habrahabr.ru/post/126834/
+
+С++: шаблон «поводок» | https://habrahabr.ru/post/126501/
+
+Про абстракции и метод рефакторинга «Extract method» | https://habrahabr.ru/post/126227/
+
+C++0x. Не вошедшее | https://habrahabr.ru/post/126028/
+
+Поля класса доступные по имени с setter и getter в C++ | https://habrahabr.ru/post/125880/
+
+Ожидание результата в multithread приложении — кто что использует? | https://habrahabr.ru/post/125676/
+
+Использование dll в Meta Traider 4 | https://habrahabr.ru/post/125551/
+
+Достала избыточность С++ | https://habrahabr.ru/post/125564/
+
+Вычисления с плавающей точкой на этапе компиляции | https://habrahabr.ru/post/124963/
+
+Распределение количества ходов в карточной игре 'Пьяница' | https://habrahabr.ru/post/124881/
+
+Вычисление простых чисел на шаблонах C++ | https://habrahabr.ru/post/124476/
+
+Побеждаем Kinect в Linux | https://habrahabr.ru/post/124009/
+
+Переполнение при умножении | https://habrahabr.ru/post/123953/
+
+Почему пара и кортеж — это чаще всего плохо | https://habrahabr.ru/post/123790/
+
+Создание простой обертки над WinAPI для оконных приложений | https://habrahabr.ru/post/123648/
+
+Работа с Microsoft Kinect в приложениях на C++ | https://habrahabr.ru/post/123588/
+
+libral – слой абстракции доступа к библиотекам сжатия | https://habrahabr.ru/post/123080/
+
+Простейший делегат на C++ | https://habrahabr.ru/post/78299/
+
+Обфускация строк C++ в Visual Studio | https://habrahabr.ru/post/122807/
+
+Обходим чужие тормоза | https://habrahabr.ru/post/122735/
+
+Вам нравится писать на C++? | https://habrahabr.ru/post/122498/
+
+Массивы против контейнеров в задачах матмоделирования | https://habrahabr.ru/post/122036/
+
+Новая технология C++ AMP от Microsoft для вычислений на GPU | https://habrahabr.ru/post/121941/
+
+Property в C++ | https://habrahabr.ru/post/121799/
+
+Пишем веб сервис используя gSOAP | https://habrahabr.ru/post/121853/
+
+Подсчёт числа установленных битов в файле | https://habrahabr.ru/post/121847/
+
+Little-Endian против Big-Endian | https://habrahabr.ru/post/121811/
+
+C/C++. Способ разбора командной строки | https://habrahabr.ru/post/120396/
+
+Заметки о синхронизации. Deadlock | https://habrahabr.ru/post/119438/
+
+Обращение зависимостей и порождающие шаблоны проектирования | https://habrahabr.ru/post/118550/
+
+Google testing framework (gtest) | https://habrahabr.ru/post/119090/
+
+Кто быстрее: memset, bzero или std::fill | https://habrahabr.ru/post/118716/
+
+Магия шаблонов или вычисление факториала на стадии компиляции | https://habrahabr.ru/post/118429/
+
+Синглтон и время жизни объекта | https://habrahabr.ru/post/118368/
+
+Библиотека логирования log4cplus | https://habrahabr.ru/post/118165/
+
+Перевод статьи «Pimp My Pimpl», часть 1 | https://habrahabr.ru/post/118010/
+
+Знакомство с библиотекой логирования Apache log4cxx | https://habrahabr.ru/post/118003/
+
+Популярные вопросы на собеседовании по C++ и ответы на них | https://habrahabr.ru/post/117996/
+
+Знакомство с библиотекой логирования Pantheios | https://habrahabr.ru/post/117973/
+
+Критическая ошибка gcc | https://habrahabr.ru/post/117930/
+
+Отлаживаем ошибки доступа к памяти с помощью Application Verifier | https://habrahabr.ru/post/117810/
+
+Уж такой элементарный C/С++: может->является | https://habrahabr.ru/post/117596/
+
+В проектах на С++ уже используете фичи С++0х? | https://habrahabr.ru/post/117285/
+
+Очнитесь, на дворе XXI век | https://habrahabr.ru/post/117193/
+
+delete, new[] в C++ и городские легенды об их сочетании | https://habrahabr.ru/company/abbyy/blog/117208/
+
+Если Вы программируете на С\С++, в основе Вашего стиля кодирования лежит | https://habrahabr.ru/post/116819/
+
+Использование паттерна синглтон | https://habrahabr.ru/post/116577/
+
+Решение задачи о разрешимости хода конём на Си | https://habrahabr.ru/post/116588/
+
+Автоматизация OpenOffice: Окончание | https://habrahabr.ru/post/116228/
+
+Автоматизация OpenOffice: Начало | https://habrahabr.ru/post/116151/
+
+Откуда берутся NaNы? | https://habrahabr.ru/post/116300/
+
+Как правильно читать объявления в Си | https://habrahabr.ru/post/116255/
+
+Альтернативные аллокаторы памяти | https://habrahabr.ru/post/274827/
+
+Совет 23. Рассмотрите возможность замены ассоциативных контейнеров сортированными векторами | https://habrahabr.ru/post/114518/
+
+10 лет практики. Часть 2: ресурсы | https://habrahabr.ru/post/111259/
+
+Запретный плод GOTO сладок! | https://habrahabr.ru/post/114211/
+
+Про C++ алиасинг, ловкие оптимизации и подлые баги | https://habrahabr.ru/post/114117/
+
+Учимся правильно бенчмаркать 2: как компилятор бьет в спину | https://habrahabr.ru/post/113879/
+
+Учимся правильно бенчмаркать (в том числе итераторы) | https://habrahabr.ru/post/113682/
+
+Паттерн Visitor для обработки иерархии исключений | https://habrahabr.ru/post/113606/
+
+Утечки памяти в С++: Visual Leak Detector | https://habrahabr.ru/post/113567/
+
+Доработка контейнера vector для работы с большими объемами данных | https://habrahabr.ru/post/113324/
+
+Пути к файлам | https://habrahabr.ru/post/112997/
+
+Что нужно знать про арифметику с плавающей запятой | https://habrahabr.ru/post/112953/
+
+«Облегчённая» реализация контейнера vector | https://habrahabr.ru/post/112826/
+
+Шаблонная магия, метафункция IsValidExpression | https://habrahabr.ru/post/112239/
+
+Ветвления. Что с ними можно сделать | https://habrahabr.ru/post/112123/
+
+Утечки памяти в программах на С/С++ — история нескольких багов | https://habrahabr.ru/post/111834/
+
+Обертка для вызова функций по их адресу | https://habrahabr.ru/post/111680/
+
+Многопоточный Observer на С++ (практика) | https://habrahabr.ru/post/108857/
+
+Язык Mt: C для высоконагруженных серверов | https://habrahabr.ru/post/111514/
+
+О месте C++ | https://habrahabr.ru/post/111258/
+
+О ненависти к С++ | https://habrahabr.ru/post/111199/
+
+Многопоточные классы | https://habrahabr.ru/post/111173/
+
+Шаблонная магия, паттерн CallWithType | https://habrahabr.ru/post/108196/
+
+10 лет практики. Часть 1: построение программы | https://habrahabr.ru/post/111120/
+
+Как безопасно разрушить объект. И другие мысли | https://habrahabr.ru/post/110850/
+
+QHessian: Qt & Hessian | https://habrahabr.ru/post/109393/
+
+Опыт статического анализа Qt-программы с использованием PVS-Studio | https://habrahabr.ru/post/110515/
+
+C++0x: Конвертируем лямбда-выражение в указатель на функцию | https://habrahabr.ru/post/109226/
+
+Кодировки | https://habrahabr.ru/post/107679/
+
+Задача-шутка | https://habrahabr.ru/post/107370/
+
+Проблемы 64-битного кода в реальных программах: а что же Linux? | https://habrahabr.ru/post/105984/
+
+Бьярн Страуструп на конференции в Москве | https://habrahabr.ru/post/105769/
+
+Музыка из кейгенов. Как это работает? | https://habrahabr.ru/post/105475/
+
+Не забываем о языковых и культурных особенностях | https://habrahabr.ru/post/104417/
+
+Динамические библиотеки в Qt | https://habrahabr.ru/post/101994/
+
+Затачиваем старый код под новые реалии | https://habrahabr.ru/post/101653/
+
+Variadic templates в C++0x | https://habrahabr.ru/post/101430/
+
+Использование boost::variant для описания состояний модели | https://habrahabr.ru/post/101114/
+
+Обратные вызовы и исключения С++ | https://habrahabr.ru/post/100623/
+
+Правило чтения по спирали | https://habrahabr.ru/post/100104/
+
+Проблема глобального переопределения new/delete в C++/CLI | https://habrahabr.ru/post/99142/
+
+Обход дерева без рекурсии и без стека | https://habrahabr.ru/post/97841/
+
+О неявных объявлениях, обратной совместимости и ABI | https://habrahabr.ru/post/95930/
+
+Выход новой версии Code::Blocks IDE 10.5 | https://habrahabr.ru/post/95128/
+
+speedtest.net via C++ | https://habrahabr.ru/post/93916/
+
+Поиск и редактирование значений в памяти сторонней программы на C++ | https://habrahabr.ru/post/93437/
+
+PocoCapsule: делаем «Hello world» проще | https://habrahabr.ru/post/93081/
+
+Несколько слов о размере структур в С/С++ и о том, почему так получилось | https://habrahabr.ru/post/90580/
+
+Синтаксис объявления указателей на функции в С++ | https://habrahabr.ru/post/90604/
+
+Перехват вызовов API-функций | https://habrahabr.ru/post/90377/
+
+Описание структуры меню без использования ресурсов | https://habrahabr.ru/post/88844/
+
+Использование traits для обустройства Win32 API | https://habrahabr.ru/post/89922/
+
+Планирование задач в сервере при помощи boost.task | https://habrahabr.ru/post/88288/
+
+RE2 — новая библиотека регулярных выражений | https://habrahabr.ru/post/87319/
+
+Практическое использование Boost.Spirit | https://habrahabr.ru/post/86899/
+
+DSL для boost::MPL, превращаем f(x) в f<x>::type | https://habrahabr.ru/post/86651/
+
+"\" в конце строки в C/C++ | https://habrahabr.ru/post/86452/
+
+Ленивые вычисления в с++0x, тест новых фич | https://habrahabr.ru/post/85718/
+
+Эффективность C++ на современных ПК | https://habrahabr.ru/post/85481/
+
+Основы создания игрового движка: таймер | https://habrahabr.ru/post/83040/
+
+Боремся с утечками памяти (C++ CRT) | https://habrahabr.ru/post/82514/
+
+Реализация ToString() на С++ | https://habrahabr.ru/post/81845/
+
+Вызов функции с «неизвестным» именем на C++. Часть 1 — cdecl | https://habrahabr.ru/post/78886/
+
+Тонкости перегрузки методов по константности *this | https://habrahabr.ru/post/76065/
+
+Статический анализ кода C++ | https://habrahabr.ru/post/75123/
+
+Многопоточность, общие данные и мьютексы | https://habrahabr.ru/post/72929/
+
+Поисковая система по C++ ресурсам | https://habrahabr.ru/post/74899/
+
+STL Filter — скрипт для лаконичных ошибок STL | https://habrahabr.ru/post/74663/
+
+DLL Injection | https://habrahabr.ru/post/73324/
+
+Использование Skype API в С++ | https://habrahabr.ru/post/72059/
+
+как вы относитесь к гипертрофированному СИ? | https://habrahabr.ru/post/71639/
+
+Создание своего Windows Service | https://habrahabr.ru/post/71533/
+
+Задачка (без злого умысла) | https://habrahabr.ru/post/71522/
+
+Использование OpenMP для распараллеливания вычислений | https://habrahabr.ru/post/71296/
+
+Функция без явного определения | https://habrahabr.ru/post/71234/
+
+Использование Direct2D и DirectWrite в .Net-среде | https://habrahabr.ru/post/70240/
+
+Мой защищённый контейнер | https://habrahabr.ru/post/69829/
+
+С++0x и решение проблем инициализации | https://habrahabr.ru/post/69313/
+
+Неочевидная особенность в синтаксисе определения переменных | https://habrahabr.ru/post/68796/
+
+Boost это просто. Часть 2. Boost.Date_time | https://habrahabr.ru/post/66318/
+
+Один символ ценой в уязвимость | https://habrahabr.ru/post/66145/
+
+C++0x (С++11). Лямбда-выражения | https://habrahabr.ru/post/66021/
+
+Лямбда выражения теперь и в С++ | https://habrahabr.ru/post/65798/
+
+Виртуальный конструктор | https://habrahabr.ru/post/64369/
+
+Виртуальные функции и деструктор | https://habrahabr.ru/post/64280/
+
+Boost это просто. Часть 1. Boost.Regex | https://habrahabr.ru/post/64226/
+
+3 in 1: Desktop, Mobile, Web. Кроссплатформенная разработка | https://habrahabr.ru/post/62330/
+
+Ну да, сайты на C++ | https://habrahabr.ru/post/61640/
+
+Разработка web-приложений на C++ | https://habrahabr.ru/post/61563/
+
+Apache, fastcgi и c++: «Hello, world» | https://habrahabr.ru/post/61532/
+
+Всё ли вы знаете про if? | https://habrahabr.ru/post/61323/
+
+Что скрывает class Empty {} | https://habrahabr.ru/post/61132/
+
+Многоликий const | https://habrahabr.ru/post/59558/
+
+Безопасные конструкторы | https://habrahabr.ru/post/59349/
+
+Порядок инициализации в конструкторах | https://habrahabr.ru/post/58818/
+
+Трюки со специализацией шаблонов C++ | https://habrahabr.ru/post/54762/
+
+Неожиданное коварство параметров по умолчанию или язык мой — враг мой | https://habrahabr.ru/post/53576/
+
+Как написать компонент к Firefox на C++ | https://habrahabr.ru/post/53312/
+
+Рисуем анимированные gif-ки с помощью libgd. | https://habrahabr.ru/post/52775/
+
+Об операторах | https://habrahabr.ru/post/52531/
+
+rethink their coding style… | https://habrahabr.ru/post/52082/
+
+Visual Studio 2008 Win32 Wizard MOD | https://habrahabr.ru/post/51632/
+
+C++ MythBusters. Миф о виртуальных функциях (дополнение) | https://habrahabr.ru/post/51398/
+
+C++ MythBusters. Миф о виртуальных функциях | https://habrahabr.ru/post/51229/
+
+Создаём парсер для ini-файлов на C++ | https://habrahabr.ru/post/50976/
+
+Реальны ли высокопроизводительные Web-приложения на C++? | https://habrahabr.ru/post/50922/
+
+C++ MythBusters. Миф о подставляемых функциях | https://habrahabr.ru/post/50775/
+
+Задачка "Hello World" | https://habrahabr.ru/post/41584/
+
+How Non-Member Functions Improve Encapsulation (C++) | https://habrahabr.ru/post/39202/
+
+Использование общего C++ кода на примере браузера Chrome | https://habrahabr.ru/post/39041/
+
+C++‭ ‬2009 | https://habrahabr.ru/post/25330/
+
+CИ++: Закон Большой Двойки | https://habrahabr.ru/post/31346/
+

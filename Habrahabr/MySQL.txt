@@ -1,0 +1,886 @@
+Что нового в DataGrip 2017.3 | https://habrahabr.ru/company/JetBrains/blog/344216/
+
+Список полезных идей для высоконагруженных сервисов | https://habrahabr.ru/post/344160/
+
+MySQL и партицирование | https://habrahabr.ru/post/343824/
+
+Сравнение качества кода Firebird, MySQL и PostgreSQL | https://habrahabr.ru/company/pvs-studio/blog/343410/
+
+Миграция базы данных с InnoDB на MyRocks | https://habrahabr.ru/company/badoo/blog/342336/
+
+Расстояние Левенштейна в MySQL и алгоритмы нечёткого поиска средствами PHP | https://habrahabr.ru/post/342434/
+
+Руководство к созданию собственного когортного отчёта по возвратности | https://habrahabr.ru/post/342108/
+
+Экспорт данных в любом формате: что умеют IDE на платформе IntelliJ | https://habrahabr.ru/company/JetBrains/blog/342094/
+
+Поиск решения для быстрого создания интерфейсов СУБД | https://habrahabr.ru/post/339870/
+
+Грамматика MySQL на ANTLR 4 | https://habrahabr.ru/company/pt/blog/339336/
+
+Как мы делали небольшую охранную систему на RPi. Часть 2 | https://habrahabr.ru/post/231963/
+
+Актуальные данные по телефонным кодам российских городов | https://habrahabr.ru/post/337184/
+
+Памятка евангелиста PostgreSQL: экспроприируем экспроприаторов | https://habrahabr.ru/post/334444/
+
+DataGrip 2017.2: Поддержка Redshift и Azure, несколько баз в PostgreSQL, контроль транзакций и другое | https://habrahabr.ru/company/JetBrains/blog/334800/
+
+Форма авторизации с отправкой зашифрованного пароля | https://habrahabr.ru/post/334388/
+
+Возможности PostgreSQL для тех, кто перешел с MySQL | https://habrahabr.ru/company/pgdayrussia/blog/331460/
+
+Java: автоматически формируем SQL-запросы | https://habrahabr.ru/post/330938/
+
+Как получить оффер в Badoo в день собеседования. Часть вторая, для PHP-разработчика | https://habrahabr.ru/company/badoo/blog/330558/
+
+«Если вы хотите, чтобы ваши баги исправили, пишите наиболее аккуратные тест-кейсы» — Света Смирнова о поиске багов MySQL | https://habrahabr.ru/company/pgdayrussia/blog/330520/
+
+MySQL 8, Postgres NoSQL, Tarantool Винил, CockroachDB, ClickHouse, и все-же, почему Uber ушел от Postgresql? | https://habrahabr.ru/company/devconf/blog/330386/
+
+20 бесплатных утилит и 89 скриптов для мониторинга и управления базами данных | https://habrahabr.ru/post/330106/
+
+Лекции Технопарка. Базы данных (весна 2017) | https://habrahabr.ru/company/mailru/blog/329928/
+
+Чек-лист по выживанию сайта | https://habrahabr.ru/post/329478/
+
+Делаем GraphQL API на PHP и MySQL. Часть 3: Решение проблемы N+1 запросов | https://habrahabr.ru/post/329408/
+
+Делаем GraphQL API на PHP и MySQL. Часть 2: Мутации, переменные, валидация и безопасность | https://habrahabr.ru/post/329238/
+
+Корпоративный телефонный справочник с картой | https://habrahabr.ru/post/328560/
+
+Практическая оптимизация MySQL: измерять, чтобы ускорять | https://habrahabr.ru/company/oleg-bunin/blog/328458/
+
+Делаем GraphQL API на PHP и MySQL. Часть 1: Установка, схема и запросы | https://habrahabr.ru/post/328122/
+
+Нахождение похожих имен средствами MySQL+PHP | https://habrahabr.ru/post/327722/
+
+Сравнение производительности железного сервера и облака Amazon | https://habrahabr.ru/company/first/blog/327046/
+
+Как искать в DataGrip | https://habrahabr.ru/company/JetBrains/blog/327006/
+
+Чередование выборки в MySQL | https://habrahabr.ru/post/325316/
+
+Инфраструктура Twitter: масштаб | https://habrahabr.ru/post/325282/
+
+Выборка случайной записи из таблицы с 700*10^6 строк | https://habrahabr.ru/post/324772/
+
+Релиз DataGrip 2017.1 | https://habrahabr.ru/company/JetBrains/blog/325066/
+
+Делаем быстрый поиск по турам на основе ClickHouse | https://habrahabr.ru/post/324846/
+
+О том, как мы начинали разрабатывать собственную систему управления проектами и что из этого получилось | https://habrahabr.ru/post/324612/
+
+А ты хто такой? Эволюция протоколов аутентификации MySQL и MariaDB в лицах | https://habrahabr.ru/post/323670/
+
+Репликация из MySQL в Tarantool | https://habrahabr.ru/company/mailru/blog/323870/
+
+Uber — причины перехода с Postgres на MySQL | https://habrahabr.ru/company/southbridge/blog/322624/
+
+MySQL и MongoDB — когда и что лучше использовать | https://habrahabr.ru/post/322532/
+
+Как спасти проект от закрытия, разобравшись с MySQL | https://habrahabr.ru/post/322144/
+
+Как писать кривые запросы с неоптимальным планом и заставить задуматься СУБД | https://habrahabr.ru/post/320916/
+
+Авторизация в Laravel, через социальные сети (Ulogin). Просто, гибко и эффективно | https://habrahabr.ru/post/320046/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 2 | https://habrahabr.ru/post/319558/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 1 | https://habrahabr.ru/post/319352/
+
+Redmine на MySQL с RocksDB быстрее, чем с InnoDB, от 20% до 3 раз | https://habrahabr.ru/post/319500/
+
+CDR. Сохранить и приумножить | https://habrahabr.ru/post/318770/
+
+Календарные функции в MySQL и MariaDB | https://habrahabr.ru/post/318022/
+
+Эволюция отказоустойчивости в PostgreSQL | https://habrahabr.ru/post/317132/
+
+Релиз DataGrip 2016.3 | https://habrahabr.ru/company/JetBrains/blog/316152/
+
+Текстовая трансляция HighLoad++ 2016. День первый | https://habrahabr.ru/company/oleg-bunin/blog/314396/
+
+Асинхронная репликация без цензуры | https://habrahabr.ru/company/oleg-bunin/blog/313594/
+
+Sharding – patterns and antipatterns | https://habrahabr.ru/company/oleg-bunin/blog/313366/
+
+MariaDB на Google Summer of Code: Итоги GSoC16 | https://habrahabr.ru/post/312838/
+
+Excel, SQL и легендарный барометр — решаем простую задачу разными способами | https://habrahabr.ru/post/312834/
+
+Сравнение аналитических in-memory баз данных | https://habrahabr.ru/company/tinkoff/blog/310620/
+
+Реализация бизнес-логики в MySQL | https://habrahabr.ru/post/312134/
+
+Несколько заметок о MySQL | https://habrahabr.ru/post/310954/
+
+Реализация Row Level Security на MySQL | https://habrahabr.ru/post/310832/
+
+Масштабирование базы данных через шардирование и партиционирование | https://habrahabr.ru/company/oleg-bunin/blog/309330/
+
+Основы индексирования и возможности EXPLAIN в MySQL | https://habrahabr.ru/company/oleg-bunin/blog/309328/
+
+Как устроена MySQL-репликация | https://habrahabr.ru/company/oleg-bunin/blog/309326/
+
+Интеграция PostgreSQL с другими СУБД: делаем запросы в MySQL | https://habrahabr.ru/company/postgrespro/blog/308690/
+
+Информатика за индексами в Постгресе | https://habrahabr.ru/post/308752/
+
+Индивидуальный дневной лимит на исходящие звонки (ограничение платных направлений) | https://habrahabr.ru/post/308086/
+
+Поиск недействительных паспортов или учимся готовить бинарные файлы | https://habrahabr.ru/post/307568/
+
+Видео докладов с DevConf 2016 | https://habrahabr.ru/company/badoo/blog/306530/
+
+Релиз DataGrip 2016.2: Импорт CSV, поддержка JSON и XML в строках, динамический SQL, улучшения для PostgreSQL | https://habrahabr.ru/company/JetBrains/blog/306152/
+
+Как думать на SQL? | https://habrahabr.ru/post/305926/
+
+ORM на php для MySQL, реальность (часть первая) | https://habrahabr.ru/post/305786/
+
+Технозавтрак «Эффективная работа с Percona Server for MySQL на высоконагруженных веб-кластерных проектах» | https://habrahabr.ru/company/bitrix/blog/305424/
+
+Создание плагина OSSIM для сбора логов из базы данных | https://habrahabr.ru/post/304374/
+
+Как подружить юнит-тестирование с базой данных | https://habrahabr.ru/company/arcadia/blog/304322/
+
+Путешествие запроса Select через внутренности Постгреса | https://habrahabr.ru/post/304258/
+
+ProxySQL — еще один mysql-proxy | https://habrahabr.ru/post/303612/
+
+Как sql-запросом извлечь из базы данных информацию, которой там нет | https://habrahabr.ru/post/303364/
+
+Способы генерации числовой последовательности (данных) в MySQL | https://habrahabr.ru/post/302926/
+
+Небольшая особенность CHAR и VARCHAR | https://habrahabr.ru/post/302804/
+
+Базовые различия при работе с базами данными MySQL и PostgreSQL Дилетантский обзор | https://habrahabr.ru/post/302768/
+
+Установка связки Carbon + Graphite + Grafana + Nginx + MySQL для сбора и отображения метрик в Ubuntu | https://habrahabr.ru/post/302720/
+
+Различие работы в использовании индексов в условии 'OR' баз данных Mysql и PostgeSQL | https://habrahabr.ru/post/302706/
+
+PostgreSQL — не Rocket Science. Почем сейчас яйца? | https://habrahabr.ru/post/301808/
+
+Чем PostgreSQL лучше других SQL баз данных с открытым исходным кодом. Часть 2 | https://habrahabr.ru/post/302160/
+
+Статистика распределения доменов по AS, IP, NS, MX и прочим параметрам | https://habrahabr.ru/post/301894/
+
+DevConf::Storage — отдай голос за свою любимую базу данных до 31 мая | https://habrahabr.ru/company/devconf/blog/301964/
+
+MySQL – это лучшая NoSQL-система | https://habrahabr.ru/company/wix/blog/283158/
+
+Заметки о Percona Live 2016 CA | https://habrahabr.ru/company/badoo/blog/300906/
+
+Работа с MySQL: как масштабировать хранилище данных в 20 раз за три недели | https://habrahabr.ru/company/latera/blog/282798/
+
+Чем PostgreSQL лучше других SQL баз данных с открытым исходным кодом. Часть 1 | https://habrahabr.ru/post/282764/
+
+Очередная Reflection Library и ORM для C++ | https://habrahabr.ru/post/282660/
+
+Отчёт с Percona Live 2016: чего ждать от MySQL 8? | https://habrahabr.ru/post/282337/
+
+Греем уши (часть 1) | https://habrahabr.ru/post/282187/
+
+Управление структурой базы данных без боли | https://habrahabr.ru/post/282123/
+
+Масштабируя до 100 миллионов: архитектура, определяемая уровнем сервиса | https://habrahabr.ru/company/wix/blog/282045/
+
+Масштабирование до 100 миллионов пользователей. Кэшировать или не кэшировать? | https://habrahabr.ru/company/wix/blog/280033/
+
+Визуализация инструментов обработки данных с Github | https://habrahabr.ru/post/280412/
+
+Обновление Percona Server до 5.7 на Ubuntu 14.04 | https://habrahabr.ru/post/279905/
+
+Декодирование типа данных JSON MySQL | https://habrahabr.ru/post/279155/
+
+alter table без лока таблицы | https://habrahabr.ru/post/278393/
+
+Доступ к данным MySQL из приложения UWP без использования сервисов | https://habrahabr.ru/post/277655/
+
+Протокол Handlersocket в деталях | https://habrahabr.ru/post/278037/
+
+Чиним MySQL-дамп (меньше чем за 30 строк) | https://habrahabr.ru/post/277101/
+
+Multi-source репликация в MySQL5.7 | https://habrahabr.ru/post/276581/
+
+OpenShift: немного внутренностей Gear'ов | https://habrahabr.ru/post/275605/
+
+Подводные камни использования Excel Power Query и MySQL для автоматизации отчетности | https://habrahabr.ru/post/274615/
+
+Сервис от компании Percona для создания оптимальной конфигурации MySQL серверов и анализа SQL-запросов | https://habrahabr.ru/post/204522/
+
+Релиз DataGrip (экс-0xDBE) 1.0 — новой IDE для SQL | https://habrahabr.ru/company/JetBrains/blog/273469/
+
+NGINX как балансировщик нагрузки для MySQL или MariaDB Galera Cluster | https://habrahabr.ru/post/271467/
+
+Самый главный аргумент против MySQL? | https://habrahabr.ru/post/270179/
+
+Asterisk: Обеспечим VIP-клиентам первое место в очереди звонков, а так же свяжем клиента с конкретным оператором на заданное время | https://habrahabr.ru/post/270125/
+
+Памятка евангелиста PostgreSQL: репликанты против репликации | https://habrahabr.ru/post/269889/
+
+Эра NoSQL позади | https://habrahabr.ru/company/oleg-bunin/blog/269657/
+
+Партицирование и боль MySQL | https://habrahabr.ru/post/269647/
+
+Создание базы данных MySQL в рамках Microsoft Azure для студентов | https://habrahabr.ru/post/269275/
+
+Правильная миграция с MyISAM на InnoDB | https://habrahabr.ru/post/269121/
+
+Серверная кластеризация маркеров на карте. От теории к практике | https://habrahabr.ru/post/268621/
+
+Alibaba vs. Facebook – там, где Запад сходится с Востоком | https://habrahabr.ru/company/oleg-bunin/blog/268751/
+
+Adminer — веб-интерфейс для баз данных размером в один .php файл | https://habrahabr.ru/post/268735/
+
+Патчим mysqldump в домашних условиях | https://habrahabr.ru/post/268569/
+
+Compalex: сравнение схем двух баз данных | https://habrahabr.ru/post/268273/
+
+Cartesius — метод хранения и извлечения древовидных структур в реляционных базах данных или SQL деревья без червей и тараканов | https://habrahabr.ru/post/264989/
+
+CometQL — api работы с комет сервером по протоколу MySQL | https://habrahabr.ru/company/comet-server/blog/264425/
+
+Хранение иерархических структур. Симбиоз «Closure Table» и «Adjacency List» | https://habrahabr.ru/post/263629/
+
+Защита PHP скрипта путям привязки к доменному имени | https://habrahabr.ru/post/263075/
+
+Настройка репликации в Mysql 5.6 | https://habrahabr.ru/post/262925/
+
+Оптимизируем листинг диалплана Asterisk при помощи MySQL | https://habrahabr.ru/post/262439/
+
+Databene Benerator — бенерируй это | https://habrahabr.ru/post/262387/
+
+Spring без XML. Часть 2 | https://habrahabr.ru/post/262361/
+
+Spring без XML. Часть 1 | https://habrahabr.ru/post/262323/
+
+Настройка MySQL + octopus | https://habrahabr.ru/post/261251/
+
+Реализация Blacklist в Asterisk с помощью БД на MySQL | https://habrahabr.ru/post/261235/
+
+Percona XtraDB Cluster пробрасываем ip клиента | https://habrahabr.ru/post/261103/
+
+Ускоряем MySQL insert/update в 5-10 раз | https://habrahabr.ru/post/260297/
+
+Быстрая установка SQL кластера Galera MariaDB c HaProxy и ClusterControl от Severalnines | https://habrahabr.ru/post/260125/
+
+Что нужно знать при миграции с MySQL на PostgreSQL? | https://habrahabr.ru/post/259531/
+
+Уникальный TechTalk c Майклом Монти Видениусом | https://habrahabr.ru/company/acronis/blog/258601/
+
+Neo4j VS MySQL | https://habrahabr.ru/post/258179/
+
+Играем мускулами. Методы и средства взлома баз данных MySQL | https://habrahabr.ru/company/xakep/blog/256665/
+
+Spring + Hibernate для новичков | https://habrahabr.ru/post/255829/
+
+FAMP на pfsense с помощью PHP-FPM | https://habrahabr.ru/post/254965/
+
+Нормализация отношений. Шесть нормальных форм | https://habrahabr.ru/post/254773/
+
+IP-Geo. Оптимизация SQL запроса | https://habrahabr.ru/post/254461/
+
+Лекции Технопарка. 2 семестр. Базы данных | https://habrahabr.ru/company/mailru/blog/254073/
+
+«Идеальный» кластер. Часть 3.1 Внедрение MySQL Multi-Master кластера | https://habrahabr.ru/post/253869/
+
+Прощай, MongoDB, здравствуй, PostgreSQL | https://habrahabr.ru/post/253075/
+
+Пул соединений MySQL и как это можно использовать для распараллеливания | https://habrahabr.ru/post/252295/
+
+Запуск двух и более инстансов MySQL на одном Linux-сервере | https://habrahabr.ru/post/250929/
+
+[Москва, 19.02.2015] Дмитрий Ленев — Менеджеры блокировок в MySQL | https://habrahabr.ru/company/jugru/blog/250497/
+
+Миграция с SQL Server на MariaDB / MySQL. Что делать с XML | https://habrahabr.ru/post/249259/
+
+PostgreSQL vs MySQL | https://habrahabr.ru/company/mailru/blog/248845/
+
+Spring MVC 3, Аннотации Hibernate, MySQL. Туториал по интеграции | https://habrahabr.ru/post/248541/
+
+Несколько интересных особенностей MySQL | https://habrahabr.ru/post/246339/
+
+Тестирование производительности форков Mysql на реальных данных | https://habrahabr.ru/post/242337/
+
+Обновление tzdata для России (системное и java в Ubuntu/Debian, а также в MySQL) | https://habrahabr.ru/post/240937/
+
+Как автоматически создать резервную копию базы данных MySQL и Web-сервера в хранилище FTP | https://habrahabr.ru/post/239699/
+
+Не стоит бояться использовать HandlerSocket | https://habrahabr.ru/post/239637/
+
+Блокировки и уровни изоляции транзакций InnoDB в MySQL | https://habrahabr.ru/post/238513/
+
+Как оказалось, знают все, а понимают не все. Транзакции в mysql и SELECT FOR UPDATE | https://habrahabr.ru/post/238119/
+
+Деплой php+MySQL на heroku | https://habrahabr.ru/post/236211/
+
+Error based MySQL injection или не надо ругаться | https://habrahabr.ru/post/235287/
+
+Тестируем новый тип бэкапа MySQL | https://habrahabr.ru/post/234791/
+
+mysqlnd — проводник между PHP и MySQL | https://habrahabr.ru/company/mailru/blog/234125/
+
+Поучительная история о том, что может случиться с сайтом на shared-хостинге | https://habrahabr.ru/post/234071/
+
+Понимание и работа с данными в WordPress. Часть 1. Введение | https://habrahabr.ru/post/233479/
+
+Генерация ID для шардинга в MySQL | https://habrahabr.ru/post/232845/
+
+Beaver mysql logger или как найти ошибку в MySql приложении | https://habrahabr.ru/post/230655/
+
+Использование Percona XtraBackup в повседневной жизни | https://habrahabr.ru/company/southbridge/blog/229731/
+
+Изобретая велосипед или поиск отсутствующего значения ID в MySQL таблице | https://habrahabr.ru/post/228099/
+
+Бекап баз данных – есть ли он? | https://habrahabr.ru/company/southbridge/blog/227533/
+
+DbNinja, MySQL и комфорт, Gtk, Qt и все-все-все | https://habrahabr.ru/post/227097/
+
+DevConf 2014: Мастер-класс — как делать резервное копирование MySQL в экстремальных условиях | https://habrahabr.ru/company/devconf/blog/225803/
+
+DevConf 2014 — пройдет в эту субботу. Новая секция Storage — раскроет все секреты хранения данных | https://habrahabr.ru/company/devconf/blog/225633/
+
+Выводим MySQL из окружения | https://habrahabr.ru/post/224821/
+
+Синхронизация структуры MySQL + Git | https://habrahabr.ru/post/221979/
+
+Доставка обновлений из БД MySQL в приложение при помощи клиента репликации libslave | https://habrahabr.ru/company/mailru/blog/219015/
+
+Проектирование баз данных. Дизайн и метод | https://habrahabr.ru/company/piter/blog/219267/
+
+Оптимизируем LIMIT offset | https://habrahabr.ru/post/217521/
+
+Группировка с условием | https://habrahabr.ru/company/mailru/blog/159767/
+
+Непойманный баг MySQL: невозможность добавления первой записи в составной VIEW | https://habrahabr.ru/post/214179/
+
+Holland — бекапы MySQL/PostgreSQL без головной боли | https://habrahabr.ru/post/213929/
+
+Синхронизация веб страницы с Google Docs | https://habrahabr.ru/post/213213/
+
+Движок на MySQL за 5 минут | https://habrahabr.ru/post/210068/
+
+Прикручиваем ActiveRecord к сайту | https://habrahabr.ru/post/211913/
+
+Использование EXPLAIN. Улучшение запросов | https://habrahabr.ru/post/211022/
+
+Подходы к оптимизации (веб-)приложений | https://habrahabr.ru/post/208138/
+
+Самые часто употребляемые слова на Хабре | https://habrahabr.ru/post/203650/
+
+Копирование данных баз Web и Firewall прокси-сервера MS TMG в базу MySQL | https://habrahabr.ru/post/202792/
+
+Поиск различных вариантов транслитерации русских текстов (ФИО) латиницей для выборок в MySQL | https://habrahabr.ru/post/202528/
+
+Mooha — нодовый интерфейс для PHP | https://habrahabr.ru/post/201646/
+
+Импортируем OpenStreetMap в MySQL | https://habrahabr.ru/post/200902/
+
+Сертификаты MySQL DBA и MySQL Developer по 50 долларов | https://habrahabr.ru/post/199538/
+
+Удобства на улице для MySQL драйвера в Node.js | https://habrahabr.ru/post/198738/
+
+HAPRoxy для Percona или Galera на CentOS. Его настройка и мониторинг в Zabbix | https://habrahabr.ru/company/acronis/blog/198448/
+
+WAMP: перед установкой нового выпуска | https://habrahabr.ru/post/198514/
+
+Zabbix: Резервное копирование небольшой базы | https://habrahabr.ru/post/198276/
+
+Tips & tricks for MySQL Developers. Работа с SQL | https://habrahabr.ru/post/196692/
+
+Задай вопрос гуру IT-индустрии | https://habrahabr.ru/company/jelastic/blog/196260/
+
+Mysql Отложенная репликация или Коммивояжеры с Mysql-slave | https://habrahabr.ru/post/194918/
+
+Руководство по проектированию реляционных баз данных. Каскадное удаление данных | https://habrahabr.ru/post/194738/
+
+Руководство по проектированию реляционных баз данных (14-15 часть из 15) [перевод] | https://habrahabr.ru/post/194714/
+
+Руководство по проектированию реляционных баз данных (10-13 часть из 15) [перевод] | https://habrahabr.ru/post/193756/
+
+Руководство по проектированию реляционных баз данных (7-9 часть из 15) [перевод] | https://habrahabr.ru/post/193380/
+
+Руководство по проектированию реляционных баз данных (4-6 часть из 15) [перевод] | https://habrahabr.ru/post/193284/
+
+Руководство по проектированию реляционных баз данных (1-3 часть из 15) [перевод] | https://habrahabr.ru/post/193136/
+
+PhpMyAdmin исполнилось 15 лет | https://habrahabr.ru/post/193054/
+
+Делаем админпанель для MySQL и MongoDB на Node.js | https://habrahabr.ru/post/192302/
+
+Встреча Moscow MySQL User Group — 2го августа в офисе Яндекс | https://habrahabr.ru/post/187846/
+
+MySQL клиент формата A4 | https://habrahabr.ru/post/186650/
+
+Unity3D и MySQL | https://habrahabr.ru/post/185594/
+
+Отказоустойчивая система на базе репликации mySQL и сетевого протокола CARP | https://habrahabr.ru/post/185318/
+
+Баг в MySQL получил на день рождения тортик | https://habrahabr.ru/post/185044/
+
+Размышления основателя MySQL о развитии проекта под крылом Oracle и о экономике открытых продуктов | https://habrahabr.ru/post/184318/
+
+Документация MySQL уведена от лицензии GPL (баг в системе сборки) | https://habrahabr.ru/post/183778/
+
+Оптимизация MySQL запросов с помощью Neor Profile SQL | https://habrahabr.ru/post/183602/
+
+Неожиданные результаты простого MySQL-запроса | https://habrahabr.ru/post/181195/
+
+Переход на MySQL 5.6, а стоит ли? | https://habrahabr.ru/post/179481/
+
+Определение расстояния между географическими точками в MySQL | https://habrahabr.ru/post/179157/
+
+Обзор средств синхронизации баз данных MySQL | https://habrahabr.ru/post/178875/
+
+Из Excel в MySQL. Небольшая функция на PHP (fixed) | https://habrahabr.ru/post/178089/
+
+Экстренное восстановление данных в таблице mysql с минимальной потерей времени | https://habrahabr.ru/post/177067/
+
+MySQL On air. Мониторим SQL запросы | https://habrahabr.ru/post/177057/
+
+Решение проблемы с кодировкой данных из MySQL в Symfony | https://habrahabr.ru/post/176463/
+
+Быстрый старт: Визуальное проектирование базы данных в MySQL Workbench | https://habrahabr.ru/post/175985/
+
+Проблемы MySQL оптимизатора | https://habrahabr.ru/post/173021/
+
+Универсальный рейтинг или нам важен каждый голос | https://habrahabr.ru/post/172065/
+
+Анонсирован стабильный релиз MySQL 5.6 | https://habrahabr.ru/post/168441/
+
+Отдельный сервер для БД MySQL — как сэкономить трафик и ускорить приложение | https://habrahabr.ru/company/southbridge/blog/167823/
+
+SXB: инкрементальный бэкап MySQL | https://habrahabr.ru/post/167469/
+
+Раскрываем магию MySQL или о строгости и мягкости MySQL | https://habrahabr.ru/post/166411/
+
+Может ли MemSQL помочь Zynga вернуть былой успех? | https://habrahabr.ru/post/166279/
+
+Какие запросы попали в QUERY CACHE | https://habrahabr.ru/post/165241/
+
+PHP класс для удобной и безопасной работы с MySQL | https://habrahabr.ru/post/165069/
+
+MySQL: разрушаем стереотипы | https://habrahabr.ru/post/164085/
+
+Когда MIN(DATE) != MIN(DATE)? | https://habrahabr.ru/post/163845/
+
+Продуктивная работа с MySQL в командной строке | https://habrahabr.ru/post/163545/
+
+Веб-контроль Raspberry Pi GPIO | https://habrahabr.ru/post/162651/
+
+Переход на Percona XtraDB Cluster. Часть II. Накладные расходы на репликацию | https://habrahabr.ru/post/160921/
+
+Особенности работы со временем в различных временных зонах | https://habrahabr.ru/post/162341/
+
+Подключение и работа с MySQL в VB.NET | https://habrahabr.ru/post/162329/
+
+Патч, позволяющий каждому коннекту иметь много user lock объектов | https://habrahabr.ru/post/161511/
+
+Немного про Deadlock | https://habrahabr.ru/post/160485/
+
+Настройка Nginx + LAMP сервера в домашних условиях Часть 2: Настройка backend: PHP + MySQL | https://habrahabr.ru/post/160189/
+
+Строим Nested Set дерево без рекурсии | https://habrahabr.ru/post/153861/
+
+Что из компьютерных технологий вы использовали до знакомства с MySQL? | https://habrahabr.ru/post/159235/
+
+Mysql PARTITION BY YEAR(date) / MONTH(date) / DAYOFWEEK(date) | https://habrahabr.ru/post/159131/
+
+Встраиваем Sypex Dumper в свою админку | https://habrahabr.ru/post/159023/
+
+Переход на Percona XtraDB Cluster. Часть I. Одна из возможных конфигураций | https://habrahabr.ru/post/158377/
+
+Поведение INSERT… ON DUPLICATE KEY UPDATE в крайней ситуации | https://habrahabr.ru/post/156489/
+
+Асинхронные запросы к MySQL | https://habrahabr.ru/post/155377/
+
+Percona XtraDB Cluster. Установка и тестирование | https://habrahabr.ru/post/152969/
+
+Один из крупнейших VCS провайдеров Beanstalk лежит на боку | https://habrahabr.ru/post/155163/
+
+MySQL. Выбор случайных строк в один запрос | https://habrahabr.ru/post/154905/
+
+mysqlnd | https://habrahabr.ru/post/154663/
+
+ejabberd: мигрируем с mnesia на mysql | https://habrahabr.ru/post/154535/
+
+Бесшовная миграция MySQL 5.0 -> Percona Server 5.5 с переразбивкой хранилища | https://habrahabr.ru/company/alawar/blog/154451/
+
+DBSlayer прокси на BASH за 5 минут или еще один способ отдать JSON из MySQL | https://habrahabr.ru/post/154191/
+
+Оптимизация сложных запросов MySQL | https://habrahabr.ru/post/154167/
+
+Слежение за изменениями данных в MySQL при помощи PHP | https://habrahabr.ru/post/153445/
+
+Массовая остановка запросов | https://habrahabr.ru/post/153343/
+
+Хранение зон named в MySQL | https://habrahabr.ru/post/152391/
+
+Необычное переполнение жесткого диска или как удалить миллионы файлов из одной папки | https://habrahabr.ru/post/152193/
+
+Утилита для визуализации медленных SQL запросов «Anemometer» | https://habrahabr.ru/post/151644/
+
+Как узнать, стоит ли оптимизировать MySQL запросы? | https://habrahabr.ru/post/151560/
+
+MySQL Query Killer — предохранитель от перегрузки СУБД | https://habrahabr.ru/post/151418/
+
+Разукрашиваем вывод mysql-client в консоли | https://habrahabr.ru/post/151406/
+
+Простейший цикл на MySQL | https://habrahabr.ru/post/150491/
+
+Импортирование данных класификатора ОКАТО в базу MySql | https://habrahabr.ru/post/150349/
+
+Блокировки в InnoDB (шпаргалка) | https://habrahabr.ru/post/150075/
+
+Группировка серийных постов, близких по времени | https://habrahabr.ru/post/150063/
+
+Скрипт мониторинга процессов MySQL на Perl | https://habrahabr.ru/post/145573/
+
+Oracle закручивает гайки | https://habrahabr.ru/post/149905/
+
+Отчёт о попытке получить заявленную эффективность от prepared statements | https://habrahabr.ru/post/149613/
+
+Несколько интересных приемов и особенностей работы с MySQL | https://habrahabr.ru/post/149571/
+
+Защита от SQL-инъекций в PHP и MySQL | https://habrahabr.ru/post/148701/
+
+Сдаем позиции? | https://habrahabr.ru/post/148895/
+
+Еще 12 «рецептов приготовления» MySQL в Битрикс24 | https://habrahabr.ru/company/bitrix/blog/148874/
+
+Миграция базы данных в Zend Framework: Akrabat_Db_Schema_Manager | https://habrahabr.ru/post/148843/
+
+Выводы по SQL injection | https://habrahabr.ru/post/148762/
+
+Конвертирование Zend конфига из ini в yaml. Подводные камни | https://habrahabr.ru/post/148574/
+
+Поприветствуйте вашего старого нового друга | https://habrahabr.ru/post/148258/
+
+Простой сервер задач с очередью в MySQL (без проблем с блокировками) | https://habrahabr.ru/post/147844/
+
+2 млн точек на карте? легко! | https://habrahabr.ru/post/147744/
+
+11 «рецептов приготовления» MySQL в Битрикс24 | https://habrahabr.ru/company/bitrix/blog/147098/
+
+Триггеры — спасители | https://habrahabr.ru/post/146717/
+
+MySQL в миллион раз быстрее MemSQL | https://habrahabr.ru/post/146592/
+
+Эволюция аналитической инфраструктуры | https://habrahabr.ru/company/lifestreet/blog/146224/
+
+Оптимизация связки Nginx, Apache, PHP, MySql | https://habrahabr.ru/post/146179/
+
+read_buffer_size может разрывать репликацию данных | https://habrahabr.ru/post/145904/
+
+Репликация из OLTP в OLAP базу данных | https://habrahabr.ru/company/lifestreet/blog/145734/
+
+Смешная уязвимость в MySQL под Linux 64-bit | https://habrahabr.ru/post/145641/
+
+Простая замена phpMyAdmin для гиков | https://habrahabr.ru/post/145578/
+
+Девушка с татуировкой ANSI | https://habrahabr.ru/post/145425/
+
+Практическая оптимизация и масштабируемость MySQL InnoDB на больших объёмах данных | https://habrahabr.ru/post/142530/
+
+Асинхронные запросы к MySQL на API (libmysqlclient) | https://habrahabr.ru/post/144918/
+
+Django и особенности использования транзакций в MySQL | https://habrahabr.ru/post/144161/
+
+Эмулятор PEAR DB средствами PDO с некоторым расширением функционала или простая надстройка над PDO | https://habrahabr.ru/post/142954/
+
+OPTIMIZE огромных таблиц в условиях ограниченных ресурсов или закат солнца вручную | https://habrahabr.ru/post/142607/
+
+10 лучших инструментов для разработки и администрирования MySQL | https://habrahabr.ru/post/142385/
+
+Mysql в Twitter | https://habrahabr.ru/post/141773/
+
+Кластерные и «обычные» индексы MySQL (InnoDB) | https://habrahabr.ru/post/141767/
+
+Сортировка писем по imap-папкам на почтовом сервере без использования sieve и иже с ними | https://habrahabr.ru/post/139728/
+
+Подводные камни при миграции с MSSQL на MySQL и BLToolkit | https://habrahabr.ru/post/139676/
+
+Реализация иерархии — объединение Adjacency List и Materialized Path через one-to-many | https://habrahabr.ru/post/138947/
+
+Плоский GeoIP или диапазон в одной колонке | https://habrahabr.ru/post/138536/
+
+Oracle объявил о существенном увеличении производительности MySQL Cluster | https://habrahabr.ru/post/138407/
+
+Оптимизация ORDER BY — о чем многие забывают | https://habrahabr.ru/post/138163/
+
+Резервное копирование данных в MySQL | https://habrahabr.ru/post/137380/
+
+Как перекодировать latin1 в кириллицу | https://habrahabr.ru/post/137061/
+
+Mysql performance | https://habrahabr.ru/post/135775/
+
+Использование бинарного поиска для оптимизации запроса на выборку данных | https://habrahabr.ru/post/134417/
+
+Репликация MySql -> Oracle средствами Tungsten Replicator | https://habrahabr.ru/post/134179/
+
+Оптимизация запросов MySQL с использованием пользовательских переменных | https://habrahabr.ru/post/133781/
+
+Деперсонализация базы MySQL. Интересная техника | https://habrahabr.ru/post/132869/
+
+Аутентификация через PAM в MySQL | https://habrahabr.ru/post/131410/
+
+MySQL репликация one-slave-multi-master | https://habrahabr.ru/post/131111/
+
+Все врут или почему в MySQL лучше не использовать партиции | https://habrahabr.ru/post/130999/
+
+Стратегия оптимизации веб-проекта с использованием MySQL | https://habrahabr.ru/post/130905/
+
+HeidiSQL — клиент к mysql/mssql серверам | https://habrahabr.ru/post/126950/
+
+MySQL песочница #2 | https://habrahabr.ru/post/126898/
+
+MySQL песочница | https://habrahabr.ru/post/126832/
+
+Читаем (и пишем) MyISAM напрямую | https://habrahabr.ru/post/126612/
+
+Аудит и внешняя аутентификация в MySQL | https://habrahabr.ru/post/126519/
+
+8123 байта хватит каждому | https://habrahabr.ru/post/126375/
+
+Введение в PERFORMANCE_SCHEMA | https://habrahabr.ru/post/126358/
+
+Как MySQL оптимизирует ORDER BY, LIMIT и DISTINCT | https://habrahabr.ru/post/125428/
+
+MySQL: оптимизация конструкции between | https://habrahabr.ru/post/125467/
+
+История восстановления базы MySQL из файлов (InnoDB) | https://habrahabr.ru/post/125358/
+
+Использование событий MySQL на практике | https://habrahabr.ru/post/123391/
+
+MySQL is NoSQL! | https://habrahabr.ru/post/123311/
+
+Стратегия восстановления поврежденной таблицы в MySQL | https://habrahabr.ru/post/122747/
+
+Исследуем производительность JOIN в MySQL | https://habrahabr.ru/post/122210/
+
+ALTER очень больших таблиц в MySQL | https://habrahabr.ru/post/121129/
+
+Для поиска теперь нужна авторизация | https://habrahabr.ru/post/119673/
+
+HandlerSocket на AddConf Санкт-Петербург 29-30 апреля | https://habrahabr.ru/post/117453/
+
+Строгий режим MySQL и почему он должен быть включен | https://habrahabr.ru/post/116922/
+
+Сайт MySQL.com скомпрометирован через внедрение SQL-кода | https://habrahabr.ru/post/116333/
+
+Простой импорт/экспорт в CSV для PHP & MySQL | https://habrahabr.ru/post/115433/
+
+Полнотекстовый поиск в InnoDB | https://habrahabr.ru/post/114572/
+
+Выбираем предыдущую и следующую запись зная id | https://habrahabr.ru/post/114372/
+
+Настройка и оптимизация MySQL сервера | https://habrahabr.ru/post/108418/
+
+Как вы обычно произносите фразу "MySQL"? Кроме сленгового "Мускуль". Почему? | https://habrahabr.ru/post/108530/
+
+Форки движка MySQL: MariaDB, Percona. who is who? | https://habrahabr.ru/post/108104/
+
+Микрозаметка: Итераторы/Генерация диапазонов дат, чисел и тд | https://habrahabr.ru/post/106815/
+
+Подсчет количества событий календаря в каждом месяце года | https://habrahabr.ru/post/106793/
+
+MySQL шпаргалки | https://habrahabr.ru/post/105954/
+
+Case trick; «empty set» handling | https://habrahabr.ru/post/105525/
+
+How To настроки репликации в MySQL с использованием шифрования SSL на Debian Lenny | https://habrahabr.ru/post/104412/
+
+MySQL в tmpfs | https://habrahabr.ru/post/104217/
+
+Модель документо-ориентированной БД в реляционной СУБД | https://habrahabr.ru/post/103759/
+
+mysql-proxy тестирование под мелкоскопом | https://habrahabr.ru/post/100054/
+
+Кто стоит за соединениями? | https://habrahabr.ru/post/99942/
+
+Масштабируемость реляционных БД | https://habrahabr.ru/post/99884/
+
+Как расширение индекса в InnoDB таблицах удивительным образом снижает производительность | https://habrahabr.ru/post/99310/
+
+Что интересного нам расскажет EXPLAIN EXTENDED? | https://habrahabr.ru/post/98904/
+
+MySQL prepared statement не переносит изменение таблицы | https://habrahabr.ru/post/98435/
+
+Монти не сдаётся | https://habrahabr.ru/post/98278/
+
+Визуализация разработки MySQL 2000 — 2010 | https://habrahabr.ru/post/94653/
+
+Очередная встреча Moscow MySQL User Group пройдет 17мая в 19:30 м.ВДНХ | https://habrahabr.ru/post/93311/
+
+MongoDB vs MySQL (vs Cassandra): А теперь чуть более правильный ответ | https://habrahabr.ru/post/87620/
+
+Как FriendFeed использует MySQL для хранения данных без схемы | https://habrahabr.ru/post/87147/
+
+Задача на сортировку | https://habrahabr.ru/post/85945/
+
+Исправление работы MySQL при поломке innoDB-таблиц | https://habrahabr.ru/post/84283/
+
+Автоматическая сортировка строк с вспомогательным порядковым столбцом — средствами MySQL | https://habrahabr.ru/post/81394/
+
+Россия может спасти MySQL | https://habrahabr.ru/post/81298/
+
+Раздача Personal лицензий на Database Designer for MySQL | https://habrahabr.ru/post/79706/
+
+Видео с OpenSQL Camp o MySQL и не только | https://habrahabr.ru/post/78880/
+
+Тестирование MySQL: ZFS vs UFS | https://habrahabr.ru/post/78895/
+
+A look at MySQL on ZFS | https://habrahabr.ru/post/78473/
+
+Компания Oracle официально приняла обязательства по отношению к MySQL | https://habrahabr.ru/post/78236/
+
+Большие таблицы и ENUM | https://habrahabr.ru/post/76356/
+
+Большие таблицы и уникальные ключи | https://habrahabr.ru/post/76149/
+
+SQL beautifier | https://habrahabr.ru/post/73572/
+
+Sypex Dumper, Долгожданное обновление до версии 2 | https://habrahabr.ru/post/73035/
+
+Задача отображения деревьев в MySql. Способ отображения на хранимых процедурах | https://habrahabr.ru/post/72700/
+
+Галопом по европам: изменения в MySQL 5.4 | https://habrahabr.ru/post/71594/
+
+Индексы в MySQL: многоколоночные индексы против комбинированных индексов | https://habrahabr.ru/post/70640/
+
+Три интересные задачи на знание SQL — Решения | https://habrahabr.ru/post/70479/
+
+MySQL Profiler: простой и удобный инструмент профилирования запросов | https://habrahabr.ru/post/70435/
+
+Три интересные задачи на знание SQL | https://habrahabr.ru/post/70278/
+
+Календарные типы данных в MySQL: особенности использования | https://habrahabr.ru/post/69983/
+
+Хранение даты в mysql с учетом часового пояса | https://habrahabr.ru/post/69614/
+
+Семинар «Производительность MySQL», 22 сентября, Киев | https://habrahabr.ru/post/69341/
+
+Full Hierarchy — иерархические структуры в базах данных | https://habrahabr.ru/post/67722/
+
+Что нужно настроить в mySQL сразу после установки? | https://habrahabr.ru/post/66684/
+
+Обзор движка Falcon в mySQL | https://habrahabr.ru/post/66350/
+
+Краткий обзор движков таблиц MySQL | https://habrahabr.ru/post/64851/
+
+Подсчёт общего количества строк выборке в mySQL при использовании LIMIT | https://habrahabr.ru/post/64655/
+
+Денормализация БД. Зачем? Когда? Как? | https://habrahabr.ru/post/64524/
+
+Nested Sets + MySQL TRIGGER | https://habrahabr.ru/post/63883/
+
+Средства создания горячих BackUp`ов MySQL | https://habrahabr.ru/post/63394/
+
+Определяем порядок столбцов в составном индексе | https://habrahabr.ru/post/61845/
+
+Datetime или timestamp | https://habrahabr.ru/post/61391/
+
+MySQL переделают в стиле Dizzle? | https://habrahabr.ru/post/59862/
+
+Почему Ларри Эллисон так стремился купить MySQL? | https://habrahabr.ru/post/57954/
+
+Основы репликации в MySQL | https://habrahabr.ru/post/56702/
+
+Импорт новостей из одного формата в WordPress | https://habrahabr.ru/post/56506/
+
+Ускоряем выборку произвольных записей MySQL | https://habrahabr.ru/post/55864/
+
+Хранимые процедуры в MySQL | https://habrahabr.ru/post/54436/
+
+Расчет периодов стажа в MySQL | https://habrahabr.ru/post/54361/
+
+Выборка произвольных записей в MySQL | https://habrahabr.ru/post/54176/
+
+MySQL: Хранимые процедуры и динамический SQL | https://habrahabr.ru/post/52983/
+
+Marten Mickos увольняется из Sun Microsystems | https://habrahabr.ru/post/51885/
+
+Особенность оптимизатора MySQL 5.1.30 порядок следования таблиц в UPDATE | https://habrahabr.ru/post/50894/
+
+Восстановление базы MySQL из бинарных логов | https://habrahabr.ru/post/50064/
+
+Кто победит — слон или кит? Совместная встреча московских групп пользователей MySQL и PostgreSQL. | https://habrahabr.ru/post/49576/
+
+Через год | https://habrahabr.ru/post/48327/
+
+Представления (VIEW) в MySQL | https://habrahabr.ru/post/47031/
+
+Блокировки в MySQL | https://habrahabr.ru/post/46542/
+
+Курсоры в Mysql. | https://habrahabr.ru/post/46333/
+
+Форматирование длинных SQL-запросов | https://habrahabr.ru/post/46068/
+
+Хранение файлов в MySQL и их быстрая раздача | https://habrahabr.ru/post/45966/
+
+Kaj Arnö: MySQL и Sun — как дела? | https://habrahabr.ru/post/45871/
+
+Все то, о чем мы так долго мечтали — первый официальный релиз MySQL 5.1 | https://habrahabr.ru/post/45673/
+
+MySQL и JOINы | https://habrahabr.ru/post/44807/
+
+Постраничная навигация с MySQL при большом количестве записей | https://habrahabr.ru/post/44608/
+
+Медленный UPDATE vBulletin — в чем подвох? | https://habrahabr.ru/post/44446/
+
+Оптимизация MySQL запросов | https://habrahabr.ru/post/41968/
+
+MySQL Query Cache | https://habrahabr.ru/post/41166/
+
+MySQL Performance real life Tips and Tricks. Part 3-rd. | https://habrahabr.ru/post/39818/
+
+Что нового в MySQL 5.1 | https://habrahabr.ru/post/39918/
+
+MySQL Performance real life Tips and Tricks. To be continued. | https://habrahabr.ru/post/39260/
+
+MySQL Performance real life Tips and Tricks | https://habrahabr.ru/post/38907/
+
+High Performance MySQL, Second Edition | https://habrahabr.ru/post/38826/
+
+Триггеры в MySQL | https://habrahabr.ru/post/37693/
+
+Типы данных в MySQL (сжатый справочник для PHP программиста) | https://habrahabr.ru/post/36868/
+
+Поиск: FULLTEXT или LIKE? | https://habrahabr.ru/post/25646/
+
+Вопросы авторам MySQL на PHPConf 2008 29-30мая в Москве | https://habrahabr.ru/post/24431/
+
+На Facebook уже 10 000 серверов | https://habrahabr.ru/post/24135/
+
+Использование MySQL как файловой системы | https://habrahabr.ru/post/20361/
+
+Оптимизация работы с MySQL | https://habrahabr.ru/post/20246/
+
+MyISAM хотят заменить на новый движок Maria | https://habrahabr.ru/post/19423/
+
+Sun купила MySQL | https://habrahabr.ru/post/18824/
+
+Facebook открывает новые дата-центры | https://habrahabr.ru/post/17973/
+
+mysqldump в csv формате | https://habrahabr.ru/post/17631/
+
+4-я Встреча Moscow MUG — Проектирование индексов, 29.11 | https://habrahabr.ru/post/16446/
+
+3-я встреча Moscow MUG: MySQL и memcached | https://habrahabr.ru/post/15565/
+
+Вторая встреча Moscow MySQL User Group | https://habrahabr.ru/post/14372/
+
+MySQL AB закрывает доступ к коду MySQL Enterprise Server | https://habrahabr.ru/post/13295/
+
+EXPLAIN — Самая мощная команда MySQL | https://habrahabr.ru/post/31129/
+
+На чём работает digg | https://habrahabr.ru/post/11168/
+
+Использование кодировок в MySQL >= 4.1 | https://habrahabr.ru/post/10983/
+
+Как выявить медленные SQL запросы? | https://habrahabr.ru/post/31072/
+

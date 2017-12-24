@@ -1,0 +1,56 @@
+Мой первый компилятор на LLVM | https://habrahabr.ru/post/342456/
+
+Самые неординарные языки программирования | https://habrahabr.ru/company/ua-hosting/blog/339304/
+
+Язык Terra — низкоуровневый партнёр Lua | https://habrahabr.ru/post/336406/
+
+Ещё один интерпретатор Brainfuck | https://habrahabr.ru/post/321630/
+
+VulnHub: Слепая эксплуатация и Брайнфак в DC416 Basement | https://habrahabr.ru/post/318998/
+
+Текст, которого нет | https://habrahabr.ru/post/311518/
+
+Не все языки программирования одинаково полезны | https://habrahabr.ru/post/309440/
+
+Язык программирования Petooh | https://habrahabr.ru/post/245443/
+
+JBrainfuck — Пишем компилятор Brainfuck под Java VM | https://habrahabr.ru/post/229267/
+
+Стоит ли до верится спел чек еру? Про стой пять ни чинный пост до бра | https://habrahabr.ru/post/204196/
+
+Квайн на Brainfuck, тьюториал | https://habrahabr.ru/post/193764/
+
+Квантовый парадокс Зенона | https://habrahabr.ru/post/192842/
+
+Мультиязыковые квайны | https://habrahabr.ru/post/188378/
+
+Открытие высокопористого материала | https://habrahabr.ru/post/188154/
+
+О молекулах РНК | https://habrahabr.ru/post/187814/
+
+Размышления о программировании | https://habrahabr.ru/company/r-style/blog/185310/
+
+Assembler для Brainfuck | https://habrahabr.ru/post/182598/
+
+Что общего между «Князем Игорем» и TCP/IP? | https://habrahabr.ru/company/r-style/blog/181572/
+
+Итоги 21-го конкурса IOCCC | https://habrahabr.ru/post/155335/
+
+Brainfuck-компьютер | https://habrahabr.ru/post/152741/
+
+Какая же сила нужна «сильному ИИ»? | https://habrahabr.ru/post/149055/
+
+Как положить инвестора на лопатки или три принципа Ходжи Насреддина | https://habrahabr.ru/post/147892/
+
+Почему у украинских ребят не получится эффективный жестовый переводчик? | https://habrahabr.ru/post/147527/
+
+Где же на самом деле прячутся Знания и когда же закончится этот терминологический беспредел? | https://habrahabr.ru/post/146881/
+
+Где нам взять такой инструмент, чтоб смысловую блоху подковать? | https://habrahabr.ru/post/146274/
+
+Условия if...else | https://habrahabr.ru/post/140152/
+
+Пишем класс на php для интерпретации BrainLoller | https://habrahabr.ru/post/128539/
+
+VHDL для начинающих. Brainfuck | https://habrahabr.ru/post/121797/
+

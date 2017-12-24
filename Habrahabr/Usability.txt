@@ -1,0 +1,1384 @@
+Исследование движений глаз: айтрекинг без видеокамеры и иные решения | https://habrahabr.ru/company/neurodatalab/blog/344782/
+
+Шпаргалка по улучшению интерфейса | https://habrahabr.ru/post/344768/
+
+Проблемы локализации iOS и macOS | https://habrahabr.ru/post/344712/
+
+Новая жизнь старой пагинации | https://habrahabr.ru/post/344136/
+
+Дайджест продуктового дизайна, ноябрь 2017 | https://habrahabr.ru/company/mailru/blog/344092/
+
+Свежие утилиты, плагины и инструменты для продуктивности дизайнера. Выпуск первый | https://habrahabr.ru/post/344036/
+
+UX-дизайн: распространенные заблуждения и мифы | https://habrahabr.ru/company/efs/blog/343366/
+
+Дашборд — что это и почему он будет вам полезен или современный способ сделать тайное явным | https://habrahabr.ru/company/devexpress/blog/341972/
+
+Использование SVG в качестве Placeholder’a | https://habrahabr.ru/company/edison/blog/342848/
+
+Советы самому себе в молодости (дизайнерская версия) | https://habrahabr.ru/company/edison/blog/342608/
+
+Дайджест продуктового дизайна, октябрь 2017 | https://habrahabr.ru/company/mailru/blog/342210/
+
+Чем хорош (и чем плох) Typescript: опыт UI-разработчиков | https://habrahabr.ru/company/sberbank/blog/341278/
+
+А вы не слишком поторопились изгнать “гамбургер” из своего приложения? | https://habrahabr.ru/post/341234/
+
+UX-дизайн: 50 вещей, которые вы наверняка забыли сделать | https://habrahabr.ru/company/edison/blog/341060/
+
+Лучший UX и веб-дизайн по версии пользователей Behance | https://habrahabr.ru/company/netologyru/blog/340798/
+
+Вертикальный ритм | https://habrahabr.ru/company/edison/blog/340670/
+
+Взлом визуальной системы: 11 оптических иллюзий в графическом дизайне | https://habrahabr.ru/post/340258/
+
+Осторожно! Злая собака! Или как укротить форму регистрации | https://habrahabr.ru/post/340088/
+
+Джозеф «Лик» Ликлайдер: «Симбиоз человека и компьютера» (1960), часть 1 | https://habrahabr.ru/post/339370/
+
+Большой список Telegram-каналов для дизайнеров, менеджеров продуктов и аналитиков | https://habrahabr.ru/post/339472/
+
+Дайджест продуктового дизайна, сентябрь 2017 | https://habrahabr.ru/company/mailru/blog/339558/
+
+Как усилить команду дизайнеров при помощи толкового писателя | https://habrahabr.ru/company/edison/blog/339362/
+
+[Перевод] Круглее круга: оптические эффекты при проектировании интерфейсов | https://habrahabr.ru/post/338780/
+
+Переосмысление drag&drop | https://habrahabr.ru/company/edison/blog/339086/
+
+«Нормальный у нас такой UX. UX? Не до этого нам, у нас тут сроки поджимают!» Снимаем мантию — моя интерпретация | https://habrahabr.ru/post/338996/
+
+Страницы 404 | https://habrahabr.ru/company/edison/blog/338994/
+
+Эргономика текста: Пользователь социальных сетей видит около 54 000 слов в день | https://habrahabr.ru/post/338778/
+
+Иллюзия скорости | https://habrahabr.ru/post/338598/
+
+«Невидимый дизайн»: проектируем вместе с машинами | https://habrahabr.ru/company/netologyru/blog/338478/
+
+10 вещей, которые ненавидят UX-писатели | https://habrahabr.ru/post/338416/
+
+Хороший дизайнер копирует чужие логотипы, великий — крадёт | https://habrahabr.ru/company/edison/blog/338036/
+
+Твой софт никому не нужен. Или почему разработка ПО требует свежего подхода | https://habrahabr.ru/post/338054/
+
+Правила и запреты веб-дизайна | https://habrahabr.ru/company/logomachine/blog/337758/
+
+VK by design | https://habrahabr.ru/company/vkontakte/blog/337424/
+
+Паттерны поведения пользователей | https://habrahabr.ru/post/337382/
+
+Проведение юзабилити-тестирований или опыт набитых шишек | https://habrahabr.ru/post/337230/
+
+Дайджест продуктового дизайна, август 2017 | https://habrahabr.ru/post/336918/
+
+Ideal OS: перезагрузка десктопных операционных систем (часть 1) | https://habrahabr.ru/post/337010/
+
+7 советов UX-специалисту по работе с машинным обучением | https://habrahabr.ru/company/netologyru/blog/336452/
+
+О доступности умных часов Samsung gear s 3 для пользователей с нарушениями зрения | https://habrahabr.ru/post/336042/
+
+Редизайн Хабрахабра и Гиктаймс. Финишная прямая | https://habrahabr.ru/company/tm/blog/335642/
+
+Как сделать сайты доступнее для пользователей с нарушениями зрения | https://habrahabr.ru/post/335442/
+
+Разработка интерфейса приложения для пожизненного использования на примере мобильного дневника диабета | https://habrahabr.ru/post/335372/
+
+Юзабилити карточки товара. Сценарий выгодный для бизнеса | https://habrahabr.ru/post/334996/
+
+Доступность приложений для пользователей с нарушениями зрения | https://habrahabr.ru/post/334982/
+
+Первая специализация Mail.Ru Group на крупнейшей образовательной платформе Coursera | https://habrahabr.ru/company/mailru/blog/334718/
+
+Дайджест продуктового дизайна, июль 2017 | https://habrahabr.ru/company/mailru/blog/334722/
+
+Почему исправление орфографических, грамматических и пунктуационных ошибок в продукте очень важно | https://habrahabr.ru/post/334736/
+
+Специально для Хабра: интервью с Аланом Кеем | https://habrahabr.ru/post/333778/
+
+Июльские бесплатные печеньки для дизайнеров и разработчиков | https://habrahabr.ru/post/334364/
+
+«Алекса, пожалуйста, убей меня уже»: разговорные интерфейсы | https://habrahabr.ru/company/uis/blog/334316/
+
+Сила минимализма в UX дизайне | https://habrahabr.ru/company/everydaytools/blog/334058/
+
+Оптическое выравнивание и пользовательские интерфейсы | https://habrahabr.ru/company/badoo/blog/333992/
+
+Дизайн для пальцев, касаний и людей | https://habrahabr.ru/company/nixsolutions/blog/333818/
+
+Вы ни черта не понимаете в цветах | https://habrahabr.ru/post/333552/
+
+Paradigm  —  дизайн-система Mail.Ru Group, часть 1: визуальный язык | https://habrahabr.ru/company/mailru/blog/333510/
+
+Простые ингредиенты для лучшего UX | https://habrahabr.ru/company/efs/blog/332550/
+
+7 способов улучшить дизайн сайта | https://habrahabr.ru/company/netologyru/blog/332992/
+
+Pathfinder: как мы делаем интерфейс для CRPG | https://habrahabr.ru/company/mailru/blog/332802/
+
+Дайджест продуктового дизайна, июнь 2017 | https://habrahabr.ru/company/mailru/blog/332124/
+
+Про Гауди — разработчика из девятнадцатого века, добившегося всего, чего может добиться разработчик | https://habrahabr.ru/post/331802/
+
+Преимущества интерактивного прототипирования | https://habrahabr.ru/post/331972/
+
+Правила жизни UX-проектировщика | https://habrahabr.ru/company/netologyru/blog/331338/
+
+Дизайн интерфейса корпоративного инструмента BI для data mining | https://habrahabr.ru/post/330958/
+
+Дизайн как всемирный язык 21 века | https://habrahabr.ru/post/330834/
+
+Дайджест продуктового дизайна, май 2017 | https://habrahabr.ru/company/mailru/blog/329952/
+
+Создание дизайн-экосистемы для десятков связанных ИТ-решений: слово дизайнерам | https://habrahabr.ru/company/eastbanctech/blog/330206/
+
+Как снизить количество брошенных корзин в онлайн продажах | https://habrahabr.ru/post/330158/
+
+UX-стратегия. Часть 6 — Внедрение | https://habrahabr.ru/post/329834/
+
+Почти манифест дизайн-мышления | https://habrahabr.ru/company/efs/blog/329560/
+
+Fluent Design (не) сдвигая парадигмы | https://habrahabr.ru/post/329106/
+
+Хиромантия UX | https://habrahabr.ru/post/329134/
+
+Как упростить написание статей в Хабрахабр за 2 клика? | https://habrahabr.ru/post/328936/
+
+10 шагов к улучшенной адаптации пользователя | https://habrahabr.ru/company/netologyru/blog/328902/
+
+Дайджест продуктового дизайна, апрель 2017 | https://habrahabr.ru/company/mailru/blog/328630/
+
+Адаптивная типографика с помощью математики | https://habrahabr.ru/post/328730/
+
+Лучшие приемы минималистичного дизайна | https://habrahabr.ru/company/netologyru/blog/328308/
+
+Таблицы в адаптивном дизайне — 2 | https://habrahabr.ru/post/328230/
+
+Дизайн таблиц | https://habrahabr.ru/post/328220/
+
+Дизайн Кейс: MroSupply E-commerce Site | https://habrahabr.ru/post/327960/
+
+GameDev с нуля: Как общаться с игроком без слов | https://habrahabr.ru/company/microsoft/blog/327786/
+
+Время первых (зарисовки с одного воркшопа) | https://habrahabr.ru/post/327646/
+
+Руководство по созданию выдающегося портфолио | https://habrahabr.ru/post/327600/
+
+Контекстные интервью. Заметки для разработки дизайна исследования | https://habrahabr.ru/company/sobakapavlova/blog/327568/
+
+Apple Music: не пытаясь скрыть боль | https://habrahabr.ru/company/livetyping/blog/327540/
+
+Первый курс Mail.Ru Group на крупнейшей образовательной платформе Coursera | https://habrahabr.ru/company/mailru/blog/327434/
+
+Как мы делали совершенно новый КОМПАС-3D: История в семи главах → часть 2 | https://habrahabr.ru/company/ascon/blog/326886/
+
+Что нам стоит приложение построить: рассуждения об интерфейсе | https://habrahabr.ru/company/efs/blog/326976/
+
+UX-рецепт подтверждения номера телефона и электронной почты | https://habrahabr.ru/post/327100/
+
+Типографика: процесс выбора шрифта | https://habrahabr.ru/company/everydaytools/blog/327062/
+
+Индейские хитрости проектировщика ПО. Выпуск 1 | https://habrahabr.ru/post/327064/
+
+Как мы делали совершенно новый КОМПАС-3D: История в семи главах → часть 1 | https://habrahabr.ru/company/ascon/blog/326550/
+
+Интерфейс рецептов | https://habrahabr.ru/company/mosigra/blog/326642/
+
+Детали, которые имеют значение | https://habrahabr.ru/company/everydaytools/blog/325630/
+
+Прототипируем таблицу в Axure, часть вторая | https://habrahabr.ru/post/326344/
+
+Не находите ли вы неудачной кнопку перехода на страницу номер 100? | https://habrahabr.ru/post/326482/
+
+UX-стратегия. Часть 5 — Дизайн с выхлопом | https://habrahabr.ru/post/326448/
+
+Хватит дизайнить в скетче. Делайте дизайн в браузере | https://habrahabr.ru/post/325852/
+
+Обзор секции «Дизайн» на конференции DUMP-2017 | https://habrahabr.ru/company/it_people/blog/325890/
+
+Интерфейсы агрегатора туров: что мы сделали и где нам нужна помощь Хабра | https://habrahabr.ru/company/travelata/blog/325772/
+
+Дайджест продуктового дизайна, март 2017 | https://habrahabr.ru/company/mailru/blog/325460/
+
+Инструменты машинного* дизайна | https://habrahabr.ru/company/uteam/blog/325074/
+
+Через тернии к звездам: почему надо добиваться доступа к пользователям, и как это делать | https://habrahabr.ru/company/sobakapavlova/blog/325258/
+
+25 интересных книг для дизайнеров в открытом доступе | https://habrahabr.ru/company/everydaytools/blog/325054/
+
+7 вопросов, которые вам зададут на собеседовании на вакансию UX дизайнера | https://habrahabr.ru/post/325030/
+
+Теория близости: главное правило дизайна, которое помогает перейти от субъективных ощущений к конкретике | https://habrahabr.ru/company/logomachine/blog/324874/
+
+В чем отличие UI от UX? Подробный разбор часто используемых терминов | https://habrahabr.ru/company/pixli/blog/324794/
+
+UX при локализации приложений: пособие разработчика | https://habrahabr.ru/company/alconost/blog/324636/
+
+Как велась работа над улучшением навигации в Uber | https://habrahabr.ru/company/everydaytools/blog/324464/
+
+Лучшие практики для поисковой выдачи | https://habrahabr.ru/company/everydaytools/blog/324358/
+
+Создаем идеальную строку поиска | https://habrahabr.ru/company/everydaytools/blog/324088/
+
+Хорошо ли подсказывают сервисы подсказок: измеряем полезность веб-сервисов автодополнения | https://habrahabr.ru/post/323936/
+
+Поиск дьявола в семантике текстовой единицы | https://habrahabr.ru/post/323874/
+
+Дайджест продуктового дизайна, февраль 2017 | https://habrahabr.ru/company/mailru/blog/323704/
+
+Выбор правильного способа визуализации по стандарту IBCS | https://habrahabr.ru/post/323734/
+
+Редизайн Instagram: опыт анализа и переосмысления интерфейса | https://habrahabr.ru/company/everydaytools/blog/323672/
+
+Айтрекинг в UX-исследованиях | https://habrahabr.ru/company/mailru/blog/322324/
+
+Все врут или интервью, которого не было | https://habrahabr.ru/post/323476/
+
+Как мы делали экосистему – единый «язык» дизайна для front end десятков связанных систем | https://habrahabr.ru/company/eastbanctech/blog/323344/
+
+Упрощение дизайна отчетов по стандарту IBCS | https://habrahabr.ru/post/323230/
+
+Интерактивный UX-прототип: разбор на реальном примере | https://habrahabr.ru/post/323156/
+
+Material UI и A/B тесты устарели — будущее за адаптивными интерфейсами | https://habrahabr.ru/post/322958/
+
+10 грехов в системах навигации сайтов / приложений | https://habrahabr.ru/post/322740/
+
+Наблюдая за пользователем | https://habrahabr.ru/post/322574/
+
+3 шага к интерактивному прототипу | https://habrahabr.ru/company/pixli/blog/322420/
+
+Наука на страже интерфейсов: как сделать кнопки в приложении по-настоящему удобными | https://habrahabr.ru/company/appodeal/blog/322022/
+
+14 советов по использованию Sketch и InVision в работе дизайнера | https://habrahabr.ru/post/321904/
+
+UX: Почему слишком много рекламы – это не user friendly | https://habrahabr.ru/post/321878/
+
+Дайджест продуктового дизайна, январь 2017 | https://habrahabr.ru/company/mailru/blog/321420/
+
+A/B тесты не нужны* | https://habrahabr.ru/post/321358/
+
+Axure. Удар интерактивом по интерфейсу. Пробы и ошибки | https://habrahabr.ru/post/321326/
+
+Оптимизация работы портальной дизайн-команды с помощью Sketch и облака | https://habrahabr.ru/company/mailru/blog/319884/
+
+Использование метода интервью для разработки IT-продуктов: можно ли проводить качественные исследования самостоятельно? | https://habrahabr.ru/company/sobakapavlova/blog/320812/
+
+Дизайн мультиязычных приложений | https://habrahabr.ru/company/everydaytools/blog/320376/
+
+Кейсы: разработка спецификаций и гайдлайнов (web ui kit) | https://habrahabr.ru/post/320136/
+
+Застой в развитии: формат вывода сообщений | https://habrahabr.ru/post/320114/
+
+Как я в одной команде редизайн web-продукта делал (кейсы!) | https://habrahabr.ru/post/319838/
+
+Linkedin недавно провёл редизайн и я намерен это обсудить | https://habrahabr.ru/post/319506/
+
+UI/UX события 2017 года, которые вас точно не утомят | https://habrahabr.ru/company/everydaytools/blog/319444/
+
+Realistic UI: реалистичный взгляд на Optimistic UI | https://habrahabr.ru/post/319392/
+
+Создание музыкальных интерфейсов | https://habrahabr.ru/company/everydaytools/blog/318800/
+
+ТехноLive: Игрок и игра, интерфейс как связующее звено, Ольга Шуберт | https://habrahabr.ru/company/mailru/blog/318638/
+
+Декабрьский дайджест продуктового дизайна: Книга Atomic Design, Adobe XD для Windows и UX-тренды 2017 года | https://habrahabr.ru/company/mailru/blog/318688/
+
+Серьезное проектирование серьезных сайтов. Часть 2. Визуализация | https://habrahabr.ru/company/SECL_GROUP/blog/318660/
+
+Серьезное проектирование серьезных сайтов. Часть 1. Аналитика | https://habrahabr.ru/company/SECL_GROUP/blog/318598/
+
+Базовые модели мобильной навигации | https://habrahabr.ru/company/everydaytools/blog/318570/
+
+Панель инструментов редакторов МойОфис | https://habrahabr.ru/company/ncloudtech/blog/318044/
+
+Медленная эволюция интерфейсов или сага о четвёртой кнопочке | https://habrahabr.ru/post/318274/
+
+Что скрывает от клиента монитор оператора? | https://habrahabr.ru/company/netcracker/blog/318088/
+
+Дизайнер интерфейсов на Хабре — итоги моего первого года | https://habrahabr.ru/post/318024/
+
+Психология потребителя — бесплатная книга и лекция с ВШЭ | https://habrahabr.ru/company/usabilitylab/blog/318016/
+
+Как конструировать слова (от автора, который ненавидит читать) | https://habrahabr.ru/company/edison/blog/317698/
+
+Кратко про оптимистичный UI. Оптимистичные интерфейсы в картинках | https://habrahabr.ru/company/everydaytools/blog/317664/
+
+Как хорошо подать результаты качественного исследования: метод тематических сетей (+ анализ ATS в качестве примера) | https://habrahabr.ru/post/317544/
+
+Взаимодействующий landing или как взорвать конверсию с помощью мессенджеров | https://habrahabr.ru/post/317160/
+
+Ноябрьский дайджест продуктового дизайна: Профстандарт, алгоритмический дизайн, Adobe XD и техническая подкованность | https://habrahabr.ru/company/mailru/blog/316772/
+
+Джош Кларк: Мифы о мобильном дизайне | https://habrahabr.ru/company/everydaytools/blog/316934/
+
+Хаос и гремлины: тестирование веб-интерфейсов | https://habrahabr.ru/company/ruvds/blog/316816/
+
+Простой способ презентовать свои UX-решения потенциальному клиенту | https://habrahabr.ru/post/316808/
+
+Опасности очаровашек в дизайне | https://habrahabr.ru/company/edison/blog/316574/
+
+«Шесть умов» UX Дизайна | https://habrahabr.ru/post/316494/
+
+Дихотомия UI и UX: UI-дизайнер ≠ UX-дизайнер | https://habrahabr.ru/post/315936/
+
+Как же вы задолбали со своими оповещениями | https://habrahabr.ru/company/edison/blog/315790/
+
+Правдивая ложь оптимистичных интерфейсов | https://habrahabr.ru/company/jugru/blog/315806/
+
+10 книг по UI/UX дизайну, которые стоит прочитать | https://habrahabr.ru/company/everydaytools/blog/315846/
+
+Опаньки, я сломал вашу жизнь | https://habrahabr.ru/post/315534/
+
+Я полюбил верстку после этого: Zeplin в бою | https://habrahabr.ru/company/uteam/blog/315542/
+
+Пятница: все дизайнеры интерфейсов попадают в ад… | https://habrahabr.ru/company/edison/blog/315548/
+
+С маленькой или с Большой | https://habrahabr.ru/company/edison/blog/315360/
+
+Как мы тестировали юзабилити интерфейса | https://habrahabr.ru/company/simbirsoft/blog/315342/
+
+Интерфейсы: Мой, твой, ваш, наш или этот | https://habrahabr.ru/company/edison/blog/315140/
+
+Проектирование большого проекта на примере аналога Alibaba.com | https://habrahabr.ru/company/SECL_GROUP/blog/314906/
+
+Дайджест продуктового дизайна, октябрь 2016 | https://habrahabr.ru/company/mailru/blog/314620/
+
+Миссионерские интерфейсы | https://habrahabr.ru/post/314356/
+
+Маленькие дизайн-алгоритмы против большого тлена | https://habrahabr.ru/company/hh/blog/313970/
+
+Впечатляющее многоточие (The Mighty Ellipsis) | https://habrahabr.ru/post/313918/
+
+Девять секретов о UX от практикующих экспертов | https://habrahabr.ru/post/313718/
+
+Программа UX/UI трека на конференции MBLTdev 16 | https://habrahabr.ru/company/e-Legion/blog/313656/
+
+Dribbble обзор №2 — наиболее интересные дизайны интерфейсов за последние 2 недели | https://habrahabr.ru/post/313384/
+
+Золотые пистолеты или Почему не получилось обмануть Аэрофлот? | https://habrahabr.ru/post/313238/
+
+Окей, Google, как насчёт оптимизировать интерфейс для работы со смартфоном одной рукой? | https://habrahabr.ru/post/313096/
+
+UX-митап 26 октября в Петербурге: работа по дизайн-спринтам, LeanUX, юзабилити-исследования | https://habrahabr.ru/company/wrike/blog/312908/
+
+Исследование. Как увеличение кликабельной области кнопки изменяет количество переходов по ней | https://habrahabr.ru/post/312358/
+
+Подборка подкастов и видеокастов по контент-маркетингу, дизайну интерфейсов и юзабилити | https://habrahabr.ru/company/pechkin/blog/312182/
+
+Dribbble: обзор наиболее интересных дизайнов интерфейсов за прошедшую неделю | https://habrahabr.ru/post/312114/
+
+Серия интерфейсных (не)обновлений — «Разворот поста joins darkside» | https://habrahabr.ru/post/311984/
+
+Дружелюбный дизайн и миллион новых пользователей: год экспериментов в Яндекс.Деньгах | https://habrahabr.ru/company/yandex/blog/311956/
+
+Литературный дайджест: 35 книг о дизайне интерфейсов и контент-маркетинге | https://habrahabr.ru/company/pechkin/blog/311898/
+
+Кнопки в дизайне интерфейсов: эволюция стиля и рекомендации | https://habrahabr.ru/post/311838/
+
+Дайджест продуктового дизайна, сентябрь 2016 | https://habrahabr.ru/company/mailru/blog/311544/
+
+Серия интерфейсных (не)обновлений — «Хабрахабр joins darkside» | https://habrahabr.ru/post/311426/
+
+Pixel Launcher vs Other Launchers | https://habrahabr.ru/post/310134/
+
+Пять видов систем крафтинга в играх | https://habrahabr.ru/company/plarium/blog/309854/
+
+Как стать дизайнером. Главная ошибка и необходимые навыки. Личный опыт сотрудников Mail.Ru Group, Badoo, Trood | https://habrahabr.ru/post/309668/
+
+Дайджест продуктового дизайна, август 2016 | https://habrahabr.ru/company/mailru/blog/309180/
+
+Доступность «кастомных html-контролов для незрячих пользователей | https://habrahabr.ru/post/309288/
+
+OK Google, что насчет хороших интерфейсов? | https://habrahabr.ru/post/309058/
+
+Интерфейсы в реальном мире: страховка от ошибок пользователя | https://habrahabr.ru/company/mosigra/blog/308656/
+
+Главный разработчик сайта Kremlin.ru Артём Геллер о создании сервиса и работе с администрацией президента | https://habrahabr.ru/company/design/blog/308922/
+
+Тернистый путь к продажам на Themeforest.net — Часть 2 | https://habrahabr.ru/post/308814/
+
+Оптимизируем свои трудозатраты при разработке приложения в Google Material Design | https://habrahabr.ru/post/308684/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 6 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/307444/
+
+Планирование юзабилити-тестирования. Часть 2 | https://habrahabr.ru/company/mailru/blog/308054/
+
+Что думают эксперты и пользователи про новый дизайн «ВКонтакте» | https://habrahabr.ru/post/308066/
+
+Основы геймдизайна: 20 настольных игр. Часть седьмая и последняя: головоломки Nikoli, кроссворды | https://habrahabr.ru/company/plarium/blog/307926/
+
+Интерфейсы и юзабилити: кто, зачем и как проектирует UX | https://habrahabr.ru/company/pechkin/blog/307810/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 5 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/307442/
+
+Новый пользователь вашего продукта — как ему помочь? | https://habrahabr.ru/post/307674/
+
+Планирование юзабилити-тестирования. Часть 1 | https://habrahabr.ru/company/mailru/blog/307556/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 4 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/307440/
+
+Дайджест продуктового дизайна, июль 2016 | https://habrahabr.ru/company/mailru/blog/307076/
+
+Минимально жизнеспособный UX: дизайн SaaS (приложений-сервисов) | https://habrahabr.ru/post/307474/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 3 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/307432/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 2 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/307192/
+
+Основы геймдизайна: 20 настольных игр. Часть пятая: Манчкин, Контрактный бридж, Ужас Аркхэма | https://habrahabr.ru/company/plarium/blog/306372/
+
+Вести с полей: кто и как применял качественные методы в UX Research для разработки IT-продуктов. Часть 1 из 6 | https://habrahabr.ru/company/sobakapavlova/blog/306946/
+
+Не важно, большие у тебя или маленькие. Главное, чтоб не маленькие. Фаршируем Material Design | https://habrahabr.ru/company/hh/blog/306908/
+
+Важные уроки о user experience, полученные при разработке боевого HUD для игры Dreadnought | https://habrahabr.ru/post/306638/
+
+Инструменты для создания прототипов: от макета, собранного на скорую руку, до полнофункциональных прототипов | https://habrahabr.ru/post/306724/
+
+Графический интерфейс пользователя как отражение реального мира: тени и подъем элементов | https://habrahabr.ru/post/306626/
+
+Функциональная анимация в UX дизайне. Что делает ее эффективной? | https://habrahabr.ru/post/306348/
+
+Метрики против Опыта | https://habrahabr.ru/company/ua-hosting/blog/306154/
+
+Девять простых UX истин | https://habrahabr.ru/post/306088/
+
+Юзабилити-тестирование: хотите ли вы узнать правду о своих пользователях? | https://habrahabr.ru/company/mailru/blog/305952/
+
+Мобильный UX-дизайн: Как правильно запрашивать у пользователей разрешения | https://habrahabr.ru/post/305948/
+
+UX-дизайн: флажки и переключатели в формах | https://habrahabr.ru/post/305936/
+
+Интенсив по продуктовому дизайну от команды Mail.Ru Group в Британке | https://habrahabr.ru/company/mailru/blog/305778/
+
+Основы геймдизайна: 20 настольных игр. Часть четвертая: Билет на поезд, Каркассон, Колонизаторы | https://habrahabr.ru/company/plarium/blog/305840/
+
+Проецируя Google Material Design на десктопную систему… (часть четвёртая и заключительная) | https://habrahabr.ru/post/305660/
+
+Переключения языка ввода в Windows с помощью CapsLock | https://habrahabr.ru/post/305658/
+
+По ту сторону онлайн-консультанта | https://habrahabr.ru/post/305438/
+
+Проецируя Google Material Design на десктопную систему… (часть третья) | https://habrahabr.ru/post/305396/
+
+UX-дизайн в мобильном приложении: запрос об оценке приложения | https://habrahabr.ru/post/305374/
+
+История покупки одного билета на сайте РЖД | https://habrahabr.ru/post/304904/
+
+Дайджест продуктового дизайна, июнь 2016 | https://habrahabr.ru/company/mailru/blog/304726/
+
+Основы геймдизайна: 20 настольных игр. Часть третья: Пенте, Колонизаторы, Пуэрто-Рико | https://habrahabr.ru/company/plarium/blog/304850/
+
+Тонкости подбора респондентов для UX-исследований | https://habrahabr.ru/company/mailru/blog/304720/
+
+Проецируя Google Material Design на десктопную систему… (часть вторая) | https://habrahabr.ru/post/304766/
+
+Правила юзабилити для ботов | https://habrahabr.ru/post/304742/
+
+Проецируя Google Material Design на десктопную систему… (часть первая) | https://habrahabr.ru/post/304724/
+
+Искусство осмысленного UX-дизайна | https://habrahabr.ru/post/304676/
+
+Улучшение опыта взаимодействия за счет использования карточек в дизайне | https://habrahabr.ru/post/304540/
+
+UX-дизайн кнопки: советы по созданию, типы и состояния | https://habrahabr.ru/post/304398/
+
+Лейблы всегда в почете | https://habrahabr.ru/post/304376/
+
+Алгоритмический дизайн | https://habrahabr.ru/company/mailru/blog/304154/
+
+Проектирование сайтов для людей с деменцией | https://habrahabr.ru/post/304256/
+
+Прогрессивное упрощение | https://habrahabr.ru/post/304192/
+
+Эволюция маркетинга: от маленького интернет-магазина до гипермаркета | https://habrahabr.ru/post/265361/
+
+Когда программные продукты общаются с нами, должны ли они быть дружелюбными | https://habrahabr.ru/post/303566/
+
+Как мы увеличили процент регистраций на 68% с помощью дизайна форм | https://habrahabr.ru/post/303016/
+
+Дайджест продуктового дизайна, май 2016 | https://habrahabr.ru/company/mailru/blog/302632/
+
+Интерфейсы в реальном мире: проектируем самый адский интерфейс | https://habrahabr.ru/company/mosigra/blog/283530/
+
+И тестовое задание может оказаться интересным | https://habrahabr.ru/post/302282/
+
+Городской дизайн: 4 лекции о создании схем навигации в метро и не только | https://habrahabr.ru/post/301842/
+
+Техники захвата внимания пользователя — от фокусника и специалиста по вопросам дизайнерской этики в Google | https://habrahabr.ru/post/301786/
+
+Свой UX приложения ЖКХ Москвы с чатом и крутилками | https://habrahabr.ru/company/redmadrobot/blog/300896/
+
+UX для начинающих: практическое руководство. Часть 2 | https://habrahabr.ru/company/pechkin/blog/301556/
+
+Качественные методы в UX-исследованиях: как начать разговаривать с пользователями | https://habrahabr.ru/company/sobakapavlova/blog/301448/
+
+UX для начинающих: практическое руководство. Часть 1 | https://habrahabr.ru/company/pechkin/blog/301290/
+
+Как я делал шаблон веб-магазина в Sketch.app для Themeforest. Часть 2: выкладываем товар | https://habrahabr.ru/post/301200/
+
+Обзор конференции ProfsoUX-2016 | https://habrahabr.ru/company/sobakapavlova/blog/301026/
+
+Лучший друг киномана: переделываем приложение CBS под Android | https://habrahabr.ru/company/redmadrobot/blog/283362/
+
+Дайджест продуктового дизайна, апрель 2016 | https://habrahabr.ru/company/mailru/blog/283280/
+
+Что случилось с Google Maps? | https://habrahabr.ru/post/282838/
+
+Веб-сайты продолжают использовать «тёмные паттерны»: интерфейсы, предназначенные для обмана | https://habrahabr.ru/post/282644/
+
+Волшебный интерфейс | https://habrahabr.ru/company/devexpress/blog/280180/
+
+Архивирование как произведение искусства | https://habrahabr.ru/company/acronis/blog/280842/
+
+Приглашаем на весеннюю UX-конференцию Русской Школы Сервисного Дизайна 16 апреля | https://habrahabr.ru/company/mailru/blog/280684/
+
+Дайджест продуктового дизайна, март 2016 | https://habrahabr.ru/company/mailru/blog/280794/
+
+Дизайн кейс: Coral Order e-commerce сайт | https://habrahabr.ru/post/279779/
+
+Существует ли граница видимой области в вебе? | https://habrahabr.ru/post/279705/
+
+«Любимый смартфон химика-технолога» или унификация рабочего стола вашего гаджета | https://habrahabr.ru/post/279723/
+
+Главный инструмент у каждого UX-эксперта | https://habrahabr.ru/post/279493/
+
+Дайджест продуктового дизайна, февраль 2016 | https://habrahabr.ru/company/mailru/blog/278913/
+
+Юзабилити линч: ищем уязвимости интерфейса в CMS Diafan | https://habrahabr.ru/post/278507/
+
+Эмоциональный landing page? Воу воу, полегче | https://habrahabr.ru/post/278421/
+
+Миграция UI-паттернов и жестов. Кто у кого что подтырил | https://habrahabr.ru/company/redmadrobot/blog/278423/
+
+ТРИЗ для дизайнеров. Законы развития систем | https://habrahabr.ru/company/redmadrobot/blog/276911/
+
+Мои правила дизайна хорошего интерфейса | https://habrahabr.ru/post/277399/
+
+Axure 7 для начинающих за 100 минут | https://habrahabr.ru/post/277395/
+
+Оптимизация UI: Опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/277155/
+
+Дайджест продуктового дизайна, январь 2016 | https://habrahabr.ru/company/mailru/blog/276469/
+
+UX как кунг-фу (пособие для троллинга и корректировки штатного расписания) | https://habrahabr.ru/post/276223/
+
+Отчёт о четвёртой UX-конференции Русской школы сервисного дизайна | https://habrahabr.ru/company/mailru/blog/276169/
+
+Как указывать диапазоны дат в интерфейсах? | https://habrahabr.ru/post/275957/
+
+Встать к лесу задом, а ко мне передом… | https://habrahabr.ru/post/275623/
+
+Дизайн интерфейса под Microsoft Lync или визуализация системы с нуля | https://habrahabr.ru/post/275493/
+
+Евангелие информационной архитектуры сайта | https://habrahabr.ru/post/274717/
+
+Дайджест продуктового дизайна, декабрь 2015 | https://habrahabr.ru/company/mailru/blog/274147/
+
+Да пребудет с вами прокрутка: теория и практика по камере в платформерах [2/2] | https://habrahabr.ru/post/273397/
+
+Что такое лендинг | https://habrahabr.ru/company/trinion/blog/273917/
+
+Собеседование на UX дизайнера | https://habrahabr.ru/post/273711/
+
+«Оптимизируй это!» | https://habrahabr.ru/post/273643/
+
+Да пребудет с вами прокрутка: теория и практика по камере в платформерах [1/2] | https://habrahabr.ru/post/272933/
+
+Юзабилити торговых терминалов: UX-тенденции мобильных и десктоп-приложений для торговли на бирже | https://habrahabr.ru/company/itinvest/blog/273175/
+
+Web без мышки | https://habrahabr.ru/company/netcracker/blog/273071/
+
+Розыгрыш бесплатного тестирования вашего проекта в UX-лаборатории Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/272837/
+
+60 — это магическое число | https://habrahabr.ru/post/272773/
+
+Адский UX Spotify | https://habrahabr.ru/post/272753/
+
+Навигация по сайту — отрыжка ушедшей эпохи | https://habrahabr.ru/post/272709/
+
+Дайджест продуктового дизайна, ноябрь 2015 | https://habrahabr.ru/company/mailru/blog/272605/
+
+Игроделу о субтитрах: теория и практика | https://habrahabr.ru/post/265131/
+
+Имена пользователей ВКонтакте на иностранном языке. Размышление | https://habrahabr.ru/post/271775/
+
+Отделяем UI от UX | https://habrahabr.ru/post/271657/
+
+Проектирование для дислексиков, часть вторая | https://habrahabr.ru/post/270999/
+
+Неправильно использованные шаблоны мобильного интерфейса | https://habrahabr.ru/post/270891/
+
+Как используют интернет и современные технологии люди с нарушением зрения. Исследование Яндекса | https://habrahabr.ru/company/yandex/blog/270775/
+
+Взгляд IT-специалиста на SAP ERP | https://habrahabr.ru/post/270715/
+
+Зачем бизнесу нужна открытость | https://habrahabr.ru/company/1cloud/blog/296162/
+
+Топ-10 статей по User eXperience для начинающих, чтобы за час понять, что это такое | https://habrahabr.ru/company/tceh/blog/270151/
+
+Дайджест продуктового дизайна, октябрь 2015 | https://habrahabr.ru/company/mailru/blog/270171/
+
+Дайджест продуктового дизайна, сентябрь 2015 | https://habrahabr.ru/company/mailru/blog/268429/
+
+Что я узнал про интерфейсы в реальном мире в Китае | https://habrahabr.ru/company/mosigra/blog/268211/
+
+Иногда лучше меньше — почему только Google-авторизация? + канал Rusbase | https://habrahabr.ru/company/pushall/blog/268267/
+
+Юзабилити форм авторизации | https://habrahabr.ru/post/268253/
+
+Немного о развитии технологий и Интернет | https://habrahabr.ru/company/it-grad/blog/268103/
+
+Эволюция дизайна и юзабилити мобильных приложений известных сервисов. Как улучшить свое приложение? | https://habrahabr.ru/company/appodeal/blog/267365/
+
+Чеклист для творческих процессов | https://habrahabr.ru/post/267409/
+
+Целенаправленная и сознательная деавтоматизация бизнеса | https://habrahabr.ru/company/mosigra/blog/267597/
+
+Почта на Mail@Ru ведёт себя так удобно, что аж страшно | https://habrahabr.ru/post/267331/
+
+Зачем нужны почты no-reply@? | https://habrahabr.ru/company/mosigra/blog/266649/
+
+Адаптивное масштабирование: дизайн интернет-магазинов для больших экранов | https://habrahabr.ru/post/266461/
+
+Дайджест продуктового дизайна, август 2015 | https://habrahabr.ru/company/mailru/blog/266013/
+
+Как сделать бесполезный UI полезным | https://habrahabr.ru/company/1cloud/blog/294028/
+
+Микроконференция UX-Среда №24: Лонг-риды и современные инструменты паблишинга | https://habrahabr.ru/company/mailru/blog/265243/
+
+Bootstrap 4 вышел в alpha версии | https://habrahabr.ru/post/265109/
+
+UX-стратегия на практике. Часть 3 — Платформенное мышление | https://habrahabr.ru/company/mailru/blog/264933/
+
+С чего начать работу по оптимизации UX | https://habrahabr.ru/company/1cloud/blog/293644/
+
+Яндекс добавил горячие клавиши для управления результатами поиска | https://habrahabr.ru/company/yandex/blog/264699/
+
+Отчет с Dribbble Meetup 2015 в Москве | https://habrahabr.ru/company/mailru/blog/264661/
+
+Дизайн мобильного приложения. Как добиться оптимального результата? | https://habrahabr.ru/company/appodeal/blog/260095/
+
+Я не представляю, какого черта я делаю | https://habrahabr.ru/company/friifond/blog/264575/
+
+4 невидимых UX, о которых вы никогда не знали | https://habrahabr.ru/post/264363/
+
+Calque — калькулятор, который удобнее, чем консоль браузера | https://habrahabr.ru/post/264229/
+
+Дайджест продуктового дизайна, июль 2015 | https://habrahabr.ru/company/mailru/blog/264097/
+
+Табы сверху? Развитие нового интерфейса Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/264149/
+
+Central Park NY: редизайн официального приложения | https://habrahabr.ru/company/redmadrobot/blog/263697/
+
+Идем на рекорд: как мы оптимизировали прикрепление изображений в Почте Mail.Ru для iOS | https://habrahabr.ru/company/mailru/blog/263725/
+
+Современный интернет ушами незрячего – Заголовки (дополнение) | https://habrahabr.ru/post/263613/
+
+Полный путеводитель по созданию лендингов, которые продают | https://habrahabr.ru/company/iloveip/blog/263605/
+
+Эммет Шир: Как в Twitch разговаривают с пользователями | https://habrahabr.ru/company/friifond/blog/263539/
+
+Повышение удобства работы с Android-приложениями: распознавание жестов и не только | https://habrahabr.ru/company/intel/blog/263483/
+
+Современный интернет ушами незрячего — Заголовки | https://habrahabr.ru/post/263349/
+
+Как программируют слабовидящие программисты? | https://habrahabr.ru/post/262363/
+
+Модель человеческого процессора | https://habrahabr.ru/post/263265/
+
+Унификация через «бургерный дизайн»: Фреймворк Mail.Ru Group для контент-проектов | https://habrahabr.ru/company/mailru/blog/263221/
+
+Новый механизм вкладок для облачной IDE | https://habrahabr.ru/company/mr_gefest/blog/263257/
+
+Эммет Шир: Как проводить интервью с пользователями  | https://habrahabr.ru/company/friifond/blog/262963/
+
+Проектирование для дислексиков, часть первая | https://habrahabr.ru/post/262815/
+
+Как мы работали над редизайном Яндекс.Денег | https://habrahabr.ru/company/yandex/blog/262769/
+
+Дайджест продуктового дизайна, июнь 2015 | https://habrahabr.ru/company/mailru/blog/262077/
+
+Оберон умер, да здравствует Оберон! Рабочее окружение ETH Oberon | https://habrahabr.ru/post/259947/
+
+Как прошла конференция юзабилистов UXPeople 2015 | https://habrahabr.ru/post/261555/
+
+10 роковых ошибок юзабилити интернет-магазинов и кое-что ещё | https://habrahabr.ru/company/mastercard/blog/261397/
+
+Создание дизайна для дальтоников (и вместе с ними) | https://habrahabr.ru/post/261181/
+
+Как я рисовал дизайн приложения для конкурса Mail.Ru Group | https://habrahabr.ru/post/260895/
+
+Разбираемся с сеткой в Adobe Illustrator | https://habrahabr.ru/post/260163/
+
+Смотря на код с закрытыми глазами | https://habrahabr.ru/post/260463/
+
+Job Stories для проектирования интерфейсов | https://habrahabr.ru/company/friifond/blog/260457/
+
+Прелести интерфейса на частично перекрывающихся слоях | https://habrahabr.ru/company/virusdie/blog/260421/
+
+Семишаговый тест логотипа Пола Рэнда | https://habrahabr.ru/post/260219/
+
+Дайджест продуктового дизайна, май 2015 | https://habrahabr.ru/company/mailru/blog/259773/
+
+Козырная карта Интернет­-магазина: исследование юзабилити процесса покупки онлайн | https://habrahabr.ru/company/mastercard/blog/259663/
+
+Как создавать Pixel Perfect изображения в Adobe Illustrator | https://habrahabr.ru/post/259723/
+
+9 инструментов тестирования юзабилити | https://habrahabr.ru/company/dataart/blog/259545/
+
+UX-команда MailChimp: Улучшения и итерации [заключительная часть книги] | https://habrahabr.ru/company/friifond/blog/259201/
+
+Вставить, вытащить, потрясти | https://habrahabr.ru/post/259131/
+
+Конкурс для дизайнеров от Почты Mail.Ru | https://habrahabr.ru/company/mailru/blog/258943/
+
+UX-стратегия на практике: доклад Юрия Ветрова на UXPeople | https://habrahabr.ru/post/258869/
+
+ISO 9241-210. Планирование и внедрение Human-Centered Design | https://habrahabr.ru/post/258635/
+
+Accessibility. Как мы делаем Яндекс доступным людям с ограниченными возможностями и почему считаем это важным | https://habrahabr.ru/company/yandex/blog/258477/
+
+Виталий Фридман на UXPeople: «Responsive Design – это не небольшая рихтовка, он требует изменить всё» | https://habrahabr.ru/post/258365/
+
+Интерфейсы «пользователю надо – всё равно пройдёт» | https://habrahabr.ru/company/mosigra/blog/256601/
+
+ISO 9241-110 — Принципы организации диалога | https://habrahabr.ru/post/257729/
+
+Дайджест продуктового дизайна, апрель 2015 | https://habrahabr.ru/company/mailru/blog/257685/
+
+Гайдлайн по использованию Apple Watch Human Interface | https://habrahabr.ru/company/alconost/blog/257317/
+
+Что не так с интерфейсами авиасервисов #2: Как Aviageek изменился после поста на Хабре | https://habrahabr.ru/company/aviageek/blog/256919/
+
+Редизайн Вконтакте под 1440пк+ | https://habrahabr.ru/post/256315/
+
+Леденец из мороженого, или как привнести в ваше приложение немного Material | https://habrahabr.ru/post/255455/
+
+Как мы реализовали интерфейс автомата по выдаче займов | https://habrahabr.ru/post/255355/
+
+Сравнительный анализ iOS-почт: Google Inbox, myMail и Яндекс.Почта | https://habrahabr.ru/post/255181/
+
+Дорогой веб-дизайнер, давай перестанем нарушать возможность скроллить | https://habrahabr.ru/post/255099/
+
+Дайджест продуктового дизайна, март 2015 | https://habrahabr.ru/company/mailru/blog/254983/
+
+Оптимизируем юзабилити веб-форм | https://habrahabr.ru/post/254883/
+
+Дилетанты против Экспертов — рецепты проектирования сайтов для новичков | https://habrahabr.ru/post/254705/
+
+UX-команда MailChimp: Креативность и дорожные карты [7-я часть книги] | https://habrahabr.ru/company/friifond/blog/254331/
+
+UX-команда MailChimp: Разработка [6-я часть книги] | https://habrahabr.ru/company/friifond/blog/254307/
+
+Qbaka Vision — анализ поведения пользователей сайта | https://habrahabr.ru/company/qbaka/blog/254047/
+
+Эра фаблетов: Проектирование для крупных экранов | https://habrahabr.ru/company/friifond/blog/253953/
+
+Конференция ProfsoUX 2015: Обзор заявок на выступления | https://habrahabr.ru/company/jugru/blog/253921/
+
+Яндекс.Браузер: интерфейс будущего теперь в бете | https://habrahabr.ru/company/yandex/blog/253775/
+
+Когнитивное сопротивление правил и инструкций | https://habrahabr.ru/company/mosigra/blog/253795/
+
+UX-команда MailChimp: Паттерны и SVG-анимация [5-я часть книги] | https://habrahabr.ru/company/friifond/blog/253717/
+
+Итак, тебе нужна форма | https://habrahabr.ru/post/253721/
+
+Памятка: пятиминутный гид по UX от Squarespace и MailChimp | https://habrahabr.ru/company/pechkin/blog/253549/
+
+Дайджест продуктового дизайна, февраль 2015 | https://habrahabr.ru/company/mailru/blog/253473/
+
+Сила минимализма: как мы меняли дизайн Yelp | https://habrahabr.ru/post/253246/
+
+UX-команда MailChimp: Дизайн [4-я часть книги] | https://habrahabr.ru/company/friifond/blog/253225/
+
+Создаем свое Amazon-like навигационное меню | https://habrahabr.ru/post/252975/
+
+Информационные скрепы или какой могла бы быть инновационная операционная | https://habrahabr.ru/post/252285/
+
+Аудит информационного табло станций пригородных электричек | https://habrahabr.ru/post/251875/
+
+UX-команда MailChimp: Как мы проводим исследования [3-я часть книги] | https://habrahabr.ru/company/friifond/blog/251827/
+
+Интерфейсы в реальном мире (ещё примеры) | https://habrahabr.ru/company/mosigra/blog/251465/
+
+Музыка в KolibriOS: полный обзор и последние новинки | https://habrahabr.ru/company/kolibrios/blog/251371/
+
+Почему меньше, не значит скучнее | https://habrahabr.ru/post/251173/
+
+Что не так с интерфейсами авиасервисов и как это исправить: подход проекта Aviageek | https://habrahabr.ru/company/aviageek/blog/250257/
+
+UX-команда MailChimp: Совместная работа [2-я часть книги] | https://habrahabr.ru/company/friifond/blog/250857/
+
+Унификация дизайна: Фреймворк Mail.Ru Group для мобильного веба | https://habrahabr.ru/company/mailru/blog/250783/
+
+The UX Reader: книга о работе UX-команды MailChimp [часть 1] | https://habrahabr.ru/company/friifond/blog/250605/
+
+UX-стратегия на практике. Часть 2 — Продуктовый дизайнер | https://habrahabr.ru/company/mailru/blog/250407/
+
+Дайджест продуктового дизайна, январь 2015 | https://habrahabr.ru/company/mailru/blog/250071/
+
+Разбор текстов интерфейса на Букинге — как я делал им аудит | https://habrahabr.ru/post/250083/
+
+Как починить машину в интернете: история создания поисковика автозапчастей | https://habrahabr.ru/company/nodasoft/blog/249871/
+
+Понятие «сгиба» все еще актуально | https://habrahabr.ru/company/paysto/blog/249559/
+
+Горячие клавиши YouTube | https://habrahabr.ru/post/249309/
+
+Закат эры иконок от FatCow (выборка по цветам, топ 30 и прочая арифметика) | https://habrahabr.ru/post/249251/
+
+Юзабилити подводной лодки или почему интерфейсы тянут проекты ко дну | https://habrahabr.ru/company/tceh/blog/249237/
+
+Usability — один плагин Redmine, предоставляющий массу полезных мелочей | https://habrahabr.ru/post/248619/
+
+Божественный подход к аутентификации | https://habrahabr.ru/post/248427/
+
+Высокие значения DPI в ОС Windows | https://habrahabr.ru/post/248135/
+
+Кевин Хейл: тонкости в работе с пользовательским опытом (часть 2) | https://habrahabr.ru/company/friifond/blog/248341/
+
+02 Ссылки для UX-специалистов | https://habrahabr.ru/post/248091/
+
+Как мы научили Почту Mail.Ru склеивать письма в треды | https://habrahabr.ru/company/mailru/blog/247861/
+
+Мобильный интерфейс для одной руки | https://habrahabr.ru/company/ifree/blog/247871/
+
+Кевин Хейл: тонкости в работе с пользовательским опытом (часть 1) | https://habrahabr.ru/company/friifond/blog/247831/
+
+Микро-конференция UX-Среда №21 в рамках User Experience Russia 2014 | https://habrahabr.ru/company/mailru/blog/247815/
+
+Дизайн блога: какой он должен быть | https://habrahabr.ru/post/247693/
+
+01 Ссылки для UX-специалистов | https://habrahabr.ru/post/247493/
+
+Дайджест продуктового дизайна, декабрь 2014 | https://habrahabr.ru/company/mailru/blog/246739/
+
+Запросы задач Redmine. Как мы их усовершенствовали и как используем | https://habrahabr.ru/post/246527/
+
+Публичный тест нового интерфейса HeadHunter | https://habrahabr.ru/company/hh/blog/245833/
+
+Помогаем пользователю подтвердить Email | https://habrahabr.ru/post/245595/
+
+Алан Купер об интерфейсе | https://habrahabr.ru/company/piter/blog/245581/
+
+Формы в интернет-магазинах проектируют следователи угро | https://habrahabr.ru/company/hflabs/blog/245363/
+
+Конверсия: несколько полезных графиков и таблиц | https://habrahabr.ru/post/245025/
+
+Повышаем конверсию Landing Page | https://habrahabr.ru/post/244953/
+
+Пара маленьких лайфхаков поиска по товарам в интернет-магазине | https://habrahabr.ru/company/mosigra/blog/243941/
+
+Горизонтальный скролл становится модным. Разберемся в этом | https://habrahabr.ru/company/sketchbuilder/blog/244631/
+
+Будущее [отсутствие] интерфейсов браузеров от Яндекса | https://habrahabr.ru/company/yandex/blog/244343/
+
+Редизайн приложения РЖД: концепт | https://habrahabr.ru/company/redmadrobot/blog/228915/
+
+WUD 2014 — Всемирный День Юзабилити | https://habrahabr.ru/company/crystal_service/blog/244101/
+
+Размышления о произрастании рук разработчиков механических клавиатур. Обзор и разбор Cougar 700K | https://habrahabr.ru/post/243863/
+
+Создавайте продукты, формируйте привычки. Интервью с Ниром Эйялем | https://habrahabr.ru/company/paysto/blog/243283/
+
+Из жизни юзабилити-лаборатории Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/243241/
+
+Проектирование продукта с ориентацией на пользователя | https://habrahabr.ru/company/friifond/blog/243099/
+
+Доведите пользователя до… конца воронки | https://habrahabr.ru/company/paysto/blog/243079/
+
+Эффективное упрощение навигации, часть 1: информационная архитектура | https://habrahabr.ru/post/242757/
+
+Бородатые дизайнеры о дизайне думают в последнюю очередь | https://habrahabr.ru/post/242833/
+
+Что такое оптимизация конверсии и чем занимаются все эти ребята | https://habrahabr.ru/company/generateclub/blog/242479/
+
+Как использовать психологические принципы для увеличения конверсии | https://habrahabr.ru/company/generateclub/blog/242469/
+
+Pixel Perfect Precision: насколько превосходны ваши пиксели? | https://habrahabr.ru/post/242373/
+
+5 убийц унылых лэндингов | https://habrahabr.ru/company/generateclub/blog/242139/
+
+Как сделать продающую карточку товара для интернет-магазина | https://habrahabr.ru/company/convead/blog/241895/
+
+Проектируем информационную архитектуру для e-commerce. Часть 2 | https://habrahabr.ru/company/astoundcommerce/blog/241748/
+
+Укрощение интерфейсов или один доклад на Wake Up Province | https://habrahabr.ru/post/241593/
+
+Простые догмы при работе с цветом в интерфейсах | https://habrahabr.ru/post/240693/
+
+Мы проанализировали 20 лэндингов крутых стартапов и вот чему мы научились | https://habrahabr.ru/company/carrotquest/blog/240719/
+
+Информационная архитектура по-буддийски (интервью с Питером Морвилем) | https://habrahabr.ru/company/paysto/blog/240663/
+
+Как, когда и о чем говорить с посетителем вашего сайта для увеличения конверсии? | https://habrahabr.ru/company/carrotquest/blog/240459/
+
+Проектируем информационную архитектуру для e-commerce. Часть 1 | https://habrahabr.ru/company/astoundcommerce/blog/239849/
+
+Иконка-гамбургер | https://habrahabr.ru/post/239517/
+
+Подводные камни адаптивного веб-дизайна | https://habrahabr.ru/post/239373/
+
+Онбординг в мобильных и веб-интерфейсах. Как правильно рассказать пользователям о возможностях вашего продукта | https://habrahabr.ru/post/238965/
+
+Placebo-кнопки в повседневности и в веб-дизайне | https://habrahabr.ru/company/paysto/blog/239029/
+
+Как мы практикуем коридорное тестирование | https://habrahabr.ru/company/npo-comp/blog/238653/
+
+Основные виды поисковых запросов, которые используют пользователи интернет-магазинов, готов ли ваш сайт к ним? (Часть 3) | https://habrahabr.ru/company/paysto/blog/238457/
+
+Основные виды поисковых запросов, которые используют пользователи интернет-магазинов, готов ли ваш сайт к ним? (Часть 2) | https://habrahabr.ru/company/paysto/blog/238199/
+
+Основные виды поисковых запросов, которые используют пользователи интернет-магазинов, готов ли ваш сайт к ним? (Часть 1) | https://habrahabr.ru/company/paysto/blog/237893/
+
+Взаимосвязь UX и оптимизации: как это правильно делать (Часть II) | https://habrahabr.ru/company/altweb/blog/237873/
+
+Как использовать психологию цвета для увеличения конверсии | https://habrahabr.ru/company/lpcloud/blog/236439/
+
+Как создавать и зарабатывать на SaaS (Часть 11 / Обзоры облачных сервисов / UX и юзабилити тестирование)  | https://habrahabr.ru/post/236991/
+
+А что твоя бабушка знает про IT? | https://habrahabr.ru/post/236891/
+
+Через трудности и ошибки к безупречному интерфейсу кассы самообслуживания | https://habrahabr.ru/company/crystal_service/blog/236811/
+
+Заменит ли вход через аккаунт в социальных сетях привычную форму входа? | https://habrahabr.ru/company/paysto/blog/236781/
+
+Вебмани обновила интерфейсы | https://habrahabr.ru/post/235875/
+
+Исследование: как пользователи на самом деле работают с сенсорными экранами | https://habrahabr.ru/post/235745/
+
+Как мы А/Б тесты проводим | https://habrahabr.ru/post/235597/
+
+Смартфон на грани: Samsung Galaxy Edge с по-новому изогнутым дисплеем | https://habrahabr.ru/post/235527/
+
+UI в Enterprise-приложении, или как мы делали удобную систему для создания карт | https://habrahabr.ru/company/2gis/blog/234947/
+
+Интерфейсы в реальном мире | https://habrahabr.ru/company/mosigra/blog/232505/
+
+Как правильно показывать клиенту интерактивный прототип сайта в первый раз | https://habrahabr.ru/post/233183/
+
+[Перевод] 6 ключевых отличий юзабилити B2B и B2C | https://habrahabr.ru/post/232847/
+
+Пользовательское взаимодействие в коммерческих интерфейсах Смарт ТВ | https://habrahabr.ru/company/sobakapavlova/blog/232345/
+
+Каким должен быть поиск на сайте? | https://habrahabr.ru/company/paysto/blog/232199/
+
+Google представил новую домашнюю страницу для Документов, Таблиц и Презентаций | https://habrahabr.ru/post/231569/
+
+Полезная и служебная информация в интерфейсе | https://habrahabr.ru/post/231245/
+
+Почтовые рассылки как часть клиентского сервиса | https://habrahabr.ru/company/sobakapavlova/blog/230769/
+
+6 инструментов доступного usability-тестирования для веб-сайтов | https://habrahabr.ru/company/witget/blog/230247/
+
+Как обучить пользователя и не свести его с ума. Опыт Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/229411/
+
+Встреча днепропетровского Android Practice Leaders Community, посвященная UX, 10 июля | https://habrahabr.ru/company/Ciklum/blog/229253/
+
+Как мы в PassportVision интерфейс делали | https://habrahabr.ru/company/enterra/blog/229047/
+
+«Эффект пустого пространства» или роскошь из ничего | https://habrahabr.ru/company/paysto/blog/228609/
+
+Как сэкономить время, запоминая сочетания клавиш | https://habrahabr.ru/post/227809/
+
+Решебник по геймификации. Задача #1: интернет проект с UGC контентом | https://habrahabr.ru/post/227631/
+
+46 простых советов для успеха вашего интернет-магазина | https://habrahabr.ru/company/paysto/blog/227313/
+
+Каждому по Landing Page. Наболевшее | https://habrahabr.ru/post/226969/
+
+Видеозаписи докладов конференции DesignLab | https://habrahabr.ru/company/rootuamedia/blog/226715/
+
+Порнотехнологии в расшаренных заметках Evernote или как не надо делать | https://habrahabr.ru/post/225989/
+
+Как научить игрока разобраться в вашем приложении, не сводя на нет работу художников, не обижая программистов и не считая игроков умственно отсталыми | https://habrahabr.ru/post/225651/
+
+Дэн Саффер — Микровзаимодействия (Microinteractions). Конспект книги | https://habrahabr.ru/post/225435/
+
+Чек-лист по юзабилити интернет-магазинов | https://habrahabr.ru/company/sibirix/blog/224627/
+
+Что не так с Google+ | https://habrahabr.ru/post/158115/
+
+Наш чек-лист для форм на сайтах | https://habrahabr.ru/company/sibirix/blog/223777/
+
+Как превратить Pale Moon в удобный браузер | https://habrahabr.ru/post/223383/
+
+Разработка через жалобы | https://habrahabr.ru/post/223165/
+
+Сравнение юзабилити современных браузеров со старой Оперой | https://habrahabr.ru/post/223065/
+
+Иной взгляд на оформление заказа в интернет-магазине | https://habrahabr.ru/post/219291/
+
+Обучающие видео по работе в Axure | https://habrahabr.ru/post/222521/
+
+ProfsoUX-2014 — видеозаписи и краткий обзор | https://habrahabr.ru/post/222415/
+
+Конференция по дизайну «DESIGN LAB» | https://habrahabr.ru/company/rootuamedia/blog/221845/
+
+Экспериментальный интерфейс с использованием скеоморфов | https://habrahabr.ru/post/221709/
+
+Сравнительный обзор BPM-систем | https://habrahabr.ru/post/221495/
+
+Три универсальных фильтра для проектирования user friendly структуры каталога | https://habrahabr.ru/post/221257/
+
+Пользователь пьян | https://habrahabr.ru/post/221375/
+
+Новые требования к паролям Стэнфордского университета: баланс между длиной и сложностью | https://habrahabr.ru/post/220949/
+
+Взгляд на мобильный Я.Видео | https://habrahabr.ru/post/219731/
+
+Коридорное тестирование: получаем быстрый фидбек по макетам | https://habrahabr.ru/post/219699/
+
+Ваш лучший друг, анонимус | https://habrahabr.ru/post/219523/
+
+Эпидемия онлайн-консультантов | https://habrahabr.ru/post/218421/
+
+Пора перестать сохранять | https://habrahabr.ru/post/218201/
+
+Психологическая составляющая скорости взаимодействия в мобильных интерфейсах | https://habrahabr.ru/post/218025/
+
+Впечатления о курсе Human-Computer Interaction на Coursera | https://habrahabr.ru/company/sobakapavlova/blog/218011/
+
+Хороший дизайн интерфейсов. Часть 3 | https://habrahabr.ru/company/UXDepot/blog/217455/
+
+Как посчитать время на проектирование интерфейсов интернет-магазина | https://habrahabr.ru/company/sobakapavlova/blog/217147/
+
+Этот пост написан автором, который не читает комментариев, пожалуйста, не пишите их | https://habrahabr.ru/post/214793/
+
+Новый интерфейс Яндекс.Диска. Как мы его делали и почему вообще этим занялись | https://habrahabr.ru/company/yandex/blog/214679/
+
+Конференция ProfsoUX-2013 — обзор-классификация + видеозаписи | https://habrahabr.ru/post/214253/
+
+Идеальная страница 404 ошибки, или как удержать пользователя на сайте? | https://habrahabr.ru/post/213227/
+
+InstantClick: библиотека для улучшения отзывчивости сайта | https://habrahabr.ru/post/211979/
+
+Какие «хлебные крошки» нужны интернет-магазинам (68% сайтов допускают ошибки)? | https://habrahabr.ru/post/211767/
+
+Как измерить интерфейс. Количественный критерий | https://habrahabr.ru/post/166329/
+
+Как бы вы искали подрядчика на проектирование и дизайн интерфейсов? | https://habrahabr.ru/post/210700/
+
+Командная работа над интерфейсами | https://habrahabr.ru/company/UXDepot/blog/209742/
+
+Изменяй, но проверяй: роль веб-аналитики в проектировании интерфейсов | https://habrahabr.ru/post/209592/
+
+Разбираем интерфейсные детали на примере одного мобильного клиента такси | https://habrahabr.ru/post/209490/
+
+Авторизация с помощью QR | https://habrahabr.ru/post/207358/
+
+Помогите сделать наши продукты лучше | https://habrahabr.ru/company/megafon/blog/207502/
+
+Проектируем удобный почтовый клиент | https://habrahabr.ru/post/206622/
+
+Вышла из беты Axure RP PRO 7 | https://habrahabr.ru/post/206574/
+
+Интерактивный прототип в Axure за 20 минут | https://habrahabr.ru/post/205450/
+
+Проектировщик — менеджер проекта. Реальность или утопия? | https://habrahabr.ru/post/205294/
+
+Design Camp — обновление программы и мини-конкурс для Хабра | https://habrahabr.ru/company/microsoft/blog/204926/
+
+Исповедь проектировщика. Принципы работы с клиентами | https://habrahabr.ru/post/205012/
+
+10 смертных грехов при использовании всплывающих окон на сайте | https://habrahabr.ru/post/204936/
+
+Вебинар «User Experience in an Agile Process — When the Real World Comes Knocking» от датского дизайнера интерфейсов Trifork A/S Янне Юл Янсен | https://habrahabr.ru/company/luxoft/blog/204630/
+
+Как пользователи взаимодействуют с мобильными устройствами | https://habrahabr.ru/post/204164/
+
+Идеальная корзина интернет-магазина | https://habrahabr.ru/post/203912/
+
+Обзор мобильного приложения «Ostrovok» для платформы Android | https://habrahabr.ru/company/google/blog/203846/
+
+Путь от идеи до макета. Размышляя о концепции продукта | https://habrahabr.ru/post/199200/
+
+Разбираем интерфейсные детали-ошибки на примере одного банковского клиента | https://habrahabr.ru/post/203432/
+
+ГОСТ по юзабилити | https://habrahabr.ru/post/203308/
+
+Карандаш и бумага vs программные средства для проектирования | https://habrahabr.ru/company/luxoft/blog/203086/
+
+Как я сходил на World Usability Day | https://habrahabr.ru/post/202490/
+
+Мне кажется, что софтварный ад уже близко… | https://habrahabr.ru/post/202146/
+
+Тостер. Userstyle. Update | https://habrahabr.ru/post/202000/
+
+Приглашаем на World Usability Day 2013 | https://habrahabr.ru/company/mailru/blog/201718/
+
+Wi-Fi Маяк — альтернатива QR-кодам? | https://habrahabr.ru/company/intel/blog/201112/
+
+Ввод периода: хватит терроризировать пользователей | https://habrahabr.ru/post/192116/
+
+Борьба с изобилием: usability форм фильтрации | https://habrahabr.ru/post/200798/
+
+Юзабилити фудкорта | https://habrahabr.ru/post/200076/
+
+Тыльная сторона айсберга или как изменился PayPal с точки зрения рядового пользователя | https://habrahabr.ru/post/199408/
+
+Юзабилити посадочного талона: как спасти две человеческие жизни в год | https://habrahabr.ru/post/198896/
+
+12 основных принципов NUI дизайна | https://habrahabr.ru/post/198936/
+
+Анимация в интерфейсах | https://habrahabr.ru/post/198826/
+
+ПсUXотерапия | https://habrahabr.ru/company/uidesign/blog/198378/
+
+Тёмные паттерны: интерфейсы, предназначенные для обмана | https://habrahabr.ru/post/198044/
+
+Метрика #25 — Подкаст о технологиях, продуктах и сервисах из мира ИТ | https://habrahabr.ru/company/uidesign/blog/197058/
+
+Схемы рецептов для кухни пиццерии. Процесс, тестирование, инструкция к схемам | https://habrahabr.ru/post/196628/
+
+Выбор номинала купюр в банкоматах | https://habrahabr.ru/post/196606/
+
+Юзабилити: Ошибка подмены значения или чем плоха встроенная звонилка Android | https://habrahabr.ru/post/195572/
+
+Редизайн Twitter приложения для iOS7, но глобальные изменения ещё впереди | https://habrahabr.ru/post/194992/
+
+Обзор мобильного приложения auto.ru для платформы Android | https://habrahabr.ru/company/google/blog/193072/
+
+Реализация сайта реестра запрещённых сайтов: опять двадцать пять! | https://habrahabr.ru/post/192592/
+
+Общая психология: usability | https://habrahabr.ru/post/190286/
+
+Юзабилити: прямо здесь и сейчас | https://habrahabr.ru/company/skbkontur/blog/189916/
+
+Байк Москвы | https://habrahabr.ru/post/189662/
+
+И еще один пост про Flat Design, или почему все «кинулись» делать плоские интерфейсы | https://habrahabr.ru/post/188568/
+
+Анимация логотипа сайта | https://habrahabr.ru/post/188266/
+
+Новый курс на Udacity: «Дизайн привычных вещей» Дональда Нормана | https://habrahabr.ru/post/187860/
+
+Обзор мобильного приложения @to Music для платформы Android | https://habrahabr.ru/company/google/blog/187186/
+
+Компьютерные интерфейсы в кино | https://habrahabr.ru/post/187332/
+
+Юзабилити-лаборатория: опыты на людях и для людей | https://habrahabr.ru/company/mailru/blog/187420/
+
+Как Google убивает органический поиск | https://habrahabr.ru/post/185284/
+
+Критический обзор Исследования обеспечения доступности Интернет-ресурсов Рунета | https://habrahabr.ru/post/185032/
+
+Об особенностях расположения элементов управления в мобильных приложениях | https://habrahabr.ru/post/184596/
+
+Обзор мобильного приложения «ЖД билеты» для платформы Android | https://habrahabr.ru/company/google/blog/182400/
+
+Слайды в iOS 7 | https://habrahabr.ru/post/183246/
+
+Организационные принципы при проектировании сайтов | https://habrahabr.ru/company/SECL_GROUP/blog/182078/
+
+Рисуем четкую иконку дома в 32x32 (аля FatCow) | https://habrahabr.ru/post/158483/
+
+Поворачиваем Google Search к нам лицом | https://habrahabr.ru/post/179367/
+
+Usability чеклист | https://habrahabr.ru/post/178867/
+
+Usability: пусть ваша мама попробует | https://habrahabr.ru/post/178649/
+
+Серьезное проектирование серьезных сайтов. Часть 1. Аналитика | https://habrahabr.ru/company/SECL_GROUP/blog/177967/
+
+Отзывы, или как мы налаживали обратную связь | https://habrahabr.ru/company/docdoc/blog/177681/
+
+Прямой эфир: продолжаем смотреть лекции по шрифту | https://habrahabr.ru/post/177367/
+
+Прямая трансляция: практический курс по шрифту. Цикл лекций. Лекция №2 | https://habrahabr.ru/post/176769/
+
+Прежде всего, не навреди или три правила создания общественных интерфейсов | https://habrahabr.ru/post/176593/
+
+Три самые ненавистные вещи в компьютерах | https://habrahabr.ru/post/176571/
+
+Прямо сейчас идет лекция «Практический курс по шрифту» | https://habrahabr.ru/post/176551/
+
+Как отключить услугу в «Мегафоне»: гид по «Сервис-гиду» | https://habrahabr.ru/post/175951/
+
+Повышение юзабилити на 1000% или «paper prototyping» | https://habrahabr.ru/post/175143/
+
+Прототипирование главной страницы статей flamp.ru | https://habrahabr.ru/post/174873/
+
+Юзабилити Facebook. Часть 2: Facebook для людей | https://habrahabr.ru/post/174909/
+
+Юзабилити Facebook. Часть 1: Масштабы бедствия | https://habrahabr.ru/post/174625/
+
+Minuum — универсальная одномерная клавиатура | https://habrahabr.ru/post/173403/
+
+Кроссбраузерные закладки | https://habrahabr.ru/post/172791/
+
+Главные особенности китайского веб-дизайна и их истоки | https://habrahabr.ru/post/172717/
+
+Leap Motion. Впечатления | https://habrahabr.ru/post/172351/
+
+5 секретов хорошего интерфейса. Личный опыт | https://habrahabr.ru/post/171819/
+
+Подводная часть айсберга: примирение целей бизнеса и желаний потребителя | https://habrahabr.ru/company/uidesign/blog/171675/
+
+Как улучшить «Windows 8». Частное мнение | https://habrahabr.ru/post/169419/
+
+Leap Motion. Распаковка и небольшой обзор | https://habrahabr.ru/post/169043/
+
+Design Camp: как это было | https://habrahabr.ru/company/microsoft/blog/166475/
+
+Первая бытовая техника | https://habrahabr.ru/post/168709/
+
+Схема студии Лебедева выбрана в качестве новой карты московского метро | https://habrahabr.ru/post/167859/
+
+Хватит неправильно использовать выпадающие списки | https://habrahabr.ru/post/167219/
+
+Иконкомания или боязнь неиспользования иконок | https://habrahabr.ru/post/166723/
+
+А которая схема московского метро кажется лучшею читателям Хабрахабра? | https://habrahabr.ru/post/166687/
+
+Конкурс на лучшую схему московского метрополитена | https://habrahabr.ru/post/166597/
+
+Юзабилити-хинт: полоса прокрутки на странице с комментариями должна отображать реальное положение в тексте | https://habrahabr.ru/post/166439/
+
+Intel поможет Стивену Хокингу говорить быстрее | https://habrahabr.ru/post/166403/
+
+4 принципа UX, про которые забыла Microsoft в Windows 8 | https://habrahabr.ru/post/166389/
+
+Создание интерактивного прототипа с Fireworks и TAP (touch application prototyping) | https://habrahabr.ru/post/165221/
+
+Психологический тест для оценки IT-продукта, или в чем Habrahabr уступает Facebook | https://habrahabr.ru/post/165797/
+
+Найти идею: идеальность объекта | https://habrahabr.ru/post/165719/
+
+Проектирование приложений: как стать ближе к пользователю? | https://habrahabr.ru/company/microsoft/blog/164233/
+
+«Не говорите мне, куда мне идти», — ваш пользователь | https://habrahabr.ru/company/microsoft/blog/163695/
+
+Валидация форм с почтовыми адресами — не забывайте про Гонконг | https://habrahabr.ru/post/163081/
+
+Online-трансляция: самая женская конференция Microsoft | https://habrahabr.ru/company/microsoft/blog/162443/
+
+Видео: Мама впервые тестирует Windows 8, Ubuntu 12.10, Windows 1.0, Windows 3.1, Linux Mint Cinnamon 14, OSX 10.2, Elementary OS Luna, Kubuntu, Zorin OS 6.1, MS-DOS 6.22 и Microsoft Bob! | https://habrahabr.ru/post/161879/
+
+Дорабатываем Windows 8 напильником | https://habrahabr.ru/post/161281/
+
+Что не так с Windows 8 | https://habrahabr.ru/post/157331/
+
+Design Camp — первая дизайнерская конференция Microsoft в России + Зимняя школа по дизайну для Windows 8 | https://habrahabr.ru/company/microsoft/blog/161077/
+
+Стирая границы | https://habrahabr.ru/post/159727/
+
+Контентный ресурс: фиксированная вёрстка лучше | https://habrahabr.ru/post/159535/
+
+Удобный интерфейс Хабра? | https://habrahabr.ru/post/159401/
+
+Про пользовательский интерфейс и одну кнопку мыши | https://habrahabr.ru/post/158113/
+
+Универсальность vs. юзабилити | https://habrahabr.ru/post/157593/
+
+Замедляем выполнение запросов в PostgreSQL | https://habrahabr.ru/post/157505/
+
+Лучшие способы скрытия пароля при регистрации | https://habrahabr.ru/post/157071/
+
+Комфортная работа с Юникодом | https://habrahabr.ru/post/156953/
+
+Лучший интерфейс — отсутствие интерфейса | https://habrahabr.ru/post/156473/
+
+Линус Торвальдс предлагает 2560х1600 как новый стандарт для ноутбуков | https://habrahabr.ru/post/156831/
+
+Новый аккуратный трёхпанельный интерфейс Яндекс.Почты для деловой переписки | https://habrahabr.ru/company/yandex/blog/156107/
+
+Рекомендации по интерфейсу форм | https://habrahabr.ru/post/155213/
+
+Финансовая статистика об интерфейсах | https://habrahabr.ru/post/155117/
+
+Как я в армии в Warcraft III играл | https://habrahabr.ru/post/154759/
+
+Корзина в интернет магазинах. Пара грубых ошибок | https://habrahabr.ru/post/153501/
+
+Якоб Нильсен :: Изменение дизайна главных страниц | https://habrahabr.ru/post/153447/
+
+Пользовательский опыт против нововведений в интерфейсах | https://habrahabr.ru/post/152629/
+
+Проектирование с помощью сторибордов | https://habrahabr.ru/post/152375/
+
+Зум окон | https://habrahabr.ru/post/151977/
+
+Смысл жизни программного обеспечения | https://habrahabr.ru/post/151754/
+
+Как выглядит современная юзабилити-лаборатория | https://habrahabr.ru/company/beeline/blog/151858/
+
+Все, что вы хотели знать о юзабилити, но боялись спросить | https://habrahabr.ru/company/itmozg/blog/151282/
+
+Причёсывание «Похожих постов» | https://habrahabr.ru/post/150954/
+
+Особенности проектирования тачевых интерфейсов | https://habrahabr.ru/post/150905/
+
+Мобильность образования | https://habrahabr.ru/post/150172/
+
+Сложные методы авторизации | https://habrahabr.ru/post/150187/
+
+Сравнение клиент-банков разных эпох | https://habrahabr.ru/post/150025/
+
+Проектирование интерфейсов для мобильных устройств: книжная и альбомная ориентации | https://habrahabr.ru/post/149508/
+
+Шаблоны проектирования: нарушать правила иногда бывает полезно | https://habrahabr.ru/post/149485/
+
+Читая ленту последних новостей на новостном сайте, который вы посещаете ежедневно, для вас принципиально наличие рядом с заголовком новости времени ее публикации? | https://habrahabr.ru/post/148885/
+
+User Experience и модель Кано | https://habrahabr.ru/post/148110/
+
+Как организовать юзабилити тестирование сайта? | https://habrahabr.ru/company/kidsreview/blog/147560/
+
+Новый подход к проектированию бесконтактных интерфейсов | https://habrahabr.ru/post/147475/
+
+Сохранение контактной информации с сайтов | https://habrahabr.ru/post/147126/
+
+20 заповедей дизайна пользовательского интерфейса | https://habrahabr.ru/post/147003/
+
+Диаграммы и графики: осмысляя Тафти | https://habrahabr.ru/post/146866/
+
+Вспомнить всё | https://habrahabr.ru/post/146629/
+
+Больше чем юзабилити: четыре составляющие User Experience | https://habrahabr.ru/post/146674/
+
+User-hostile interfaces | https://habrahabr.ru/post/146626/
+
+HexoInput — ни единого отрыва | https://habrahabr.ru/post/146533/
+
+В вашей операционной системе панель задач закреплена | https://habrahabr.ru/post/146553/
+
+Почему я не верю в 3D-карты | https://habrahabr.ru/post/146037/
+
+Web-интерфейсы без использования колесика мышки | https://habrahabr.ru/post/145463/
+
+Модификация курсорного блока на ноутбуке Lenovo Thinkpad | https://habrahabr.ru/post/144986/
+
+Ноутбучная клавиатура для работы с текстом, или в чем неправы Lenovo | https://habrahabr.ru/post/144926/
+
+Bump — естественный интерфейс простыми средствами | https://habrahabr.ru/post/144548/
+
+Предложение по улучшению: переводы | https://habrahabr.ru/post/144285/
+
+«Попробуй угадай», или за что получают деньги юзабилити специалисты | https://habrahabr.ru/post/144165/
+
+Бесконечный скролл, как сомнительное улучшение интерфейса | https://habrahabr.ru/post/143887/
+
+Конкурс на дизайн отображения новостной ленты Хабра | https://habrahabr.ru/post/143759/
+
+Обзор функциональности веб-интерфейсов электронной почты | https://habrahabr.ru/post/103449/
+
+Gimp 2.8 RC1. Практический взгляд | https://habrahabr.ru/post/142557/
+
+Вы действительно хотите использовать кнопку отмены в ваших приложениях? | https://habrahabr.ru/post/142244/
+
+Возможности альянса Nokia и Microsoft | https://habrahabr.ru/post/141118/
+
+Mailcheck.js — проверка емейла на опечатки | https://habrahabr.ru/post/140870/
+
+Почему я не люблю AJAX-автоподгрузку и предпочитаю ссылки с номерами страниц | https://habrahabr.ru/post/140781/
+
+Навигация по сайту: задачи и инструменты | https://habrahabr.ru/post/140259/
+
+Преимущество книги перед блогом или улучшаем свой блог | https://habrahabr.ru/post/128716/
+
+Дизайн как двигатель инноваций | https://habrahabr.ru/company/usabilitylab/blog/76516/
+

@@ -1,0 +1,52 @@
+Разбираемся, что же там нового открыли в задаче о ферзях | https://habrahabr.ru/post/343738/
+
+Шесть парадигм программирования, которые изменят ваш взгляд на код | https://habrahabr.ru/company/everydaytools/blog/327898/
+
+Профессиональное программирование для систем искусственного интеллекта на языке PROLOG | https://habrahabr.ru/post/277229/
+
+Парсинг на языке Prolog | https://habrahabr.ru/post/274799/
+
+PROLOG для программистов | https://habrahabr.ru/post/274603/
+
+Пролог – декларативный язык, способный решать любые ребусы и доказывать теоремы | https://habrahabr.ru/post/254133/
+
+Унификация и поиск с возвратом на C# | https://habrahabr.ru/post/248847/
+
+Решение задачи «AAAAAA» с Facebook Hacker Cup методом динамического программирования на B-Prolog | https://habrahabr.ru/post/246657/
+
+Настраиваем редактор исходных текстов SWI-Prolog (XPCE Emacs) для пользователя, не знакомого с клавиатурными комбинациями Emacs | https://habrahabr.ru/post/244055/
+
+Разговорный бот на php+prolog | https://habrahabr.ru/post/205418/
+
+Делаем Refal на Prolog. Магия в семь строк | https://habrahabr.ru/post/198972/
+
+Как объяснить своей младшей сестре (9 лет) принципы логического программирования? | https://habrahabr.ru/post/161233/
+
+Prolog — грамматический разбор и языковые проблемы | https://habrahabr.ru/post/136742/
+
+Prolog. Программируем автоматы | https://habrahabr.ru/post/136670/
+
+Задача Прима-Краскала на языке Пролог | https://habrahabr.ru/post/130273/
+
+Prolog — примеры использования (Часть 2) | https://habrahabr.ru/post/124820/
+
+Prolog — удивительный язык программирования | https://habrahabr.ru/post/124636/
+
+Задача Эйнштейна на Mercury | https://habrahabr.ru/post/122147/
+
+Задача Эйнштейна на Прологе | https://habrahabr.ru/post/122142/
+
+Пролог: База фактов из CSV файла | https://habrahabr.ru/post/112137/
+
+Еще о парсинге на Prolog'е | https://habrahabr.ru/post/60430/
+
+Японская версия головоломки «Волк, коза и капуста» на прологе | https://habrahabr.ru/post/51997/
+
+RE: Занимательная задачка | https://habrahabr.ru/post/51644/
+
+Правильность скобочной структуры, prolog | https://habrahabr.ru/post/50693/
+
+Prolog, введение | https://habrahabr.ru/post/49399/
+
+Немного о Prolog'е | https://habrahabr.ru/post/47416/
+

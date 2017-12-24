@@ -1,0 +1,290 @@
+Приглашаем на конференцию DotNext | https://habrahabr.ru/company/microsoft/blog/283238/
+
+О приложениях UWP для разработчиков WPF | https://habrahabr.ru/post/270781/
+
+Правильное оперирование XAML-ресурсами | https://habrahabr.ru/post/249819/
+
+Как получить удобный доступ к XAML-ресурсам из Code-Behind | https://habrahabr.ru/post/249105/
+
+Обновляем Windows Phone Silverlight 8.0 приложение до Windows Phone Silverlight 8.1 | https://habrahabr.ru/company/microsoft/blog/230015/
+
+WCF RIA Services. Внедряем паттерн Model-View-ViewModel (MVVM). Часть 4 | https://habrahabr.ru/post/215321/
+
+WCF RIA Services. Обновление данных. Часть 3 | https://habrahabr.ru/post/207054/
+
+WCF RIA Services. Получение данных. Часть 2 | https://habrahabr.ru/post/205236/
+
+WCF RIA Services. Начало. Часть 1 | https://habrahabr.ru/post/203820/
+
+Как мы приложение с Silverlight на Windows 8 портировали | https://habrahabr.ru/company/enterra/blog/165285/
+
+Silverlight. Практическое руководство | https://habrahabr.ru/company/piter/blog/154529/
+
+Упрощение регистрации и работы с DependencyProperty | https://habrahabr.ru/post/149835/
+
+XAML: Вложенные конвертеры | https://habrahabr.ru/company/tinkoff/blog/149177/
+
+Доступ к картинкам в изолированном хранилище | https://habrahabr.ru/post/146581/
+
+Создание Attached Property для BusyIndicator шаг за шагом | https://habrahabr.ru/post/142127/
+
+Автоматический BusyIndicator для асинхронных операций и не только | https://habrahabr.ru/post/141731/
+
+Доступ к буферу обмена операционной системы из веб-приложения | https://habrahabr.ru/post/137341/
+
+Загрузчик изображений. Закрывая тему | https://habrahabr.ru/post/135481/
+
+Silverlight 5 Released! | https://habrahabr.ru/post/134348/
+
+Microsoft может закрыть разработку Silverlight после следующего релиза | https://habrahabr.ru/post/132298/
+
+Внедрение кода в Silverlight | https://habrahabr.ru/post/128189/
+
+Silverlight cookbook: drag & drop recipe | https://habrahabr.ru/post/125592/
+
+Игровой цикл в Silverlight | https://habrahabr.ru/post/125037/
+
+Электродневник | https://habrahabr.ru/post/124389/
+
+Автоматизация локализации в Silverlight при помощи макросов Visual Studio | https://habrahabr.ru/post/116988/
+
+Silverlight + Augmented reality + Shaders | https://habrahabr.ru/post/111178/
+
+Почему тормозит Silverlight? | https://habrahabr.ru/post/110398/
+
+Silverlight 4 in Action | https://habrahabr.ru/post/110334/
+
+Верхом на… сетевом пакете | https://habrahabr.ru/post/110300/
+
+Сервелат, анимация и старый добрый code-behind | https://habrahabr.ru/post/109261/
+
+Через 1.5 часа будет представлена будущая версия Silverlight | https://habrahabr.ru/post/109253/
+
+Managed Extensibility Framework (MEF) как полигон для экспериментов | https://habrahabr.ru/post/107919/
+
+Silverlight, HTML5 и непрозрачная стратегия развития Microsoft | https://habrahabr.ru/post/107551/
+
+Миграция Silverlight приложений с Prism 2.2 на Prism 4 MEF edition | https://habrahabr.ru/post/106726/
+
+Использование Managed Extensibility Framework (MEF) для разработки модульных Silverlight приложений | https://habrahabr.ru/post/106486/
+
+Используем NLog 2.0 в Silverlight или как я стал опенсорсником | https://habrahabr.ru/post/105889/
+
+Новая MSN.Музыка с Billboard – использование всех возможностей Silverlight | https://habrahabr.ru/post/104273/
+
+SRS Labs и Microsoft представляют поддержку звукового формата 5.1 для Silverlight | https://habrahabr.ru/post/103949/
+
+Выпущено обновление Silverlight 4.0 | https://habrahabr.ru/post/103315/
+
+Обзор безопасности Silverlight 4 приложений. Часть 2 | https://habrahabr.ru/post/99557/
+
+Xaps Minifier. Дополнение для Visual Studio 2010, позволяющее уменьшать размер Silverlight приложений | https://habrahabr.ru/post/98939/
+
+Создание и настройка WCF сервиса в Silverlight 4 приложении | https://habrahabr.ru/post/99464/
+
+Создаем за 10 минут PivotViewer контента сайта на примере Хабрахабр | https://habrahabr.ru/post/99371/
+
+Быстрые шаги по отображению данных в PivotViewer и Silverlight | https://habrahabr.ru/post/99174/
+
+Обзор безопасности Silverlight 4 приложений. Часть 1 | https://habrahabr.ru/post/99079/
+
+Как создать свое приложение для Мой мир@Mail.ru на Silverlight 4 за 10 минут | https://habrahabr.ru/post/98792/
+
+Обзор элемента PivotViewer для Silverlight | https://habrahabr.ru/post/98215/
+
+Первая в истории живая трансляция 3D-видео гонок NASCAR с помощью Silverlight | https://habrahabr.ru/post/97814/
+
+Как добавить в GAC сборку Silverlight | https://habrahabr.ru/post/97547/
+
+Онлайн-доклады по Silverlight 4 на русском языке | https://habrahabr.ru/post/96085/
+
+Как сделать морской бой онлайн на Silverlight 4 (подробная статья) | https://habrahabr.ru/post/95054/
+
+Хроника победы – интерактивные архивы ИТАР-ТАСС | https://habrahabr.ru/post/92915/
+
+Silverlight 4: ресурсы для загрузки | https://habrahabr.ru/post/91121/
+
+Локализация в Silverlight | https://habrahabr.ru/post/87450/
+
+Silverlight в ТV, BluRay и других устройствах представят на конференции NAB 2010 | https://habrahabr.ru/post/90476/
+
+Запуск Silverlight 4 состоится 13 апреля | https://habrahabr.ru/post/90340/
+
+Реализация VNC клиента | https://habrahabr.ru/post/88594/
+
+Различия между Silverlight на Windows и Windows Phone | https://habrahabr.ru/post/88182/
+
+Создаем Twitter приложение для Windows Phone 7 | https://habrahabr.ru/post/88143/
+
+Что я почерпнул для себя из Microsoft MIX 2010? (взгляд Flash-разработчика) | https://habrahabr.ru/post/87999/
+
+Free Silverlight 4 Training Kit | https://habrahabr.ru/post/87781/
+
+Программируем Reversi на Silverlight | https://habrahabr.ru/post/87426/
+
+VS2010RC + Silverlight 4 = Работаем дружно! | https://habrahabr.ru/post/85397/
+
+MSN Россия на Silverlight – Олимпиада, заказ фото… | https://habrahabr.ru/post/84855/
+
+Игры и SDK на Silverlight для МойМир@Mail.Ru | https://habrahabr.ru/post/84718/
+
+Shidonni – детское творчество и воображение на Silverlight | https://habrahabr.ru/post/81471/
+
+Минимизируем “дизайнерский след” | https://habrahabr.ru/post/80741/
+
+Silverlight установлен на 50% компьютеров! | https://habrahabr.ru/post/80497/
+
+Smooth Streaming в Silverlight | https://habrahabr.ru/post/80356/
+
+Проигрывание FLV в Silverlight — Для чего это нужно | https://habrahabr.ru/post/80264/
+
+Используем Farseer Physics Engine в Silverlight | https://habrahabr.ru/post/79119/
+
+Дополненная реальность + 3D на Silverlight | https://habrahabr.ru/post/78696/
+
+Проект Rosetta | https://habrahabr.ru/post/78626/
+
+Новогодние открытки на базе COLOURLovers.com | https://habrahabr.ru/post/78582/
+
+Silverlight 4 примеры с PDC Keynote | https://habrahabr.ru/post/78555/
+
+Запущены виртуальные DVD! | https://habrahabr.ru/post/78522/
+
+Webcam → Pixel Shaders → Fun | https://habrahabr.ru/post/77654/
+
+Секреты и техника качественного эффекта листания страниц | https://habrahabr.ru/post/76768/
+
+Sketch Flow — небольшое практическое использование | https://habrahabr.ru/post/76263/
+
+Silverlight 4: Легкий обзор по работе с веб-камерой | https://habrahabr.ru/post/75912/
+
+Подробный обзор нововведений Silverlight 4 | https://habrahabr.ru/post/75839/
+
+Работа с веб камерой и микрофоном в Silverlight 4 | https://habrahabr.ru/post/75744/
+
+Silverlight 4 Beta уже доступна. Что внутри? | https://habrahabr.ru/post/75735/
+
+Silverlight 4: NotificationWindow | https://habrahabr.ru/post/75727/
+
+Silverlight и кодировки | https://habrahabr.ru/post/75531/
+
+Station.ru – онлайн-радио вне браузера на Silverlight | https://habrahabr.ru/post/75356/
+
+SilverX — конвертация flash в проекты silverlight | https://habrahabr.ru/post/74031/
+
+Intel поддержит Silverlight на платформе Moblin | https://habrahabr.ru/post/70484/
+
+Бизнес-приложения для Silverlight 3 и .NET RIA сервисов. Часть 1: Навигация | https://habrahabr.ru/post/67458/
+
+Проигрывание Youtube HD в Silverlight | https://habrahabr.ru/post/66614/
+
+Flex 3 vs. Silverlight 3 в Enterprise разработке | https://habrahabr.ru/post/66047/
+
+Открыт Seadragon.com — хостинг гигапиксельных изображений | https://habrahabr.ru/post/65829/
+
+Google Wave подружили с Silverlight | https://habrahabr.ru/post/65191/
+
+Windows4all — online virtual operating system | https://habrahabr.ru/post/65059/
+
+Карта Мира на XAML | https://habrahabr.ru/post/64911/
+
+Физический движок для Silverlight + отличные демо | https://habrahabr.ru/post/64675/
+
+$10000 за лучшее приложение на Silverlight | https://habrahabr.ru/post/64501/
+
+10 гигабайт под Silverlight-приложения бесплатно! | https://habrahabr.ru/post/64300/
+
+Silverlight 3 официально вышел в России | https://habrahabr.ru/post/64082/
+
+Логирование по-быстрому | https://habrahabr.ru/post/64062/
+
+Первая всемирная трансляция через Live Smooth Streaming | https://habrahabr.ru/post/63814/
+
+Объявлены даты выхода Silverlight 3 и Expression Studio 3 | https://habrahabr.ru/post/60810/
+
+Шейдеры и немного магии | https://habrahabr.ru/post/60000/
+
+Онлайн-доклады по Silverlight 3 и Expression 3 | https://habrahabr.ru/post/59931/
+
+Вышел Moonlight 2.0 preview 1 | https://habrahabr.ru/post/58893/
+
+Первый взгляд: Silverlight 3 – бесплатная книга | https://habrahabr.ru/post/58343/
+
+Webby Awards использует Silverlight | https://habrahabr.ru/post/58336/
+
+Наша Russia на Silverlight – RuTube сделал площадку Smooth Streaming | https://habrahabr.ru/post/57921/
+
+Вышел первый выпуск Бюллетеня Сильверлайтера | https://habrahabr.ru/post/56724/
+
+XAML Power Toys | https://habrahabr.ru/post/55342/
+
+Silverlight 3 Beta – все ссылки и возможности | https://habrahabr.ru/post/54973/
+
+Разработка Silverlight на Mac | https://habrahabr.ru/post/54878/
+
+Создаем Silverlight-приложение для сети Мой Мир@Mail.Ru | https://habrahabr.ru/post/52695/
+
+Бибигоша – детский виртуальный мир на Silverlight 2 | https://habrahabr.ru/post/52087/
+
+Fake eJay (часть №1) | https://habrahabr.ru/post/49146/
+
+Курс по Silverlight от MIT | https://habrahabr.ru/post/48926/
+
+Ресурсы по Silverlight на русском – на новогодние праздники :) | https://habrahabr.ru/post/48113/
+
+Доступна бесплатная книга “Введение в Microsoft Silverlight 2” | https://habrahabr.ru/post/47825/
+
+Изображения? Изображения! | https://habrahabr.ru/post/47699/
+
+Silverlight 2: Проба пера | https://habrahabr.ru/post/47692/
+
+Предложите новые возможности в Silverlight | https://habrahabr.ru/post/47653/
+
+Silverlight Viewer для Photosynth | https://habrahabr.ru/post/46911/
+
+Silverlight 2. Интеграция с HTML и JavaScript | https://habrahabr.ru/post/46501/
+
+Silverlight & псевдо-анимированные изображения. | https://habrahabr.ru/post/46197/
+
+Vogue — модный Deep Zoom | https://habrahabr.ru/post/45075/
+
+Deep Zoom и карты от Яндекс, Microsoft и Google | https://habrahabr.ru/post/44872/
+
+Первая публичная информация про Silverlight 3 | https://habrahabr.ru/post/44822/
+
+Доступен Silverlight Toolkit | https://habrahabr.ru/post/43524/
+
+Silverlight 2 выйдет 14 октября, Silverlight уже сейчас установлен у каждого четвертого | https://habrahabr.ru/post/42206/
+
+Бесплатная разработка на Silverlight | https://habrahabr.ru/post/41833/
+
+Хромированный Silverlight | https://habrahabr.ru/post/40495/
+
+SilverlightDraw 1.0a — Аналог Canvas из WinForms | https://habrahabr.ru/post/39398/
+
+Silverlight File Upload Progress | https://habrahabr.ru/post/38296/
+
+Смотрим Олимпиаду и разгадываем паззлы | https://habrahabr.ru/post/36971/
+
+Silverlight 2 подружился с Firefox 3 | https://habrahabr.ru/post/29287/
+
+Ресурсы по Silverlight и Expression на русском | https://habrahabr.ru/post/28753/
+
+Папа скажи, а техник-дизайнер на Silverlight существует? Нет сынок, это фантастика… | https://habrahabr.ru/post/28638/
+
+Возможности и сроки Silverlight 2 Beta2 | https://habrahabr.ru/post/26744/
+
+50 обучающих скринкастов по Silverlight 2 Beta1 | https://habrahabr.ru/post/25689/
+
+Хоккейный финал Россия — Канада — на Silverlight | https://habrahabr.ru/post/25661/
+
+Первый выпуск проекта Moonlight | https://habrahabr.ru/post/25473/
+
+Больница на Silverlight — это не только реально, но и красиво | https://habrahabr.ru/post/25053/
+
+Раскладки в Silverlight2 | https://habrahabr.ru/post/24022/
+
+Hello, silverlight! | https://habrahabr.ru/post/22642/
+
+Silverlight 2.0 — с чего начать? | https://habrahabr.ru/post/22535/
+

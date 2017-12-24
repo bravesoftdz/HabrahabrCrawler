@@ -1,0 +1,2080 @@
+Отображение переменных окружения в Redis | https://habrahabr.ru/post/344766/
+
+Строгая типизация в нестрогих тестах | https://habrahabr.ru/post/343720/
+
+Боремся со сверхинтеллектом Postgresql средствами Postgresql | https://habrahabr.ru/post/343686/
+
+Парсер на PHP-коленке или как я свою музыкальную коллекцию пополнял | https://habrahabr.ru/post/343294/
+
+Первый HighLoad Cup: как мы это пережили | https://habrahabr.ru/company/mailru/blog/343032/
+
+fiber — легковесные процессы для Arduino | https://habrahabr.ru/post/342908/
+
+Сказ про резисторы и неонки | https://habrahabr.ru/post/341328/
+
+«Hello, World!» для начинающих литераторов | https://habrahabr.ru/post/342512/
+
+Инстанцируем java.lang.Class | https://habrahabr.ru/post/341930/
+
+CI: непрерывная интеграция за 5 минут | https://habrahabr.ru/post/341818/
+
+Бестиарий С++. Справочник по загадочным персонажам | https://habrahabr.ru/company/mailru/blog/341584/
+
+Perfect shuffle | https://habrahabr.ru/post/340964/
+
+Не путайте разработку ПО и программирование | https://habrahabr.ru/company/alconost/blog/341304/
+
+Реализация «Тетриса» в игре «Жизнь» | https://habrahabr.ru/post/338584/
+
+Выключение PC в любой точке мира (JAVA) | https://habrahabr.ru/post/341280/
+
+Vim спустя 15 лет | https://habrahabr.ru/company/mailru/blog/340740/
+
+Модули вместо микросервисов | https://habrahabr.ru/post/340898/
+
+Создание платформера для виртуальной консоли TIC-80 | https://habrahabr.ru/post/340502/
+
+Каррирование и частичное применение на C++14 | https://habrahabr.ru/post/340722/
+
+Путешествие из Москвы в Казань через Санкт-Петербург или процесс разработки алгоритма поиска всех путей | https://habrahabr.ru/post/340646/
+
+Универсальный адаптер | https://habrahabr.ru/post/340314/
+
+Самые неординарные языки программирования | https://habrahabr.ru/company/ua-hosting/blog/339304/
+
+Злой XML с двумя кодировками | https://habrahabr.ru/post/340000/
+
+Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% | https://habrahabr.ru/post/339938/
+
+GoToChain: как школьники блокчейн в деревне писали | https://habrahabr.ru/company/goto/blog/339796/
+
+Объединяем Websockets, Lisp и функциональное программирование | https://habrahabr.ru/post/339628/
+
+Чему я научился, написав чат-бота за 2 часа | https://habrahabr.ru/company/alconost/blog/339374/
+
+Реверс-инжиниринг первых умных часов Seiko UC-2000 | https://habrahabr.ru/post/338116/
+
+Зачем мне гибкость Python, если мне запрещают ей пользоваться? | https://habrahabr.ru/post/339272/
+
+t1ha = Fast Positive Hash | https://habrahabr.ru/post/339160/
+
+Когда переменная bool не true и не false одновременно | https://habrahabr.ru/post/338898/
+
+Как может вызваться никогда не вызываемая функция? | https://habrahabr.ru/company/infopulse/blog/338812/
+
+Дайджест KolibriOS #13 | https://habrahabr.ru/post/338602/
+
+Мои 5 копеек про Highload Cup 2017 или история 9го места | https://habrahabr.ru/post/337854/
+
+История 13 места на Highload Cup 2017 | https://habrahabr.ru/post/337710/
+
+От Торонто до Томска: подведение итогов и планирование будущих семинаров по микроэлектронике в России | https://habrahabr.ru/post/337702/
+
+Эзотерический язык, транслирующийся в шаблоны C++ | https://habrahabr.ru/post/337590/
+
+Считаем до трёх: четыре | https://habrahabr.ru/post/337606/
+
+Что за чёрт, Python | https://habrahabr.ru/company/mailru/blog/337364/
+
+RustGo: вызов Rust из Go с почти нулевым оверхедом | https://habrahabr.ru/post/337348/
+
+Пишем и парсим на ассемблере MCS-51, как на Бейсике | https://habrahabr.ru/post/337168/
+
+Процессы Подстановки | https://habrahabr.ru/post/336982/
+
+Пятничный JS: reqyire.js и очепятко-ориентированное программирование | https://habrahabr.ru/post/336906/
+
+256 байт intro «Springs» для компьютера Vectrex | https://habrahabr.ru/post/336784/
+
+Игры для программистов, часть вторая | https://habrahabr.ru/post/336364/
+
+Тьюринг-полнота Generic типов Java | https://habrahabr.ru/post/330724/
+
+«Магическая константа» 0x5f3759df | https://habrahabr.ru/company/infopulse/blog/336110/
+
+Эмулятор в эмуляторе для проигрывания чиптюн-мелодий на YM2149F | https://habrahabr.ru/post/335508/
+
+Что за черт, Javascript | https://habrahabr.ru/company/mailru/blog/335292/
+
+Построение рекомендаций для сайта вакансий. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/335526/
+
+Немного про «ашипки» в программном обеспечении и помощь теории конечного автомата | https://habrahabr.ru/post/335544/
+
+Лекция Владимира Игловикова на тренировке Яндекса по машинному обучению | https://habrahabr.ru/company/yandex/blog/335002/
+
+Скрытые послания в именах свойств JavaScript | https://habrahabr.ru/post/334980/
+
+Спасите самолет (задача со звездочкой) | https://habrahabr.ru/company/itsumma/blog/334884/
+
+Как скрестить ежа с ужом. Используем GridView из Yii 2 в проекте на Laravel | https://habrahabr.ru/post/334542/
+
+ICFP Contest 2017 — проверка на прочность для настоящих разработчиков | https://habrahabr.ru/company/skbkontur/blog/334324/
+
+Разбор задач финала Яндекс.Алгоритма 2017 | https://habrahabr.ru/company/yandex/blog/334250/
+
+Бот для Telegram за 48 часов на Perl или как купить кошачий корм не выходя из чата | https://habrahabr.ru/post/333586/
+
+Как создать виртуальную машину в Google Таблицах | https://habrahabr.ru/company/payonline/blog/319754/
+
+Рекомендация первого трека для стриминга. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/333440/
+
+Реверс-инжиниринг одной строчки JavaScript | https://habrahabr.ru/post/333372/
+
+Как мы упоролись и откалибровали кофе-машину на спектрофотометре | https://habrahabr.ru/post/331754/
+
+Ссылочная TCP/IP стеганография | https://habrahabr.ru/post/332962/
+
+Обработка многократно возникающих SIGSEGV-подобных ошибок | https://habrahabr.ru/post/332626/
+
+Исправляем баги в стиле 1988 года | https://habrahabr.ru/post/332586/
+
+Обобщённое копирование связных графов объектов в C# и нюансы их сериализации | https://habrahabr.ru/post/332516/
+
+Один бит сломал, другой потерял: задачка по передаче данных | https://habrahabr.ru/post/332134/
+
+Работа с гетерогенными контейнерами с C++17 | https://habrahabr.ru/post/332084/
+
+Изучите все языки программирования | https://habrahabr.ru/company/infopulse/blog/331934/
+
+A fistful of relays. Часть 4. Система команд или что можно уместить в 8 машинных инструкций? | https://habrahabr.ru/post/331208/
+
+Выстраиваем процесс разработки и CI pipeline, или Как разработчику стать DevOps для QA | https://habrahabr.ru/post/330366/
+
+Что такое диалоговые системы, или Кое-что об Элизе | https://habrahabr.ru/company/mipt/blog/330228/
+
+Когда 2 + 2 = «4» | https://habrahabr.ru/post/330176/
+
+Как поменьше беспокоиться о собственной бездарности | https://habrahabr.ru/company/alconost/blog/329954/
+
+Postgres и Пустота | https://habrahabr.ru/post/329856/
+
+Жизнь и удивительные приключения в экзотических JavaScript окружениях | https://habrahabr.ru/company/codabra/blog/329646/
+
+А пусть тесты сами себя и поддерживают | https://habrahabr.ru/post/329260/
+
+Функциональный Rust: Готовим говядину | https://habrahabr.ru/post/283450/
+
+Эволюция фрактальных монстров | https://habrahabr.ru/post/328568/
+
+Игры, в которых нужно писать код: Grid Garden, Elevator Saga и другие | https://habrahabr.ru/company/mailru/blog/328806/
+
+О том, как в Instagram отключили сборщик мусора Python и начали жить | https://habrahabr.ru/company/wunderfund/blog/328404/
+
+Создание JPEG из ниоткуда | https://habrahabr.ru/post/328652/
+
+Изменяемые свойства классов в питоне: польза для дела и мелкого хулиганства | https://habrahabr.ru/post/328234/
+
+Считаем до трёх: три | https://habrahabr.ru/post/328162/
+
+SimplePage: простой, декларативный фреймворк для быстрого прототипирования | https://habrahabr.ru/post/328002/
+
+Дерзкий telegram бот | https://habrahabr.ru/post/327586/
+
+Пятничный JS: единственно верный способ вычисления факториала | https://habrahabr.ru/post/327544/
+
+Лямбда-исчисление на JavaScript | https://habrahabr.ru/post/322052/
+
+Революция в JavaScript. Буквально | https://habrahabr.ru/post/324640/
+
+Кастование произвольного слайса, к слайсу интерфейсов | https://habrahabr.ru/post/327110/
+
+Баловство. Пишем Telegram бота на Google script | https://habrahabr.ru/post/326220/
+
+Тест на знание языка Си, найденный в первоапрельской шутке | https://habrahabr.ru/post/325880/
+
+Программисты жизни | https://habrahabr.ru/post/325778/
+
+Дайджест AI Cup. Пять стратегий Code Wizards 2016 | https://habrahabr.ru/company/mailru/blog/325050/
+
+Распознавание образов | https://habrahabr.ru/post/325400/
+
+Самоидентификация программиста | https://habrahabr.ru/post/325350/
+
+Генерируем оглавление для текста | https://habrahabr.ru/post/325224/
+
+Считаем до трёх: два | https://habrahabr.ru/post/324650/
+
+Ненормальное программирование: макрос-интерпретатор в Notepad++ | https://habrahabr.ru/post/324314/
+
+Аналог std::vector из C++11 на чистом C89 и как я его писал | https://habrahabr.ru/post/324210/
+
+Liscript — REPL боты онлайн | https://habrahabr.ru/post/324166/
+
+Уголовный кодекс разработчика | https://habrahabr.ru/post/324130/
+
+Windows Forth + | https://habrahabr.ru/post/324108/
+
+Считаем до трёх | https://habrahabr.ru/post/324062/
+
+Все программисты попадают в #ТАЙ | https://habrahabr.ru/company/netologyru/blog/323928/
+
+[NeoQuest2017] «МУЛЬТИПАСПОРТ!» и розовый скафандр | https://habrahabr.ru/post/323830/
+
+Идеальный каталог, вариант реализации | https://habrahabr.ru/post/323498/
+
+[NeoQuest2017] «В поиске землян» и не только… | https://habrahabr.ru/post/323778/
+
+Красиво «взламываем» ООП с помощью C++14 | https://habrahabr.ru/post/323412/
+
+Метарегулярные выражения на D | https://habrahabr.ru/post/323186/
+
+Идеальный каталог, набросок архитектуры | https://habrahabr.ru/post/322930/
+
+Простая реализация Stream из Java 8 в С++ | https://habrahabr.ru/post/322924/
+
+Запуск Doom на часах Samsung Gear S2 | https://habrahabr.ru/post/322664/
+
+Иммутабельные данные в С++. Часть 2 | https://habrahabr.ru/post/322450/
+
+Иммутабельные данные в C++ | https://habrahabr.ru/post/322208/
+
+Модификация стоковых прошивок для Android. Часть 5. Революция c Xposed Framework | https://habrahabr.ru/post/318202/
+
+Отвлеченно о входных/выходных аргументах | https://habrahabr.ru/post/321862/
+
+Секрет быстрого программирования: не задумывайтесь | https://habrahabr.ru/company/alconost/blog/321932/
+
+Как я разбирал docx с помощью XSLT | https://habrahabr.ru/company/intersystems/blog/321044/
+
+Хост контроллер 3D принтера в 16 строк на С++ | https://habrahabr.ru/post/321314/
+
+Visual C++ for Linux Development: Практика использования для Windows разработчиков | https://habrahabr.ru/post/321228/
+
+Пятничный JS: как вдохновиться Smalltalk'ом и попасть в ад | https://habrahabr.ru/post/321078/
+
+Нетрадиционная ориентация ООП | https://habrahabr.ru/post/320976/
+
+Однострочный калькулятор, искусство или порок? | https://habrahabr.ru/post/320830/
+
+Практика метапрограммирования на C++: бинарное дерево поиска на этапе компиляции | https://habrahabr.ru/post/320686/
+
+Вложенные логические выражения | https://habrahabr.ru/post/320682/
+
+Пятничный формат: VPN через… Jabber? | https://habrahabr.ru/post/320570/
+
+Простой http-сервер на Wolfram Language | https://habrahabr.ru/company/wolfram/blog/320196/
+
+Flexbox First. Верстка таблиц и текста флексбоксами | https://habrahabr.ru/post/320022/
+
+Duplo Railroad Tycoon: Синтез железнодорожной сети с максимальным покрытием | https://habrahabr.ru/post/319702/
+
+Тень на плетень, или 25 елок для Адама Дженсена | https://habrahabr.ru/post/319530/
+
+По-настоящему живая перезагрузка кода в golang | https://habrahabr.ru/post/318896/
+
+Как проектируют ненастоящие программисты | https://habrahabr.ru/post/318894/
+
+Почему этой зимой мы снова приглашаем всех поиграть в компьютерные игры при помощи искусственного интеллекта | https://habrahabr.ru/company/mipt/blog/318758/
+
+A fistful of relays. Часть 3 — декодер команд и управляющий автомат | https://habrahabr.ru/post/318500/
+
+Использование send для удобства, от безысходности и ради развлечения | https://habrahabr.ru/post/318546/
+
+Компьютеры Советской России с троичной сбалансированной системой счисления | https://habrahabr.ru/post/318468/
+
+Многопоточная сказка о потерянном времени | https://habrahabr.ru/post/318066/
+
+Соревнование Underhanded Rust 2016 | https://habrahabr.ru/post/318122/
+
+«Полезняшки» или «Реестр Windows как платформа» | https://habrahabr.ru/post/317802/
+
+Как я побывала на HolyJS Moscow и нужно ли туда ходить | https://habrahabr.ru/company/mailru/blog/317694/
+
+Использование Github в качестве хранилища пользовательских данных | https://habrahabr.ru/post/317662/
+
+Разработка игры Frogger для компьютера Vectrex | https://habrahabr.ru/post/317656/
+
+Превозмогая трудности: Gravity Defied на sed | https://habrahabr.ru/post/317638/
+
+Собственная платформа. Часть 0.2 Теория. Интерпретатор CHIP8 | https://habrahabr.ru/post/316788/
+
+Объясняем бабушке, как написать свой язык программирования | https://habrahabr.ru/company/edison/blog/315068/
+
+URL rewriting на GitHub Pages | https://habrahabr.ru/post/316790/
+
+Псевдо-инкапсуляция легаси include-ов когда нет времени рефакторить | https://habrahabr.ru/post/316650/
+
+Как я вырос без Кодабры | https://habrahabr.ru/company/codabra/blog/316354/
+
+msvcore – c++, кроссплатформенная библиотека, велосипед и 12 лет разработки | https://habrahabr.ru/post/316220/
+
+Операционная система с нуля (почти) | https://habrahabr.ru/post/316112/
+
+Qemu.js с поддержкой JIT: фарш всё же можно провернуть назад | https://habrahabr.ru/post/315770/
+
+Go panic(), runtime error и их реализации в своей ОС на Go+asm Part 0x000c03f.(float32) | https://habrahabr.ru/post/315566/
+
+Offensive programming: параноидальное, наступательное, атакующее или беззащитное программирование | https://habrahabr.ru/company/edison/blog/314550/
+
+Археология программиста | https://habrahabr.ru/post/314756/
+
+Кодируем музыку в браузере | https://habrahabr.ru/post/314472/
+
+Тензорные разложения и их применения. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/313892/
+
+Концепция жизни программы | https://habrahabr.ru/post/313934/
+
+Глупые трюки с ES6 | https://habrahabr.ru/post/313814/
+
+main(){printf(&unix["\021%six\012\0"], (unix)[«have»]+«fun»-0x60);} | https://habrahabr.ru/company/edison/blog/313598/
+
+Правила плохого и хорошего тона в программировании — мнения экспертов | https://habrahabr.ru/post/313784/
+
+Ещё один способ отображения строк в Go | https://habrahabr.ru/post/313486/
+
+Архитектура и программирование Philips Videopac (Magnavox Odyssey 2) | https://habrahabr.ru/post/313412/
+
+Примеры кода на 39 эзотерических языках программирования | https://habrahabr.ru/company/edison/blog/313334/
+
+Разделяем интерфейс и реализацию в функциональном стиле на С++ | https://habrahabr.ru/post/312148/
+
+Архитектура и программирование компьютера Vectrex | https://habrahabr.ru/post/313218/
+
+Архитектура и программирование компьютера Texas Instruments TI-99/4a | https://habrahabr.ru/post/313058/
+
+Прячем текст от посторонних глаз (пример на Scala) | https://habrahabr.ru/post/312184/
+
+Javascript-путешествие с шестью символами | https://habrahabr.ru/post/312172/
+
+Текст, которого нет | https://habrahabr.ru/post/311518/
+
+Каково оно учить JavaScript в 2016 | https://habrahabr.ru/post/312022/
+
+Преобразование Method Reference в Method в языке Java | https://habrahabr.ru/post/311788/
+
+Pico8 — несуществующая игровая консоль | https://habrahabr.ru/post/311698/
+
+Power Query: как перестать бояться функционального программирования и начать работать в расширенном редакторе запросов | https://habrahabr.ru/post/311600/
+
+Как посчитать перестановки. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/311480/
+
+История одной одержимости, или как я писал календарный скрипт для Photoshop | https://habrahabr.ru/post/311390/
+
+Как выжать максимум из минификации кода | https://habrahabr.ru/post/310830/
+
+Моим самым важным проектом был интерпретатор байт-кода (или «как увидеть матрицу») | https://habrahabr.ru/post/310806/
+
+USB killer Type-C | https://habrahabr.ru/post/310442/
+
+Работа в IPFS с человеческим лицом | https://habrahabr.ru/post/310554/
+
+Аналитическое вычисление производных на шаблонах C++ | https://habrahabr.ru/post/310016/
+
+Еще один из способов обойти блокировку PornHub | https://habrahabr.ru/post/310192/
+
+Пишем Hello World на FASM | https://habrahabr.ru/post/309922/
+
+Пишем квайн-полиглот-палиндромы в честь дня 2^2^3 | https://habrahabr.ru/company/pt/blog/309702/
+
+Как штатными настройками убить микроконтроллер. Часть 2 | https://habrahabr.ru/post/309724/
+
+Программируем «Мегапроцессор» | https://habrahabr.ru/post/309654/
+
+Про интернет вещей и полупроводниковую индустрию в краю, где пьют верблюжье молоко. День первый | https://habrahabr.ru/post/309570/
+
+30 вредных советов для php-разработчиков | https://habrahabr.ru/post/309450/
+
+Не все языки программирования одинаково полезны | https://habrahabr.ru/post/309440/
+
+Плохой код убивает | https://habrahabr.ru/post/309388/
+
+Пишем изящный парсер на Питоне | https://habrahabr.ru/post/309242/
+
+Подарок на 1 сентября всем поклонникам цифровой схемотехники и архитектуры компьютера | https://habrahabr.ru/post/308976/
+
+Как штатными настройками убить микроконтроллер. Часть 1 | https://habrahabr.ru/post/308596/
+
+Как эмодзи могут улучшить ваш код (на самом деле) | https://habrahabr.ru/post/308362/
+
+Каламбуры типизации функций в C | https://habrahabr.ru/post/307706/
+
+Все программисты думают что C++ поддерживает ООП, кроме автора ООП | https://habrahabr.ru/post/307354/
+
+MirrorMoon EP — в поисках заветной планеты | https://habrahabr.ru/post/216457/
+
+&? Trim? Гейзенберг? Не, не слышал | https://habrahabr.ru/post/307118/
+
+Новая редакция популярного бесплатного учебника электроники, архитектуры компьютера и низкоуровневого программирования | https://habrahabr.ru/post/306982/
+
+Coroutines everywhere | https://habrahabr.ru/post/306940/
+
+Результаты и разбор задач финала Яндекс.Алгоритма 2016 | https://habrahabr.ru/company/yandex/blog/306872/
+
+О том, как мы на PHP запускали настоящий MS Excel и что из этого вышло | https://habrahabr.ru/post/306408/
+
+2+2*2=:::::: | https://habrahabr.ru/post/306356/
+
+Троллейбус из буханки или alias analysis в LLVM | https://habrahabr.ru/post/306294/
+
+Один пиксель вместо тысячи слов | https://habrahabr.ru/post/306210/
+
+Интервью с мамой, банковским программистом на COBOL'е | https://habrahabr.ru/post/306046/
+
+Удивительная история document.write | https://habrahabr.ru/post/305366/
+
+Как мы рассылали SMS со старой Nokia и телефона на Android | https://habrahabr.ru/post/305264/
+
+Вспоминаем старый добрый ZX Spectrum, пишем «Hello World» и знакомимся с демосценой | https://habrahabr.ru/post/305190/
+
+Что такое OT? | https://habrahabr.ru/post/305168/
+
+Нестандартный подход к программированию микроконтроллера | https://habrahabr.ru/post/304830/
+
+Четыре способа извлечения значений из скрытых полей в C# | https://habrahabr.ru/post/304520/
+
+Пишем задачки на FBD. Пятнашки и Симпсон | https://habrahabr.ru/post/304416/
+
+Генератор музыки на базе кодогенератора | https://habrahabr.ru/post/304496/
+
+Очень простой и быстрый HTML->TEXT | https://habrahabr.ru/post/304428/
+
+Методы модификации машинного кода: «селекция» vs. «генная инженерия» | https://habrahabr.ru/post/249419/
+
+Перепиливаем JDBC DB2 под .NET | https://habrahabr.ru/post/303878/
+
+[Go][JS] И снова про обработку форматов marc | https://habrahabr.ru/post/303782/
+
+Работа мечты и бесплатный кластер на 1 миллион мета-данных | https://habrahabr.ru/company/palitrumlab/blog/303702/
+
+Поздравляем победителей «Летнего спринта» PETAMelon | https://habrahabr.ru/company/rostelecom/blog/303416/
+
+Пишем сериализатор для сетевой игры на C++11 | https://habrahabr.ru/post/303368/
+
+xfcRS — оригинальный лаконичный шустрый рендер сглаженных тайлов, «expansion fast cell — Rounded Squares» | https://habrahabr.ru/post/302756/
+
+Размышления на тему оценки коммитов и роботов-программистов | https://habrahabr.ru/post/302422/
+
+Дайджест KolibriOS #12 | https://habrahabr.ru/company/kolibrios/blog/302094/
+
+Используем HTML и WebBrowser control в качестве UI для обычных windows-приложений на C# | https://habrahabr.ru/post/302432/
+
+Отражение динамики в модели СКУД | https://habrahabr.ru/post/302226/
+
+Stack Trace в C++ или велосипедирование, уровень «Быдлокод» | https://habrahabr.ru/post/302170/
+
+Нейронная сеть Хопфилда на пальцах | https://habrahabr.ru/post/301406/
+
+Deep Dvorak или Дворак для всех, и при чём тут русский йод | https://habrahabr.ru/post/301160/
+
+Онлайн-трансляция ACM ICPC: Как это устроено | https://habrahabr.ru/company/spbifmo/blog/301098/
+
+Структурная модель СКУД предприятия с арендаторами и их клиентами | https://habrahabr.ru/post/283586/
+
+Играем с ключевыми словами в Javascript | https://habrahabr.ru/post/283108/
+
+JavaScript по-русски — pycckuu.js | https://habrahabr.ru/post/283072/
+
+Как написать монаду IO на C# (не) без помощи параллельной вселенной и машины времени | https://habrahabr.ru/post/282940/
+
+Работа с WAV-файлами с использованием PHP | https://habrahabr.ru/post/282922/
+
+Игра «Жизнь» в FPGA | https://habrahabr.ru/post/282722/
+
+За что ругают Golang и как с этим бороться? | https://habrahabr.ru/post/282588/
+
+Борьба с мельницами — 1: интерполяционные сплайны | https://habrahabr.ru/post/282441/
+
+Garbage Collector & C++ | https://habrahabr.ru/post/282544/
+
+Преемптивность: как отнять процессор | https://habrahabr.ru/post/282049/
+
+Делаем мультизадачность | https://habrahabr.ru/post/282037/
+
+Я не знаю как это сделать! Честно-честно | https://habrahabr.ru/post/281641/
+
+Разработка для коптеров | https://habrahabr.ru/post/281591/
+
+Поиск регулярных выражений с помощью регулярных выражений | https://habrahabr.ru/post/281547/
+
+Пишем замену find(1) на golang под Linux | https://habrahabr.ru/post/281382/
+
+Снова об Electron или рисуем музыку ВК | https://habrahabr.ru/post/281278/
+
+Рекурсия на PHP — алгоритм, применение | https://habrahabr.ru/post/280944/
+
+Песочница для программистов | https://habrahabr.ru/post/280914/
+
+Стеганография в акроконструкциях. Алгоритм DANTSOVA | https://habrahabr.ru/post/280646/
+
+[The Methanum project] Создание инструментария для построения распределенных систем с топологией “Звезда” | https://habrahabr.ru/company/tinkoff/blog/280640/
+
+Кортежи в языках программирования. Часть 2 | https://habrahabr.ru/post/280608/
+
+Погоня с препятствиями | https://habrahabr.ru/post/278853/
+
+Самое широкое простое число, записанное римскими цифрами | https://habrahabr.ru/post/280179/
+
+Машина Тьюринга на шаблонах | https://habrahabr.ru/post/279745/
+
+«Весёлый повар» на FBD шаг за шагом | https://habrahabr.ru/post/278963/
+
+Персистентная оперативная память | https://habrahabr.ru/post/279443/
+
+CLRium #3. Анонс докладчиков | https://habrahabr.ru/company/luxoft/blog/279275/
+
+Конечное поле GF(256) и немного магии | https://habrahabr.ru/post/279197/
+
+Как делать парсинг текста голым хардвером, без процессора и без софтвера | https://habrahabr.ru/post/278681/
+
+Использование кодовой базы проекта Chromium в качестве SDK для разработки кроссплатформенных приложений | https://habrahabr.ru/post/278579/
+
+Игра «Wappo» на FBD или минутка доброты | https://habrahabr.ru/post/278285/
+
+Краткий курс компьютерной графики, аддендум: лечим по фотографии | https://habrahabr.ru/post/278309/
+
+Ленивый список в C++ | https://habrahabr.ru/post/277737/
+
+Игра «2048» на FBD за час | https://habrahabr.ru/post/277203/
+
+Медведь, расчленёнка и 14 февраля | https://habrahabr.ru/company/mailru/blog/277105/
+
+«Digital Rain» для Windows в 314 байтах | https://habrahabr.ru/post/276371/
+
+SSI сайт: HTML, XML, XSLT | https://habrahabr.ru/post/276491/
+
+Фишки XAML-разработчика: условный конвертер | https://habrahabr.ru/post/276315/
+
+Фишки XAML-разработчика: композитные конвертеры | https://habrahabr.ru/post/276273/
+
+Фишки XAML-разработчика: встраиваемые конвертеры | https://habrahabr.ru/post/276185/
+
+Фишки XAML-разработчика: динамический Grid | https://habrahabr.ru/post/276077/
+
+Какие страны и языки программирования чаще побеждают в игре для программистов CodeBattle? | https://habrahabr.ru/company/hexlet/blog/275867/
+
+«Hello World!» на C массивом int main[] | https://habrahabr.ru/post/275861/
+
+Как перенести сайт из Google Sites на свой хостинг | https://habrahabr.ru/post/275747/
+
+Добавляем в игру мультиплеер с помощью Node.JS и Frida. Часть 1 | https://habrahabr.ru/post/275235/
+
+Генератор изображений-инвайтов v. 2.0 | https://habrahabr.ru/post/275131/
+
+«Иная» логика и обратимые вычисления | https://habrahabr.ru/post/274645/
+
+Как за 3 дня создать игровой движок для новелл | https://habrahabr.ru/post/274399/
+
+Webpack ProvidePlugin: как не писать простыню import/require в начале javascript модуля | https://habrahabr.ru/post/274385/
+
+Архитектура игрового клиента многопользовательской Tower Defence. Новогодняя история | https://habrahabr.ru/post/274367/
+
+Как следить за появлением вопросов на toster.ru, ru.stackoverflow.com и stackoverflow.com | https://habrahabr.ru/post/274361/
+
+Почему я перепроверяю записанные данные, или История одного расследования | https://habrahabr.ru/post/274235/
+
+Как я искал (и нашел) разницу в двух побайтово идентичных файлах | https://habrahabr.ru/company/infopulse/blog/274183/
+
+Забытое слово: environment | https://habrahabr.ru/post/273555/
+
+Шорткаты в JavaScript | https://habrahabr.ru/company/mailru/blog/273267/
+
+Advent of Code | https://habrahabr.ru/post/273417/
+
+NW+Edge.js+Fiddler или сказ о стыкуемости нестыкуемого | https://habrahabr.ru/post/273311/
+
+О приложениях UWP для разработчиков WPF | https://habrahabr.ru/post/270781/
+
+Смешиваем цвета правильно или оптимизируем AlphaBlend | https://habrahabr.ru/post/273109/
+
+Собственные типы индексов в СУБД Caché | https://habrahabr.ru/company/intersystems/blog/272689/
+
+Циклические срезы, сдвиги и вращения коллекций | https://habrahabr.ru/post/272743/
+
+Пара слов о среде разработки Алгоритм 2 | https://habrahabr.ru/post/272683/
+
+Самомодифицирующийся код | https://habrahabr.ru/post/272619/
+
+Вперед, на поиски палиндромов 2 | https://habrahabr.ru/post/272555/
+
+Опыт разработки аркады под Android на С++ и Qt | https://habrahabr.ru/post/272423/
+
+Используем TSQL для игры в «Судоку» | https://habrahabr.ru/post/272373/
+
+Почему наши высокоуровневые языки до сих пор не такие уж и высокоуровневые? | https://habrahabr.ru/post/272229/
+
+Как мы себя заново писали, или как потерять исходники и не подать виду | https://habrahabr.ru/company/mailru/blog/271829/
+
+Используем TSQL для игры в «Балду» | https://habrahabr.ru/post/271795/
+
+Дизайним прототипы ячеек в одном XIB-е с UITableView | https://habrahabr.ru/post/271701/
+
+Написание простейшей программы под Linux в машинных кодах | https://habrahabr.ru/post/271519/
+
+Игра «Жизнь» на логических элементах | https://habrahabr.ru/post/271457/
+
+Типичные грабли на пути программиста от Junior'а к Senior'у | https://habrahabr.ru/post/271297/
+
+Регулярные выражения и математический парсер | https://habrahabr.ru/post/271285/
+
+LINQ конвертер между римскими и арабскими числами | https://habrahabr.ru/post/271035/
+
+Программирование умного индикатора LaMetric | https://habrahabr.ru/post/270725/
+
+Index-based programming или зачем нам все эти if, switch, тернарный оператор? | https://habrahabr.ru/post/270241/
+
+NSNJSON. 道 (Заключительная статья) | https://habrahabr.ru/post/270031/
+
+JSON для любителей скобочек | https://habrahabr.ru/post/269993/
+
+О том, как рисовать кривые графики в стиле XKCD | https://habrahabr.ru/post/269931/
+
+Автоматическая генерация программного кода микроконтроллера на основе событийно-ориентированной модели | https://habrahabr.ru/post/269897/
+
+Возможна ли мультипроцессорная обработка в UEFI? | https://habrahabr.ru/post/269851/
+
+Монада Maybe на стероидах | https://habrahabr.ru/post/269717/
+
+Как сохранить устаревший язык программирования | https://habrahabr.ru/company/1cloud/blog/269787/
+
+Обновленный Codebattle: игра для программистов | https://habrahabr.ru/company/hexlet/blog/269613/
+
+Усложнённый упрощённый JSON | https://habrahabr.ru/post/269461/
+
+Когда нет сил ждать Record'ы | https://habrahabr.ru/post/269453/
+
+Frida-node или немножко странного кода | https://habrahabr.ru/post/268997/
+
+Добавить системный вызов. Часть 4 и последняя | https://habrahabr.ru/company/ua-hosting/blog/268409/
+
+Codebattle: игра для программистов | https://habrahabr.ru/company/hexlet/blog/268389/
+
+Сайд-проекты — почему это важно для разработчика | https://habrahabr.ru/company/alconost/blog/268367/
+
+Сетевые системные вызовы. Часть 3 | https://habrahabr.ru/post/268145/
+
+Неконстантные константные выражения | https://habrahabr.ru/post/268141/
+
+Игры на CSS. Часть 2: StarCraft | https://habrahabr.ru/post/267801/
+
+Модификация системного вызова. Часть 2 | https://habrahabr.ru/post/267773/
+
+Игра на голом HTML / CSS | https://habrahabr.ru/post/267701/
+
+Пишем драйвер пользовательского окружения для uinput на Raspberry Pi | https://habrahabr.ru/post/267655/
+
+Делаем доступным все символы ядра Linux. Часть 1 | https://habrahabr.ru/post/267535/
+
+Код 15-летней давности и газета объявлений | https://habrahabr.ru/post/266833/
+
+Самая устаревшая инфраструктура, которую только можно купить за деньги | https://habrahabr.ru/company/infopulse/blog/266775/
+
+Ещё один способ автоматического вызова unit-тестов на языке Си | https://habrahabr.ru/company/embox/blog/265461/
+
+Числовые типы и контейнеры C++ с точки зрения производительности | https://habrahabr.ru/post/265323/
+
+C# — Моделирование «разумной» жизни на базе нейронных сетей | https://habrahabr.ru/post/265201/
+
+Стабилизация таймлапс-видео на калькуляторе (IPython+OpenCV) | https://habrahabr.ru/post/265155/
+
+Введение в высокочастотный трейдинг (HFT) | https://habrahabr.ru/post/264799/
+
+Пять признаков того, что вы должны сейчас же нанять этого программиста | https://habrahabr.ru/company/alconost/blog/264735/
+
+Будь проще, и люди потянутся к тебе, или как полюбить Си, сохранив рассудок | https://habrahabr.ru/post/264585/
+
+Разбор всех задач финального раунда Яндекс.Алгоритма 2015 | https://habrahabr.ru/company/yandex/blog/264253/
+
+Игнорируем лишние аргументы функции на C++ | https://habrahabr.ru/post/264157/
+
+Скоро ICFPC 2015 | https://habrahabr.ru/post/263979/
+
+Когда программа падает только по средам | https://habrahabr.ru/post/263871/
+
+Псевдо ООП в C | https://habrahabr.ru/post/263547/
+
+TIS-100 — паззл про многопоточный ассемблер, который никто не ждал | https://habrahabr.ru/post/263445/
+
+Семь видов интерпретаторов виртуальной машины. В поисках самого быстрого | https://habrahabr.ru/company/intel/blog/261665/
+
+Как устроен цвет | https://habrahabr.ru/company/yandex/blog/262735/
+
+Личный веб-сервер на Wolfram Language | https://habrahabr.ru/post/262983/
+
+Брокер сообщений для сервисной архитектуры на базе ZMQ — или отдых разработчика | https://habrahabr.ru/post/262977/
+
+Первый в истории ReactOS Hackfest | https://habrahabr.ru/company/reactos/blog/262951/
+
+AOP или как написать свой велосипед для аналитики | https://habrahabr.ru/post/262381/
+
+Интересности из мира квайнов (100 языков, радиационно-устойчивый, часы, змейка) | https://habrahabr.ru/post/232781/
+
+Делаем домашнюю ферму для рендеринга видео | https://habrahabr.ru/post/260837/
+
+Создание простейших структур данных с помощью функций в Python | https://habrahabr.ru/post/262021/
+
+Семь удивительных «возможностей» Javascript | https://habrahabr.ru/post/261785/
+
+Использование монад в С++. Часть 2: монада состояния | https://habrahabr.ru/company/infopulse/blog/261145/
+
+Использование монад в С++. Часть 1: монада списка | https://habrahabr.ru/company/infopulse/blog/260809/
+
+Сборка Кубика Рубика генетическим алгоритмом online без смс | https://habrahabr.ru/post/260965/
+
+Как мы сделали из JSON язык программирования | https://habrahabr.ru/post/260757/
+
+Ретроспектива разработки Crash Bandicoot, или как разработчики упаковывали целые игры в 2MB RAM | https://habrahabr.ru/post/260637/
+
+Программисты и депрессия | https://habrahabr.ru/post/260249/
+
+Эльфийский язык программирования | https://habrahabr.ru/post/260197/
+
+Готовимся к собеседованию по PHP: псевдотип «callable» | https://habrahabr.ru/post/259991/
+
+Ruby и C. Часть 4. Дружим акселерометр, гироскоп и дальномер с Raphael.js | https://habrahabr.ru/post/259675/
+
+Разработка OS на Go+asm Part 0x01 | https://habrahabr.ru/post/259839/
+
+Безумный PHP. Фьюри код | https://habrahabr.ru/post/259865/
+
+Разработка OS на Go+asm Part 0x00 | https://habrahabr.ru/post/259719/
+
+Бесплатный учебник электроники, архитектуры компьютера и низкоуровневого программирования на русском языке | https://habrahabr.ru/post/259505/
+
+Два мира виртуальных машин | https://habrahabr.ru/company/intel/blog/254793/
+
+Проблемы, вызванные определением кортежей как функторов | https://habrahabr.ru/post/259275/
+
+Макросы в InterSystems Caché | https://habrahabr.ru/company/intersystems/blog/258081/
+
+SMS-чат на коленках | https://habrahabr.ru/post/259057/
+
+Почему айфон перезагружается от арабской смс | https://habrahabr.ru/post/259007/
+
+A fistful of relays. Часть 2 — Регистровый файл | https://habrahabr.ru/post/258337/
+
+Как за полгода разработать многопользовательскую 3D-игру без художников, дизайнеров и моделлеров | https://habrahabr.ru/post/258859/
+
+«Проклятие» фигурных скобочек | https://habrahabr.ru/post/258391/
+
+Майним Bitcoin с помощью бумаги и ручки | https://habrahabr.ru/post/258181/
+
+Sublime Text 3 — пользовательская подсветка синтаксиса | https://habrahabr.ru/post/258053/
+
+Об автоматическом дифференцировании, методе Ньютона и решении СЛАУ на Delphi. Часть 1 | https://habrahabr.ru/post/247379/
+
+Новый графический режим: CGA в 1024 цвета | https://habrahabr.ru/post/256409/
+
+Играй, голова | https://habrahabr.ru/post/256329/
+
+Помогают ли опыт и достижения в спортивном программировании в реальной жизни и работе, или мешают? | https://habrahabr.ru/company/yandex/blog/256163/
+
+Stealer на C#. Мы уложились в 9 Кб исполнимого файла | https://habrahabr.ru/company/xakep/blog/244467/
+
+Ночь с пятницы на понедельник: как мы запускали Skyforge | https://habrahabr.ru/company/mailru/blog/256155/
+
+Новый суперблиц по Java-хардкору | https://habrahabr.ru/company/jugru/blog/255951/
+
+Простые задачи на Java. Слабо решить все? | https://habrahabr.ru/company/jugru/blog/255869/
+
+Калькулятор на чистом CSS3 | https://habrahabr.ru/company/paysto/blog/255511/
+
+Чем заняться айтишнику в армии — руководство к действию | https://habrahabr.ru/post/255095/
+
+Простая игра средствами ПТК «Квинт 7» | https://habrahabr.ru/post/254665/
+
+Реактивное программирование в табличном процессоре | https://habrahabr.ru/post/254569/
+
+Несмешная первоапрельская шутка от разработчиков Magic Lantern | https://habrahabr.ru/post/254769/
+
+Пример простейшего cgi сервера | https://habrahabr.ru/post/254621/
+
+О бане, троллях и бесплатных продуктах «Лаборатории» | https://habrahabr.ru/company/kaspersky/blog/254611/
+
+Факториал на числах Чёрча — теперь и в смайликах | https://habrahabr.ru/post/254587/
+
+Программирование смайликами | https://habrahabr.ru/post/184278/
+
+Вы неправильно пишете животных | https://habrahabr.ru/post/254473/
+
+Топ-5 самых дурацких антивирусов. Записки хулигана | https://habrahabr.ru/post/254565/
+
+Стрелочные часы на CMake | https://habrahabr.ru/post/253813/
+
+Играем в сапера в фотошопе | https://habrahabr.ru/post/253337/
+
+Низкоуровневое программирование в машинных кодах для DOS | https://habrahabr.ru/post/253325/
+
+CSS Sans — шрифт, написанный на CSS | https://habrahabr.ru/post/253131/
+
+Можно ли верить коду в редакторе? bi-directional текст | https://habrahabr.ru/post/252813/
+
+Авто-регистрация тестов на С средствами языка | https://habrahabr.ru/post/252439/
+
+Программа вывода лабиринта в 13… нет. 10 байт! | https://habrahabr.ru/post/251631/
+
+Чат вконтакта в качестве терминала | https://habrahabr.ru/post/251083/
+
+Управление неуправляемым и мониторинг критичного | https://habrahabr.ru/post/250487/
+
+Как программисты ищут квартиры | https://habrahabr.ru/post/242085/
+
+Случайный лабиринт на JS в сами знаете сколько строк | https://habrahabr.ru/post/249929/
+
+Возможное использование виртуальности для создания программ в будущем | https://habrahabr.ru/post/249853/
+
+Ядро .Net (GC, JIT, interop, ...) в Open Source | https://habrahabr.ru/company/luxoft/blog/249645/
+
+Проталкиваем не‐ASCII в непредназначенные для этого места | https://habrahabr.ru/post/249129/
+
+C++11 variadic templates и длинная арифметика на этапе компиляции | https://habrahabr.ru/post/248897/
+
+Когда идентификатор — не идентификатор или монгольский разделитель гласных атакует | https://habrahabr.ru/post/248797/
+
+Именованные аргументы функции в C | https://habrahabr.ru/post/248385/
+
+Вычисление факториала на числах Чёрча | https://habrahabr.ru/post/248331/
+
+Сеанс белой магии без разоблачений или как я троллей в ЖЖ искал | https://habrahabr.ru/post/247929/
+
+Делаем отгружаемые сборки: взаимодействуем между доменами без маршаллинга | https://habrahabr.ru/company/luxoft/blog/247491/
+
+Подходы к созданию скриптового языка описания настольных игр | https://habrahabr.ru/post/247405/
+
+Снимаем дамп объектов с памяти .Net приложения | https://habrahabr.ru/company/luxoft/blog/247447/
+
+Roslyn: встреча .Net сообщества на CLRium #2 | https://habrahabr.ru/company/luxoft/blog/247237/
+
+Сборка ICO файла с иконками в формате PNG при помощи FASM | https://habrahabr.ru/post/247425/
+
+Zsh: fucky new year | https://habrahabr.ru/post/247249/
+
+Наследуем тип .NET от JavaScript объекта с перегрузками и приватными методами | https://habrahabr.ru/post/247185/
+
+Fucky new year! | https://habrahabr.ru/post/247161/
+
+Assembler в 30 строк на Excel | https://habrahabr.ru/post/246975/
+
+Встреча .Net сообщества на CLRium #2. Как устроен и работает CLR, Roslyn, RyuJIT, CoreFx | https://habrahabr.ru/company/luxoft/blog/246665/
+
+Математика аукционов. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/246399/
+
+Несколько интересных особенностей MySQL | https://habrahabr.ru/post/246339/
+
+Оптимизация кода под Pebble | https://habrahabr.ru/company/epam_systems/blog/241555/
+
+Dagaz: Вновь об XSLT | https://habrahabr.ru/post/245849/
+
+Какой цикл быстрее? Тестируем 1С | https://habrahabr.ru/post/245687/
+
+Как растаращить class-файл | https://habrahabr.ru/post/245333/
+
+Простая система событий — нестандартный подход | https://habrahabr.ru/post/245487/
+
+Язык программирования Petooh | https://habrahabr.ru/post/245443/
+
+Сервис мониторинга свободного места на Bash | https://habrahabr.ru/post/245107/
+
+Пишем прошивку для Arduino на С++ с REST управлением через последовательный порт и экранчиком | https://habrahabr.ru/post/245043/
+
+Сериализация и С++11 | https://habrahabr.ru/post/244963/
+
+Забавные баги | https://habrahabr.ru/company/ua-hosting/blog/244479/
+
+Фабричный метод без размещения в динамической памяти | https://habrahabr.ru/post/244497/
+
+Код, которого нет | https://habrahabr.ru/post/243351/
+
+Ответ на Решетчатое наследование | https://habrahabr.ru/post/244257/
+
+Решетчатое наследование | https://habrahabr.ru/post/242649/
+
+Когда строка не является строкой? | https://habrahabr.ru/post/243523/
+
+Слайдшоу на CSS (Sass) | https://habrahabr.ru/post/202844/
+
+Стековое программирование с человеческим лицом (часть вторая) | https://habrahabr.ru/post/243051/
+
+Энтузиаст сконструировал самодельный 8-битный процессор в Minecraft | https://habrahabr.ru/post/243013/
+
+Стековое программирование с человеческим лицом | https://habrahabr.ru/post/242821/
+
+Экономика развивающихся стран. Камбоджа | https://habrahabr.ru/post/242389/
+
+Наследование комбинаторных парсеров на Julia | https://habrahabr.ru/post/241632/
+
+Дилетант и back-инжиниринг. Часть 2: Каркас | https://habrahabr.ru/post/240831/
+
+Веб-приложение — ну почти без бек-энда: Flask, Redis, API через JSONP, JSFiddle.net | https://habrahabr.ru/post/240787/
+
+Предел минимального Hello Word на AVR составляет 2 байта | https://habrahabr.ru/post/240689/
+
+Почему ваша первая реализация FizzBuzz на Rust может не работать | https://habrahabr.ru/post/240617/
+
+Полуавтоматическая регистрация юнит-тестов на чистом С | https://habrahabr.ru/post/240565/
+
+Где предел минимального Hello World на AVR? | https://habrahabr.ru/post/240517/
+
+Формируем тетради для книги в автоматическом режиме | https://habrahabr.ru/post/240489/
+
+Как мы весь день тратили 10 рублей или Хакатон ЯД | https://habrahabr.ru/post/240247/
+
+Результаты HackDay #32 в Пензе и приглашение в Самару | https://habrahabr.ru/company/mkechinov/blog/239481/
+
+Расширенные инструкции процессора в .NET или «C# Intrinsics» | https://habrahabr.ru/post/239619/
+
+Получаем информацию о программе и загружаем ее через CMD (man и apt-get для Windows?) | https://habrahabr.ru/post/239443/
+
+Ручное клонирование потока. Когда Assembler + C# или Java = Love | https://habrahabr.ru/company/luxoft/blog/238947/
+
+Каррируем на C++ | https://habrahabr.ru/post/238879/
+
+Party hard по-программистски, или как мы писали ClojureCup 2014 | https://habrahabr.ru/post/238845/
+
+Поиск-фильтр по сообщениям скайпа | https://habrahabr.ru/post/238395/
+
+Чем заняться айтишнику в армии или как я на VBA игры писал | https://habrahabr.ru/post/237641/
+
+Emoji Lisp | https://habrahabr.ru/post/237297/
+
+Дилетант и back-инжиниринг. Часть 1: Пути и файлы | https://habrahabr.ru/post/236899/
+
+Сумбурные размышления о будущем технологии FPGA | https://habrahabr.ru/post/236161/
+
+На грани безумия | https://habrahabr.ru/post/235483/
+
+Инстанциирование шаблонов функций по списку типов (Часть 2) | https://habrahabr.ru/post/235887/
+
+Инстанциирование шаблонов функций по списку типов (Часть 1) | https://habrahabr.ru/post/235831/
+
+Perl Golf на YAPC::Russia 2014 | https://habrahabr.ru/company/regru/blog/235767/
+
+Thunderargs: практика использования. Часть 2 | https://habrahabr.ru/post/190088/
+
+Emojli: как мы случайно сделали приложение и почему мы больше не хотим этим заниматься | https://habrahabr.ru/post/235375/
+
+Котфускация исполняемого .net кода | https://habrahabr.ru/post/234877/
+
+Дао программирования, часть 2 | https://habrahabr.ru/post/234769/
+
+Статически типизированные продолжения | https://habrahabr.ru/post/232979/
+
+Асинхронный JavaScript: без колбеков и промисов | https://habrahabr.ru/post/232671/
+
+D# — язык программирования для фанатов Doge | https://habrahabr.ru/post/232217/
+
+Как мы «дрессировали огненную обезьяну» или наш опыт работы с FMX | https://habrahabr.ru/company/sphere_systems/blog/231997/
+
+Рендеринг диаграмм: не так просто, как кажется | https://habrahabr.ru/post/230671/
+
+Эксперименты с бит-реверсными паттернами в двумерных аддитивных клеточных автоматах | https://habrahabr.ru/post/227003/
+
+Дао программирования, часть 1 | https://habrahabr.ru/post/229985/
+
+Микроконтроллер своими руками | https://habrahabr.ru/post/229587/
+
+Строго типизированное представление неполных данных | https://habrahabr.ru/post/229035/
+
+Приглашаем на GeekFest Night 26 июля | https://habrahabr.ru/company/mailru/blog/229497/
+
+Программирование «для души» | https://habrahabr.ru/post/227835/
+
+Секретные записки в коде | https://habrahabr.ru/post/228831/
+
+Заочная олимпиада по программированию для абитуриентов МФТИ | https://habrahabr.ru/post/228493/
+
+Крестики-нолики: компилятор против человека — экстремальный метапрограмминг | https://habrahabr.ru/post/228367/
+
+Моделирование мира и динамические системы | https://habrahabr.ru/post/228369/
+
+Задача о восьми Ферзях на Oracle SQL (другое решение) | https://habrahabr.ru/post/228373/
+
+И снова игра «Жизнь» | https://habrahabr.ru/post/228203/
+
+Интерпретатор Lisp на GNU/sed | https://habrahabr.ru/post/227983/
+
+Мини-интерпретатор Lisp'a на Python | https://habrahabr.ru/post/227119/
+
+Разработчик потратил 13 лет, чтобы закончить игру | https://habrahabr.ru/post/227063/
+
+Compile-time функциональное программирование в D | https://habrahabr.ru/post/227015/
+
+Мифы о программистах: равнодушие к стриптизёршам, пельмени и управляемый хаос | https://habrahabr.ru/company/mailru/blog/224945/
+
+Как программисты ищут отличия | https://habrahabr.ru/post/224727/
+
+Бутлоадер с AES-128 и EAX на AVR Assembler в 1024 байта | https://habrahabr.ru/post/224383/
+
+Иллюстрация работы логических вентилей с помощью тросиков и противовесов | https://habrahabr.ru/post/224755/
+
+Дворак или как жизнь в боль превратить | https://habrahabr.ru/post/224753/
+
+Когда AES(☢) = ☠ — криптобинарный фокус | https://habrahabr.ru/post/224205/
+
+Sunduk или 10 секунд на название | https://habrahabr.ru/post/224197/
+
+Ненормальное программирование в InterSystems Caché | https://habrahabr.ru/company/intersystems/blog/222563/
+
+Один вариант использования аннотаций | https://habrahabr.ru/post/223041/
+
+C#/WPF + Pascal + Assembler: как я восстанавливал свою первую игру | https://habrahabr.ru/post/211801/
+
+Как я написал web-приложение, используя только clojure | https://habrahabr.ru/post/222737/
+
+Конструирование типов в Scala | https://habrahabr.ru/post/222553/
+
+CARDIAC — компьютер из бумаги своими руками | https://habrahabr.ru/post/222277/
+
+Звездные войны в исходном коде | https://habrahabr.ru/post/190616/
+
+Обращение не ASCII-строки | https://habrahabr.ru/post/222331/
+
+Рисуем на экране осциллографа | https://habrahabr.ru/post/221591/
+
+Делать Алгоритмы Маркова — это весело | https://habrahabr.ru/post/222031/
+
+Из-за программного бага задержали более 200 авиарейсов: не летайте выше 65535 футов | https://habrahabr.ru/post/221761/
+
+Компьютер из 10000 костей домино | https://habrahabr.ru/post/221639/
+
+J может быть читаемым | https://habrahabr.ru/post/221011/
+
+TI-84+ | https://habrahabr.ru/post/220897/
+
+A fistful of relays, или компьютер на электромагнитных реле. Часть 1 — АЛУ | https://habrahabr.ru/post/220865/
+
+J: программирование на смайликах | https://habrahabr.ru/post/220291/
+
+Реверс-инжиниринг для самых маленьких: взлом кейгена | https://habrahabr.ru/post/220245/
+
+Небольшая игрушка «Сапер» не в 30 строк | https://habrahabr.ru/post/218057/
+
+Получение указателя на объект .Net | https://habrahabr.ru/company/luxoft/blog/219619/
+
+Почему программисты не работают охранниками | https://habrahabr.ru/post/219079/
+
+Непайтоновый Пайтон | https://habrahabr.ru/post/218981/
+
+Приручаем ZoG (Часть 5: Сбор маны) | https://habrahabr.ru/post/218109/
+
+Работаем асинхронно в PHP или история ещё одного чата | https://habrahabr.ru/post/218751/
+
+Интерпретация во время компиляции, или Альтернативное понимание лямбд в C++11 | https://habrahabr.ru/post/218341/
+
+Два сканера, осциллограф, электрогитара: компьютерная музыка Bit-52's | https://habrahabr.ru/post/218335/
+
+Жизнь во время компиляции | https://habrahabr.ru/post/218229/
+
+LUA в nginx: лапшакод в стиле inline php | https://habrahabr.ru/post/217773/
+
+Перевод legacy-проекта на Dependency Injection. Путь Ситха | https://habrahabr.ru/post/217523/
+
+Самый короткий веб-сервер на с++ | https://habrahabr.ru/post/217087/
+
+Больше стихов в коде — Code Poetry Slam 1.1 | https://habrahabr.ru/post/216887/
+
+Организация вызова x86-процедур из EFI Byte Code | https://habrahabr.ru/post/216413/
+
+CubeStormer 3 собирает «Кубик Рубика» за 3 секунды | https://habrahabr.ru/post/216121/
+
+Заметка. Об отставании информационного прогресса от технологического | https://habrahabr.ru/post/215597/
+
+С++ для Perl программистов | https://habrahabr.ru/post/215339/
+
+ZoG на стероидах | https://habrahabr.ru/post/214713/
+
+Программируем микроволновку или контроллер 40-летней давности | https://habrahabr.ru/post/214355/
+
+ArnoldC: язык программирования из цитат Шварценеггера | https://habrahabr.ru/post/214189/
+
+EFI Byte Code и операции с памятью | https://habrahabr.ru/post/214119/
+
+Создание браузерной игрульки в соц сети от и до | https://habrahabr.ru/post/190484/
+
+Проблемы объёмных тестовых заданий при выборе работы | https://habrahabr.ru/post/213913/
+
+True or False or False = False | https://habrahabr.ru/post/213733/
+
+Шифрованный тоннель для общения через VK (RSA + GreaseMonkey) | https://habrahabr.ru/post/213537/
+
+Адам Лэнгли объяснил причины бага в iOS: лишняя строчка кода поломала всю безопасность | https://habrahabr.ru/post/213525/
+
+А таки давайте напишем инструмент для написания писем Дяди Федора! | https://habrahabr.ru/post/213481/
+
+Кроссплатформенный сервер с неблокирующими сокетами. Часть 4 | https://habrahabr.ru/post/213301/
+
+Простоквашино на Хабре или письмо Дяди Федора | https://habrahabr.ru/post/213263/
+
+Использование комментариев для хранения статических данных в Javascript | https://habrahabr.ru/post/213009/
+
+Кроссплатформенная оценка графических возможностей в контексте UEFI | https://habrahabr.ru/post/212363/
+
+Запрет запуска копии стороннего приложения | https://habrahabr.ru/post/212413/
+
+Кроссплатформенный https сервер с неблокирующими сокетами. Часть 3 | https://habrahabr.ru/post/212101/
+
+Управление графическим интерфейсом с помощью echo и cat | https://habrahabr.ru/post/212013/
+
+Результаты конкурса на самый глючный код C++ | https://habrahabr.ru/post/210500/
+
+Нейросистема: революция сознания | https://habrahabr.ru/post/210248/
+
+Forth и шейдеры | https://habrahabr.ru/post/209730/
+
+Самый натуральный логарифм | https://habrahabr.ru/post/209278/
+
+Нейросистема: исправляем ошибки | https://habrahabr.ru/post/209256/
+
+Единство формы и содержания | https://habrahabr.ru/post/209244/
+
+Терминология или раскладываем по полочкам | https://habrahabr.ru/post/208994/
+
+Передача треков Google Analytics сторонним доменам без javascript | https://habrahabr.ru/post/208706/
+
+200 миллисекунд свободы | https://habrahabr.ru/post/208836/
+
+Пара полезных исключений из правил по форматированию исходного кода | https://habrahabr.ru/post/208750/
+
+Игра в 30 команд Ассемблера | https://habrahabr.ru/post/207964/
+
+Победители 22-го конкурса IOCCC | https://habrahabr.ru/post/208334/
+
+Динамическое программирование в шаблонах | https://habrahabr.ru/post/208186/
+
+Melange — DSL для сетевых протоколов | https://habrahabr.ru/post/207764/
+
+Portable Network Javascript | https://habrahabr.ru/post/207582/
+
+С наступающим! | https://habrahabr.ru/post/207152/
+
+В стиле ретро: J2ME на TCL | https://habrahabr.ru/post/206834/
+
+All that merge: рибосомная архитектура программного кода | https://habrahabr.ru/post/206896/
+
+С регулярно наступающим Новым годом вас! | https://habrahabr.ru/post/206858/
+
+Эзотерические сортировки Дэвида Морган-Мара | https://habrahabr.ru/post/161835/
+
+Змейка на ПЛК. Наш ответ Сименсу | https://habrahabr.ru/post/205324/
+
+Разработчики из Google сделали эмулятор Amiga 500 для Chrome | https://habrahabr.ru/post/206242/
+
+Arcanum и Fallout 2 с сенсорным экраном и стилусом в Windows 8 | https://habrahabr.ru/post/206142/
+
+Язык K: Отображение графического интерфейса из данных | https://habrahabr.ru/post/205844/
+
+Парное программирование как сервис | https://habrahabr.ru/post/205574/
+
+Классы типов на C++ | https://habrahabr.ru/post/205482/
+
+Редактор HTML+CSS+JS в стиле JSfiddle, код которого состоит из 230 символов | https://habrahabr.ru/company/nordavind/blog/205154/
+
+DVHack 2013. Было здорово. Или первый хакатон на Дальнем Востоке | https://habrahabr.ru/post/204696/
+
+GameDev как хобби | https://habrahabr.ru/post/204494/
+
+Змейка на ПЛК? Легко! | https://habrahabr.ru/post/203964/
+
+Löb и möb: странные петли в Хаскеле | https://habrahabr.ru/post/203800/
+
+Ущербно-ориентированное программирование | https://habrahabr.ru/post/203646/
+
+Язык программирования J. За что любить? | https://habrahabr.ru/post/201470/
+
+Написание парсера с нуля: так ли страшен черт? | https://habrahabr.ru/post/202622/
+
+Xalan, Saxon и 8 ферзей | https://habrahabr.ru/post/203004/
+
+Игра в 0 строк кода на чистом JS | https://habrahabr.ru/post/203048/
+
+Крошечный контейнер для мини-приложений в 30 строк на чистом JS | https://habrahabr.ru/post/203024/
+
+Миникрафт в 252 символа | https://habrahabr.ru/company/codeorchestra/blog/202942/
+
+Маленькие программы на Javascript: куда податься | https://habrahabr.ru/post/202944/
+
+DES на J в сотню строк | https://habrahabr.ru/post/202822/
+
+Блэкджек на LiveScript | https://habrahabr.ru/post/202906/
+
+Крошечный Tron на JS (30 строк кода) | https://habrahabr.ru/post/202874/
+
+Minecraft на C# (19 строк кода) | https://habrahabr.ru/post/202840/
+
+Игра Жизнь на LiveScript в 30 строк | https://habrahabr.ru/post/202766/
+
+Сокобан на Javascript в 30 строк | https://habrahabr.ru/post/202756/
+
+Windows сапер в 50 строк, или как я не уложился в 30 строк | https://habrahabr.ru/post/202758/
+
+Сапер, или снова 30 строк | https://habrahabr.ru/post/202750/
+
+Roguelike/RPG на JavaScript (30 строк кода) | https://habrahabr.ru/post/202684/
+
+Рисовалка под Windows на C++, или «Ребята, я тоже ненормальный!» (30+ строк кода) | https://habrahabr.ru/post/202678/
+
+20 и 1 примочка Javascript, которые я никак не могу запомнить | https://habrahabr.ru/post/202686/
+
+Пианино в 24 строки на Javascript: если играть, то музыку | https://habrahabr.ru/post/202646/
+
+Гоночка на JavaScript (30 строк кода) | https://habrahabr.ru/post/202556/
+
+Крошечный арканоид на JavaScript (30 строк кода) | https://habrahabr.ru/post/202530/
+
+Генерация P/Invoke сигнатур в C#. Нецелевое использование Interface Definition Language и OLE Automation Type Libraries | https://habrahabr.ru/post/202282/
+
+Правильно ли работает ваш дизассемблер? | https://habrahabr.ru/company/intel/blog/200658/
+
+Решение проблемы звука в одно ухо у некоторых роликов на Youtube | https://habrahabr.ru/post/201870/
+
+Как навыки программирования могут позволить сохранить разум близкого человека или «От программирования до психотерапии» | https://habrahabr.ru/post/201678/
+
+Еще раз об обфускации JavaScript или сказ о том, как я обфускатор писал. Часть 1 | https://habrahabr.ru/post/201682/
+
+Эволюция и генетические алгоритмы | https://habrahabr.ru/post/200454/
+
+Нестандартное решение одной задачи с ProjectEuler | https://habrahabr.ru/post/196966/
+
+Высокоуровневое программирование в 1975м году | https://habrahabr.ru/post/200084/
+
+Что-то пошло не так | https://habrahabr.ru/post/199500/
+
+Code Retreat на факультете информатики | https://habrahabr.ru/post/199292/
+
+Internet Archive позволяет запускать Atari-игры и старое ПО прямо в браузере | https://habrahabr.ru/post/199172/
+
+Популярность тегов Хабра: какие тренды в постах? | https://habrahabr.ru/post/197308/
+
+Хакеры на экране — 2 | https://habrahabr.ru/company/mailru/blog/199078/
+
+Практическое применение LD_PRELOAD или замещение функций в Linux | https://habrahabr.ru/post/199090/
+
+Делаем Refal на Prolog. Магия в семь строк | https://habrahabr.ru/post/198972/
+
+Бисерная сортировка (Bead sort) | https://habrahabr.ru/post/198962/
+
+Язык программирования и база данных Q: в энтерпрайсе синтаксис роли не играет | https://habrahabr.ru/post/198912/
+
+Компилируем код из кода для воспроизведения гонки двух процессов | https://habrahabr.ru/company/abbyy/blog/198116/
+
+Создание 1k/4k intro для Linux, часть 4 | https://habrahabr.ru/post/198320/
+
+Язык программирования J. Взгляд любителя. Часть 4. Коробки и циклы. Заключение | https://habrahabr.ru/post/198230/
+
+Язык программирования J. Взгляд любителя. Часть 3. Массивы | https://habrahabr.ru/post/198228/
+
+Старая, добрая «The Matrix» или визуализатор для матрицы версии один | https://habrahabr.ru/post/198106/
+
+Непрактичные сортировки – бессмысленные и беспощадные | https://habrahabr.ru/post/198114/
+
+Язык программирования J. Взгляд любителя. Часть 2. Тацитное программирование | https://habrahabr.ru/post/198066/
+
+Язык программирования J. Взгляд любителя. Часть 1. Введение | https://habrahabr.ru/post/198052/
+
+Файл, который нужно закоммитить перед уходом с работы | https://habrahabr.ru/post/197266/
+
+Never Gonna Give Your Terminal | https://habrahabr.ru/post/197258/
+
+Разрабатываем под Linux из Windows через sshd: настройка Far и NetBox | https://habrahabr.ru/post/197088/
+
+Случайный генератор буквоцифр и его варианты | https://habrahabr.ru/post/197046/
+
+Application Developer Days — для творческих программистов | https://habrahabr.ru/company/sqalab/blog/196958/
+
+Фетиш-ориентированное программирование | https://habrahabr.ru/post/196400/
+
+ClojureCup 2013 — отчет команды («unmatched | https://habrahabr.ru/post/196116/
+
+Старая печатная машинка c Arduino и Raspberry Pi в роли принтера | https://habrahabr.ru/post/195956/
+
+Кофейня Java Update в GTA V | https://habrahabr.ru/post/195484/
+
+Фракталы в простых числах | https://habrahabr.ru/post/194406/
+
+Чатбот Mitsuku стал победителем «AI Loebner» в этом году | https://habrahabr.ru/post/194378/
+
+UNIX® на приставке Game Boy Advance | https://habrahabr.ru/post/193798/
+
+Ненормальное функциональное программирование на python | https://habrahabr.ru/post/193920/
+
+Квайн на Brainfuck, тьюториал | https://habrahabr.ru/post/193764/
+
+С днем программиста !! атсиммаргорп менд С (Квайн-палиндром) | https://habrahabr.ru/post/189192/
+
+Инсталлятор Miranda для корпоративного Jabber'a на NSIS | https://habrahabr.ru/post/131231/
+
+Perl Golf от REG.RU на YAPC::Europe 2013 | https://habrahabr.ru/company/regru/blog/191704/
+
+Scilab — от поиска факториала до крестиков-ноликов | https://habrahabr.ru/post/192834/
+
+Решение японских кроссвордов одним запросом SQL | https://habrahabr.ru/post/192752/
+
+И снова закинул старик невод… (парсинг хабра, продолжение) | https://habrahabr.ru/post/192670/
+
+Как не надо делать проверку валидности email | https://habrahabr.ru/post/192494/
+
+Умное ксерокопирование с помощью МФУ Kyocera FS-1135 | https://habrahabr.ru/post/192488/
+
+Расчет площади пересечения окружностей методом Монте-Карло | https://habrahabr.ru/post/192272/
+
+Мини-исследование, улучшение и бот для игры Shadow Worlds | https://habrahabr.ru/post/192254/
+
+Недокументированные возможности недокументированных возможностей: Передача ref в другой поток | https://habrahabr.ru/post/192140/
+
+Самые смешные комментарии в исходном коде | https://habrahabr.ru/post/191772/
+
+Шахматы на чистом sed | https://habrahabr.ru/post/191006/
+
+Создаём Zoomquilt | https://habrahabr.ru/post/190786/
+
+Скрипт проверки наличия свободных дат в посольстве | https://habrahabr.ru/post/190870/
+
+Пишем свой отладчик под Windows [часть 2] | https://habrahabr.ru/post/190800/
+
+А квайн ли это? | https://habrahabr.ru/post/190326/
+
+πfs — революционная файловая система без хранения данных­ | https://habrahabr.ru/post/190202/
+
+Esboza — векторный редактор online & фреймворк (Часть вторая) | https://habrahabr.ru/post/176779/
+
+«Многопоточность» WSH VBScript | https://habrahabr.ru/post/189786/
+
+Охота на слова | https://habrahabr.ru/post/189236/
+
+Генератор криптарифмов | https://habrahabr.ru/post/189050/
+
+Мультиквайногенератор | https://habrahabr.ru/post/188852/
+
+Вернулся невод с тиной морскою… | https://habrahabr.ru/post/188678/
+
+Автограммы | https://habrahabr.ru/post/188552/
+
+Мультиязыковые квайны | https://habrahabr.ru/post/188378/
+
+ЯОФ – язык отчетных форм | https://habrahabr.ru/post/188262/
+
+Настоящий многопоточный веб-сервер на ассемблере под Linux | https://habrahabr.ru/post/188114/
+
+Ваш уровень программирования и не только | https://habrahabr.ru/post/187728/
+
+Code Retreat или выходим из зоны комфорта | https://habrahabr.ru/company/skbkontur/blog/187448/
+
+Цепной квайн С# (n=2) | https://habrahabr.ru/post/187494/
+
+C++: Когда время жизни объекта определяется временем жизни ссылки на него | https://habrahabr.ru/post/186790/
+
+Эстафета из 50-ти квайнов | https://habrahabr.ru/post/186782/
+
+Как из одной прикольной фигни сделать еще более прикольную фигню или функциональный язык на коленке | https://habrahabr.ru/post/186668/
+
+MySQL клиент формата A4 | https://habrahabr.ru/post/186650/
+
+Стихи в коде | https://habrahabr.ru/post/186044/
+
+Архив Рекурсивный.7z: какой-то файл и архив Рекурсивный.7z | https://habrahabr.ru/post/185884/
+
+Олимпиада по программированию Летней школы МФТИ по прикладным математике и физике | https://habrahabr.ru/post/185414/
+
+Технология CORE | https://habrahabr.ru/post/185372/
+
+Занимательный C++: Счетчик времени компиляции | https://habrahabr.ru/post/184800/
+
+Размышления о программировании | https://habrahabr.ru/company/r-style/blog/185310/
+
+Полиморфизм без виртуальных функций | https://habrahabr.ru/post/182824/
+
+Assembler для Brainfuck | https://habrahabr.ru/post/182598/
+
+CAPTHСA или обратный тьюринговский тест | https://habrahabr.ru/post/182106/
+
+Downshifting в исполнении Microsoft | https://habrahabr.ru/post/182064/
+
+Пишем музыку с помощью PHP | https://habrahabr.ru/post/182010/
+
+Классы в lua, или избавляемся от двоеточия | https://habrahabr.ru/post/182018/
+
+Пишем свой интерпретируемый шестнадцатиричный язык программирования для QR-кодов | https://habrahabr.ru/post/180989/
+
+Самая маленькая сбойная программа на C | https://habrahabr.ru/post/181021/
+
+VNC через GIF | https://habrahabr.ru/post/180877/
+
+Визуальный язык ДРАКОН и его применение в ракетно-космической отрасли, медицине и других областях. Видео доклада В. Паронджанова | https://habrahabr.ru/post/180709/
+
+Автоматизация однотипных операций при настройке коммутаторов через telnet без программирования | https://habrahabr.ru/post/180281/
+
+Игра Жизнь и преобразование Фурье | https://habrahabr.ru/post/180135/
+
+Тёплый деревянный звук | https://habrahabr.ru/post/179809/
+
+Angry Birds на PLC? | https://habrahabr.ru/company/intel/blog/177153/
+
+jsFind. Выборка данных из массива объектов | https://habrahabr.ru/post/163535/
+
+Несколько подробностей о шаблонах или форк-бомба этапа компиляции | https://habrahabr.ru/post/179137/
+
+Почем оптимизация или «бесплатных завтраков не бывает» | https://habrahabr.ru/post/179267/
+
+Что-то посложнее факториала | https://habrahabr.ru/post/179089/
+
+Реализация стека за счёт … стека вызовов | https://habrahabr.ru/post/178311/
+
+Марафонские задачки по С++ | https://habrahabr.ru/post/177111/
+
+Играем в Pong на стене 29-этажного здания (видео) | https://habrahabr.ru/post/177439/
+
+HackDay #25 в Нижнем Новгороде – теперь с конкурсом Intel | https://habrahabr.ru/company/intel/blog/176985/
+
+Промышленные сети в контексте четвертой промышленной революции | https://habrahabr.ru/company/intel/blog/176313/
+
+Несколько подробностей об std::string | https://habrahabr.ru/post/175691/
+
+Кроссворд из регулярных выражений: интерактивная версия | https://habrahabr.ru/post/175847/
+
+Связные списки в функциональном стиле | https://habrahabr.ru/post/175725/
+
+Как слушать радио с использованием powershell и node.js | https://habrahabr.ru/post/175563/
+
+4-числовая система нумерации версий с датой и минорами | https://habrahabr.ru/post/175187/
+
+AT&T запретил нецензурные пароли | https://habrahabr.ru/post/174937/
+
+«Жемчужный» доступ к 1С: Предприятию 8.2 | https://habrahabr.ru/post/174857/
+
+RPG-игра в рабочей книге Excel | https://habrahabr.ru/post/174373/
+
+Использование словарей в tcl | https://habrahabr.ru/post/174243/
+
+Экаунтология vs Бухгалтерия. Правила компьютерного учета и последствия их несоблюдения | https://habrahabr.ru/post/174119/
+
+Эмуляция хвостовой рекурсии в JavaScript | https://habrahabr.ru/post/173447/
+
+Сортировка методом StackSort | https://habrahabr.ru/post/173333/
+
+Хак поиска кратчайшего пути в StarCraft | https://habrahabr.ru/post/171529/
+
+Установка «безопасного соединения» с банком Wells Fargo | https://habrahabr.ru/post/171427/
+
+Автоматическое дифференцирование «на пальцах» | https://habrahabr.ru/company/intel/blog/170729/
+
+Эзотерический язык 4DL | https://habrahabr.ru/post/170875/
+
+Непоследовательный компьютер | https://habrahabr.ru/post/169599/
+
+Вычисление рекуррентных соотношений на Perl | https://habrahabr.ru/post/169469/
+
+Portable Prism | https://habrahabr.ru/post/169471/
+
+Malbolge: Programming from Hell | https://habrahabr.ru/post/169455/
+
+Кроссворд из регулярных выражений | https://habrahabr.ru/post/168591/
+
+Игры для программистов | https://habrahabr.ru/post/168453/
+
+Реализация алгоритма Евклида на Shakespeare | https://habrahabr.ru/post/167363/
+
+Объектно-дезориентированный язык | https://habrahabr.ru/post/167247/
+
+WindowsAndroid позволяет запускать Android 4.0 ICS как Windows-приложение | https://habrahabr.ru/post/167057/
+
+Excel для Windows 2.x по-русски | https://habrahabr.ru/post/166625/
+
+Первая игра, которую я просто написал для себя | https://habrahabr.ru/post/166057/
+
+Quipu — эзотерический язык программирования на основе узелковой письменности Инков | https://habrahabr.ru/post/165661/
+
+Система мониторинга на BASH | https://habrahabr.ru/post/165171/
+
+Изменение кода программы во время ее выполнения на примере Common Lisp | https://habrahabr.ru/post/165095/
+
+Дело было вечером, echo «было нечего» | https://habrahabr.ru/post/165013/
+
+С новым годом! или Демосцена на калькуляторе | https://habrahabr.ru/post/164431/
+
+Мюнхгаузен-стайл, или один ненормальный способ запускать Java-программы на Android | https://habrahabr.ru/post/164425/
+
+Решение рекурсивной логической головоломки на Oracle SQL | https://habrahabr.ru/post/163975/
+
+Как мы читаем код | https://habrahabr.ru/post/163259/
+
+Скриптинг для бюджетной активации (часть 1) | https://habrahabr.ru/post/162865/
+
+Поисковая система из прошлого | https://habrahabr.ru/post/162395/
+
+Встречали ли вы мат в коде/комментариях/конфигурационных файлах? | https://habrahabr.ru/post/161547/
+
+Играем в Portal на калькуляторах TI-83 и TI-84 | https://habrahabr.ru/post/161329/
+
+Роботизированная лампа в стиле Pixar на основе Arduino | https://habrahabr.ru/post/161143/
+
+Программист из Латвии пытается в одиночку написать ОС | https://habrahabr.ru/post/160427/
+
+Не так страшен DRM, как его малюют | https://habrahabr.ru/post/160419/
+
+Странное поведение Task Manager в Windows Server 2012 | https://habrahabr.ru/post/160161/
+
+Апокалипсис уже через месяц!? — надо бы успеть заработать… | https://habrahabr.ru/post/159663/
+
+Разомнем мозг при помощи Forth? | https://habrahabr.ru/post/159351/
+
+Танковые маневры на Russian AI Cup | https://habrahabr.ru/post/158749/
+
+W.Script языки. Часть 2 — высокоуровневые языки, или зачем нам в корпорации C++ | https://habrahabr.ru/post/158099/
+
+W.Script языки программирования, или как мы развлекаемся в нашей компании | https://habrahabr.ru/post/158013/
+
+Оптимизируем… распараллеливаем… взлетаем! | https://habrahabr.ru/company/intel/blog/157561/
+
+Вычисляемые поля для любого LINQ-провайдера | https://habrahabr.ru/post/155437/
+
+Добавляем немного виртуальности в C | https://habrahabr.ru/post/155439/
+
+Итоги 21-го конкурса IOCCC | https://habrahabr.ru/post/155335/
+
+ELF — приложение на телефоне LG? | https://habrahabr.ru/post/155289/
+
+FiM++ | https://habrahabr.ru/post/155131/
+
+Шаблоны на C. Да! На чистом С. Не С++ | https://habrahabr.ru/post/154811/
+
+Машина Тьюринга и ассемблер | https://habrahabr.ru/post/154669/
+
+Как я Boost.Any с Boost.MPL дружил | https://habrahabr.ru/post/154311/
+
+Самая короткая запись асинхронных вызовов в tornado v2, или патчим AST | https://habrahabr.ru/post/153949/
+
+iTunes 10.7 пытался подключиться к домену bogusapple.com | https://habrahabr.ru/post/153259/
+
+x86 на производстве: high end промышленные контроллеры, Паскаль и вирусы | https://habrahabr.ru/company/intel/blog/148090/
+
+Почему иногда надо бить себя по рукам? | https://habrahabr.ru/post/152929/
+
+Hello world для виртуальной машины RAR (RarVM) | https://habrahabr.ru/post/152803/
+
+Создаем рекурсивные ярлыки в Windows | https://habrahabr.ru/post/152747/
+
+Прошиваем AVR вручную | https://habrahabr.ru/post/152052/
+
+Логично, но незаконно | https://habrahabr.ru/post/151964/
+
+Решение задачи коммивояжёра на плоскости рекурсивным жадным алгоритмом | https://habrahabr.ru/post/151954/
+
+Считаем скобочки на Oracle SQL | https://habrahabr.ru/post/151895/
+
+Генератор телеметрии станции Мир, или почему нельзя обижать программистов | https://habrahabr.ru/post/151745/
+
+Связка MODx Revolution + LiveStreet | https://habrahabr.ru/post/151540/
+
+«Концепты» на C++ | https://habrahabr.ru/post/151504/
+
+Анимированный GIF со звуком | https://habrahabr.ru/post/151203/
+
+Уровни для Сокобана | https://habrahabr.ru/post/150882/
+
+LISP-интерпретатор на чистом C | https://habrahabr.ru/post/150805/
+
+Vanilla JS — очень мощный javascript-фреймворк | https://habrahabr.ru/post/150594/
+
+Drupal, как игровая платформа (часть 1) | https://habrahabr.ru/post/150544/
+
+Программу «научили» определять город по архитектуре | https://habrahabr.ru/post/149354/
+
+Что быстрее преобразует int в std::string в с++? Настройки компилятора на максимальную скорость | https://habrahabr.ru/post/149296/
+
+Siemens SGold: взлом через Java | https://habrahabr.ru/post/149068/
+
+Частичное применение и каррирование в C++ | https://habrahabr.ru/post/149056/
+
+Биржевой робот за 45 минут привел к убыткам в 440 миллионов долларов | https://habrahabr.ru/post/149019/
+
+«Умная» корзина для мусора из Японии подбирает все на лету | https://habrahabr.ru/post/148343/
+
+Занимательное функциональное программирование в Ruby | https://habrahabr.ru/post/148076/
+
+Несколько недоразумений парного программирования | https://habrahabr.ru/post/147921/
+
+Управление GIT-ом через веб-консоль на PHP | https://habrahabr.ru/post/147919/
+
+God object. Анализ сложных проектов | https://habrahabr.ru/post/147834/
+
+MHook vs Zuma | https://habrahabr.ru/post/147721/
+
+Реверс-инжинирим игру Hogs of War, часть 1 | https://habrahabr.ru/post/147350/
+
+Бобровый Утёс и другие земли Вестероса в мире Minecraft | https://habrahabr.ru/post/147320/
+
+Bash: автообнаружение противника для сетевой игры на «Маках» | https://habrahabr.ru/post/147238/
+
+FuckItJS: принудительное исполнение JavaScript-кода | https://habrahabr.ru/post/146844/
+
+Пишем эмулятор приставки ч2, или немного о CHIP16 | https://habrahabr.ru/post/146496/
+
+Сбой робота на бирже ММВБ-РТС | https://habrahabr.ru/post/146380/
+
+Методы, как first class citizens в C++ | https://habrahabr.ru/post/145673/
+
+Искусственный разум, интеллект, жизнь… Долго ли их еще ждать? | https://habrahabr.ru/post/145659/
+
+Девушка с татуировкой ANSI | https://habrahabr.ru/post/145425/
+
+look-at — менеджер фокуса | https://habrahabr.ru/post/145018/
+
+Недуги проект-дезориентированного ПО | https://habrahabr.ru/post/144730/
+
+Как работает приложение InstaCRT? | https://habrahabr.ru/post/144612/
+
+Запрограммируем вакансию | https://habrahabr.ru/post/144603/
+
+Сортировка в одну строку | https://habrahabr.ru/post/144510/
+
+Entropy — Неточный язык программирования | https://habrahabr.ru/post/144300/
+
+Мод для Minecraft, добавляющий микропроцессор | https://habrahabr.ru/post/144244/
+
+Пишем и оптимизируем Жизнь Конуэя на JS | https://habrahabr.ru/post/144237/
+
+Ассемблер: прячем несколько команд в команде | https://habrahabr.ru/post/144076/
+
+Графический «велосипед» по мотивам Turbo Vision (дела давно минувших дней) | https://habrahabr.ru/post/143981/
+
+Использование синтезатора в качестве компьютерной клавиатуры | https://habrahabr.ru/post/143893/
+
+Бестиповое лямбда-исчисление, комбинаторы, Unlambda и числа Фибоначчи | https://habrahabr.ru/post/143818/
+
+Создание 1k/4k intro для Linux, часть 2 | https://habrahabr.ru/post/143766/
+
+Minecraft в Minecraft'e | https://habrahabr.ru/post/143363/
+
+Летняя молодежная школа — стажировка в Intel 0x7DC | https://habrahabr.ru/company/intel/blog/143228/
+
+Xscreensaver из часов на Esquire.ru | https://habrahabr.ru/post/143208/
+
+Acceler8 2011 — Accelerate 2012 — и так далее | https://habrahabr.ru/company/intel/blog/142982/
+
+Итоги 20-го международного конкурса непонятного кода на C | https://habrahabr.ru/post/143072/
+
+Сотрудник по фамилии Нуль обрушил корпоративное ПО | https://habrahabr.ru/post/142956/
+
+Американский музыкант положил на музыку математическую константу Тау | https://habrahabr.ru/post/142886/
+
+Как собрать свою JDK, без блекджека и автоматической сборки мусора | https://habrahabr.ru/post/142447/
+
+Тетрис для DCPU-16 | https://habrahabr.ru/post/142539/
+
+Самый правильный безопасный printf | https://habrahabr.ru/post/142352/
+
+Клуб анонимных PHP'ешников | https://habrahabr.ru/post/142504/
+
+«Конкурс параллельного программирования Accelerate 2012» или «6 ультрабуков и 10 SSD хватит всем!» | https://habrahabr.ru/company/intel/blog/142312/
+
+DeepClone на javascript, который можно твитнуть | https://habrahabr.ru/post/141961/
+
+«Паскалевская графика на HTML5» или «Что Opera сделала с Rainbow Dash» | https://habrahabr.ru/post/141910/
+
+Github включил ассемблер DCPU-16 в список официально поддерживаемых языков | https://habrahabr.ru/post/141883/
+
+Dropbox Chat | https://habrahabr.ru/post/141688/
+
+Мониторинг сайта с помощью Google Docs | https://habrahabr.ru/post/141686/
+
+Поддержка камеры и распознавание цифр в браузере «Опера» | https://habrahabr.ru/post/141624/
+
+Школьные забавы или мультиплеерная игра без сокетов и p2p | https://habrahabr.ru/post/141481/
+
+Автоматизированное копирование 3.5" дискет на основе Arduino | https://habrahabr.ru/post/141385/
+
+Цзяньшицзы и tcl | https://habrahabr.ru/post/141029/
+
+Bitbucket анонсировали парное программирование — Spooning | https://habrahabr.ru/post/141155/
+
+Конспект монографии по λ-исчислению | https://habrahabr.ru/post/141104/
+
+Исследование платформ для сервера minecraft. Создание собственного сервера Minecraft | https://habrahabr.ru/post/140731/
+
+Будущее информационного развития. Утопия или конец света? | https://habrahabr.ru/post/140666/
+
+Условия if...else | https://habrahabr.ru/post/140152/
+
+Рекурсивные функции — создание собственной математики (Scala) | https://habrahabr.ru/post/139755/
+
+Изучение английского и старый добрый CMD | https://habrahabr.ru/post/139237/
+
+Сетевое обращение к библиотекам и рантайм-формирование вызовов функций | https://habrahabr.ru/post/138633/
+
+Вебсервер nginx + fastcgi-wrapper + matlab | https://habrahabr.ru/post/138984/
+
+Автоматическое добавление keywords к файлам в TortoiseSVN под Windows | https://habrahabr.ru/post/138941/
+
+Вам не страшно открывать редактор? | https://habrahabr.ru/post/138754/
+
+Виртуальные функции в C | https://habrahabr.ru/post/138684/
+
+Использование bat файлов для создания «Заданий по расписанию» | https://habrahabr.ru/post/138678/
+
+Консольный проигрыватель .wav для pc-speaker в Linux | https://habrahabr.ru/post/138144/
+
+Использование bat файлов для развертывания приложений | https://habrahabr.ru/post/138162/
+
+Русская рулетка с использованием Kinect | https://habrahabr.ru/post/137696/
+
+Знакoмство с flex sdk | https://habrahabr.ru/post/137117/
+
+DOOM на калькуляторе | https://habrahabr.ru/post/136741/
+
+Симплекс Серпинского | https://habrahabr.ru/post/136696/
+
+Я не знаю Си | https://habrahabr.ru/post/136283/
+
+Новогодний квест: разбор | https://habrahabr.ru/post/135608/
+
+Brainfuck на ленте с ячейками неограниченной разрядности | https://habrahabr.ru/post/135561/
+
+Новогодний квест | https://habrahabr.ru/post/135518/
+
+Поздравление С Новым годом в стиле Brainfuck | https://habrahabr.ru/post/128400/
+
+Сортировка цифр на Brainfuck | https://habrahabr.ru/post/135262/
+
+Ненормальный Agile в финансах | https://habrahabr.ru/post/135183/
+
+Создание 1k/4k intro для Linux, часть 1 | https://habrahabr.ru/post/134551/
+
+Извлечение квадратного корня с помощью нормальных алгоритмов Маркова | https://habrahabr.ru/post/133893/
+
+Первый язык программирования высокого уровня — Планкалкюль | https://habrahabr.ru/post/133887/
+
+Программирование в стиле Теремка | https://habrahabr.ru/post/133697/
+
+Обработка XML конфигурации Citrix XenServer 5.6 Free напрямую | https://habrahabr.ru/post/133097/
+
+HelloWorld — это просто? | https://habrahabr.ru/post/133087/
+
+C++ Variadic templates. Каррирование и частичное применение | https://habrahabr.ru/post/133084/
+
+Интерактивная открытка в виде HTA | https://habrahabr.ru/post/132876/
+
+Международный конкурс по обфускации кода на C | https://habrahabr.ru/post/132665/
+
+Happy Nerd New Year! | https://habrahabr.ru/post/132417/
+
+Удалённое парное программирование с использованием GNU Screen | https://habrahabr.ru/post/132354/
+
+Загрузка динамической библиотеки из памяти в Linux | https://habrahabr.ru/post/131725/
+
+Эмулятор i8080 на bash | https://habrahabr.ru/post/131331/
+
+CubeStormer II собирает «Кубик Рубика» за 5 секунд | https://habrahabr.ru/post/130554/
+
+Результаты конкурса 10k Apart — Responsive Edition | https://habrahabr.ru/post/130408/
+
+Шутер с псевдо-3D графикой на… bash | https://habrahabr.ru/post/130021/
+
+Регистрация\Авторизация через картинку | https://habrahabr.ru/post/129824/
+
+Команда разработчиков «научила» квадрокоптер ловить шарики для пинг-понга | https://habrahabr.ru/post/129000/
+
+Сетевая игра на bash: шахматы | https://habrahabr.ru/post/128549/
+
+Необычные поздравления с днем программиста — 2 | https://habrahabr.ru/post/128398/
+
+Символ студии Pixar воссоздали в реальности | https://habrahabr.ru/post/128212/
+
+Как писать квайны | https://habrahabr.ru/post/128191/
+
+Задача о восьми Ферзях на Oracle SQL | https://habrahabr.ru/post/128137/
+
+Изобретаем язык программирования для тренировки мозгов. Или эзотерический язык программирования за 5 минут | https://habrahabr.ru/post/128120/
+
+Нестандартное использование Get и Set в Javascript | https://habrahabr.ru/post/126804/
+
+Использование семантической аннотации для идентификации требований | https://habrahabr.ru/post/126248/
+
+Небольшая или большая интроспективная программа на C/C++ | https://habrahabr.ru/post/126075/
+
+Property в C++ (с доступом по имени, но без сеттеров) | https://habrahabr.ru/post/125941/
+
+Property в С++ на С++ (без применения препроцессора) | https://habrahabr.ru/post/125937/
+
+Странности в ретро-стиле | https://habrahabr.ru/post/125640/
+
+Необычные обычные конструкции | https://habrahabr.ru/post/125582/
+
+Программирование без использования условных конструкций | https://habrahabr.ru/post/124878/
+
+Вычисление простых чисел на шаблонах C++ | https://habrahabr.ru/post/124476/
+
+Учимся верстать под… QIP? | https://habrahabr.ru/post/124242/
+
+Умелец добавил еще один дисплей к Nexus One | https://habrahabr.ru/post/123445/
+
+Нездоровый минимализм: ide | https://habrahabr.ru/post/123163/
+
+Интерпретатор Brainfuck на BAT | https://habrahabr.ru/post/123034/
+
+Передача файла сигналами | https://habrahabr.ru/post/122823/
+
+Поиск гамильтонова пути с помощью мембранной системы за полиномиальное время | https://habrahabr.ru/post/122295/
+
+Многопользовательский чат на BAT | https://habrahabr.ru/post/121903/
+
+Кто разводит рыбок? Или решение загадки Эйнштейна регулярным языком | https://habrahabr.ru/post/121061/
+
+Пишем интерпретатор для своего эзотерического языка (часть 2) | https://habrahabr.ru/post/120279/
+
+Тачпад и клавиатура из подручного девайса на Windows Mobile | https://habrahabr.ru/post/120247/
+
+Рекурсивный zip-архив | https://habrahabr.ru/post/119676/
+
+Кросс-языковое программирование | https://habrahabr.ru/post/119094/
+
+Драм-машина на Perl в 120 строк | https://habrahabr.ru/post/118495/
+
+Книга о мухах за $23,698,655.93 | https://habrahabr.ru/post/118114/
+
+Пишем интерпретатор для своего эзотерического языка | https://habrahabr.ru/post/116004/
+
+Пи в языках программирования | https://habrahabr.ru/post/115401/
+
+Превращаем C# в C++: ручное управление памятью | https://habrahabr.ru/post/115328/
+
+Эмулятор РАМ-машины | https://habrahabr.ru/post/115229/
+
+Гик приспособил Kinect для игры в Tetris | https://habrahabr.ru/post/114792/
+
+Игры от Game Boy на осциллографе | https://habrahabr.ru/post/114700/
+
+SwimBrowser — браузер, который управляется посредством Kinect | https://habrahabr.ru/post/114402/
+
+Классический Doom запущен на калькуляторе TI-Nspire | https://habrahabr.ru/post/114213/
+
+Преобразование hex->dec — ищем красивые решения | https://habrahabr.ru/post/113688/
+
+Проверить наличие цифр в строке | https://habrahabr.ru/post/113544/
+
+Интерпретатор Brainfuck на Brainfuck | https://habrahabr.ru/post/113446/
+
+Взлом программы однокомандного процессора | https://habrahabr.ru/post/113406/
+
+Brainfuck — вывод в десятичном формате | https://habrahabr.ru/post/113252/
+
+Интерпретатор Brainfuck с помощью нормальных алгоритмов Маркова | https://habrahabr.ru/post/113234/
+
+Компилятор Brainfuck в .NET | https://habrahabr.ru/post/113215/
+
+Машина Тьюринга на чистом SQL | https://habrahabr.ru/post/113165/
+
+Параллелим Brainfuck | https://habrahabr.ru/post/113158/
+
+А мы пойдем другим путем. Перемещаем модель в базу данных | https://habrahabr.ru/post/113124/
+
+Пишем интерпретатор Brainfuck на Mercury | https://habrahabr.ru/post/113099/
+
+Формирование данных с помощью шаблонов С++ | https://habrahabr.ru/post/113026/
+
+Интерпретатор Brainfuck на Bash | https://habrahabr.ru/post/112989/
+
+Пишем интерпретатор Brainfuck на Lua | https://habrahabr.ru/post/112919/
+
+Числовые подписи | https://habrahabr.ru/post/112831/
+
+Просмотри видео на сканере штрихкодов | https://habrahabr.ru/post/112726/
+
+Программируем в dc (desktop calculator) | https://habrahabr.ru/post/112585/
+
+Закономерные случайности | https://habrahabr.ru/post/112300/
+
+Kinect + проектор = файерболы в дополненной реальности | https://habrahabr.ru/post/112060/
+
+Числа Фибоначчи на Brainfuck | https://habrahabr.ru/post/111935/
+
+«Чашка чая» на разных языках | https://habrahabr.ru/post/111703/
+
+Эмулятор игры «жизнь» на языке GLSL | https://habrahabr.ru/post/111332/
+
+Программирование на машине Поста | https://habrahabr.ru/post/111272/
+
+FTP-протокол + WinSocks на примере простого FTP-клиента (зеркала) на ASM! | https://habrahabr.ru/post/111241/
+
+Выращиваем программы | https://habrahabr.ru/post/111124/
+
+Обратная польская запись на языке ассемблера с синтаксисом AT&T | https://habrahabr.ru/post/111143/
+
+CGI-программирование на ассемблере?!? – Легко! | https://habrahabr.ru/post/111131/
+
+Программирование на калькуляторе | https://habrahabr.ru/post/111099/
+
+Как я наказал Firaxis или история о том, как перебрать бинарный движок через глушитель | https://habrahabr.ru/post/110395/
+
+Нормальный алгоритм Маркова для деления чисел | https://habrahabr.ru/post/110004/
+
+Эмулятор машины Тьюринга на MySQL | https://habrahabr.ru/post/109611/
+
+Обфускация HTML в один байт? | https://habrahabr.ru/post/109106/
+
+Конфетки для Валерки | https://habrahabr.ru/post/109076/
+
+3D Console Renderer | https://habrahabr.ru/post/107268/
+
+Новозеландский программист создал бота-потребителя | https://habrahabr.ru/post/107983/
+
+Воздушный бой на чистом HTML | https://habrahabr.ru/post/105792/
+
+Строим плагиноориентированную модульную систему | https://habrahabr.ru/post/105545/
+
+Литературное программирование | https://habrahabr.ru/post/105371/
+
+Победители 10k Apart | https://habrahabr.ru/post/104332/
+
+Необычные поздравления с днем программиста | https://habrahabr.ru/post/104084/
+
+Все решения к задачке к Дню Программиста | https://habrahabr.ru/post/104098/
+
+C Днем Программиста! | https://habrahabr.ru/post/104077/
+
+Идеальный эксперт или гороскопы на службе ERP | https://habrahabr.ru/post/103953/
+
+Кубик Рубика за 20 шагов | https://habrahabr.ru/post/103843/
+
+RGB Invaders для 10K Apart | https://habrahabr.ru/post/102787/
+
+Свой Web-PDF принтер за 10 минут | https://habrahabr.ru/post/102124/
+
+Какой у вас подход к изучению нового в разработке ПО? | https://habrahabr.ru/post/97798/
+
+История сумасшествия или свой морской бой на BrainFuck`e | https://habrahabr.ru/post/95126/
+
+Perl write-only vs. JS write-only | https://habrahabr.ru/post/94797/
+
+Улучшаем 3d движок на js: Gouraud shading | https://habrahabr.ru/post/94519/
+
+Практика функционального программирования №5 | https://habrahabr.ru/post/94487/
+
+3d движок на js + canvas | https://habrahabr.ru/post/93594/
+
+10 противоестественных способов вычисления чисел Фибоначчи | https://habrahabr.ru/post/94421/
+
+C# to Java (вызов C# dll из Java) | https://habrahabr.ru/post/92924/
+
+TBDB, или пишем базу данных на BASH | https://habrahabr.ru/post/92864/
+
+Главная тема из игры Super Mario на двух DC-моторах | https://habrahabr.ru/post/92650/
+
+Возможности NTFS для хранения настроек вашей программы | https://habrahabr.ru/post/92432/
+
+Код на php внутри ваших bat файлов | https://habrahabr.ru/post/92019/
+
+Сам такого от себя не ожидал | https://habrahabr.ru/post/91201/
+
+О некоторых особенностях написания дистрибутивных пакетов на NSIS для х64 систем | https://habrahabr.ru/post/90412/
+
+Результаты конкурса на лучшую #codejoke | https://habrahabr.ru/post/89717/
+
+Пятнашки на TCL в 10 строк | https://habrahabr.ru/post/89919/
+
+Реверси на TCL в 64 строки | https://habrahabr.ru/post/89822/
+
+~~Две тильды | https://habrahabr.ru/post/89785/
+
+NoCanvas: Dangerous | https://habrahabr.ru/post/88791/
+
+Все знают что "++i + ++i" — плохо, но что-же за ширмой? | https://habrahabr.ru/post/88185/
+
+NoCanvas Universe | https://habrahabr.ru/post/85363/
+
+Шуточный конкурс с дельными призами | https://habrahabr.ru/post/85317/
+
+STDIO плагины или как совместить несовместимое | https://habrahabr.ru/post/83756/
+
+Море волнуется раз ..., или Капча 4D | https://habrahabr.ru/post/82771/
+
+Деревянные игрушки или Как я писал мобильные игры с телефона | https://habrahabr.ru/post/82730/
+
+No Canvas | https://habrahabr.ru/post/82004/
+
+Лепестки роз на bash | https://habrahabr.ru/post/80291/
+
+Сетевой морской бой на bash | https://habrahabr.ru/post/80122/
+
+Свои судоку на своих батниках | https://habrahabr.ru/post/78027/
+
+Ругательства в коде | https://habrahabr.ru/post/76635/
+
+Работа с массивами в bat | https://habrahabr.ru/post/75951/
+
+Программируем «на уровне операционной системы» | https://habrahabr.ru/post/75682/
+
+Цепной квайн произвольного порядка на Python | https://habrahabr.ru/post/75663/
+
+Свой сапер на своих батниках | https://habrahabr.ru/post/75649/
+
+Цепной квайн | https://habrahabr.ru/post/74827/
+
+Немного Математики, Хабра и Марио или играемся с табулированием | https://habrahabr.ru/post/73963/
+
+PHP: массивы, возвращаемые функцией | https://habrahabr.ru/post/73358/
+
+Ностальгия: «Ящеры» на батнике | https://habrahabr.ru/post/72832/
+
+Крестики-нолики по-русски! | https://habrahabr.ru/post/72627/
+
+«OOC для C, — это как Scala для Java» | https://habrahabr.ru/post/72538/
+
+Ненормальное программирование. Разработка IF игр | https://habrahabr.ru/post/72310/
+
+Примеры использования языкоориентированного программирования | https://habrahabr.ru/post/71557/
+
+Katahdin: метапрограммирование на грани фантастики | https://habrahabr.ru/post/70714/
+
+Альтернативные токены и триграфы в С++ | https://habrahabr.ru/post/64867/
+
+Что меня спрашивали на собеседовании | https://habrahabr.ru/post/63945/
+
+Осторожно! Регекспы! | https://habrahabr.ru/post/63944/
+
+Автоматическое дифференцирование | https://habrahabr.ru/post/63055/
+
+Взаимодействие между несколькими .bat, мультиплеер на .bat | https://habrahabr.ru/post/62919/
+
+Полиглоты | https://habrahabr.ru/post/62058/
+
+Мандельброт на .bat «for fun» | https://habrahabr.ru/post/62043/
+
+Языки программирования — У кого короче код? | https://habrahabr.ru/post/58631/
+
+LISP-программирование как жанр искусства | https://habrahabr.ru/post/56849/
+
+Io Language: Метапрограммирование | https://habrahabr.ru/post/50873/
+
+Brainfuck Quine | https://habrahabr.ru/post/49209/
+
+Three Futamura Projections и не только | https://habrahabr.ru/post/47418/
+
+Программирование на языке Piet для сусликов | https://habrahabr.ru/post/42738/
+
+Простой калькулятор на " боярском" диалекте MSVС++ | https://habrahabr.ru/post/41561/
+
+Боярское программирование | https://habrahabr.ru/post/41303/
+
+Как играть в «программирование» или путь программиста. | https://habrahabr.ru/post/39300/
+
+Метапрограммирование в C++ | https://habrahabr.ru/post/38622/
+
+Проектирование по контракту | https://habrahabr.ru/post/38612/
+
+Полиморфизм, шмолиморфизм… | https://habrahabr.ru/post/37640/
+
+HTTP сервер на bash | https://habrahabr.ru/post/37245/
+
+Io Language: Система сообщений | https://habrahabr.ru/post/29375/
+
+www.contextfreeart.org — программирование на службе искусства | https://habrahabr.ru/post/28393/
+
+Io Language: Объектная система | https://habrahabr.ru/post/28254/
+
+Io Language: Синтаксис | https://habrahabr.ru/post/28167/
+
+Io programming language | https://habrahabr.ru/post/28041/
+
+Микроядерная Real Time OS — необходимый функционал на простом примере | https://habrahabr.ru/post/27490/
+
+Чем изучение Haskell/Python вредит программисту | https://habrahabr.ru/post/31541/
+
+К вопросу об интроспективных программах | https://habrahabr.ru/post/19875/
+
+Прохождение сапера на поле 9x9 с 32-мя минами | https://habrahabr.ru/post/14792/
+
+[prog] debug при разработке сайтов | https://habrahabr.ru/post/1083/
+
+[usr] простые раскодировщики | https://habrahabr.ru/post/920/
+
+[prog] Как облегчить мучения пользователей и себя пользователями | https://habrahabr.ru/post/919/
+

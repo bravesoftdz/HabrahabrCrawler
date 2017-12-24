@@ -1,0 +1,330 @@
+«Истина в вине» или пробуем программировать NanoCAD под Linux (MultiCAD.NET API) | https://habrahabr.ru/post/344884/
+
+Команда разработчиков Renga: как мы достигли идиллии, работая без менеджеров | https://habrahabr.ru/company/ascon/blog/343840/
+
+Настройка пользовательского интерфейса при установке приложений на nanoCAD Plus 8.5 | https://habrahabr.ru/company/nanosoft/blog/343496/
+
+«Я слежу за тобой» или как из CADa сделать SCADA (MultiCAD.NET API) | https://habrahabr.ru/post/343772/
+
+Работа с API КОМПАС-3D → Урок 6 → Построение дуги окружности | https://habrahabr.ru/company/ascon/blog/342032/
+
+Знакомьтесь, NoteCAD | https://habrahabr.ru/post/341816/
+
+«Как баран на новые ворота» или пользовательские «псевдо-3D» объекты в NanoCAD с помощью MultiCAD.NET API | https://habrahabr.ru/post/342680/
+
+«Лицо без шрама» или первые шаги в Multicad.NET API 7 (для Nanocad 8.1) | https://habrahabr.ru/post/342186/
+
+Работа с API КОМПАС-3D → Урок 5 → Графические примитивы | https://habrahabr.ru/company/ascon/blog/342030/
+
+Работа с API КОМПАС-3D → Урок 4 → Основная надпись | https://habrahabr.ru/company/ascon/blog/337288/
+
+Охотники за багами: тестировщики АСКОН проходят испытание хитрыми вопросами | https://habrahabr.ru/company/ascon/blog/337472/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 2 | https://habrahabr.ru/company/ascon/blog/335110/
+
+Векторная геометрия для разработчиков Revit AP | https://habrahabr.ru/post/336502/
+
+Просмотрщик КОМПАС-3D для Android: опыт портирования крупного Windows-приложения | https://habrahabr.ru/company/ascon/blog/336300/
+
+Параметрическое моделирование в САПР SolveSpace: «Неисповедимы пути Решателя» или «Червоточины Ньютона» | https://habrahabr.ru/post/335962/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 1 | https://habrahabr.ru/company/ascon/blog/334814/
+
+Семейство марки с поворотом (Tag) для загружаемых семейств Autodesk Revit | https://habrahabr.ru/post/334812/
+
+Интеграция Oculus Rift в десктопное Direct3D приложение на примере Renga | https://habrahabr.ru/company/ascon/blog/332806/
+
+Интеграция 3D-мыши в Renga | https://habrahabr.ru/company/ascon/blog/332676/
+
+Работа с API КОМПАС-3D → Урок 3 → Корректное подключение к КОМПАС | https://habrahabr.ru/company/ascon/blog/332554/
+
+Работа с API КОМПАС-3D → Урок 2 → Оформление чертежа | https://habrahabr.ru/company/ascon/blog/330588/
+
+Однолинейные схемы в Revit | https://habrahabr.ru/post/330128/
+
+Работа с API КОМПАС-3D → Урок 1 → Основы | https://habrahabr.ru/company/ascon/blog/328088/
+
+Как победить день сурка → Автоматизация тестирования нового интерфейса КОМПАС-3D v17 | https://habrahabr.ru/company/ascon/blog/327266/
+
+Как устроено тестирование у разработчиков КОМПАС-3D | https://habrahabr.ru/company/ascon/blog/327582/
+
+Культурный Embedded на IT Global Meetup В СПБ | https://habrahabr.ru/company/metrotek/blog/327766/
+
+Автоматизированная генерация схемных компонентов из PDF файлов для Altium Designer | https://habrahabr.ru/post/327628/
+
+Параметрическое моделирование в САПР SolveSpace: Степени свободы и уравнения ограничений | https://habrahabr.ru/post/325770/
+
+Создание кнопки LISP-приложения в nanoCAD | https://habrahabr.ru/company/nanosoft/blog/324784/
+
+Параметрическое моделирование в САПР SolveSpace: Эскиз | https://habrahabr.ru/post/324514/
+
+Параметрическое моделирование в САПР SolveSpace: Введение | https://habrahabr.ru/post/324160/
+
+Python на службе у конструктора. Укрощаем API Kompas 3D | https://habrahabr.ru/post/323078/
+
+MVC-шаблон программирования как способ реализации процесса проектирования в Ревит | https://habrahabr.ru/post/322484/
+
+Электрические схемы в Autocad с помощью .NET | https://habrahabr.ru/post/322042/
+
+Практические приемы использования многопоточных вычислений при работе с Revit API | https://habrahabr.ru/post/321816/
+
+Удаленное подключение к сетевому ключу CodeMeter для ARCHICAD | https://habrahabr.ru/company/nanosoft/blog/321208/
+
+Через тернии к облакам: создание облачного сервиса для 3D проектирования и дизайна помещений на базе ядра C3D и WebGL | https://habrahabr.ru/post/319406/
+
+Сводная информационная модель здания: практическое занятие по технологии OpenBIM | https://habrahabr.ru/company/nanosoft/blog/320048/
+
+nanoCAD Plus 8.1: что ожидает пользователя в новой версии российской САПР-платформы? | https://habrahabr.ru/company/nanosoft/blog/319154/
+
+Управляем автоматом на Groovy/Java. Как ЧПУ станку в домашней мастерской не превратиться в мульт героев «двое из ларца» | https://habrahabr.ru/post/314462/
+
+Моделирование кинематики — это не сложно | https://habrahabr.ru/post/313138/
+
+Документация Blendercam на русском | https://habrahabr.ru/post/307068/
+
+Представление движений в 3D моделировании: интерполяция, аппроксимация и алгебры Ли | https://habrahabr.ru/company/aligntechnology/blog/306400/
+
+Импортируем DXF чертеж в программе на Java, наступая на все грабли этого «простого» формата | https://habrahabr.ru/post/301484/
+
+Новый кандидат в релизы САПР Qucs-0.0.19S-RC6 | https://habrahabr.ru/post/302006/
+
+Давайте знакомиться: компания Align Technology | https://habrahabr.ru/company/aligntechnology/blog/283470/
+
+Еще раз о минимизации булевых функций | https://habrahabr.ru/post/283030/
+
+Teigha for Architecture: First project | https://habrahabr.ru/post/280284/
+
+Создание дистрибутива nanoCAD с пользовательскими настройками | https://habrahabr.ru/company/nanosoft/blog/279537/
+
+AutoCAD & RTree | https://habrahabr.ru/post/278765/
+
+Технология BIM: пример практического междисциплинарного взаимодействия | https://habrahabr.ru/company/nanosoft/blog/278115/
+
+Анализ текущей ситуации на российском BIM-рынке в области гражданского строительства | https://habrahabr.ru/company/nanosoft/blog/276587/
+
+Опыт установки SolidWorks на виртуальной машине Windows 7 в хостовой ОС Ubuntu | https://habrahabr.ru/post/275441/
+
+MultiCAD.NET API: вставка блока с атрибутами | https://habrahabr.ru/company/nanosoft/blog/269203/
+
+Может ли nanoCAD заменить западные САПР-решения? Давайте искать ответ… | https://habrahabr.ru/company/nanosoft/blog/271343/
+
+AutoCAD: Связь с внешними данными | https://habrahabr.ru/post/271109/
+
+Node.js на службе разработчика электроники: создаём библиотеки микросхем | https://habrahabr.ru/post/271051/
+
+Тестируем NVIDIA GRID + VMware Horizon | https://habrahabr.ru/company/stss/blog/269087/
+
+Tekla Structures API (Delphi): подключение и простые примеры | https://habrahabr.ru/post/262333/
+
+Портирование С++ приложений на платформу nanoCAD, использование страниц свойств проекта | https://habrahabr.ru/company/nanosoft/blog/267593/
+
+Простой алгоритм определения пересечения двух отрезков | https://habrahabr.ru/post/267037/
+
+AutoCAD Architecture: First project | https://habrahabr.ru/post/265617/
+
+Введение в AutoCAD Architecture | https://habrahabr.ru/post/271571/
+
+Ядерные технологии в CAD | https://habrahabr.ru/post/264243/
+
+SolidWorks API (Delphi): подключение и получение дерева объекта | https://habrahabr.ru/post/263133/
+
+Новости проекта Qucs: доступен кандидат в релизы с поддержкой моделирования схем в SPICE | https://habrahabr.ru/post/263555/
+
+Я негодую: разница между 3D и виртуальной реальностью | https://habrahabr.ru/company/croc/blog/263329/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 6 – поиск и изменение объектов на чертеже) | https://habrahabr.ru/post/262953/
+
+Из AutoCAD да в nanoCAD: cмена основной САПР в проектном институте | https://habrahabr.ru/company/nanosoft/blog/262283/
+
+Tekla Structure API (c#): подключение и получение дерева объектов | https://habrahabr.ru/post/262281/
+
+Техэксперт и «Компас-3D». О важности безопасных связей и о том, что будет, если объединить систему НТД и САПР | https://habrahabr.ru/company/kodeks/blog/261901/
+
+Автоматизация рутинных операций между Excel и AutoCAD при помощи VBA | https://habrahabr.ru/post/261461/
+
+Подробнее о 3D навигации в nanoCAD Plus 7 | https://habrahabr.ru/company/nanosoft/blog/261241/
+
+TKGate — open-source симулятор цифровых схем: проект снова жив | https://habrahabr.ru/post/261005/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 5 – знакомство с блоками) | https://habrahabr.ru/post/259303/
+
+Моделирование дипольной антенны в openEMS | https://habrahabr.ru/post/259383/
+
+Новости проекта Qucs: подготовка к релизу 0.0.19 | https://habrahabr.ru/post/259193/
+
+Анализ надёжности в Wolfram SystemModeler 4.1 | https://habrahabr.ru/company/wolfram/blog/258981/
+
+Автомат как реактивный двигатель: реальная физика нереального полёта | https://habrahabr.ru/company/wolfram/blog/258897/
+
+Моделирование сценариев неисправностей закрылков самолёта с помощью Wolfram SystemModeler | https://habrahabr.ru/company/wolfram/blog/258817/
+
+Основы моделирования в openEMS | https://habrahabr.ru/post/258489/
+
+openEMS — электромагнитный симулятор с открытым исходным кодом | https://habrahabr.ru/post/255317/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 4 – вставка примитивных объектов) | https://habrahabr.ru/post/257129/
+
+Проверяем исходный код FreeCAD и его «нехорошие» зависимости | https://habrahabr.ru/company/pvs-studio/blog/257079/
+
+Написание скрипта расстановки элементов по кругу для Eagle CAD | https://habrahabr.ru/post/254861/
+
+ЧПУ станок с расширенными функциональными возможностями | https://habrahabr.ru/post/253407/
+
+ЧПУ фрезерный станок с автономным контроллером на STM32 | https://habrahabr.ru/post/250677/
+
+Как обойти основные затруднения при портировании САПР приложений на nanoCAD? | https://habrahabr.ru/company/nanosoft/blog/248753/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 3 – работа со слоями) | https://habrahabr.ru/post/249015/
+
+MultiCAD.NET: подсчет суммарной длины отрезков на чертеже | https://habrahabr.ru/company/nanosoft/blog/246511/
+
+Qucs — open-source САПР для моделирования электронных схем | https://habrahabr.ru/post/248005/
+
+CAD для разработки снежинок: SnowFlaker | https://habrahabr.ru/post/246895/
+
+Будущее параметрического CAD’a | https://habrahabr.ru/company/cloudinvent/blog/245835/
+
+Моделируем преднапряжение бетонной оболочки АЭС | https://habrahabr.ru/company/autodesk/blog/245861/
+
+Токарная ЧПУ Siemens Sinumerik 840D sl: создание режущего инструмента [шот 02] | https://habrahabr.ru/company/opentechedu/blog/244937/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 2 – работа с лентой [Ribbon]) | https://habrahabr.ru/post/243305/
+
+Пошаговый обзор: единое MultiCAD.NET приложение в nanoCAD, AutoCAD, ZWCAD | https://habrahabr.ru/company/nanosoft/blog/242497/
+
+Политех 2.0: Первая стружка! | https://habrahabr.ru/company/opentechedu/blog/242711/
+
+Утилиты в (статусе FREE) для расчета волнового сопротивления и не только… | https://habrahabr.ru/post/240471/
+
+Настройка среды nanoCAD для опытных пользователей | https://habrahabr.ru/company/nanosoft/blog/239533/
+
+Автоматизация работы в nanoCAD с помощью Visual Basic for Applications | https://habrahabr.ru/post/238867/
+
+Поможем с инженерным анализом и расчетами | https://habrahabr.ru/company/autodesk/blog/236227/
+
+nanoCAD становится доступен в виртуальной среде благодаря NVIDIA GRID | https://habrahabr.ru/company/nanosoft/blog/235913/
+
+Создание плагинов для AutoCAD с помощью .NET API (часть 1 – первые шаги) | https://habrahabr.ru/post/235723/
+
+Интеллектуальные ручки пользовательского объекта в MultiCAD.NET | https://habrahabr.ru/company/nanosoft/blog/234181/
+
+Пристрастные заметки о русских разработчиках САПР | https://habrahabr.ru/company/nanosoft/blog/234221/
+
+Как я не опубликовал приложение в Autodesk Apps Exchange | https://habrahabr.ru/post/231587/
+
+Управление сериализацией объектов в MultiCAD.NET | https://habrahabr.ru/company/nanosoft/blog/229175/
+
+MultiCAD.NET API: Сохранение неграфической информации в .dwg-чертежах | https://habrahabr.ru/company/nanosoft/blog/226563/
+
+Новый функционал nanoCAD 6.0: нормативный аудит | https://habrahabr.ru/company/nanosoft/blog/225063/
+
+Бесплатный софт для проектирования — авторам инновационных и полезных проектов | https://habrahabr.ru/company/autodesk/blog/221501/
+
+Сериализация объектов в MultiCAD.NET. Управление совместимостью чертежей и прокси-объектами | https://habrahabr.ru/company/nanosoft/blog/219997/
+
+DipTrace. Нововведения | https://habrahabr.ru/post/209654/
+
+CorelCAD 2014: Обзор продукта. Часть 1 | https://habrahabr.ru/company/corel/blog/206942/
+
+Краткое руководство по работе с Autodesk Simulation CFD 2014 | https://habrahabr.ru/post/207116/
+
+Работа с таблицами в MultiCAD.NET. Часть 3. Внешние файлы таблиц и обмен данными с Microsoft Excel | https://habrahabr.ru/company/nanosoft/blog/198788/
+
+Вышел — Nanocad 5.1 FREE | https://habrahabr.ru/post/205598/
+
+Выбор и редактирование пользовательских примитивов в MultiCAD.NET | https://habrahabr.ru/company/nanosoft/blog/200366/
+
+Разработка полноценного API – приложения для программного пакета SolidWorks. Модель болта | https://habrahabr.ru/post/204098/
+
+Приглашаем разработчиков в гости! | https://habrahabr.ru/company/autodesk/blog/203112/
+
+Программирование в уравнениях | https://habrahabr.ru/post/202596/
+
+Разработка API-приложения для программного пакета SolidWorks 2012. Часть1 | https://habrahabr.ru/post/201700/
+
+Яблочный AutoCAD 2014 | https://habrahabr.ru/company/autodesk/blog/201436/
+
+Работа с таблицами в MultiCAD.NET. Часть 2. Создание и редактирование | https://habrahabr.ru/company/nanosoft/blog/198774/
+
+Самособирающиеся табуретки из IKEA и завтрашние технологии программирования вещества | https://habrahabr.ru/company/autodesk/blog/200956/
+
+Работа с таблицами в MultiCAD.NET. Часть 1. Создание отчета на основе шаблона | https://habrahabr.ru/company/nanosoft/blog/197794/
+
+KiCad и ГОСТ. Библиотека УГО | https://habrahabr.ru/post/197582/
+
+САПР для проектирования крупных промышленных объектов | https://habrahabr.ru/post/196328/
+
+Вопросы Карлосу Олгуину о его работе в области 3d-биопечати, программирования вещества, 4d-проектирования и не только | https://habrahabr.ru/company/autodesk/blog/194448/
+
+На 3D-принтере напечатана комната из искусственного песчаника | https://habrahabr.ru/post/194108/
+
+Autodesk создает российский магазин приложений и платит по 100$ разработчикам | https://habrahabr.ru/company/autodesk/blog/188528/
+
+Импорт координат из текстового файла в чертёж nanoCAD на MultiCAD .NET API | https://habrahabr.ru/company/nanosoft/blog/188326/
+
+Импорт координат из текстового файла в чертёж nanoCAD на классическом .NET API | https://habrahabr.ru/company/nanosoft/blog/188188/
+
+Чертежи в SVG формате. Часть 5. — Черновик стандарта | https://habrahabr.ru/post/188170/
+
+Экспорт чертежа из Компас-график 2D в SVG | https://habrahabr.ru/post/187026/
+
+Создание пользовательских примитивов в САПР на MultiCAD .NET API | https://habrahabr.ru/company/nanosoft/blog/184482/
+
+Будущее веб-разработок CAD систем | https://habrahabr.ru/post/185630/
+
+Чертежи в SVG формате. Часть 4. — Черновик стандарта | https://habrahabr.ru/post/185496/
+
+Чертежи в SVG формате. Часть 3. — Черновик стандарта | https://habrahabr.ru/post/185294/
+
+nanoCAD становится ближе. Выбери умное проектирование | https://habrahabr.ru/company/nanosoft/blog/184918/
+
+Чертежи в SVG формате. Часть 2. — Черновик стандарта | https://habrahabr.ru/post/185268/
+
+Чертежи в SVG формате. Часть 1 — Черновик стандарта | https://habrahabr.ru/post/184958/
+
+DraftSight — бесплатный аналог AutoCAD (в том числе и для Linux) | https://habrahabr.ru/post/175189/
+
+Полезные мелочи при разработке на C# под AutoCAD | https://habrahabr.ru/post/168971/
+
+DipTrace и ГОСТ. Библиотека УГО | https://habrahabr.ru/post/166895/
+
+Отладка кода C# в AutoCAD используя Visual Studio 2012 | https://habrahabr.ru/post/164305/
+
+Что еще можно напечатать? | https://habrahabr.ru/post/163687/
+
+Создание удобной CAE системы на базе пре/постпроцессора GiD и любой расчетной программы | https://habrahabr.ru/post/163365/
+
+Экспортирование полигонов из Altium Designer в AutoCAD | https://habrahabr.ru/post/162531/
+
+Взгляд в будущее САПР | https://habrahabr.ru/post/160761/
+
+Создание «нестандартного» кастомного объекта для AutoCAD, работающего без Object Enabler | https://habrahabr.ru/post/154591/
+
+«Нам так не сделать» или идеальная САПР для архитектора глазами проектировщика | https://habrahabr.ru/post/150343/
+
+C# и AutoCAD. Некоторые приемы работы | https://habrahabr.ru/post/149546/
+
+Allegro Cadence 16.5 | https://habrahabr.ru/post/148651/
+
+Первый опыт написания плагинов для Autocad на C# | https://habrahabr.ru/post/148844/
+
+Трехмерная визуализация в реальном времени для архитектуры и промышленного дизайна | https://habrahabr.ru/post/147746/
+
+Знакомьтесь: FreeCAD | https://habrahabr.ru/post/145985/
+
+Система автоматизированного проектирования (САПР). Кто кого? | https://habrahabr.ru/post/140815/
+
+САПёР на полях САПР | https://habrahabr.ru/company/nanosoft/blog/137409/
+
+Искусственный интеллект в CAM-системах, для решения задач автоматизации процессов создания управляющих программ | https://habrahabr.ru/post/135795/
+
+Ваш ход, товарищ .NET, или опять Реверси под nanoCAD | https://habrahabr.ru/company/nanosoft/blog/135173/
+
+Программирование в nanoCAD: как зарегистрировать свою команду в среде nanoCAD? | https://habrahabr.ru/company/nanosoft/blog/123870/
+
+DWG — формат или торговая марка? | https://habrahabr.ru/company/nanosoft/blog/114590/
+
+nanoCAD и сбоку бантик, или программируем «Реверси» под CAD-платформу | https://habrahabr.ru/company/nanosoft/blog/90742/
+
+Первые шаги в мир программирования под nanoCAD | https://habrahabr.ru/company/nanosoft/blog/86970/
+

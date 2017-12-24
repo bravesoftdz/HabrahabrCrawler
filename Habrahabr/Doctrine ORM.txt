@@ -1,0 +1,74 @@
+Использование событийной модели в Doctrine 2 + Symfony 3 | https://habrahabr.ru/post/339580/
+
+DDD на практике. Проектирование списка желаний | https://habrahabr.ru/post/335834/
+
+Джентльменский набор Doctrine 2 для Symfony 3.3.6: Создание сущности, ассоциации и рекурсивные связи | https://habrahabr.ru/post/334446/
+
+Doctrine Specification Pattern или ваш реюзабельный QueryBuilder | https://habrahabr.ru/post/334404/
+
+ЧПУ (SEF URLs) в Symfony 3 — автогенерация slug, настройка и маршрутизация | https://habrahabr.ru/post/330170/
+
+ORM на php для MySQL, реальность (часть первая) | https://habrahabr.ru/post/305786/
+
+Создание блога на Symfony 2.8 lts [ Часть 6] | https://habrahabr.ru/post/303578/
+
+Создание блога на Symfony 2.8 lts [ Часть 5] | https://habrahabr.ru/post/303114/
+
+Создание блога на Symfony 2.8 lts [ Часть 4] | https://habrahabr.ru/post/302602/
+
+Создание блога на Symfony 2.8 lts [ Часть 3 ] | https://habrahabr.ru/post/302438/
+
+Создание блога на Symfony 2.8 lts [ Часть 2 ] | https://habrahabr.ru/post/302032/
+
+Создание блога на Symfony 2.8 lts | https://habrahabr.ru/post/301760/
+
+Фильтрация данных в Symfony | https://habrahabr.ru/post/281863/
+
+Symfony2 Voters и Doctrine Filters на страже безопасности | https://habrahabr.ru/post/273477/
+
+Nhibernate: Варианты маппингов, варианты запросов | https://habrahabr.ru/post/265371/
+
+Неочевидные проблемы с быстродействием в Doctrine, связанные с гидрацией объектов | https://habrahabr.ru/post/263103/
+
+Почему Doctrine ORM плохо подходит для PHP | https://habrahabr.ru/post/259523/
+
+Внедряем работу с координатами в sonata-admin | https://habrahabr.ru/post/240493/
+
+UNIX_TIMESTAMP, ROUND и другие DQL запросы через queryBuilder в Symfony 2 | https://habrahabr.ru/post/209870/
+
+Как связать Yii Framework и Doctrine 2 ORM? | https://habrahabr.ru/post/208182/
+
+Полная поддержка GROUP_CONCAT в Doctrine2 | https://habrahabr.ru/post/181666/
+
+Работа с датами Doctrine 2. Навигация в Symfony 2. И, надеюсь, прочие полезности | https://habrahabr.ru/post/177257/
+
+Решение проблемы с кодировкой данных из MySQL в Symfony | https://habrahabr.ru/post/176463/
+
+Прикручиваем Doctrine 2 ORM к Silex | https://habrahabr.ru/post/173955/
+
+Внедрение зависимостей в сущности Doctrine при помощи Symfony Dependency Injection Component | https://habrahabr.ru/post/173275/
+
+PostfixАdmin revamped (ViMbAdmin) | https://habrahabr.ru/post/166487/
+
+Doctrine ORM behaviors, или как эффективно использовать трейты | https://habrahabr.ru/post/144802/
+
+Дублирование объекта при попытке получить данные из таблицы с ключом DateTime | https://habrahabr.ru/post/142221/
+
+Пользовательские репозитории в ORM Doctrine 2 | https://habrahabr.ru/post/130275/
+
+Пагинация в Doctrine — считаем количество записей с помощью SQL_CALC_FOUND_ROWS (MySQL) | https://habrahabr.ru/post/127270/
+
+Колекционируем данные или учим Doctrine делать multiple insert | https://habrahabr.ru/post/114078/
+
+Создание Doctrine YAML через MySQL Workbench | https://habrahabr.ru/post/110426/
+
+Точные имена свойств модели в Doctrine | https://habrahabr.ru/post/81891/
+
+Doctrine, расширяем возможности любимого ORM-фреймворка! Часть 1.b (I18n, модификация быстрого доступа к переводимым атрибутам) | https://habrahabr.ru/post/80330/
+
+Пагинация в Doctrine (Использование SQL_CALC_FOUND_ROWS) | https://habrahabr.ru/post/81034/
+
+Doctrine, расширяем возможности любимого ORM-фреймворка! Часть 1.а (I18n, быстрый доступ к переводимым атрибутам) | https://habrahabr.ru/post/79878/
+
+Doctrine и сортировка для связи многие к одному | https://habrahabr.ru/post/68806/
+

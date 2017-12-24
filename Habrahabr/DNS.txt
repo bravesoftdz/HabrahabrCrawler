@@ -1,0 +1,148 @@
+Настройка DKIM, SPF и DMARC в Zimbra Collaboration Suite | https://habrahabr.ru/company/zimbra/blog/339296/
+
+Загадки и мифы SPF | https://habrahabr.ru/company/mailru/blog/338700/
+
+Ansible Dynamic Inventory из DNS или как растрачивать время на поиски стандартов | https://habrahabr.ru/post/337008/
+
+DNS-запись CAA. Зачем нужна и как использовать? | https://habrahabr.ru/post/336738/
+
+EmerDNS – альтернатива DNSSEC | https://habrahabr.ru/company/emercoin/blog/334304/
+
+Захват всех доменов .io с помощью таргетированной регистрации | https://habrahabr.ru/post/333026/
+
+Список доменов в зоне ru/su/tatar/рф/дети доступен публично из-за некорректной настройки DNS | https://habrahabr.ru/post/331144/
+
+[Конспект админа] Домены, адреса и Windows: смешивать, но не взбалтывать | https://habrahabr.ru/company/pc-administrator/blog/330944/
+
+Форум центров сертификации и разработчиков браузеров утвердил обязательность DNS CAA | https://habrahabr.ru/company/webo/blog/329274/
+
+В ответ на украинские (и не только) запреты: децентрализованная система EmerDNS против блокировок сайтов | https://habrahabr.ru/company/emercoin/blog/328928/
+
+DNS glue records – что такое и почему они так важны? | https://habrahabr.ru/company/webo/blog/328188/
+
+Автоматизация поиска клонов сайтов и сайтов-однодневок | https://habrahabr.ru/company/cisco/blog/324878/
+
+Подробное руководство по настройке TTL для записей DNS | https://habrahabr.ru/company/varonis/blog/324024/
+
+Настройка DKIM/SPF/DMARC записей или защищаемся от спуфинга | https://habrahabr.ru/post/322616/
+
+Различия между SSL и TLS | https://habrahabr.ru/company/varonis/blog/321522/
+
+Заражение кэша DNS-серверов провайдеров за счет манипуляции DNS-ответами от легитимных авторитетных DNS-серверов | https://habrahabr.ru/post/321150/
+
+Настройка Let's Encrypt на Microsoft Azure | https://habrahabr.ru/post/320918/
+
+Настройка сервера DNS по стандартам безопасности Северной Кореи | https://habrahabr.ru/company/varonis/blog/320900/
+
+«Ультимативный DNS-дайджест»: 45 материалов с Хабра и других ресурсов | https://habrahabr.ru/company/1cloud/blog/319848/
+
+Получаем список доменов и IP адресов всех банков мира | https://habrahabr.ru/post/319008/
+
+DNS-серверы ntp.org не доступны | https://habrahabr.ru/post/318556/
+
+Багофича .RU или как получить проблемы там, где их не должно быть уже много лет | https://habrahabr.ru/post/317286/
+
+Внедрение DMARC для защиты корпоративного домена от спуфинга | https://habrahabr.ru/company/mailru/blog/315778/
+
+Разрешение имен доменов из контейнеров Docker в сложных случаях | https://habrahabr.ru/post/315500/
+
+Усиленный ботнет Aidra заразил 3500 устройств меньше, чем за неделю | https://habrahabr.ru/post/314324/
+
+Блокировщик рекламы для дома на коленке | https://habrahabr.ru/post/314260/
+
+Опасность и безопасность — гонка виртуальных вооружений | https://habrahabr.ru/post/313460/
+
+Домашний хостинг сайтов с динамическим IP | https://habrahabr.ru/post/313426/
+
+Массовый DDoS на инфраструктуру DNS-провайдера Dyn.com привёл к недоступности сайтов Twitter, Github, Heroku и прочих | https://habrahabr.ru/post/313328/
+
+Как найти поддомены за считанные минуты? | https://habrahabr.ru/company/hosting-cafe/blog/312954/
+
+Маленькие ещё: проблемы детского интернета | https://habrahabr.ru/company/megafon/blog/309744/
+
+В свободный доступ утекли закрытые данные национальной DNS Северной Кореи | https://habrahabr.ru/post/310550/
+
+Балансировка кэширующего DNS на основе Cisco IP SLA | https://habrahabr.ru/post/307932/
+
+Cisco OpenDNS в каждый дом | https://habrahabr.ru/company/cisco/blog/307436/
+
+Давайте уже разберемся в DNS | https://habrahabr.ru/post/303446/
+
+DNS безалаберность Вконтакте и других компаний | https://habrahabr.ru/post/283116/
+
+Reg.ru упал вместе со всеми своими сервисами | https://habrahabr.ru/post/279781/
+
+Часть 1. Установка и настройка авторитетного DNS сервера на основе решения PowerDNS // Базовая установка | https://habrahabr.ru/post/278153/
+
+Оценка доменного портфеля на примере MostWantedDomains | https://habrahabr.ru/post/272887/
+
+Как улучшить анализ и управление сетевым трафиком, наблюдая за DNS | https://habrahabr.ru/post/272565/
+
+Значимость SPF | https://habrahabr.ru/post/270159/
+
+Домашний сервер на платформе Intel Atom и ОС Centos 7 | https://habrahabr.ru/post/268197/
+
+Безопасное динамическое обновление записей на MS DNS из Linux | https://habrahabr.ru/post/265969/
+
+Чистим интернет от назойливой рекламы (AD Blocker для MikroTik) | https://habrahabr.ru/post/264001/
+
+Чистим домашний интернет от очень назойливой рекламы (Ad's blocker для OpenWRT) | https://habrahabr.ru/post/263081/
+
+Собираем и настраиваем DNS сервер BUNDY (BIND10). Часть 1 | https://habrahabr.ru/post/261719/
+
+Docker, SkyDNS и SkyDock — быстро и удобно | https://habrahabr.ru/post/246933/
+
+Установка BIND9 DNS на CentOS | https://habrahabr.ru/post/245857/
+
+Разбираем нестандартный udp dns запрос с помощью tcpdump | https://habrahabr.ru/post/241375/
+
+Google Public DNS не ресолвит некоторые домены | https://habrahabr.ru/post/236969/
+
+DynDNS вскоре перестанет обслуживать свои бесплатные динамические DNS | https://habrahabr.ru/post/218679/
+
+DNPric.es: самая большая база доменных сделок | https://habrahabr.ru/post/216317/
+
+США отдаёт контроль над корневой зоной DNS | https://habrahabr.ru/post/113048/
+
+Установка ADB driver для телефонов малоизвестных производителей | https://habrahabr.ru/post/205572/
+
+Список бесплатных DNS-сервисов | https://habrahabr.ru/post/203292/
+
+Uniregistry запустила nic.sexy и nic.tattoo | https://habrahabr.ru/post/202206/
+
+Автоматический вторичный DNS давно уже не проблема | https://habrahabr.ru/post/201816/
+
+ICANN дал зелёный свет на делегирование двух новых зон: ОНЛАЙН и САЙТ | https://habrahabr.ru/post/198498/
+
+GoogleDNS down. Зона .US down | https://habrahabr.ru/post/190238/
+
+Свой простой DynDNS сервер | https://habrahabr.ru/post/188598/
+
+Несколько различных VPN подключений с локальными DNS серверами | https://habrahabr.ru/post/182924/
+
+geoDNS с помощью Powerdns и nginx | https://habrahabr.ru/post/178727/
+
+Фильтрация запросов на уровне DNS | https://habrahabr.ru/post/177649/
+
+Отказоустойчивость на базе DNS | https://habrahabr.ru/post/177145/
+
+Запустили первые два домена уровня дот.УКР | https://habrahabr.ru/post/173717/
+
+Набор полезных инструментов для работы с DNS | https://habrahabr.ru/post/164191/
+
+Настройка маршрутизатора Asus RT-N56U для доступа к Pandora, Hulu и др. ресурсам | https://habrahabr.ru/post/159133/
+
+Возможные проблемы у провайдера Network Solutions. (DDOS?) | https://habrahabr.ru/post/149440/
+
+Сам себе DynDNS или реализация Managed DNS посредством PowerShell | https://habrahabr.ru/post/146079/
+
+Подано 1930 заявок на новые домены верхнего уровня — на сайте ICANN опубликован полный список | https://habrahabr.ru/post/145738/
+
+Fastvps DNS сервер под ДДОС | https://habrahabr.ru/post/141004/
+
+PTR-запись vs. Mail.ru | https://habrahabr.ru/post/140587/
+
+Проверяем доменное IQ | https://habrahabr.ru/post/135163/
+
+Лучшие DNS практики для телекома | https://habrahabr.ru/post/123948/
+

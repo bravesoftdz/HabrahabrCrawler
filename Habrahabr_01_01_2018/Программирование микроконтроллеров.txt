@@ -1,0 +1,1114 @@
+JetBrains CLion для микроконтроллеров | https://habrahabr.ru/post/345670/
+
+Коротко о nRF51822: Энергосбережение и немного периферии | https://habrahabr.ru/post/345396/
+
+HyperRAM: использование микросхемы с интерфейсом памяти HyperBus | https://habrahabr.ru/post/344966/
+
+PVS-Studio 2018: CWE, Java, RPG, macOS, Keil, IAR, MISRA | https://habrahabr.ru/company/pvs-studio/blog/344734/
+
+Парсинг NMEA GNSS для микроконтроллеров и встраиваемых систем | https://habrahabr.ru/post/343528/
+
+Настройка Sublime Text 3, SW4 и STM32CubeMX для разработки STM32 под Linux | https://habrahabr.ru/post/343456/
+
+Коротко о nRF51822: Быстрый старт | https://habrahabr.ru/post/343166/
+
+Автоматный практикум — 1. Пример «Дисплей», разработка ОА и УА | https://habrahabr.ru/post/342048/
+
+fiber — легковесные процессы для Arduino | https://habrahabr.ru/post/342908/
+
+Сказ про резисторы и неонки | https://habrahabr.ru/post/341328/
+
+Автоматное программирование. Часть 4. Эффективность автоматно-спроектированных программ | https://habrahabr.ru/post/341888/
+
+Опыт разработки low power устройств на STM32L | https://habrahabr.ru/post/342524/
+
+Atmega328p + ENC28J60 = мост между UART и Ethernet | https://habrahabr.ru/post/342424/
+
+Избранные главы теории управления на пальцах: линейные наблюдатели динамических систем | https://habrahabr.ru/post/341870/
+
+Автоматное программирование. Часть 3. Диаграмма состояний и переходов. Продолжение | https://habrahabr.ru/post/332664/
+
+Работа с COM-портом Arduino из Java-приложения | https://habrahabr.ru/post/340630/
+
+Ардуино головного мозга: импульсный датчик положения | https://habrahabr.ru/post/340448/
+
+К вопросу о странностях и невозможном | https://habrahabr.ru/post/340390/
+
+Обзор одной российской RTOS, часть 8. Работа с прерываниями | https://habrahabr.ru/post/340032/
+
+Такое железное и такое безымянное | https://habrahabr.ru/company/goto/blog/340326/
+
+Arduino для опроса счетчиков «Меркурий-230» | https://habrahabr.ru/post/339868/
+
+Такты для разработчиков | https://habrahabr.ru/company/mailru/blog/339688/
+
+Обзор одной российской RTOS, часть 7. Средства обмена данными между задачами | https://habrahabr.ru/post/339498/
+
+История создания синхронизатора часов DCF77 | https://habrahabr.ru/post/339052/
+
+К вопросу о странностях и систематическом подходе | https://habrahabr.ru/post/339000/
+
+Обзор одной российской RTOS, часть 6. Средства синхронизации потоков | https://habrahabr.ru/post/338682/
+
+Тайм-менеджмент для кинестетиков | https://habrahabr.ru/company/devexpress/blog/338948/
+
+Вторая версия Монитора качества воздуха | https://habrahabr.ru/post/338722/
+
+Обзор одной российской RTOS, часть 5. Первое приложение | https://habrahabr.ru/post/337974/
+
+Автопилот своими рукам. Добавляем электронное управление steer-by-wire на обычный автомобиль | https://habrahabr.ru/post/338322/
+
+Обзор одной российской RTOS, часть 4. Полезная теория | https://habrahabr.ru/post/337476/
+
+От Торонто до Томска: подведение итогов и планирование будущих семинаров по микроэлектронике в России | https://habrahabr.ru/post/337702/
+
+STM32 без HAL и SPL | https://habrahabr.ru/post/337622/
+
+Считаем до трёх: четыре | https://habrahabr.ru/post/337606/
+
+Обзор одной российской RTOS, часть 3. Структура простейшей программы | https://habrahabr.ru/post/336944/
+
+Многозадачная Ардуина: таймеры без боли | https://habrahabr.ru/post/337430/
+
+Прокачиваем USB Mass Storage Device на STM32F103 с помощью FreeRTOS и DMA | https://habrahabr.ru/post/336968/
+
+Пишем и парсим на ассемблере MCS-51, как на Бейсике | https://habrahabr.ru/post/337168/
+
+Joystick на AT91SAM7 | https://habrahabr.ru/post/336870/
+
+Обзор одной российской RTOS, часть 2. Ядро ОСРВ МАКС | https://habrahabr.ru/post/336696/
+
+Обзор одной российской RTOS | https://habrahabr.ru/post/336308/
+
+Настройка IDE Clion и Cmake для работы с STM32 и C++ | https://habrahabr.ru/post/336262/
+
+Следущие шаги в черной магии процессоростроения после того, как вы освоили Харрис & Харрис | https://habrahabr.ru/post/336116/
+
+MIPSfpga – практический опыт | https://habrahabr.ru/post/335848/
+
+Эмулятор в эмуляторе для проигрывания чиптюн-мелодий на YM2149F | https://habrahabr.ru/post/335508/
+
+Умная автоматическая кормушка для питомца на базе Arduino – ШАГ 1 | https://habrahabr.ru/post/335136/
+
+CDC+MSC USB Composite Device на STM32 HAL | https://habrahabr.ru/post/335018/
+
+Использование устройства на базе STM32 в системе полива для открытого грунта | https://habrahabr.ru/post/334192/
+
+Поднимаем Linux на MIPSfpga и ПЛИС Altera | https://habrahabr.ru/post/333920/
+
+Текущая активность вокруг MIPSfpga и не только | https://habrahabr.ru/post/333722/
+
+STM32 + PPP (GSM) + LwIP | https://habrahabr.ru/post/332742/
+
+ПЛК от производителей Овен, Segnetics и Schneider Electric для HVAC | https://habrahabr.ru/post/332722/
+
+Автоматное программирование. Часть 2. Диаграмма состояний и переходов | https://habrahabr.ru/post/332508/
+
+Цифровой датчик температуры TSic: адреса, пароли, явки | https://habrahabr.ru/company/efo/blog/330506/
+
+Многоядерный DSP TMS320C6678. Организация памяти ядра | https://habrahabr.ru/post/331948/
+
+Губит людей не пиво | https://habrahabr.ru/post/331994/
+
+Умный замок на Android Things и Raspberry Pi3 | https://habrahabr.ru/post/331888/
+
+Многоядерный DSP TMS320C6678. Операционные ядра: вычислительные ресурсы процессора | https://habrahabr.ru/post/331842/
+
+Многоядерный DSP TMS320C6678. Обзор архитектуры процессора | https://habrahabr.ru/post/331684/
+
+Автоматное программирование – новая веха или миф? Часть 1. Введение | https://habrahabr.ru/post/331556/
+
+Используем template + constexpr для создания масок регистров периферии микроконтроллера на этапе компиляции (C++14) | https://habrahabr.ru/post/331468/
+
+A fistful of relays. Часть 4. Система команд или что можно уместить в 8 машинных инструкций? | https://habrahabr.ru/post/331208/
+
+Оптическое распознавание символов на микроконтроллере | https://habrahabr.ru/post/330936/
+
+Эмулятор магнитофона для ZX-Spectrum | https://habrahabr.ru/post/330752/
+
+Копировщик RFID-меток стандарта EM-Marin | https://habrahabr.ru/post/330710/
+
+Самодельный эмулятор дисковода для Amiga | https://habrahabr.ru/post/330668/
+
+Несколько слов про «наш» микроконтроллер | https://habrahabr.ru/post/330384/
+
+Как работает лазерная рулетка: реверс-инжиниринг | https://habrahabr.ru/post/327642/
+
+Как сделать context switch на STM32 | https://habrahabr.ru/company/embox/blog/330236/
+
+Orange Pi на автомойке ч.3 | https://habrahabr.ru/post/330124/
+
+К вопросу о числах | https://habrahabr.ru/post/330094/
+
+Чип для умных камер ELISE — одно из самых высокотехнологичных изделий России 2017 года. Плата для разработчиков и камера | https://habrahabr.ru/post/329864/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 3 | https://habrahabr.ru/post/329854/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 2 | https://habrahabr.ru/post/329852/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 1 | https://habrahabr.ru/post/329808/
+
+К вопросу о константах | https://habrahabr.ru/post/329546/
+
+Справочник «пчеловода» или отвечаем на вопросы по микроконтроллерам EFM8 Bee | https://habrahabr.ru/company/efo/blog/327780/
+
+Использование библиотеки stm32cube для создания платформо независимых драйверов | https://habrahabr.ru/company/embox/blog/328866/
+
+Считаем до трёх: три | https://habrahabr.ru/post/328162/
+
+Билдим под stm32duino с помощью CMake (и отгребаем от линкера) | https://habrahabr.ru/post/328010/
+
+Начинаем работать в STM32CubeMX. Часть 3 | https://habrahabr.ru/post/323674/
+
+Детектирование и отслеживание множественных объектов в видеопотоке на FPGA | https://habrahabr.ru/post/327162/
+
+ESP8266 в качестве MQTT брокера для мобильного приложения | https://habrahabr.ru/post/326794/
+
+Дилетантское ЧПУ? | https://habrahabr.ru/post/326834/
+
+MakiseGUI — бесплатная библиотека графического интерфейса для микроконтроллеров | https://habrahabr.ru/post/325692/
+
+(Не) любителям protothreads посвящается: Высокоуровневые функции для работы с 1-Wire | https://habrahabr.ru/post/326320/
+
+Примитивы для реализации 1-Wire master при помощи PWM и ICP для STM8L и STM32 | https://habrahabr.ru/post/326114/
+
+Фильтрация изображения методом математической морфологии на FPGA | https://habrahabr.ru/post/325808/
+
+Настраиваем бесплатную сборку для написания и отладки программ под микроконтроллеры на основе ядра ARM под Windows 10 | https://habrahabr.ru/post/325450/
+
+Рекурсивный фильтр скользящего среднего | https://habrahabr.ru/post/325590/
+
+Вращение изображения на FPGA | https://habrahabr.ru/post/325236/
+
+MIPSfpga и UART | https://habrahabr.ru/post/325168/
+
+Терминальная графика | https://habrahabr.ru/post/325082/
+
+Расчет корректирующего КИХ-фильтра на ПЛИС | https://habrahabr.ru/post/324986/
+
+MIPSfpga и прерывания | https://habrahabr.ru/post/324900/
+
+Считаем до трёх: два | https://habrahabr.ru/post/324650/
+
+Rust, Eclipse и STM32 | https://habrahabr.ru/post/324646/
+
+Угадай фильтр по импульсной характеристике | https://habrahabr.ru/post/324522/
+
+Придумываем название для нового гипервайзера для архитектуры MIPS с аппаратно-поддерживаемой виртуализацией | https://habrahabr.ru/post/324444/
+
+Практическое применение преобразования Фурье для обработки сигналов | https://habrahabr.ru/post/324152/
+
+Считаем до трёх | https://habrahabr.ru/post/324062/
+
+Оцифровка звука на STM32 (АЦП+DMA) и кодирование в Speex для передачи | https://habrahabr.ru/post/323598/
+
+Монитор качества воздуха в помещении | https://habrahabr.ru/post/322080/
+
+Women's Day Gift by FPGA | https://habrahabr.ru/post/323260/
+
+Подключение периферийных модулей к MIPSfpga, на примере клавиатуры Pmod KYPD | https://habrahabr.ru/post/323360/
+
+Детектирование движения в видеопотоке на FPGA | https://habrahabr.ru/post/323258/
+
+Как написать собственную программу для контроллера ROBO TX | https://habrahabr.ru/post/323168/
+
+Смотрим внутренности отечественного 28нм MIPS процессора — Baikal-T1 | https://habrahabr.ru/company/zeptobars/blog/322884/
+
+Реализация узла БПФ с плавающей точкой на ПЛИС | https://habrahabr.ru/post/322728/
+
+Примитивы для реализации 1-Wire master при помощи PWM и ICP на микроконтроллерах AVR AtMega | https://habrahabr.ru/post/322710/
+
+MIPSfpga и внутрисхемная отладка | https://habrahabr.ru/post/322442/
+
+Салют-ЭЛ24Д1: отладочная плата на российском процессоре 1892ВМ14Я для жестких условий эксплуатации | https://habrahabr.ru/post/322344/
+
+Первые шаги с STM32 и компилятором mikroC для ARM архитектуры — Часть 4 — I2C, pcf8574 и подключение LCD на базе HD4478 | https://habrahabr.ru/post/322184/
+
+Home Assistant или еще один «мозг» для проекта типа «Умный Дом» | https://habrahabr.ru/post/321606/
+
+Средства программирования PIC-контроллеров | https://habrahabr.ru/post/321542/
+
+MIPSfpga и SDRAM. Часть 2 | https://habrahabr.ru/post/321532/
+
+MIPSfpga и SDRAM. Часть 1 | https://habrahabr.ru/post/321530/
+
+Запускаем датчик скорости потока газа | https://habrahabr.ru/company/efo/blog/321108/
+
+Управление светодиодной лентой WS2801 с использованием Raspberry Pi и iOS | https://habrahabr.ru/post/321176/
+
+Arduino на автомойке ч.2 | https://habrahabr.ru/post/321172/
+
+Первые шаги с STM32 и компилятором mikroC для ARM архитектуры — Часть 3 — UART и GSM модуль | https://habrahabr.ru/post/321056/
+
+«Байкал-T1»: знакомство с платой на первом в России 28-нм процессоре | https://habrahabr.ru/post/320840/
+
+Механизм защиты от клонирования адаптеров XELTEK | https://habrahabr.ru/post/320870/
+
+Подключение Xmega к FRAM по SPI | https://habrahabr.ru/post/320472/
+
+Arduino на автомойке | https://habrahabr.ru/post/320458/
+
+Visual C++ for IoT Development: Прорыв или разочарование? | https://habrahabr.ru/post/320120/
+
+ESP8266 + PCA9685 + LUA | https://habrahabr.ru/post/320006/
+
+Погодная станция из Arduino и Orienteer | https://habrahabr.ru/post/319746/
+
+Duplo Railroad Tycoon: Синтез железнодорожной сети с максимальным покрытием | https://habrahabr.ru/post/319702/
+
+Разработка электроники: от идеи до устройства | https://habrahabr.ru/post/319370/
+
+Real-time BeagleBone: использование высокоскоростных выводов | https://habrahabr.ru/post/319338/
+
+FRAM через I2C для Arduino как замена EEPROM | https://habrahabr.ru/post/319336/
+
+Обработка нажатий кнопок для Arduino. Скрестить ООП и МКА. Часть 1 | https://habrahabr.ru/post/319180/
+
+Первые шаги с STM32 и компилятором mikroC для ARM архитектуры — Часть 2, продолжение | https://habrahabr.ru/post/319256/
+
+Замена delay() для неблокирующих задержек в Arduino IDE | https://habrahabr.ru/post/319184/
+
+Как проектируют ненастоящие программисты | https://habrahabr.ru/post/318894/
+
+Про мой LIR2032 и CR2032 тестер, сами батарейки и накопленный опыт | https://habrahabr.ru/post/315110/
+
+Программирование многоядерных DSP-процессоров TMS320C66x с использованием OpenMP | https://habrahabr.ru/post/318762/
+
+Отладочная плата ПЛИС — Франкенштейн. Контроллер елочных гирлянд | https://habrahabr.ru/post/318726/
+
+Отладочная плата ПЛИС — Франкенштейн. Звуки и музыка | https://habrahabr.ru/post/317876/
+
+A fistful of relays. Часть 3 — декодер команд и управляющий автомат | https://habrahabr.ru/post/318500/
+
+Отладочная плата ПЛИС — Франкенштейн. Часы. Altera EPM7064 VS Lattice LC4064v | https://habrahabr.ru/post/316586/
+
+Диапазон рабочих температур Raspberry Pi. Результаты тестов | https://habrahabr.ru/post/318486/
+
+Отладочная плата ПЛИС — Франкенштейн. Телеграфный передатчик | https://habrahabr.ru/post/316234/
+
+Первые шаги с STM32 и компилятором mikroC для ARM архитектуры — Часть 2, начало… | https://habrahabr.ru/post/318352/
+
+Первые шаги с STM32 и компилятором mikroC для ARM архитектуры — Часть 1 | https://habrahabr.ru/post/318306/
+
+Программирование SPI Flash с помощью Arduino и SD-карты | https://habrahabr.ru/post/318110/
+
+Собственная платформа. Часть 0.2 Теория. Интерпретатор CHIP8 | https://habrahabr.ru/post/316788/
+
+Избранные места из популярного учебника микроэлектроники на русском, который наконец-то выходит на бумаге | https://habrahabr.ru/post/317558/
+
+STM32: FreeRTOS и пьезокерамический излучатель | https://habrahabr.ru/post/316990/
+
+Подключение периферийных модулей к MIPSfpga, на примере ультразвуковых датчиков расстояния | https://habrahabr.ru/post/316770/
+
+Собственная платформа. Часть 0.1 Теория. Немного о процессорах | https://habrahabr.ru/post/316520/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181. Окончание | https://habrahabr.ru/post/316100/
+
+Реализация протокола MIL-STD-1553 на STM32 | https://habrahabr.ru/post/316430/
+
+Настольный пульт управления на JavaScript/Node.js для робота на Ардуине | https://habrahabr.ru/post/316194/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181 | https://habrahabr.ru/post/315912/
+
+LEGO MINDSTORMS Education EV3 в профориентации | https://habrahabr.ru/company/legoeducation/blog/315740/
+
+Управление роботом на Ардуино из приложения на Node.js | https://habrahabr.ru/post/315480/
+
+Знакомство с MSP432: пишем простую программу | https://habrahabr.ru/post/315612/
+
+К вопросу о тенденции | https://habrahabr.ru/post/315586/
+
+Знакомство и старт разработки на ПЛИС iCE40 от Lattice Semiconductor | https://habrahabr.ru/post/315588/
+
+Делаем контур управления электродвигателем с заданием тока | https://habrahabr.ru/post/315488/
+
+Консолька в роботе на Ардуине | https://habrahabr.ru/post/315084/
+
+Можно скачать материалы семинара Nanometer ASIC (РОСНАНО / МИСиС / Imagination Technologies) — ликбез по всему про чипы | https://habrahabr.ru/post/314892/
+
+Археология программиста | https://habrahabr.ru/post/314756/
+
+Установка node.js на Raspberry Pi | https://habrahabr.ru/post/314540/
+
+Хардвер вторгается в софтвер на московской конференции SECR | https://habrahabr.ru/post/314304/
+
+Как сделать процессорный звук в Жигулях | https://habrahabr.ru/post/313946/
+
+Разработка и эксплуатация ультразвукового сенсора наполнения бака | https://habrahabr.ru/post/313816/
+
+Предел минимального Hello Word на AVR составляет 0 бит | https://habrahabr.ru/post/313786/
+
+Подключение АЦП к ПЛИС. Особенности, сложности, реализация | https://habrahabr.ru/post/313692/
+
+Подключение oled дисплея с контроллером SSD1306 к STM32 по I2C | https://habrahabr.ru/post/313490/
+
+Умное цветоводство, или Пусти ИТшника в огород… Часть 2 | https://habrahabr.ru/company/jetinfosystems/blog/313308/
+
+К вопросу о стиле | https://habrahabr.ru/post/313182/
+
+«Привет, Siri. Включи обогреватели» — Интеграция умного дома на базе NooLite с Apple HomeKit | https://habrahabr.ru/post/312668/
+
+Как полюбить mbed, а потом дважды облажаться | https://habrahabr.ru/company/efo/blog/312484/
+
+Начинаем работать в STM32CubeMX. Часть 2 | https://habrahabr.ru/post/312810/
+
+Как перестать бояться и полюбить mbed [Часть 5] | https://habrahabr.ru/company/efo/blog/311816/
+
+ESP8266 управление баней, 2 года — полет нормальный | https://habrahabr.ru/post/312608/
+
+Для любителей ПЛИС-ов, ASIC-ов, архитектуры и микроархитектуры — еще про семинары и про конвейеры | https://habrahabr.ru/post/312354/
+
+NooLite + Raspberry Pi + Telegram = умный дом | https://habrahabr.ru/post/312328/
+
+Оптимизация кода: память | https://habrahabr.ru/post/312078/
+
+Как перестать бояться и полюбить mbed [Часть 4] | https://habrahabr.ru/company/efo/blog/310720/
+
+Строки в кодовой памяти AVR | https://habrahabr.ru/post/311874/
+
+Управление шлагбаумом с помощью Arduino UNO и радиопередатчика 433 МГц | https://habrahabr.ru/post/311818/
+
+Как перестать бояться и полюбить mbed [Часть 3] | https://habrahabr.ru/company/efo/blog/310058/
+
+Микросхемы с разных сторон: семинары Nanometer ASIC, MIPSfpga и Connected MCU в России, Украине и Казахстане | https://habrahabr.ru/post/311562/
+
+Начинаем работать в STM32CubeMX. Часть 1 | https://habrahabr.ru/post/310742/
+
+Как перестать бояться и полюбить mbed [Часть 2] | https://habrahabr.ru/company/efo/blog/309918/
+
+Украинец подсказал британцу сделать вебинар для разработчиков IoT для сельского хозяйства. А мы поговорим о CPU внутри | https://habrahabr.ru/post/310666/
+
+К вопросу о порядке операторов | https://habrahabr.ru/post/310598/
+
+Как перестать бояться и полюбить mbed [Часть 1] | https://habrahabr.ru/company/efo/blog/308440/
+
+К вопросу об Ардуино | https://habrahabr.ru/post/260101/
+
+Удаленный оповещатель о критических температуре и влажности на основе МК AVR и датчика DHT22 | https://habrahabr.ru/post/309994/
+
+Оптимизация кода: процессор | https://habrahabr.ru/post/309796/
+
+ESP32: знакомимся, пишем и запускаем первую прошивку | https://habrahabr.ru/post/309746/
+
+Как штатными настройками убить микроконтроллер. Часть 2 | https://habrahabr.ru/post/309724/
+
+Программируем «Мегапроцессор» | https://habrahabr.ru/post/309654/
+
+Немного о ARM Security Extensions (aka ARM TrustZone) | https://habrahabr.ru/post/309618/
+
+Про интернет вещей и полупроводниковую индустрию в краю, где пьют верблюжье молоко. День первый | https://habrahabr.ru/post/309570/
+
+Создание динамических time-lapse с помощью микроконтроллера | https://habrahabr.ru/post/309548/
+
+Идёт? Бежит? Поднимается по лестнице? Intel Edison знает ответ | https://habrahabr.ru/company/intel/blog/305126/
+
+STM32 USB Mass Storage Bootloader | https://habrahabr.ru/post/309218/
+
+О выравнивании памяти на ARM процессорах на простом примере | https://habrahabr.ru/post/309144/
+
+К вопросу о пинах | https://habrahabr.ru/post/308662/
+
+Подарок на 1 сентября всем поклонникам цифровой схемотехники и архитектуры компьютера | https://habrahabr.ru/post/308976/
+
+Использование TCL в разработке на FPGA | https://habrahabr.ru/post/308962/
+
+Подключаем устройства Intel для интернета вещей к Microsoft Azure IoT Suite | https://habrahabr.ru/company/intel/blog/267815/
+
+Как штатными настройками убить микроконтроллер. Часть 1 | https://habrahabr.ru/post/308596/
+
+Современное искусство на экране инженера хардверной компании | https://habrahabr.ru/company/yadro/blog/308508/
+
+Знакомство: BBC micro:bit и mbed OS 5 | https://habrahabr.ru/post/307806/
+
+JavaScript выходит за пределы Web в 2015 году | https://habrahabr.ru/post/281342/
+
+Про разделение труда и его последствия | https://habrahabr.ru/company/simbirsoft/blog/308090/
+
+Один день программиста ембеддера. Написать драйвер для датчика влажности HTS221 от STM — это очень просто? | https://habrahabr.ru/post/307962/
+
+Беспроводные сети ZigBee. Часть 2 [Работа с радиомодулями ETRX35X] | https://habrahabr.ru/company/efo/blog/306062/
+
+Работа с радиомодулями SI4432 | https://habrahabr.ru/post/307836/
+
+Портирование FreeModbus под STM32. Версия от Динара | https://habrahabr.ru/post/307622/
+
+Переводчик с языка жестов: реализация метода опорных векторов на Intel Edison | https://habrahabr.ru/company/intel/blog/306948/
+
+Chargebox на Arduino | https://habrahabr.ru/post/307518/
+
+Про облака и датчики: подключение Intel NUC и Genuino 101 к IoT-платформе IBM Watson | https://habrahabr.ru/company/intel/blog/307136/
+
+Конечные автоматы в среде динамического моделирования SimInTech | https://habrahabr.ru/post/307090/
+
+Новая редакция популярного бесплатного учебника электроники, архитектуры компьютера и низкоуровневого программирования | https://habrahabr.ru/post/306982/
+
+STM32F405: прошить 400кб за 10 секунд или быстрый UART-загрузчик заточенный под USB-UART, размером менее 4 килобайт | https://habrahabr.ru/post/305800/
+
+Два в одном: USB хост и составное USB устройство | https://habrahabr.ru/post/305602/
+
+Ограничения в использовании умных светодиодов WS2812, WS2801 и подобных в современных проектах декоративной светотехники | https://habrahabr.ru/post/305876/
+
+Сравнение коммуникационных протоколов DLMS/COSEM, SML и IEC 61850 для приложений интеллектуального учета потребления | https://habrahabr.ru/post/305048/
+
+О вкусном и здоровом питании ESP8266 от батареек | https://habrahabr.ru/post/304936/
+
+USB mass storage device и libopencm3 | https://habrahabr.ru/post/304924/
+
+Нестандартный подход к программированию микроконтроллера | https://habrahabr.ru/post/304830/
+
+Семинары по введению во всё: от верилога и цифровой логики до микроархитектуры встроенных процессоров и RTOS-ов | https://habrahabr.ru/post/304612/
+
+ZigBee и Intel Edison: практика автоматизации переговорных комнат | https://habrahabr.ru/company/intel/blog/304546/
+
+Пишем задачки на FBD. Пятнашки и Симпсон | https://habrahabr.ru/post/304416/
+
+Intel Edison, Windows Phone и Microsoft Azure: облачный союз пульта и светодиода | https://habrahabr.ru/company/intel/blog/304506/
+
+MQTT и Modbus: cравнение протоколов, используемых в шлюзах для IoT | https://habrahabr.ru/company/intel/blog/304228/
+
+Анонсирован Cubieboard 5/Cubietruck Plus и HDD-RAID Shield | https://habrahabr.ru/post/304132/
+
+Ответственный подход к измерению относительной влажности | https://habrahabr.ru/company/efo/blog/303350/
+
+Запускаем Yocto Linux на виртуальной машине | https://habrahabr.ru/company/intel/blog/303960/
+
+Загрузчик для dsPIC33 | https://habrahabr.ru/post/303958/
+
+Началось соревнование «Make with Ada» для разработчиков встраиваемых систем | https://habrahabr.ru/post/303804/
+
+Как делать из Intel Edison и Galileo iBeacon-маяки | https://habrahabr.ru/company/intel/blog/303670/
+
+DLMS/COSEM – открытый протокол для обмена данными с приборами учета. Часть 2: интерфейсные классы, модель прибора учета | https://habrahabr.ru/post/303606/
+
+Эксперименты с Arduino 101 | https://habrahabr.ru/company/intel/blog/303468/
+
+К вопросу о стандартных библиотеках | https://habrahabr.ru/post/273863/
+
+Протокол управления CD-чейнджером | https://habrahabr.ru/post/303144/
+
+Компилятор С/С++ на базе LLVM для мультиклеточных процессоров: быть или не быть? | https://habrahabr.ru/post/302776/
+
+DLMS/COSEM – открытый протокол для обмена данными с приборами учета. Часть 1: краткий обзор | https://habrahabr.ru/post/302246/
+
+Знакомство со стеком DLMS/COSEM для микроконтроллеров семейства MSP430 компании Texas Instruments | https://habrahabr.ru/post/302180/
+
+Система сбора измерений на примере метеостанции | https://habrahabr.ru/post/302164/
+
+Wind River Rocket: начало работы | https://habrahabr.ru/company/intel/blog/301898/
+
+ТВ-таймер обратного отсчета на микроконтроллере AVR | https://habrahabr.ru/post/301598/
+
+Intel Edison + веб-камера = сканер штрих-кодов | https://habrahabr.ru/company/intel/blog/301492/
+
+Разжёвываем линейно-квадратичный регулятор для управления перевёрнутым маятником | https://habrahabr.ru/post/301276/
+
+Контроль качества воздуха (со2 и температуры) в офисе и дома, своими руками | https://habrahabr.ru/post/301296/
+
+RS232 устройство 3-в-1 для домашнего Linux сервера: Часть 2 (Серверная) | https://habrahabr.ru/post/300968/
+
+Intel System Studio for Microcontrollers 2015: подробности о разработке и отладке | https://habrahabr.ru/company/intel/blog/283534/
+
+Intel Edison в IoT: безопасное подключение сенсорного узла к интернету с помощью MQTT | https://habrahabr.ru/company/intel/blog/283440/
+
+Создание сенсорного узла для интернета вещей на Intel Edison | https://habrahabr.ru/company/intel/blog/283328/
+
+Windows 10 IoT Core: GPIO, Lightning и RemoteClient | https://habrahabr.ru/post/283184/
+
+Intel System Studio for Microcontrollers 2015: первые шаги | https://habrahabr.ru/company/intel/blog/283074/
+
+О протоколе Modbus и Intel Edison | https://habrahabr.ru/company/intel/blog/282926/
+
+Отправляем данные с Arduino в Azure IoT Hub | https://habrahabr.ru/post/282912/
+
+Драйверы умного или виртуального железа | https://habrahabr.ru/post/282930/
+
+Примеры кода для интернета вещей: умная поливалка | https://habrahabr.ru/company/intel/blog/282756/
+
+Анонс! Участникам DevCon 2016 будет доступен мастер-класс от Intel | https://habrahabr.ru/company/microsoft/blog/282642/
+
+Анатомия драйвера | https://habrahabr.ru/post/282564/
+
+Процессоры Intel Xeon оснастили FPGA Altera | https://habrahabr.ru/company/intel/blog/282570/
+
+Атрибуты устройств, или ioctl must die | https://habrahabr.ru/post/282415/
+
+Интернет вещей на реальном примере — система поиска автомобиля | https://habrahabr.ru/post/282351/
+
+От шедулера к планировщику | https://habrahabr.ru/post/282213/
+
+Использование arduino для автоматизации тестирования устройств | https://habrahabr.ru/company/rtl-service/blog/282163/
+
+Аутентификация пользователей на Arduino с RFID | https://habrahabr.ru/company/intersystems/blog/279893/
+
+Преемптивность: как отнять процессор | https://habrahabr.ru/post/282049/
+
+Делаем мультизадачность | https://habrahabr.ru/post/282037/
+
+Беспроводные сети ZigBee. Часть 1 [Вводная] | https://habrahabr.ru/company/efo/blog/281048/
+
+Новый курс по микроконтроллерам — совместный проект индустрии и университетов | https://habrahabr.ru/post/282001/
+
+Программирование и отладка микроконтроллеров ARM Cortex-M4 фирмы Atmel в среде операционной системы Linux. Часть 2 | https://habrahabr.ru/company/rainbow/blog/281715/
+
+От паспортного сканера к автономному распознающему устройству | https://habrahabr.ru/company/smartengines/blog/281857/
+
+Программирование и отладка микроконтроллеров ARM Cortex-M4 фирмы Atmel в среде операционной системы Linux. Часть 1 | https://habrahabr.ru/company/rainbow/blog/281665/
+
+Плата контроллера на базе STM32F7 с видеовыходом | https://habrahabr.ru/post/281451/
+
+IoT-решение за 1,5 часа | https://habrahabr.ru/company/eastbanctech/blog/281238/
+
+Одновременный анализ энергопотребления/производительности Android-устройств с помощью Intel VTune Amplifier и SoC Watch | https://habrahabr.ru/company/intel/blog/281200/
+
+Как я писал библиотеку под МЭК 870-5-104 на Arduino при помощи Wireshark | https://habrahabr.ru/post/280818/
+
+Реверс-инжиниринг лазерного датчика расстояния | https://habrahabr.ru/post/274879/
+
+Математика на пальцах: ардуино головного мозга или линейно-квадратичный регулятор для управления электродвигателем | https://habrahabr.ru/post/280486/
+
+Atmel оптимизировал параметрический поиск микроконтроллеров для мобильных телефонов | https://habrahabr.ru/company/rainbow/blog/280736/
+
+Ostro Pot — open source мультиварка на базе ОС Ostro | https://habrahabr.ru/company/intel/blog/280580/
+
+Я покажу тебе мир без STM32 | https://habrahabr.ru/company/efo/blog/280145/
+
+Alljoyn: взгляд embedded разработчика. Часть 3: Портируем на МК SAMD21 | https://habrahabr.ru/company/rainbow/blog/278363/
+
+Ферроэлектрическая (сегнетоэлектрическая) память и электронные чернила — идеальное сочетание для батарейного питания | https://habrahabr.ru/post/279831/
+
+Портирование FreeModbus 1.5 под STM32 HAL rs485 без RTOS | https://habrahabr.ru/post/279747/
+
+«Весёлый повар» на FBD шаг за шагом | https://habrahabr.ru/post/278963/
+
+Custom floating point format on FPGA | https://habrahabr.ru/post/279269/
+
+STM32 и LCD, быстрая заливка экрана | https://habrahabr.ru/post/278967/
+
+Alljoyn: взгляд embedded разработчика. Часть 2: Linux нам в помощь | https://habrahabr.ru/company/rainbow/blog/278845/
+
+Как делать парсинг текста голым хардвером, без процессора и без софтвера | https://habrahabr.ru/post/278681/
+
+Обзор примитивов синхронизации — спинлоки и тайны ядра процессора | https://habrahabr.ru/post/278685/
+
+Обзор примитивов синхронизации — Семафор и немного lockless-а | https://habrahabr.ru/post/278661/
+
+Обзор примитивов синхронизации — mutex и cond | https://habrahabr.ru/post/278413/
+
+Игра «Wappo» на FBD или минутка доброты | https://habrahabr.ru/post/278285/
+
+Arduino+Modbus+MasterScada | https://habrahabr.ru/post/278269/
+
+Alljoyn: взгляд embedded разработчика. Часть 1: знакомство | https://habrahabr.ru/company/rainbow/blog/273859/
+
+Простой расчет контрольной суммы | https://habrahabr.ru/post/278171/
+
+Реализация стабильного UART, со скоростью 921600 baud и более, на языке Verilog под ПЛИС | https://habrahabr.ru/post/278005/
+
+Embedded World 2016: куда катится embedded-мир? | https://habrahabr.ru/company/metrotek/blog/277873/
+
+Статья про микроконтроллер EFM32ZG110F32 | https://habrahabr.ru/company/efo/blog/277899/
+
+Математика на пальцах: линейно-квадратичный регулятор | https://habrahabr.ru/post/277671/
+
+Hello, World! На ПЛИС. Мигаем светодиодом | https://habrahabr.ru/post/277599/
+
+На что стоит променять Cortex-M3? | https://habrahabr.ru/company/efo/blog/277491/
+
+Часы на ПЛИС Lattice | https://habrahabr.ru/post/275863/
+
+Игра «2048» на FBD за час | https://habrahabr.ru/post/277203/
+
+Добавляем инструкции в микропроцессор MIPS, которые работают в конвейере как его собственные | https://habrahabr.ru/post/276205/
+
+STM32: SPI: LCD — Вы всё делаете не так [восклицательный знак] | https://habrahabr.ru/post/276605/
+
+STM32F4: GNU AS: Подключение дисплея на PCD8544 (Часть 7) | https://habrahabr.ru/post/276121/
+
+Управление офисным освещением по Wi-Fi. Часть 3: Управляем светом | https://habrahabr.ru/company/rainbow/blog/276007/
+
+Измерение веса руды по току статора. Практика. Часть 2. Программная реализация на МК | https://habrahabr.ru/post/276051/
+
+Переделка RC-машинки в смарт-машинку при помощи ардуино | https://habrahabr.ru/post/275979/
+
+STM32F4: GNU AS: Прерывания, Системный таймер (SysTick) (Часть 6) | https://habrahabr.ru/post/275775/
+
+STM32F4: GNU AS: Настройка тактирования микроконтроллера (Часть 5) | https://habrahabr.ru/post/275653/
+
+Реверс-инжиниринг протокола датчика метеостанции TFA Spring | https://habrahabr.ru/post/275659/
+
+Делаем iBeacon и Eddystone Beacon «на коленке» | https://habrahabr.ru/company/rainbow/blog/273865/
+
+Измерение веса руды по току статора. Практика. Часть 1. Алгоритм обработки сигналов в МК | https://habrahabr.ru/post/275459/
+
+STM32F4: GNU AS: Настраиваем среду компиляции (Часть 4) | https://habrahabr.ru/post/275237/
+
+Динамическое управление прерываниями в ARM | https://habrahabr.ru/post/275351/
+
+STM32F4 USB RNDIS драйвер (управление устройством через Web-интерфейс) | https://habrahabr.ru/post/274663/
+
+Как начать работать с MIPSfpga | https://habrahabr.ru/post/275215/
+
+STM32F4: GNU AS: Мигаем светодиодом (Версия для STM32F4 Discovery, Оптимизация) (Часть 3) | https://habrahabr.ru/post/274901/
+
+Слон и Моська, или подключение LCD к Attiny13A | https://habrahabr.ru/post/274895/
+
+К вопросу о таймерах в ОСРВ (Выводы) | https://habrahabr.ru/post/274805/
+
+Советы начинающим программистам микроконтроллеров | https://habrahabr.ru/post/274601/
+
+STM32F4: GNU AS: Мигаем светодиодом (Оживление) (Часть 2) | https://habrahabr.ru/post/274579/
+
+STM32F4: GNU AS: Программирование на ассемблере (Часть 1) | https://habrahabr.ru/post/274541/
+
+Программирование микрокомпьютера LEGO NXT Mindstorms 2.0. Введение | https://habrahabr.ru/post/274519/
+
+Генераторы хаоса на ПЛИС | https://habrahabr.ru/post/273915/
+
+OpenOCD, GDB и (сильно)удалённая отладка | https://habrahabr.ru/post/274179/
+
+К вопросу о таймерах в ОСРВ | https://habrahabr.ru/post/273885/
+
+Тетрис на микроконтроллере в Tera Term | https://habrahabr.ru/company/rainbow/blog/275401/
+
+Беспроводные решения Atmel для IoT | https://habrahabr.ru/company/rainbow/blog/275399/
+
+Цифровая фильтрация на ПЛИС – Часть 2 | https://habrahabr.ru/post/274847/
+
+Управление офисным освещением по Wi-Fi. Часть 2: Сенсорная технология Q-touch | https://habrahabr.ru/company/rainbow/blog/275361/
+
+Цифровая фильтрация на ПЛИС – Часть 1 | https://habrahabr.ru/post/274845/
+
+К вопросу о стиле программирования | https://habrahabr.ru/post/258593/
+
+О языках | https://habrahabr.ru/post/273883/
+
+Управление офисным освещением по Wi-Fi. Часть 1: Wi-Fi модуль Atmel WINC1500 | https://habrahabr.ru/company/rainbow/blog/275359/
+
+«Глупые» часы на FPGA | https://habrahabr.ru/post/274843/
+
+Интересные семейства микроконтроллеров Cortex от Atmel | https://habrahabr.ru/company/rainbow/blog/275395/
+
+Использование ASF и Atmel Start в IAR | https://habrahabr.ru/company/rainbow/blog/275389/
+
+Atmel выпускает версию среды разработки Studio 7 и веб-платформу Atmel START — инструмент конфигурации и генерации ПО | https://habrahabr.ru/company/rainbow/blog/275385/
+
+Заставляем работать AVR isp mkii clone на windows 10 и Atmel Studio 7: | https://habrahabr.ru/post/273881/
+
+Удаленное обновление прошивки микроконтроллера | https://habrahabr.ru/company/rainbow/blog/275381/
+
+Компании Dialog и Atmel объявили о слиянии. Комментарии официального дистрибьютора в России | https://habrahabr.ru/company/rainbow/blog/275379/
+
+Подключение STM32 к аппаратуре радиоуправления | https://habrahabr.ru/post/273879/
+
+Новая книга по Cortex-M0/M0+ | https://habrahabr.ru/post/273877/
+
+1-Wire slave на МК. Часть 2: Реализация в коде | https://habrahabr.ru/company/rainbow/blog/275377/
+
+Немецко-китайский прибор и немного математики (часть 2) | https://habrahabr.ru/post/273875/
+
+Тактирование микроконтроллеров Atmel SAMD20/21 | https://habrahabr.ru/company/rainbow/blog/275375/
+
+Немецко-китайский прибор и немного математики | https://habrahabr.ru/post/273873/
+
+1-Wire slave на МК. Часть 1: Железо | https://habrahabr.ru/company/rainbow/blog/275373/
+
+Atmel Software Framework (ASF): как это работает? | https://habrahabr.ru/company/rainbow/blog/275371/
+
+USB bootloader на микроконтроллере: обновление прошивки с флешки | https://habrahabr.ru/company/rainbow/blog/275369/
+
+RC Авто c GPS на платформе Arduino Nano | https://habrahabr.ru/post/273871/
+
+STM32, C++ и FreeRTOS. Разработка с нуля. Часть 4 (Прерывания, UART и недоHART) | https://habrahabr.ru/post/262133/
+
+УМК на ATmega16 | https://habrahabr.ru/post/262463/
+
+STM32, C++ и FreeRTOS. Разработка с нуля. Часть 3 (LCD и Экраны) | https://habrahabr.ru/post/261837/
+
+STM32, C++ и FreeRTOS. Разработка с нуля. Часть 2 | https://habrahabr.ru/post/261823/
+
+STM32, C++ и FreeRTOS. Разработка с нуля. Часть 1 | https://habrahabr.ru/post/261807/
+
+«Программирование мышкой» для микроконтроллеров | https://habrahabr.ru/company/efo/blog/261253/
+
+Функциональный DDS rенератор на ПЛИС | https://habrahabr.ru/post/260999/
+
+ПЛИС — мои первые шаги | https://habrahabr.ru/post/252261/
+
+Описание цифровых автоматов на VHDL | https://habrahabr.ru/post/254885/
+
+Как я начинал работать с nRF24LE или ещё один способ запрограммировать этот чип | https://habrahabr.ru/post/257979/
+
+Плач инженера | https://habrahabr.ru/post/257739/
+
+Профилирование энергопотребления микроконтроллеров (серия EFM32, SiLabs) | https://habrahabr.ru/company/efo/blog/257503/
+
+Референсный код | https://habrahabr.ru/post/257481/
+
+Новое семейство микроконтроллеров MSP432 | https://habrahabr.ru/post/256797/
+
+Символьный LCD дисплей (Видео урок 1) | https://habrahabr.ru/post/256011/
+
+В этом МК есть USB? | https://habrahabr.ru/post/255637/
+
+RTOS должна упростить разработу IoT устройств | https://habrahabr.ru/post/255445/
+
+On Middleware | https://habrahabr.ru/post/254717/
+
+Игральный кубик на Attiny2313 | https://habrahabr.ru/post/253037/
+
+Расчёт параметров предделителя для 8250-совместимых USART | https://habrahabr.ru/post/252833/
+
+Большие подводные камни маленького контроллера | https://habrahabr.ru/post/251919/
+
+UART в ATtiny13 или Как вывести данные из МК за 52р | https://habrahabr.ru/post/250995/
+
+10 навыков, необходимых сегодня разработчику встроенных систем (вольный перевод с комментариями) | https://habrahabr.ru/post/250293/
+
+Minesweeper на FPGA | https://habrahabr.ru/post/274841/
+
+Эмуляция носителя FAT32 на stm32f4 | https://habrahabr.ru/post/247673/
+
+Command line interpreter на микроконтроллере своими руками | https://habrahabr.ru/post/247507/
+
+Переход из online в offline IDE при программировании Nucleo-F401RE | https://habrahabr.ru/post/243395/
+
+Чего не хватает инженерному образованию | https://habrahabr.ru/post/242331/
+
+ARM анонсировала mbed v3.0 | https://habrahabr.ru/post/241718/
+
+Реализации интерфейса 1-Wire на основе SSP | https://habrahabr.ru/post/239981/
+
+Сделай шаг к ПЛИС | https://habrahabr.ru/post/274829/
+
+Разбираем и собираем обратно стек USB | https://habrahabr.ru/post/236401/
+
+Невредные советы фрилансера электронщика. Что нашему брату делать сегодня и есть ли свет в конце туннеля? | https://habrahabr.ru/post/236111/
+
+Действительно ли вам нужен исходный код? | https://habrahabr.ru/post/235491/
+
+Параллельные вычисления — немного грабель | https://habrahabr.ru/post/235445/
+
+DMA вообще и в частности | https://habrahabr.ru/post/228531/
+
+Умная поливалка цветка на микроконтроллере Attiny13A | https://habrahabr.ru/post/233769/
+
+Об использование sed1335 в микроконтроллерах stm32f103 | https://habrahabr.ru/post/233405/
+
+Быстрее, выше, сильнее или как быстро цифровать аналоговый сигнал | https://habrahabr.ru/post/233095/
+
+Опыт еще одного инженерного расследования | https://habrahabr.ru/post/231373/
+
+Подключение дисплея DVD плеера к микроконтроллеру | https://habrahabr.ru/post/231735/
+
+Быстрый старт ST Nucleo-F401 + краткое руководство | https://habrahabr.ru/post/230931/
+
+Обзор платформы для разработчиков ST Nucleo на примере Nucleo-F401RE | https://habrahabr.ru/post/230651/
+
+Странное поведение компании STmicroelectronics | https://habrahabr.ru/post/229425/
+
+10 главных правил убивания жуков | https://habrahabr.ru/post/226495/
+
+Проект инфо-панели оповещения об авариях (Часть 2) | https://habrahabr.ru/post/218859/
+
+Идеи и возможности разработки электроники в России | https://habrahabr.ru/post/224749/
+
+Термометр с беспроводной передачей данных | https://habrahabr.ru/post/224459/
+
+Разработка коммерческого электронного устройства с нуля | https://habrahabr.ru/post/224297/
+
+Одна маленькая загадка про Cortex-M | https://habrahabr.ru/post/224101/
+
+Подопытный кролик, или один из МК отечественного производства | https://habrahabr.ru/post/223779/
+
+Опыт одного инженерного расследования | https://habrahabr.ru/post/222953/
+
+Работа с регистрами внешних устройств в языке C, часть 3 | https://habrahabr.ru/post/222061/
+
+Медленная работа SD карточек — кто виноват и что делать? | https://habrahabr.ru/post/220433/
+
+Начинаем изучать Cortex-M на примере STM32, часть 2 | https://habrahabr.ru/post/218825/
+
+Time Triggered design — еще один подход к проектированию ПО для встраиваемых систем | https://habrahabr.ru/post/219749/
+
+MIPS модуль Newton – конкурент Edison от Intel для использования в носимых компьютерах | https://habrahabr.ru/post/219355/
+
+Начинаем изучать Cortex-M на примере STM32 | https://habrahabr.ru/post/216843/
+
+Отладочная плата STM32F429I и GPS модуль. Получаем детальную информацию о спутниках | https://habrahabr.ru/post/216095/
+
+Freescale уменьшила размеры самого маленького в мире микроконтроллера на архитектуре ARM | https://habrahabr.ru/post/216093/
+
+Что внутри олимпийской медали болельщика 2014? | https://habrahabr.ru/post/214487/
+
+STM32CubeMX — продвинутый генератор проектов для STM32 | https://habrahabr.ru/post/213561/
+
+STM32 — правильно используем встроенный flash | https://habrahabr.ru/post/213771/
+
+Программируем nRF24LE1 через Raspberry PI и USBasp | https://habrahabr.ru/post/210974/
+
+Проект инфо-панели оповещения об авариях (Часть 1) | https://habrahabr.ru/post/210418/
+
+Портирование FreeRTOS на процессор от «Мультиклет» | https://habrahabr.ru/post/209732/
+
+Лучшее время для изучения микроконтроллеров | https://habrahabr.ru/post/209218/
+
+6 применений в «умном доме» платы USBasp. Нестандартное использование USBasp | https://habrahabr.ru/post/208470/
+
+STM32 и USB-HID — это просто | https://habrahabr.ru/post/208026/
+
+Siemens Logo! — десять лет спустя | https://habrahabr.ru/post/208022/
+
+Первые шаги со Stellaris LM4F120 launchpad evaluation board | https://habrahabr.ru/post/206864/
+
+Arduino совместимая плата OLIMEXINO-85S размером с microSD карту | https://habrahabr.ru/post/207684/
+
+Лабораторная установка на любительской электронике: от идеи до готовой машины | https://habrahabr.ru/post/207388/
+
+Праздник жизни по гиковски: с ARM и TFT LCD | https://habrahabr.ru/post/207136/
+
+Анализ протоколов работы пультов ДУ | https://habrahabr.ru/post/204906/
+
+STM32+Visual Studio | https://habrahabr.ru/post/204264/
+
+Компактный USB HID Bootloader для ATtiny85 | https://habrahabr.ru/post/200896/
+
+Система автоматического подсчета кругов и времени для RC-автомоделей. Часть 2 Протоколы AMB20 и AMBRc | https://habrahabr.ru/post/196514/
+
+Intel представила плату для разработчиков Galileo | https://habrahabr.ru/post/196264/
+
+Создание своего летающего робота | https://habrahabr.ru/post/193900/
+
+Autodesk 123D Circuits: виртуальная Arduino в браузере! | https://habrahabr.ru/post/195428/
+
+Новая отладочная плата Radxa Rock на базе SoC Rockchip RK3188 | https://habrahabr.ru/post/193976/
+
+Em::Blocks 1.20 | https://habrahabr.ru/post/193540/
+
+STM32 + EmBlocks — мигаем светодиодами | https://habrahabr.ru/post/191624/
+
+EmBlocks — IDE для STM32 | https://habrahabr.ru/post/191468/
+
+MultiClet: осваиваем SPI на примере работы с LCD | https://habrahabr.ru/post/191184/
+
+Прерывания в конвейеризированных процессорах | https://habrahabr.ru/post/188002/
+
+Секреты кэш-памяти, или как потратить 1000 тактов на 10 команд | https://habrahabr.ru/post/187654/
+
+STM32F4Discovery – подключаем камеру по интерфейсу DCMI | https://habrahabr.ru/post/186980/
+
+Обсуждение Cubietruck (от создателей Cubieboard) | https://habrahabr.ru/post/186576/
+
+Новая версия Cubieboard2 Allwinner A20 (Cortex-A7 Dual-Core) | https://habrahabr.ru/post/186540/
+
+Решение проблем, связанных с правилами наименования в Quartus II при использовании Schematic | https://habrahabr.ru/post/184032/
+
+БИНС-шминс. Вводная статья | https://habrahabr.ru/post/183096/
+
+FleX™Silicon-on-Polymer™ — первый серийный гибкий микроконтроллер | https://habrahabr.ru/post/183372/
+
+Open SmartWatch Project | https://habrahabr.ru/post/183312/
+
+ChibiOS: легковесная RTOS | https://habrahabr.ru/post/181912/
+
+Опыт аппроксимации экспериментальных данных | https://habrahabr.ru/post/177461/
+
+Компания UDOO запустила кампанию на Kickstarter.com.Убийца Raspberry Pi | https://habrahabr.ru/post/176943/
+
+Работа с ЖК индикатором на отладочной плате STM32L-Discovery | https://habrahabr.ru/post/173709/
+
+Сетевое кольцо на микроконтроллерах | https://habrahabr.ru/post/168119/
+
+Мультиклет: Первые практические тесты и производительность | https://habrahabr.ru/post/165043/
+
+Не работает AVR USB Программатор? Настроим | https://habrahabr.ru/post/165029/
+
+Теория создания искусственного интеллекта | https://habrahabr.ru/post/164875/
+
+Простой внутрисхемный программатор LPC микроконтроллеров своими руками. Подключение. Особенности внутрисхемного программирования. Часть вторая | https://habrahabr.ru/post/164381/
+
+Простой внутрисхемный программатор ARM микроконтроллеров серии LPC своими руками. Схемотехника. Часть первая | https://habrahabr.ru/post/163767/
+
+STM32 + linux | https://habrahabr.ru/post/161863/
+
+MSP430 LaunchPad и DHT11 | https://habrahabr.ru/post/160769/
+
+Создание умного дома и разработка своего протокола | https://habrahabr.ru/post/160469/
+
+Мини-компьютер на базе микроконтроллера Parallax Propeller | https://habrahabr.ru/post/159847/
+
+VGA адаптер на ПЛИС Altera Cyclone III | https://habrahabr.ru/post/157863/
+
+Cubieboard — достойный соперник Raspberry Pi | https://habrahabr.ru/post/156745/
+
+Лекция №02: MSP430. Города и регистры | https://habrahabr.ru/post/154155/
+
+Использование среды разработки IAR Ebedded Workbench IDE | https://habrahabr.ru/post/152407/
+
+Прошиваем AVR вручную | https://habrahabr.ru/post/152052/
+
+Практическое применение MSP430 для web-разработчика | https://habrahabr.ru/post/151709/
+
+Альтернативный подход к проектированию ПО для Embedded | https://habrahabr.ru/post/148992/
+
+Два подхода к проектированию ПО для embedded | https://habrahabr.ru/post/148805/
+
+Почему бы я не рекомендовал Atmel или о непонимании успеха Arduino | https://habrahabr.ru/post/147025/
+
+Мультимедиа центр на Arduino UNO | https://habrahabr.ru/post/146603/
+
+Программирование микроконтроллеров семейства Cypress | https://habrahabr.ru/post/145285/
+
+Обработка сообщений в ОСРВ на примере FreeRTOS | https://habrahabr.ru/post/143979/
+
+STM32: Clock Security System | https://habrahabr.ru/post/140761/
+
+Atmel Studio 6 поддерживает как AVR, так и ARM | https://habrahabr.ru/post/140396/
+
+Автомобильные супер-часы | https://habrahabr.ru/post/140348/
+
+STM32F1xx — Инструменты разработчика и FreeRTOS | https://habrahabr.ru/post/139601/
+
+ПЛК — что это такое? | https://habrahabr.ru/post/139425/
+
+STM32F1хх — продолжаем лечение от ардуинозависимости при помощи LCD | https://habrahabr.ru/post/139384/
+
+Программирование ПЛК Siemens на Simatic Step7 | https://habrahabr.ru/post/139180/
+
+Знакомство с TCP стеком для микроконтроллеров фирмы Microchip | https://habrahabr.ru/post/138081/
+
+﻿Две стороны повсеместного применения микроконтроллеров | https://habrahabr.ru/post/137987/
+
+Простая автоматизация: программируемые реле Easy | https://habrahabr.ru/post/137891/
+
+MSP430, учимся программировать и отлаживать железо (часть 3) | https://habrahabr.ru/post/137719/
+
+Спутниковый спидометр на STM32F1 и FreeRTOS | https://habrahabr.ru/post/137673/
+
+Модельно-ориентированное проектирование, или продолжаем приручение Cortex M3 с помощью Matlab/Simulink | https://habrahabr.ru/post/133911/
+
+MSP430, учимся программировать и отлаживать железо (часть 2) | https://habrahabr.ru/post/137431/
+
+MSP430, учимся программировать и отлаживать железо | https://habrahabr.ru/post/137205/
+
+Взаимодействие схемы в Proteus'е с внешним миром | https://habrahabr.ru/post/135914/
+
+Raspberry Pi, сигнализация и умный дом | https://habrahabr.ru/post/136811/
+
+Digital Metawatch WDS112 оригинальный отладочный комплект от Texas Instruments | https://habrahabr.ru/post/136102/
+
+Комплект разработчика на базе MSP430 от Texas Instruments | https://habrahabr.ru/post/135641/
+
+Verilog. Цифровой фильтр на RAM | https://habrahabr.ru/post/134485/
+
+Программирование ПЛИС. Изучение явления «дребезг контактов» и метод избавления от него | https://habrahabr.ru/post/133871/
+
+Продолжение истории про «Сердце» электронного устройства или простейшее программирование Silicon Labs C8051F320 | https://habrahabr.ru/post/133856/
+
+Программирование ПЛИС. Плавное изменение яркости светодиодов на Spartan-3E Starter Kit с использованием ШИМ (PWM) | https://habrahabr.ru/post/133383/
+
+Свой task switch logging за один день | https://habrahabr.ru/post/132349/
+
+Внешние прерывания у 8-bit avr, использование кнопок | https://habrahabr.ru/post/131908/
+
+Ошибка в компиляторе? Маловероятно, но… | https://habrahabr.ru/post/131843/
+
+Microtouch | https://habrahabr.ru/post/131430/
+
+Какую архитектуру МК вы используете/планируете использовать в работе/обучении/для хобби? | https://habrahabr.ru/post/130621/
+
+Текстовый VGA модуль на VHDL | https://habrahabr.ru/post/129746/
+
+Модельно-ориентированное проектирование, или взятие Cortex M3 штурмом с помощью Matlab/Simulink | https://habrahabr.ru/post/129519/
+
+консоль в микроконтроллере с micro readline | https://habrahabr.ru/post/127890/
+
+FreeRTOS: мьютексы и критические секции | https://habrahabr.ru/post/129445/
+
+FreeRTOS: межпроцессное взаимодействие | https://habrahabr.ru/post/129180/
+
+FreeRTOS: введение | https://habrahabr.ru/post/129105/
+
+Миниатюрный USB программатор для AVR микроконтроллеров | https://habrahabr.ru/post/128939/
+
+ARM-микроконтроллеры STM32F. Быстрый старт c STM32-Discovery | https://habrahabr.ru/post/128734/
+
+Реанимация старых лабораторных стендов при помощи микроконтроллеров | https://habrahabr.ru/post/128587/
+
+Работа с трехфазным синхронным двигателем | https://habrahabr.ru/post/128407/
+
+Программируем SSRAM на ПЛИС | https://habrahabr.ru/post/128345/
+
+Элемент задержки на VHDL. Другой взгляд | https://habrahabr.ru/post/126803/
+
+Элемент задержки на VHDL | https://habrahabr.ru/post/126431/
+
+ARM — это сложно…? | https://habrahabr.ru/post/125994/
+
+Часы на ПЛИС с применением Quartus II и немного Verilog | https://habrahabr.ru/post/125364/
+
+USB для AVR. Введение | https://habrahabr.ru/post/125253/
+
+STM32F1xx — лечимся от ардуинозависимости вместе | https://habrahabr.ru/post/123791/
+
+Мини-обзор Arduino-совместимых плат различных архитектур | https://habrahabr.ru/post/123236/
+
+Выбираем микроконтроллер вместе | https://habrahabr.ru/post/122030/
+
+Генерация случайных чисел на микроконтроллерах | https://habrahabr.ru/post/121849/
+
+Сравниваем микроконтроллеры до 50 рублей: ARM жаждет крови | https://habrahabr.ru/post/120611/
+
+Пишем программы для микроконтроллеров AVR в среде Code::Blocks 10.5 | https://habrahabr.ru/post/120568/
+
+Самое простое и захватывающее падение в мир микроконтроллеров или Meggy Jr RGB | https://habrahabr.ru/post/120231/
+
+Работа с GSM-модулем на примере SIM900D | https://habrahabr.ru/post/119030/
+
+Приобщение к миру USB-устройств на примере микроконтроллеров от Silicon Laboratories | https://habrahabr.ru/post/116709/
+
+Запретный плод GOTO сладок (версия для микроконтроллеров)! | https://habrahabr.ru/post/114270/
+
+Необычный отладочный комплект от Texas Instruments | https://habrahabr.ru/post/114216/
+
+Уничтожь старый 8/16-битный микроконтроллер и получи бесплатно плату LPCXpresso от NXP | https://habrahabr.ru/post/113210/
+
+USB Toolstick, или программирование микроконтроллеров «для самых маленьких» | https://habrahabr.ru/post/112791/
+
+Начинающим: счетчик на микроконтроллере с шагом 2/3 микросекунды и переполнением в несколько суток | https://habrahabr.ru/post/112630/
+
+Дайте мне железа! Часть 2 | https://habrahabr.ru/post/112467/
+
+Дайте мне железа! Часть 1 | https://habrahabr.ru/post/112414/
+
+Мало выводов? Используем RESET | https://habrahabr.ru/post/110894/
+
+Создаем хардварный логгер клавиатуры | https://habrahabr.ru/post/274835/
+
+Осваиваем простейший микроконтроллер PIC. Часть 2 | https://habrahabr.ru/post/98147/
+
+Осваиваем простейший микроконтроллер PIC. Часть 1 | https://habrahabr.ru/post/97795/
+
+Программирование PIC16F876A. Собираем схему с плавно мигающим светодиодом | https://habrahabr.ru/post/97703/
+
+Создаем простейшее usb-устройство для общения со своей программой | https://habrahabr.ru/post/95925/
+
+Введение в разработку USB периферии | https://habrahabr.ru/post/90774/
+
+Программирование микроконтроллеров PIC16/PIC18 на языке C. Статья третья. Немного о железе | https://habrahabr.ru/post/75418/
+
+Программирование микроконтроллеров PIC16/PIC18 на языке C. Статья вторая. Базовые сведения о платформе. Первая программа | https://habrahabr.ru/post/75312/
+
+Программирование микроконтроллеров PIC16/PIC18 на языке C. Статья вводная | https://habrahabr.ru/post/75303/
+
+Программирование для AVR в Ubuntu | https://habrahabr.ru/post/72780/
+
+Почти ОС реального времени — 2 | https://habrahabr.ru/post/58472/
+
+Почти ОС реального времени: event-driven | https://habrahabr.ru/post/58366/
+
+Внутрисхемный программатор отладчик ICD2 + Ubuntu | https://habrahabr.ru/post/50917/
+
+Модернизация телефона старого образца(телефон рулетка). | https://habrahabr.ru/post/50821/
+
+Простая реализация схемы шагового двигателя на мк | https://habrahabr.ru/post/50809/
+

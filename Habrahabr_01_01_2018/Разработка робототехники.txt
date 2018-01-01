@@ -1,0 +1,302 @@
+JetBrains CLion для микроконтроллеров | https://habrahabr.ru/post/345670/
+
+Формула-1 для дронов: команда Университета ИТМО заняла первое место на Robotex-2017 | https://habrahabr.ru/company/spbifmo/blog/344386/
+
+Правдивая история роботизации, начинающаяся с одного простого графика | https://habrahabr.ru/company/parallels/blog/342360/
+
+Избранные главы теории управления на пальцах: линейные наблюдатели динамических систем | https://habrahabr.ru/post/341870/
+
+Россия заняла первое место на Всемирной олимпиаде роботов | https://habrahabr.ru/company/innopolis_university/blog/342238/
+
+Симулятор машинок Брайтенберга | https://habrahabr.ru/post/342154/
+
+Компьютер, предсказавший победу США во Вьетнаме | https://habrahabr.ru/company/parallels/blog/341004/
+
+Алгоритмы построения пути для беспилотного автомобиля. Лекция Яндекса | https://habrahabr.ru/company/yandex/blog/340674/
+
+ROS, ELM и черепашка | https://habrahabr.ru/post/340534/
+
+Ардуино головного мозга: импульсный датчик положения | https://habrahabr.ru/post/340448/
+
+Такое железное и такое безымянное | https://habrahabr.ru/company/goto/blog/340326/
+
+OpenCV. Поиск дорожных знаков методом контурного анализа в Android | https://habrahabr.ru/post/339506/
+
+Компьютерное зрение. Ответы экспертов Intel | https://habrahabr.ru/company/intel/blog/338926/
+
+Команда Университета ИТМО вышла в финал Всемирной олимпиады роботов | https://habrahabr.ru/company/spbifmo/blog/339140/
+
+Автопилот своими рукам. Добавляем электронное управление steer-by-wire на обычный автомобиль | https://habrahabr.ru/post/338322/
+
+Компьютерное зрение. Задайте вопрос эксперту Intel | https://habrahabr.ru/company/intel/blog/337810/
+
+Многозадачная Ардуина: таймеры без боли | https://habrahabr.ru/post/337430/
+
+Ориентация мобильного робота, выбор способа регистрации особых точек изображений | https://habrahabr.ru/post/337214/
+
+Быстрая регистрация особых точек изображений с помощью голосования биграфа | https://habrahabr.ru/post/336494/
+
+Пять главных аспектов плохой безопасности интернета вещей | https://habrahabr.ru/company/parallels/blog/332852/
+
+Игровое управление моделям в условиях неполной информации | https://habrahabr.ru/post/332142/
+
+Цифровой датчик температуры TSic: адреса, пароли, явки | https://habrahabr.ru/company/efo/blog/330506/
+
+Проблемы безопасности и главные достижения ИИ | https://habrahabr.ru/company/parallels/blog/331726/
+
+Генерируем произвольные последовательности на выводах платы Raspberry Pi | https://habrahabr.ru/company/dataart/blog/330536/
+
+Предотвращение негативных последствий при разработке систем искусственного интеллекта, превосходящих человеческий разум | https://habrahabr.ru/company/parallels/blog/330204/
+
+Справочник «пчеловода» или отвечаем на вопросы по микроконтроллерам EFM8 Bee | https://habrahabr.ru/company/efo/blog/327780/
+
+Автопилот своими силами: sensor fusion с телефона и открытые обучающие данные | https://habrahabr.ru/post/329484/
+
+Нейронные сети, генетические алгоритмы и прочее… Мифы и реальность. Версия II | https://habrahabr.ru/post/328668/
+
+Рост автономных платформ обработки данных или еще раз про Big Data | https://habrahabr.ru/company/parallels/blog/328572/
+
+ROS. Стек навигации | https://habrahabr.ru/post/327888/
+
+Автоматизированная генерация схемных компонентов из PDF файлов для Altium Designer | https://habrahabr.ru/post/327628/
+
+Nalivator-9000: робот-бармен на Raspberry Pi и Go | https://habrahabr.ru/post/327220/
+
+Экзоскелет своими руками | https://habrahabr.ru/company/parallels/blog/326596/
+
+Похоже, я не предприниматель | https://habrahabr.ru/post/326014/
+
+Эти загадочные конденсаторы | https://habrahabr.ru/company/efo/blog/325952/
+
+Автопилот своими силами. Часть 1 — набираем обучающие данные | https://habrahabr.ru/post/325704/
+
+Настраиваем бесплатную сборку для написания и отладки программ под микроконтроллеры на основе ядра ARM под Windows 10 | https://habrahabr.ru/post/325450/
+
+Запускаем датчик скорости потока жидкости | https://habrahabr.ru/company/efo/blog/325076/
+
+Рекурсивный фильтр скользящего среднего | https://habrahabr.ru/post/325590/
+
+This is Science: наблюдая за ростом растений | https://habrahabr.ru/post/325596/
+
+Умная ферма с дронами-ковбоями с помощью SAP Cloud Platform | https://habrahabr.ru/company/sap/blog/325122/
+
+Как создать интернет вещей из «кирпичиков» LEGO на базе платформы AWS IoT | https://habrahabr.ru/post/324992/
+
+Гантель как орудие ума | https://habrahabr.ru/company/goto/blog/324962/
+
+«Новая эра Web»: Университет ИТМО начинает подготовку IT-специалистов в области нейротехнологий | https://habrahabr.ru/company/spbifmo/blog/324780/
+
+Власть народу: как использовать ИИ для решения человеческих проблем | https://habrahabr.ru/company/parallels/blog/324574/
+
+Угадай фильтр по импульсной характеристике | https://habrahabr.ru/post/324522/
+
+Программист без диплома: что может и чего не может дать «домашнее обучение» в IT | https://habrahabr.ru/company/spbifmo/blog/324484/
+
+Революция в радиотехнике? RF-ARM-FPGA SoC | https://habrahabr.ru/post/323716/
+
+Почему все виртуальные помощники — женщины? | https://habrahabr.ru/company/parallels/blog/323470/
+
+Примитивы для реализации 1-Wire master при помощи PWM и ICP на микроконтроллерах AVR AtMega | https://habrahabr.ru/post/322710/
+
+23 февраля: страшней айтишника оружия нет | https://habrahabr.ru/company/parallels/blog/322468/
+
+«Умная пыль»: как устроен самый маленький компьютер Michigan Micro Mote | https://habrahabr.ru/company/it-grad/blog/321130/
+
+Я должен знать, о чём ты думаешь: прозрачность мышления ИИ как необходимое условие | https://habrahabr.ru/company/parallels/blog/322156/
+
+Опять февраль семнадцатого, готовим революционный наган для спутниковой навигации | https://habrahabr.ru/post/322098/
+
+Вот что квант животворящий делает | https://habrahabr.ru/company/parallels/blog/321900/
+
+Запускаем датчик скорости потока газа | https://habrahabr.ru/company/efo/blog/321108/
+
+К вопросу об истории и роли личности в ней (не по Плеханову) | https://habrahabr.ru/post/321146/
+
+К вопросу о рабочей точке светодиода и (внезапно) импортозамещению | https://habrahabr.ru/post/307886/
+
+Материалы журналов Университета ИТМО: исследования в сфере обработки изображений и компьютерного моделирования | https://habrahabr.ru/company/spbifmo/blog/320842/
+
+Будут ли роботы стоять в пробках? | https://habrahabr.ru/post/316216/
+
+Открытые онлайн-курсы от Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/320496/
+
+Подключение Xmega к FRAM по SPI | https://habrahabr.ru/post/320472/
+
+Duplo Railroad Tycoon: Синтез железнодорожной сети с максимальным покрытием | https://habrahabr.ru/post/319702/
+
+Нейросетка играет в Доту | https://habrahabr.ru/post/319518/
+
+Искусственный интеллект «Мира дикого запада» HBO: тогда и сейчас | https://habrahabr.ru/company/gvalg/blog/318562/
+
+Подборка фреймворков для машинного обучения | https://habrahabr.ru/company/parallels/blog/317994/
+
+Логика сознания. Часть 9. Искусственные нейронные сети и миниколонки реальной коры | https://habrahabr.ru/post/317712/
+
+«Мир не Дикого Запада»: IEEE опубликовала стандарт по созданию благожелательных роботов | https://habrahabr.ru/company/vasexperts/blog/316274/
+
+О метастабильности в электронике | https://habrahabr.ru/post/317514/
+
+Клипса от Raccoon.world, как контроллер для VR/AR | https://habrahabr.ru/post/317522/
+
+Интервью с разработчиком инопланетного софта: «Случись что, моя задница приняла бы основной удар» | https://habrahabr.ru/company/edison/blog/317288/
+
+О широкополосных СВЧ переключателях фирмы «Peregrine Semiconductor» | https://habrahabr.ru/company/efo/blog/316526/
+
+Настольный пульт управления на JavaScript/Node.js для робота на Ардуине | https://habrahabr.ru/post/316194/
+
+Разбираемся в MAVLink. Часть 2 | https://habrahabr.ru/post/312592/
+
+LEGO MINDSTORMS Education EV3 в профориентации | https://habrahabr.ru/company/legoeducation/blog/315740/
+
+Управление роботом на Ардуино из приложения на Node.js | https://habrahabr.ru/post/315480/
+
+Делаем контур управления электродвигателем с заданием тока | https://habrahabr.ru/post/315488/
+
+Ю. Шмидхубер: «Прекрасно быть частью будущего искусственного интеллекта» | https://habrahabr.ru/post/315148/
+
+Консолька в роботе на Ардуине | https://habrahabr.ru/post/315084/
+
+Как собрать RidgeRun SDK | https://habrahabr.ru/post/314848/
+
+Термосопротивления: Производственный процесс | https://habrahabr.ru/company/efo/blog/314192/
+
+Термосопротивления: Теория | https://habrahabr.ru/company/efo/blog/312898/
+
+Измерение сопротивления и индуктивности двигателя постоянного тока | https://habrahabr.ru/post/314520/
+
+Инвестирование в ИИ сулит больше выгод, чем рисков | https://habrahabr.ru/company/gvalg/blog/314286/
+
+Моделирование кинематики — это не сложно | https://habrahabr.ru/post/313138/
+
+Настраиваем шлюз LoRaWAN и создаем наше первое IoT-приложение | https://habrahabr.ru/company/efo/blog/313042/
+
+Как полюбить mbed, а потом дважды облажаться | https://habrahabr.ru/company/efo/blog/312484/
+
+Танцуют ли роботы Tango | https://habrahabr.ru/company/google/blog/310488/
+
+Как перестать бояться и полюбить mbed [Часть 5] | https://habrahabr.ru/company/efo/blog/311816/
+
+Базовые станции Multi-Tech позволяют развернуть сеть LoRaWAN за пару кликов | https://habrahabr.ru/company/efo/blog/312424/
+
+Как технологии меняют качество жизни: разработка «умных» протезов на базе Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/312362/
+
+Разбираемся в MAVLink. Часть 1 | https://habrahabr.ru/post/312300/
+
+Как перестать бояться и полюбить mbed [Часть 4] | https://habrahabr.ru/company/efo/blog/310720/
+
+Как перестать бояться и полюбить mbed [Часть 3] | https://habrahabr.ru/company/efo/blog/310058/
+
+Три шага, которые увеличат шумы цифрового преобразователя | https://habrahabr.ru/post/311278/
+
+Первый проект на FPGA Altera и подключение USB-Blaster в Linux | https://habrahabr.ru/post/310816/
+
+Как перестать бояться и полюбить mbed [Часть 2] | https://habrahabr.ru/company/efo/blog/309918/
+
+Как перестать бояться и полюбить mbed [Часть 1] | https://habrahabr.ru/company/efo/blog/308440/
+
+Как штатными настройками убить микроконтроллер. Часть 2 | https://habrahabr.ru/post/309724/
+
+Как штатными настройками убить микроконтроллер. Часть 1 | https://habrahabr.ru/post/308596/
+
+Математика на пальцах: давайте посчитаем хотя бы один ряд Фурье в уме | https://habrahabr.ru/post/308526/
+
+Как подружить Tensorflow и C++ | https://habrahabr.ru/post/308002/
+
+«Машинное обучение»: Потенциал и возможности | https://habrahabr.ru/company/it-grad/blog/306220/
+
+Оптическое волокно в промышленных системах связи | https://habrahabr.ru/company/efo/blog/306896/
+
+История одного диплома или как сделать шаробота | https://habrahabr.ru/post/306456/
+
+Сказ о том, как сделать Гаусс пушку за семь дней | https://habrahabr.ru/post/306388/
+
+Что такое деревья поведения и как они используются | https://habrahabr.ru/company/it-grad/blog/306214/
+
+Root — робот который помогает детям учить программирование | https://habrahabr.ru/company/ua-hosting/blog/304514/
+
+Ответственный подход к измерению относительной влажности | https://habrahabr.ru/company/efo/blog/303350/
+
+Не самолет, но в «облаках»: Автомобили и облачные технологии | https://habrahabr.ru/company/it-grad/blog/283412/
+
+Марсоход Opportunity более чем в 40 раз превысил запланированный срок службы | https://habrahabr.ru/post/302560/
+
+Роботы и робототехника: Дайджест Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/302208/
+
+Лазеры для систем наведения и геодезии: Инновации от Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/302196/
+
+Вебинар «Работа в компании или магистратура: раскрываем плюсы и минусы для разработчика» | https://habrahabr.ru/company/innopolis_university/blog/301508/
+
+Разжёвываем линейно-квадратичный регулятор для управления перевёрнутым маятником | https://habrahabr.ru/post/301276/
+
+Передача видео с глубоководного робота | https://habrahabr.ru/post/277955/
+
+Runtime программирование промышленного робота на RCML | https://habrahabr.ru/post/283226/
+
+Время неожиданных аналогий: речные раки и датчики электропроводности | https://habrahabr.ru/company/efo/blog/282235/
+
+Развитие облачных технологий и робототехники в новом десятилетии | https://habrahabr.ru/company/1cloud/blog/281543/
+
+Разработка для коптеров | https://habrahabr.ru/post/281591/
+
+Искусственный интеллект: что о нем думают ученые | https://habrahabr.ru/company/1cloud/blog/281282/
+
+Математика на пальцах: ардуино головного мозга или линейно-квадратичный регулятор для управления электродвигателем | https://habrahabr.ru/post/280486/
+
+IBM и Hilton разработали робота-консьержа на основе когнитивной системы Watson | https://habrahabr.ru/company/ibm/blog/280416/
+
+Об измерении скорости потока жидкостей и газов | https://habrahabr.ru/company/efo/blog/280031/
+
+Как студенты Университета ИТМО создают роботов | https://habrahabr.ru/company/spbifmo/blog/279663/
+
+Вторая загадка Марса | https://habrahabr.ru/company/yandex/blog/279175/
+
+Vision-based SLAM: стерео- и depth-SLAM | https://habrahabr.ru/company/singularis/blog/279035/
+
+Опыт домашнего марсоходостроения | https://habrahabr.ru/company/wargaming/blog/275953/
+
+Где и у кого учиться робототехнике, управлению большими данными, качественной разработке ПО | https://habrahabr.ru/company/innopolis_university/blog/278183/
+
+Как робот 3D сканирует | https://habrahabr.ru/company/artec3d/blog/277885/
+
+Как закончить Театральный институт и стать руководителем в Yandex – лекция Григория Бакунова в Университете Иннополис | https://habrahabr.ru/company/innopolis_university/blog/277911/
+
+Движение робота к точке с заданными координатами | https://habrahabr.ru/post/277829/
+
+Vision-based SLAM: монокулярный SLAM | https://habrahabr.ru/company/singularis/blog/277537/
+
+Vision-based SLAM: tutorial | https://habrahabr.ru/company/singularis/blog/277109/
+
+Простыми словами о фильтре частиц | https://habrahabr.ru/post/276801/
+
+Навигация квадрокоптера с использованием монокулярного зрения | https://habrahabr.ru/company/singularis/blog/276595/
+
+Переделка RC-машинки в смарт-машинку при помощи ардуино | https://habrahabr.ru/post/275979/
+
+Высокоточные координаты (+-2cm) для виртуальной реальности, коптеров и роботов | https://habrahabr.ru/post/275759/
+
+Как мы запускали производство, или мой опыт разработки программного обеспечения для ПЛК Siemens Simatic | https://habrahabr.ru/post/274849/
+
+Фермеры предлагают четверть миллиона за робота для сбора черники | https://habrahabr.ru/post/273891/
+
+Инженеры обучают роботизированные манипуляторы при помощи мебели из IKEA | https://habrahabr.ru/post/273889/
+
+Говорит Gartner: «Перегретые» IoT и практичные облака | https://habrahabr.ru/company/1cloud/blog/266437/
+
+Робот-пылесос своими руками | https://habrahabr.ru/post/257867/
+
+Электромагнитная пушка Гаусса на микроконтроллере | https://habrahabr.ru/post/253981/
+
+Об образовательной робототехнике и кружках | https://habrahabr.ru/post/252791/
+
+Программирование робототехники с Arduino и ROS | https://habrahabr.ru/post/249401/
+
+Видео курс практической робототехники на Lego NXT | https://habrahabr.ru/post/220045/
+
+Математическая модель Lego Segway | https://habrahabr.ru/post/193272/
+
+Математическая модель двигателя Lego NXT | https://habrahabr.ru/post/178103/
+
+Автоматическая газель на Arduino (часть 1) | https://habrahabr.ru/post/150667/
+
+Hexy — сборный робот на основе Arduino | https://habrahabr.ru/post/145113/
+

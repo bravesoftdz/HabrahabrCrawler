@@ -1,0 +1,926 @@
+Программирование генератора случайных чисел на Ethereum | https://habrahabr.ru/post/345904/
+
+Выпуск#4: ITренировка — актуальные вопросы и задачи от ведущих компаний | https://habrahabr.ru/company/spice/blog/344788/
+
+Ферхюльстом по биткойну | https://habrahabr.ru/company/nerepetitor/blog/345138/
+
+«Виртуальный университет»: какие VR-проекты развивают в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/345256/
+
+Разработчик-детектив: занимательные задачки из реальной жизни | https://habrahabr.ru/post/344718/
+
+5-минутный гид по эзотерическим языкам программирования: попробуем их классифицировать | https://habrahabr.ru/company/spbifmo/blog/344680/
+
+Системы ИИ в 2018: шесть прогнозов | https://habrahabr.ru/company/it-grad/blog/344590/
+
+Блокчейн 101: книги, исследования и статьи по теме | https://habrahabr.ru/company/bitfury/blog/344602/
+
+Корреляция IQ с нашей жизнью (Feature ranking) | https://habrahabr.ru/post/344560/
+
+PLATO: история первой в мире системы электронного обучения | https://habrahabr.ru/company/it-grad/blog/343724/
+
+Основы регулярных выражений в JavaScript | https://habrahabr.ru/company/ruvds/blog/343798/
+
+Разбираемся, что же там нового открыли в задаче о ферзях | https://habrahabr.ru/post/343738/
+
+Автоматный практикум — 2. Пример «Переправа», математические преобразования ТЗ при ОА | https://habrahabr.ru/post/343736/
+
+Мамин архитектор: как мы собирали мобильные архитектуры и радовали родителей | https://habrahabr.ru/company/avito/blog/343642/
+
+История нескольких хардфорков: как развивалась биткойн-сеть | https://habrahabr.ru/company/bitfury/blog/343296/
+
+Белая функция или квадратичный косинус «наступает» | https://habrahabr.ru/post/343228/
+
+Развитие стратегий устойчивости | https://habrahabr.ru/company/mailru/blog/343008/
+
+Тройка, семерка, джокер — разбор решения задач из буклета GridGain на конференции Joker 2017 | https://habrahabr.ru/company/gridgain/blog/342918/
+
+Сказ про резисторы и неонки | https://habrahabr.ru/post/341328/
+
+Russian AI Cup 2017 — отчет о бета-тесте, старт чемпионата. Хотели StarCraft, получили странный Total War | https://habrahabr.ru/company/mailru/blog/342408/
+
+Собери свой Security Operation Center из 5 элементов | https://habrahabr.ru/company/solarsecurity/blog/342386/
+
+Интересные логические задачки на собеседованиях | https://habrahabr.ru/post/342304/
+
+Дайджест: разработки Университета ИТМО в 2017 году | https://habrahabr.ru/company/spbifmo/blog/341356/
+
+Нечёткое сравнение строк: пойми меня, если сможешь | https://habrahabr.ru/post/341148/
+
+Яндекс.Блиц. 12 алгоритмических задач отборочного раунда и их разборы | https://habrahabr.ru/company/yandex/blog/340784/
+
+«4 свадьбы и одни похороны» или линейная регрессия для анализа открытых данных правительства Москвы | https://habrahabr.ru/post/340698/
+
+Большие данные и машинное обучение: новые возможности для медицины | https://habrahabr.ru/company/spbifmo/blog/340668/
+
+Шахматы для общего развития: история создания развивающей программы | https://habrahabr.ru/post/340632/
+
+Russian AI Cup 2017 — всем поклонникам StarCraft и C&C посвящается | https://habrahabr.ru/company/mailru/blog/340540/
+
+Математические основы биткойн-блокчейна | https://habrahabr.ru/company/bitfury/blog/340378/
+
+Вечные студенты: когда программирование — это постоянная «учеба» | https://habrahabr.ru/company/spbifmo/blog/340294/
+
+Хитрый вопрос по JavaScript, который задают на собеседованиях в Google и Amazon | https://habrahabr.ru/company/ruvds/blog/340194/
+
+Как сделать число 100 из любого другого шестизначного числа | https://habrahabr.ru/post/339654/
+
+Команда Университета ИТМО вышла в финал Всемирной олимпиады роботов | https://habrahabr.ru/company/spbifmo/blog/339140/
+
+Сложно ли сделать из мухи слона? | https://habrahabr.ru/post/338604/
+
+Считаем до трёх: четыре | https://habrahabr.ru/post/337606/
+
+Что за чёрт, Python | https://habrahabr.ru/company/mailru/blog/337364/
+
+Актуальные данные по телефонным кодам российских городов | https://habrahabr.ru/post/337184/
+
+Конкурс по программированию: JSDash (итоги) | https://habrahabr.ru/company/hola/blog/336988/
+
+Логическая игра с нуля на ASP.NET Core 2, поиграем? | https://habrahabr.ru/post/336590/
+
+Занимательная математика с цветными кубиками | https://habrahabr.ru/post/336858/
+
+Конкурс по программированию: JSDash (предварительные результаты) | https://habrahabr.ru/company/hola/blog/336448/
+
+Игра в Бога, или как я «Волчий остров» писал | https://habrahabr.ru/post/336330/
+
+«Магическая константа» 0x5f3759df | https://habrahabr.ru/company/infopulse/blog/336110/
+
+Конкурс по программированию: JSDash (промежуточные результаты 3) | https://habrahabr.ru/company/hola/blog/335376/
+
+По следам Petya: находим и эксплуатируем уязвимость в программном обеспечении | https://habrahabr.ru/company/neobit/blog/335046/
+
+Математический детектив: поиск положительных целых решений уравнения | https://habrahabr.ru/post/335248/
+
+Гремлины и ELFийская магия: а что, если ELF-файл — это контейнер? | https://habrahabr.ru/company/neobit/blog/332918/
+
+Знакомство с Университетом ИТМО: дайджест практических работ | https://habrahabr.ru/company/spbifmo/blog/334522/
+
+Конкурс по программированию: JSDash (промежуточные результаты 2) | https://habrahabr.ru/company/hola/blog/334186/
+
+EBU R128/BS.1770-3: Пакетная нормализация громкости аудио/видео файлов, ч2 | https://habrahabr.ru/post/333686/
+
+Конкурс по программированию: JSDash (промежуточные результаты) | https://habrahabr.ru/company/hola/blog/333390/
+
+Реверс-инжиниринг одной строчки JavaScript | https://habrahabr.ru/post/333372/
+
+Автоматное программирование. Часть 2. Диаграмма состояний и переходов | https://habrahabr.ru/post/332508/
+
+Конкурс по программированию: JSDash | https://habrahabr.ru/company/hola/blog/332176/
+
+Один бит сломал, другой потерял: задачка по передаче данных | https://habrahabr.ru/post/332134/
+
+Оценка связанности событий с помощью Байеса | https://habrahabr.ru/post/331282/
+
+Футбол как точная наука: как Университет ИТМО помогает организаторам Кубка конфедераций и ЧМ-2018 | https://habrahabr.ru/company/spbifmo/blog/331986/
+
+Об одной задаче, которую больше не предлагают на собеседовании | https://habrahabr.ru/post/331688/
+
+Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux | https://habrahabr.ru/company/neobit/blog/330764/
+
+Как запустить надстройку над биткойн-блокчейном | https://habrahabr.ru/company/bitfury/blog/331268/
+
+Hard Reverse или особенности реверса файлов для архитектуры PowerPC Big-Endian | https://habrahabr.ru/company/neobit/blog/330004/
+
+NeoQUEST-2017: что ждёт гостей на юбилейной «Очной ставке»? | https://habrahabr.ru/company/neobit/blog/330014/
+
+Выпуск#3: ITренировка — актуальные вопросы и задачи от ведущих компаний | https://habrahabr.ru/company/spice/blog/330066/
+
+Как это попало в поток «разработка» или спасибо Гуглу за предоставленную возможность обратиться к программистам | https://habrahabr.ru/post/329342/
+
+Расчет оттока клиентов банка (решение задачи с помощью Python) | https://habrahabr.ru/post/329334/
+
+Финал чемпионата мира по спортивному программированию ACM ICPC: прямая трансляция | https://habrahabr.ru/company/spbifmo/blog/329322/
+
+Выпуск#2: ITренировка — актуальные вопросы и задачи от ведущих компаний | https://habrahabr.ru/company/spice/blog/329208/
+
+ITренировка — актуальные brain teaser'ы ведущих компаний | https://habrahabr.ru/company/spice/blog/328454/
+
+Считаем до трёх: три | https://habrahabr.ru/post/328162/
+
+Есть и нет | https://habrahabr.ru/post/328050/
+
+Волитроника может «продлить» действие закона Мура | https://habrahabr.ru/company/1cloud/blog/328034/
+
+Разработка симулятора эволюции одноклеточных организмов «The strongest survives» | https://habrahabr.ru/post/327792/
+
+О нетривиальном соблазнении тестировщицы Клавдии: задачки из буклета GridGain c JBreak и JPoint | https://habrahabr.ru/company/gridgain/blog/327732/
+
+Уже в этом году: Google планирует создать квантовый компьютер | https://habrahabr.ru/company/1cloud/blog/327420/
+
+Простые числа Мерсенна и тест Люка-Лемера | https://habrahabr.ru/company/wolfram/blog/327342/
+
+Управление «силой мысли»: резидент акселератора Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/327106/
+
+Разбор вступительного экзамена ШАД-2015 и воспоминания выпускника 2017 года | https://habrahabr.ru/post/327010/
+
+Фильм «Скрытые фигуры»: задачи из фильма и современный подход к расчетам орбиты и возвращения на Землю | https://habrahabr.ru/company/wolfram/blog/326756/
+
+Анализ медиафайлов | https://habrahabr.ru/post/326754/
+
+Ученые из Университета ИТМО предложили новую систему передачи энергии на расстояние | https://habrahabr.ru/company/spbifmo/blog/326644/
+
+Как говорить с искусственным интеллектом? | https://habrahabr.ru/company/wolfram/blog/326570/
+
+Это очень просто | https://habrahabr.ru/post/326110/
+
+Тест на знание языка Си, найденный в первоапрельской шутке | https://habrahabr.ru/post/325880/
+
+Ученые вылечили ИИ от забывчивости | https://habrahabr.ru/company/it-grad/blog/323948/
+
+Считаем до трёх: два | https://habrahabr.ru/post/324650/
+
+Криптовалюта Ethereum: пишем эксплойт под уязвимый умный контракт и получаем токены | https://habrahabr.ru/company/neobit/blog/324456/
+
+Угадай фильтр по импульсной характеристике | https://habrahabr.ru/post/324522/
+
+Первый в мире поисковый движок: Исторический экскурс | https://habrahabr.ru/company/it-grad/blog/323946/
+
+Haskell: об одном методе реализации функций с переменным числом параметров | https://habrahabr.ru/post/324190/
+
+Аналог std::vector из C++11 на чистом C89 и как я его писал | https://habrahabr.ru/post/324210/
+
+Розовый скафандр, криптовалюта и генномодифицированный iOS: задания online-этапа NeoQUEST-2017 и немного статистики | https://habrahabr.ru/company/neobit/blog/323838/
+
+Считаем до трёх | https://habrahabr.ru/post/324062/
+
+Большое интервью: как поступить в Университет ИТМО | https://habrahabr.ru/company/spbifmo/blog/323774/
+
+Все программисты попадают в #ТАЙ | https://habrahabr.ru/company/netologyru/blog/323928/
+
+Настоящий герой в мире программирования: кто он? | https://habrahabr.ru/company/it-grad/blog/322812/
+
+Поиск уязвимости методом фаззинга и разработка шеллкода для её эксплуатации | https://habrahabr.ru/company/neobit/blog/321912/
+
+Секрет быстрого программирования: не задумывайтесь | https://habrahabr.ru/company/alconost/blog/321932/
+
+ChairInput. Пишем игру в Unity, управляемую с помощью виртуальной клавиатуры Android. Проблема с углом обзора камеры | https://habrahabr.ru/company/aacidov/blog/321578/
+
+Tarantool: Хороший, Плохой, Злой | https://habrahabr.ru/post/321252/
+
+Анализ взаимодействия мобильных Android-приложений с API социальных сетей Facebook, Instagram, ВКонтакте | https://habrahabr.ru/company/neobit/blog/320650/
+
+Дедлайн конкурса Stepik Contest продлен до 31 марта, самое время создавать IT-задачи | https://habrahabr.ru/company/stepic/blog/321114/
+
+Будут ли роботы стоять в пробках? | https://habrahabr.ru/post/316216/
+
+Регистрация открыта или NeoQUEST, ты просто космос | https://habrahabr.ru/company/neobit/blog/319534/
+
+Открытые онлайн-курсы от Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/320496/
+
+Экзамен для будущих «русских хакеров» в Московском Политехе | https://habrahabr.ru/post/320210/
+
+Эй, телевизор, ты что, самый «умный»? | https://habrahabr.ru/company/neobit/blog/320188/
+
+Ооочень длинное целое | https://habrahabr.ru/post/319976/
+
+Про хаскелль для самых маленьких на примере задачи с codefights | https://habrahabr.ru/post/319440/
+
+Duplo Railroad Tycoon: Синтез железнодорожной сети с максимальным покрытием | https://habrahabr.ru/post/319702/
+
+Рисуем коммитами на Гитхабе | https://habrahabr.ru/post/319298/
+
+Создаём честный Форекс | https://habrahabr.ru/post/319076/
+
+Расширение API от Vk для стикеров на Elixir | https://habrahabr.ru/post/318918/
+
+Информационные технологии в новогоднем мюзикле «Чародеи» | https://habrahabr.ru/company/infopulse/blog/318910/
+
+Как стать первым в спортивном программировании: Университет ИТМО делится опытом. Часть 2 | https://habrahabr.ru/company/spbifmo/blog/318576/
+
+Об одной комбинаторной задаче | https://habrahabr.ru/post/318458/
+
+Как стать первым в спортивном программировании: Университет ИТМО делится опытом. Часть 1 | https://habrahabr.ru/company/spbifmo/blog/318444/
+
+Преобразование формы представления данных при помощи Excel+PowerQuery | https://habrahabr.ru/post/318058/
+
+Занимательные задачки и отрывок из книги «Карьера программиста» | https://habrahabr.ru/company/piter/blog/318018/
+
+Гигантская компонента: крючки для рыбалки, скопления галактик, молекулярная биотехнология, наноматериалы | https://habrahabr.ru/company/edison/blog/317750/
+
+Превозмогая трудности: Gravity Defied на sed | https://habrahabr.ru/post/317638/
+
+Объясняем бабушке, как написать свой язык программирования | https://habrahabr.ru/company/edison/blog/315068/
+
+«Пятничный формат»: Что случится, когда закон Мура перестанет действовать | https://habrahabr.ru/company/1cloud/blog/317204/
+
+Порождение и выбор моделей машинного обучения. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/316232/
+
+Задача коммивояжера методом Литтла на C++ | https://habrahabr.ru/post/316014/
+
+[ZeroNights2016] [CTFzone] Без 100 грамм не разберёшься | https://habrahabr.ru/post/315898/
+
+[ZeroNights2016] [CTFzone] Разбор полётов за 50 | https://habrahabr.ru/post/315876/
+
+Повседневная Теория решения изобретательских задач | https://habrahabr.ru/post/314332/
+
+Решение пасхалки из анонса CTF от Bi.Zone | https://habrahabr.ru/company/bizone/blog/315338/
+
+Думаешь, ты знаешь Си? | https://habrahabr.ru/company/edison/blog/315016/
+
+Синтез изображений с помощью глубоких нейросетей. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/314508/
+
+Теория решения изобретательских задач на пальцах | https://habrahabr.ru/post/314336/
+
+DisTalk. Если ты не умеешь читать, это не значит то, что ты не можешь общаться | https://habrahabr.ru/company/aacidov/blog/314262/
+
+Select / Multiselect без JS | https://habrahabr.ru/post/313958/
+
+main(){printf(&unix["\021%six\012\0"], (unix)[«have»]+«fun»-0x60);} | https://habrahabr.ru/company/edison/blog/313598/
+
+Примеры кода на 39 эзотерических языках программирования | https://habrahabr.ru/company/edison/blog/313334/
+
+Конкурс по программированию на JS: Классификатор слов (специальные призы) | https://habrahabr.ru/company/hola/blog/313176/
+
+Занимательная задачка «Несчастливый билет» (Elixir edition) | https://habrahabr.ru/post/312952/
+
+Занимательная задачка «Несчастливый билет» | https://habrahabr.ru/post/312920/
+
+Дональд Кнут и «Сюрреальные числа»: Я творил шесть дней, а на седьмой отдыхал (40,41,42/97) | https://habrahabr.ru/company/edison/blog/312750/
+
+Как технологии меняют качество жизни: разработка «умных» протезов на базе Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/312362/
+
+Разбор задач первого этапа отбора в школу программистов HeadHunter 2016 | https://habrahabr.ru/post/312278/
+
+Разбор задачи с Международной олимпиады по информатике IOI 2016 | https://habrahabr.ru/post/312018/
+
+Разбор задач заочного тура школы программистов HeadHunter 2016. Часть 1 | https://habrahabr.ru/post/311908/
+
+EBU R128/BS.1770-3: Пакетная нормализация громкости аудио/видео файлов | https://habrahabr.ru/post/311758/
+
+Задача про улитку | https://habrahabr.ru/post/311680/
+
+0b1001 путей решения задачи перевода чисел в римскую запись | https://habrahabr.ru/post/311678/
+
+Прохождение квеста от mail.ru | https://habrahabr.ru/post/311674/
+
+«Правда, чистая правда и статистика» или «15 распределений вероятности на все случаи жизни» | https://habrahabr.ru/post/311092/
+
+Инструменты Intel для оптимизации приложений и задача о течениях в пористых средах | https://habrahabr.ru/company/intel/blog/310842/
+
+CIKM Cup 2016 – международное соревнование в области Data Science | https://habrahabr.ru/company/dca/blog/310494/
+
+Syncookied — OpenSource ddos protection system | https://habrahabr.ru/post/301892/
+
+Сложный квест для хабравчан: 25 уровней | https://habrahabr.ru/company/mailru/blog/309976/
+
+Домашний алгоритм разбиения на слова (c картинками) | https://habrahabr.ru/post/309762/
+
+Вычисление 1000000 знаков числа Пи. На iPhone | https://habrahabr.ru/post/309674/
+
+Математика на пальцах: давайте посчитаем хотя бы один ряд Фурье в уме | https://habrahabr.ru/post/308526/
+
+Музыка, Mathematica и вычислительная вселенная: автоматическое создание музыки на основе клеточных автоматов | https://habrahabr.ru/company/wolfram/blog/308428/
+
+Не Персеидами едиными или Моделируем вспышки спутников своими руками | https://habrahabr.ru/post/307212/
+
+Пишем ХабраКвест на ASP.NET Core и Angular2 | https://habrahabr.ru/post/306292/
+
+Даты среди цифр числа Пи: некоторые мысли с позиции статистики и нумерологии | https://habrahabr.ru/company/wolfram/blog/306420/
+
+Кем был Рамануджан? | https://habrahabr.ru/company/wolfram/blog/306250/
+
+Доказываем корректность поиска диаметра дерева | https://habrahabr.ru/post/305912/
+
+Пасхалка в Mr Robot S02E01 | https://habrahabr.ru/post/305782/
+
+IaaS и наука: Как это работает. Часть 2 | https://habrahabr.ru/company/it-grad/blog/304656/
+
+Собеседование на программиста в Amazon | https://habrahabr.ru/post/305340/
+
+Математические обозначения: Прошлое и будущее | https://habrahabr.ru/company/wolfram/blog/304502/
+
+В Питере быть: доклады «очной ставки» NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/304028/
+
+Пропорции в искусстве. Есть ли что-то лучше золотого сечения? Исследование более 1 000 000 старых и современных картин | https://habrahabr.ru/company/wolfram/blog/304326/
+
+Путешествие в Onionland: взлом скрытого сервиса из даркнета в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/282778/
+
+Что такое пространство-время на самом деле? | https://habrahabr.ru/company/wolfram/blog/303836/
+
+Конкурс по программированию на JS: Классификатор слов (окончательные результаты) | https://habrahabr.ru/company/hola/blog/303660/
+
+Это все потому, что у кого-то слишком маленькая экспонента: атака Хастада на RSA в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/303264/
+
+Конкурс по программированию на JS: Классификатор слов (предварительные результаты) | https://habrahabr.ru/company/hola/blog/303178/
+
+Вам Telegramma: SPARQL-инъекции и CSRF через Telegram-сообщения в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/282173/
+
+Теория графов в Игре Престолов | https://habrahabr.ru/post/302936/
+
+Конкурс по программированию на JS: Классификатор слов (о ходе тестирования) | https://habrahabr.ru/company/hola/blog/302922/
+
+О нетрадиционном способе использования компьютерной мыши | https://habrahabr.ru/company/neobit/blog/282782/
+
+Всероссийская инженерная олимпиада для старшеклассников: BigData и Интеллектуальные энергетические системы | https://habrahabr.ru/post/283430/
+
+Статистика распределения доменов по AS, IP, NS, MX и прочим параметрам | https://habrahabr.ru/post/301894/
+
+Конкурс по программированию на JS: Классификатор слов (дополнение) | https://habrahabr.ru/company/hola/blog/301314/
+
+Разжёвываем линейно-квадратичный регулятор для управления перевёрнутым маятником | https://habrahabr.ru/post/301276/
+
+Алгоритм Метромарафона. Как аналитик Яндекса просчитал, что все станции можно посетить за один день | https://habrahabr.ru/company/yandex/blog/301030/
+
+Дайджест Университета ИТМО: #2 Научные разработки, видеосюжеты об ученых и ближайшие мероприятия | https://habrahabr.ru/company/spbifmo/blog/300888/
+
+Основы геймдизайна: 20 настольных игр. Часть первая | https://habrahabr.ru/company/plarium/blog/283350/
+
+Использование МатАнализа в компьютерных играх (часть 3) | https://habrahabr.ru/post/283208/
+
+Конкурс по программированию на JS: Классификатор слов | https://habrahabr.ru/company/hola/blog/282624/
+
+Две международные конференции в Санкт-Петербурге в июне: Experimental Algorithms и Computer Science in Russia | https://habrahabr.ru/company/spbau/blog/281975/
+
+Forensic VS шрёдер: получение доступа к удаленным файлам | https://habrahabr.ru/company/neobit/blog/264597/
+
+Полиция против мафии или занимательная статистика online-этапа NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/280348/
+
+Математика на пальцах: мендосинский двигатель и теорема Ирншоу | https://habrahabr.ru/post/280216/
+
+Задачка про парные числа | https://habrahabr.ru/post/280192/
+
+Самое широкое простое число, записанное римскими цифрами | https://habrahabr.ru/post/280179/
+
+UNetLab 1.0. Серьезный конкурент для GNS3 | https://habrahabr.ru/post/279961/
+
+Хабростатистика, часть 2 — опровержение с графиками | https://habrahabr.ru/post/279769/
+
+Как студенты Университета ИТМО создают роботов | https://habrahabr.ru/company/spbifmo/blog/279663/
+
+ХаброСтатистика — в какое время лучше публиковать статью на хабре? | https://habrahabr.ru/post/279607/
+
+Книга «Парадокс. Девять великих загадок физики» | https://habrahabr.ru/company/piter/blog/278217/
+
+Получаем доступ к облаку XenServer через доступ к одной виртуальной машине | https://habrahabr.ru/company/neobit/blog/264555/
+
+Пятничный формат: ДНК и решение проблемы хранения данных | https://habrahabr.ru/company/1cloud/blog/277969/
+
+Открыта регистрация на NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/277247/
+
+Онлайн “школа” сетевых технологий NetSkills | https://habrahabr.ru/post/277341/
+
+Работа с данными: Новая наука | https://habrahabr.ru/company/spbifmo/blog/277153/
+
+Глубинное обучение и работа мозга: Когда наступит технологическая сингулярность | https://habrahabr.ru/company/it-grad/blog/276299/
+
+Онлайн-курс «Введение в теоретическую информатику» от Александра Ханьевича Шеня | https://habrahabr.ru/company/spbau/blog/276891/
+
+Вы не того параноите！ (пред-пятничный пост) | https://habrahabr.ru/post/276565/
+
+Продолжение задачи о конфетах (или еще раз о Центральной Предельной Теореме) | https://habrahabr.ru/company/nerepetitor/blog/267939/
+
+«Ловушки сознания»: Как исследователи обманывают себя | https://habrahabr.ru/company/spbifmo/blog/276367/
+
+Как программирование позволяет логично выражать мысли | https://habrahabr.ru/company/friifond/blog/276253/
+
+Python и красивые ножки: как я бы знакомил сына с математикой и программированием | https://habrahabr.ru/post/275963/
+
+Какие страны и языки программирования чаще побеждают в игре для программистов CodeBattle? | https://habrahabr.ru/company/hexlet/blog/275867/
+
+Что такое современная лингвистика. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/275827/
+
+Трёхмерны ли вы? Микрозадачка пространственному мышлению | https://habrahabr.ru/post/275707/
+
+Как студенты становятся продвинутыми программистами | https://habrahabr.ru/company/spbifmo/blog/275071/
+
+Окончательные итоги конкурса по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/275111/
+
+О пересмотре результатов конкурса по программированию на JS | https://habrahabr.ru/company/hola/blog/274961/
+
+Вычисление биномиальных коэффициентов… вручную | https://habrahabr.ru/post/274889/
+
+Расчет биномиальных коэффициентов с использованием Фурье-преобразований | https://habrahabr.ru/post/274729/
+
+Итоги конкурса по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/274697/
+
+Рисуем эллиптические кривые с помощью SQL | https://habrahabr.ru/post/274473/
+
+Проект по переводу языка Wolfram Language (Mathematica) на различные языки | https://habrahabr.ru/company/wolfram/blog/274281/
+
+Как я искал (и нашел) разницу в двух побайтово идентичных файлах | https://habrahabr.ru/company/infopulse/blog/274183/
+
+Джон Хортон Конвей: Жизнь, как игра — окончание | https://habrahabr.ru/post/274151/
+
+Джон Хортон Конвей: Жизнь, как игра | https://habrahabr.ru/post/274081/
+
+Откройте новую версию IDE CodinGame | https://habrahabr.ru/post/273991/
+
+Webolomka 2016 | https://habrahabr.ru/post/273625/
+
+Открытая лекция: задача выполнимости булевых формул | https://habrahabr.ru/company/spbau/blog/273505/
+
+Опубликован быстрый алгоритм для задачи изоморфизма графов | https://habrahabr.ru/post/273231/
+
+Когда людям свойственно ошибаться | https://habrahabr.ru/post/272277/
+
+sin 1° на калькуляторе | https://habrahabr.ru/post/271889/
+
+Профессиональный тест на знание реалий рынка заказной разработки и digital-коммуникаций | https://habrahabr.ru/company/ruward/blog/271699/
+
+Вычисляемые знания по анатомии в Wolfram Language | https://habrahabr.ru/company/wolfram/blog/271643/
+
+Как решить проблемы с платежным шлюзом: Кейс Airbnb | https://habrahabr.ru/company/1cloud/blog/271567/
+
+Забытый на Марсе: исследуем путешествия Марка Уотни из фильма Марсианин | https://habrahabr.ru/company/wolfram/blog/271469/
+
+Игра для математика. Устный счёт | https://habrahabr.ru/post/271065/
+
+Конкурс по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/270847/
+
+[CodinGame] Back to the Code: Recar и Olaf69 делятся своими стратегиями | https://habrahabr.ru/post/269107/
+
+Поверхности и тела вращения: использование «виртуального гончарного колеса» в Wolfram|Alpha | https://habrahabr.ru/company/wolfram/blog/270279/
+
+Задача о конфетах | https://habrahabr.ru/post/267777/
+
+Неразрешимые задачи и нижние оценки. Лекция Александра Шеня в Яндексе | https://habrahabr.ru/company/yandex/blog/266785/
+
+«Сладкое» программирование, или Как выделить этикетку с банки варенья в Mathematica? | https://habrahabr.ru/company/wolfram/blog/266517/
+
+Зарабатывающая идея реального форекс-робота | https://habrahabr.ru/post/266457/
+
+C# — Моделирование «разумной» жизни на базе нейронных сетей | https://habrahabr.ru/post/265201/
+
+Статистические задачи идентификации сетевых структур | https://habrahabr.ru/company/yandex/blog/265029/
+
+Медиана: точно, иногда точно и почти точно | https://habrahabr.ru/post/264987/
+
+Третий набор в Школу разработки интерфейсов Яндекса. Разбор вступительных заданий и полезные советы | https://habrahabr.ru/company/yandex/blog/264631/
+
+Мин-плюс многочлены, циклические игры и теорема Гильберта о нулях | https://habrahabr.ru/company/yandex/blog/264409/
+
+Разбор всех задач финального раунда Яндекс.Алгоритма 2015 | https://habrahabr.ru/company/yandex/blog/264253/
+
+Передача опыта: Путь Джедая | https://habrahabr.ru/post/264117/
+
+В Омске прошёл первый в России турнир по Lean Poker | https://habrahabr.ru/post/263957/
+
+Витая архитектура | https://habrahabr.ru/company/wolfram/blog/263869/
+
+Формирование музыкальных предпочтений у нейронной сети — эксперимент по созданию умного плеера | https://habrahabr.ru/post/263811/
+
+Шпионские штучки в Wolfram Language, или как спрятать в картинке всё что угодно | https://habrahabr.ru/company/wolfram/blog/263783/
+
+Обобщенные паросочетания, или как заключать браки и распределять абитуриентов | https://habrahabr.ru/company/yandex/blog/262561/
+
+В погоне за самим собой, или отличный способ начать свой день | https://habrahabr.ru/company/wolfram/blog/263537/
+
+Международная математическая олимпиада школьников 2015. Могу ли я? Хочу ли я? Решу ли я? | https://habrahabr.ru/post/263125/
+
+Как решать вступительный экзамен в Школу анализа данных Яндекса | https://habrahabr.ru/company/yandex/blog/262543/
+
+2 Пи или не 2 Пи — вот в чём вопрос | https://habrahabr.ru/company/wolfram/blog/262339/
+
+Алгоритмическая теория информации и случайность индивидуальных объектов | https://habrahabr.ru/company/yandex/blog/261761/
+
+Создание эффекта Дросте в Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/261571/
+
+Хардкорный олдскул: QEMU и реверс образа флоппика | https://habrahabr.ru/company/neobit/blog/261081/
+
+Использование монад в С++. Часть 2: монада состояния | https://habrahabr.ru/company/infopulse/blog/261145/
+
+Использование монад в С++. Часть 1: монада списка | https://habrahabr.ru/company/infopulse/blog/260809/
+
+Исключительно простые задачи по AppSec .NET | https://habrahabr.ru/post/260875/
+
+Масоны выбирают солнце: взлом программы для Sun Solaris & SPARC в задании NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/255079/
+
+Доклады и конкурсы на NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/255629/
+
+Задача о ста коробках и спасении заключённых – финальный аккорд | https://habrahabr.ru/post/256513/
+
+Автоматизированное создание диаграмм в xkcd-стиле: из серьёзного в забавное | https://habrahabr.ru/company/wolfram/blog/260017/
+
+100 лет спустя: заполненные пропуски в записях Рамануджана | https://habrahabr.ru/company/wolfram/blog/259381/
+
+Наибольшие малые многогранники: новые решения в комбинаторной геометрии | https://habrahabr.ru/company/wolfram/blog/259259/
+
+Двойная диспетчеризация | https://habrahabr.ru/post/259031/
+
+Простая криптография: частотный и дифференциальный криптоанализ в задании NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/258893/
+
+Автомат как реактивный двигатель: реальная физика нереального полёта | https://habrahabr.ru/company/wolfram/blog/258897/
+
+Моделирование сценариев неисправностей закрылков самолёта с помощью Wolfram SystemModeler | https://habrahabr.ru/company/wolfram/blog/258817/
+
+NeoQUEST-2015: HeartBleed, Android и немного реверса | https://habrahabr.ru/company/neobit/blog/258169/
+
+Форензика и стеганография в видеофайле: разбор заданий online-этапа NeoQUEST-2015 | https://habrahabr.ru/company/neobit/blog/257737/
+
+Задача о двух мудрецах. Компьютерная программа для решения | https://habrahabr.ru/post/257809/
+
+Арбелос | https://habrahabr.ru/company/wolfram/blog/257319/
+
+Реверс-инжиниринг целочисленного деления на константу | https://habrahabr.ru/post/256827/
+
+Решение задачи о двух мудрецах и числах от 1 до 100 | https://habrahabr.ru/post/256293/
+
+Задача о мудрецах. Решение | https://habrahabr.ru/post/256023/
+
+Задача о двух старушках, которые отправились в путь на рассвете | https://habrahabr.ru/company/nerepetitor/blog/255061/
+
+Lights Out и её необычные применения | https://habrahabr.ru/post/255457/
+
+Топ 100+ возможностей работы с синусом в Wolfram|Alpha, или Краткий обзор математических возможностей и синтаксиса Wolfram|Alpha | https://habrahabr.ru/company/wolfram/blog/255021/
+
+Свободу зависимым переменным | https://habrahabr.ru/post/252837/
+
+Большое обзорное тестирование языков программирования | https://habrahabr.ru/post/254121/
+
+Машинное обучение — 3. Пуассоновский случайный процесс: просмотры и клики | https://habrahabr.ru/company/nerepetitor/blog/253755/
+
+Создаем собственную метеостанцию, интегрированную с Wolfram Cloud | https://habrahabr.ru/company/wolfram/blog/253925/
+
+Иглобрюх и дары «Жизни» | https://habrahabr.ru/post/253809/
+
+3/14/15 9:26:53 Празднование «Дня числа Пи» века, а также рассказ о том, как получить свою очень личную частичку числа пи | https://habrahabr.ru/company/wolfram/blog/252947/
+
+Открыта регистрация на NeoQUEST-2015: «Сокровища масонов» | https://habrahabr.ru/company/neobit/blog/248567/
+
+Влезаем в компьютер, не используя средства ввода, ищем Джокера и коннектимся к серверу на Android — в заданиях NeoQUEST-2014! | https://habrahabr.ru/company/neobit/blog/239089/
+
+О переборе на примере генерации кроссвордов | https://habrahabr.ru/post/251207/
+
+Математическая задача о 100 коробках и спасении заключенных | https://habrahabr.ru/post/250817/
+
+Алгоритм формирования кроссвордов | https://habrahabr.ru/post/249899/
+
+Задача о 64 монетах, двух заключённых и одной шахматной доске | https://habrahabr.ru/post/250585/
+
+Как узнать местоположение пользователя, зная только его email-адрес | https://habrahabr.ru/post/250587/
+
+Мысли | https://habrahabr.ru/post/250135/
+
+Экспорт Избранного на Хабре в PDF. Версия 2.0 | https://habrahabr.ru/post/250027/
+
+Построение кроссвордов с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/249141/
+
+Наследие Якоба Бернулли в Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/248173/
+
+Алгоритм поиска неисправности в драйвере LED лампы или Эркюль Пуаро отдыхает | https://habrahabr.ru/post/247975/
+
+Размышление о средней величине в задачах | https://habrahabr.ru/post/247627/
+
+Создание фотомозаик с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/247149/
+
+Это правильно, но неверно | https://habrahabr.ru/post/246979/
+
+Поиск самых длинных цепочек слов в русском языке с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/246411/
+
+Математика аукционов. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/246399/
+
+Поиск наилучшей последовательности просмотра списка 250 лучших фильмов с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/245735/
+
+В мире математических парадоксов | https://habrahabr.ru/post/245599/
+
+Задачи тысячелетия. Просто о сложном | https://habrahabr.ru/post/245133/
+
+Исследование причин аномального голосования на сайте РОИ или особенности электронной демократии в России | https://habrahabr.ru/post/244753/
+
+USB Monitor Adapter или как я искал смысл жизни | https://habrahabr.ru/post/244833/
+
+Расширяя полотно картины Ван Гога “Звездная ночь” с помощью языка Wolfram Language (Mathematica) | https://habrahabr.ru/company/wolfram/blog/244729/
+
+«Математика – один из видов искусства»: пост к столетию со дня рождения Мартина Гарднера | https://habrahabr.ru/company/wolfram/blog/244563/
+
+Случайность или предопределенность | https://habrahabr.ru/post/241009/
+
+Культ продуктивности: о субъективных мнениях и советах | https://habrahabr.ru/company/friifond/blog/239843/
+
+Безумная тачка, полулегальный TPM и жидкий азот: чем запомнился NeoQUEST-2014 | https://habrahabr.ru/company/neobit/blog/230579/
+
+Циничное решение логических задач | https://habrahabr.ru/post/237099/
+
+Занимательный web-квест. Узнай весь URL | https://habrahabr.ru/post/235681/
+
+Трисекция угла и другие задачи на построение | https://habrahabr.ru/post/225293/
+
+Нестандартные решения сложных задач | https://habrahabr.ru/post/224515/
+
+Математика и игра 2048 | https://habrahabr.ru/post/219497/
+
+Семь самых интересных задач RCC за все годы по мнению Андрея Станкевича | https://habrahabr.ru/company/mailru/blog/219567/
+
+Задача о нахождении минимального домена, содержащего все заданные последовательности | https://habrahabr.ru/post/218999/
+
+Краудсорсинг на помощи в поиске пропавшего самолёта | https://habrahabr.ru/post/215445/
+
+Мысли вслух: ТВ-firewall для людей старшего возраста | https://habrahabr.ru/post/213757/
+
+Задача про стеклянные шары — решение в общем случае | https://habrahabr.ru/post/211200/
+
+Хостинг для умных #3 | https://habrahabr.ru/company/serverclub/blog/206018/
+
+Пара старых задачек по-массачусетски | https://habrahabr.ru/post/202682/
+
+Функция «ковра» | https://habrahabr.ru/post/202398/
+
+Авто переподключение к серверу Battlefield 4 | https://habrahabr.ru/post/200690/
+
+О звездах | https://habrahabr.ru/post/197780/
+
+Померяемся языками, чей длиннее? | https://habrahabr.ru/company/alconost/blog/197146/
+
+Бананы — источники антиматерии! | https://habrahabr.ru/post/194562/
+
+Столкновение со стенкой на скорости 100 км/ч, неприятный сюрприз | https://habrahabr.ru/post/190236/
+
+Автограммы | https://habrahabr.ru/post/188552/
+
+О свойствах элементарных частиц. Антинаучные измышления наглого и невежественного бухгалтера | https://habrahabr.ru/post/187358/
+
+Продвинутый морской бой | https://habrahabr.ru/post/184474/
+
+Альтернативные крестики-нолики | https://habrahabr.ru/post/183764/
+
+Ставки по коэффициентам букмекеров на примере Формулы-1 | https://habrahabr.ru/post/178233/
+
+Воскресный пост с задачками | https://habrahabr.ru/post/178777/
+
+Хостинг для умных. Итоги конкурса | https://habrahabr.ru/post/167853/
+
+Хостинг для умных | https://habrahabr.ru/company/serverclub/blog/166445/
+
+Задачка про саммит G50 и рукопожатия | https://habrahabr.ru/post/163927/
+
+Задачка на тему чисел | https://habrahabr.ru/post/153115/
+
+Пара задачек с YAC 2012 | https://habrahabr.ru/post/153041/
+
+Наполовину пустой стакан | https://habrahabr.ru/post/149212/
+
+IT Quest 4 | https://habrahabr.ru/post/144621/
+
+Тролльская схемотехника. Решение | https://habrahabr.ru/post/137244/
+
+Оптимистичный zip-квест | https://habrahabr.ru/post/135760/
+
+И снова zip квест | https://habrahabr.ru/post/135694/
+
+Гномы и цепь | https://habrahabr.ru/post/134964/
+
+Картина и гвозди | https://habrahabr.ru/post/132047/
+
+Универсальные пробки | https://habrahabr.ru/post/130933/
+
+Три ребуса-мутанта для ИТшников | https://habrahabr.ru/post/130878/
+
+Day Out, второй шанс | https://habrahabr.ru/post/126843/
+
+Ребус для программистов | https://habrahabr.ru/post/130688/
+
+Тесты на нестандартное мышление | https://habrahabr.ru/post/129340/
+
+«Что? Где? Когда?» на IT-тематику | https://habrahabr.ru/post/129287/
+
+Электровоз и два вагона | https://habrahabr.ru/post/129276/
+
+Найти большее значение без сравнения и условий | https://habrahabr.ru/post/128193/
+
+Прямоугольники из спичек | https://habrahabr.ru/post/127453/
+
+Скачки | https://habrahabr.ru/post/126755/
+
+Пять пиратов | https://habrahabr.ru/post/125769/
+
+Артиллерийская стрельба математическими функциями | https://habrahabr.ru/post/126268/
+
+Три минималистические задачи | https://habrahabr.ru/post/120850/
+
+Трансатлантическая линия связи без электричества | https://habrahabr.ru/post/125519/
+
+Фигура максимальной площади, способная проплыть через канал | https://habrahabr.ru/post/120930/
+
+Трисекция угла | https://habrahabr.ru/post/122579/
+
+Таинственное число 6174 | https://habrahabr.ru/post/122121/
+
+Задача о голубоглазых островитянах | https://habrahabr.ru/post/115437/
+
+Нарисуем? Головоло-ломка | https://habrahabr.ru/post/106255/
+
+Задачка с буквами | https://habrahabr.ru/post/105103/
+
+IT-квест | https://habrahabr.ru/post/104991/
+
+Задача по двумерной упаковке от Dropbox | https://habrahabr.ru/post/104282/
+
+Пройти лабиринт | https://habrahabr.ru/post/101771/
+
+Головоломка для собеседования | https://habrahabr.ru/post/99907/
+
+Поймать кролика | https://habrahabr.ru/post/87276/
+
+Занимательная задачка | https://habrahabr.ru/post/85165/
+
+Сколько комнат в коридоре? | https://habrahabr.ru/post/84058/
+
+Схемотехническая задача | https://habrahabr.ru/post/83060/
+
+Трехсторонняя монетка | https://habrahabr.ru/post/77983/
+
+В котором часу началось и кончилось совещание? | https://habrahabr.ru/post/75913/
+
+Открыть сейф | https://habrahabr.ru/post/74369/
+
+мудрецы и задачка на математику | https://habrahabr.ru/post/72824/
+
+Цикл задачек | https://habrahabr.ru/post/72341/
+
+Лампочка и «Мистер Выключатель» | https://habrahabr.ru/post/71546/
+
+Неисправный пиксель | https://habrahabr.ru/post/70989/
+
+Реши задачку, используя один бит памяти 2: учитываем помехи | https://habrahabr.ru/post/69642/
+
+Реши задачку, используя один бит памяти! | https://habrahabr.ru/post/69558/
+
+Загадка дня :) | https://habrahabr.ru/post/68103/
+
+Феерический финал конкурса Netflix | https://habrahabr.ru/post/65476/
+
+Квест на хабре | https://habrahabr.ru/post/65311/
+
+Хакерский квест | https://habrahabr.ru/post/65270/
+
+Задачка2 | https://habrahabr.ru/post/64097/
+
+«Hard, harder, Notpron!» | https://habrahabr.ru/post/63932/
+
+Как быстро потратить 1 ГБ трафика | https://habrahabr.ru/post/57161/
+
+Узники и коробки | https://habrahabr.ru/post/55689/
+
+Сложная задачка про узников | https://habrahabr.ru/post/54824/
+
+О важности кэшей в IT | https://habrahabr.ru/post/53780/
+
+Задача на определение фальшивой монеты из 14 | https://habrahabr.ru/post/53133/
+
+Rubik 360 – шарик Рубика | https://habrahabr.ru/post/50923/
+
+Задачка о разбитых яйцах | https://habrahabr.ru/post/50538/
+
+Немного логики… | https://habrahabr.ru/post/50231/
+
+Немного попрограммируем… | https://habrahabr.ru/post/49826/
+
+Хабраквест — выпуск №1. Приз — инвайт на хабр! — завершен | https://habrahabr.ru/post/45743/
+
+Задачка с башорга | https://habrahabr.ru/post/44456/
+
+Задачка к вечеру | https://habrahabr.ru/post/44442/
+
+Самолет и транспортер | https://habrahabr.ru/post/44196/
+
+Обмен деньгами | https://habrahabr.ru/post/43225/
+
+Задача 1999 | https://habrahabr.ru/post/42889/
+
+Счастливые билеты | https://habrahabr.ru/post/42682/
+
+Самое большое простое число | https://habrahabr.ru/post/41404/
+
+Задача №109 | https://habrahabr.ru/post/38843/
+
+Задача №151 | https://habrahabr.ru/post/38840/
+
+Задача №152 | https://habrahabr.ru/post/38839/
+
+Задача №93 | https://habrahabr.ru/post/38616/
+
+Найдено 45-е простое число Мерсенна? | https://habrahabr.ru/post/38581/
+
+Задача №24 | https://habrahabr.ru/post/38340/
+
+Задача №32 | https://habrahabr.ru/post/38273/
+
+Задача №29 | https://habrahabr.ru/post/38126/
+
+Задача про кроликов и яд. | https://habrahabr.ru/post/37970/
+
+Куда делся рубль?… | https://habrahabr.ru/post/30687/
+
+Лжец и правдивец | https://habrahabr.ru/post/30329/
+
+Задачка про галстуки | https://habrahabr.ru/post/30134/
+
+Абстрактная задачка про дни недели | https://habrahabr.ru/post/29958/
+
+Алгоритм кубика Рубика сократили до 23 ходов | https://habrahabr.ru/post/26940/
+
+Необъяснимые особенности нашего мозга | https://habrahabr.ru/post/26878/
+
+Задача по шелл-скриптингу | https://habrahabr.ru/post/26127/
+
+Kill Bill | https://habrahabr.ru/post/25890/
+
+Маркс и Энгельс | https://habrahabr.ru/post/25820/
+
+Три задачки | https://habrahabr.ru/post/25358/
+
+Задачка о коммунальной кухне | https://habrahabr.ru/post/25321/
+
+Задача о придворных. | https://habrahabr.ru/post/24517/
+
+Гениальный садовник | https://habrahabr.ru/post/24423/
+
+Про американские треугольники | https://habrahabr.ru/post/24278/
+
+Психологи не знают теорию вероятности | https://habrahabr.ru/post/23346/
+
+Кто есть кто? | https://habrahabr.ru/post/23146/
+
+Из Питера в Анапу | https://habrahabr.ru/post/22214/
+
+Кирпичи — универсальная головоломка | https://habrahabr.ru/post/22160/
+
+Задачка о самолёте | https://habrahabr.ru/post/22135/
+
+Сила есть — ума не надо, или Царь против мудрецов. | https://habrahabr.ru/post/22131/
+
+Сортировка помидоров | https://habrahabr.ru/post/22130/
+
+Задача про шнуры | https://habrahabr.ru/post/21956/
+
+Успеет ли космонавт разбудить всех вовремя? | https://habrahabr.ru/post/21935/
+
+Выборы, выборы, кандидаты… | https://habrahabr.ru/post/20405/
+
+Проверьте свой интеллект | https://habrahabr.ru/post/20043/
+
+Путь к свободе | https://habrahabr.ru/post/20042/
+
+Задача про самолет | https://habrahabr.ru/post/19658/
+
+Задача про два шарика | https://habrahabr.ru/post/19367/
+
+Сколько весят огурцы | https://habrahabr.ru/post/18816/
+
+Бессмертная улитка | https://habrahabr.ru/post/18712/
+
+Задача про две пилюли | https://habrahabr.ru/post/18602/
+
+9 монет | https://habrahabr.ru/post/18363/
+
+Задачка о массе: физика или философия? | https://habrahabr.ru/post/17988/
+
+Задача номер 36 из учебника второго класса | https://habrahabr.ru/post/17974/
+
+Сплав | https://habrahabr.ru/post/17951/
+
+Задача для детишек. | https://habrahabr.ru/post/17948/
+
+Еще одна задачка | https://habrahabr.ru/post/17918/
+
+Задачка для детей дошкольного возраста… | https://habrahabr.ru/post/17863/
+
+Задача Эйнштейна | https://habrahabr.ru/post/17381/
+
+Примеры головоломок c собеседований в Google и Microsoft | https://habrahabr.ru/post/13795/
+
+Новая задачка. Теперь про узников | https://habrahabr.ru/post/11481/
+
+Сложная задача на логику | https://habrahabr.ru/post/8551/
+

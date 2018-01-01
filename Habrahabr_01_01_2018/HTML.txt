@@ -1,0 +1,1978 @@
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №295 (25 — 31 декабря 2017) | https://habrahabr.ru/company/zfort/blog/345932/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №294 (18 — 24 декабря 2017) | https://habrahabr.ru/company/zfort/blog/345454/
+
+Коротко об HTML 5.2 | https://habrahabr.ru/post/345388/
+
+Программировать хочу, пусть меня научат! Образовательные проекты Avito | https://habrahabr.ru/company/avito/blog/345314/
+
+DIY. Подглядываем за посетителями | https://habrahabr.ru/post/345234/
+
+Автоматизированная корректировка отступов в верстке на основании типографических стилей и текстовых метрик | https://habrahabr.ru/post/344984/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №293 (11 — 17 декабря 2017) | https://habrahabr.ru/company/zfort/blog/344926/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №292 (4 — 10 декабря 2017) | https://habrahabr.ru/company/zfort/blog/344362/
+
+Что нового в WebStorm 2017.3 | https://habrahabr.ru/company/JetBrains/blog/344050/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №291 (27 ноября — 3 декабря 2017) | https://habrahabr.ru/company/zfort/blog/343806/
+
+Как безлимитно* серфить** на смартфоне за 20*** рублей в месяц | https://habrahabr.ru/post/342690/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №290 (19 — 26 ноября 2017) | https://habrahabr.ru/company/zfort/blog/343238/
+
+Адаптивная вёрстка | https://habrahabr.ru/company/htmlacademy/blog/342066/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №289 (13 — 19 ноября 2017) | https://habrahabr.ru/company/zfort/blog/342740/
+
+О трехмерных шутерах на CSS +HTML [перевод] | https://habrahabr.ru/post/342546/
+
+Нужен ли метод OPTIONS в REST-сервисах? | https://habrahabr.ru/post/342432/
+
+HistoryAPI: Как написать один раз, и чтобы голова не болела | https://habrahabr.ru/post/342280/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №288 (6 — 12 ноября 2017) | https://habrahabr.ru/company/zfort/blog/342222/
+
+Очерки истории CSS | https://habrahabr.ru/company/ruvds/blog/341832/
+
+Руководство по alt-text от слабовидящего веб-разработчика | https://habrahabr.ru/post/341810/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №287 (30 октября — 5 ноября 2017) | https://habrahabr.ru/company/zfort/blog/341740/
+
+Пробел в знаниях основ веб-разработки | https://habrahabr.ru/post/341626/
+
+Кроссбраузерная вёрстка | https://habrahabr.ru/company/htmlacademy/blog/341538/
+
+Список лучших инструментов для web-анимации | https://habrahabr.ru/post/341554/
+
+FrontFest.Kvartirniki — говорим о будущем JavaScript и судьбе фронтенд-разработчика | https://habrahabr.ru/company/2gis/blog/341512/
+
+Типографика и современный CSS | https://habrahabr.ru/company/wargaming/blog/277933/
+
+Задачка про страницу в три столбца, один из них в сто пикселей | https://habrahabr.ru/post/341262/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №286 (23 — 29 октября 2017) | https://habrahabr.ru/company/zfort/blog/341232/
+
+Разработка 2D песочницы на JavaScript с нуля | https://habrahabr.ru/post/341152/
+
+W3C или WHATWG | https://habrahabr.ru/company/htmlacademy/blog/339854/
+
+Адаптивные email-письма без боли и страданий | https://habrahabr.ru/company/englishdom/blog/340852/
+
+Шесть вопросов спикерам FrontFest | https://habrahabr.ru/company/2gis/blog/340986/
+
+БЭМ + React: гибкая архитектура дизайн-системы | https://habrahabr.ru/company/alfa/blog/340522/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №285 (16 — 22 октября 2017) | https://habrahabr.ru/company/zfort/blog/340712/
+
+Организация отступов в верстке (margin/padding) | https://habrahabr.ru/post/340420/
+
+Анонс RamblerFront& #3 | https://habrahabr.ru/company/rambler-co/blog/340214/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №284 (9 — 15 октября 2017) | https://habrahabr.ru/company/zfort/blog/340150/
+
+Server side rendering на Vue.js | https://habrahabr.ru/post/334952/
+
+FrontFest.Vyorstka: поговорим о доступности, экономии трафика и будущем CSS | https://habrahabr.ru/company/2gis/blog/339708/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №283 (2 — 8 октября 2017) | https://habrahabr.ru/company/zfort/blog/339626/
+
+FrontFest.Mix — 7 тем о кодстайле, WebGL, A/B, RON, шаблонизации, экосистеме JavaScript и жизни программиста | https://habrahabr.ru/company/2gis/blog/339212/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №282 (25 сентября — 1 октября 2017) | https://habrahabr.ru/company/zfort/blog/339098/
+
+Зачем нужны заголовки | https://habrahabr.ru/company/htmlacademy/blog/338818/
+
+Укрощение Змейки с помощью реактивных потоков | https://habrahabr.ru/company/infopulse/blog/338910/
+
+Пора убить веб | https://habrahabr.ru/post/338880/
+
+Как быстрее DOM построить: парсинг, async, defer и preload | https://habrahabr.ru/post/338840/
+
+FrontFest ❄️ Из Сибири с любовью | https://habrahabr.ru/company/2gis/blog/338680/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №281 (18 — 24 сентября 2017) | https://habrahabr.ru/company/zfort/blog/338632/
+
+ECMAScript 6. Регулярные выражения с поддержкой Unicode | https://habrahabr.ru/post/338366/
+
+It's a (focus) Trap | https://habrahabr.ru/post/338130/
+
+Постъядерный караван в 35 килобайт | https://habrahabr.ru/post/336724/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №280 (11 — 17 сентября 2017) | https://habrahabr.ru/company/zfort/blog/338122/
+
+Как правильно вставлять SVG | https://habrahabr.ru/company/htmlacademy/blog/337284/
+
+Web-приложения в Android без Cordova, Phonegap и SMS | https://habrahabr.ru/post/337990/
+
+Как ускорить загрузку сайта | https://habrahabr.ru/company/netologyru/blog/337842/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №279 (4 — 10 сентября 2017) | https://habrahabr.ru/company/zfort/blog/337610/
+
+Как я перестал любить Angular | https://habrahabr.ru/post/337578/
+
+Секции в футере | https://habrahabr.ru/company/htmlacademy/blog/337282/
+
+Переходим на сторону сервера с bem-express | https://habrahabr.ru/company/yandex/blog/337166/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №278 (28 августа — 3 сентября 2017) | https://habrahabr.ru/company/zfort/blog/337068/
+
+Лекция Виталия Харисова «10k» | https://habrahabr.ru/company/yandex/blog/336952/
+
+Ссылки вокруг блоков | https://habrahabr.ru/company/htmlacademy/blog/336638/
+
+Какие нужны фавиконки | https://habrahabr.ru/company/htmlacademy/blog/336698/
+
+Android Oreo откусывает кусочек от PWA | https://habrahabr.ru/company/zfort/blog/336592/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №277 (21 — 27 августа 2017) | https://habrahabr.ru/company/zfort/blog/336512/
+
+Заменяй и властвуй — подход SOLID для разработки повторно используемых компонентов в вебе | https://habrahabr.ru/company/docsvision/blog/335988/
+
+Мобильные браузеры и их пушистые лапки | https://habrahabr.ru/company/zerotech/blog/336172/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №276 (14 — 20 августа 2017) | https://habrahabr.ru/company/zfort/blog/336024/
+
+Размещение иконок на странице сайта. Делать проще, поддерживать легче | https://habrahabr.ru/post/335632/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №275 (7 — 13 августа 2017) | https://habrahabr.ru/company/zfort/blog/335562/
+
+Основные ошибки accessibility при разработке сайта | https://habrahabr.ru/post/335352/
+
+Начни изучать Elixir прямо сейчас! Перевод всей серии статей готов | https://habrahabr.ru/post/335048/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №274 (1 — 6 августа 2017) | https://habrahabr.ru/company/zfort/blog/335034/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №273 (24 — 30 июля 2017) | https://habrahabr.ru/company/zfort/blog/334460/
+
+Пишем игру змейка с помощью JavaScript + Canvas | https://habrahabr.ru/post/334434/
+
+Конструктор | https://habrahabr.ru/company/oleg-bunin/blog/329798/
+
+Анонс RamblerFront& #2 | https://habrahabr.ru/company/rambler-co/blog/333834/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №272 (17 — 23 июля 2017) | https://habrahabr.ru/company/zfort/blog/333948/
+
+Доработки шаблонизатора DoT.js | https://habrahabr.ru/post/333662/
+
+WebStorm 2017.2 – что нового в поддержке JavaScript, TypeScript, Angular и Sass и работе с ESLint, Karma и Mocha | https://habrahabr.ru/company/JetBrains/blog/333630/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №271 (10 — 16 июля 2017) | https://habrahabr.ru/company/zfort/blog/333454/
+
+Как я создал систему установки принтеров на работе | https://habrahabr.ru/post/333056/
+
+Простая валидация формы без JS | https://habrahabr.ru/post/332804/
+
+Canvas & SVG: работаем с графикой | https://habrahabr.ru/company/simbirsoft/blog/332750/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №270 (3 — 9 июля 2017) | https://habrahabr.ru/company/zfort/blog/332736/
+
+Правда ли уже пора использовать CSS Grid Layout? | https://habrahabr.ru/post/332572/
+
+Нативные переменные в CSS. Уже пора… | https://habrahabr.ru/post/332038/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №269 (26 июня — 2 июля 2017) | https://habrahabr.ru/company/zfort/blog/332138/
+
+«Ты, гроза, грозись, а мы друг за друга держись!» — сказ о том, как я ADSL-модем спасал | https://habrahabr.ru/post/332072/
+
+Таблицы! Таблицы? Таблицы… | https://habrahabr.ru/post/331494/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №268 (19 — 25 июня 2017) | https://habrahabr.ru/company/zfort/blog/331632/
+
+Скрипт статического коллтрекинга | https://habrahabr.ru/company/sipuni/blog/331540/
+
+Добавляем реактивность в строковые шаблонизаторы | https://habrahabr.ru/post/331400/
+
+Обзор анимации с codepen для страниц загрузки сайта | https://habrahabr.ru/company/mr_gefest/blog/331236/
+
+HTTP/2 Server Push не так прост, как я думал | https://habrahabr.ru/company/badoo/blog/331216/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №267 (12 — 18 июня 2017) | https://habrahabr.ru/company/zfort/blog/331168/
+
+5 возможностей LESS, о которых вы могли не знать | https://habrahabr.ru/company/netcracker/blog/330874/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №266 (5 — 11 июня 2017) | https://habrahabr.ru/company/zfort/blog/330694/
+
+Favicon сегодня: форматы, поддержка, автоматизация | https://habrahabr.ru/post/330584/
+
+Отслеживание отправки форм с помощью GTM | https://habrahabr.ru/post/330472/
+
+Особенности –webkit-box или как «подружить» flexbox со старыми Safari | https://habrahabr.ru/post/330410/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №265 (29 мая — 4 июня 2017) | https://habrahabr.ru/company/zfort/blog/330190/
+
+Анонс RamblerFront& #1 | https://habrahabr.ru/company/rambler-co/blog/330086/
+
+11 вещей которые я узнал, читая спецификацию flexbox | https://habrahabr.ru/post/329820/
+
+Исчерпывающее руководство по использованию HTTP/2 Server Push | https://habrahabr.ru/company/badoo/blog/329722/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №264 (22 — 28 мая 2017) | https://habrahabr.ru/company/zfort/blog/329658/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №263 (15 — 21 мая 2017) | https://habrahabr.ru/company/zfort/blog/329142/
+
+Адаптивная и отзывчивая типографика с помощью Hamster Framework. Лечение гемороя без операции и боли | https://habrahabr.ru/post/328812/
+
+Платежные странички и решения (или через тернии к звездам — и через много картинок) | https://habrahabr.ru/post/328828/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №262 (8 — 14 мая 2017) | https://habrahabr.ru/company/zfort/blog/328636/
+
+Корпоративный телефонный справочник с картой | https://habrahabr.ru/post/328560/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №261 (1 — 7 мая 2017) | https://habrahabr.ru/company/zfort/blog/328178/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №260 (24 — 30 апреля 2017) | https://habrahabr.ru/company/zfort/blog/327666/
+
+DevExtreme: теперь на GitHub и с бесплатной лицензией | https://habrahabr.ru/company/devexpress/blog/327470/
+
+Что должен уметь фронтенд-разработчик | https://habrahabr.ru/company/netologyru/blog/327294/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №259 (17 — 24 апреля 2017) | https://habrahabr.ru/company/zfort/blog/327200/
+
+Библиотека компонентов как инструмент поддержания целостности вебсайта | https://habrahabr.ru/post/326472/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №258 (10 — 16 апреля 2017) | https://habrahabr.ru/company/zfort/blog/326700/
+
+Почему конструкторы сайтов выдают плохой код? | https://habrahabr.ru/post/326664/
+
+Брачные игры с Wordpress | https://habrahabr.ru/post/326368/
+
+PostCSS Hamster Framework — инструмент, который облегчит вашу жизнь при вёрстке. Типографика. Вертикальный ритм | https://habrahabr.ru/post/326136/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №257 (3 — 9 апреля 2017) | https://habrahabr.ru/company/zfort/blog/326034/
+
+Web приложение реального времени для простых устройств | https://habrahabr.ru/post/325942/
+
+CSS Grid Layout. Быстрый старт | https://habrahabr.ru/post/325760/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №256 (27 марта — 2 апреля 2017) | https://habrahabr.ru/company/zfort/blog/325462/
+
+Круглый график на Canvas | https://habrahabr.ru/post/325428/
+
+Создание вашей первой игры на Phaser. Часть 3 — Создание игрового мира | https://habrahabr.ru/post/325384/
+
+Как я перестал бояться и переизобрел QML | https://habrahabr.ru/post/325318/
+
+Создание вашей первой игры на Phaser. Часть 2 — Загрузка ресурсов | https://habrahabr.ru/post/325220/
+
+Hello, Шульте | https://habrahabr.ru/post/325120/
+
+Неудобно редактировать ERb/EEx шаблоны? Попробуйте Slim/Slime | https://habrahabr.ru/post/324332/
+
+Центрирование по вертикали несложных div при помощи data- | https://habrahabr.ru/post/325118/
+
+Гид по верстке адаптивных писем | https://habrahabr.ru/company/netologyru/blog/324970/
+
+Создание вашей первой игры на Phaser. Часть 1 — Введение | https://habrahabr.ru/post/324896/
+
+Создание вашей первой игры на Phaser. Часть 0 — Подготовка к работе | https://habrahabr.ru/post/324894/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №255 (20 — 26 марта 2017) | https://habrahabr.ru/company/zfort/blog/324888/
+
+Выравнивание в Bootstrap | https://habrahabr.ru/post/324858/
+
+Учимся мыслить в REM. Разговор об очевидном и о производительности труда в небольшой веб-студии | https://habrahabr.ru/post/324814/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №254 (13 — 19 марта 2017) | https://habrahabr.ru/company/zfort/blog/324330/
+
+Слайдер на CSS | https://habrahabr.ru/post/324034/
+
+Правила использования ARIA в HTML | https://habrahabr.ru/post/323876/
+
+Третья ежегодная конференция JavaScript-разработчиков в Одессе — JS Lab | https://habrahabr.ru/company/flyelephant/blog/323810/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №253 (6 — 12 марта 2017) | https://habrahabr.ru/company/zfort/blog/323748/
+
+Разработка механики игры Bounce от Nokia на JavaScript | https://habrahabr.ru/post/323622/
+
+Возрождение ActionScript2.0 c помощью JavaScript | https://habrahabr.ru/post/323388/
+
+Мой Material Design Framework | https://habrahabr.ru/post/323420/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №252 (27 — 5 марта 2017) | https://habrahabr.ru/company/zfort/blog/323266/
+
+Создание картинок на CSS делает верстальщика лучше, или Чем себя занять долгими зимними вечерами | https://habrahabr.ru/post/323086/
+
+Третья конференция JavaScript-разработчиков в Одессе «JS Lab» ищет спикеров | https://habrahabr.ru/company/flyelephant/blog/322748/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №251 (20 — 26 февраля 2017) | https://habrahabr.ru/company/zfort/blog/322646/
+
+Emoji.prototype.length — рассказ об эмоциональных символах в Юникоде | https://habrahabr.ru/post/322446/
+
+Как разработать кросс-платформенное приложение с помощью одной лишь разметки JSON | https://habrahabr.ru/company/everydaytools/blog/322216/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №250 (13 — 19 февраля 2017) | https://habrahabr.ru/company/zfort/blog/322178/
+
+$mol_app_bench: готовим JS бенчмарки быстро и просто | https://habrahabr.ru/post/322162/
+
+Wordpress + CloudFlare – свежий переезд на https | https://habrahabr.ru/post/322108/
+
+Знакомство с Styled components  | https://habrahabr.ru/company/everydaytools/blog/321804/
+
+Новая сетка на inline-block: описание, пример использования, плюсы и минусы | https://habrahabr.ru/post/321718/
+
+Трансляция WebRTC-видеопотока из браузера на YouTube Live в 65 строк JavaScript/HTML-кода | https://habrahabr.ru/post/321700/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №249 (6 — 12 февраля 2017) | https://habrahabr.ru/company/zfort/blog/321670/
+
+Пишем самый простой и быстрый input type file | https://habrahabr.ru/post/321250/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №248 (30 января — 5 февраля 2017) | https://habrahabr.ru/company/zfort/blog/321214/
+
+Google Chrome Extensions: быстрый переводчик своими руками | https://habrahabr.ru/post/320776/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №247 (23 — 29 января 2017) | https://habrahabr.ru/company/zfort/blog/320754/
+
+А если без JavaScript? | https://habrahabr.ru/post/320668/
+
+KeepDraw.js — javascript framework для рисования на canvas | https://habrahabr.ru/post/320488/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №246 (16 — 22 января 2017) | https://habrahabr.ru/company/zfort/blog/320166/
+
+Flexbox First. Верстка таблиц и текста флексбоксами | https://habrahabr.ru/post/320022/
+
+Что поправить в верстке перед выпуском в продакшн? | https://habrahabr.ru/post/319664/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №245 (9 — 15 января 2017) | https://habrahabr.ru/company/zfort/blog/319578/
+
+FPS и пусть ваш код подождет | https://habrahabr.ru/post/319302/
+
+Верстка интернет-магазина: список товаров | https://habrahabr.ru/post/319280/
+
+Простой шаблонизатор на чистом JS со связями | https://habrahabr.ru/post/319014/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №244 (2 — 8 января 2017) | https://habrahabr.ru/company/zfort/blog/319132/
+
+Скорость с доставкой до пользователя | https://habrahabr.ru/company/oleg-bunin/blog/319114/
+
+Вот тебе, бабушка, и неймспейсы | https://habrahabr.ru/post/318984/
+
+Адаптивный jQuery без window.matchMedia | https://habrahabr.ru/post/318972/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №243 (26 декабря — 1 января 2017) | https://habrahabr.ru/company/zfort/blog/318890/
+
+Путь джесая, часть первая: typescript, webpack, jsx, custom elements… | https://habrahabr.ru/post/317542/
+
+Как мы звезды рейтинга дробили | https://habrahabr.ru/post/318732/
+
+Видео-курс «Основы HTML» — в помощь преподавателю информатики | https://habrahabr.ru/company/yasno_tv/blog/318610/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №242 (18 — 25 декабря 2016) | https://habrahabr.ru/company/zfort/blog/318404/
+
+Как я проект на БЭМ переводил… и перевел | https://habrahabr.ru/post/318204/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №241 (12 — 18 декабря 2016) | https://habrahabr.ru/company/zfort/blog/317886/
+
+Landing Page как замена всего сайта | https://habrahabr.ru/post/317708/
+
+Кнопка или ссылка? | https://habrahabr.ru/post/317728/
+
+Pабота с localstorage: подписка на события, хранение функций, массивов и объектов | https://habrahabr.ru/post/317586/
+
+Адаптивное меню без Javascript | https://habrahabr.ru/post/317528/
+
+Какой бывает HTML5-стриминг (и почему mp4-стриминга не существует) | https://habrahabr.ru/company/erlyvideo/blog/317494/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №240 (5 — 11 декабря 2016) | https://habrahabr.ru/company/zfort/blog/317362/
+
+Список цветовых классов Material Design Lite | https://habrahabr.ru/post/317302/
+
+Above-the-Fold CSS — как ускорить загрузку сайта не замедлив разработку | https://habrahabr.ru/post/316970/
+
+Про оптимизацию рендеринга — с оптимизмом | https://habrahabr.ru/company/livetyping/blog/316136/
+
+React, Web Components, Angular и jQuery — друзья навеки. Универсальные JavaScript-компоненты | https://habrahabr.ru/company/devexpress/blog/316358/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №239 (28 ноября — 4 декабря 2016) | https://habrahabr.ru/company/zfort/blog/316812/
+
+Front-end и блокировщики рекламы (на примере Adblock Plus) | https://habrahabr.ru/post/316676/
+
+Транслируем в Facebook красиво: титры и их кастомизатор | https://habrahabr.ru/post/316664/
+
+Два аспекта «децентрализованных» одностраничных приложений | https://habrahabr.ru/post/316556/
+
+Как я вспоминал школьный курс геометрии | https://habrahabr.ru/company/netcracker/blog/316408/
+
+«Великий уравнитель» или способ решить проблему выравнивания по высоте | https://habrahabr.ru/company/SECL_GROUP/blog/316406/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №238 (21 — 27 ноября 2016) | https://habrahabr.ru/company/zfort/blog/316250/
+
+Консоль разработчика Google Chrome: десять неочевидных полезностей | https://habrahabr.ru/company/ruvds/blog/316132/
+
+Вышел Riot.js 3.0 | https://habrahabr.ru/post/316090/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №237 (14 — 20 ноября 2016) | https://habrahabr.ru/company/zfort/blog/315700/
+
+Двусторонний binding данных с ECMAScript-2015 без Proxy | https://habrahabr.ru/post/315410/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №236 (7 — 13 ноября 2016) | https://habrahabr.ru/company/zfort/blog/315180/
+
+Лекции Технотрека. Основы веб-разработки (весна 2016) | https://habrahabr.ru/company/mailru/blog/315080/
+
+Государственный сайт, доступный для людей с ограниченными возможностями (чек-лист доступности) | https://habrahabr.ru/company/design/blog/314910/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №235 (1 — 6 ноября 2016) | https://habrahabr.ru/company/zfort/blog/314552/
+
+Из Firefox 52 удалят API уровня заряда аккумулятора для сохранения приватности пользовательских данных | https://habrahabr.ru/post/314326/
+
+Верстаем новостной сайт с помощью Flexbox | https://habrahabr.ru/post/314034/
+
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №234 (24 — 30 октября 2016) | https://habrahabr.ru/company/zfort/blog/313968/
+
+Select / Multiselect без JS | https://habrahabr.ru/post/313958/
+
+Слайд-шоу без JS | https://habrahabr.ru/post/313472/
+
+Валидация в HTML5 | https://habrahabr.ru/post/313250/
+
+Небольшой препроцессор HTML | https://habrahabr.ru/post/313178/
+
+Гибридные Android-приложения для малышей | https://habrahabr.ru/post/312876/
+
+Использование CSS Flexbox для позиционирования блоков на странице | https://habrahabr.ru/post/312628/
+
+Как мы всех на юх послали (ну или продолжение истории про шаблонизотор) | https://habrahabr.ru/post/312620/
+
+Событие при изменении размеров блочного элемента — resize | https://habrahabr.ru/post/312536/
+
+Инструментарий для front-end разработки под Linux | https://habrahabr.ru/post/312508/
+
+Как Yahoo перешла от Flash к HTML5 в видео | https://habrahabr.ru/post/311302/
+
+Canvas Gauges 2.0 | https://habrahabr.ru/post/310946/
+
+Быстрый рендеринг с DOM шаблонизаторами | https://habrahabr.ru/company/oleg-bunin/blog/310868/
+
+Выходит HTML 5.1, готовится HTML 5.2 | https://habrahabr.ru/post/310706/
+
+PostCSS. Будущее после Sass и Less | https://habrahabr.ru/company/oleg-bunin/blog/310710/
+
+Верстка: отображаем пользовательский контент | https://habrahabr.ru/company/docsvision/blog/310544/
+
+Какие ссылки использовать: абсолютные или относительные? | https://habrahabr.ru/post/310286/
+
+Браузеры наши меньшие, или Нам нужно серьёзно поговорить | https://habrahabr.ru/company/oleg-bunin/blog/310210/
+
+Книга «HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств. 2-е изд.» | https://habrahabr.ru/company/piter/blog/309400/
+
+Modest — разработка открытого движка HTML рендера на «голом» Си | https://habrahabr.ru/post/309756/
+
+WebGL + WebAudio = Tower Defense | https://habrahabr.ru/post/309526/
+
+Предоставление облачных ресурсов на базе VMware с помощью BILLmanager. Или как появился новый личный кабинет CloudLITE | https://habrahabr.ru/company/ispsystem/blog/309282/
+
+SPA — не серебряная пуля, или альтернативный подход к web-разработке. Часть 1 | https://habrahabr.ru/post/309376/
+
+История языков программирования: разброд и консолидация JavaScript | https://habrahabr.ru/post/309354/
+
+WebSockets в Scorocode или чат своими руками за 15 минут | https://habrahabr.ru/company/scorocode/blog/308068/
+
+Пособие по webpack | https://habrahabr.ru/post/309306/
+
+HTTP/2 уже здесь но спрайт-сеты ещё не умерли | https://habrahabr.ru/post/308862/
+
+DiffHTML.js — утилита для патчинга DOM | https://habrahabr.ru/post/308856/
+
+15 ошибок или советов HTML и CSS | https://habrahabr.ru/post/308680/
+
+Выбираем html-парсер для Apache.JMeter | https://habrahabr.ru/post/308254/
+
+Зачем нам jQuery? | https://habrahabr.ru/company/piter/blog/308134/
+
+Трёхпозиционный checkbox (aka tristate) без скриптов и смс | https://habrahabr.ru/post/308034/
+
+Как по маслу, или анимируем со скоростью 60 FPS на CSS 3 | https://habrahabr.ru/post/308006/
+
+Альтернатива для .clearfix | https://habrahabr.ru/post/307374/
+
+Распространенные ошибки начинающего HTML-верстальщика | https://habrahabr.ru/post/307210/
+
+Управляем компьютером через браузер | https://habrahabr.ru/post/307340/
+
+Web приложение для работы с markdown заметками | https://habrahabr.ru/post/307318/
+
+Генератор конфигураций для сетевого оборудования и не только | https://habrahabr.ru/post/307054/
+
+Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/307064/
+
+Создание игры Doodle Jump для Android в Intel XDK за 2 часа на JavaScript с нуля | https://habrahabr.ru/post/306922/
+
+Библиотека, облегчающая разработку форм на сайтах (v3) | https://habrahabr.ru/post/306278/
+
+Уведомления в браузере и пример того, как их можно использовать с пользой | https://habrahabr.ru/post/306146/
+
+Кэш, хэш и няш-меш | https://habrahabr.ru/post/305898/
+
+Сражаясь с БЭМ: 10 основных ошибок и как их избежать | https://habrahabr.ru/post/305548/
+
+Пишем адаптивный шаблон для Emlog CMS | https://habrahabr.ru/post/305330/
+
+Книга «Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 4-е изд.» | https://habrahabr.ru/company/piter/blog/304666/
+
+Делаем крутые Single Page Application на basis.js — часть 2 | https://habrahabr.ru/post/304608/
+
+Очень простой и быстрый HTML->TEXT | https://habrahabr.ru/post/304428/
+
+Параллакс в 2D игре. Интересный эффект движения при создании игры на JavaScript (canvas) | https://habrahabr.ru/post/304140/
+
+Делаем крутые Single Page Application на basis.js — часть 1, вступительно-теоретическая | https://habrahabr.ru/post/304078/
+
+Позвольте представить, Shadow DOM API на основе слотов | https://habrahabr.ru/post/304112/
+
+Подборка уроков для начинающего разработчика игр на JavaScript | https://habrahabr.ru/post/303988/
+
+Опрос: насколько строго вы следуете стандартам и лучшим практикам на фронтенде? | https://habrahabr.ru/post/303918/
+
+Как стать профессиональным веб-разработчиком: практическое руководство | https://habrahabr.ru/post/303896/
+
+Как называть css-классы | https://habrahabr.ru/post/303174/
+
+GrabDuck: От Ньютона до вебсайта | https://habrahabr.ru/company/grabduck/blog/301218/
+
+Facebook Messenger был уязвим к атаке, требующей базовые знания HTML | https://habrahabr.ru/company/inoventica/blog/302874/
+
+Создание арканоида на чистом JavaScript с нуля. CANVAS | https://habrahabr.ru/post/302860/
+
+Front-end шаблонизатор | https://habrahabr.ru/post/302604/
+
+Как я разрабатывал транслятор языков разметки | https://habrahabr.ru/post/236907/
+
+Ещё больше комфорта в разработке фронтенда с TARS | https://habrahabr.ru/company/2gis/blog/302374/
+
+Meteor + CSS-Modules + SugarSS | https://habrahabr.ru/post/302224/
+
+Почему мы рады тому, что не попали на themeforest | https://habrahabr.ru/post/302156/
+
+My 1st WEB App | https://habrahabr.ru/post/283082/
+
+Мал золотник, да дорог: в двух словах о VMware Host Client | https://habrahabr.ru/company/cloud4y/blog/301878/
+
+Autofill: чего не знают веб-разработчики, хотя должны знать | https://habrahabr.ru/company/mailru/blog/301840/
+
+Язык описания шаблонов Snakeskin | https://habrahabr.ru/post/301646/
+
+JavaScript-only: гомогенная архитектура веб-проектов | https://habrahabr.ru/company/jugru/blog/301588/
+
+Meteor + MVVM = ❤ | https://habrahabr.ru/post/283152/
+
+Как вы можете использовать отзывчивые веб-компоненты сегодня | https://habrahabr.ru/post/280636/
+
+Интерполяция: рисуем плавные графики с помощью кривых Безье | https://habrahabr.ru/post/247235/
+
+Краткая история Всемирной паутины по версии веб-разработчиков | https://habrahabr.ru/post/282267/
+
+Основы разработки 3D-игр в Intel XDK на BabylonJS | https://habrahabr.ru/company/intel/blog/282089/
+
+Низкий FPS при прокрутке страницы. Решение проблемы background-attachment: fixed | https://habrahabr.ru/post/282079/
+
+JS Загрузчик + шаблонизатор или история очередного велика | https://habrahabr.ru/post/282041/
+
+Доступны записи Microsoft Edge Web Summit 2016 — Часть 1 | https://habrahabr.ru/company/microsoft/blog/282023/
+
+Разработка HTML5-игр в Intel XDK. Часть 7. Оформление игры | https://habrahabr.ru/company/intel/blog/281981/
+
+Разработка HTML5-игр в Intel XDK. Часть 6. Угощение для змеи и обработка столкновений | https://habrahabr.ru/company/intel/blog/281873/
+
+Вертикальные отступы или ещё раз про margin | https://habrahabr.ru/post/281711/
+
+Разработка HTML5-игр в Intel XDK. Часть 5. Увеличиваем длину змеи и управляем ей | https://habrahabr.ru/company/intel/blog/281639/
+
+Разработка HTML5-игр в Intel XDK. Часть 4. Система координат и перемещение объектов | https://habrahabr.ru/company/intel/blog/281607/
+
+Разработка HTML5-игр в Intel XDK. Часть 3. Знакомство со змейкой | https://habrahabr.ru/company/intel/blog/281523/
+
+Разработка HTML5-игр в Intel XDK. Часть 2. Cocos2d-JS | https://habrahabr.ru/company/intel/blog/281453/
+
+Разработка HTML5-игр в Intel XDK. Часть 1. Знакомство с XDK | https://habrahabr.ru/company/intel/blog/281380/
+
+Почти полное руководство по flexbox (без самих flexbox) | https://habrahabr.ru/post/281254/
+
+Расстановка полей и отступов в CSS | https://habrahabr.ru/company/netcracker/blog/281008/
+
+Как сделать многослойную Parallax иллюстрацию на CSS & JavaScript | https://habrahabr.ru/post/280738/
+
+Как мы разогнали мобильную Lenta.ru до скорости света | https://habrahabr.ru/company/rambler-co/blog/280602/
+
+Советы, библиотеки и дополнительные материалы по CSS-анимации | https://habrahabr.ru/company/mr_gefest/blog/280370/
+
+Интерактивное видео и с чем его едят | https://habrahabr.ru/company/innopolis_university/blog/280372/
+
+Парсим HTML на C++ и Gumbo | https://habrahabr.ru/post/280270/
+
+Пунктирное подчеркивание ссылок с нормальным расстоянием между текстом и линией | https://habrahabr.ru/post/280129/
+
+REM vs EM – Великий спор | https://habrahabr.ru/post/280125/
+
+BEM с человеческим лицом | https://habrahabr.ru/post/279953/
+
+Меньше 2 месяцев, GoPro, крутая идея и команда — всё, что нужно, чтобы сделать игру от первого лица | https://habrahabr.ru/company/innopolis_university/blog/279847/
+
+Релиз Webix 3.2. Новые виджеты для работы с данными и прочие фичи | https://habrahabr.ru/post/278997/
+
+Что делает программное обеспечение качественным? | https://habrahabr.ru/post/279459/
+
+Парсеров всем! Анализируем и тестируем существующие HTML парсеры | https://habrahabr.ru/post/279409/
+
+Яндекс убивает бизнес, или будьте осторожны с блоком #main | https://habrahabr.ru/post/279257/
+
+Кризис ожирения сайтов | https://habrahabr.ru/post/278655/
+
+Подборка материалов для начинающего разработчика игр на JavaScript | https://habrahabr.ru/post/278621/
+
+Туториал по Jade для начинающих | https://habrahabr.ru/post/278109/
+
+Знакомимся с веб-стандартами. Работа с аудио. — Видео и история создания | https://habrahabr.ru/company/microsoft/blog/278593/
+
+Мой «Умный дом» на ПЛК и с веб-интерфейсом. Часть 2. Веб-интерфейс | https://habrahabr.ru/post/278111/
+
+Оптимизация HTML5 игр для Android | https://habrahabr.ru/post/278333/
+
+Рип сетевых словарей при помощи Node.js, ч. 2: динамические страницы; подключение NW.js | https://habrahabr.ru/post/277513/
+
+Как покрасить вкладку Chrome | https://habrahabr.ru/post/277753/
+
+Как выбрать фреймворк для frontend-разработки | https://habrahabr.ru/post/277547/
+
+Несколько неочевидных frontend-хитростей | https://habrahabr.ru/company/wargaming/blog/251441/
+
+Тестируем вёрстку правильно | https://habrahabr.ru/company/2gis/blog/277457/
+
+Динамическое связывание данных в HTML и JS | https://habrahabr.ru/post/277451/
+
+Все способы вертикального выравнивания в CSS | https://habrahabr.ru/company/netcracker/blog/277433/
+
+Многопользовательский онлайн-шутер на WebGL и asyncio, часть вторая | https://habrahabr.ru/post/252575/
+
+Google отказывается от Flash в рекламе | https://habrahabr.ru/post/277089/
+
+MyHTML — HTML парсер на «голом» Си с поддержкой POSIX Threads | https://habrahabr.ru/post/277031/
+
+Fallback-действия в ES6 Promise | https://habrahabr.ru/post/276913/
+
+Используем VS Code для Веб-разработки | https://habrahabr.ru/post/276825/
+
+Про использование React с элементом canvas | https://habrahabr.ru/post/276585/
+
+Список технических и IT конференций 2016. Часть #1 | https://habrahabr.ru/post/276681/
+
+Прямая трансляция конференции Make Web, Not War из Монреаля — 5 февраля, пятница, в 17:00 (Москва) | https://habrahabr.ru/company/microsoft/blog/276659/
+
+Руководство по HTML/CSS/JavaScript | https://habrahabr.ru/post/275729/
+
+Записи с конференции Web Standards Days — Москва 2015 | https://habrahabr.ru/company/microsoft/blog/276307/
+
+Лучшие бесплатные коллекции векторных иконок | https://habrahabr.ru/post/276249/
+
+Пишем правильный манифест для сайта | https://habrahabr.ru/post/275849/
+
+Почему до сих пор повсеместно не используется HTTPS? | https://habrahabr.ru/post/275539/
+
+Аналоговые часы на HTML5 c логикой на JavaScript | https://habrahabr.ru/post/275353/
+
+Рип сетевых словарей при помощи Node.js, ч. 1: статические страницы; CLI; DSL -> TXT, PDF, DjVu; сопутствующие задачи | https://habrahabr.ru/post/274475/
+
+Дайджест лучших вебинаров для программистов от GeekBrains | https://habrahabr.ru/company/geekbrains/blog/275199/
+
+WordPress. Бесплатный курс от GeekBrains | https://habrahabr.ru/company/geekbrains/blog/274943/
+
+Рисуем вместе. Портрет пользователя ИЕ 8 анфас | https://habrahabr.ru/company/devexpress/blog/274193/
+
+Intermediate CSS3 Hover Effects. Пошаговый туториал. Часть 3 | https://habrahabr.ru/post/274007/
+
+Intermediate CSS3 Hover Effects. Пошаговый туториал. Часть 2 | https://habrahabr.ru/post/274005/
+
+Intermediate CSS3 Hover Effects. Пошаговый туториал. Часть 1 | https://habrahabr.ru/post/274003/
+
+Большой обзор красивых многоуровневых меню с codepen | https://habrahabr.ru/company/mr_gefest/blog/273907/
+
+Создание веб-сайта. Курс молодого бойца | https://habrahabr.ru/post/273795/
+
+Сравнение css-фреймворков/библиотек на живом примере. Часть 1 | https://habrahabr.ru/company/mr_gefest/blog/273553/
+
+Художественный подход к загрузке изображений | https://habrahabr.ru/company/taggy/blog/273415/
+
+Вертикальные заголовки: кто прав? | https://habrahabr.ru/post/273381/
+
+Мастерство в HTML5: Fragments | https://habrahabr.ru/company/paysto/blog/273217/
+
+Вы можете не использовать инструменты | https://habrahabr.ru/post/272995/
+
+Фотошоп для верстальщика (программиста) | https://habrahabr.ru/post/272649/
+
+Как я использую SVG-спрайты | https://habrahabr.ru/post/272505/
+
+Codecha — программистская капча, или как не надо проектировать API | https://habrahabr.ru/post/272129/
+
+Создание десктопного приложения с помощью Electron и веб-технологий | https://habrahabr.ru/post/272075/
+
+Приглашаем на Web Standards Day в Москве, 13 декабря | https://habrahabr.ru/company/microsoft/blog/272033/
+
+Как создать круглую Progress Button | https://habrahabr.ru/post/271881/
+
+Прогулка с динозаврами: как я адаптировал веб-приложение под IE 7 | https://habrahabr.ru/post/271545/
+
+Организация кнопок на сайте с помощью Sass | https://habrahabr.ru/post/271311/
+
+Минификация проекта, созданного в Blocs 1.5.2, с помощью Gulp | https://habrahabr.ru/post/270617/
+
+Создаём интерактивную векторную схему московского метро | https://habrahabr.ru/post/270293/
+
+Онлайн-компиляция на статическом сайте, рецепт для начинающих | https://habrahabr.ru/post/270141/
+
+Понятно и просто про веб-компоненты и Polymer | https://habrahabr.ru/company/dataart/blog/270109/
+
+Генерация html на PHP | https://habrahabr.ru/post/270147/
+
+CSS-модули | https://habrahabr.ru/post/270103/
+
+БЭМ — методология развешивания костылей | https://habrahabr.ru/post/270075/
+
+Как я делал веб-версию KeePass | https://habrahabr.ru/post/269895/
+
+Продолжаем бороться с frontend-рутиной | https://habrahabr.ru/company/2gis/blog/269743/
+
+<input> Я ♥ тебя, но ты меня обламываешь | https://habrahabr.ru/post/269565/
+
+SVG-иконки – много и со стилем | https://habrahabr.ru/company/devexpress/blog/269331/
+
+Как создать свой собственный браузер для Windows 10 на HTML и JavaScript | https://habrahabr.ru/company/microsoft/blog/269143/
+
+Детективная история — Что общего между auto.ru и brazzers? | https://habrahabr.ru/post/269059/
+
+Рецепт вращения планет в космосе на HTML5 + JavaScript | https://habrahabr.ru/post/268975/
+
+Эксперимент: Стоит ли использовать формы в email | https://habrahabr.ru/company/pechkin/blog/268927/
+
+Жизнь верстальщика в Linux | https://habrahabr.ru/post/268719/
+
+Адаптивные email-письма и media queries: Проблемы и решения | https://habrahabr.ru/company/pechkin/blog/268527/
+
+Площадки для браузерных игр | https://habrahabr.ru/post/268079/
+
+How-to: Процесс создания верстки html-писем | https://habrahabr.ru/company/pechkin/blog/268025/
+
+Webix 3.0 — новый, лиловый | https://habrahabr.ru/post/267995/
+
+Ускоряем вёрстку с помощью Автозамены в Punto Switcher | https://habrahabr.ru/post/267975/
+
+AdBlockBlock — обходим блокировщики рекламы. Метод 1 | https://habrahabr.ru/post/267911/
+
+Игры на CSS. Часть 2: StarCraft | https://habrahabr.ru/post/267801/
+
+«Книжная полка фронтендера» — как гугл, только лучше | https://habrahabr.ru/post/267775/
+
+Игра на голом HTML / CSS | https://habrahabr.ru/post/267701/
+
+Аккордеон на AngularJS и Bootstrap | https://habrahabr.ru/post/267549/
+
+Адаптивное видео как фон шапки сайта | https://habrahabr.ru/post/267519/
+
+Сумбурно о разработке писем | https://habrahabr.ru/post/267499/
+
+Кастомизация HTML5 progress element | https://habrahabr.ru/post/266895/
+
+Определяем, что у пользователя заблокирована Википедия | https://habrahabr.ru/post/266553/
+
+Хабрахабр присвоил всем по «собачке» | https://habrahabr.ru/company/ua-hosting/blog/258287/
+
+100 из 100 в Google PageSpeed Insights (Баг или фича)? | https://habrahabr.ru/post/266357/
+
+Оформление социальных кнопок в три шага | https://habrahabr.ru/company/dataart/blog/265991/
+
+Webpack для Single Page App | https://habrahabr.ru/post/265801/
+
+Проверяем все страницы сайта в валидаторе html | https://habrahabr.ru/post/265709/
+
+Flash to Html5 или тайное api Swiffy | https://habrahabr.ru/company/targetix/blog/265739/
+
+Telegram-like анимированный placeholder для HTML-инпутов | https://habrahabr.ru/post/265497/
+
+Модуль вкладок на es6/es2015 без jQuery и прочих зависимостей | https://habrahabr.ru/post/265477/
+
+Публикация iFrame / HTML5 игры во ВКонтакте. Основы | https://habrahabr.ru/post/265469/
+
+CSS3 hover effects. Пошаговый туториал | https://habrahabr.ru/post/265451/
+
+Как я использую PostCSS | https://habrahabr.ru/post/265449/
+
+Как сверстать интерактивные вкладки в email-письме | https://habrahabr.ru/company/pechkin/blog/265409/
+
+Внедрение премиального медиа-контента с HTML5 | https://habrahabr.ru/company/microsoft/blog/265259/
+
+Превью первых обновлений веб-платформы Microsoft Edge | https://habrahabr.ru/company/microsoft/blog/265153/
+
+7 советов, как улучшить работу вашего сайта в Microsoft Edge и других современных браузерах | https://habrahabr.ru/company/microsoft/blog/265037/
+
+JQuery — разделение событий onСlick и onDblСlick | https://habrahabr.ru/post/265009/
+
+How-to: Техники создания интерактивных email-писем с помощью CSS | https://habrahabr.ru/company/pechkin/blog/264967/
+
+jQuery Video Extend — расширение возможностей HTML5 видео плеера | https://habrahabr.ru/post/264719/
+
+Внедрение компонентого подхода в вебе: обзор веб-компонентов | https://habrahabr.ru/company/microsoft/blog/264791/
+
+Релиз Cordova 5.2.0 | https://habrahabr.ru/post/264789/
+
+Работа с формами в Webix UI | https://habrahabr.ru/post/264681/
+
+Практические советы по повышению производительности HTML и JavaScript | https://habrahabr.ru/company/microsoft/blog/264675/
+
+Анализ производительности игры на WebGL при помощи about:tracing | https://habrahabr.ru/post/264639/
+
+Как пасхалки в email помогли компании привлечь внимание к своей конференции | https://habrahabr.ru/company/pechkin/blog/264523/
+
+Оптимизируем графику с помощью WebP | https://habrahabr.ru/post/264491/
+
+Теги в социальных сетях и синтетические (флективные) языки | https://habrahabr.ru/post/264325/
+
+Режим читателя: Пагинация в мобильных email-письмах | https://habrahabr.ru/company/pechkin/blog/264129/
+
+Быстро и «грязно»: excel to html | https://habrahabr.ru/post/264069/
+
+How-to: адаптивные письма в Gmail | https://habrahabr.ru/company/pechkin/blog/263699/
+
+Путь разработчика (Часть 0х01) | https://habrahabr.ru/post/263489/
+
+Используем SVG на сайте | https://habrahabr.ru/post/260645/
+
+Что нового в Visual Studio 2015 для JS-разработчиков | https://habrahabr.ru/company/microsoft/blog/263241/
+
+12 малоизвестных фактов о CSS (продолжение) | https://habrahabr.ru/post/262783/
+
+12 малоизвестных фактов о CSS | https://habrahabr.ru/post/263169/
+
+Star rating на CSS со шрифтовыми иконками от font-awesome | https://habrahabr.ru/post/262833/
+
+Как сделать красивую документацию для Web API, за которую будет не стыдно | https://habrahabr.ru/post/262813/
+
+Чуть более адаптивный сайт на 1C-Bitrix, аналог классов видимости от bootstrap | https://habrahabr.ru/post/262533/
+
+Что нового в Babylon.js | https://habrahabr.ru/post/260813/
+
+По-настоящему адаптивные письма. Часть… снова первая | https://habrahabr.ru/post/262427/
+
+«Убийца Bootstrap» — Material Design Lite. Версия 1.0.0 | https://habrahabr.ru/post/261985/
+
+Видео доклада «Пишем #b_ правильно» с WebCamp 2015 | https://habrahabr.ru/post/261973/
+
+По-настоящему адаптивные письма. Часть первая | https://habrahabr.ru/post/261455/
+
+Cordova 5.1.1 и обновления плагинов | https://habrahabr.ru/post/261353/
+
+Библиотека, облегчающая разработку форм на сайтах | https://habrahabr.ru/post/261347/
+
+Скруглы — border-radius inset для картинок | https://habrahabr.ru/post/259603/
+
+Go away HTML, go away | https://habrahabr.ru/post/260987/
+
+Favicons, Touch Icons, Tile Icons и т. д. Что выбрать? | https://habrahabr.ru/post/260777/
+
+2Mb веб-страницы — кого винить? | https://habrahabr.ru/post/260651/
+
+Как работает Wargaming Common Menu | https://habrahabr.ru/company/wargaming/blog/259687/
+
+Создаём отзывчивые письма для будущего без медиа-запросов | https://habrahabr.ru/post/259793/
+
+Создание игр без canvas: Matreshka.js | https://habrahabr.ru/post/259907/
+
+Scrollissimo – плагин для плавной скролл-анимации | https://habrahabr.ru/post/259539/
+
+Flexbox на примере игрального кубика | https://habrahabr.ru/post/259783/
+
+Моделирование объектов для анимации на Canvas | https://habrahabr.ru/post/259465/
+
+Webix 2.4. Дверь в лето | https://habrahabr.ru/post/259353/
+
+«Когда будут курсы по JavaScript?!» или второй год в Академии | https://habrahabr.ru/company/htmlacademy/blog/259231/
+
+Несколько интересностей и полезностей для веб-разработчика #44 | https://habrahabr.ru/post/258977/
+
+Оптимизация рендеринга веб-страницы | https://habrahabr.ru/company/rambler-co/blog/258913/
+
+Иконификация контента | https://habrahabr.ru/company/paysto/blog/258973/
+
+Сайт на основе одной HTML-страницы | https://habrahabr.ru/post/258931/
+
+Нововведения в Cordova 5.0 | https://habrahabr.ru/post/258915/
+
+Как создать email-письмо, которое увидит только Apple Watch | https://habrahabr.ru/company/pechkin/blog/258871/
+
+Пост усиленного ретро | https://habrahabr.ru/post/258579/
+
+Первый взгляд на HTML6 с примерами и ссылками | https://habrahabr.ru/post/258373/
+
+Как мы делаем лэндинги | https://habrahabr.ru/company/ecoisme/blog/258165/
+
+Использование media queries в вёрстке email-писем: за и против | https://habrahabr.ru/company/pechkin/blog/258313/
+
+50+ лучших дополнений к Bootstrap | https://habrahabr.ru/company/dataart/blog/258301/
+
+Несколько интересностей и полезностей для веб-разработчика #43 | https://habrahabr.ru/post/258061/
+
+Как использовать прогрессивное улучшение для вёрстки писем | https://habrahabr.ru/company/pechkin/blog/257915/
+
+Быстрое кроссплатформенное HTML5 приложение на Framework7 | https://habrahabr.ru/post/257889/
+
+Блеск и нищета стандартных селектов | https://habrahabr.ru/company/htmlacademy/blog/257743/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 2) | https://habrahabr.ru/company/pechkin/blog/257397/
+
+Знакомимся с Fabric.js. Часть 4-я | https://habrahabr.ru/post/257401/
+
+Победа над неочевидным. Схлопывание внешних отступов | https://habrahabr.ru/post/257327/
+
+Строим с flexbox | https://habrahabr.ru/post/257253/
+
+Разработка простого плагина для JIRA для работы с базой данных: придаем нашему плагину нормальный внешний вид | https://habrahabr.ru/company/edison/blog/257007/
+
+7 вещей, которые каждый дизайнер должен знать про дизайн доступных сайтов | https://habrahabr.ru/post/257097/
+
+Десятка лучших движков для создания своих собственных игр | https://habrahabr.ru/post/257019/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 1) | https://habrahabr.ru/company/pechkin/blog/256853/
+
+Webix. Первое знакомство с JavaScript фреймворком | https://habrahabr.ru/post/256505/
+
+Как всё устроено: разработка интерактивных онлайн-курсов | https://habrahabr.ru/company/htmlacademy/blog/256417/
+
+Играй, голова | https://habrahabr.ru/post/256329/
+
+Несколько интересностей и полезностей для веб-разработчика #42 | https://habrahabr.ru/post/256117/
+
+Способы организации CSS-кода | https://habrahabr.ru/post/256109/
+
+How-to: Правила вёрстки email-писем | https://habrahabr.ru/company/pechkin/blog/255819/
+
+RefluxJS — альтернативный взгляд на Flux архитектуру от Facebook | https://habrahabr.ru/post/250581/
+
+Пишем расширение для Chrome «загрузка аудиозаписей с Вконтакте», часть 2 | https://habrahabr.ru/post/254979/
+
+Знакомимся с Fabric.js. Часть 3-я | https://habrahabr.ru/post/254763/
+
+Основные ловушки при использовании кэша в HTML5-приложениях | https://habrahabr.ru/company/paysto/blog/254619/
+
+Очистка HTML-тегов от атрибутов | https://habrahabr.ru/post/254203/
+
+Мой «Умный дом» на ПЛК и с веб-интерфейсом. Часть 1. Введение | https://habrahabr.ru/post/254199/
+
+Что такое хорошо: как мы разрабатывали критерии для оценки качества вёрстки веб-проектов | https://habrahabr.ru/company/htmlacademy/blog/254171/
+
+Дедовское UX проектирование: верстальщик — вредитель | https://habrahabr.ru/post/254131/
+
+TARS, сделай уровень frontend-рутины 0% | https://habrahabr.ru/company/2gis/blog/254105/
+
+Webix 2.3. Весеннее обновление | https://habrahabr.ru/post/254103/
+
+Пишем расширение для Chrome «загрузка аудиозаписей с Вконтакте» | https://habrahabr.ru/post/254005/
+
+Динамическое обновление веб-страницы | https://habrahabr.ru/post/253805/
+
+Создание семантических сайтов с помощью веб-компонентов и JSON-LD | https://habrahabr.ru/post/253479/
+
+Angular 2.0.0-alpha для тех, кто не в силах ждать | https://habrahabr.ru/post/253469/
+
+Как отобразить количество оповещений в названии вкладки браузера | https://habrahabr.ru/post/253449/
+
+Простой PHP генератор сложных HTML таблиц | https://habrahabr.ru/post/253207/
+
+Как это собрать приложение на android за 15 минут | https://habrahabr.ru/post/253181/
+
+Использование Marionette.Region для создания загрузочных представлений | https://habrahabr.ru/post/252909/
+
+Самые нужные плагины для Gulp | https://habrahabr.ru/post/252745/
+
+Toast-уведомления, теперь и в браузере | https://habrahabr.ru/post/252727/
+
+Большая подборка ссылок о галереях и всем, что с ними связанно | https://habrahabr.ru/company/paysto/blog/252397/
+
+Angular 2: Построенный на TypeScript | https://habrahabr.ru/post/252337/
+
+Web-технологии глазами С++ программиста | https://habrahabr.ru/post/250825/
+
+HTML — это не XML | https://habrahabr.ru/post/252283/
+
+Верстка email рассылок от А до Я для чайников | https://habrahabr.ru/post/252279/
+
+Количественные CSS селекторы | https://habrahabr.ru/post/252181/
+
+Интересный и одновременно простой слайдер на чистом CSS3 | https://habrahabr.ru/post/252075/
+
+Ещё один пост о сборке front-end проекта | https://habrahabr.ru/post/251807/
+
+Несколько интересностей и полезностей для веб-разработчика #39 | https://habrahabr.ru/post/251077/
+
+Статичный хостинг: жизнь после смерти narod.ru | https://habrahabr.ru/post/251797/
+
+Введение в разработку слайд-шоу на JavaScript | https://habrahabr.ru/post/251783/
+
+HTML5. Для профессионалов. 2-е изд | https://habrahabr.ru/company/piter/blog/251319/
+
+Самые нужные плагины для Grunt | https://habrahabr.ru/post/251157/
+
+Подборка интересных CSS-рецептов «Голые пятницы #4» | https://habrahabr.ru/company/wargaming/blog/245997/
+
+MathMl в HTML5 | https://habrahabr.ru/post/250981/
+
+Konva.js — HTML5 2d canvas framework | https://habrahabr.ru/post/250897/
+
+Приятная сборка frontend проекта | https://habrahabr.ru/post/250569/
+
+Vibration API: кому и зачем это нужно? | https://habrahabr.ru/post/250393/
+
+Липкий эффект | https://habrahabr.ru/post/250005/
+
+Языки пламени в CSS | https://habrahabr.ru/post/250193/
+
+Документирование программ | https://habrahabr.ru/post/250155/
+
+Используем SVG (часть первая) | https://habrahabr.ru/post/250129/
+
+Топ-10 вещей, которые мы поняли во время работы с Foundation for Apps | https://habrahabr.ru/post/235931/
+
+Несколько интересностей и полезностей для веб-разработчика #38 | https://habrahabr.ru/post/249783/
+
+Избавляемся от JavaScript в социальных кнопках (Facebook, VK, Twitter и др.) | https://habrahabr.ru/post/250021/
+
+Эффект капельного преобразования в CSS | https://habrahabr.ru/post/250001/
+
+Templater — менеджер шаблонов и твикер для MantisBT | https://habrahabr.ru/post/249367/
+
+Введение в HTML импорты | https://habrahabr.ru/post/241135/
+
+Идеи для HTML6 или HTML.next | https://habrahabr.ru/post/249207/
+
+Обход блокировки баннера AdBlock Plus и Adguard + Anti-Adblock | https://habrahabr.ru/post/249169/
+
+Баг в CSS Chrome, разрушивший наш сайт | https://habrahabr.ru/post/243909/
+
+Подробности о новом движке рендеринга Microsoft для «Project Spartan» | https://habrahabr.ru/company/microsoft/blog/248997/
+
+Игровой мир WebGL или Three.js vs Babylon.js | https://habrahabr.ru/post/246259/
+
+Несколько интересностей и полезностей для веб-разработчика #37 | https://habrahabr.ru/post/248715/
+
+Рисуем анимированную сцену с помощью css | https://habrahabr.ru/post/247731/
+
+Полная кастомизация select без использования JS | https://habrahabr.ru/post/248243/
+
+Список YouTube-каналов для обучения веб-разработке | https://habrahabr.ru/post/247893/
+
+Простой диспетчер задач с веб-интерфейсом, на GO для Unix-систем, включая Android | https://habrahabr.ru/post/247727/
+
+Возможна ли жизнь без шаблонизатора? | https://habrahabr.ru/post/247617/
+
+Material Design и AngularJS | https://habrahabr.ru/post/247719/
+
+Несколько интересностей и полезностей для веб-разработчика #36 | https://habrahabr.ru/post/247469/
+
+Одиннадцатиклассница, или тестируем баги вёрстки | https://habrahabr.ru/company/2gis/blog/246831/
+
+Несколько интересностей и полезностей для веб-разработчика #35 | https://habrahabr.ru/post/245557/
+
+Новогодний розыгрыш | https://habrahabr.ru/post/246329/
+
+Дизайн шаблона Joomla для front-end разработчика совершенно незнакомого с CMS | https://habrahabr.ru/post/246061/
+
+Как добавить карты Bing Maps в Windows-приложение на HTML и JavaScript. Часть 2 | https://habrahabr.ru/company/microsoft/blog/245831/
+
+Как добавить карты Bing Maps в Windows-приложение на HTML и JavaScript. Часть 1 | https://habrahabr.ru/company/microsoft/blog/245683/
+
+Как придумывать идеи | https://habrahabr.ru/post/245439/
+
+Как использовать GamePad в браузере и в приложениях для Windows на HTML и JavaScript? | https://habrahabr.ru/company/microsoft/blog/245405/
+
+Привет, я дизайнер, и я хочу, чтобы все и везде выглядело одинаково | https://habrahabr.ru/post/245251/
+
+Несколько интересностей и полезностей для веб-разработчика #34 | https://habrahabr.ru/post/245213/
+
+Быстрая настройка Grunt для комфортной разработки | https://habrahabr.ru/company/bitcalm/blog/244725/
+
+Десять типичных вопросов на собеседованиях на знание HTML | https://habrahabr.ru/post/244929/
+
+WinJS + универсальные приложения. Изучаем навигацию | https://habrahabr.ru/company/microsoft/blog/243163/
+
+Sublime Text для фронтэнд-разработчика | https://habrahabr.ru/post/244681/
+
+Математика разметки с помощью CSS: разбираемся с calc | https://habrahabr.ru/post/243821/
+
+Видео с доклада Виталия Фридмана «Responsive Web-дизайн: Трюки и уловки» | https://habrahabr.ru/post/244283/
+
+Фиксированый стиль таблицы или Fixed Table Layouts | https://habrahabr.ru/post/244207/
+
+Форматирование изображений с помощью Canvas | https://habrahabr.ru/post/229809/
+
+Несколько интересностей и полезностей для веб-разработчика #33 | https://habrahabr.ru/post/243343/
+
+Подборка интересных CSS рецептов «Голые пятницы #3» | https://habrahabr.ru/company/wargaming/blog/241903/
+
+Простой способ растянуть блок на всю высоту экрана, или CSS3 Viewport Units | https://habrahabr.ru/post/243161/
+
+Создаем портфолио на основе фотографий из Instagram | https://habrahabr.ru/post/242643/
+
+Продвинутый Gulp и Browserify: интересные трюки | https://habrahabr.ru/post/242379/
+
+Анонс Brackets 1.0 и Extract for Brackets (Preview версия) | https://habrahabr.ru/post/242297/
+
+Создаем сетку с помощью Susy | https://habrahabr.ru/post/241844/
+
+Стандарт HTML5 достиг статуса рекомендации W3C | https://habrahabr.ru/company/microsoft/blog/241796/
+
+Несколько интересностей и полезностей для веб-разработчика #31 | https://habrahabr.ru/post/240861/
+
+Duo.js — новое поколение пакетного менеджера для фронтэнда | https://habrahabr.ru/post/240539/
+
+sketchometry — динамическая геометрия в браузере | https://habrahabr.ru/post/239259/
+
+Использование Backbone.js при работе c html5 canvas | https://habrahabr.ru/post/240265/
+
+Создаем видеостену с трансляцией изображения с ip-камер через спутник с минимумом трафика | https://habrahabr.ru/post/239853/
+
+Баг или фича fieldset? | https://habrahabr.ru/post/239467/
+
+Анимирование Flexbox с помощью CSS Transition | https://habrahabr.ru/post/238607/
+
+Picture — новый элемент, которого нет | https://habrahabr.ru/post/237991/
+
+Дизайн в браузере | https://habrahabr.ru/post/238485/
+
+Выравниваем блок по центру страницы | https://habrahabr.ru/post/238449/
+
+Мобильный HTML5 | https://habrahabr.ru/company/piter/blog/237687/
+
+Кроссбраузерный красивый input type=«number» | https://habrahabr.ru/post/237569/
+
+Веб-компоненты в реализации Polymer от Google | https://habrahabr.ru/post/237421/
+
+Многопоточный прокси на Perl, или как покупать на books.ru удобно | https://habrahabr.ru/post/237259/
+
+HTML-формы. Взгляд бэкенд-разработчика | https://habrahabr.ru/post/236837/
+
+Готовое решение доступного видеоплеера на HTML5 | https://habrahabr.ru/post/236641/
+
+Подборка занимательных CSS рецептов «Голые пятницы #2» | https://habrahabr.ru/company/wargaming/blog/235889/
+
+CSS GuideLines, часть 3. Именование классов | https://habrahabr.ru/post/236047/
+
+CSS GuideLines, часть 2. Комментирование кода | https://habrahabr.ru/post/235893/
+
+CSS GuideLines, часть 1. Синтаксис и форматирование | https://habrahabr.ru/post/235851/
+
+Пишем проигрыватель lossless аудио на JavaScript | https://habrahabr.ru/post/235741/
+
+Ractive.js — бриллиантовый век web-разработки | https://habrahabr.ru/post/235675/
+
+Github, Reddit и StackExchange предложили стандартный синтаксис Markdown | https://habrahabr.ru/post/235611/
+
+Распродажа электронных книг по 99 рублей | https://habrahabr.ru/company/piter/blog/235319/
+
+Анализ кода сервисов бронирования отелей и авиаперелётов | https://habrahabr.ru/post/235045/
+
+Как заставить background-size работать в старых IE | https://habrahabr.ru/post/234447/
+
+Несколько интересностей и полезностей от веб-разработчика * | https://habrahabr.ru/post/234279/
+
+Простой Jquery скрипт для редактирования HTML5 текста и сохранения с помощью ajax | https://habrahabr.ru/post/233805/
+
+Персональное хранилище html-фрагментов для любителей и профессионалов | https://habrahabr.ru/company/theonlypage/blog/233617/
+
+3 новых JavaScript API, которые вам стоит узнать | https://habrahabr.ru/post/233527/
+
+Как создавать сайты, готовые к локализации | https://habrahabr.ru/company/alconost/blog/232991/
+
+HTML-импорт — include для веба: часть 2 | https://habrahabr.ru/post/231845/
+
+Является ли HTML языком программирования | https://habrahabr.ru/post/231897/
+
+Советы front-end разработчику | https://habrahabr.ru/post/231855/
+
+Голые пятницы #1 | https://habrahabr.ru/company/wargaming/blog/228145/
+
+HTML-импорт — include для веба: часть 1 | https://habrahabr.ru/post/230877/
+
+Что такое HTML импорт и как это работает? | https://habrahabr.ru/post/230751/
+
+Использование элементов, в качестве фоновых изображений при помощи -moz-element | https://habrahabr.ru/post/230431/
+
+Сколько может стоить один лишний пробел? | https://habrahabr.ru/post/230401/
+
+Элемент HTML &lttime> | https://habrahabr.ru/post/229291/
+
+Даем анимации жизнь | https://habrahabr.ru/post/229071/
+
+Вёрстка по БЭМу в Ruby on Rails | https://habrahabr.ru/post/229121/
+
+Подборка полезных CSS рецептов, или чем мы занимаемся на голых пятницах | https://habrahabr.ru/company/wargaming/blog/198138/
+
+Фреймворк RPG JS v2 для создания браузерной 2D онлайн-игры | https://habrahabr.ru/post/227103/
+
+То, что вам никто не говорил о z-index в статье «То, что вам никто не говорил о z-index» | https://habrahabr.ru/post/225721/
+
+Интерактивная сетевая игра на HTML, CSS и JavaScript | https://habrahabr.ru/post/225669/
+
+Идеи, лежащие в основе отзывчивых email писем | https://habrahabr.ru/post/225637/
+
+STAN — самый короткий шаблонный движок | https://habrahabr.ru/post/225557/
+
+Maxmertkit. Идеальный css-фреймворк | https://habrahabr.ru/post/225309/
+
+Инструмент для подсветки активного пункта простого HTML меню | https://habrahabr.ru/post/224185/
+
+Несколько интересностей и полезностей для веб-разработчика #17 | https://habrahabr.ru/post/220975/
+
+Вкладки (страницы) на одной странице на html/css с помощью :target | https://habrahabr.ru/post/223583/
+
+В защиту javascript:void(0); | https://habrahabr.ru/post/223115/
+
+AniJS – библиотека для декларативного описания CSS-анимации | https://habrahabr.ru/post/222325/
+
+Кеширование всего HTML и подключение JS «на ходу» | https://habrahabr.ru/post/222079/
+
+Сайт на с++ (CppCMS). Часть 1 | https://habrahabr.ru/post/219899/
+
+С чего начать своё расширение для Photoshop, Illustrator и др. на HTML5 | https://habrahabr.ru/post/221863/
+
+Последний день регистрации на Всеукраинский чемпионат UA Web Challenge VI для фронтенд разработчиков | https://habrahabr.ru/post/221727/
+
+Наследование HTML файлов в xslt-стиле | https://habrahabr.ru/post/221215/
+
+CSS 3 Timing Functions и с чем их едят | https://habrahabr.ru/post/220715/
+
+12 малоизвестных возможностей CSS | https://habrahabr.ru/post/220237/
+
+15 шаблонизаторов для фронтенд-разработки | https://habrahabr.ru/post/219873/
+
+Джентельменский набор плагинов, панелей и скриптов для Adobe Photoshop, Adobe Illustrator | https://habrahabr.ru/post/219591/
+
+Скрещиваем WebWorker и XMLHttpRequest | https://habrahabr.ru/post/218989/
+
+Лучшие платные Photoshop плагины для веб-дизайнеров | https://habrahabr.ru/post/218199/
+
+Стилизация элементов форм и попытка обойти подводные камни | https://habrahabr.ru/post/218529/
+
+Несколько интересностей и полезностей для веб-разработчика #15 | https://habrahabr.ru/post/218197/
+
+Несколько интересностей и полезностей для веб-разработчика #14 | https://habrahabr.ru/post/217501/
+
+Управление JavaScript UI-потоком с помощью планировщика WinJS | https://habrahabr.ru/company/microsoft/blog/216623/
+
+Отзывчивый дизайн. Реакция на уровень освещенности | https://habrahabr.ru/post/216375/
+
+Добавляем кириллицу в шрифт Source Sans Pro для Bootstrap-темы Lumen | https://habrahabr.ru/post/216223/
+
+Несколько интересностей и полезностей для веб-разработчика #13 | https://habrahabr.ru/post/215937/
+
+Google отказывается от подчеркнутых ссылок | https://habrahabr.ru/post/215795/
+
+Инкапсуляция CSS-стилей — Часть 1. Проблема | https://habrahabr.ru/post/215413/
+
+Магический круг: CSS головоломка | https://habrahabr.ru/post/214917/
+
+Бесплатный редактор шрифтов на HTML5 | https://habrahabr.ru/post/214775/
+
+Только разработчики 90-х помнят это | https://habrahabr.ru/post/214761/
+
+Лучшие бесплатные Photoshop плагины для веб-дизайнеров | https://habrahabr.ru/post/214497/
+
+Как использовать секционные элементы HTML5 | https://habrahabr.ru/post/214407/
+
+Набор кроссбраузерных CSS3 свойств | https://habrahabr.ru/post/212767/
+
+Bootstrap Modal Iframe Костыль | https://habrahabr.ru/post/212347/
+
+Рейтинг хабов и компаний по постам/подписчикам | https://habrahabr.ru/post/211775/
+
+Начало проекта глазами разработчика | https://habrahabr.ru/company/tornado_tech/blog/211450/
+
+Как сверстать веб-страницу. Часть 2 — Bootstrap | https://habrahabr.ru/post/211032/
+
+Используете ли вы Веб Компоненты? | https://habrahabr.ru/post/210680/
+
+Web Components — это единственное светлое будущее веба. Смиритесь | https://habrahabr.ru/post/210130/
+
+Видеопроигрыватель для сайтов обучающих иностранным языкам | https://habrahabr.ru/post/210146/
+
+Web Components — будущее Web | https://habrahabr.ru/post/210058/
+
+Подарок всем front-end разработчикам. grunt(Jade+Stylus+Watch) | https://habrahabr.ru/post/207970/
+
+Задаем временной интервал на циферблате часов. JavaScript | https://habrahabr.ru/post/207792/
+
+Символ рубля при помощи CSS | https://habrahabr.ru/post/207572/
+
+AJL — компонент для загрузки JS и CSS файлов средствами JavaScript | https://habrahabr.ru/post/202450/
+
+8 HTML элементов, которые вы не используете (а следовало бы) | https://habrahabr.ru/post/204684/
+
+В чем проблема «проблемы БЭМ'а»? | https://habrahabr.ru/post/203994/
+
+Простое правило выбора CSS селекторов | https://habrahabr.ru/post/203942/
+
+Универсальные подсказки на jQuery | https://habrahabr.ru/post/203694/
+
+Верстка для самых маленьких. Верстаем страницу по БЭМу | https://habrahabr.ru/post/203440/
+
+Generating HTML reports for dynamic table-structures | https://habrahabr.ru/post/203076/
+
+Как сверстать веб-страницу. Часть 1 | https://habrahabr.ru/post/202408/
+
+Хитрый способ создания анимированного jpeg'а | https://habrahabr.ru/post/201444/
+
+Несколько интересностей и полезностей для веб-разработчика (выпуск 8) | https://habrahabr.ru/post/200436/
+
+Морфана: приставки, корни, суффиксы… | https://habrahabr.ru/post/200790/
+
+Слово в защиту пиксельных значений media queries | https://habrahabr.ru/post/199424/
+
+Приложения для Firefox OS запустятся на Android, Windows, Mac OS X и Linux | https://habrahabr.ru/post/199428/
+
+Что не хватает в COLT/JS, чтобы начать его использовать? | https://habrahabr.ru/company/codeorchestra/blog/199386/
+
+Идеальный css-framework. Maxmertkit widget manager – build your own framework | https://habrahabr.ru/post/197834/
+
+AngularJS: еще одна таблица с сортировкой, фильтрацией и постраничной навигацией | https://habrahabr.ru/post/197646/
+
+Решение проблемы border-radius + overflow:hidden с помощью canvas | https://habrahabr.ru/post/179525/
+
+Пишем HTML5-игру за 20 минут, или введение в Phaser framework | https://habrahabr.ru/post/197416/
+
+Несколько интересностей и полезностей для веб-разработчика (выпуск 5) | https://habrahabr.ru/post/196720/
+
+Частотный генератор фонового шума на HTML5 | https://habrahabr.ru/post/196872/
+
+Насилие над DHTML и вывод JavaScript на десктоп. Реставрация старых игр. Сборка web-приложений | https://habrahabr.ru/post/196530/
+
+В чем разница между Brackets/Adobe Edge и COLT? | https://habrahabr.ru/post/196474/
+
+jQuery.BEM — декларативный подход к работе с версткой по БЭМ методу | https://habrahabr.ru/post/196368/
+
+Ливкодинг сразу же для нескольких устройств | https://habrahabr.ru/post/196274/
+
+В Firefox добавили флэш-плеер Shumway, написанный на HTML5 | https://habrahabr.ru/post/196100/
+
+Несколько интересностей и полезностей для веб-разработчика (выпуск 4) | https://habrahabr.ru/post/195076/
+
+Pixel perfect верстка | https://habrahabr.ru/post/195414/
+
+Генератор случайных котов за 8 шагов | https://habrahabr.ru/post/195142/
+
+Shade: длинные тени трендового плоского дизайна на CSS | https://habrahabr.ru/post/193300/
+
+БЭМ on Rails | https://habrahabr.ru/post/192972/
+
+Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента | https://habrahabr.ru/post/190246/
+
+Скидка на книгу «HTML5 и CSS3. Разработка сайтов для любых браузеров и устройств» | https://habrahabr.ru/company/piter/blog/192528/
+
+HTML5 и drag & drop нескольких объектов | https://habrahabr.ru/post/187590/
+
+Переход с bootstrap 2 на bootstrap 3 | https://habrahabr.ru/post/191952/
+
+Несколько интересностей и полезностей для веб-разработчика (выпуск 2) | https://habrahabr.ru/post/192012/
+
+Особенности парсинга блочного HTML-кода программами экранного доступа | https://habrahabr.ru/post/191256/
+
+Руководство по WebKit-атрибуту srcset в тэге img | https://habrahabr.ru/post/190464/
+
+Google выпустила парсер HTML5 на чистом Си | https://habrahabr.ru/post/190044/
+
+Использование Drag&Drop в HTML 5 | https://habrahabr.ru/post/187582/
+
+Emmet LiveStyle — инструмент для удобной front-end разработки | https://habrahabr.ru/post/189748/
+
+Делаем красивый input[type=file] для адаптивного сайта | https://habrahabr.ru/post/189570/
+
+«backgroundImageTransition», плавная анимация фоновых изображений | https://habrahabr.ru/post/188722/
+
+PopulateJS: don't repeat yourself в HTML-разметке | https://habrahabr.ru/post/187264/
+
+Добавление синхронизированного текста транскрипции к видео на HTML5 | https://habrahabr.ru/post/187046/
+
+Чертежи в SVG формате. Часть 4. — Черновик стандарта | https://habrahabr.ru/post/185496/
+
+Как использовать Fullscreen API | https://habrahabr.ru/post/184926/
+
+Фильтрация элементов в cuSel | https://habrahabr.ru/post/175623/
+
+Текст в линии или как победить дизайнера | https://habrahabr.ru/post/184274/
+
+Некоторые секреты подключения веб-интерфейса 1C 8.2 | https://habrahabr.ru/post/183754/
+
+HTML 5 Notifications API | https://habrahabr.ru/post/183630/
+
+Мобильная веб-разработка: HTML5 приложение для Android | https://habrahabr.ru/post/183458/
+
+Photoshop color picker на jQuery | https://habrahabr.ru/post/183238/
+
+5 правил верстки email-писем от Печкина | https://habrahabr.ru/company/pechkin/blog/182964/
+
+Генератор ASCII-артов на HTML5 | https://habrahabr.ru/post/182782/
+
+Как перестать замечать ограниченность траффика у бесплатных WiFi | https://habrahabr.ru/post/181854/
+
+Justify Grid — новое слово в разметке | https://habrahabr.ru/post/182146/
+
+BIDI (unicode bidirectional algorithm) | https://habrahabr.ru/post/181123/
+
+jVForms.js — кроссбраузерный полифил проверки форм | https://habrahabr.ru/post/181782/
+
+GlacierWorks и Microsoft создали интерактивный сайт об Эвересте | https://habrahabr.ru/post/181330/
+
+Генерация текстовых версий писем из HTML с помощью lynx | https://habrahabr.ru/company/pechkin/blog/180993/
+
+Справочник фронт-энд девелопера: виды горизонтальных панелей навигации | https://habrahabr.ru/post/180473/
+
+Ещё один способ устранить ВОШ | https://habrahabr.ru/post/180615/
+
+Создаем аудио слайдшоу с помощью jPlayer | https://habrahabr.ru/post/180657/
+
+Responsive Email Design, или Как прочитать письмо на холодильнике | https://habrahabr.ru/company/badoo/blog/180579/
+
+Shadow DOM | https://habrahabr.ru/post/180377/
+
+Эффект слайдов на сайте. Версия вторая, дополненная и исправленная | https://habrahabr.ru/post/180275/
+
+Основы профессиональной верстки электронных писем | https://habrahabr.ru/post/180013/
+
+MaskJS — HMV* фреймворк | https://habrahabr.ru/post/179359/
+
+Лёгкий сайт или как посадить браузер на диету | https://habrahabr.ru/post/178561/
+
+Всплывающая фиксированная навигация jQuery | https://habrahabr.ru/post/178305/
+
+WebMarkupMin HTML Minifier – современный HTML-минимизатор для платформы .NET | https://habrahabr.ru/post/178081/
+
+tFormer.js — велосипед для валидации форм | https://habrahabr.ru/post/177759/
+
+«CAPTCHA: Прототип» или очередная попытка уйти от разгадывания капчи | https://habrahabr.ru/post/177851/
+
+JavaScript обёртка скроллбара в виде jQuery плагина | https://habrahabr.ru/post/177399/
+
+Foundation 4 | https://habrahabr.ru/post/177315/
+
+Гиперпространство на JavaScript | https://habrahabr.ru/post/176325/
+
+Twitter Bootstrap 3: неофициальный первый взгляд | https://habrahabr.ru/post/176457/
+
+Организация хостинга зашифрованного видеоконтента с помощью HTML5 | https://habrahabr.ru/post/176115/
+
+Кроссворд из регулярных выражений: интерактивная версия | https://habrahabr.ru/post/175847/
+
+Стильный CSS переключатель без JavaScript | https://habrahabr.ru/post/175719/
+
+Инструменты и примеры кода для разработки ARIA | https://habrahabr.ru/post/175323/
+
+Верстка писем. Снова баги | https://habrahabr.ru/post/174971/
+
+Первоапрельские CSS-сниппеты | https://habrahabr.ru/post/174935/
+
+Игры с физикой благодаря HTML5 и JS. Программист симулирует движение ткани | https://habrahabr.ru/post/174659/
+
+Автоматизация вёрстки | https://habrahabr.ru/post/174305/
+
+Accordion меню на чистом CSS | https://habrahabr.ru/post/174029/
+
+Использование Razor отдельно от ASP.NET MVC | https://habrahabr.ru/post/173923/
+
+Почему HTML считает, что «chucknorris» — это цвет? | https://habrahabr.ru/post/173727/
+
+Почтовые клиенты и вебморды. Что теперь? | https://habrahabr.ru/post/173339/
+
+CMS Koken для фотогалерей | https://habrahabr.ru/post/173313/
+
+Полезные сниппеты на HTML5 | https://habrahabr.ru/post/173195/
+
+WebKit для разработчиков | https://habrahabr.ru/post/173141/
+
+Букет цветов на CSS3 | https://habrahabr.ru/post/173123/
+
+Редактор цветовых схем для SublimeText 2 | https://habrahabr.ru/post/172973/
+
+Online-трансляция HTML5 Camp — 15 марта с 10:00 | https://habrahabr.ru/company/microsoft/blog/172767/
+
+Времена меняются для веб-разработчиков — 6 советов чтобы выжить | https://habrahabr.ru/post/172751/
+
+Немного о Steam Web Api | https://habrahabr.ru/post/172223/
+
+Kinect + 3D Display + HTML5 | https://habrahabr.ru/post/172225/
+
+Директивы в разметке или разметка с кодом? | https://habrahabr.ru/post/171917/
+
+Произвольный вид поля file в html-форме, одинаковый во всех браузерах | https://habrahabr.ru/post/171743/
+
+Webrtc, Peer Connection — создание полноценного видео чата в браузере | https://habrahabr.ru/post/171477/
+
+Пишем HTML-виджет для приложения IBOOK Author | https://habrahabr.ru/post/171141/
+
+Видео с конференции W3C conf 2013 доступно на YouTube | https://habrahabr.ru/post/171043/
+
+Пример — часы на СSS3 без изображений и JavaScript | https://habrahabr.ru/post/171015/
+
+Разработка веб-сайтов для мобильных устройств | https://habrahabr.ru/company/piter/blog/170229/
+
+Моя демократия заканчивается у кончика твоего носа: совместное редактирование в облаке | https://habrahabr.ru/company/teamlab/blog/169841/
+
+Кроссбраузерная кастомизация системного скроллбара | https://habrahabr.ru/company/2gis/blog/169359/
+
+Адаптивные баннеры на HTML5 и CSS3 | https://habrahabr.ru/post/169387/
+
+Визуальное редактирование данных на странице, используя HTML как хранилище данных | https://habrahabr.ru/company/etnasoft/blog/169577/
+
+HTML и CSS безумие [перевод] | https://habrahabr.ru/post/169077/
+
+8 типов сайтов, которые делать не стоит | https://habrahabr.ru/post/168901/
+
+Облака на CSS3 3D Transformations | https://habrahabr.ru/post/168885/
+
+Groundwork — интересный CSS/HTML5 UI фреймворк | https://habrahabr.ru/post/168753/
+
+Интерактивная инфографика с анимациями CSS и SVG | https://habrahabr.ru/post/168681/
+
+BonBon — Sweet CSS3 Buttons | https://habrahabr.ru/post/168117/
+
+В поисках идеального css-фреймворка. Maxmertkit widget manager | https://habrahabr.ru/post/167951/
+
+Игровые технологии — в жизнь | https://habrahabr.ru/post/167799/
+
+Как превратить браузер в notepad за 1 секунду | https://habrahabr.ru/post/167677/
+
+Оптимизация knockoutjs при динамическом добавлении и удалении темплейтов | https://habrahabr.ru/post/167591/
+
+Знакомимся с Fabric.js. Часть 2-я | https://habrahabr.ru/post/167119/
+
+Cпойлер средствами css… | https://habrahabr.ru/post/167151/
+
+Кнопки социальных сетей, HTML 5, атрибут data и асинхронная загрузка javascript | https://habrahabr.ru/post/166831/
+
+Отслеживаем «onresize» на элементе | https://habrahabr.ru/post/166321/
+
+Создание простых всплывающих подсказок на HTML5, CSS и jQuery | https://habrahabr.ru/post/165805/
+
+В поисках идеального css-фреймворка. Требования, реализация, maxmertkit | https://habrahabr.ru/post/165373/
+
+Парсинг HTML в браузерах для смены вёрстки блоков | https://habrahabr.ru/post/165139/
+
+Простейший способ делать закругленные углы любого типа в Internet Explorer 6,7,8 без JavaScript | https://habrahabr.ru/post/164595/
+
+Бенчмарк HTML парсеров | https://habrahabr.ru/post/163979/
+
+Шпаргалка по верстке для больших и маленьких | https://habrahabr.ru/post/163871/
+
+Улучшаем опыт взаимодействия с формами | https://habrahabr.ru/post/163739/
+
+Переход Google Music на HTML5 | https://habrahabr.ru/post/163609/
+
+Всем, всем, всем: время обновлять свой CSS3 | https://habrahabr.ru/post/163429/
+
+Sencha объявила конкурс HTML5 приложений с призовым фондом более 20 000 долларов | https://habrahabr.ru/post/163115/
+
+W3C объявили о завершении работы над спецификациями HTML 5 и Сanvas 2D, а также о начале работы над HTML 5.1 | https://habrahabr.ru/post/162931/
+
+Используете ли Вы tabindex в при вёрстке форм? | https://habrahabr.ru/post/162923/
+
+Большой, длинный, необрезанный (или «Как сделать много текста в домашних условиях») | https://habrahabr.ru/post/162623/
+
+Хотели бы Вы поддержки Web Notifications в браузере Opera (как в Chrome)? | https://habrahabr.ru/post/162601/
+
+Попробуй БЭМ на вкус! | https://habrahabr.ru/post/162385/
+
+Знакомимся с Fabric.js. Часть 1-я | https://habrahabr.ru/post/162367/
+
+Бесплатная англоязычная книга «Programming Windows 8 Apps with HTML, CSS, and JavaScript» | https://habrahabr.ru/company/microsoft/blog/162305/
+
+Подборка инструментов для фронт-энд разработки | https://habrahabr.ru/post/162283/
+
+Бесплатная книга «HTML5. Руководство разработчика» | https://habrahabr.ru/company/piter/blog/162161/
+
+TinyMCE 3.x: Подсчет количества слов и символов при редактировании контента | https://habrahabr.ru/post/162137/
+
+За кадром — Media Query Mario | https://habrahabr.ru/post/159315/
+
+Готов ли ваш сайт к Retina? | https://habrahabr.ru/post/160661/
+
+Веб аудио оффлайн в Safari под iOS 6 | https://habrahabr.ru/post/160465/
+
+Новый поиск в Gmail | https://habrahabr.ru/post/160033/
+
+Подходы к реализации адаптивного меню | https://habrahabr.ru/post/159359/
+
+Как использовать polyfill-библиотеку Webshims | https://habrahabr.ru/post/159325/
+
+Как вы устанавливаете стили элементов если не используете «чужие» библиотеки | https://habrahabr.ru/post/159189/
+
+Базовые стили и полезные CSS-сниппеты | https://habrahabr.ru/post/159101/
+
+CSS анимации на реальном проекте | https://habrahabr.ru/company/odnoklassniki/blog/158917/
+
+Fronteers 2012 — лучшая конференция по клиентской разработке, часть 2 | https://habrahabr.ru/post/158915/
+
+Преимущества произвольных тегов, или как я отказался от HTML разметки | https://habrahabr.ru/post/157383/
+
+Верстка рассылок — что мы имеем? | https://habrahabr.ru/post/157309/
+
+Книга веб-программиста. Секреты профессиональной разработки веб-сайтов | https://habrahabr.ru/company/piter/blog/157025/
+
+Модель строгости | https://habrahabr.ru/post/156083/
+
+Удобный сервис для замены изображений | https://habrahabr.ru/post/155285/
+
+Fronteers 2012 — лучшая конференция по клиентской разработке, часть 1 | https://habrahabr.ru/post/155157/
+
+Красивые чекбоксы и радиокнопки на CSS3 без JavaScript | https://habrahabr.ru/post/154719/
+
+Прекрасная украинская игра Contre Jour портирована на HTML5 | https://habrahabr.ru/post/154217/
+
+Особенности загрузки файлов на HTML5 | https://habrahabr.ru/post/154097/
+
+Пишем редактор карт изображений (html image map) на javascript / html5 / inline SVG | https://habrahabr.ru/post/152731/
+
+Ещё семь фич HTML5, о которых вы могли не знать | https://habrahabr.ru/post/153613/
+
+Интерактивная HTML5-визуализация по мотивам «Lost» | https://habrahabr.ru/post/153529/
+
+Class VS Id что выберите? (Ситуация описана в первом комментарии) | https://habrahabr.ru/post/153409/
+
+CSS принципы | https://habrahabr.ru/post/153057/
+
+Еще один jQuery плагин для верстки «пиксель в пиксель» | https://habrahabr.ru/post/152927/
+
+Отличный плагин для проверки верстки | https://habrahabr.ru/post/152115/
+
+Как улучшить вид 3 старых добрых статей в футере? | https://habrahabr.ru/post/152055/
+
+Анимация средствами HTML+CSS+JS — промо-сайт японского Nissan Note | https://habrahabr.ru/post/151884/
+
+HTML5: Сенсоры для тех, кто не привык ждать | https://habrahabr.ru/company/intel/blog/151742/
+
+Может ли обычный текст поглючить IE? | https://habrahabr.ru/post/151827/
+
+Application Cache API — новые возможности и проблемы | https://habrahabr.ru/post/151815/
+
+Сниппеты для Twitter Bootstrap | https://habrahabr.ru/post/151566/
+
+О практических применениях свойства float | https://habrahabr.ru/post/151287/
+
+Facebook признал, что разработка мобильных приложений на HTML5 была ошибкой | https://habrahabr.ru/post/151337/
+
+CSS слайдер | https://habrahabr.ru/post/150030/
+
+Кроссбраузерный placeholder + fix для Chrome | https://habrahabr.ru/post/150920/
+
+Кастомизация radiobutton без JS | https://habrahabr.ru/post/150760/
+
+Internet Explorer 7-9: выбор инструментов для максимальной поддержки CSS3, HTML5 | https://habrahabr.ru/post/150727/
+
+Вышел HTML5 Boilerplate 4.0.0 | https://habrahabr.ru/post/150447/
+
+HTML5-игры и GodMode: все просто! | https://habrahabr.ru/company/pt/blog/150373/
+
+Простые правила простой вёрстки | https://habrahabr.ru/post/150306/
+
+Манипуляция пикселями на холсте с использованием Javascript | https://habrahabr.ru/post/145816/
+
+Превращаем Хабр в «пятнашки» с помощью Canvas | https://habrahabr.ru/post/150240/
+
+CSS Summit 2012, моя первая онлайн конференция | https://habrahabr.ru/post/150156/
+
+«Див» блоки одинаковой высоты | https://habrahabr.ru/post/148327/
+
+Т-фракталы на JavaScript Canvas | https://habrahabr.ru/post/145801/
+
+Руководство по форматированию CSS | https://habrahabr.ru/post/149986/
+
+Bart Chalkboard Generator | https://habrahabr.ru/post/149606/
+
+HTML5 Audio — состояние дел. Часть 2 | https://habrahabr.ru/post/149518/
+
+Немного огня на чистом CSS (Firefox) | https://habrahabr.ru/post/149392/
+
+Одновременно тянущиеся резиновые колонки | https://habrahabr.ru/post/149382/
+
+Input attribute placeholder | https://habrahabr.ru/post/148945/
+
+Компания Paymentwall представляет альтернативу iTunes и Google Play — Paymentwall Mobile | https://habrahabr.ru/post/148484/
+
+Тренды, возведенные в культ | https://habrahabr.ru/post/148425/
+
+Новое противостояние между WHATWG и W3C: в чьих руках будущее HTML5? | https://habrahabr.ru/post/148406/
+
+Ovation. Таблица аккордов своими руками с помощью JS и HTML5 | https://habrahabr.ru/post/148314/
+
+HTML5 Audio — cостояние дел. Часть 1 | https://habrahabr.ru/post/148368/
+
+Освоение HTML5 тега audio | https://habrahabr.ru/post/148202/
+
+6 примеров, роняющих IE6 | https://habrahabr.ru/post/148185/
+
+Как убрать заглушку на википедии | https://habrahabr.ru/post/147513/
+
+Yeoman.io | https://habrahabr.ru/post/146829/
+
+Foundation 3 | https://habrahabr.ru/post/146811/
+
+JPEG сжатие картинки с альфа-каналом или SVG masks | https://habrahabr.ru/post/146804/
+
+Экосистемный подход к сборке веб-проекта с TeaCSS | https://habrahabr.ru/post/146795/
+
+TeaCSS – очевидный подход к созданию стилей | https://habrahabr.ru/post/146745/
+
+Код, от которого ломается Internet Explorer | https://habrahabr.ru/post/146297/
+
+Создаем сайт с эффектом Parallax, используя Stellar.js | https://habrahabr.ru/post/145772/
+
+HTML5: Доступ к батарее через javascript | https://habrahabr.ru/post/145608/
+
+Mozilla Shumway — open source конвертер SWF в HTML5 | https://habrahabr.ru/post/145558/
+
+Какие типы HTML5-input'ов вы используете? | https://habrahabr.ru/post/145507/
+
+[Перевод] HTML5 Адаптивные изображения | https://habrahabr.ru/post/145376/
+
+Неприятная рамка вокруг кнопки в Opera | https://habrahabr.ru/post/144745/
+
+SASS против LESS | https://habrahabr.ru/post/144309/
+
+Адаптивная верстка: CSS&JS фреймворк Skeleton | https://habrahabr.ru/post/144291/
+
+Самые простые техники адаптивной верстки | https://habrahabr.ru/post/144003/
+
+Разрабатываем нижнее меню на HTML5 | https://habrahabr.ru/post/143944/
+
+Я устал регистрироваться | https://habrahabr.ru/post/143731/
+
+Предварительный просмотр HTML-писем в браузерах и мобильных клиентах | https://habrahabr.ru/company/unisender/blog/143639/
+
+HTML уже не торт?! | https://habrahabr.ru/post/143522/
+
+Отчет с конференции Front Trends 2012 | https://habrahabr.ru/post/143382/
+
+Создание лайтбокса для сенсорного интерфейса на HTML5 | https://habrahabr.ru/post/143211/
+
+Циклическое слайд-шоу на чистом CSS3 | https://habrahabr.ru/post/143025/
+
+Adobe & HTML | https://habrahabr.ru/post/142762/
+
+#BADA55-цвета для веб-дизайна | https://habrahabr.ru/post/142570/
+
+Рисуем карту изображения мышкой | https://habrahabr.ru/post/142419/
+
+Элемент Date Picker стал доступен в Chrome Canary и Chromium | https://habrahabr.ru/post/142271/
+
+Добавляем поддержку тегов HTML5 и Web Fonts для Internet Explorer 8 | https://habrahabr.ru/post/142075/
+
+Угадай фильм по трейлеру | https://habrahabr.ru/post/141988/
+
+«Паскалевская графика на HTML5» или «Что Opera сделала с Rainbow Dash» | https://habrahabr.ru/post/141910/
+
+Карты в браузере без сети | https://habrahabr.ru/post/141707/
+
+Угадай новость | https://habrahabr.ru/post/141683/
+
+Архитектура взаимодействия клиентской и серверной частей Web приложения | https://habrahabr.ru/post/141467/
+
+TeamLab Document Editor на canvas: стирая грани между desktop и online | https://habrahabr.ru/company/teamlab/blog/141434/
+
+Codecademy добавил курсы по HTML и CSS | https://habrahabr.ru/post/141276/
+
+Canvas с аппаратным ускорением в Google Chrome | https://habrahabr.ru/post/141156/
+
+Каким я хочу видеть HTML6 | https://habrahabr.ru/post/140920/
+
+Форма входа и регистрации с помощью HTML5 и CSS3 | https://habrahabr.ru/post/140816/
+
+Как веб-приложение может скачать в кэш 2 ГБ, а вы не заметите | https://habrahabr.ru/post/140677/
+
+Про вычислительную сложность алгоритмов HTML и CSS | https://habrahabr.ru/post/140399/
+
+Новое предложение в W3C/CSS — Flexible Flow Module | https://habrahabr.ru/post/59255/
+
+Подборка CSS3 меню | https://habrahabr.ru/post/140332/
+
+Кроссбраузерные CSS | https://habrahabr.ru/post/139969/
+
+Decoding HTML5 | https://habrahabr.ru/post/139811/
+
+HTML-атрибуты data-* для хранения параметров и получения их в js | https://habrahabr.ru/post/139210/
+
+Игра Survivor (Commodore 64) на html, css и javascript | https://habrahabr.ru/post/139143/
+
+Open Web Device — смартфон на платформе HTML5 | https://habrahabr.ru/post/138977/
+
+Решение проблемы importScripts() в Opera | https://habrahabr.ru/post/138847/
+
+Поддержка атрибута «form» для старых браузеров | https://habrahabr.ru/post/138191/
+
+flotr2 — графики и диаграммы на HTML5 | https://habrahabr.ru/post/137744/
+
+Создание при помощи HTML5 canvas значка ожидания события | https://habrahabr.ru/post/137154/
+
+Чёртова дюжина советов начинающим верстальщикам. Часть вторая | https://habrahabr.ru/post/137049/
+
+Рекомендации по функциям HTML5 | https://habrahabr.ru/post/136951/
+
+Mac OS X Lion воссоздали на HTML5 и CSS3 | https://habrahabr.ru/post/136795/
+
+Миграция flash приложений на html5. Видеоурок первый | https://habrahabr.ru/post/136763/
+
+JavaScript приложение под iPad. Пара советов | https://habrahabr.ru/post/136738/
+
+Чёртова дюжина советов начинающим верстальщикам. Часть первая | https://habrahabr.ru/post/136592/
+
+Всё в деталях | https://habrahabr.ru/post/136345/
+
+Использование HTML5 и JavaScript для разработки приложений под Windows Phone | https://habrahabr.ru/company/microsoft/blog/136158/
+
+Записи HTML5 Camp и еще несколько плюшек | https://habrahabr.ru/company/microsoft/blog/136018/
+
+Opera TV Store: каталог HTML5-приложений для телевизора | https://habrahabr.ru/post/135939/
+
+Демо Nokia Maps 3D (WebGL) | https://habrahabr.ru/post/135793/
+
+Mugeda, анимация на HTML5 | https://habrahabr.ru/post/135658/
+
+Конкурс для разработчиков HTML5-игр (приз $30K) | https://habrahabr.ru/post/135537/
+
+Игры на CANVAS/WebGL (часть вторая) | https://habrahabr.ru/post/134578/
+
+Делаем управляемый закат с помощью CSS3 и javascript | https://habrahabr.ru/post/135267/
+
+Какую технологию вы бы использовали сейчас при написании браузерной игры с элементами РПГ? | https://habrahabr.ru/post/135156/
+
+HTML.next или идеи для HTML6 | https://habrahabr.ru/post/134744/
+
+Как создать визуальную библиотеку изображений с HTML5 Canvas | https://habrahabr.ru/post/134574/
+
+Игры на CANVAS/WebGL | https://habrahabr.ru/post/134580/
+
+HTML5 Camp — как это было | https://habrahabr.ru/company/microsoft/blog/134237/
+
+А какой движок вы используете для создания игр на HTML5? | https://habrahabr.ru/post/133976/
+
+HTML5 Canvas Map — реализация картографического движка | https://habrahabr.ru/post/133638/
+
+Client-side кропалка на canvas | https://habrahabr.ru/post/133362/
+
+Загрузчик изображений и миниатюр. Новые стандарты, старые проблемы | https://habrahabr.ru/post/133351/
+
+HTML5: Web Workers и AJAX | https://habrahabr.ru/post/132785/
+
+Опубликована программа HTML5 Camp | https://habrahabr.ru/company/microsoft/blog/132752/
+
+HTML5-консоль от Google | https://habrahabr.ru/post/132479/
+
+Конкурс на создание HTML5 приложения с призовым фондом $50000 | https://habrahabr.ru/post/131917/
+
+Бди! | https://habrahabr.ru/post/131503/
+
+На парусах HTML5. Как новые технологии меняют современный веб | https://habrahabr.ru/company/microsoft/blog/130741/
+
+Наиболее впечатляющие приложения HTML5 для демонстрации WebGL | https://habrahabr.ru/post/130294/
+
+Создание Color Picker из изображения на HTML5 | https://habrahabr.ru/post/130004/
+
+diveintohtml5 перевозим на app engine | https://habrahabr.ru/post/129914/
+
+SlideShare отказался от Flash в пользу HTML5 | https://habrahabr.ru/post/129299/
+
+ACID3 обновился: IE9+ 100/100, Firefox 100/100 | https://habrahabr.ru/post/128650/
+
+Базовая теория столкновения объектов, спрайтов на Javascript | https://habrahabr.ru/post/128438/
+
+Создание Doodle jump на HTML5 | https://habrahabr.ru/post/128347/
+
+Прототипирование игр с помощью JavaScript и CSS3 | https://habrahabr.ru/post/127641/
+
+Как сделать собственный видео-плеер на HTML5 Video | https://habrahabr.ru/company/microsoft/blog/127295/
+
+Google продвигает HTML5 как игровую платформу | https://habrahabr.ru/post/127293/
+
+Content editable в HTML5 | https://habrahabr.ru/post/126877/
+
+Пишем «рисовалку» для iPhone на HTML5 Canvas | https://habrahabr.ru/post/126432/
+
+W3C опубликовала спецификацию HTML5 для веб-разработчиков | https://habrahabr.ru/post/126063/
+
+Визуализация аудио в HTML5 | https://habrahabr.ru/company/microsoft/blog/125832/
+
+Microsoft добавит в Office 15 поддержку HTML5 и JavaScript | https://habrahabr.ru/post/125672/
+
+HTML5 Drag and Drop загрузка файлов | https://habrahabr.ru/post/125424/
+
+Adobe Edge: редактор анимации HTML5/JavaScript | https://habrahabr.ru/post/125384/
+
+Избегаем распространенных ошибок в HTML5 разметке | https://habrahabr.ru/post/124993/
+
+Бесконечный Mario на HTML5 | https://habrahabr.ru/post/124981/
+
+Pdf.js прошёл первый пиксельный тест | https://habrahabr.ru/post/123501/
+
+Рендеринг PDF с помощью HTML5 и JavaScript (pdf.js) | https://habrahabr.ru/post/122034/
+
+Завершен конкурс HTML5 игр | https://habrahabr.ru/post/119840/
+
+Элемент input в html 5, мультиаплоад | https://habrahabr.ru/post/120370/
+
+Проблемы с HTML5 <Audio> | https://habrahabr.ru/post/119365/
+
+Новый взгляд на online Magic 8 Ball | https://habrahabr.ru/post/118915/
+
+Погружение в HTML5 Test | https://habrahabr.ru/post/118641/
+
+Новости LibCanvas | https://habrahabr.ru/post/118565/
+
+Canvas: пятнадцать минут на пятнашки | https://habrahabr.ru/post/118356/
+
+Погружение в ACID3 | https://habrahabr.ru/post/118076/
+
+Готовим HTML5 видео в VLC и подаём с помощью jPlayer | https://habrahabr.ru/post/118028/
+
+Canvas шаг за шагом: ПОНГ | https://habrahabr.ru/post/116860/
+
+Вебкамеры и ориентационные события | https://habrahabr.ru/post/116102/
+
+HTML5 Boilerplate обновился до версии 1.0 | https://habrahabr.ru/post/115916/
+
+Broadway — GTK+ 3.0 backend для HTML5 | https://habrahabr.ru/post/115831/
+
+HTML5 Camp | https://habrahabr.ru/post/115685/
+
+Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать | https://habrahabr.ru/post/114256/
+
+Индикатор прогресса с помощью HTML5 Canvas | https://habrahabr.ru/post/113782/
+
+html5 device – аудио capture в браузерах | https://habrahabr.ru/post/113547/
+
+Сравнение видеоплееров на HTML5 | https://habrahabr.ru/post/113208/
+
+HTML5 Canvas — создание аркады-скроллера по шагам | https://habrahabr.ru/post/112274/
+
+HTML5 CANVAS шаг за шагом: Изображения | https://habrahabr.ru/post/111385/
+
+CANVAS шаг за шагом: Основы | https://habrahabr.ru/post/111308/
+
+Графический редактор на LibCanvas | https://habrahabr.ru/post/106333/
+
+Canvas-трансформации доступным языком | https://habrahabr.ru/post/104718/
+
+Дворовой бридж — соревнование ИИ (libcanvas) | https://habrahabr.ru/post/103614/
+
+Создание игры на Javascript Canvas | https://habrahabr.ru/post/102010/
+
+«LibCanvas» — фреймворк для работы с Javascript Canvas, запущен сайт + игра «Asteroids» | https://habrahabr.ru/post/101273/
+
+«LibCanvas» — фреймворк для работы с Javascript Canvas, часть третья | https://habrahabr.ru/post/99053/
+
+«LibCanvas» — фреймворк для работы с Javascript Canvas, часть вторая | https://habrahabr.ru/post/98567/
+
+«LibCanvas» — фреймворк для работы с Javascript Canvas | https://habrahabr.ru/post/90339/
+
+ProgressBar — Javascript Canvas2d | https://habrahabr.ru/post/88113/
+
+Javascript Pseudo-3d Game. Stage 2 | https://habrahabr.ru/post/85277/
+
+Javascript Pseudo-3d Game | https://habrahabr.ru/post/78645/
+
+Книга «HTML, скрипты и стили. Наиболее полное руководство» | https://habrahabr.ru/post/44227/
+
+Опубликовано руководство по дизайну Веб 2.0 | https://habrahabr.ru/post/4899/
+

@@ -1,0 +1,1262 @@
+«Здравствуй елка — Новый Год!» или программируем NanoCAD с помощью Visual Basic .NET | https://habrahabr.ru/post/345834/
+
+Не хочешь депозит 6,5? Расчет нормы доходности акций и полной доходности с помощью Moex API и парсера дивидендов | https://habrahabr.ru/post/345696/
+
+Построение RESTful web API на платформе InterSystems — 2 | https://habrahabr.ru/company/intersystems/blog/345532/
+
+Добыча данных в R | https://habrahabr.ru/post/345664/
+
+Как за 10 минут сделать клиент к HTTP API на Swagger | https://habrahabr.ru/company/Voximplant/blog/345148/
+
+REST — это новый SOAP | https://habrahabr.ru/company/mailru/blog/345184/
+
+Подключаем Swagger модуль в Play Framework | https://habrahabr.ru/post/338396/
+
+Доклад — обзор возможностей и архитектуры комет сервера CppComet | https://habrahabr.ru/post/341662/
+
+Простая реализация Token для взаимодействия мобильного приложения с WebAPI | https://habrahabr.ru/post/344902/
+
+«Истина в вине» или пробуем программировать NanoCAD под Linux (MultiCAD.NET API) | https://habrahabr.ru/post/344884/
+
+Нескучный API | https://habrahabr.ru/post/344790/
+
+Две крупнейших CRM — Salesforce и Zoho — сравнение телефонных интеграций | https://habrahabr.ru/company/zadarma/blog/344586/
+
+Создание приложения на Ionic с использованием API | https://habrahabr.ru/post/344474/
+
+GraphQL — новый взгляд на API. Ч.1 | https://habrahabr.ru/post/343872/
+
+Боты на .Net Core для Telegram, Slack и Facebook | https://habrahabr.ru/company/alfa/blog/343846/
+
+Реализация простейшей стратегии инвестирования на базе API MOEX (Московской биржи) | https://habrahabr.ru/post/343688/
+
+Настройка пользовательского интерфейса при установке приложений на nanoCAD Plus 8.5 | https://habrahabr.ru/company/nanosoft/blog/343496/
+
+Нейросеть для определения лиц, встроенная в смартфон | https://habrahabr.ru/post/343810/
+
+«Я слежу за тобой» или как из CADa сделать SCADA (MultiCAD.NET API) | https://habrahabr.ru/post/343772/
+
+API BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/343010/
+
+Как безлимитно* серфить** на смартфоне за 20*** рублей в месяц | https://habrahabr.ru/post/342690/
+
+[Видео] Java Jam: правда о Java в Badoo, реалтайм-кодинг под Vert.x, собственный API и spring-стартеры | https://habrahabr.ru/company/yamoney/blog/343036/
+
+Node.js основа для API c async/await «из коробки» | https://habrahabr.ru/post/342984/
+
+Работа с API КОМПАС-3D → Урок 6 → Построение дуги окружности | https://habrahabr.ru/company/ascon/blog/342032/
+
+«Как баран на новые ворота» или пользовательские «псевдо-3D» объекты в NanoCAD с помощью MultiCAD.NET API | https://habrahabr.ru/post/342680/
+
+Как следить за трендами на GitHub | https://habrahabr.ru/post/342174/
+
+Как сделать Public API, которым будут пользоваться | https://habrahabr.ru/company/odin_ingram_micro/blog/340524/
+
+«Лицо без шрама» или первые шаги в Multicad.NET API 7 (для Nanocad 8.1) | https://habrahabr.ru/post/342186/
+
+Работа с API КОМПАС-3D → Урок 5 → Графические примитивы | https://habrahabr.ru/company/ascon/blog/342030/
+
+Авторизуем ресурсы в REST-сервисе | https://habrahabr.ru/post/342000/
+
+Документируем и тестируем REST API с помощью SpringRestDocs | https://habrahabr.ru/post/341636/
+
+Google MAPs API в android или как работать с картами быстрее | https://habrahabr.ru/post/341548/
+
+Модули вместо микросервисов | https://habrahabr.ru/post/340898/
+
+Видео-звонки в видеоконференцию Zoom с веб страниц | https://habrahabr.ru/company/Voximplant/blog/340746/
+
+Тащим музыку из ВК без публичного music API | https://habrahabr.ru/post/340810/
+
+Как интегрироваться с решениями Cisco по безопасности? Обзор двух десятков API, доступных всем | https://habrahabr.ru/company/cisco/blog/340788/
+
+Введение в Beautiful Capi, инструмент создания С++ оберток для С++ библиотек | https://habrahabr.ru/post/340770/
+
+Microsoft и Amazon представили новую библиотеку для машинного обучения — Gluon | https://habrahabr.ru/company/1cloud/blog/340406/
+
+Новый API Яндекс.Кассы: платежное лего для e-commerce всех мастей | https://habrahabr.ru/company/yamoney/blog/340210/
+
+Панель управления услугами. Часть 1: Введение | https://habrahabr.ru/company/dcmiran/blog/339602/
+
+Весь веб на 60+ FPS: как новый рендерер в Firefox избавился от рывков и подтормаживаний | https://habrahabr.ru/post/340176/
+
+Автоматизация работы с Logs API в AppMetrica. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/340126/
+
+История взлома всех игр в Telegram | https://habrahabr.ru/post/339596/
+
+Как за полтора дня собрать фейсбучного чат-бота из подручных материалов | https://habrahabr.ru/company/skyeng/blog/339918/
+
+Пошаговая инструкция по созданию SMS веб-приложение с использованием SMS API от Infobip | https://habrahabr.ru/company/infobip/blog/339490/
+
+Java XML API: выбираем правильно. StAX: работаем с удовольствием | https://habrahabr.ru/post/339716/
+
+Работаем с долгими API в ASP.NET Core правильно или тонкости переезда на новую платформу | https://habrahabr.ru/post/338582/
+
+Что делать, если Instagram не дал доступ к API? Дополнение | https://habrahabr.ru/post/339620/
+
+API на Swift за пять минут. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/339572/
+
+Вести с полей больших и умных данных: программа конференции SmartData 2017 Piter | https://habrahabr.ru/company/jugru/blog/339398/
+
+Когда время перезагрузки имеет значение или почему IBM использует CRIU на мейнфреймах | https://habrahabr.ru/company/virtuozzo/blog/339286/
+
+Интернет-аукционы, API и конкретный пример, как на этом могут заработать сторонние разработчики | https://habrahabr.ru/post/339210/
+
+Донаты стримерам и настоящие деньги для ненастоящей жизни: подведены итоги QIWI API Contest | https://habrahabr.ru/company/qiwi/blog/339144/
+
+Submit the cool project: свой API-client с одного конфигурационного файла | https://habrahabr.ru/post/339150/
+
+Работа с API КОМПАС-3D → Урок 4 → Основная надпись | https://habrahabr.ru/company/ascon/blog/337288/
+
+Нужны ли вам данные о финансах? | https://habrahabr.ru/company/infoculture/blog/338468/
+
+Создаем «внешний контур» экосистемы с независимыми разработчиками: итоги конкурса Skyeng API | https://habrahabr.ru/company/skyeng/blog/338362/
+
+Как перейти на gRPC, сохранив REST | https://habrahabr.ru/post/337716/
+
+Простой WebScraping на R через API hh.ru | https://habrahabr.ru/post/337684/
+
+Пишем GraphQL API сервер на Yii2 с клиентом на Polymer + Apollo. Часть 4. Валидация. Выводы | https://habrahabr.ru/post/337236/
+
+Простая работа со Steamworks | https://habrahabr.ru/post/336910/
+
+Опыт разработки высоконагруженной системы в рамках HighLoad Cup | https://habrahabr.ru/post/337076/
+
+Пишем GraphQL API сервер на Yii2 с клиентом на Polymer + Apollo. Часть 3. Мутации | https://habrahabr.ru/post/337046/
+
+Пишем GraphQL API сервер на Yii2 с клиентом на Polymer + Apollo. Часть 2. Клиент | https://habrahabr.ru/post/337044/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 2 | https://habrahabr.ru/company/ascon/blog/335110/
+
+Векторная геометрия для разработчиков Revit AP | https://habrahabr.ru/post/336502/
+
+Система управления версиями API Stripe как отдельный инструмент | https://habrahabr.ru/company/payonline/blog/319758/
+
+Пишем GraphQL API сервер на Yii2 с клиентом на Polymer + Apollo. Часть 1. Сервер | https://habrahabr.ru/post/336758/
+
+Создаем Telegram бота на API.AI | https://habrahabr.ru/post/336668/
+
+Декларативное программирование в web-е | https://habrahabr.ru/post/336096/
+
+Первые впечатления о Laravel API Resources | https://habrahabr.ru/post/336432/
+
+OCaml и RESTful JSON API с использованием Eliom | https://habrahabr.ru/post/336336/
+
+Планирование задач в Андроид | https://habrahabr.ru/post/336120/
+
+Angular — Имплементация безопасных запросов к GraphQL API посредством JWT-токенов | https://habrahabr.ru/post/336082/
+
+Свой велосипед для JSON API | https://habrahabr.ru/company/superjob/blog/335910/
+
+Мы не удержались и тоже сделали SDK для мессенджеров: Web, Android и iOS | https://habrahabr.ru/company/Voximplant/blog/336038/
+
+Планетарный ландшафт | https://habrahabr.ru/post/335588/
+
+Скачиваем фото из Instagram с помощью бота Вконтакте | https://habrahabr.ru/post/335828/
+
+Как легально «вскрыть» QIWI Кошелек и прокачать его по полной программе | https://habrahabr.ru/company/qiwi/blog/335742/
+
+Apollo Link. Настраиваем клиент GraphQL «под себя» | https://habrahabr.ru/post/335466/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 1 | https://habrahabr.ru/company/ascon/blog/334814/
+
+Запросы GraphQL без подключения к сети с помощью Redux Offline и Apollo | https://habrahabr.ru/post/335210/
+
+Сравнение REST и GraphQL | https://habrahabr.ru/post/335158/
+
+Основы работы с LongPoll сервером ВКонтакте | https://habrahabr.ru/post/335106/
+
+Хакатон «Budget-Pro»: первый шаг к победе в конкурсе | https://habrahabr.ru/company/infoculture/blog/335066/
+
+Анатомия запросов GraphQL | https://habrahabr.ru/post/335050/
+
+Laracon 2017 — краткий обзор и куча полезных ссылок | https://habrahabr.ru/post/334918/
+
+Размышления о токенах | https://habrahabr.ru/company/alconost/blog/334852/
+
+Информационные сервисы, роботы и торговый софт: применение API в мире финансов | https://habrahabr.ru/company/itinvest/blog/334230/
+
+Покойся с миром, REST. Долгих лет жизни GraphQL | https://habrahabr.ru/post/334182/
+
+Настройка push-нотификаций для своего сервиса | https://habrahabr.ru/company/host-tracker/blog/334038/
+
+Правила хорошего тона для API | https://habrahabr.ru/company/zerotech/blog/333884/
+
+Как перейти от КЛАДР к ФИАС и ничего себе не сломать | https://habrahabr.ru/company/hflabs/blog/333736/
+
+Starbucks следует открыть публичный доступ к своим API | https://habrahabr.ru/company/fondy/blog/322800/
+
+Обмен валюты: фиксируем курс для оффлайна в онлайне. Опыт ВТБ24 | https://habrahabr.ru/company/vtb/blog/333724/
+
+Конкурс Skyeng API — первые участники | https://habrahabr.ru/company/skyeng/blog/333524/
+
+SDN с платформой Red Hat OpenStack: интеграция с OpenDaylight | https://habrahabr.ru/company/icl_services/blog/333526/
+
+Как НЕ накрутить рейтинг на Хабре | https://habrahabr.ru/post/333358/
+
+А был ли взлом «Госуслуг»? Гипотеза Яндекса | https://habrahabr.ru/company/yandex/blog/333404/
+
+Tcl/Tk. Разработка графического пользовательского интерфейса для утилит командной строки | https://habrahabr.ru/post/332924/
+
+Работа с API КОМПАС-3D → Урок 3 → Корректное подключение к КОМПАС | https://habrahabr.ru/company/ascon/blog/332554/
+
+Доставка миллиардов сообщений строго один раз | https://habrahabr.ru/post/332448/
+
+Работа с VPC при помощи пакета ansible-selvpc-modules | https://habrahabr.ru/company/selectel/blog/332260/
+
+Как накрутить рейтинг на Хабре и уйти незамеченным | https://habrahabr.ru/post/332296/
+
+Как мы суслика яблоками кормили или эффективный backend на Go для iOS | https://habrahabr.ru/post/331456/
+
+Регистрация с помощью telegram бота | https://habrahabr.ru/post/331502/
+
+Командная разработка системы на базе MS Dynamics CRM | https://habrahabr.ru/company/otkritie/blog/331680/
+
+Ubuntu для мобильных устройств: посмертный анализ | https://habrahabr.ru/post/331658/
+
+Connect: советы по современному фронтенду | https://habrahabr.ru/post/331548/
+
+Как мы собрали 1500 звезд на Гитхабе, соединив проверенную временем технологию и новый интерфейс | https://habrahabr.ru/post/331514/
+
+Как написать максимально хреновый бэкенд для мобильного приложения | https://habrahabr.ru/post/331120/
+
+Работа с API КОМПАС-3D → Урок 2 → Оформление чертежа | https://habrahabr.ru/company/ascon/blog/330588/
+
+Сокращаем использование Redux кода с помощью React Apollo | https://habrahabr.ru/post/331088/
+
+RESTful API: мы всё делаем неправильно | https://habrahabr.ru/post/331064/
+
+Rich Notifications, utm-метки, webhook и другие нововведения PushAll | https://habrahabr.ru/company/pushall/blog/330922/
+
+RESTForms — REST API для ваших классов InterSystems Caché | https://habrahabr.ru/company/intersystems/blog/330822/
+
+Redux: попытка избавиться от потребности думать во время запросов к API, часть 2 | https://habrahabr.ru/post/330634/
+
+Экосистема: больше участников — больше прибыль! Зачем Skyeng открывает API | https://habrahabr.ru/company/skyeng/blog/330456/
+
+Побеждаем Android Camera2 API с помощью RxJava2 (часть 1) | https://habrahabr.ru/company/badoo/blog/330080/
+
+Redux: попытка избавиться от потребности думать во время запросов к API | https://habrahabr.ru/post/330422/
+
+Выстраиваем процесс разработки и CI pipeline, или Как разработчику стать DevOps для QA | https://habrahabr.ru/post/330366/
+
+Huginn: простая интеграционная платформа | https://habrahabr.ru/company/carprice/blog/330382/
+
+Интеграция телефонии с CRM: на что опираться при самостоятельной настройке | https://habrahabr.ru/company/uis/blog/330396/
+
+Однолинейные схемы в Revit | https://habrahabr.ru/post/330128/
+
+GitHub переходит на GraphQL | https://habrahabr.ru/company/southbridge/blog/329944/
+
+Прокторинг в онлайн-экзаменах: как это работает? | https://habrahabr.ru/company/stepic/blog/329420/
+
+Ещё одна система логирования, теперь на ElasticSearch, Logstash, Kibana и Prometheus | https://habrahabr.ru/company/2gis/blog/329128/
+
+Работа с API КОМПАС-3D → Урок 1 → Основы | https://habrahabr.ru/company/ascon/blog/328088/
+
+Создание Web API приложения с использованием .NET Core + MongoDB .NET Driver | https://habrahabr.ru/company/simbirsoft/blog/328954/
+
+.NET API в веб-разработке: прошлое и будущее | https://habrahabr.ru/company/jugru/blog/328090/
+
+Реализация Frameworx в телекоммуникационном API | https://habrahabr.ru/post/322972/
+
+Пишем скрипт для синхронизации папок с Google Drive, плюс учимся использовать Google Drive API | https://habrahabr.ru/post/328248/
+
+Как использовать HTTP API для отправки электронных писем | https://habrahabr.ru/company/infobip/blog/327594/
+
+Live Typing vs. Evernote: как мы налаяли на слона | https://habrahabr.ru/company/livetyping/blog/327212/
+
+LinqToSolr — используем LINQ для получения данных из Solr | https://habrahabr.ru/post/327002/
+
+Что же такое этот GraphQL? | https://habrahabr.ru/post/326986/
+
+Выбор MQ для высоконагруженного проекта | https://habrahabr.ru/post/326880/
+
+Пишем Telegram-бота на Rust, который будет запускать код на… Rust? | https://habrahabr.ru/post/326830/
+
+Добавили возможность встраивать JS-скрипты в доски. Как мы делаем свою систему управления проектами | https://habrahabr.ru/company/yougile/blog/325608/
+
+Третий сервис лишний: Telegram и сам дружит с телефонией | https://habrahabr.ru/company/uis/blog/326490/
+
+Пишем простого чат-бота для Telegram на PHP | https://habrahabr.ru/company/netologyru/blog/326174/
+
+Будущее API | https://habrahabr.ru/post/326080/
+
+Как ещё быстрее подружить Telegram и телефонию | https://habrahabr.ru/company/Voximplant/blog/326060/
+
+7 вредных советов проектировщику REST API | https://habrahabr.ru/post/325884/
+
+Как подружить Telegram-бота с телефонией | https://habrahabr.ru/company/uis/blog/325648/
+
+Всепротокольный бот на PHP за 10 минут, или как Microsoft Bot Framework и Azure Functions облегчают нам жизнь | https://habrahabr.ru/post/325130/
+
+Создаем бота для Skype. Шаг за шагом, через REST API и на Python | https://habrahabr.ru/post/325456/
+
+Скачиваем историю переписки со всеми пользователями ВКонтакте с помощью Python | https://habrahabr.ru/post/325368/
+
+Подборка полезных инструментов с Product Hunt за март | https://habrahabr.ru/company/everydaytools/blog/324940/
+
+Чтение конфигурационных файлов без проблем | https://habrahabr.ru/post/324868/
+
+Создание кнопки LISP-приложения в nanoCAD | https://habrahabr.ru/company/nanosoft/blog/324784/
+
+Как мы интегрировались с ownCloud и Nextcloud: подводные камни и их преодоление | https://habrahabr.ru/company/teamlab/blog/324498/
+
+Вызов функций Go из других языков | https://habrahabr.ru/company/mailru/blog/324250/
+
+Как искать паттерны в биржевых данных и использовать их в торговле? | https://habrahabr.ru/post/324244/
+
+DIY в телефонии: простые конструкторы на основе API | https://habrahabr.ru/company/uis/blog/324104/
+
+Фича, а не баг. Или как Rambler позволяют подменять отправителя письма | https://habrahabr.ru/post/324046/
+
+Тестирование документированного API с помощью утилиты Dredd от Apiary | https://habrahabr.ru/company/englishdom/blog/322130/
+
+Python на службе у конструктора. Укрощаем API Kompas 3D | https://habrahabr.ru/post/323078/
+
+Perspective API доступен для разработчиков | https://habrahabr.ru/post/322612/
+
+Red Hat приобретает компанию 3scale, разрабатывающую системы управления API, и намерена открыть исходный код продуктов | https://habrahabr.ru/company/icl_services/blog/322362/
+
+Многократное использование кода в микросервисной архитектуре — на примере SPRING BOOT | https://habrahabr.ru/company/piter/blog/322102/
+
+Уведомление о проблемах с вашим сайтом через Телеграм и другие возможности Хосттрекера | https://habrahabr.ru/company/host-tracker/blog/321840/
+
+Практические приемы использования многопоточных вычислений при работе с Revit API | https://habrahabr.ru/post/321816/
+
+Как МТС «затачивает» свои геолокационные сервисы под корпоративных клиентов | https://habrahabr.ru/company/ru_mts/blog/321574/
+
+Подписывание идентификаторов ресурсов и защита API от DDoS-атак | https://habrahabr.ru/company/ruvds/blog/321562/
+
+Встраиваемый компактный веб-сервер Mongoose | https://habrahabr.ru/post/321430/
+
+Стандартный обмен 1С-Битрикс на BASH: Подробный разбор скрипта инкрементальной выгрузки | https://habrahabr.ru/post/321266/
+
+Как создать Viber-бота с помощью PHP | https://habrahabr.ru/post/321246/
+
+Node.js, Express и MongoDB: API за полчаса | https://habrahabr.ru/company/ruvds/blog/321104/
+
+Стандартный обмен 1С-Битрикс на BASH: инкрементальная выгрузка XML файлов каталога import и offers | https://habrahabr.ru/post/321096/
+
+CryptoAPI ядра Linux: разработка и применение российской криптографии | https://habrahabr.ru/post/320966/
+
+Google ReCAPTCHA Invisible или долой дорожные знаки и витрины магазинов | https://habrahabr.ru/post/320664/
+
+Оповестить любой ценой о падении сайта. Практические советы | https://habrahabr.ru/company/host-tracker/blog/320690/
+
+Пишем обертку над API, делаем из нее PIP-пакет, подключаем тестирование от Travis CI и смотрим на лицензии открытого ПО | https://habrahabr.ru/post/320264/
+
+JSON API Мой Склад, самообучение | https://habrahabr.ru/post/320172/
+
+Авторизация в Laravel, через социальные сети (Ulogin). Просто, гибко и эффективно | https://habrahabr.ru/post/320046/
+
+Как открытые API меняют облик сферы платежей | https://habrahabr.ru/company/payonline/blog/312398/
+
+А ваша служба является RESTful? Все что необходимо/обязательно знать про веб службы и REST | https://habrahabr.ru/post/319984/
+
+Windows: Sleep(0.5) | https://habrahabr.ru/post/319402/
+
+Расширение API от Vk для стикеров на Elixir | https://habrahabr.ru/post/318918/
+
+json-api-normalizer: легкий способ подружить Redux и JSON API | https://habrahabr.ru/post/318958/
+
+Платформа для быстрого создания RESTful API | https://habrahabr.ru/post/318724/
+
+Китайские камеры Jovision и их OEM клоны. Мистификация безопасности | https://habrahabr.ru/post/318572/
+
+Простой framework UI ERP c помощью Vaadin | https://habrahabr.ru/post/318496/
+
+Фреймворк для работы с Telegraph API | https://habrahabr.ru/post/318474/
+
+Yii2 RESTful API-интерфейс для AngularJS | https://habrahabr.ru/post/318242/
+
+Финансовый Telegram-бот за 30 минут с Market Data API | https://habrahabr.ru/company/exante/blog/318272/
+
+Как заполнять и подписывать документы автоматически с помощью DocuSign | https://habrahabr.ru/company/livetyping/blog/317904/
+
+Telegram-bot: моя история. Часть вторая | https://habrahabr.ru/post/317280/
+
+Почему не надо писать ботов для Skype | https://habrahabr.ru/post/317178/
+
+Lingvo API: словари ABBYY в облаке Windows Azure | https://habrahabr.ru/company/abbyy/blog/317102/
+
+Telegram-bot: моя история. Часть первая | https://habrahabr.ru/post/316868/
+
+Пример использования Product API от Fetchee для парсинга товаров интернет-магазина | https://habrahabr.ru/company/fetchee/blog/316558/
+
+Лучше в райнтайме, чем никогда: расширяем API JIRA «на лету» | https://habrahabr.ru/post/316124/
+
+Google избавляется от частных клиентов в России | https://habrahabr.ru/post/316008/
+
+Узнаем текущую погоду и прогноз простеньким скриптом на Python'е | https://habrahabr.ru/post/315264/
+
+Простой API gateway на базе PHP и Lumen | https://habrahabr.ru/post/315128/
+
+Qt / QML REST Client | https://habrahabr.ru/post/314984/
+
+Product API от Fetchee: автоматический парсинг товаров интернет-магазинов | https://habrahabr.ru/company/fetchee/blog/314960/
+
+Работа с cab-архивами через IStream | https://habrahabr.ru/post/314832/
+
+Теперь ONLYOFFICE может всё: добавляем плагины в редакторы документов | https://habrahabr.ru/company/teamlab/blog/314716/
+
+Работа с API ВКонтакте на C# | https://habrahabr.ru/post/314518/
+
+Из Firefox 52 удалят API уровня заряда аккумулятора для сохранения приватности пользовательских данных | https://habrahabr.ru/post/314326/
+
+ServiceStack & .NET Core | https://habrahabr.ru/post/314202/
+
+Как развернуть для своей команды архив slack сообщений c синхронизацией и поиском | https://habrahabr.ru/post/313972/
+
+Думы о web-API. часть вторая | https://habrahabr.ru/post/313532/
+
+Telegram боты: в помощь редактору | https://habrahabr.ru/post/312886/
+
+Танцуют ли роботы Tango | https://habrahabr.ru/company/google/blog/310488/
+
+Думы о web-API. часть первая | https://habrahabr.ru/post/312360/
+
+100% онлайн-авиапроездной или Как укротить систему бронирования | https://habrahabr.ru/company/eastbanctech/blog/311862/
+
+Google Tango: управляем роботом в режиме дополненной реальности | https://habrahabr.ru/company/google/blog/309870/
+
+React.js: собираем с нуля изоморфное / универсальное приложение. Часть 3: добавляем авторизацию и обмен данными с API | https://habrahabr.ru/post/310952/
+
+Маячки Eddystone для контроля расхода электроэнергии | https://habrahabr.ru/company/google/blog/309872/
+
+Победители Google Device Lab: исследуем Project Tango | https://habrahabr.ru/company/google/blog/309876/
+
+Номенклатура JavaScript (в контексте Node.js и Web API) | https://habrahabr.ru/post/310662/
+
+Использование Google Cloud Speech API v2 в Asterisk для распознавания русской речи | https://habrahabr.ru/post/310622/
+
+Dynamic DNS на C# и Яндекс.API | https://habrahabr.ru/post/310534/
+
+Screen Space Ambient Occlusion | https://habrahabr.ru/post/310360/
+
+Новый плагин от Stepik.org для IntelliJ IDEA | https://habrahabr.ru/company/stepic/blog/310204/
+
+Google Analytics для телеграм бота | https://habrahabr.ru/post/309616/
+
+SPA — не серебряная пуля, или альтернативный подход к web-разработке. Часть 1 | https://habrahabr.ru/post/309376/
+
+Создаем заглушки сервисов для интеграционного тестирования на Apache Camel (с использованием Scala DSL) | https://habrahabr.ru/company/cit/blog/306792/
+
+Тестирование RESTful API на NodeJS с Mocha и Chai | https://habrahabr.ru/post/308352/
+
+Мультипротокольный бот через Microsoft Bot Connector REST API v3.0 | https://habrahabr.ru/post/308036/
+
+Интеграция Ultima 2C и Ebay. Личный опыт | https://habrahabr.ru/company/ultima/blog/307782/
+
+CodeRush for Roslyn 16.1.6 — Official Release | https://habrahabr.ru/company/devexpress/blog/307604/
+
+Экосистема поддержки. Автоматизация регистрации пользователей средствами Golang | https://habrahabr.ru/post/307344/
+
+Выбираем длинный путь (или прощай MAX_PATH) | https://habrahabr.ru/post/307186/
+
+Server-less API на AWS за 15 минут | https://habrahabr.ru/post/306990/
+
+BILLmanager стал более открытым | https://habrahabr.ru/company/ispsystem/blog/306888/
+
+Open API Ivideon: первые шаги | https://habrahabr.ru/company/ivideon/blog/306714/
+
+Облачное хранилище: новые функции API | https://habrahabr.ru/company/selectel/blog/306560/
+
+API для управления плеерами на сайтах | https://habrahabr.ru/post/306072/
+
+Визуализация статистики ЕВРО-2016 с помощью Python и Inkscape | https://habrahabr.ru/post/305986/
+
+Agile API — возможно ли? | https://habrahabr.ru/company/badoo/blog/305888/
+
+Открытие API для работы с услугами от российского лоукост-хостера (часть 1) | https://habrahabr.ru/company/marosnet/blog/305716/
+
+Организация аутентификации по СМС по примеру Telegram/Viber/WhatsApp | https://habrahabr.ru/post/305694/
+
+Наш опыт создания приложения на микросервисах в сфере рекламных технологий | https://habrahabr.ru/post/305272/
+
+Управление вибрацией с помощью библиотеки jquery.vibrate.js | https://habrahabr.ru/post/304472/
+
+Как bot-to-bot в ближайшее время может заменить API-интерфейсы | https://habrahabr.ru/company/ua-hosting/blog/262539/
+
+Почему за GraphQL будущее | https://habrahabr.ru/post/304182/
+
+Как создать свой VPS-хостинг с нуля и начать на нем зарабатывать? Простой биллинг с WooCommerce | https://habrahabr.ru/company/ruvds/blog/303936/
+
+Работа с OZON (Merchants) API средствами PHP | https://habrahabr.ru/post/303938/
+
+Создаем приложение на JavaScript с помощью React Native | https://habrahabr.ru/company/plarium/blog/303328/
+
+Практики успешной монетизации API на базе Azure API Management | https://habrahabr.ru/company/eastbanctech/blog/303738/
+
+Приложение на API hh.ru. Рекомендуем вакансии по вашему резюме | https://habrahabr.ru/company/hh/blog/303710/
+
+Stepic.org в Telegram: как мы разрабатывали бота и что из этого получилось | https://habrahabr.ru/company/spbau/blog/303478/
+
+REST API на Symfony, FOSRestBundle + GlavwebDatagridBundle | https://habrahabr.ru/post/303366/
+
+Подключение MATLAB к Wolfram Mathematica | https://habrahabr.ru/company/wolfram/blog/303372/
+
+Разработка чат-ботов для Telegram и Slack c помощью PHP | https://habrahabr.ru/company/cleantalk/blog/302870/
+
+API hh.ru. Быстрый старт | https://habrahabr.ru/company/hh/blog/303168/
+
+Генерация C# клиента для Wargaming API | https://habrahabr.ru/post/302950/
+
+Пара слов о REST API на Symfony в связке FOSRestBundle + JMSSerializerBundle | https://habrahabr.ru/post/302902/
+
+Как не дать частым релизам поломать ваше API, или пишем авто-тесты для открытого API и шлем результат в Telegram бот | https://habrahabr.ru/post/302736/
+
+1000 и 1 репост: гайд по кнопке «поделиться» в русских соц сетях | https://habrahabr.ru/post/302656/
+
+Что делать если Instagram не дал доступ к API? | https://habrahabr.ru/post/302150/
+
+Перепись российского и русскоязычного сообщества по открытым данным | https://habrahabr.ru/company/infoculture/blog/302140/
+
+Обработка данных в iPython notebook для задач SEO | https://habrahabr.ru/company/rambler-co/blog/301640/
+
+VirusTotal: проверяем файлы на вирусы в один клик | https://habrahabr.ru/post/301638/
+
+Как создать свой VPS-хостинг с нуля и начать на нем зарабатывать (введение) | https://habrahabr.ru/company/ruvds/blog/301300/
+
+Введение в Roslyn. Использование для разработки инструментов статического анализа | https://habrahabr.ru/company/pvs-studio/blog/301204/
+
+Insider API: поиск трендов и быстрая навигация в текстах соц. и традиционных медиа | https://habrahabr.ru/post/270607/
+
+Google I/O Extended 2016 | https://habrahabr.ru/company/google/blog/283442/
+
+Когда мы написали сотое API мы поняли… | https://habrahabr.ru/post/283092/
+
+Используем недокументированное API сайта captionbot.ai | https://habrahabr.ru/post/283112/
+
+Разговор о MVC и архитектуре веб-приложений | https://habrahabr.ru/post/283096/
+
+На пути к полной типизации с TypeScript, Swashbuckle и AutoRest | https://habrahabr.ru/company/eastbanctech/blog/283042/
+
+MNP и появление API 1.0 — Добровольное поедание кактусов | https://habrahabr.ru/post/282443/
+
+5 стадий API: что мы поняли, написав две версии | https://habrahabr.ru/company/uteam/blog/282385/
+
+RESTful Visual Editor | https://habrahabr.ru/post/281605/
+
+Павел Дуров раздаст $1 000 000 разработчикам Telegram ботов | https://habrahabr.ru/post/282203/
+
+«Подсмотрено» — путь от идеи для VK Mobile Challenge до реального продукта | https://habrahabr.ru/post/282193/
+
+MSLibrary. ПРОСТО: объявляем глобальные переменные с помощью класса singleton, для iOS и не только… | https://habrahabr.ru/post/282169/
+
+Как я опробовал Microsoft Project Oxford + Telegram Bot API | https://habrahabr.ru/post/282125/
+
+Разработка чат-бота для Битрикс24 | https://habrahabr.ru/post/282077/
+
+Разработка JavaScript API: 5 принципов написания встраиваемых скриптов | https://habrahabr.ru/post/281967/
+
+Symfony: обработка запросов в API | https://habrahabr.ru/post/281875/
+
+Пишем бота Slack для получения комментариев из VK на Python | https://habrahabr.ru/post/281597/
+
+Как создать своего бота для Skype. Что не написано в документации | https://habrahabr.ru/post/281296/
+
+Вкратце об OpenID Connect | https://habrahabr.ru/post/281406/
+
+RxSwift шпаргалка по операторам (+ PDF) | https://habrahabr.ru/post/281292/
+
+.Net Client для облака mail.ru | https://habrahabr.ru/post/281360/
+
+Hypermedia — то без чего ваше API не совсем REST | https://habrahabr.ru/company/aligntechnology/blog/281206/
+
+RAML 1.0: обзор нововведений | https://habrahabr.ru/company/selectel/blog/281178/
+
+Опьяняющая сила Composer Plugins | https://habrahabr.ru/post/280744/
+
+Фреймворк Silicon — WebAPI на C++ | https://habrahabr.ru/company/infopulse/blog/280214/
+
+MSLibrary. Создание и компиляция кроссплатформенных (универсальных) библиотек в Xcode | https://habrahabr.ru/post/280286/
+
+Подсказываем реквизиты компаний по данным ФНС РФ и бесплатно ищем дубли | https://habrahabr.ru/company/hflabs/blog/279861/
+
+Отбираем валидные мобильные номера друзей VK на Python | https://habrahabr.ru/post/279803/
+
+MSLibrary. ПРОСТО: удаляем из строки ненужные символы, используя регулярные выражения, для iOS и не только… | https://habrahabr.ru/post/279563/
+
+MSLibrary. Реализация множественного выбора условий с помощью битовых масок, для iOS и не только… | https://habrahabr.ru/post/279441/
+
+Как подружить JMS Serializer и LiipImagineBundle | https://habrahabr.ru/post/279043/
+
+Asterisk и информация о входящих звонках в браузере через Notifications | https://habrahabr.ru/post/278859/
+
+Как можно упростить себе жизнь с помощью Telegram-бота | https://habrahabr.ru/post/278847/
+
+MSLibrary. Захват и верификация телефонных номеров с помощью регулярных выражений, для iOS и не только… Часть 2 | https://habrahabr.ru/post/278359/
+
+MSLibrary. Захват и верификация телефонных номеров с помощью регулярных выражений, для iOS и не только… Часть 1 | https://habrahabr.ru/post/278345/
+
+Symfony как использовать FOSRestBundle | https://habrahabr.ru/post/278123/
+
+IP АТС Askozia и Push уведомления в Telegram | https://habrahabr.ru/post/277743/
+
+API для работы с сервисами: Базовые моменты | https://habrahabr.ru/company/1cloud/blog/277499/
+
+C++ SDK для Amazon Web Services | https://habrahabr.ru/company/infopulse/blog/277711/
+
+Сервис «Kimono» закрывается | https://habrahabr.ru/post/277361/
+
+Вы зарабатываете на информации (зачем нужен API и как его грамотно спроектировать) | https://habrahabr.ru/post/277161/
+
+Обнаружение + Zabbix API под Java | https://habrahabr.ru/company/at_consulting/blog/277027/
+
+Фреймворк для создания ботов для Telegram | https://habrahabr.ru/post/276389/
+
+Пишем собственный шлюз для Thrift API | https://habrahabr.ru/post/269659/
+
+Real-Time игры и кроссдоменное соединение | https://habrahabr.ru/post/276159/
+
+Мобильные приложения Stepic.org под iOS и Android | https://habrahabr.ru/company/stepic/blog/275713/
+
+go-скрипт который делает аудиокнигу из текстового файла используя один из лучших синтезаторов речи — Ivona от Amazon | https://habrahabr.ru/post/275587/
+
+Минимальный HTTP API Endpoint используя Elixir | https://habrahabr.ru/company/ua-hosting/blog/275563/
+
+Spark local mode: обработка больших файлов на обычном ноутбуке | https://habrahabr.ru/post/274705/
+
+Подводные камни использования Excel Power Query и MySQL для автоматизации отчетности | https://habrahabr.ru/post/274615/
+
+Приложение для apps.com на PHP — особенности и грабли | https://habrahabr.ru/post/273485/
+
+Аудио и видео в мессенджере Tox | https://habrahabr.ru/post/272999/
+
+Нестандартный подход к стандартной разработке дополнения (Add-In’а) на C# | https://habrahabr.ru/post/272805/
+
+MultiCAD.NET API: вставка блока с атрибутами | https://habrahabr.ru/company/nanosoft/blog/269203/
+
+JS-DOS API: запускаем DOS в браузере | https://habrahabr.ru/post/271363/
+
+Найди коррупционера. Анализ данных чиновников из проектов Канцелярской сотни (с примерами на R) | https://habrahabr.ru/post/271773/
+
+Особенности создания web-проекта «под ключ» от Startup Makers | https://habrahabr.ru/company/geekbrains/blog/271237/
+
+Внедрение зависимостей в Angular 2 | https://habrahabr.ru/company/piter/blog/270837/
+
+Создание плагина для Intellij IDEA. Заметки и мелкие советы | https://habrahabr.ru/post/270309/
+
+GDG DevFest Нижний Новгород 2015 | https://habrahabr.ru/company/google/blog/270287/
+
+Создание канала с автопостингом в Телеграме без единой строчки кода | https://habrahabr.ru/post/269819/
+
+Api-platform | https://habrahabr.ru/post/269377/
+
+Tekla Structures API (Delphi): подключение и простые примеры | https://habrahabr.ru/post/262333/
+
+Как ABBYY Cloud OCR SDK помогает ловить дешёвые авиабилеты | https://habrahabr.ru/company/abbyy/blog/268721/
+
+Делаем электронного консультанта из чата Post Hawk | https://habrahabr.ru/company/posthawk/blog/268673/
+
+Обновление Google Chrome дополнения, поиск и история разбитая по каналам | https://habrahabr.ru/company/pushall/blog/268671/
+
+Скажи мне, где ты, и я скажу тебе, где ты | https://habrahabr.ru/post/268643/
+
+Офис как Платформа, выпуск №5 — представляем OneNote REST API | https://habrahabr.ru/company/microsoft/blog/268333/
+
+Фантазия на тему WebDAV. Штатный Клиент | https://habrahabr.ru/post/268123/
+
+DaData.ru превращает гуиды в адреса и знает всех пацанов на раёне | https://habrahabr.ru/company/hflabs/blog/267997/
+
+Портирование С++ приложений на платформу nanoCAD, использование страниц свойств проекта | https://habrahabr.ru/company/nanosoft/blog/267593/
+
+PHP и OData: пересаживаемся с велосипедов на технологию от Microsoft | https://habrahabr.ru/post/267811/
+
+Как мы делали Разговор: от прототипа на хакатоне до приложения Яндекса | https://habrahabr.ru/company/yandex/blog/267679/
+
+JSON Web Token и sliding expiration в web-приложении | https://habrahabr.ru/post/267349/
+
+Инкапсуляция интерфейсов. Делаем API в C++ удобным и понятным | https://habrahabr.ru/company/parallels/blog/266999/
+
+Микросервисы без серверов (облачный вариант) | https://habrahabr.ru/company/piter/blog/266703/
+
+Скачивание музыки из VK, используя VK api и Python3 | https://habrahabr.ru/post/266671/
+
+В помощь маркетологу: пишем автоматическую выгрузку данных из Adfox с визуализацией | https://habrahabr.ru/post/266307/
+
+Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах | https://habrahabr.ru/post/265061/
+
+RESTful API — большая ложь | https://habrahabr.ru/post/265845/
+
+gRPC — фреймворк от Google для удалённого вызова процедур | https://habrahabr.ru/company/infopulse/blog/265805/
+
+AMI. Разносторонний Originate. Применение в CTI приложении | https://habrahabr.ru/post/265647/
+
+15 тривиальных фактов о правильной работе с протоколом HTTP | https://habrahabr.ru/company/yandex/blog/265569/
+
+Отправка сообщений через API VK средствами PHP для ленивых | https://habrahabr.ru/post/265563/
+
+Пишем документацию API при помощи RAML | https://habrahabr.ru/company/selectel/blog/265337/
+
+Офис как Платформа, выпуск №4: Uber, PayPal, Boomerang и Evernote как примеры приложений нового типа | https://habrahabr.ru/company/microsoft/blog/264911/
+
+Можно ли полагаться на данные, извлекаемые WMI классами? | https://habrahabr.ru/post/264717/
+
+Технологии ASR и TTS для прикладного программиста: теоретический минимум | https://habrahabr.ru/post/264531/
+
+Написание бота для мессенджера Tox | https://habrahabr.ru/post/264179/
+
+CometQL — api работы с комет сервером по протоколу MySQL | https://habrahabr.ru/company/comet-server/blog/264425/
+
+Ядерные технологии в CAD | https://habrahabr.ru/post/264243/
+
+Авторизация/Регистрация пользователя через Telegram | https://habrahabr.ru/post/264301/
+
+API интерфейс для бесплатной АТС и телефонии | https://habrahabr.ru/company/zadarma/blog/264279/
+
+PHP библиотека для интеграции с API Новой Почты | https://habrahabr.ru/post/264209/
+
+Botan.io — экспериментальный инструмент аналитики ботов Telegram от Яндекса | https://habrahabr.ru/company/yandex/blog/264121/
+
+Социальный логин: cильные стороны | https://habrahabr.ru/post/264093/
+
+Правильный дизайн API: что такое «один», «много», «нуль» и «ничто» | https://habrahabr.ru/company/piter/blog/263895/
+
+SolidWorks API (Delphi): подключение и получение дерева объекта | https://habrahabr.ru/post/263133/
+
+10 лет «на коленке» и вынужденная эволюция — на заметку молодым | https://habrahabr.ru/post/263117/
+
+Киски: Рефакторинг | https://habrahabr.ru/post/262995/
+
+Защита PHP скрипта путям привязки к доменному имени | https://habrahabr.ru/post/263075/
+
+Кэширование в Android, Telegram для групп, улучшение callback, multicast, showlist и другие нововведения | https://habrahabr.ru/company/pushall/blog/262571/
+
+Мечты об идеальном API или как преодолевались сложности в проекте AdHands | https://habrahabr.ru/company/realweb/blog/262573/
+
+Подписываем данные: HMAC на практике в API и Web-формах | https://habrahabr.ru/post/262341/
+
+Что новые версии UEFI-стандартов нам готовят, часть третья, UEFI 2.5 | https://habrahabr.ru/post/260663/
+
+Анализ тональности в социальных медиа на русском языке при помощи RussianSentimentAnalyzer API | https://habrahabr.ru/post/262213/
+
+Tekla Structure API (c#): подключение и получение дерева объектов | https://habrahabr.ru/post/262281/
+
+Мультизагрузка в wysiwyg редакторе | https://habrahabr.ru/post/262195/
+
+О тонкостях приватности в Telegram Bots API: «это не баг, это фича» | https://habrahabr.ru/post/261781/
+
+Push-уведомления через Telegram | https://habrahabr.ru/company/pushall/blog/261531/
+
+Бесплатное распознавание речи от российской компании Стэл | https://habrahabr.ru/company/lexy/blog/260683/
+
+Яндекс-Перевод в терминале через Java | https://habrahabr.ru/post/261259/
+
+Отслеживаем состояние Push-уведомлений и новости проекта + UPD RSS | https://habrahabr.ru/company/pushall/blog/261239/
+
+Как я получил доступ к «бесконечным» лайкам в Instagram и ВК | https://habrahabr.ru/post/261153/
+
+Немного о юнит-тестировании и внешних API в PHP | https://habrahabr.ru/company/ua-hosting/blog/260221/
+
+GrabDuck: интеграция со StackOverflow через StackExchange API | https://habrahabr.ru/company/grabduck/blog/260129/
+
+Миссия AllMyChanges | https://habrahabr.ru/company/allmychanges/blog/260823/
+
+Как мы сделали из JSON язык программирования | https://habrahabr.ru/post/260757/
+
+Как работает API нашего IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/260523/
+
+Анализ отзывов посетителей ресторанов с Meanotek NeuText API | https://habrahabr.ru/company/meanotek/blog/260507/
+
+Геолокация без GPS (часть 2) | https://habrahabr.ru/post/259605/
+
+Что новые версии UEFI-стандартов нам готовят, часть вторая, ACPI 6.0 | https://habrahabr.ru/post/259477/
+
+API ХостТрекера: новые возможности сервиса | https://habrahabr.ru/company/host-tracker/blog/260375/
+
+PushAll может отправлять уведомления в браузер Chrome без установки приложений и дополнений | https://habrahabr.ru/company/pushall/blog/260181/
+
+Что за зверь deployd и почему его можно полюбить с первого клика | https://habrahabr.ru/post/260109/
+
+Подключение любого сайта к PushAll через RSS. Конвертер новостных лент в Push-уведомления | https://habrahabr.ru/company/pushall/blog/259953/
+
+API Медузы: пишем полнотекстовый RSS | https://habrahabr.ru/post/259471/
+
+Вычисляем персонажей гейммастеров в World of Warcraft с помощью Python | https://habrahabr.ru/post/259463/
+
+Что новые версии UEFI-стандартов нам готовят, часть первая, PI 1.4 | https://habrahabr.ru/post/259051/
+
+Как мы учили кассу самообслуживания принимать деньги | https://habrahabr.ru/company/crystal_service/blog/258889/
+
+Вторая версия Evernote SDK для Android: новые возможности Evernote в ваших приложениях | https://habrahabr.ru/company/evernote/blog/259053/
+
+Авторизация для API с помощью токенов | https://habrahabr.ru/post/258903/
+
+Dadata.ru проверяет документы и знает все банки | https://habrahabr.ru/company/hflabs/blog/258367/
+
+Уведомления могут помочь вам узнать вашу аудиторию лучше + новости + СоХабр | https://habrahabr.ru/company/pushall/blog/258659/
+
+API RingCloud, всё только начинается | https://habrahabr.ru/company/ringcloud/blog/258311/
+
+Событийная модель построения проектов и решений Visual Studio для разработчиков | https://habrahabr.ru/post/258057/
+
+Особенности разработки API на Symfony2 | https://habrahabr.ru/post/257991/
+
+Service-Oriented Architecture and Legacy Systems | https://habrahabr.ru/company/geekfamily/blog/257713/
+
+PushAll — платформа для рассылки мгновенных уведомлений | https://habrahabr.ru/company/pushall/blog/257585/
+
+Извлечение упоминаний сущностей и поиск в Textocat API | https://habrahabr.ru/company/textocat/blog/256165/
+
+Автоплатеж изнутри: часть 1. Как работают рекурренты | https://habrahabr.ru/company/payler/blog/256881/
+
+Работа с API почтового сервиса Mandrill | https://habrahabr.ru/post/256055/
+
+Самый худший из когда-либо созданных API | https://habrahabr.ru/post/254795/
+
+Проектирование Web API в 7 шагов | https://habrahabr.ru/company/geekfamily/blog/256495/
+
+Гугл предлагает усилить JSON с помощью Jsonnet | https://habrahabr.ru/company/geekfamily/blog/256363/
+
+Характеристики микросервисов, приложений и систем | https://habrahabr.ru/company/geekfamily/blog/256189/
+
+Управление API и SOA | https://habrahabr.ru/company/geekfamily/blog/256137/
+
+Я тебя по сетям вычислю: используем API крупнейших соцсетей в своих корыстных целях | https://habrahabr.ru/company/xakep/blog/254129/
+
+История появления неофициального приложения what3words для BlackBerry | https://habrahabr.ru/company/what3words/blog/254857/
+
+Импорт данных из YouTube и Vimeo в Google.Docs | https://habrahabr.ru/post/254805/
+
+Генератор документов docx и xlsx | https://habrahabr.ru/post/254537/
+
+Как могла бы выглядеть поддержка JSON в современном С++ | https://habrahabr.ru/company/infopulse/blog/254075/
+
+Автоматизация торговли акциями на ММВБ на примере терминала от Альфа Банка | https://habrahabr.ru/post/253839/
+
+zabbix_sender over HTTP | https://habrahabr.ru/post/253799/
+
+Crowdin: обезболивающее при локализации | https://habrahabr.ru/company/alconost/blog/253739/
+
+Районы… Кварталы… | https://habrahabr.ru/post/253515/
+
+Знакомство с API what3words: основные процедуры и сэмплы | https://habrahabr.ru/company/what3words/blog/253319/
+
+Справочник методов console в JS | https://habrahabr.ru/post/253359/
+
+Туториал по Coub API | https://habrahabr.ru/company/coub/blog/252803/
+
+DaData.ru подсказывает email и определяет город по IP | https://habrahabr.ru/company/hflabs/blog/252753/
+
+3 лучших инструмента для описания RESTful API | https://habrahabr.ru/post/252237/
+
+OpenCage — самый мощный инструмент для геокодирования | https://habrahabr.ru/company/what3words/blog/251497/
+
+Именование сложных действий в REST API | https://habrahabr.ru/post/251193/
+
+API в реальной жизни: Как облегчить задачу создания сайтов для поиска и покупки автозапчастей | https://habrahabr.ru/company/nodasoft/blog/251107/
+
+Авторизация и использование VK.com API в Xamarin.Android | https://habrahabr.ru/post/250167/
+
+How-to: Как API улучшает инфраструктуру хостинг-провайдера | https://habrahabr.ru/company/1cloud/blog/250427/
+
+Vibration API: кому и зачем это нужно? | https://habrahabr.ru/post/250393/
+
+Как обойти основные затруднения при портировании САПР приложений на nanoCAD? | https://habrahabr.ru/company/nanosoft/blog/248753/
+
+Тренды 2015 года: 5 способов поставить API на службу бизнесу | https://habrahabr.ru/company/1cloud/blog/250125/
+
+Разработка микросервисов с использованием Scala, Spray, MongoDB, Docker и Ansible | https://habrahabr.ru/post/250043/
+
+Flickr API в Android App. Авторизация | https://habrahabr.ru/post/249961/
+
+Приглашаем познакомиться с нашей новой страницей для разработчиков | https://habrahabr.ru/company/what3words/blog/249729/
+
+Попытка реинкарнации и вброс в Open-Source Яндекс.Подписок | https://habrahabr.ru/post/249663/
+
+Яндекс убил сервис Подписки | https://habrahabr.ru/post/249635/
+
+Конвертируем адреса what3words в другие пространственные координаты с помощью TWCC | https://habrahabr.ru/company/what3words/blog/249627/
+
+Стриминг аудио в iOS на примере Яндекс.Диск | https://habrahabr.ru/post/249605/
+
+Три слова, способные изменить мир | https://habrahabr.ru/company/what3words/blog/249131/
+
+FutoIn AsyncSteps: концепция и реализация асинхронной бизнес-логики | https://habrahabr.ru/post/249087/
+
+Индикатор раскладки клавиатуры цветом панели задач и заголовка окна в современных версиях Windows при помощи DWM | https://habrahabr.ru/post/248919/
+
+MultiCAD.NET: подсчет суммарной длины отрезков на чертеже | https://habrahabr.ru/company/nanosoft/blog/246511/
+
+Пилотируем облачную MongoDB через VanillaJS или как бесплатно сделать приватный todo-лист за 15 минут | https://habrahabr.ru/post/248605/
+
+Impress Application Server простыми словами | https://habrahabr.ru/post/247543/
+
+BudgetApps — Первый Всероссийский конкурс по открытым финансовым данным | https://habrahabr.ru/company/infoculture/blog/247117/
+
+REST API за пару минут с Lionframe | https://habrahabr.ru/post/246827/
+
+Проектирование RESTful API с помощью Python и Flask | https://habrahabr.ru/post/246699/
+
+Финальное мероприятие WGDC глазами организатора | https://habrahabr.ru/company/wargaming/blog/246365/
+
+Пишем прошивку для Arduino на С++ с REST управлением через последовательный порт и экранчиком | https://habrahabr.ru/post/245043/
+
+eBay API: шаг второй | https://habrahabr.ru/post/244119/
+
+Интерактивное голосовое редактирование текста с помощью новых речевых технологий от Яндекса | https://habrahabr.ru/company/yandex/blog/243813/
+
+Пошаговый обзор: единое MultiCAD.NET приложение в nanoCAD, AutoCAD, ZWCAD | https://habrahabr.ru/company/nanosoft/blog/242497/
+
+JMeter как относительно удобное и практичное средство для тестирования API | https://habrahabr.ru/post/243097/
+
+SpeechMarkup API — превращаем речь в данные | https://habrahabr.ru/post/242823/
+
+DaData.ru вычисляет координаты, а парсер адресов виляет хвостом | https://habrahabr.ru/company/hflabs/blog/242557/
+
+В Rust 1.0 исключений не будет | https://habrahabr.ru/post/242269/
+
+Отслеживаем время отклика NFS сервера с помощю tshark и lua | https://habrahabr.ru/post/241513/
+
+Использование Accept Header для версионирования API | https://habrahabr.ru/post/240817/
+
+Эквалайзер на JavaScript | https://habrahabr.ru/post/240819/
+
+Настройка среды nanoCAD для опытных пользователей | https://habrahabr.ru/company/nanosoft/blog/239533/
+
+Authomatic: python библиотека для аутентификации и авторизации | https://habrahabr.ru/company/theonlypage/blog/239189/
+
+Свежий взгляд на Rust | https://habrahabr.ru/post/239067/
+
+Автоматизация работы в nanoCAD с помощью Visual Basic for Applications | https://habrahabr.ru/post/238867/
+
+Самое массовое заблуждение вокруг REST-архитектуры | https://habrahabr.ru/post/237865/
+
+Как правильно разрабатывать API с поддержкой обратной совместимости. Семинар в Яндексе | https://habrahabr.ru/company/yandex/blog/237459/
+
+Вывод видео с нескольких web-камер на одной странице | https://habrahabr.ru/post/236699/
+
+Azure Api Management | https://habrahabr.ru/company/microsoft/blog/115180/
+
+Интеллектуальные ручки пользовательского объекта в MultiCAD.NET | https://habrahabr.ru/company/nanosoft/blog/234181/
+
+Модуль добавления доменов из Directadmin в DNSmanager | https://habrahabr.ru/post/234941/
+
+Модуль авторизации для сайта, использующий Wargaming.net Public API | https://habrahabr.ru/post/233957/
+
+Автоматизация жизненного цикла приложений с Infobox Jelastic API | https://habrahabr.ru/company/infobox/blog/233011/
+
+Magento шаг за шагом: REST API | https://habrahabr.ru/post/232603/
+
+Пишем Instagram виджет для сайта. Инструкция для любопытных. Готовое решение для всех остальных | https://habrahabr.ru/post/223739/
+
+Аутентификация и авторизация в ASP.NET Web API | https://habrahabr.ru/post/231807/
+
+Поиск оптимальной системы аудио распознавания речи с закрытым исходным кодом, но имеющими открытые API, для возможности интеграции | https://habrahabr.ru/post/231629/
+
+Управление сериализацией объектов в MultiCAD.NET | https://habrahabr.ru/company/nanosoft/blog/229175/
+
+«Гугл» запустил API для мониторинга данных своих облачных сервисов | https://habrahabr.ru/post/230341/
+
+Wargaming Developers Contest: семь главных вопросов о конкурсе | https://habrahabr.ru/company/wargaming/blog/229933/
+
+Wargaming Public API | https://habrahabr.ru/company/wargaming/blog/229475/
+
+О бедном C++ API замолвите словцо! | https://habrahabr.ru/post/229327/
+
+Evernote API: гео-помощник ГдеСейчас | https://habrahabr.ru/company/evernote/blog/228671/
+
+Gmail API | https://habrahabr.ru/post/227649/
+
+Подробное сравнение популярных SMS/Voice сервисов для рассылок и авторизаций | https://habrahabr.ru/company/bankfilter/blog/227305/
+
+Новый REST API Яндекс.Диска и Полигон. А также зачем Диску ещё один API и как мы его делали | https://habrahabr.ru/company/yandex/blog/227377/
+
+Интеграция GoogleDocs с Redmine | https://habrahabr.ru/post/227281/
+
+MultiCAD.NET API: Сохранение неграфической информации в .dwg-чертежах | https://habrahabr.ru/company/nanosoft/blog/226563/
+
+Типичные ошибки API платежных систем | https://habrahabr.ru/post/227021/
+
+Разработка мобильного ПО: проблемы интеграции | https://habrahabr.ru/company/redmadrobot/blog/226827/
+
+Под капотом у Stopwatch | https://habrahabr.ru/post/226279/
+
+Изучаем Three.js.Глава 2: Работа с основными компонентами, из которых состоитThree.js-сцена | https://habrahabr.ru/post/225199/
+
+RESTful API на Yii framework с RBAC и тестами | https://habrahabr.ru/post/224199/
+
+Будущее API в 2014 году | https://habrahabr.ru/company/fabernovel/blog/222549/
+
+Знакомство с программированием DECT-модуля SC14CVMDECT | https://habrahabr.ru/company/promwad/blog/221997/
+
+Удаленный доступ к принятым платежам и статистике проекта по API в Funding.To | https://habrahabr.ru/company/paysto/blog/221707/
+
+Вредные советы от создателей API Яндекс.Карт. Как сделать так, чтобы всё было плохо | https://habrahabr.ru/company/yandex/blog/221139/
+
+Что такое Excel Mashup, и кому это может пригодиться? | https://habrahabr.ru/post/220839/
+
+Сериализация объектов в MultiCAD.NET. Управление совместимостью чертежей и прокси-объектами | https://habrahabr.ru/company/nanosoft/blog/219997/
+
+Teamlab бесплатно раздает API для интеграции офисных приложений и позволяет развернуть их на своем сервере | https://habrahabr.ru/company/teamlab/blog/219761/
+
+Распространение бизнес-модели открытых инноваций с использованием API | https://habrahabr.ru/company/fabernovel/blog/219673/
+
+Как получить данные о 5 млн компаний через LinkedIn REST API или почему в OAuth лучше разрешать использовать Request Token только один раз | https://habrahabr.ru/post/219669/
+
+API на локализацию: нужна ваша помощь | https://habrahabr.ru/company/allcorrect/blog/218929/
+
+Как мы делаем Trello | https://habrahabr.ru/company/alconost/blog/218245/
+
+Открытые интерфейсы: бизнес-стратегия будущего | https://habrahabr.ru/company/fabernovel/blog/218393/
+
+Основы работы со StackExchange API | https://habrahabr.ru/post/217753/
+
+«ZeroMQ».Глава 2: Знакомство с сокетами | https://habrahabr.ru/post/216957/
+
+Собрать миллион «лайков» или очереди задач в Node.js | https://habrahabr.ru/company/likeastore/blog/214781/
+
+Госзатраты: мониторинг госрасходов, API и соревнование для разработчиков | https://habrahabr.ru/company/infoculture/blog/213303/
+
+PayPal: Система Адаптивных платежей API | https://habrahabr.ru/post/212907/
+
+Облачный бекенд для мобильных приложений своими руками. Часть 2 | https://habrahabr.ru/post/212537/
+
+Откровенность API Telegram | https://habrahabr.ru/post/212245/
+
+API First архитектура или рассуждения на тему: толстый сервер против тонкого | https://habrahabr.ru/post/205560/
+
+Использование Audio API для создания вокодера | https://habrahabr.ru/post/211905/
+
+Пробуем Audio API на примере написания визуализатора | https://habrahabr.ru/post/210422/
+
+Подсказки: API для ввода почтовых адресов и ФИО одной строкой | https://habrahabr.ru/company/hflabs/blog/207638/
+
+Смарт-карты для самых маленьких | https://habrahabr.ru/post/210062/
+
+Мобильная разработка для СМИ. Азы, которые надо знать | https://habrahabr.ru/company/eastbanctech/blog/210046/
+
+Вконтакте представили SDK для Android | https://habrahabr.ru/post/209974/
+
+Облачный API для мобильных приложений своими руками. Часть 1 | https://habrahabr.ru/post/209912/
+
+Назад, к технологиям верхнего палеолита, от любимых всеми REST, STATEless, CRUD, CGI, FastСGI и MVC | https://habrahabr.ru/post/204958/
+
+Как я заставил работать API в Yiinitializr Advanced | https://habrahabr.ru/post/208376/
+
+REST API, несколько историй | https://habrahabr.ru/post/207264/
+
+Яндекс.Карты меняют API. Почему нам понадобилось ломать обратную совместимость в кластеризаторе | https://habrahabr.ru/company/yandex/blog/207202/
+
+Работа с таблицами в MultiCAD.NET. Часть 3. Внешние файлы таблиц и обмен данными с Microsoft Excel | https://habrahabr.ru/company/nanosoft/blog/198788/
+
+Google возвращается в суд, чтобы защитить будущее программирования | https://habrahabr.ru/post/205072/
+
+Реализация интернет-видеорекламы | https://habrahabr.ru/post/203216/
+
+API для поиска конгрессменов и выборов от Google на основе открытых проектов | https://habrahabr.ru/company/infoculture/blog/203062/
+
+Meople.Net. Как это работает? | https://habrahabr.ru/company/meople/blog/202218/
+
+Испытание прототипа Медиа-центра iLook | https://habrahabr.ru/company/palitrumlab/blog/196556/
+
+Знакомство с Semantic3 API | https://habrahabr.ru/post/201808/
+
+Java и работа с iCalendar | https://habrahabr.ru/post/201660/
+
+How-to: роботы и API брокерской торговой системы | https://habrahabr.ru/company/itinvest/blog/201702/
+
+API для Российской общественной инициативы. Шаг 2.2: опыт США в работе с данными электронных петиций — API Белого Дома | https://habrahabr.ru/company/infoculture/blog/201376/
+
+Миграция на новую версию API | https://habrahabr.ru/company/hh/blog/201202/
+
+BitTorrent Sync: скорость до 90 мегабайт/с и открытые API | https://habrahabr.ru/post/201072/
+
+Пишем instagram-робота, ставим лайки по тегам | https://habrahabr.ru/post/200472/
+
+Веб-API в стиле RESTful | https://habrahabr.ru/company/piter/blog/200352/
+
+Универсальный автотест, или как мы автоматизировали ручные тесты API в nanoCAD | https://habrahabr.ru/company/nanosoft/blog/199402/
+
+«ZeroMQ».Глава 1: Приступая к работе | https://habrahabr.ru/post/198578/
+
+API консоли Javascript | https://habrahabr.ru/post/198372/
+
+Работа с таблицами в MultiCAD.NET. Часть 1. Создание отчета на основе шаблона | https://habrahabr.ru/company/nanosoft/blog/197794/
+
+Базы знаний. Часть 1 — введение | https://habrahabr.ru/post/195650/
+
+Наши партнеры: история Powerbot | https://habrahabr.ru/company/evernote/blog/197738/
+
+Сессии в API на Yii c возможностью хранения в Redis | https://habrahabr.ru/company/mobidev/blog/197214/
+
+«Boost.Asio C++ Network Programming». Глава 7: Boost.Asio – дополнительные темы | https://habrahabr.ru/post/197392/
+
+«Boost.Asio C++ Network Programming». Глава 6: – другие особенности | https://habrahabr.ru/post/196888/
+
+Частотный генератор фонового шума на HTML5 | https://habrahabr.ru/post/196872/
+
+«Boost.Asio C++ Network Programming». Глава 5: Синхронное против асинхронного | https://habrahabr.ru/post/196354/
+
+AlfabankAPI для работы с Альфа-Клиент On-line | https://habrahabr.ru/post/196362/
+
+Мой опыт знакомства с BrainTree | https://habrahabr.ru/post/196244/
+
+Голосовой поиск «по-русски» | https://habrahabr.ru/post/196158/
+
+«Boost.Asio C++ Network Programming». Глава 4: Клиент и Сервер | https://habrahabr.ru/post/195794/
+
+«Boost.Asio C++ Network Programming». Глава 3: Эхо сервер/клиент | https://habrahabr.ru/post/195386/
+
+«Boost.Asio C++ Network Programming». Глава 2: Основы Boost.Asio. Часть 2 | https://habrahabr.ru/post/195006/
+
+Feedly открыл API для всех RSS-клиентов | https://habrahabr.ru/post/194360/
+
+SendGrid нам друг, но истина дороже | https://habrahabr.ru/post/194098/
+
+2ГИС — отдельно, спамеры — отдельно | https://habrahabr.ru/company/2gis/blog/193580/
+
+RESTful API на Node.js + MongoDB | https://habrahabr.ru/post/193458/
+
+«Boost.Asio C++ Network Programming». Глава 2: Основы Boost.Asio. Часть 1 | https://habrahabr.ru/post/193038/
+
+API сервисы Mangomag.ru | https://habrahabr.ru/company/mangomag/blog/192756/
+
+A1 Pay прекращает предоставлять услуги физлицам | https://habrahabr.ru/post/192322/
+
+«Boost.Asio C++ Network Programming». Глава 1: Приступая к работе с Boost.Asio | https://habrahabr.ru/post/192284/
+
+Используем почтовые индексы в своём приложении во благо | https://habrahabr.ru/post/190122/
+
+Внешний сервис голосования aka like-dislike feature | https://habrahabr.ru/post/189702/
+
+Хипстерский подход или «что делать когда писать пресс-релизы скучно» | https://habrahabr.ru/company/backendless/blog/189586/
+
+Импорт координат из текстового файла в чертёж nanoCAD на MultiCAD .NET API | https://habrahabr.ru/company/nanosoft/blog/188326/
+
+Импорт координат из текстового файла в чертёж nanoCAD на классическом .NET API | https://habrahabr.ru/company/nanosoft/blog/188188/
+
+Работа с API Яндекс.Метрика на Python | https://habrahabr.ru/post/187384/
+
+ConceptNet 5 — настоящий ИИ не за горами | https://habrahabr.ru/post/187310/
+
+Новый API HeadHunter и прекращение поддержки API 1.0 | https://habrahabr.ru/company/hh/blog/186994/
+
+Создание пользовательских примитивов в САПР на MultiCAD .NET API | https://habrahabr.ru/company/nanosoft/blog/184482/
+
+Открыта программа для разработчиков от Thalmic Labs (MYO) | https://habrahabr.ru/post/185556/
+
+В этот особенный день — обновленный API Яндекс.Подписок | https://habrahabr.ru/company/yandex/blog/185198/
+
+Как использовать Fullscreen API | https://habrahabr.ru/post/184926/
+
+Работаем с реляционными данными используя Backend-as-a-Service | https://habrahabr.ru/company/backendless/blog/184598/
+
+Сервис Feedly запустил свой back-end для обработки подписок и отказался от плагина | https://habrahabr.ru/post/183962/
+
+Разработка web API | https://habrahabr.ru/post/181988/
+
+… | https://habrahabr.ru/post/182128/
+
+Feedly открыл API для сторонних RSS-приложений | https://habrahabr.ru/post/182050/
+
+OData контроллеры в .NET MVC | https://habrahabr.ru/post/180375/
+
+Failsafe resource allocator over DHT | https://habrahabr.ru/post/177121/
+
+Админка за 10 минут | https://habrahabr.ru/post/175457/
+
+Как я перестал волноваться и стал отдавать метаданные restful API | https://habrahabr.ru/company/dnevnik_ru/blog/174555/
+
+Немного о Steam Web Api | https://habrahabr.ru/post/172223/
+
+Создание телефона в браузере с использованием WebRTC и сервиса Plivo | https://habrahabr.ru/post/171867/
+
+Знакомство с Rest4Enterprise или REST-сервисы для ленивых | https://habrahabr.ru/post/169871/
+
+Виджет с вакансиями в IT на основе API | https://habrahabr.ru/company/hh/blog/168261/
+
+Elophant: хоть какой-то доступ к API League of Legends | https://habrahabr.ru/post/166465/
+
+Работа с Freebase из .NET | https://habrahabr.ru/post/164709/
+
+5 API которые изменят Веб в 2013 | https://habrahabr.ru/post/164475/
+
+Что такое TCHAR, WCHAR, LPSTR, LPWSTR,LPCTSTR (итд) | https://habrahabr.ru/post/164193/
+
+Погодник на java для начинающих и постарше | https://habrahabr.ru/post/164101/
+
+OpenWeatherMap – как энтузиасты делают погоду | https://habrahabr.ru/post/164045/
+
+Webshell.io — командная строка для интернета | https://habrahabr.ru/post/163787/
+
+История одного mBaaS (cloud backend) сервиса на примере QuickBlox | https://habrahabr.ru/post/163699/
+
+Web API с помощью Django REST framework | https://habrahabr.ru/post/160117/
+
+Новая функциональность в Evernote API — findRelated(): поиск связанных по смыслу заметок | https://habrahabr.ru/company/evernote/blog/159423/
+
+Сервис трекинга Почты России уподобился китайскому коллеге | https://habrahabr.ru/post/158631/
+
+OfficeRecovery представляет веб-API для восстановления поврежденных файлов | https://habrahabr.ru/company/officerecovery/blog/156519/
+
+ObjectScript, разработаем спецификацию совместно: операторы сравнения | https://habrahabr.ru/post/154277/
+
+ObjectScript API, интеграция с C++. Часть 4: подключение пользовательских классов и функций на C++ | https://habrahabr.ru/post/154221/
+
+ObjectScript — новый язык программирования, быстрее чем PHP и JS | https://habrahabr.ru/post/153455/
+
+ObjectScript API, интеграция с C++. Часть 3: подключение модуля с функциями на C++ | https://habrahabr.ru/post/153021/
+
+ObjectScript API, интеграция с C++. Часть 2: выполнение скрипта на OS из C++ | https://habrahabr.ru/post/152813/
+
+ObjectScript API, интеграция с C++. Часть 1: работа со стеком, вызов функций OS из C++ | https://habrahabr.ru/post/152797/
+
+Клиент для SOAP API Почты России на Python | https://habrahabr.ru/post/151152/
+
+Пишем плагин к Intellij IDEA: Регистрация типа файла | https://habrahabr.ru/post/149100/
+
+Взаимодействие процессов (приложений) на WinApi | https://habrahabr.ru/post/149299/
+
+Авторизация на сайтах через Z-Payment (OAuth 2.0) | https://habrahabr.ru/post/149243/
+
+Редактор OAuth 2.0 попросил вычеркнуть своё имя из спецификаций | https://habrahabr.ru/post/148693/
+
+QJson как библиотека для работы с JSON в Qt | https://habrahabr.ru/post/147952/
+
+Syte — движок для персональных сайтов с возможностью интеграции соц.сервисов | https://habrahabr.ru/post/147728/
+
+Первое приложение для Flickr. Авторизация oAuth 2.0, получения списка фотографий | https://habrahabr.ru/post/146777/
+
+OAuth на практике. Аутентификация и авторизация пользователей сайта через популярные социалки | https://habrahabr.ru/post/145988/
+
+Создание пользовательского контрола карты с помощью API Яндекс.Карт 2.0 | https://habrahabr.ru/post/145548/
+
+Обама приказал всем государственным агентствам иметь Web API | https://habrahabr.ru/post/145078/
+
+Использование социального капитала как критерия авторитетности пользователя | https://habrahabr.ru/company/fbk/blog/144365/
+
+HTML5 History API уже сегодня и без ограничений | https://habrahabr.ru/post/144071/
+
+Использование Microsoft Bing Translator API в своем приложении | https://habrahabr.ru/post/143323/
+
+Пишем свой API для сайта с использованием Apache, PHP и MySQL | https://habrahabr.ru/post/143317/
+
+Итоги Evernote Dev Meetup Moscow | https://habrahabr.ru/company/evernote/blog/143167/
+
+Используем Last.fm API с помощью C# | https://habrahabr.ru/post/143143/
+
+Использование API Яндекс.Карт для работы с произвольными подложками | https://habrahabr.ru/post/142930/
+
+Создание RESTful API в Google App Engine на основе Flask | https://habrahabr.ru/post/141747/
+
+Face.com API определяет возраст по фотографии | https://habrahabr.ru/post/141117/
+
+Dojo, JSONP и все-все-все | https://habrahabr.ru/post/140981/
+
+Hurl: Удобный Curl | https://habrahabr.ru/post/140839/
+
+Trafaret — библиотека для проверки и преобразования данных | https://habrahabr.ru/post/139927/
+
+САПёР на полях САПР | https://habrahabr.ru/company/nanosoft/blog/137409/
+
+Ваш ход, товарищ .NET, или опять Реверси под nanoCAD | https://habrahabr.ru/company/nanosoft/blog/135173/
+
+Программирование в nanoCAD: как зарегистрировать свою команду в среде nanoCAD? | https://habrahabr.ru/company/nanosoft/blog/123870/
+
+nanoCAD и сбоку бантик, или программируем «Реверси» под CAD-платформу | https://habrahabr.ru/company/nanosoft/blog/90742/
+
+Первые шаги в мир программирования под nanoCAD | https://habrahabr.ru/company/nanosoft/blog/86970/
+

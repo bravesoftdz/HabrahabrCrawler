@@ -1,0 +1,2376 @@
+Эмпатическое картирование: когда и как им пользоваться? | https://habrahabr.ru/post/345926/
+
+Информационная безопасность банковских безналичных платежей. Часть 2 — Типовая IT-инфраструктура банка | https://habrahabr.ru/post/345194/
+
+Математические модели релейно-импульсных регуляторов | https://habrahabr.ru/post/345714/
+
+Предпроектный анализ | https://habrahabr.ru/company/superjob/blog/345618/
+
+Почему мне кажется, что студентов учат ООП неправильно | https://habrahabr.ru/post/345658/
+
+Технопорно с WebAssembly | https://habrahabr.ru/post/345450/
+
+Enterprise Architecture vs алхимия предприятия. Ключевые мифы | https://habrahabr.ru/post/345424/
+
+Моделирование простейших высказываний | https://habrahabr.ru/post/345328/
+
+Суровая сибирская и казахстанская микроэлектроника 2017 года: Verilog, ASIC и FPGA в Томске, Новосибирске и Астане | https://habrahabr.ru/post/345286/
+
+REST — это новый SOAP | https://habrahabr.ru/company/mailru/blog/345184/
+
+Динамическая идентификация объектов управления | https://habrahabr.ru/post/345198/
+
+Простая объектная СУБД | https://habrahabr.ru/post/345158/
+
+Задача со звездочкой: как мы перекодировали ФИАС в КЛАДР | https://habrahabr.ru/company/hflabs/blog/345012/
+
+Операции над конструкциями | https://habrahabr.ru/post/345134/
+
+Микромодульные центры обработки данных | https://habrahabr.ru/company/vps_house/blog/345050/
+
+Что нужно знать, чтобы стать системным архитектором | https://habrahabr.ru/company/technoserv/blog/344702/
+
+Моделирование активов предприятия при помощи проекционного моделирования | https://habrahabr.ru/post/345032/
+
+HyperRAM: использование микросхемы с интерфейсом памяти HyperBus | https://habrahabr.ru/post/344966/
+
+Одних тестов недостаточно, нужна хорошая архитектура | https://habrahabr.ru/company/mindbox/blog/344862/
+
+Понятие связи в проекционном моделировании | https://habrahabr.ru/post/344936/
+
+Функция, сценарий и аппроксимация событий | https://habrahabr.ru/post/344890/
+
+Две компетенции аналитика | https://habrahabr.ru/post/344856/
+
+Суррогаты | https://habrahabr.ru/post/344844/
+
+Исследование движений глаз: айтрекинг без видеокамеры и иные решения | https://habrahabr.ru/company/neurodatalab/blog/344782/
+
+Проекционное моделирование | https://habrahabr.ru/post/344738/
+
+Как перенести данные с VMware на OpenStack: DRaaS и миграция | https://habrahabr.ru/company/atlex/blog/344620/
+
+Критика 1С | https://habrahabr.ru/post/344616/
+
+Что скрыто за термином моделирование | https://habrahabr.ru/post/343316/
+
+Разработка через приемочные тесты (ATDD). Что это такое, и с чем его едят | https://habrahabr.ru/post/344588/
+
+Как правильно выбрать базу данных для вашей организации | https://habrahabr.ru/company/tmaxsoft/blog/344418/
+
+Скриптуем на WebAssembly, или WebAssembly без Web | https://habrahabr.ru/post/344246/
+
+Торговля под присмотром: пример системы бизнес-мониторинга | https://habrahabr.ru/company/jetinfosystems/blog/344180/
+
+Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном | https://habrahabr.ru/post/344164/
+
+Как рассчитать ROI при внедрении Office 365 с помощью ROI-калькулятора | https://habrahabr.ru/company/roi4cio/blog/343956/
+
+Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome | https://habrahabr.ru/company/ruvds/blog/343888/
+
+Подарки от М.Видео: что под капотом? | https://habrahabr.ru/company/mvideo/blog/343848/
+
+Как мы расписание общественного транспорта в 2ГИС добавляли | https://habrahabr.ru/company/2gis/blog/343924/
+
+AlphaGo Zero совсем на пальцах | https://habrahabr.ru/post/343590/
+
+Архитектура сервиса сбора и классификации объявлений жилья из Вконтакте | https://habrahabr.ru/post/342220/
+
+Идеальный каталог, оптимизация выборки данных | https://habrahabr.ru/post/343776/
+
+DevDay про микросервисы. Запись лучших докладов | https://habrahabr.ru/company/2gis/blog/343628/
+
+Олимпиада «Я — профессионал», трек «Информационная и кибербезопасность» | https://habrahabr.ru/company/spbifmo/blog/343510/
+
+Как перетасовать песни? | https://habrahabr.ru/post/343482/
+
+Повторное использование кода — как это бывает на практике | https://habrahabr.ru/post/343404/
+
+Фактический человеко-месяц | https://habrahabr.ru/company/wrike/blog/343372/
+
+«Punch It, Chewie»: смоделирована работа 56-кубитного квантового компьютера | https://habrahabr.ru/company/it-grad/blog/343204/
+
+«Хочешь быть системным архитектором? Там только свет и чистота…» | https://habrahabr.ru/company/technoserv/blog/343350/
+
+Автоматный практикум — 1. Пример «Дисплей», разработка ОА и УА | https://habrahabr.ru/post/342048/
+
+Отчет c мини-конференции Использование визуальных моделей в ИТ. Проверено опытом | https://habrahabr.ru/company/raiffeisenbank/blog/342890/
+
+Как не положить тысячи серверов с помощью системы централизованного управления конфигурацией на примере CFEngine | https://habrahabr.ru/company/odnoklassniki/blog/342300/
+
+Тестирование ssd P4800X | https://habrahabr.ru/post/342714/
+
+Автоколебания и резонанс | https://habrahabr.ru/post/342654/
+
+Автоматное программирование. Часть 4. Эффективность автоматно-спроектированных программ | https://habrahabr.ru/post/341888/
+
+Микросервисы: деплой, координация и согласованность данных | https://habrahabr.ru/company/2gis/blog/342588/
+
+Сервис-ориентированная архитектура (SOA) | https://habrahabr.ru/company/mailru/blog/342526/
+
+Как быть тимлидом — моя версия | https://habrahabr.ru/company/technoserv/blog/342494/
+
+«Hello, World!» для начинающих литераторов | https://habrahabr.ru/post/342512/
+
+Фундаментальная ошибка системной инженерии | https://habrahabr.ru/post/342496/
+
+Не криптовалютами едиными: наша блокчейн-платформа для факторинга | https://habrahabr.ru/company/mvideo/blog/342462/
+
+Как облачный сервис Кабинет Дримкас справляется со спонтанными нагрузками | https://habrahabr.ru/company/dreamkas/blog/335964/
+
+Погружение в масло: новый подход к иммерсионному охлаждению | https://habrahabr.ru/company/it-grad/blog/341922/
+
+Actors for fun and profit | https://habrahabr.ru/post/342316/
+
+Происхождение объектов учета | https://habrahabr.ru/post/342236/
+
+29 ноября, Харьков: доклад «Analytics in a Gaming Company: Big Data Architecture and Tools» | https://habrahabr.ru/company/plarium/blog/342290/
+
+Роли, их моделирование в ИС | https://habrahabr.ru/post/342188/
+
+IBM Research анонсировали 50-кубитный квантовый компьютер | https://habrahabr.ru/company/it-grad/blog/341920/
+
+Автоматное программирование. Часть 3. Диаграмма состояний и переходов. Продолжение | https://habrahabr.ru/post/332664/
+
+Руководство к созданию собственного когортного отчёта по возвратности | https://habrahabr.ru/post/342108/
+
+Проектируем микросервисную архитектуру с учётом сбоев | https://habrahabr.ru/company/nixsolutions/blog/342058/
+
+Одноканальный разделитель голосов: на пути к продукту (превью) | https://habrahabr.ru/company/neurodatalab/blog/342042/
+
+Во всём виноват PHP OPCache? | https://habrahabr.ru/company/mailru/blog/341912/
+
+Mars IS расширяет функционал платформы операционного анализа SPLUNK | https://habrahabr.ru/company/marsis/blog/342008/
+
+Инфраструктура с Kubernetes как доступная услуга | https://habrahabr.ru/company/flant/blog/341760/
+
+Полное руководство по написанию утилиты для Go | https://habrahabr.ru/company/mailru/blog/341822/
+
+Что мы расскажем на Highload++ 2017 | https://habrahabr.ru/company/mailru/blog/341720/
+
+Tarantool: когда на сервис оповещения миллиона пользователей нужно 500 строк кода | https://habrahabr.ru/company/mailru/blog/341498/
+
+Как мы делаем карту для тех, кто делает карту | https://habrahabr.ru/company/2gis/blog/341508/
+
+Математическая модель динамики финансового рынка | https://habrahabr.ru/post/341268/
+
+Подключение удаленного СОМ контроллера к USB порту компьютера через несогласованные линии | https://habrahabr.ru/post/341172/
+
+Архитектура хранения и отдачи фотографий в Badoo | https://habrahabr.ru/company/oleg-bunin/blog/340976/
+
+Реализация HFT роботов на устройствах CEPappliance | https://habrahabr.ru/post/341084/
+
+Краулер для краулера | https://habrahabr.ru/post/340994/
+
+Анализ требований | https://habrahabr.ru/post/340956/
+
+Модули вместо микросервисов | https://habrahabr.ru/post/340898/
+
+Как мы Raiffeisen Online создавали… | https://habrahabr.ru/company/raiffeisenbank/blog/340510/
+
+Реализация proxy-сервера на интеграционной шине | https://habrahabr.ru/post/340754/
+
+Большие данные и машинное обучение: новые возможности для медицины | https://habrahabr.ru/company/spbifmo/blog/340668/
+
+Определение устойчивости систем автоматического управления промышленными роботами | https://habrahabr.ru/post/340554/
+
+SALI — это Вам ~ язык программирования | https://habrahabr.ru/post/340464/
+
+Поиск и исправление багов в исходниках PHP | https://habrahabr.ru/company/mailru/blog/340242/
+
+Вечные студенты: когда программирование — это постоянная «учеба» | https://habrahabr.ru/company/spbifmo/blog/340294/
+
+Айтрекинг: доступные решения и их особенности | https://habrahabr.ru/company/neurodatalab/blog/339424/
+
+Fujitsu построит суперкомпьютер для исследования искусственного интеллекта | https://habrahabr.ru/company/vasexperts/blog/338484/
+
+Реализация вебхуков на примере взаимодействия сторонних сервисов с онлайн-кассами | https://habrahabr.ru/company/dreamkas/blog/332798/
+
+Панель управления услугами. Часть 1: Введение | https://habrahabr.ru/company/dcmiran/blog/339602/
+
+Почему DataScientist-ы не используют ошибки первого и второго рода | https://habrahabr.ru/post/340048/
+
+Что такое DFD (диаграммы потоков данных) | https://habrahabr.ru/company/trinion/blog/340064/
+
+Джозеф «Лик» Ликлайдер: «Межгалактическая компьютерная сеть» (1963 год) | https://habrahabr.ru/post/338092/
+
+SuperJob Meetup. Системный бизнес-анализ. Прямая трансляция | https://habrahabr.ru/company/superjob/blog/339942/
+
+Такты для разработчиков | https://habrahabr.ru/company/mailru/blog/339688/
+
+GoToChain: как школьники блокчейн в деревне писали | https://habrahabr.ru/company/goto/blog/339796/
+
+Моделирование объектов, функций и операций. Мереологические отношения между объектами данного типа | https://habrahabr.ru/post/339788/
+
+Сравнение tick-to-trade задержек CEPappliance и Solarflare TCPDirect | https://habrahabr.ru/post/339702/
+
+Платформа обмена знаниями и управления авторскими правами. Посмотрим на госзаказ? | https://habrahabr.ru/post/339696/
+
+Про безопасность банкоматов и разработку охранного извещателя (продолжение) | https://habrahabr.ru/post/339188/
+
+Принцип единственной ответственности: фундамент декомпозиции | https://habrahabr.ru/post/338064/
+
+Вести с полей больших и умных данных: программа конференции SmartData 2017 Piter | https://habrahabr.ru/company/jugru/blog/339398/
+
+Единый репозиторий для управления Enterprise Architecture | https://habrahabr.ru/company/raiffeisenbank/blog/339402/
+
+Тестирование в Openshift: Интеграция с Openstack | https://habrahabr.ru/post/339474/
+
+Участникам чемпионата RAIF стали доступны бизнес-данные «М.Видео» | https://habrahabr.ru/company/jetinfosystems/blog/339226/
+
+Аналитика в госсекторе: особенности больших систем хранения данных | https://habrahabr.ru/post/338908/
+
+Моделирование смешанных схем на System Verilog | https://habrahabr.ru/post/338922/
+
+DPI-дайджест: ИБ, виртуализация и регулирование | https://habrahabr.ru/company/vasexperts/blog/338862/
+
+Анатомия распределённых бизнес-процессов: Oracle SOA и BPM | https://habrahabr.ru/company/jetinfosystems/blog/338786/
+
+Как мы банкоматы от подрыва спасали | https://habrahabr.ru/post/338726/
+
+Суперкомпьютер Cray XC40 построит карту нейронов | https://habrahabr.ru/company/it-grad/blog/338618/
+
+Ускоряем разработку с помощью интерактивных блоксхем | https://habrahabr.ru/post/338524/
+
+Квантовый компьютер IBM научили моделировать сложные химические элементы | https://habrahabr.ru/company/it-grad/blog/338616/
+
+Первый суперкомпьютер DGX-1 на базе Tesla V100 применят в медицине | https://habrahabr.ru/company/it-grad/blog/338212/
+
+Наша методика расчета стека печатных плат | https://habrahabr.ru/company/yadro/blog/338382/
+
+Superjob IT-meetup. Системный бизнес-анализ | https://habrahabr.ru/company/superjob/blog/338262/
+
+OO VS FP | https://habrahabr.ru/post/338136/
+
+«Паттерны» функционального программирования | https://habrahabr.ru/post/337880/
+
+Подход к разделению схем (пользователей) при проектировании OLTP баз данных | https://habrahabr.ru/post/337994/
+
+Обмен информацией о кибер-угрозах в реальном времени: новая платформа от ServiceNow | https://habrahabr.ru/company/it-guild/blog/337826/
+
+Китай сделал новый ход в гонке суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/337898/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 7. Передача требований в производство. Заключение | https://habrahabr.ru/post/337802/
+
+Миграция схемы данных без головной боли: идемпотентность и конвергентность для DDL-скриптов | https://habrahabr.ru/post/337816/
+
+От Торонто до Томска: подведение итогов и планирование будущих семинаров по микроэлектронике в России | https://habrahabr.ru/post/337702/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 6. Поведение системы. Совершенстваоние требований | https://habrahabr.ru/post/337678/
+
+Архитектурная пирамида приложения | https://habrahabr.ru/post/336496/
+
+AMD готовится потеснить Intel на рынке серверных решений | https://habrahabr.ru/company/it-grad/blog/337630/
+
+Как воскресить Ягуара за тысячу часов? | https://habrahabr.ru/post/337566/
+
+Microservice Architecture — сдвиг мотива на цель | https://habrahabr.ru/post/337526/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 5. Сущности предметной области и немного о стратегиях | https://habrahabr.ru/post/337400/
+
+«Дела осадные»: Как компании построить надежную крепость для защиты облака | https://habrahabr.ru/company/1cloud/blog/337428/
+
+Новый курс «Проектирование высоконагруженных систем» в Технополисе | https://habrahabr.ru/company/mailru/blog/337402/
+
+Google Titan — стали известны новые подробности о чипе | https://habrahabr.ru/company/1cloud/blog/336730/
+
+Звоним бесплатно, используя блокчейн-сервис ENUMER | https://habrahabr.ru/company/emercoin/blog/337034/
+
+Математическое моделирование транспортных потоков | https://habrahabr.ru/post/337310/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 4. Бизнес процессы, автоматизируемые системой | https://habrahabr.ru/post/337228/
+
+Планировщик ввода / вывода BFQ лучше | https://habrahabr.ru/post/337102/
+
+Идеальная ОС: переосмысление операционных систем для десктопа | https://habrahabr.ru/post/337202/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 3. Функции системы и Границы проекта | https://habrahabr.ru/post/336950/
+
+Как узнать свой внешний IP из программы | https://habrahabr.ru/company/emercoin/blog/335458/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 6. Многомерность | https://habrahabr.ru/post/336818/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 1. Вводная | https://habrahabr.ru/post/336694/
+
+Работа с параметрами CST из Matlab | https://habrahabr.ru/post/336396/
+
+MongoDB на вырост | https://habrahabr.ru/post/335698/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 5. Новые измерения | https://habrahabr.ru/post/336506/
+
+Знай свой инструмент: Event Loop в libuv | https://habrahabr.ru/post/336498/
+
+Случайный лес vs нейросети: кто лучше справится с задачей распознавания пола в речи (ч.2) | https://habrahabr.ru/company/neurodatalab/blog/335804/
+
+Отчетность в 1С: Система Компоновки Данных (СКД), идея и архитектура | https://habrahabr.ru/company/1c/blog/336258/
+
+Типы моделей | https://habrahabr.ru/post/336272/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 4. Как облегчить жизнь | https://habrahabr.ru/post/336230/
+
+Практика с dapp. Часть 1: Сборка простых приложений | https://habrahabr.ru/company/flant/blog/336212/
+
+Управление памятью в Python | https://habrahabr.ru/company/mailru/blog/336156/
+
+Plasma-протокол для чайников | https://habrahabr.ru/post/336122/
+
+Следущие шаги в черной магии процессоростроения после того, как вы освоили Харрис & Харрис | https://habrahabr.ru/post/336116/
+
+Скажи «нет» монолитности: как мы делали CPA-платформу | https://habrahabr.ru/company/jetinfosystems/blog/336022/
+
+Борьба с хардкодами при помощи статических анализаторов С# | https://habrahabr.ru/post/335792/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 3. Вычисления и валидация | https://habrahabr.ru/post/336114/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 3 | https://habrahabr.ru/post/336026/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 2 | https://habrahabr.ru/post/335924/
+
+Двойное затмение! Или почему Карбондейл, штат Иллинойс, является особенным | https://habrahabr.ru/company/wolfram/blog/335936/
+
+Готовьтесь к полному солнечному затмению 2017 года | https://habrahabr.ru/company/wolfram/blog/335934/
+
+MIPSfpga – практический опыт | https://habrahabr.ru/post/335848/
+
+О качестве требований в ИТ проектах, начистоту (с позиции команды разработки). Часть 1 | https://habrahabr.ru/post/335830/
+
+BIM: как мы строим строителей на стройке | https://habrahabr.ru/company/croc/blog/335808/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 2. Совершенствуем результат | https://habrahabr.ru/post/335788/
+
+Блокчейн как учебная дисциплина: магистерская программа Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/335734/
+
+Приемы построения корпоративных систем бюджетирования | https://habrahabr.ru/post/335720/
+
+Введение в разработку умных контрактов Ethereum | https://habrahabr.ru/post/335710/
+
+Coco Framework — блокчейн по-крупному | https://habrahabr.ru/company/intel/blog/335658/
+
+Чат-бот своими руками: история одного велосипеда | https://habrahabr.ru/company/hh/blog/335574/
+
+10 шагов по решению задач в программировании | https://habrahabr.ru/company/nixsolutions/blog/335666/
+
+Немного про «ашипки» в программном обеспечении и помощь теории конечного автомата | https://habrahabr.ru/post/335544/
+
+Разворачиваем Emercoin testnet и получаем много бесплатных монет | https://habrahabr.ru/company/emercoin/blog/335338/
+
+Объединяем акторов и SEDA-подход: зачем и как? | https://habrahabr.ru/post/335304/
+
+CNCF предложила бесплатное облако Open Source-проектам для DevOps/микросервисов | https://habrahabr.ru/company/flant/blog/335218/
+
+Что может и чего не может нейросеть: пятиминутный гид для новичков | https://habrahabr.ru/company/neurodatalab/blog/335238/
+
+Игра с номерами: как алгоритмическая торговля изменит сферу финансов | https://habrahabr.ru/company/itinvest/blog/335230/
+
+Visual Plugin Pack в OBIEE: с чем его едят и как готовят | https://habrahabr.ru/company/jetinfosystems/blog/335082/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 1. Приступаем | https://habrahabr.ru/post/334356/
+
+Red Architecture — красная кнопка помощи для сложных и запутанных систем — часть 3 (многопоточность нам в помощь) | https://habrahabr.ru/post/334840/
+
+Знакомство с Университетом ИТМО: дайджест практических работ | https://habrahabr.ru/company/spbifmo/blog/334522/
+
+Red Architecture — красная кнопка помощи для сложных и запутанных систем — часть 2 (пример с миллиардом ячеек) | https://habrahabr.ru/post/334204/
+
+Разбираемся с копированием и клонированием | https://habrahabr.ru/company/mailru/blog/334176/
+
+Сервер VESNIN: первые тесты дисковой подсистемы | https://habrahabr.ru/company/yadro/blog/334260/
+
+XBRL: просто о сложном − Глава 5. Открывая новые измерения | https://habrahabr.ru/post/334252/
+
+Что нового в nginx? | https://habrahabr.ru/company/oleg-bunin/blog/334194/
+
+Есть ли альтернатива MS Windows, IE и CSP при доступе в личные кабинеты порталов Госзакупок, ФНС России и Госуслуг | https://habrahabr.ru/post/334162/
+
+Приглашаем на Tarantool Meetup 10 августа | https://habrahabr.ru/company/mailru/blog/334150/
+
+Синглтоны и общие экземпляры | https://habrahabr.ru/company/mailru/blog/334078/
+
+Случайный лес vs нейросети: кто лучше справится с задачей распознавания пола в речи (ч.1) | https://habrahabr.ru/company/neurodatalab/blog/334136/
+
+Как мы в 1С: Предприятии работаем с моделями данных (или «Почему мы не работаем с таблицами?») | https://habrahabr.ru/company/1c/blog/334050/
+
+TamTam: как мы делали новый мессенджер | https://habrahabr.ru/company/mailru/blog/333610/
+
+XBRL: просто о сложном − Глава 4. Отчет XBRL | https://habrahabr.ru/post/333896/
+
+Поднимаем Linux на MIPSfpga и ПЛИС Altera | https://habrahabr.ru/post/333920/
+
+XBRL: просто о сложном − Глава 3. Анатомия таксономии | https://habrahabr.ru/post/333738/
+
+О дизайне в мобильных приложениях (глазами, умом и сердцем разработчика) | https://habrahabr.ru/post/333812/
+
+VAX — инструмент для визуального программирования, или как написать SQL мышкой | https://habrahabr.ru/post/333750/
+
+Как перейти от КЛАДР к ФИАС и ничего себе не сломать | https://habrahabr.ru/company/hflabs/blog/333736/
+
+Особенности национальной SMS-авторизации | https://habrahabr.ru/post/333558/
+
+Текущая активность вокруг MIPSfpga и не только | https://habrahabr.ru/post/333722/
+
+XBRL: просто о сложном − Глава 2. Что такое XBRL? | https://habrahabr.ru/post/333656/
+
+XBRL: Просто о сложном − Глава 1. Введение | https://habrahabr.ru/post/333636/
+
+Гибридный куб памяти (HMC): что это такое и как его подключить к FPGA | https://habrahabr.ru/post/333556/
+
+«Как это работает»: Классификация ЦОД Tier | https://habrahabr.ru/company/it-grad/blog/332864/
+
+Прочитайте код своего продукта. Весь | https://habrahabr.ru/company/infopulse/blog/333488/
+
+Тестирование в Openshift: Автоматизированное тестирование | https://habrahabr.ru/post/333014/
+
+Тестирование в Openshift: Внутреннее устройство кластера | https://habrahabr.ru/post/333012/
+
+Тестирование в Openshift: Введение | https://habrahabr.ru/post/332994/
+
+Агрегация интернет-каналов через операторов сотовой связи | https://habrahabr.ru/company/mailru/blog/332950/
+
+Запись с 1 млн нейронов: новые планы DARPA | https://habrahabr.ru/company/it-grad/blog/332828/
+
+Проблема непрерывной защиты веб-приложений. Взгляд со стороны исследователей и эксплуатантов. Часть 2 | https://habrahabr.ru/company/solarsecurity/blog/332846/
+
+Исследование устойчивости национальных сегментов сети | https://habrahabr.ru/company/qrator/blog/332844/
+
+Как запутать аналитика — 4. Вероятность и точность | https://habrahabr.ru/post/332668/
+
+Тандем офисной и мобильной телефонии. Как мы разрабатывали FMC | https://habrahabr.ru/company/mtt/blog/332644/
+
+Вещи, которые мне надо было знать прежде, чем создавать систему с очередью | https://habrahabr.ru/post/332634/
+
+Kubernetes & production — быть или не быть? | https://habrahabr.ru/post/332108/
+
+Автоматное программирование. Часть 2. Диаграмма состояний и переходов | https://habrahabr.ru/post/332508/
+
+Как запутать аналитика. Часть третья. Глаголы и числительные | https://habrahabr.ru/post/332506/
+
+Что, если выкинуть все лишнее из базы в распределенный кэш – наш опыт использования Hazelcast | https://habrahabr.ru/company/yamoney/blog/332462/
+
+Доставка миллиардов сообщений строго один раз | https://habrahabr.ru/post/332448/
+
+AMD Strikes Back: Доля AMD на рынке CPU выросла до 31% | https://habrahabr.ru/company/it-grad/blog/332394/
+
+Проблема непрерывной защиты веб-приложений. Взгляд со стороны исследователей и эксплуатантов | https://habrahabr.ru/company/solarsecurity/blog/331786/
+
+Как мы унифицируем аналитическую деятельность в CUSTIS | https://habrahabr.ru/company/custis/blog/332018/
+
+Как запутать аналитика. Часть вторая: что такое моделирование предметной области? | https://habrahabr.ru/post/332064/
+
+Повышаем качество данных с Oracle Enterprise Data Quality | https://habrahabr.ru/company/jetinfosystems/blog/332024/
+
+Как создать альтернативу Google Диск и Dropbox за 3700 часов | https://habrahabr.ru/company/lanit/blog/331912/
+
+5 этапов разработки микросервиса | https://habrahabr.ru/post/331674/
+
+Как запутать аналитика. Часть первая | https://habrahabr.ru/post/331882/
+
+Альтернативы блокчейну для ведения защищённых реестров | https://habrahabr.ru/post/331706/
+
+История одного приложения: мобильное «1С: Управление нашей фирмой» | https://habrahabr.ru/company/1c/blog/331644/
+
+Зачем нужен Kubernetes и почему он больше, чем PaaS? | https://habrahabr.ru/company/flant/blog/327338/
+
+Рассмотрим Kotlin повнимательнее | https://habrahabr.ru/company/mailru/blog/331442/
+
+Это вопрос должен решать архитектор. Или нет? | https://habrahabr.ru/post/331104/
+
+Об использовании видеокамер с распознаванием символов на низкопроизводительных вычислительных устройствах | https://habrahabr.ru/post/331226/
+
+Хакеры использовали функцию CPU Intel Serial-over-LAN для обхода фаервола | https://habrahabr.ru/company/it-grad/blog/330572/
+
+Как масштабировать биткойн-блокчейн | https://habrahabr.ru/company/bitfury/blog/330726/
+
+Вы — не Google | https://habrahabr.ru/company/infopulse/blog/330708/
+
+Диалектика нейронного машинного перевода | https://habrahabr.ru/post/330654/
+
+Задай вопрос разработчикам облачных сервисов Mail.Ru Group | https://habrahabr.ru/company/mailru/blog/330348/
+
+MySQL 8, Postgres NoSQL, Tarantool Винил, CockroachDB, ClickHouse, и все-же, почему Uber ушел от Postgresql? | https://habrahabr.ru/company/devconf/blog/330386/
+
+Понятия: множество, тип, атрибут | https://habrahabr.ru/post/330196/
+
+[обновлено] Как нагрузочное тестирование процессинга обошлось нам в €157 000 и почему никого не уволили | https://habrahabr.ru/company/yamoney/blog/329926/
+
+Лекции Технопарка. Базы данных (весна 2017) | https://habrahabr.ru/company/mailru/blog/329928/
+
+Самые интересные доклады с конференции Analyst Days 2017 | https://habrahabr.ru/company/nixsolutions/blog/329932/
+
+Решение проблем организации бизнес-логики в PHP или как пойти своим путем | https://habrahabr.ru/post/282253/
+
+Анализ изменений в игре | https://habrahabr.ru/company/playrix/blog/329910/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 3 | https://habrahabr.ru/post/329854/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 2 | https://habrahabr.ru/post/329852/
+
+ИТ-конференция «Продвижение»: суббота с пользой | https://habrahabr.ru/company/efs/blog/329824/
+
+Портирование MIPSfpga на другие платы и интеграция периферии в систему. Часть 1 | https://habrahabr.ru/post/329808/
+
+Краткая история случайных чисел | https://habrahabr.ru/company/infopulse/blog/329778/
+
+Онлайн курс «Функциональная безопасность компьютерных систем» | https://habrahabr.ru/post/329598/
+
+Моделирование конструкций. Требования к моделлеру | https://habrahabr.ru/post/329576/
+
+Mobile Dimension разработал «планшет для консультантов торгового зала» по заказу М.Видео | https://habrahabr.ru/company/mobile_dimension/blog/329566/
+
+О дженериках в PHP и о том, зачем они нам нужны | https://habrahabr.ru/company/mailru/blog/329494/
+
+Потоки выполнения и PHP | https://habrahabr.ru/company/mailru/blog/329446/
+
+10 способов достижения HighLoad'а и BigData на ровном месте | https://habrahabr.ru/company/oleg-bunin/blog/329222/
+
+Упущенные возможности BigData | https://habrahabr.ru/post/329390/
+
+Как с помощью руководства пользователя повысить качество информационной системы | https://habrahabr.ru/company/lanit/blog/329358/
+
+zetcd от CoreOS: Заменяя ZooKeeper на… хранилище etcd | https://habrahabr.ru/company/flant/blog/329224/
+
+ArcaOS 5.0 — новая версия OS/2 стала доступна широкой публике | https://habrahabr.ru/company/vasexperts/blog/329200/
+
+Выбираем СУБД для хранения временных рядов | https://habrahabr.ru/company/oleg-bunin/blog/329062/
+
+Вы неверно измеряете загрузку процессора | https://habrahabr.ru/company/infopulse/blog/329206/
+
+[Санкт-Петербург] Андрей Ершов — CRDT. Бесконфликтная синхронизация данных | https://habrahabr.ru/company/jugru/blog/329148/
+
+Что нужно учесть при проектировании системы, чтобы не было мучительно больно? | https://habrahabr.ru/post/329076/
+
+Архитектура клиентского приложения (механизмы структуризации) | https://habrahabr.ru/company/larian/blog/329032/
+
+Тестируем облачные платформы из Топ-3 | https://habrahabr.ru/post/328916/
+
+Анонимные данные бизнес-логики: отделение от персональных данных | https://habrahabr.ru/post/328934/
+
+Scheduling: мифы и реальность. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/328976/
+
+Построение модульной архитектуры приложения на Forwarding-декораторах (авторский перевод) | https://habrahabr.ru/post/328970/
+
+Онлайн видеостриминг с платы Orange Pi One | https://habrahabr.ru/post/328892/
+
+Платежные странички и решения (или через тернии к звездам — и через много картинок) | https://habrahabr.ru/post/328828/
+
+Стандарты и шаблоны для ТЗ на разработку ПО | https://habrahabr.ru/post/328822/
+
+Сервисы на Go в Badoo: как мы их пишем и поддерживаем | https://habrahabr.ru/company/badoo/blog/328062/
+
+Всё, что вы не знали о CAP теореме | https://habrahabr.ru/post/328792/
+
+Dummy Origin: тестируем работу CDN | https://habrahabr.ru/company/webo/blog/328772/
+
+Обратная сторона авиабилета. Как Туту.ру помогает подобрать оптимальный тариф | https://habrahabr.ru/company/tuturu/blog/328750/
+
+Технология MIPS SIMD и процессор Байкал-Т1 | https://habrahabr.ru/post/328566/
+
+Про память, теги и когерентность | https://habrahabr.ru/post/328542/
+
+Добавляем в Chromium селектор :focus-within | https://habrahabr.ru/company/mailru/blog/328478/
+
+Свой Bot за несколько часов, или поговорим о пиве с машиной | https://habrahabr.ru/post/328612/
+
+Как давать определения? | https://habrahabr.ru/post/328228/
+
+Реализация Frameworx в телекоммуникационном API | https://habrahabr.ru/post/322972/
+
+Понятие системы и конструкции. Их место в проектировании информационных систем | https://habrahabr.ru/post/328192/
+
+Изменение восприятия сложности | https://habrahabr.ru/post/328160/
+
+Функциональная безопасность, часть 7 из 7. Методы обеспечения информационной и функциональной безопасности | https://habrahabr.ru/post/327910/
+
+Часть 3. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/328004/
+
+НТЦ Метротек. Часть 2. Беркут-ММТ и забег по граблям | https://habrahabr.ru/post/264341/
+
+Часть 2. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327947/
+
+Реализация NetFlow сенсора на FPGA + CPU — гибко и быстро | https://habrahabr.ru/company/metrotek/blog/327894/
+
+ROS. Стек навигации | https://habrahabr.ru/post/327888/
+
+Часть 1. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327836/
+
+Классификация конструкций: примеры и заблуждения | https://habrahabr.ru/post/327688/
+
+Что такое service mesh и почему он мне нужен [для облачного приложения с микросервисами]? | https://habrahabr.ru/company/flant/blog/327536/
+
+Как я пишу код | https://habrahabr.ru/company/infopulse/blog/327482/
+
+Ревизия #1. Ключ на старт | https://habrahabr.ru/company/yadro/blog/327458/
+
+Броня крепка, и танки наши быстры | https://habrahabr.ru/company/lanit/blog/327368/
+
+Как выбрать поставщика услуг информационной безопасности | https://habrahabr.ru/company/qrator/blog/327326/
+
+Всё плохо | https://habrahabr.ru/company/mailru/blog/327264/
+
+Сравнение производительности железного сервера и облака Amazon | https://habrahabr.ru/company/first/blog/327046/
+
+Открываем доступ к видеозаписям HighLoad++ за последние пять лет | https://habrahabr.ru/company/oleg-bunin/blog/327276/
+
+Архитектура модульных React + Redux приложений 2. Ядро | https://habrahabr.ru/post/327196/
+
+Сложность на границе хаоса, или что общего между сексом, нейронными сетями, микросервисами и организацией компании | https://habrahabr.ru/post/327138/
+
+О карте МегаФона — технические подробности, часть 2 | https://habrahabr.ru/company/megafon/blog/327090/
+
+Опыт внедрения Tarantool в сервисе Calltouch | https://habrahabr.ru/company/mailru/blog/326902/
+
+Как подойти к анализу сайта с точки зрения взломщика и выявить уязвимости? | https://habrahabr.ru/company/hosting-cafe/blog/326832/
+
+Про технику безопасности, ядерную физику и любовь: о противоречиях современной ИТ-архитектуры фронтальных решений | https://habrahabr.ru/company/efs/blog/326790/
+
+Сравнение производительности версий PHP | https://habrahabr.ru/company/mailru/blog/326696/
+
+Mission critical communication и при чем тут NFV? | https://habrahabr.ru/company/billing/blog/326500/
+
+Про multitenancy | https://habrahabr.ru/company/1c/blog/326654/
+
+M* — алгоритм поиска кратчайшего пути, через весь мир, на смартфоне | https://habrahabr.ru/company/2gis/blog/326638/
+
+No Bugs, No Flaws или о надежности систем как таковых | https://habrahabr.ru/post/326506/
+
+Архитектура модульных React + Redux приложений | https://habrahabr.ru/post/326484/
+
+Безопасность OAuth в эпоху мобильных приложений, или о чем молчит интернет | https://habrahabr.ru/post/320744/
+
+Лекции Технотрека. Проектирование СУБД (осень 2016) | https://habrahabr.ru/company/mailru/blog/326126/
+
+Эволюция приложений или куда мы идем | https://habrahabr.ru/post/326016/
+
+Tarantool как основное хранилище данных для серверных приложений, написанных на .NET | https://habrahabr.ru/company/mailru/blog/326216/
+
+Шаблоны проектирования с человеческим лицом | https://habrahabr.ru/company/mailru/blog/325492/
+
+Будущее API | https://habrahabr.ru/post/326080/
+
+e-Government будущего | https://habrahabr.ru/post/325996/
+
+Инструменты для команды удалённых разработчиков | https://habrahabr.ru/company/parallels/blog/326044/
+
+Цифровая экосистема eGaaS | https://habrahabr.ru/post/325986/
+
+Применение IMS QTI в электронных курсах в формате ePUB | https://habrahabr.ru/post/325980/
+
+Кинетика больших кластеров | https://habrahabr.ru/post/325798/
+
+PWA, «Зловещая долина» и стабильная работа в офлайне | https://habrahabr.ru/company/webo/blog/325788/
+
+Как в «Додо Пицца» потеряли 8 миллионов за один час из-за технической ошибки, а потом вернули | https://habrahabr.ru/company/yamoney/blog/325762/
+
+Отказоустойчивая обработка 10M OAuth-токенов на Tarantool | https://habrahabr.ru/company/mailru/blog/325582/
+
+Второе почетное. Заметки участника конкурса Dstl Satellite Imagery Feature Detection | https://habrahabr.ru/company/avito/blog/325632/
+
+Композиция или наследование: как выбрать? | https://habrahabr.ru/post/325478/
+
+Святое семейство информационных технологий (апрельские тезисы в форме критической критики) | https://habrahabr.ru/post/325448/
+
+Несколько аргументов против Dependency Injection и Inversion of Control | https://habrahabr.ru/post/325092/
+
+Простейший HTTP сервер на Golang и Elixir. Сравнение производительности | https://habrahabr.ru/post/324818/
+
+Релевантное соединение — атрибуты конкретные и универсальные | https://habrahabr.ru/post/324996/
+
+Мобильная платформа. Архитектура гибридных приложений на ReactNative | https://habrahabr.ru/company/efs/blog/325210/
+
+MIPSfpga и UART | https://habrahabr.ru/post/325168/
+
+Интеграция XML данных — другой путь | https://habrahabr.ru/post/325186/
+
+Frontera: архитектура фреймворка для обхода веба и текущие проблемы | https://habrahabr.ru/post/325154/
+
+MIPSfpga и прерывания | https://habrahabr.ru/post/324900/
+
+Микрооптимизации важны: предотвращаем 20 миллионов системных вызовов | https://habrahabr.ru/company/mailru/blog/324466/
+
+Как Discord индексирует миллиарды сообщений | https://habrahabr.ru/post/324902/
+
+Элементы, универсумы и регистры правил | https://habrahabr.ru/post/324710/
+
+Orienteer: обзор платформы и обновлений последнего релиза | https://habrahabr.ru/company/orienteer/blog/324758/
+
+Технология APS: облачный стандарт | https://habrahabr.ru/company/odin_ingram_micro/blog/324422/
+
+А вы знаете скорость загрузки вашего сайта с мобильных устройств? Самое время разобраться | https://habrahabr.ru/company/hosting-cafe/blog/324504/
+
+Про биологию, мега-стройки и магических животных | https://habrahabr.ru/company/efs/blog/324626/
+
+Как написать свою систему учета рабочего времени | https://habrahabr.ru/company/kickidler/blog/324406/
+
+«Сложную архитектуру очень просто сделать» — интервью с Олегом Анастасьевым из Одноклассников | https://habrahabr.ru/company/jugru/blog/324424/
+
+Политика обратной совместимости при разработке фреймворка на примере Magento 2. Часть 1 | https://habrahabr.ru/post/324450/
+
+Первый в мире поисковый движок: Исторический экскурс | https://habrahabr.ru/company/it-grad/blog/323946/
+
+Функциональная безопасность, часть 6 из 7. Оценивание показателей функциональной безопасности и надежности | https://habrahabr.ru/post/323776/
+
+Что нам стоит сервис email-маркетинга построить? Взгляд изнутри, часть вторая | https://habrahabr.ru/post/324174/
+
+Имена или семантика классов в программировании | https://habrahabr.ru/post/324170/
+
+Пилим каталог товаров не притрагиваясь к реляционной алгебре | https://habrahabr.ru/post/324012/
+
+Сколько должен стоить ваш SaaS? Я проанализировал 1530 сервисов и получил такие графики | https://habrahabr.ru/post/323960/
+
+Репликация из MySQL в Tarantool | https://habrahabr.ru/company/mailru/blog/323870/
+
+Анализ тарифов на виртуальные серверы | https://habrahabr.ru/company/poiskvps/blog/323868/
+
+Своевременная оптимизация | https://habrahabr.ru/post/323884/
+
+Идеальный каталог, вариант реализации | https://habrahabr.ru/post/323498/
+
+Как проектируют программы: от UML до автоматного подхода | https://habrahabr.ru/company/spbifmo/blog/323780/
+
+Вносите изменения в код понемногу | https://habrahabr.ru/company/parallels/blog/323654/
+
+Eclipse как технологическая платформа для 1C:Enterprise Development Tools | https://habrahabr.ru/company/1c/blog/323508/
+
+Как мы анализируем уязвимости с помощью нейронных сетей и нечеткой логики | https://habrahabr.ru/company/pt/blog/323436/
+
+Как сделать высоконагруженный сервис, не зная количество нагрузки | https://habrahabr.ru/post/323358/
+
+Я написал самую быструю хеш-таблицу | https://habrahabr.ru/company/mailru/blog/323242/
+
+Микросервисы: опыт использования в нагруженном проекте | https://habrahabr.ru/post/323154/
+
+«Лекарство от болезни»: автоматное программирование | https://habrahabr.ru/company/spbifmo/blog/323122/
+
+Дизайн REST API для высокопроизводительных систем | https://habrahabr.ru/post/323010/
+
+Что такое платформа Tarantool IIoT? | https://habrahabr.ru/company/mailru/blog/322730/
+
+Как кастомные решения помогли сэкономить на сетевой инфраструктуре | https://habrahabr.ru/company/webo/blog/322946/
+
+Идеальный каталог, набросок архитектуры | https://habrahabr.ru/post/322930/
+
+Страх и ненависть в распределённых системах | https://habrahabr.ru/post/322876/
+
+Выбор правильной стратегии обработки ошибок (части 3 и 4) | https://habrahabr.ru/company/mailru/blog/322804/
+
+ClickHouse: очень быстро и очень удобно | https://habrahabr.ru/post/322724/
+
+Охота на мифический MVC. Построение пользовательского интерфейса | https://habrahabr.ru/post/322700/
+
+Выбор правильной стратегии обработки ошибок (части 1 и 2) | https://habrahabr.ru/company/mailru/blog/322416/
+
+Аналитические данные за пределами аналитики в Wrike | https://habrahabr.ru/company/wrike/blog/322366/
+
+EventAggregator — антипаттерн | https://habrahabr.ru/post/322652/
+
+Архитектура растущего проекта на примере ВКонтакте | https://habrahabr.ru/post/322562/
+
+Функциональная безопасность, часть 5 из 7. Жизненный цикл информационной и функциональной безопасности | https://habrahabr.ru/post/322428/
+
+Как используется ABC-анализ на складе? | https://habrahabr.ru/post/322464/
+
+Четыре НЕ — секретные советы Штирлица | https://habrahabr.ru/post/322454/
+
+MIPSfpga и внутрисхемная отладка | https://habrahabr.ru/post/322442/
+
+История об ужасах стандартов кодирования | https://habrahabr.ru/company/infopulse/blog/322418/
+
+Салют-ЭЛ24Д1: отладочная плата на российском процессоре 1892ВМ14Я для жестких условий эксплуатации | https://habrahabr.ru/post/322344/
+
+Снесите это немедленно | https://habrahabr.ru/post/322326/
+
+Мифы о CAP теореме | https://habrahabr.ru/post/322276/
+
+Что придет на замену X Window System? | https://habrahabr.ru/post/321470/
+
+«Умная пыль»: как устроен самый маленький компьютер Michigan Micro Mote | https://habrahabr.ru/company/it-grad/blog/321130/
+
+Умер ли MVC для фронтенда? | https://habrahabr.ru/company/tuturu/blog/321820/
+
+История успеха «Яндекс.Почты» с PostgreSQL | https://habrahabr.ru/post/321756/
+
+Вход на сайт при помощи Telegram | https://habrahabr.ru/post/321682/
+
+Почему VIPER это хороший выбор для вашего следующего приложения | https://habrahabr.ru/post/321590/
+
+MIPSfpga и SDRAM. Часть 2 | https://habrahabr.ru/post/321532/
+
+MIPSfpga и SDRAM. Часть 1 | https://habrahabr.ru/post/321530/
+
+Как сделать ЖКХ, чтобы оно было ГИС | https://habrahabr.ru/company/lanit/blog/321476/
+
+How-to: инструменты для проведения конкурентного анализа программных продуктов | https://habrahabr.ru/company/pt/blog/321354/
+
+Как работает hashCode() по умолчанию? | https://habrahabr.ru/company/mailru/blog/321306/
+
+Пропуск в партер – как запускались Apple Pay и Samsung Pay в Яндекс.Деньгах | https://habrahabr.ru/company/yamoney/blog/321254/
+
+Охота на мифический MVC. Обзор, возвращение к первоисточникам и про то, как анализировать и выводить шаблоны самому | https://habrahabr.ru/post/321050/
+
+Особенности архитектуры распределённого хранилища в Dropbox | https://habrahabr.ru/post/321274/
+
+Tarantool: Хороший, Плохой, Злой | https://habrahabr.ru/post/321252/
+
+Удаленное подключение к сетевому ключу CodeMeter для ARCHICAD | https://habrahabr.ru/company/nanosoft/blog/321208/
+
+Архитектура микросервисов | https://habrahabr.ru/company/mailru/blog/320962/
+
+Инфраструктура простой электронной подписи. Часть 4: Практические аспекты реализации | https://habrahabr.ru/post/320936/
+
+«Работает — не трогай»: Старый код и компьютеры, которые до сих пор функционируют | https://habrahabr.ru/company/it-grad/blog/319620/
+
+«Байкал-T1»: знакомство с платой на первом в России 28-нм процессоре | https://habrahabr.ru/post/320840/
+
+Три ветки продукта и контроль версий | https://habrahabr.ru/post/320692/
+
+Нужны ли людям онлайн-конструкторы бизнес-приложений | https://habrahabr.ru/post/320652/
+
+Crowd разработка скоринговой системы для IEM системы | https://habrahabr.ru/company/ultima/blog/320598/
+
+Кастомизации в 1С | https://habrahabr.ru/company/1c/blog/320018/
+
+Почему понадобилось разработать «русский дропбокс» | https://habrahabr.ru/company/croc/blog/320470/
+
+Защита больших данных – как правильно начать и минимизировать возможные риски? | https://habrahabr.ru/company/gemaltorussia/blog/320214/
+
+Через тернии к облакам: создание облачного сервиса для 3D проектирования и дизайна помещений на базе ядра C3D и WebGL | https://habrahabr.ru/post/319406/
+
+ПРАВИЛьная кухня | https://habrahabr.ru/company/solarsecurity/blog/320262/
+
+Сводная информационная модель здания: практическое занятие по технологии OpenBIM | https://habrahabr.ru/company/nanosoft/blog/320048/
+
+Кэширование данных в web приложениях. Использование memcached | https://habrahabr.ru/company/oleg-bunin/blog/320044/
+
+С лупой на слона | https://habrahabr.ru/post/319912/
+
+Инфраструктура онлайн игры | https://habrahabr.ru/post/319582/
+
+Горизонтальное масштабирование. Что, зачем, когда и как? | https://habrahabr.ru/company/oleg-bunin/blog/319526/
+
+Строгое определение понятий: объект, состояние, событие, бизнес-операция и бизнес- функция | https://habrahabr.ru/post/319442/
+
+Динамическое перенаправление сетевого трафика | https://habrahabr.ru/post/319410/
+
+«Мое облако — моя крепость»: Тренды облачной безопасности | https://habrahabr.ru/company/1cloud/blog/319398/
+
+Повышаем производительность кода: сначала думаем о данных | https://habrahabr.ru/company/mailru/blog/319194/
+
+Сравнительный анализ методов балансировки трафика | https://habrahabr.ru/company/oleg-bunin/blog/319262/
+
+nanoCAD Plus 8.1: что ожидает пользователя в новой версии российской САПР-платформы? | https://habrahabr.ru/company/nanosoft/blog/319154/
+
+Инфраструктура простой электронной подписи. Часть 3: Системы обработки персональных данных | https://habrahabr.ru/post/319128/
+
+Инфраструктура простой электронной подписи. Часть 2: Моделирование целевой системы | https://habrahabr.ru/post/319034/
+
+Трудности в моделировании операций стандартными способами. Моделирование 4-объектов, постановка задачи | https://habrahabr.ru/post/319032/
+
+Инфраструктура простой электронной подписи. Часть 1: Моделирование использующих систем | https://habrahabr.ru/post/319006/
+
+Постановка задачи: Объекты учета и моделирование отношений между ними | https://habrahabr.ru/post/318924/
+
+Информационные технологии в новогоднем мюзикле «Чародеи» | https://habrahabr.ru/company/infopulse/blog/318910/
+
+Трудности на пути создания «универсальной» метамодели для моделирования предметных областей | https://habrahabr.ru/post/318874/
+
+Методы защиты от CSRF-атаки | https://habrahabr.ru/post/318748/
+
+Сложнейшая проблема компьютерных наук | https://habrahabr.ru/company/infopulse/blog/318618/
+
+Антивирусная защита предприятия | https://habrahabr.ru/post/318436/
+
+Подписки в ABBYY Cloud OCR SDK: «заткнитесь и возьмите мои деньги!» | https://habrahabr.ru/company/abbyy/blog/318328/
+
+Может ли компания с десятками тысяч сотрудников быть Agile: опыт МТС | https://habrahabr.ru/company/ru_mts/blog/318338/
+
+Личный опыт: Как мы автоматизировали работу с DNS-записями в хостинг-панели | https://habrahabr.ru/company/1cloud/blog/318286/
+
+Взлом на борту самолёта | https://habrahabr.ru/post/318228/
+
+Вычисляем контент, который в будущем станет вирусным | https://habrahabr.ru/post/318056/
+
+Как заполнять и подписывать документы автоматически с помощью DocuSign | https://habrahabr.ru/company/livetyping/blog/317904/
+
+О карте МегаФона — технические подробности | https://habrahabr.ru/company/megafon/blog/317740/
+
+Автоматизация бизнес-процессов. Часть 2. Adaptive BPM | https://habrahabr.ru/post/317820/
+
+MemC3 — компактный Memcache с повышенной параллельностью — за счет более тупого кэширования и более умного хэширования | https://habrahabr.ru/company/okmeter/blog/316762/
+
+Add-on к Авито. Стартап или пример архитектуры | https://habrahabr.ru/post/317598/
+
+Цели, задачи и принципы автоматизации | https://habrahabr.ru/post/257161/
+
+Использование паттерна SchedulableObject для выделения бизнес-логики в отдельный поток | https://habrahabr.ru/company/mailru/blog/317440/
+
+Облака как любовь | https://habrahabr.ru/company/billing/blog/317428/
+
+Дайджест Университета ИТМО: Подборка ресурсов по искусственному интеллекту | https://habrahabr.ru/company/spbifmo/blog/317276/
+
+Функциональные языки в разработке аппаратуры | https://habrahabr.ru/post/316748/
+
+Асинхронная обработка запросов в СУБД в памяти, или как справиться с миллионом транзакций в секунду на одном ядре | https://habrahabr.ru/company/mailru/blog/317274/
+
+«Пятничный формат»: Что случится, когда закон Мура перестанет действовать | https://habrahabr.ru/company/1cloud/blog/317204/
+
+Как избежать скачков во времени отклика и потреблении памяти при снятии снимков состояния в СУБД в оперативной памяти | https://habrahabr.ru/company/mailru/blog/317150/
+
+Система отчётов: как получать 50 млн. отчетов и сохранить Дзен | https://habrahabr.ru/company/parallels/blog/317116/
+
+Автоматизация бизнес-процессов или что такое «Сложность». Часть 1 | https://habrahabr.ru/post/316926/
+
+Эффективное хранение: как мы из 50 Пб сделали 32 Пб | https://habrahabr.ru/company/mailru/blog/316740/
+
+Подмостки для Вавилонской башни, или О собственных типах данных для многоязычных приложений | https://habrahabr.ru/company/custis/blog/313284/
+
+Подключение периферийных модулей к MIPSfpga, на примере ультразвуковых датчиков расстояния | https://habrahabr.ru/post/316770/
+
+Обзор СКУД с бесплатным программным обеспечением | https://habrahabr.ru/company/intems/blog/316728/
+
+Длина функции | https://habrahabr.ru/post/316708/
+
+Использование memcached и Redis в высоконагруженных проектах | https://habrahabr.ru/company/oleg-bunin/blog/316652/
+
+Что такое СУБД в оперативной памяти и как она эффективно сохраняет данные | https://habrahabr.ru/company/mailru/blog/316634/
+
+Очереди и блокировки. Теория и практика | https://habrahabr.ru/company/oleg-bunin/blog/316458/
+
+12 млрд реквестов в месяц за 120$ на java | https://habrahabr.ru/post/316370/
+
+Кэши для «чайников» | https://habrahabr.ru/company/google/blog/316344/
+
+Особенности построения тестов и разработки ПО, используемого в тестировании продукта на сборочных линиях | https://habrahabr.ru/post/316332/
+
+SDN & NFV и при чем тут Облака | https://habrahabr.ru/company/billing/blog/316324/
+
+Информационная безопасность АСУ ТП: Дон Кихот в эру кибероружия | https://habrahabr.ru/post/316184/
+
+Мониторинг состояния своего ресурса при помощи Telegram-бота | https://habrahabr.ru/post/316148/
+
+Отличие каркаса от библиотеки | https://habrahabr.ru/post/315900/
+
+PDUG Meetup. SSDL для руководителей: как перевести команду на безопасную разработку и не выстрелить себе в ногу | https://habrahabr.ru/company/pt/blog/315840/
+
+Зловреды-вымогатели для IoT опаснее «традиционных» зловредов | https://habrahabr.ru/company/parallels/blog/315730/
+
+Про веб-клиент 1С | https://habrahabr.ru/company/1c/blog/315414/
+
+Протокол QUIC: переход Web от TCP к UDP | https://habrahabr.ru/company/infopulse/blog/315172/
+
+Лекции Технотрека. Основы веб-разработки (весна 2016) | https://habrahabr.ru/company/mailru/blog/315080/
+
+Разработка требований для противоречащих законодательств | https://habrahabr.ru/post/315014/
+
+Аtomic-тесты и файнтюнинг производительности | https://habrahabr.ru/company/parallels/blog/314740/
+
+Как подружить PCIe с 10-метровыми медными кабелями и 100-метровой оптикой | https://habrahabr.ru/company/yadro/blog/314364/
+
+Хардвер вторгается в софтвер на московской конференции SECR | https://habrahabr.ru/post/314304/
+
+Извилистый путь разработчика | https://habrahabr.ru/post/314118/
+
+Тестирование распределенных систем, — интервью с Андреем Сатариным, Яндекс | https://habrahabr.ru/company/jugru/blog/313908/
+
+Как перестать бояться и полюбить синтаксический анализ? | https://habrahabr.ru/company/knopka/blog/314030/
+
+Опыт использования MassTransit 3.0 | https://habrahabr.ru/post/314080/
+
+Парсинг JSON — это минное поле | https://habrahabr.ru/company/mailru/blog/314014/
+
+Концепция жизни программы | https://habrahabr.ru/post/313934/
+
+О новой информационно-коммуникационной технологии для автотранспортной отрасли | https://habrahabr.ru/post/313876/
+
+Что значит «Нам нужно больше времени»?? | https://habrahabr.ru/post/313818/
+
+Информационное моделирование зданий (BIM): как построить стадион (или другое здание) с первого раза и под контролем | https://habrahabr.ru/company/croc/blog/313716/
+
+Что нам стоит сервис email-маркетинга построить? Взгляд изнутри, часть первая | https://habrahabr.ru/post/313714/
+
+Доморощенная нотация описания бизнес-процесса | https://habrahabr.ru/post/313704/
+
+Список бесплатных транзакционных, хостинговых и маркетинговых email-провайдеров | https://habrahabr.ru/company/hosting-cafe/blog/313646/
+
+О производительности именованных каналов в многопроцессных приложениях | https://habrahabr.ru/company/infopulse/blog/313638/
+
+Заблуждения большинства программистов относительно «времени» | https://habrahabr.ru/post/313274/
+
+Моделирование кинематики — это не сложно | https://habrahabr.ru/post/313138/
+
+Советские «Эльбрусы» — обзор архитектуры | https://habrahabr.ru/post/313376/
+
+Интервью с вице-президентом по технологической стратегии компании MapR | https://habrahabr.ru/post/313390/
+
+Тематическое моделирование на пути к разведочному информационному поиску. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/313340/
+
+Google Cloud Vision API‎. Будущее Computer Vision as a service настало? | https://habrahabr.ru/post/312714/
+
+Как мы попробовали DDD, CQRS и Event Sourcing и какие выводы сделали | https://habrahabr.ru/post/313110/
+
+Как я читал показания датчиков через SNMP (Python+AgentX+systemd+Raspberry Pi) и соорудил ещё одну мониторилку | https://habrahabr.ru/post/311502/
+
+Почему мы в «Дадате» тратим 2 млн долларов в год на 99,99% точность обработки данных | https://habrahabr.ru/company/hflabs/blog/312858/
+
+Эволюционный дизайн баз данных | https://habrahabr.ru/post/312970/
+
+Дата снаружи, дата внутри, дата танцуй, дата умри | https://habrahabr.ru/company/mailru/blog/312394/
+
+Как сейчас используют нейросети: от научных проектов до развлекательных сервисов | https://habrahabr.ru/company/1cloud/blog/312806/
+
+Функциональная безопасность, часть 4 из 7. Процессы управления и оценивания | https://habrahabr.ru/post/312718/
+
+Декомпозиция blockchain | https://habrahabr.ru/post/312654/
+
+ONLYOFFICE или Libre: о битве форматов и совместном редактировании | https://habrahabr.ru/company/teamlab/blog/312460/
+
+Каким должно быть ТЗ на Корпоративную ИС? | https://habrahabr.ru/post/312538/
+
+1С в облаках | https://habrahabr.ru/company/1c/blog/312456/
+
+Web-Оповещения в нагруженных проектах | https://habrahabr.ru/post/312504/
+
+Как писать меньше кода для MR, или Зачем миру ещё один язык запросов? История Yandex Query Language | https://habrahabr.ru/company/yandex/blog/312430/
+
+Маленькая архитектура | https://habrahabr.ru/post/312366/
+
+Как технологии меняют качество жизни: разработка «умных» протезов на базе Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/312362/
+
+Диаграмма сценариев использования в процессе разработки ПО | https://habrahabr.ru/company/luxoft/blog/312188/
+
+Как выбрать In-memory NoSQL базу данных с умом. Тестируем производительность | https://habrahabr.ru/company/oleg-bunin/blog/312062/
+
+Стрелки как подход к представлению систем на Java | https://habrahabr.ru/post/311914/
+
+100% онлайн-авиапроездной или Как укротить систему бронирования | https://habrahabr.ru/company/eastbanctech/blog/311862/
+
+Речевая аналитика как инструмент управления KPI контакт-центра. Кейс «Ростелеком» | https://habrahabr.ru/company/speechpro/blog/311790/
+
+На видео — разработчица одного из блоков внутри российского микропроцессора Байкал-Т | https://habrahabr.ru/post/311662/
+
+Модульная архитектура и многоразовый код | https://habrahabr.ru/post/303032/
+
+Плата управления сервером — зачем она и что внутри | https://habrahabr.ru/company/yadro/blog/311440/
+
+«Правда, чистая правда и статистика» или «15 распределений вероятности на все случаи жизни» | https://habrahabr.ru/post/311092/
+
+Разработка взаимодействия с пользователем мобильных устройств — ключевые принципы | https://habrahabr.ru/post/310956/
+
+Микросервисы: пожалуйста, не нужно | https://habrahabr.ru/post/311208/
+
+YT: зачем Яндексу своя MapReduce-система и как она устроена | https://habrahabr.ru/company/yandex/blog/311104/
+
+Функциональная безопасность, Часть 3 из 7. МЭК 61508: Систематичная случайность или случайная систематичность? | https://habrahabr.ru/post/310836/
+
+Spring Boot стартер для Apache Ignite своими руками | https://habrahabr.ru/post/310672/
+
+Реализация синхронизации по требованию | https://habrahabr.ru/company/singularis/blog/310696/
+
+Визуализация кодовой эволюции | https://habrahabr.ru/post/310782/
+
+Украинец подсказал британцу сделать вебинар для разработчиков IoT для сельского хозяйства. А мы поговорим о CPU внутри | https://habrahabr.ru/post/310666/
+
+Solar JSOC – опыт построения коммерческого SOC | https://habrahabr.ru/company/solarsecurity/blog/310470/
+
+Заказная разработка программного обеспечения | https://habrahabr.ru/post/310456/
+
+101 способ приготовления RabbitMQ и немного о pipeline архитектуре | https://habrahabr.ru/company/oleg-bunin/blog/310418/
+
+О фундаментальных ошибках в дизайне языков программирования | https://habrahabr.ru/company/infopulse/blog/310338/
+
+Новый плагин от Stepik.org для IntelliJ IDEA | https://habrahabr.ru/company/stepic/blog/310204/
+
+Вы не любите триггеры? | https://habrahabr.ru/post/310040/
+
+Однажды программисты погубят этот мир | https://habrahabr.ru/post/310026/
+
+PCI Express 4.0, кабели и все-все-все | https://habrahabr.ru/company/yadro/blog/309898/
+
+Кейс OZON.ru: Как сделать тарификацию доставки прозрачной и управляемой | https://habrahabr.ru/post/309810/
+
+Извините, мы обновляем протокол | https://habrahabr.ru/company/qiwi/blog/309772/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 3. Переходим к коду Си | https://habrahabr.ru/post/309296/
+
+Функциональная безопасность, Часть 2 из 7. МЭК 61508: кем быть, Шерлоком Холмсом или Дата Туташхиа? | https://habrahabr.ru/post/309636/
+
+Будущее сайтов: автоматическая сборка на базе ИИ и не только | https://habrahabr.ru/company/uteam/blog/309516/
+
+Обсуждение инструментов аналитики для работы с большими данными в Питере 14 сентября | https://habrahabr.ru/company/wrike/blog/309196/
+
+3D Масштабирование микросервисов | https://habrahabr.ru/post/309190/
+
+О процессе создания сервера – от идеи к деталям | https://habrahabr.ru/company/yadro/blog/309080/
+
+О пользе стандартизации | https://habrahabr.ru/post/309060/
+
+Извините, мы запускаем новый продукт | https://habrahabr.ru/company/qiwi/blog/308982/
+
+PHP: неправильный путь | https://habrahabr.ru/company/mailru/blog/308788/
+
+Пилим монолит | https://habrahabr.ru/post/308372/
+
+Как мы учили Facebook делать сайты или План “Конверт” | https://habrahabr.ru/company/uteam/blog/308590/
+
+Как «моделируют будущее» в Университете ИТМО: от предсказания поведения толпы до анализа мнений в соцсетях | https://habrahabr.ru/company/spbifmo/blog/308694/
+
+Функциональная безопасность – старшая сестра информационной безопасности, Часть 1 из 7 | https://habrahabr.ru/post/308634/
+
+Over 9000: неочевидные сложности работы со счетчиками социальных кнопок (+ задачка) | https://habrahabr.ru/company/uteam/blog/308504/
+
+Построение сложной SCADA (плохой пример) | https://habrahabr.ru/post/308506/
+
+Способы интеграции с 1С | https://habrahabr.ru/company/1c/blog/308420/
+
+[Опрос] А вот про нейронные сети, ИИ и т.д | https://habrahabr.ru/post/308356/
+
+Вы препарируете труп используя SOLID | https://habrahabr.ru/post/308218/
+
+Мониторинг лог-журналов: Такой уязвимый лог или как подложить свинью коллегам | https://habrahabr.ru/post/308116/
+
+Мифы об облачных технологиях. Часть 1: о «бесполезной» техподдержке и «навороченных» сервисах | https://habrahabr.ru/company/1cloud/blog/307930/
+
+Как улучшить почтовые адреса | https://habrahabr.ru/company/hflabs/blog/307410/
+
+Методы сбора требований или «Как понять, что хочет заказчик?» | https://habrahabr.ru/company/simbirsoft/blog/307844/
+
+Рекомендательные системы в онлайн-образовании. Продолжение | https://habrahabr.ru/company/stepic/blog/307670/
+
+Языковая проблема искусственного интеллекта | https://habrahabr.ru/company/payonline/blog/307666/
+
+Что такое программная инженерия. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/307384/
+
+Flume — управляем потоками данных. Часть 3 | https://habrahabr.ru/company/dca/blog/305932/
+
+Игра в кошки-мышки: как создавался антиспам в Почте Mail.Ru и при чем здесь Tarantool | https://habrahabr.ru/company/mailru/blog/307424/
+
+Голосовые «отпечатки» теперь официально работают (и как выглядит процесс внедрения в Приорбанке) | https://habrahabr.ru/company/croc/blog/307576/
+
+Особенности файловых систем, с которыми мы столкнулись при разработке механизма синхронизации Облака Mail.Ru | https://habrahabr.ru/company/mailru/blog/307412/
+
+Немного о нетрадиционном маппинге | https://habrahabr.ru/post/307378/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 2 | https://habrahabr.ru/post/307162/
+
+Архитектура WhatsApp, которую Facebook купил за $19 миллиардов | https://habrahabr.ru/post/276951/
+
+Kaggle – наша экскурсия в царство оверфита | https://habrahabr.ru/post/307078/
+
+Ворочаем большими объёмами документации | https://habrahabr.ru/company/devexpress/blog/306960/
+
+Как мы NoSQL в «реляционку» реплицировали | https://habrahabr.ru/company/rencredit/blog/306954/
+
+Чем может удивить облачный WiFi? * | https://habrahabr.ru/company/comptek/blog/306658/
+
+Лазерные коммуникации на примере технологий Facebook | https://habrahabr.ru/company/it-grad/blog/306218/
+
+ДНК, новые технологии и геном человека: Биоинформатика в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/306824/
+
+Переход от монолита к микросервисам | https://habrahabr.ru/post/305826/
+
+«Заложено природой»: Система хранения данных на основе ДНК | https://habrahabr.ru/company/1cloud/blog/306656/
+
+Распределенное выполнение Python-задач с использованием Apache Mesos. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/306548/
+
+Чем меньше, тем лучше — о возможностях языков программирования | https://habrahabr.ru/company/infopulse/blog/306604/
+
+Наши центры разработки по стране с «телепортами» до любого города | https://habrahabr.ru/company/croc/blog/306588/
+
+Тестирование интеграции продукта на скорости Netflix | https://habrahabr.ru/post/306460/
+
+Undo и Redo — анализ и реализации | https://habrahabr.ru/post/306398/
+
+10 ошибок, приводящих к оверинжинирингу ПО | https://habrahabr.ru/company/infopulse/blog/306328/
+
+Снижение задержек, увеличение объёма торгов и новые платформы: главные технологические тренды в развитии мировых бирж | https://habrahabr.ru/company/itinvest/blog/306106/
+
+Яндекс.Толока. Как люди помогают обучать машинный интеллект | https://habrahabr.ru/company/yandex/blog/305956/
+
+IaaS и наука: Как это работает. Часть 2 | https://habrahabr.ru/company/it-grad/blog/304656/
+
+Разумное АОП для поклонников IOC-контейнеров | https://habrahabr.ru/post/305360/
+
+Целесообразность и преимущества применения серверных накопителей, построение RAID-массивов, стоит ли экономить и когда? | https://habrahabr.ru/company/ua-hosting/blog/305334/
+
+Наш опыт создания приложения на микросервисах в сфере рекламных технологий | https://habrahabr.ru/post/305272/
+
+Spark Summit 2016: обзор и впечатления | https://habrahabr.ru/company/wrike/blog/304570/
+
+Оптимизация веб-сервиса подсказок для почтовых адресов и ФИО | https://habrahabr.ru/post/304590/
+
+Зачем нужно моделировать индивидуальные и типовые сценарии? | https://habrahabr.ru/post/304242/
+
+Анализ потокобезопасности в С++ | https://habrahabr.ru/company/infopulse/blog/304176/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 2 | https://habrahabr.ru/post/303800/
+
+Дополненная реальность и социализация людей на новом уровне | https://habrahabr.ru/post/304116/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 1 | https://habrahabr.ru/post/303794/
+
+Как построить датчик случайных чисел с участием человека? | https://habrahabr.ru/company/securitycode/blog/303698/
+
+От инструмента общения ученых до мирового стандарта: Краткая история электронной почты | https://habrahabr.ru/company/pechkin/blog/303672/
+
+Опыт автоматизации тестирования серверного REST API с помощью Jmeter | https://habrahabr.ru/company/rtl-service/blog/303584/
+
+Медленно, но верно: выбираем оптимальный вариант стратегии для торгового робота | https://habrahabr.ru/company/itinvest/blog/303040/
+
+Описание процесса создания архитектуры системы онлайн-трейдинга: подход аналитика хедж-фонда | https://habrahabr.ru/company/itinvest/blog/302990/
+
+Как мы делали централизованное хранение данных для розничной сети и оптимизировали его по шагам | https://habrahabr.ru/company/croc/blog/302760/
+
+Обзор вариантов организации доступа к сервисам корпоративной сети из Интернет | https://habrahabr.ru/post/302068/
+
+Неубиваемый Postgresql cluster внутри Kubernetes cluster | https://habrahabr.ru/post/301370/
+
+Отражение динамики в модели СКУД | https://habrahabr.ru/post/302226/
+
+Воркшопы по выявлению требований к IT-проектам: как и зачем их проводить? | https://habrahabr.ru/company/innopolis_university/blog/302192/
+
+Как понять нужно ли интегрировать blockchain в ваш продукт? | https://habrahabr.ru/company/web_payment_ru/blog/301972/
+
+Удивительный компьютер: История ENIAC | https://habrahabr.ru/company/1cloud/blog/301918/
+
+Информационная архитектура в Интернет | https://habrahabr.ru/company/simbirsoft/blog/301444/
+
+Как защитить облачную инфраструктуру | https://habrahabr.ru/company/it-grad/blog/283402/
+
+Создаем новую OS. Действительно новую, реально операционную, и правда – систему | https://habrahabr.ru/company/intel/blog/300884/
+
+ФИАС и семь смертных граблей разработчика | https://habrahabr.ru/company/hflabs/blog/301014/
+
+Структурная модель СКУД предприятия с арендаторами и их клиентами | https://habrahabr.ru/post/283586/
+
+Графический VGA-контроллер на SoC без знаний HDL | https://habrahabr.ru/company/metrotek/blog/282189/
+
+Алгоритмы сжатия данных без потерь: что они говорят о рынках | https://habrahabr.ru/company/itinvest/blog/283252/
+
+Создание системы непрерывного развертывания: опыт Instagram | https://habrahabr.ru/company/latera/blog/283102/
+
+Как дата-центры меняются прямо сейчас: Энергоэффективность, хранение данных и «облака» | https://habrahabr.ru/company/1cloud/blog/283044/
+
+Опыт использования IaaS крупными (и не очень) компаниями | https://habrahabr.ru/company/it-grad/blog/281809/
+
+Как выбрать направление для развития ИТ-проекта: опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/282984/
+
+4 инструмента по полочкам. Управление проектами с WBS, Диаграммой Ганта, CPM и Time-Cost | https://habrahabr.ru/post/282766/
+
+Руководство: Как посчитать выгоды от миграции в «облако» | https://habrahabr.ru/company/it-grad/blog/281807/
+
+Big Data: «Серебряная пуля» или еще один инструмент | https://habrahabr.ru/company/1cloud/blog/282560/
+
+«А как всё хорошо начиналось...», или О пользе O-нотации не только для анализа алгоритмов | https://habrahabr.ru/post/282435/
+
+Можно ли создать алгоритм для торговли на бирже с помощью анализа тональности сообщений в интернете | https://habrahabr.ru/company/itinvest/blog/282403/
+
+Немного о «законе Мура» | https://habrahabr.ru/company/1cloud/blog/282377/
+
+Интернет вещей на реальном примере — система поиска автомобиля | https://habrahabr.ru/post/282351/
+
+Дайджест Университета ИТМО: #1 Oбразование и наука | https://habrahabr.ru/company/spbifmo/blog/282175/
+
+Особенности национального менеджмента | https://habrahabr.ru/post/282181/
+
+Flume — управляем потоками данных. Часть 2 | https://habrahabr.ru/company/dca/blog/281933/
+
+Быстродействие динамической оперативной памяти и нелепая идея как ее увеличить | https://habrahabr.ru/post/281929/
+
+Взаимодействие программных и аппаратных средств | https://habrahabr.ru/post/281887/
+
+Этого не будет в BI (Купив BI tool, вы этого не получите) | https://habrahabr.ru/post/281703/
+
+Могут ли все финансовые модели быть ошибочными: 7 источников риска возникновения убытков | https://habrahabr.ru/company/itinvest/blog/281745/
+
+Антихрупкость архитектуры хранилищ данных | https://habrahabr.ru/post/281553/
+
+Суперскалярный стековый процессор: оптимизация | https://habrahabr.ru/post/281352/
+
+Чистый код под флагом АОП и ненавистный #ПредупреждаюНедвижимостьИзменился | https://habrahabr.ru/post/281294/
+
+Пятничный формат: Как работает Netflix | https://habrahabr.ru/company/1cloud/blog/281228/
+
+Облачное коммерческое объектно-ориентированное бизнес-приложение для платного туалета или мысли об архитектуре | https://habrahabr.ru/post/281158/
+
+Как мы забили на асинхронность при походах на бэкенды | https://habrahabr.ru/company/hh/blog/280892/
+
+Изменение исходников ( DDL ) на лету | https://habrahabr.ru/post/280648/
+
+Flume — управляем потоками данных. Часть 1 | https://habrahabr.ru/company/dca/blog/280386/
+
+Настройка и использование Apache Ignite в качестве MyBatis кэш второго уровня (L2 cache) | https://habrahabr.ru/company/at_consulting/blog/280452/
+
+Суперскалярный стековый процессор: подробности | https://habrahabr.ru/post/280087/
+
+Microservices. Как правильно делать и когда применять? | https://habrahabr.ru/company/dataart/blog/280083/
+
+Создание проекта форм интерфейса и карты диалоговых окон в PLANTUML | https://habrahabr.ru/post/279373/
+
+Суперскалярный стековый процессор: продолжаем скрещивать ужа и ежа | https://habrahabr.ru/post/279123/
+
+Как использовать Parquet и не поскользнуться | https://habrahabr.ru/company/wrike/blog/279797/
+
+Реализация грида для работы с большими таблицами. Часть 2 | https://habrahabr.ru/post/279083/
+
+Установка приложений в Caché с использованием проекций | https://habrahabr.ru/company/intersystems/blog/279207/
+
+«IoT» или «не IoT» – вот в чем вопрос! (Windows 10 IoT FAQ) | https://habrahabr.ru/company/quarta/blog/279521/
+
+Персистентная оперативная память | https://habrahabr.ru/post/279443/
+
+Где формируем модель для UI при Domain Driven Design? Сравнение производительности различных архитектурных решений | https://habrahabr.ru/post/279331/
+
+Реализация грида для работы с большими таблицами. Часть 1 | https://habrahabr.ru/post/278773/
+
+Как делать парсинг текста голым хардвером, без процессора и без софтвера | https://habrahabr.ru/post/278681/
+
+Интерфейсы — важнейшая концепция в разработке ПО | https://habrahabr.ru/company/mailru/blog/278561/
+
+Windows 10 IoT: Эволюция средств разработки | https://habrahabr.ru/company/quarta/blog/278879/
+
+Пример разработки игры на основе данных Google Analytics | https://habrahabr.ru/company/plarium/blog/278863/
+
+«Переезд» в облако: Возможность не только для ИТ-компаний | https://habrahabr.ru/company/it-grad/blog/277975/
+
+Суперскалярный стековый процессор: скрещиваем ужа и ежа | https://habrahabr.ru/post/278575/
+
+Consul.io Часть 2 | https://habrahabr.ru/post/278101/
+
+Стек стеком погоняет, или преобразование байткода виртуальной машины Java в байткод машины Фантом ОС | https://habrahabr.ru/post/278245/
+
+Consul.io Часть 1 | https://habrahabr.ru/post/278085/
+
+Примеры реализации Pub-Sub: Azure Topics, EventHub, ZeroMQ, microServiceBus, etc | https://habrahabr.ru/post/278237/
+
+Технология BIM: пример практического междисциплинарного взаимодействия | https://habrahabr.ru/company/nanosoft/blog/278115/
+
+Проблемы разграничения доступа на основе списка доступа в ECM системах (часть 2) | https://habrahabr.ru/post/278031/
+
+Пятничный формат: ДНК и решение проблемы хранения данных | https://habrahabr.ru/company/1cloud/blog/277969/
+
+Платы для разработчиков и терминал на основе российского микропроцессора Байкал-Т | https://habrahabr.ru/post/278011/
+
+Ассиметричные решения. Информационная безопасность ICS в энергетике | https://habrahabr.ru/post/277723/
+
+Исследование SSL сертификатов, лицензий на ПО и места для резервных копий | https://habrahabr.ru/company/hosting-cafe/blog/277353/
+
+Анализ системы Business Studio | https://habrahabr.ru/company/trinion/blog/276785/
+
+Вы зарабатываете на информации (зачем нужен API и как его грамотно спроектировать) | https://habrahabr.ru/post/277161/
+
+Открытая система прокторинга для дистанционного сопровождения онлайн-экзаменов | https://habrahabr.ru/post/277147/
+
+Проблемы разграничения доступа на основе списка доступа в ECM системах | https://habrahabr.ru/post/277111/
+
+Ultima 2C — бесплатное решение класса ERP II на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/277037/
+
+Отношение «часть – целое» в темпоральной/событийной онтологии | https://habrahabr.ru/post/276987/
+
+Краткий обзор инструментария WhatsApp | https://habrahabr.ru/company/1cloud/blog/276823/
+
+EDI стандарт. Технический обзор | https://habrahabr.ru/post/276925/
+
+Записки правдивого архитектора: просто о самом главном (Ч.2) | https://habrahabr.ru/post/276613/
+
+Записки правдивого архитектора: просто о самом главном (Ч.1) | https://habrahabr.ru/post/276527/
+
+Исследование тарифов на виртуальный хостинг | https://habrahabr.ru/company/hosting-cafe/blog/276867/
+
+Добавляем инструкции в микропроцессор MIPS, которые работают в конвейере как его собственные | https://habrahabr.ru/post/276205/
+
+Опыт лекций по введению в шаблоны проектирования | https://habrahabr.ru/post/276699/
+
+Анализ текущей ситуации на российском BIM-рынке в области гражданского строительства | https://habrahabr.ru/company/nanosoft/blog/276587/
+
+Немного об архитектурах программного обеспечения | https://habrahabr.ru/company/it-grad/blog/276297/
+
+Создание архитектуры программы или как проектировать табуретку | https://habrahabr.ru/post/276593/
+
+Анализ хостеров и их тарифов на виртуальные серверы | https://habrahabr.ru/company/hosting-cafe/blog/276425/
+
+Концептуальное описание индивидов | https://habrahabr.ru/post/276271/
+
+Измерение веса руды по току статора. Практика. Часть 2. Программная реализация на МК | https://habrahabr.ru/post/276051/
+
+Классы, множества, группы, системы | https://habrahabr.ru/post/275865/
+
+Высокопроизводительный long polling чат | https://habrahabr.ru/post/275671/
+
+Измерение веса руды по току статора. Практика. Часть 1. Алгоритм обработки сигналов в МК | https://habrahabr.ru/post/275459/
+
+Ваше проектирование – отстой | https://habrahabr.ru/post/275231/
+
+Как начать работать с MIPSfpga | https://habrahabr.ru/post/275215/
+
+Безопасные двери, или продолжаем проектировать АСУ ТП | https://habrahabr.ru/post/275165/
+
+Измерение веса полезных ископаемых в горнорудной промышленности. Теоретическая основа | https://habrahabr.ru/post/275141/
+
+Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель) | https://habrahabr.ru/company/cit/blog/273449/
+
+Постановка задачи компьютерного зрения | https://habrahabr.ru/post/274725/
+
+Еще немного об ошибках проектирования АСУ ТП и программирования ПЛК | https://habrahabr.ru/post/274941/
+
+Что нам стоит КИС построить: собираем xRM на конвейере | https://habrahabr.ru/company/iladaruli24/blog/274933/
+
+Критические ошибки проектирования АСУ ТП и программирования ПЛК | https://habrahabr.ru/post/274727/
+
+Центробежные компрессорные установки. Защита от помпажа | https://habrahabr.ru/post/274497/
+
+Фудкорт изнутри. Или как программист делал фудкорт | https://habrahabr.ru/post/272543/
+
+Немного о трендах в области суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/273667/
+
+Ситуационный центр Центральной ППК (электрички Московской области) — мы проделали адово большую работу | https://habrahabr.ru/company/croc/blog/273013/
+
+Создание бизнес-процесса на языке BPEL с использованием платформы Serena Business Manager | https://habrahabr.ru/company/softmart/blog/273281/
+
+DaData.ru находит и уничтожает одинаковых людей | https://habrahabr.ru/company/hflabs/blog/273251/
+
+Robo code game challenge | https://habrahabr.ru/company/singularis/blog/272729/
+
+Использование Google Analytics в играх | https://habrahabr.ru/company/plarium/blog/273113/
+
+Эволюция в облаке: опыт сервиса по работе с социальными сетями | https://habrahabr.ru/company/microsoft/blog/273039/
+
+Bizagi. Описание. Пример | https://habrahabr.ru/company/trinion/blog/273017/
+
+50 типичных ошибок проектирования игровой камеры (часть 2) | https://habrahabr.ru/post/272825/
+
+Под капотом Redis: Хеш таблица (часть 2) и Список | https://habrahabr.ru/post/272089/
+
+О системном мышлении | https://habrahabr.ru/post/272473/
+
+50 типичных ошибок проектирования игровой камеры (часть 1) | https://habrahabr.ru/post/272401/
+
+Под капотом Redis: Хеш таблица (часть 1) | https://habrahabr.ru/post/271205/
+
+Как отправить IDOC из SAP MII в SAP ERP | https://habrahabr.ru/post/272077/
+
+Работа параноика: планы аварийного восстановления/непрерывности, метеорит, зомби-апокалипсис, 1000 уборщиц, портал в ад | https://habrahabr.ru/company/croc/blog/272015/
+
+Внедрение CRM на производство: пробы, ошибки, результаты | https://habrahabr.ru/post/271863/
+
+Пример экспресс-анализа производительности СХД при помощи бесплатного сервиса Mitrend | https://habrahabr.ru/company/dellemc/blog/271799/
+
+RDMA: взгляд изнутри | https://habrahabr.ru/post/271877/
+
+Неудобные вопросы об архитектуре RDMA | https://habrahabr.ru/post/271393/
+
+Как решить проблемы с платежным шлюзом: Кейс Airbnb | https://habrahabr.ru/company/1cloud/blog/271567/
+
+Способ быстрого измерения производительности случайного сервера | https://habrahabr.ru/company/simbirsoft/blog/271485/
+
+Под капотом Redis: Строки | https://habrahabr.ru/post/271487/
+
+Как мы проектируем и прототипируем всякую фигню | https://habrahabr.ru/company/mosigra/blog/271371/
+
+Подъём Node.js – и почему он будет лидировать в разработке корпоративного ПО | https://habrahabr.ru/post/271471/
+
+Как собеседовать ИТ-специалистов | https://habrahabr.ru/company/1cloud/blog/271351/
+
+Может ли nanoCAD заменить западные САПР-решения? Давайте искать ответ… | https://habrahabr.ru/company/nanosoft/blog/271343/
+
+Безвозмездно, то есть даром: бесплатное ERP-решение для скромного e-commerce бизнеса на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/271171/
+
+Прогнозирование в игровой индустрии. Часть 3: Прогнозы для прогнозной индустрии | https://habrahabr.ru/company/plarium/blog/271241/
+
+Как устроен Code Game Challenge | https://habrahabr.ru/post/270953/
+
+Создавая enterprise — решение завтрашнего дня | https://habrahabr.ru/company/microsoft/blog/270757/
+
+DataTalks #4: Предсказательная аналитика | https://habrahabr.ru/company/wargaming/blog/270791/
+
+Impact анализ на примере инфраструктуры корпоративного хранилища данных | https://habrahabr.ru/company/tinkoff/blog/270373/
+
+Система подсчёта посетителей магазина: как Гугл.Аналитика, только на инфракрасных датчиках — и хитрая статистика, которую вы не видите | https://habrahabr.ru/company/mosigra/blog/270433/
+
+Оценка тестового покрытия на проекте | https://habrahabr.ru/post/270365/
+
+Asterisk: Обеспечим VIP-клиентам первое место в очереди звонков, а так же свяжем клиента с конкретным оператором на заданное время | https://habrahabr.ru/post/270125/
+
+Еще одна методология: Стаханов | https://habrahabr.ru/post/270055/
+
+Прогнозирование в игровой индустрии. Часть 2: Насколько хорошо вы знаете своих игроков | https://habrahabr.ru/company/plarium/blog/270043/
+
+Руководство по поиску работы для MDA-специалиста (и немного про метод анализа иерархий, Xcore и Sirius) | https://habrahabr.ru/company/cit/blog/269291/
+
+Прогнозирование в игровой индустрии. Часть 1: Всё о прогнозировании | https://habrahabr.ru/company/plarium/blog/269637/
+
+«Многие выбирают Agile, потому что больше ничего не умеют» — интервью с Дмитрием Завалишиным из DZ Systems | https://habrahabr.ru/company/jugru/blog/269803/
+
+Платформа «1С: Предприятие» — что под капотом? | https://habrahabr.ru/company/1c/blog/269611/
+
+Да, я пишу десктопные приложения под Windows | https://habrahabr.ru/company/infopulse/blog/269577/
+
+Как правильно писать RFP на разработку ПО | https://habrahabr.ru/post/269111/
+
+Планировщик Go | https://habrahabr.ru/company/ua-hosting/blog/269271/
+
+Модификация программы и что лучше менять: исполняемый код или AST программы? | https://habrahabr.ru/post/269037/
+
+Как мы использовали дизайн-мышление при создании нового AdTrack | https://habrahabr.ru/post/259249/
+
+Балансировка 70 тысяч запросов в секунду на HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/269119/
+
+IoT cloud на Netty или 10к рек-сек на ядро | https://habrahabr.ru/post/268895/
+
+Создаём прокси-чекер стоимостью 100 миллионов за пару дней | https://habrahabr.ru/post/268799/
+
+HackedSim. Звонок с любого номера — вымысел или реальность? | https://habrahabr.ru/post/268789/
+
+Ещё раз про хеш-коллизии в коммутаторах | https://habrahabr.ru/post/267965/
+
+Технокнига, часть 4: литература по управлению продуктом, разработке веб-сервисов, управлению веб-проектами, бизнесу и системному анализу архитекторов | https://habrahabr.ru/company/mailru/blog/268395/
+
+Разделяем интерфейсы для юнит-тестирования | https://habrahabr.ru/company/ivi/blog/256517/
+
+Разработка визуального языка моделирования с помощью Sirius | https://habrahabr.ru/company/cit/blog/267335/
+
+Преобразование подхода Захмана | https://habrahabr.ru/post/267749/
+
+Рецепты Docker: Monkey patch, часть третья | https://habrahabr.ru/post/267455/
+
+Docker, часть вторая. Полуавтоматическая винтовка с самонаведением на ногу | https://habrahabr.ru/post/267451/
+
+Consul: Service Discovery это просто, или прощаемся с конфиг-файлами | https://habrahabr.ru/post/266139/
+
+Высокочастотный трейдинг: Руководство от героя книги Flash Boys | https://habrahabr.ru/company/itinvest/blog/267403/
+
+И снова про 1С | https://habrahabr.ru/company/1c/blog/267321/
+
+Разработка метамодели с помощью Eclipse Modeling Framework (и немного про моделирование данных) | https://habrahabr.ru/company/cit/blog/266433/
+
+Анализ логов с помощью Hadoop/Python | https://habrahabr.ru/company/dca/blog/267107/
+
+Как повысить отказоустойчивость биллинга: Опыт «Гидры» | https://habrahabr.ru/company/latera/blog/267083/
+
+Чему можно поучиться у WhatsApp | https://habrahabr.ru/company/1cloud/blog/267053/
+
+Использование handle и intrusive reference counter-ов в многопоточных средах в языке C | https://habrahabr.ru/post/266901/
+
+Самая устаревшая инфраструктура, которую только можно купить за деньги | https://habrahabr.ru/company/infopulse/blog/266775/
+
+Почему команда SoundCloud перешла на микросервисы | https://habrahabr.ru/company/1cloud/blog/266699/
+
+Распознать нельзя оставить картинкой, или кое-что о сложных случаях оптического распознавания текста | https://habrahabr.ru/company/abbyy/blog/266551/
+
+Что программируют программисты? | https://habrahabr.ru/post/266659/
+
+Как найти алгоритм работы интеллекта | https://habrahabr.ru/company/1cloud/blog/266641/
+
+Разрабатываем систему мониторинга на 55000 видео-потоков RTP | https://habrahabr.ru/company/metrotek/blog/266561/
+
+Healthcare IT: или как выкинуть $34 млн | https://habrahabr.ru/post/266549/
+
+Что такое ЕИС нотариата России | https://habrahabr.ru/post/265869/
+
+gRPC — фреймворк от Google для удалённого вызова процедур | https://habrahabr.ru/company/infopulse/blog/265805/
+
+Конспект презентации Udi Dahan “Интегрированный подход к сервисам” с конференции µCon 2014: The Microservices Conference | https://habrahabr.ru/post/265771/
+
+Статистический метод обнаружения аномалий в eBay | https://habrahabr.ru/company/io/blog/265571/
+
+Аппаратное обеспечение для глубокого обучения | https://habrahabr.ru/company/it-grad/blog/265167/
+
+Загрузка видео «без единого разрыва» | https://habrahabr.ru/company/odnoklassniki/blog/265133/
+
+Как подобрать платье с помощью метода главных компонент | https://habrahabr.ru/company/io/blog/265089/
+
+Объектный язык ограничений (и немного про метамодели) | https://habrahabr.ru/company/cit/blog/264963/
+
+Как легко понять логистическую регрессию | https://habrahabr.ru/company/io/blog/265007/
+
+Пишем реализацию Observer-а над KVO на objective-c | https://habrahabr.ru/post/264823/
+
+Deep Dream: как обучить нейронную сеть мечтать не только о собаках | https://habrahabr.ru/company/io/blog/264757/
+
+Алгоритмическая и автоматизированная торговля: Введение | https://habrahabr.ru/company/itinvest/blog/264655/
+
+MCMC и байесова статистика в BASIC | https://habrahabr.ru/company/io/blog/264587/
+
+Как Spotify масштабирует Apache Storm | https://habrahabr.ru/company/it-grad/blog/264549/
+
+Нотариальный лёд тронулся | https://habrahabr.ru/post/264465/
+
+14 новых ролей в Big Data | https://habrahabr.ru/company/io/blog/264359/
+
+В чем разница между наукой о данных, анализом данных, большими данными, аналитикой, дата майнингом и машинным обучением | https://habrahabr.ru/company/io/blog/264125/
+
+Что такое Мастер-Данные и зачем они нужны | https://habrahabr.ru/company/navicon/blog/260927/
+
+Microservices Q&A | https://habrahabr.ru/company/luxoft/blog/264011/
+
+Схемы отбора в выборку | https://habrahabr.ru/company/io/blog/263931/
+
+Forensic system administration | https://habrahabr.ru/company/webzilla/blog/249405/
+
+Как конфигурация влияет на архитектуру приложения | https://habrahabr.ru/post/263827/
+
+Кто такие контент-хакеры? | https://habrahabr.ru/company/io/blog/263707/
+
+Исследование Oracle Form при помощи Java Development API(JDAPI) | https://habrahabr.ru/post/263675/
+
+Маленькие, и не очень, размышления о SOA, или жизнь в MVC-beyond мире (часть 0) | https://habrahabr.ru/post/263589/
+
+Автоматизируй это | https://habrahabr.ru/company/at_consulting/blog/263391/
+
+Как правильно организовать распределенное проектирование БД? | https://habrahabr.ru/post/263053/
+
+Магия Universal Analytics | https://habrahabr.ru/company/io/blog/263161/
+
+Что еще о вас может знать браузер | https://habrahabr.ru/company/io/blog/263063/
+
+Путь аналитика. Работа над ошибками | https://habrahabr.ru/post/262869/
+
+Замечания о распределенных системах для начинающих | https://habrahabr.ru/company/piter/blog/262807/
+
+48 часов жизни вашей публикации на Хабре | https://habrahabr.ru/company/io/blog/262617/
+
+«Разрывая ETL барьеры с помощью Spark Streaming» от Concur. Отчет о встрече | https://habrahabr.ru/post/262785/
+
+Что не так с сэмплированием | https://habrahabr.ru/company/io/blog/262549/
+
+«Под капотом» индексов Postgres | https://habrahabr.ru/company/mailru/blog/261871/
+
+Выбор между C++ и C# | https://habrahabr.ru/post/262461/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 2 | https://habrahabr.ru/post/262431/
+
+Из AutoCAD да в nanoCAD: cмена основной САПР в проектном институте | https://habrahabr.ru/company/nanosoft/blog/262283/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 1 | https://habrahabr.ru/post/262175/
+
+Когортный анализ: 3 кейса | https://habrahabr.ru/company/io/blog/262025/
+
+Что выбрать — Кавайность, Роботность или Социальность? | https://habrahabr.ru/company/allmychanges/blog/261875/
+
+Полиморфные связи для самых маленьких | https://habrahabr.ru/post/261835/
+
+Компромиссы микросервисов | https://habrahabr.ru/post/261689/
+
+Отстой ли XMPP? | https://habrahabr.ru/post/261517/
+
+Большие данные и большие вопросы | https://habrahabr.ru/company/1cloud/blog/261487/
+
+Универсальные платформы это зло | https://habrahabr.ru/post/261445/
+
+Хороший дизайн, плохой дизайн… | https://habrahabr.ru/post/261433/
+
+Внутреннее представление значений в PHP 7 (часть 2) | https://habrahabr.ru/company/mailru/blog/261131/
+
+Проектирование микросервиса | https://habrahabr.ru/post/261267/
+
+Как не угробить архитектуру сразу же? Видео с лекции Евгения Кривошеева | https://habrahabr.ru/company/jugru/blog/261379/
+
+Как устроен поиск и парсинг ченьджлогов в AllMyChanges | https://habrahabr.ru/company/allmychanges/blog/261341/
+
+Подробнее о 3D навигации в nanoCAD Plus 7 | https://habrahabr.ru/company/nanosoft/blog/261241/
+
+Intel Edison на страже здоровья. Опыт «ФРУКТ МД» | https://habrahabr.ru/company/intel/blog/260943/
+
+Google AI или Дата-центр во власти искусственного интеллекта | https://habrahabr.ru/company/ua-hosting/blog/261069/
+
+Маленькие радости структурированных метаданных | https://habrahabr.ru/company/ultima/blog/260897/
+
+Разработка ММО РПГ – практическое руководство. Сервер (часть 2) | https://habrahabr.ru/company/starnigames/blog/260911/
+
+Видео описание BPMS Bizagi | https://habrahabr.ru/company/trinion/blog/260819/
+
+Шаблоны проектирования XSD | https://habrahabr.ru/company/cit/blog/259167/
+
+Разработка модульных приложений на С/C++ с использованием аннотаций | https://habrahabr.ru/post/260061/
+
+У семи программистов адрес без дома | https://habrahabr.ru/company/hflabs/blog/260601/
+
+SAM-решения — полный порядок в IT-инфраструктуре | https://habrahabr.ru/company/softline/blog/260453/
+
+HL7 FHIR: Fast Healthcare Interoperability Resources | https://habrahabr.ru/post/260145/
+
+Типовая схема биллинга | https://habrahabr.ru/post/259921/
+
+Разработка крупного масштабируемого web 2.0 проекта с нуля (соц.сеть на 100 млн пользователей) — интервью с ведущим мастер-класса на DevConf 2015 | https://habrahabr.ru/company/devconf/blog/259857/
+
+DevOps зоопарк или как 500px обслуживает более 500TB изображений | https://habrahabr.ru/post/258751/
+
+Система Оберон, реализованная на доступной FPGA-плате | https://habrahabr.ru/post/259755/
+
+Usability — один плагин Redmine, предоставляющий массу полезных мелочей. Часть вторая | https://habrahabr.ru/post/259591/
+
+Один день в деревне. Skolkovo Startup Village | https://habrahabr.ru/company/intel/blog/259513/
+
+Об электронном документообороте в России, его весёлых местечковых особенностях и ситуации вообще | https://habrahabr.ru/company/croc/blog/259511/
+
+HL7: один день в операционной | https://habrahabr.ru/post/259315/
+
+Туннельное моделирование — версия 0.9 | https://habrahabr.ru/post/259291/
+
+Сравнение систем типов PHP7 и Hack | https://habrahabr.ru/post/259209/
+
+Как мы учили кассу самообслуживания принимать деньги | https://habrahabr.ru/company/crystal_service/blog/258889/
+
+Sexy primes, «медленный питон» или как я бился о стену непонимания | https://habrahabr.ru/post/259095/
+
+Маленькие хитрости сбора паспортных данных | https://habrahabr.ru/post/259121/
+
+Прогноз времени выполнения типовых последовательных «тяжелых» вычислений в многопроцессорной системе в условиях непрогнозируемого поступления заявок | https://habrahabr.ru/post/258791/
+
+Снова о разработке на основе предметной области (Domain-Driven Design, DDD) | https://habrahabr.ru/post/258693/
+
+Путешествие в мир новых технологий — дроны, слежка за коровами, 3D печать летающих беспилотников | https://habrahabr.ru/company/sap/blog/258687/
+
+Сериал: Big Data — как мечта. 9-я серия: Почему IBM был вынужден купить «Алхимиков» за $100млн | https://habrahabr.ru/company/palitrumlab/blog/258607/
+
+SEMAT? Приятно познакомиться | https://habrahabr.ru/post/258529/
+
+Жажда скорости: Оптимизация производительности торгового терминала | https://habrahabr.ru/company/itinvest/blog/257919/
+
+Что нам стоит Cache построить? | https://habrahabr.ru/company/infopulse/blog/258247/
+
+Анализ связей в проекте своими руками | https://habrahabr.ru/post/258295/
+
+Разработка архитектуры системы через сервисно-ресурсную модель | https://habrahabr.ru/post/258255/
+
+5 инструментов в помощь аналитику | https://habrahabr.ru/company/navicon/blog/258151/
+
+Микросервисы. Хорошие, плохие, злые | https://habrahabr.ru/company/luxoft/blog/258257/
+
+Забудьте САР теорему как более не актуальную | https://habrahabr.ru/post/258145/
+
+Сравнение HL7v3 и HL7 FHIR | https://habrahabr.ru/post/258113/
+
+Наиболее интересные доклады с Analyst Days 2015 | https://habrahabr.ru/company/nixsolutions/blog/257715/
+
+Как мы работаем со справочниками на интеграционной шине | https://habrahabr.ru/post/257925/
+
+Разработка ММО РПГ – практическое руководство. Сервер (часть 1) | https://habrahabr.ru/company/starnigames/blog/257985/
+
+Книги и образовательные ресурсы по алгоритмической торговле | https://habrahabr.ru/company/itinvest/blog/257971/
+
+Service-Oriented Architecture and Legacy Systems | https://habrahabr.ru/company/geekfamily/blog/257713/
+
+Архитектура приложения малой кровью | https://habrahabr.ru/post/257677/
+
+Тестовые данные для HL7 сообщений | https://habrahabr.ru/post/257613/
+
+Базы данных мед систем на основе HL7 RIM | https://habrahabr.ru/post/257517/
+
+Главное меню Redmine | https://habrahabr.ru/post/257449/
+
+Семинар в LA и инициативы в России по MIPSfpga и преподаванию электроники | https://habrahabr.ru/post/257325/
+
+EHR-EMR-PHR или чем ЭМК отличается от ЭМК | https://habrahabr.ru/post/257241/
+
+Концептуальное моделирование: How Many? How Much? | https://habrahabr.ru/post/257217/
+
+Жизнь в стиле SMART (продолжение) | https://habrahabr.ru/company/ximad/blog/257055/
+
+Тестирование средств разработки HL7 CDA R2 | https://habrahabr.ru/post/257017/
+
+Аудит одного «медленного» приложения в одном крупном концерне | https://habrahabr.ru/post/256975/
+
+Жизнь в стиле SMART | https://habrahabr.ru/company/ximad/blog/256873/
+
+Особенности концептуального моделирования предметной области | https://habrahabr.ru/post/256823/
+
+Что за зверь HL7 Interoperability? | https://habrahabr.ru/post/256795/
+
+Немного об HL7 EHR-System Functional Model (Функциональная Модель системы ЭМК) | https://habrahabr.ru/post/256609/
+
+Сравнение субъектно-событийного подхода с существующими BPM системами | https://habrahabr.ru/post/256607/
+
+Разворачиваем СвоёОблако в облаке. Установка CoreOS | https://habrahabr.ru/post/256107/
+
+Prototype this Или полезный функционал быстрее чашки кофе | https://habrahabr.ru/company/ultima/blog/256527/
+
+Проектирование Web API в 7 шагов | https://habrahabr.ru/company/geekfamily/blog/256495/
+
+Субъектно-событийный подход к моделированию сложных систем | https://habrahabr.ru/post/256509/
+
+Опять суровый Open source для госкомпаний и большого бизнеса с примерами решений. Я в него верю, если что | https://habrahabr.ru/company/croc/blog/256473/
+
+Как всё устроено: разработка интерактивных онлайн-курсов | https://habrahabr.ru/company/htmlacademy/blog/256417/
+
+Получи грант на обучение сетевой безопасности в Нидерландах | https://habrahabr.ru/company/innopolis_university/blog/256383/
+
+Темпорально-релятивистское онтологическое пространство | https://habrahabr.ru/post/256331/
+
+Исходники промышленных процессоров станут доступными для университетов | https://habrahabr.ru/post/256223/
+
+Ломаем датчик утечки газа | https://habrahabr.ru/post/256215/
+
+Средства разработки HL7 (HL7v2, HL7v3, CDA) | https://habrahabr.ru/post/256115/
+
+Что такое HL7 Continuity of Care Document (CCD) | https://habrahabr.ru/post/256021/
+
+Наш новый проект на Russian StartUp Tour 2015 | https://habrahabr.ru/company/ximad/blog/255975/
+
+Сериал: Big Data — как мечта. 6-я серия. BD (Bolt Data) — Быстрые Big Data данные | https://habrahabr.ru/company/palitrumlab/blog/255963/
+
+Кросс-публикатор статей — каким он должен быть? | https://habrahabr.ru/post/255953/
+
+Организация и использование сегментации в больших мобильных приложениях | https://habrahabr.ru/post/255941/
+
+SAP Форум: новые возможности для разработчиков и стартаперов | https://habrahabr.ru/company/sap/blog/255851/
+
+Задачи реального мира: как на практике считают надежность систем (reliability, MTTF, failure rate)? | https://habrahabr.ru/company/nerepetitor/blog/255407/
+
+Что такое Business Intelligence | https://habrahabr.ru/company/navicon/blog/250875/
+
+Сериал: Big Data — как мечта. 4-я серия. Революция мозгов | https://habrahabr.ru/company/palitrumlab/blog/255069/
+
+Лекции Технопарка. 3 семестр. Проектирование высоконагруженных систем | https://habrahabr.ru/company/mailru/blog/254843/
+
+Как технологии помогают разработчикам решать проблему общения с клиентом: сервис Sameroom | https://habrahabr.ru/company/kato/blog/254821/
+
+Разработка ММО РПГ – практическое руководство. Эпизод 1 | https://habrahabr.ru/company/starnigames/blog/254799/
+
+Замена двухфакторной аутентификации | https://habrahabr.ru/post/254605/
+
+С сегодняшнего дня компания Intel управляется компьютером | https://habrahabr.ru/company/intel/blog/254237/
+
+Управление складом: на «волнах» операций | https://habrahabr.ru/post/254561/
+
+RapidMiner – Data Mining и BigData у вас дома, быстро и без подготовки (почти) | https://habrahabr.ru/company/croc/blog/254467/
+
+Батяня-комбат для разработчика: специально обученные чуваки, которые как консильери в мафии | https://habrahabr.ru/company/tceh/blog/254459/
+
+Big Data в Билайне: реальный опыт | https://habrahabr.ru/company/beeline/blog/254469/
+
+Моделирование функциональных и физических событий в логической парадигме | https://habrahabr.ru/post/254445/
+
+Настройка WMS на складе с узкопроходной технологией | https://habrahabr.ru/post/254295/
+
+Имитационная модель логистического центра | https://habrahabr.ru/post/254067/
+
+Антифрод. Архитектура сервиса (часть 3) | https://habrahabr.ru/post/254037/
+
+Антифрод. Функциональные и нефункциональные требования (часть 2) | https://habrahabr.ru/post/253731/
+
+HP Software: системы мониторинга приложений | https://habrahabr.ru/company/muk/blog/253689/
+
+Управление решениями в SEBoK | https://habrahabr.ru/post/253679/
+
+Демонстрация программы ZyXEL Wireless Optimizer | https://habrahabr.ru/company/muk/blog/253685/
+
+Антифрод. Быстро, дешево… отлично (часть 1) | https://habrahabr.ru/post/253725/
+
+Плюсы и минусы заказной разработки без ТЗ | https://habrahabr.ru/post/253715/
+
+Интеграция Bolid в 1С или как мы приручили СКУД | https://habrahabr.ru/company/ifree/blog/253551/
+
+Централизованное журналирование в MongoDB | https://habrahabr.ru/company/ultima/blog/253367/
+
+Ричард Столлман: Почему нам нужны свободные цифровые схемы железа | https://habrahabr.ru/post/253250/
+
+Автоматизация финансовой отчетности | https://habrahabr.ru/post/252817/
+
+Что такое WMS? | https://habrahabr.ru/post/252889/
+
+130 тысяч камер видеонаблюдения – как заставить их работать? | https://habrahabr.ru/company/dit/blog/252639/
+
+Мониторинг цен ритейлеров в России | https://habrahabr.ru/post/252549/
+
+Класс объектов или объекты класса? | https://habrahabr.ru/post/252467/
+
+Чем отличается ворона от письменного стола Или разница между «ихними» модулями и «нашими» компонентами | https://habrahabr.ru/company/ultima/blog/251903/
+
+«Тяжёлый» прикладной софт: будни разработки и внедрения | https://habrahabr.ru/company/croc/blog/251995/
+
+Основные принципы системного анализа в SEBoK | https://habrahabr.ru/post/251831/
+
+Антипаттерны проектирования: Functional Decomposition | https://habrahabr.ru/post/251089/
+
+Буриданов осел и композиция конфигурации | https://habrahabr.ru/company/ultima/blog/250685/
+
+Что такое 1С. О сложной системе простыми словами | https://habrahabr.ru/company/trinion/blog/250893/
+
+Внедрение технологии единого источника DITA в компании-разработчике ПО | https://habrahabr.ru/company/docsvision/blog/250917/
+
+Управление неуправляемым и мониторинг критичного | https://habrahabr.ru/post/250487/
+
+Интервью Ольги Павловой: «Кризис пока никак не отразился на индустрии сайтостроения. Работать можно» | https://habrahabr.ru/company/sqalab/blog/250421/
+
+Мысли | https://habrahabr.ru/post/250135/
+
+ИТ весна в Минске | https://habrahabr.ru/company/sqalab/blog/250113/
+
+Проектирование и разработка корпоративных web приложений | https://habrahabr.ru/post/249863/
+
+Как и зачем мы делаем TLS в Яндексе | https://habrahabr.ru/company/yandex/blog/249771/
+
+Плагин «Unread issues» — как мы уведомляем сотрудников в Redmine. Общая концепция | https://habrahabr.ru/post/249769/
+
+(Видео) Как документировать проект на старте и объемы работ проекта | https://habrahabr.ru/company/muk/blog/249685/
+
+(Видео) Офис управления проектами за 10 минут | https://habrahabr.ru/company/muk/blog/249465/
+
+Почему компании не умеют обращаться с деньгами | https://habrahabr.ru/post/249369/
+
+Монолитная система VS множество самостоятельных модулей на примере притчи о слоне и мудрецах | https://habrahabr.ru/post/249247/
+
+На тему моделирования предметной области в терминах ООП | https://habrahabr.ru/post/249193/
+
+Особенности моделирования предметной области с помощью ООП | https://habrahabr.ru/post/249165/
+
+Основные функции ETL-систем | https://habrahabr.ru/post/248231/
+
+Как мы строим систему обработки сообщений | https://habrahabr.ru/post/248093/
+
+Именованные параметры C++. Не пригодились | https://habrahabr.ru/post/246711/
+
+Предметно-ориентированное проектирование в PHP | https://habrahabr.ru/post/247775/
+
+BPMN: Моделирование физических событий | https://habrahabr.ru/post/247457/
+
+Закон Фиттса или как его использовать | https://habrahabr.ru/post/247257/
+
+Физические и функциональные объекты (Продолжение) | https://habrahabr.ru/post/247225/
+
+Что такое событие, или зачем четырехмерная геометрия бизнес-аналитику? | https://habrahabr.ru/post/246991/
+
+Как мы строили «Дерево неисправностей» | https://habrahabr.ru/post/246765/
+
+Знакомство с парадигмами построения моделей предметной области | https://habrahabr.ru/post/246313/
+
+Имитационное моделирование: создание терминов | https://habrahabr.ru/post/246307/
+
+Система домашней автоматизации TAIYITO | https://habrahabr.ru/post/246135/
+
+UHF в системах учета рабочего времени и контроля доступа | https://habrahabr.ru/company/scancode/blog/245193/
+
+Информационные объекты или причина одного заблуждения | https://habrahabr.ru/post/246017/
+
+Tibbo в создании ГИС ЖКХ | https://habrahabr.ru/company/scancode/blog/245189/
+
+Моделирование функциональных объектов | https://habrahabr.ru/post/245267/
+
+Пример написания функциональных требований к Enterprise-системе | https://habrahabr.ru/post/245625/
+
+В поисках Святого Грааля бизнес-анализа | https://habrahabr.ru/post/245241/
+
+Process Mining: знакомство | https://habrahabr.ru/post/244879/
+
+В поисках идеального файлового хранилища | https://habrahabr.ru/post/244491/
+
+Универсальный GUI | https://habrahabr.ru/post/244281/
+
+Как я документирую процесс разработки | https://habrahabr.ru/post/244247/
+
+Комнатная метеостанция с сетевым интерфейсом на Tibbo Project System | https://habrahabr.ru/company/scancode/blog/243787/
+
+ProductCamp Minsk 2014 — видеозаписи и обзор конференции | https://habrahabr.ru/post/242313/
+
+Знакомство с системой домашней автоматизации HDL | https://habrahabr.ru/post/241347/
+
+Системы оплаты проезда на основе DSRC снаружи и внутри | https://habrahabr.ru/post/240047/
+
+7 лучших инструментов для решения бизнес-задач от бизнес консультанта дженералиста | https://habrahabr.ru/company/trinion/blog/239159/
+
+V2V, V2I, технологии и возможное будущее автомобильного транспорта | https://habrahabr.ru/post/237447/
+
+ITIL для разработчиков | https://habrahabr.ru/company/dataart/blog/237263/
+
+Как не надо делать федеральные информационные системы | https://habrahabr.ru/post/236879/
+
+Как я провёл лето: летняя школа-практикум «Компьютерный континуум-2014» | https://habrahabr.ru/company/intel/blog/235225/
+
+10 правил для бизнес-аналитика | https://habrahabr.ru/post/236067/
+
+Чем грозит движок бизнес-процессов программисту на примере Apache Activiti | https://habrahabr.ru/post/235997/
+
+ООБД без ООП | https://habrahabr.ru/post/235725/
+
+Анализ кода сервисов бронирования отелей и авиаперелётов | https://habrahabr.ru/post/235045/
+
+Каким должен быть сервис реализации медиа-контента, или почему процветает пиратство | https://habrahabr.ru/post/234005/
+
+Рынок аналитиков и руководителей проектов | https://habrahabr.ru/post/233969/
+
+Сбой в DNS у регистратора R01 и несколько роковых случайностей | https://habrahabr.ru/post/232363/
+
+Бизнес-архитектура систем взимания платы с автомобилей с использованием данных спутниковой навигации | https://habrahabr.ru/post/232167/
+
+Чистое и грязное тестовые окружения | https://habrahabr.ru/company/acronis/blog/232099/
+
+Нефункциональные требования к программному обеспечению. Часть 1 | https://habrahabr.ru/post/231961/
+
+ФИАС или КЛАДР: выбираем справочник адресов | https://habrahabr.ru/company/hflabs/blog/230823/
+
+Режим реального времени в WebScada на базе технологий OPC UA и WebSocket | https://habrahabr.ru/post/229975/
+
+Как устроена система SMSDirect | https://habrahabr.ru/company/ifree/blog/229279/
+
+Метапрограммирование (с примерами на JavaScript) | https://habrahabr.ru/post/227753/
+
+Почему Ваза утонул, а С++ всё ещё на плаву | https://habrahabr.ru/company/infopulse/blog/227529/
+
+Размышления о блюзе — еще раз про exception handling | https://habrahabr.ru/post/227195/
+
+Покажите мне рекламу, я готов | https://habrahabr.ru/post/227025/
+
+Как делается сокращение простоя критичных систем | https://habrahabr.ru/company/croc/blog/226471/
+
+NetLogo: И взрослым, и детям | https://habrahabr.ru/post/220589/
+
+Раскрывая секрет. Архитектура Secret | https://habrahabr.ru/post/225975/
+
+Перекодер — другой взгляд на НСИ | https://habrahabr.ru/company/hflabs/blog/225469/
+
+Ошибки A/B-тестирования в AirBnB | https://habrahabr.ru/company/cloverr/blog/224461/
+
+Analyst Days III: вместе с вами мы сделаем эту конференцию лучшей в области системного и бизнес-анализа | https://habrahabr.ru/company/sqalab/blog/223059/
+
+Мозговые штурмы не так эффективны как кажется | https://habrahabr.ru/company/skbkontur/blog/222955/
+
+Консенсус в распределенных системах. Paxos | https://habrahabr.ru/post/222825/
+
+Analyst Days: Ирина Сурова — Использование трассировок на практике | https://habrahabr.ru/company/sqalab/blog/221909/
+
+Документирование — отдельная статья доходов проекта | https://habrahabr.ru/post/221249/
+
+Есть ли жизнь после амазона? | https://habrahabr.ru/company/sdn/blog/220501/
+
+Полезные навыки аналитиков. Как стать профессионалом | https://habrahabr.ru/company/sqalab/blog/219667/
+
+Диковинный аналитический зверь Axiom | https://habrahabr.ru/post/219439/
+
+Системные и бизнес-аналитики в ожидании самого значимого события сферы! | https://habrahabr.ru/company/sqalab/blog/219423/
+
+QlikView. Создадим свое первое приложение?… | https://habrahabr.ru/post/218737/
+
+Метод сжатия задач | https://habrahabr.ru/post/218633/
+
+Чего я хочу от инструментов разработки требований. Затычки, костыли и грабли СУТ | https://habrahabr.ru/company/sqalab/blog/217737/
+
+Конференция Analyst Days словами участников | https://habrahabr.ru/company/sqalab/blog/217351/
+
+Легко ли стать аналитиком? | https://habrahabr.ru/company/sqalab/blog/216543/
+
+Документирование в разработке ПО | https://habrahabr.ru/post/215837/
+
+Завершен перевод книги Эдди Османи «Паттерны для масштабируемых JavaScript-приложений» | https://habrahabr.ru/post/215493/
+
+Агрегаты многомерных кубов OLAP в оперативной памяти | https://habrahabr.ru/post/214643/
+
+Предварительная регистрация на Analyst Days-III – еще доступна скидка до 35%! | https://habrahabr.ru/company/sqalab/blog/214239/
+
+Impact Mapping — как dev-команде перестать делать то, что требуют, и начать делать то, что нужно? | https://habrahabr.ru/company/sqalab/blog/213993/
+
+За посетителями аэропорта Ньюарка будут следить светодиодные лампы | https://habrahabr.ru/company/telebreeze/blog/213355/
+
+Функционал CarPC | https://habrahabr.ru/post/211540/
+
+Шпаргалка по шаблонам проектирования | https://habrahabr.ru/post/210288/
+
+Масштабировать просто. Часть третья — стратегии | https://habrahabr.ru/post/209758/
+
+Назад, к технологиям верхнего палеолита, от любимых всеми REST, STATEless, CRUD, CGI, FastСGI и MVC | https://habrahabr.ru/post/204958/
+
+Быстрый вывод графиков в Матлабе | https://habrahabr.ru/post/209506/
+
+Масштабировать просто. Часть вторая — кэширование | https://habrahabr.ru/post/209352/
+
+Физический дизайн структур хранения в СУБД Teradata | https://habrahabr.ru/company/teradata/blog/209208/
+
+Масштабировать просто | https://habrahabr.ru/post/209202/
+
+Помогаем роботу-сортировщику на почте | https://habrahabr.ru/post/208444/
+
+Принципы работы СУБД. MVCC | https://habrahabr.ru/post/208400/
+
+Разработка технического задания (ТЗ) на программный продукт с точки зрения заказчика. Работаем над ошибками | https://habrahabr.ru/post/207708/
+
+Опыт разработки сервис-ориентированной системы | https://habrahabr.ru/post/207528/
+
+Нужно ли читать код используемых библиотек? | https://habrahabr.ru/company/infopulse/blog/207336/
+
+Симулируем чайник в Wind River Simics | https://habrahabr.ru/company/intel/blog/205074/
+
+Вы встречались с анализом леса популяции запросов SQL промышленного приложения (например, для оптимизации)? | https://habrahabr.ru/post/205538/
+
+Аутсорсинг: как защитить свои разработки от копирования | https://habrahabr.ru/company/promwad/blog/205374/
+
+Выбор CASE инструмента для разработки процессов в BPMN | https://habrahabr.ru/post/204686/
+
+Геймификация в деле | https://habrahabr.ru/company/livetex/blog/203054/
+
+Системный аналитик: что можно ожидать от профессии? | https://habrahabr.ru/post/202762/
+
+Почему самолёты не летают сами? | https://habrahabr.ru/post/202574/
+
+О стандартах мыслей свежих несколько | https://habrahabr.ru/post/201888/
+
+Как быстро и точно оценить проект без ТЗ | https://habrahabr.ru/post/201652/
+
+Как создать концепцию продукта и написать ТЗ на разработку электроники | https://habrahabr.ru/company/promwad/blog/200966/
+
+Долгая дорога Ганта в TeamLab Office. Рассказ от первых лиц | https://habrahabr.ru/company/teamlab/blog/200846/
+
+Как мы использовали MATLAB. История одного фейла | https://habrahabr.ru/post/199142/
+
+Курица или яйцо: что раньше, прототипы или ТЗ? | https://habrahabr.ru/company/adv/blog/198762/
+
+С чего начинается создание прототипа | https://habrahabr.ru/post/198074/
+
+3 способа разработки | https://habrahabr.ru/company/infopulse/blog/198082/
+
+Целеориентированная автоматизация систем управления — ЦОАСУ/GOMA | https://habrahabr.ru/post/197680/
+
+О протоколах замолвите слово… Или давайте разрабатывать чайник вместе! | https://habrahabr.ru/company/avi/blog/197372/
+
+История о двух мостах | https://habrahabr.ru/company/infopulse/blog/197028/
+
+Концептуальная модель индивидуального подхода к преподавателям и студентам при организации и планировании учебного процесса в вузе | https://habrahabr.ru/post/195840/
+
+А у вас есть бэкап-план? | https://habrahabr.ru/post/195684/
+
+Реактивный манифест | https://habrahabr.ru/post/195562/
+
+Домашняя автоматизация | https://habrahabr.ru/post/194402/
+
+Интеллектуальное управление процессом обучения | https://habrahabr.ru/post/194240/
+
+Информационно аналитическая система для контроля и управления безопасностью дорожного движения | https://habrahabr.ru/post/191452/
+
+Чек-лист преодоления CAP-теоремы | https://habrahabr.ru/company/infopulse/blog/190690/
+
+Фраза «перезалил на habrastorage» теряет смысл | https://habrahabr.ru/post/189610/
+
+Опрос — какой интерфейс предпочтительнее для финансового ПО? | https://habrahabr.ru/post/186938/
+
+Поддержка ИТ систем в производственной зоне | https://habrahabr.ru/post/186360/
+
+Немного на тему разработки веб-архивов | https://habrahabr.ru/post/185816/
+
+Орудия для государственной измены | https://habrahabr.ru/post/185916/
+
+Как тестировать электронику на производстве: анализ современных технологий | https://habrahabr.ru/company/promwad/blog/185356/
+
+Бесшовный роуминг Wi-Fi | https://habrahabr.ru/post/185138/
+
+Что делать если вдруг перестала работать программа | https://habrahabr.ru/post/183338/
+
+Эволюция альтруизма и P2P | https://habrahabr.ru/post/182342/
+
+Советы новичкам при проектировании модульных производственных систем | https://habrahabr.ru/post/182132/
+
+Отказоустойчивость систем на базе HP Storageworks P4xxx без третьего дата центра | https://habrahabr.ru/post/181956/
+
+Бортовые информационные системы летательных аппаратов | https://habrahabr.ru/post/180693/
+
+Видеозаписи летнего аналитического фестиваля 2010-2012 | https://habrahabr.ru/post/180541/
+
+Какими должны быть стандарты (на примере медицинских данных) | https://habrahabr.ru/post/179651/
+
+Системы взимания платы на базе спутниковой навигации. Часть 1 | https://habrahabr.ru/post/179905/
+
+Корпоративный кластер. Мысли вслух | https://habrahabr.ru/post/179725/
+
+Redis — главное хранилище? Что за хрень?! | https://habrahabr.ru/post/178525/
+
+Эволюция СВП. Проезд свободен | https://habrahabr.ru/post/179119/
+
+Анализ методики проектирования: ошибки, ситуации и полезные выводы из них | https://habrahabr.ru/post/168191/
+
+Переводы, привязанные к источнику | https://habrahabr.ru/post/178711/
+
+Становление аналитика | https://habrahabr.ru/post/178475/
+
+Как стать настоящим аналитиком? Часть 2. Выявляем требования | https://habrahabr.ru/company/nordavind/blog/178379/
+
+Вне области применения | https://habrahabr.ru/post/178035/
+
+Как стать настоящим аналитиком требований. Часть 1. Великими аналитиками рождаются или становятся? | https://habrahabr.ru/company/nordavind/blog/177571/
+
+В чём заключается работа системного аналитика (видео) | https://habrahabr.ru/post/177519/
+
+Хвостовое масштабирование | https://habrahabr.ru/post/168031/
+
+Мастер-класс «Архитектура ПО». Базовый курс для подготовки к международной сертификации iSAQB | https://habrahabr.ru/post/177015/
+
+Интеллектуальные транспортные системы — проблемы на пути внедрения в России | https://habrahabr.ru/post/175497/
+
+Навигация: вариант реализации для корпоративного приложения | https://habrahabr.ru/post/175507/
+
+Как я Search внедрял или типичные проблемы внедрения PDM cистем на пост-советских производствах | https://habrahabr.ru/post/175035/
+
+Перспективы развития: Сингулярность и «Разумное Управление» | https://habrahabr.ru/post/173433/
+
+SIEM для ИТ и ИБ | https://habrahabr.ru/company/pt/blog/173377/
+
+Как создать новый продукт для рынка электроники. Часть 2 | https://habrahabr.ru/company/promwad/blog/172771/
+
+Организация сетевого взаимодействия на Qt | https://habrahabr.ru/post/171553/
+
+Шаблон проектирования «Спецификация» | https://habrahabr.ru/post/171559/
+
+Как создать новый продукт для рынка электроники. Часть 1 | https://habrahabr.ru/company/promwad/blog/171269/
+
+Соответствие стандартам и политикам в сканерах уязвимостей и SIEM | https://habrahabr.ru/company/pt/blog/171083/
+
+Информационная поддержка изделия: спецприём KANO | https://habrahabr.ru/post/171009/
+
+Три буквы, о которых Вы не знаете | https://habrahabr.ru/post/170267/
+
+Помощник моделирования БД: хорошо забытое старое | https://habrahabr.ru/post/170207/
+
+Для чего нужны шаблоны проектирования | https://habrahabr.ru/post/170125/
+
+Напиши нам программку… | https://habrahabr.ru/post/169123/
+
+Насколько плохим код должен быть? | https://habrahabr.ru/post/166341/
+
+Планирование архитектуры проекта | https://habrahabr.ru/company/selectel/blog/162217/
+
+Город как система: проектируем сами | https://habrahabr.ru/post/165467/
+
+ACL: в поисках идеального решения | https://habrahabr.ru/post/164807/
+
+Методика проектирования CORE | https://habrahabr.ru/post/163881/
+
+Управление инженерными системами здания с помощью решений на базе оборудования «Болид» + SCADA «Алгоритм» | https://habrahabr.ru/post/160883/
+
+О компонентах и интерфейсах | https://habrahabr.ru/post/160735/
+
+ZigBee. Совместимость устройств, профили приложений, кластеры, конечные точки, привязки | https://habrahabr.ru/post/159705/
+
+Вопросы «Что? Где? Когда?» в функциональных требованиях | https://habrahabr.ru/post/159091/
+
+Разработка автоматической системы пожаротушения для серверной | https://habrahabr.ru/post/157571/
+
+Динамическая интерпретация метамоделей | https://habrahabr.ru/post/154891/
+
+Сложности накопления данных для интеллектуального анализа | https://habrahabr.ru/post/154787/
+
+Тренды будущего: распределенное робопроизводство, геймификация, спортивный интернет | https://habrahabr.ru/post/153797/
+
+Как GPS трекер стал логером или простой и дешевый способ организовать мониторинг физических параметров удаленных объектов | https://habrahabr.ru/post/153719/
+
+МиниSCADA своими руками | https://habrahabr.ru/post/153619/
+
+Data Context Interaction (DCI) — эволюция объектно-ориентированной парадигмы | https://habrahabr.ru/post/151169/
+
+Идеальное хранилище документов | https://habrahabr.ru/post/148670/
+
+Практическое метаметамоделирование | https://habrahabr.ru/post/150021/
+
+Разработка технического задания (ТЗ) на программный продукт с точки зрения заказчика | https://habrahabr.ru/post/149810/
+
+Microsoft и полиция Нью-Йорка испытают систему отслеживания преступлений | https://habrahabr.ru/post/149428/
+
+Семь практических методов и инструментов, позволяющих оптимизировать работу над диссертацией | https://habrahabr.ru/post/148907/
+
+Ограничение проектирования систем на уровне сознания | https://habrahabr.ru/post/148461/
+
+Системный подход в управлении требованиями | https://habrahabr.ru/post/148411/
+
+Автоматический контроль архитектуры в Visual Studio | https://habrahabr.ru/post/146655/
+
+Архитектура и архитекторы | https://habrahabr.ru/post/146647/
+
+Про обратную связь | https://habrahabr.ru/company/infopulse/blog/146631/
+
+Автоматизация ИТ процессов в условиях низкой мотивации и/или квалификации исполнителей | https://habrahabr.ru/post/145409/
+
+Архитектура систем управления самолётом | https://habrahabr.ru/post/145371/
+
+Построение эффективных бизнес-систем. Глава 2.2 Бизнес-процессы: Локальная оптимизация | https://habrahabr.ru/post/145170/
+
+Не БД | https://habrahabr.ru/post/145061/
+
+Разработка ПО авионики | https://habrahabr.ru/post/144686/
+
+Language Oriented Programming (LOP) в действии | https://habrahabr.ru/company/sqalab/blog/143306/
+
+Построение эффективных бизнес-систем. Глава 2.1 Бизнес-процессы: Словарь. Поточный подход. Бизнес и трубопроводы | https://habrahabr.ru/post/143231/
+
+Какая система организации тех. поддержки на Ваш взгляд (потребителя) удобнее | https://habrahabr.ru/post/143015/
+
+Прототипная модель данных | https://habrahabr.ru/post/142890/
+
+Rule Engine, или как сделать систему проще | https://habrahabr.ru/post/142622/
+
+Николай Гребнев (CUSTIS) — Что такое DDD? — доклад с конференции ADD | https://habrahabr.ru/company/sqalab/blog/142491/
+
+Построение эффективных бизнес-систем. Глава 1: Введение | https://habrahabr.ru/post/141999/
+
+Проектирование веб-приложений с применением Data Management System (на основе технологии скаффолдинга) | https://habrahabr.ru/post/141207/
+
+Watson-as-a-Service | https://habrahabr.ru/company/ibm/blog/140497/
+
+Техническое задание: как уберечь себя от ошибок и рисков | https://habrahabr.ru/post/139835/
+
+Электронный документооборот, ЭЦП и интеграция систем. Философские выводы за бокальчиком вина | https://habrahabr.ru/post/138405/
+
+Архитектура платных дорог | https://habrahabr.ru/post/137737/
+
+Меню разработчика | https://habrahabr.ru/post/137255/
+
+Облачное ЖКХ: взгляд изнутри | https://habrahabr.ru/post/137132/
+
+Как моделировать бизнес-процессы в нотации eEPC? | https://habrahabr.ru/post/137086/
+
+Облачное ЖКХ | https://habrahabr.ru/post/136914/
+
+Елочка на графике или пульс Нового года | https://habrahabr.ru/post/136569/
+
+Что такое ITSM? | https://habrahabr.ru/post/136517/
+
+Бизнес-процессы в нагрузку | https://habrahabr.ru/post/128912/
+
+Автоматизация производства. Готовимся писать АСУП | https://habrahabr.ru/post/128694/
+
+Открытие «Идеальной Системы» с помощью эзотерического метода познания | https://habrahabr.ru/post/127907/
+
+Проектирование подсистемы питания электронного измерителя | https://habrahabr.ru/post/111358/
+
+ERP? Для начала целостное понимание бизнес-системы | https://habrahabr.ru/post/126175/
+
+Два подхода к выполнению странных заказов | https://habrahabr.ru/post/126121/
+
+АСУДД: Эволюция «умных» светофоров | https://habrahabr.ru/post/125282/
+
+С чем едят консалтинг? И зачем? | https://habrahabr.ru/post/124965/
+
+АСУДД: Что висит над дорогой? | https://habrahabr.ru/post/124249/
+
+Методы бизнес-анализа | https://habrahabr.ru/post/124164/
+
+Декомпозиция процесса разработки корпоративного сайта по методологии IDEF0 | https://habrahabr.ru/post/122279/
+
+Разбор архитектуры автоматизированной системы управления дорожным движением из стандарта U.S. DoT ITS | https://habrahabr.ru/post/121232/
+
+Архитектура интеллектуальных транспортных систем на примере U.S. DoT ITS | https://habrahabr.ru/post/121169/
+
+Об одном лифте в Днепропетровске | https://habrahabr.ru/post/120976/
+
+Ещё один взгляд на транспорт | https://habrahabr.ru/post/120742/
+
+Автоматизация автомобильных дорог глазами айтишника | https://habrahabr.ru/post/120670/
+
+Летняя школа системного анализа — Набор | https://habrahabr.ru/post/119644/
+
+Классификация систем автоматизации допечатной деятельности | https://habrahabr.ru/post/119581/
+
+Процессный подход к проектированию интерфейсов | https://habrahabr.ru/post/119506/
+
+Проектируем приложения, которые легко тестировать | https://habrahabr.ru/post/113718/
+
+Кейс «Проектирование веб-сервиса бронирования билетов». Бизнес-анализ. Анализ бизнес-проблем | https://habrahabr.ru/post/108777/
+
+Кейс «Проектирование веб-сервиса бронирования билетов». Бизнес-анализ. Описание предметной области | https://habrahabr.ru/post/108290/
+
+Кейс «Проектирование веб-сервиса бронирования билетов». Бизнес-анализ. Описание существующих бизнес-процессов (AS-IS) | https://habrahabr.ru/post/107908/
+
+Кейс «Проектирование веб-сервиса бронирования билетов». Бизнес-анализ. Контекст и заинтересованные лица | https://habrahabr.ru/post/107488/
+
+Цикл статей по проектированию веб-сервиса | https://habrahabr.ru/post/107487/
+
+Это занимает лишь долю секунды | https://habrahabr.ru/post/93549/
+
+Архитектура CMS. Модель данных. Часть 3 | https://habrahabr.ru/post/55216/
+
+Архитектура CMS. Модель данных. Часть 2 | https://habrahabr.ru/post/53615/
+
+Архитектура CMS. Модель данных. Часть 1 | https://habrahabr.ru/post/53388/
+

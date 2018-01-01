@@ -1,0 +1,616 @@
+Мини-бенчмарк домашних релейных компьютеров | https://habrahabr.ru/post/342256/
+
+Постигаем Си глубже, используя ассемблер. Часть 2 (условия) | https://habrahabr.ru/post/345460/
+
+Yet another kaspersky crackme | https://habrahabr.ru/post/343342/
+
+Постигаем Си глубже, используя ассемблер | https://habrahabr.ru/post/344896/
+
+Пишем простой модуль ядра Linux | https://habrahabr.ru/post/343828/
+
+Как выйти на путь разработки ОС | https://habrahabr.ru/post/343690/
+
+Подробный разбор решения crackme01_x64 | https://habrahabr.ru/post/342676/
+
+WeChat. Сериализуем объект — получаем СМС | https://habrahabr.ru/company/bringo/blog/339772/
+
+Пишем x86-64 JIT-комплятор с нуля в стоковом Python | https://habrahabr.ru/post/342410/
+
+Врайтап осеннего crackme от «Лаборатории Касперского» | https://habrahabr.ru/post/339892/
+
+Тернистый путь Hello World | https://habrahabr.ru/post/339698/
+
+Реверс-инжиниринг первых умных часов Seiko UC-2000 | https://habrahabr.ru/post/338116/
+
+Разбираем WeChat — второй по популярности мессенджер в мире | https://habrahabr.ru/company/bringo/blog/338940/
+
+Дайджест KolibriOS #13 | https://habrahabr.ru/post/338602/
+
+Пишем и парсим на ассемблере MCS-51, как на Бейсике | https://habrahabr.ru/post/337168/
+
+Попиксельная заливка экрана в Wolfenstein 3D | https://habrahabr.ru/post/337036/
+
+История предсказания переходов с 1 500 000 года до н.э. по 1995 год | https://habrahabr.ru/post/337000/
+
+Как (и зачем) мы портировали Shenzhen Solitaire под MS-DOS | https://habrahabr.ru/post/336840/
+
+Обходим коммерческую защиту методом black box и пишем packet hack для lineage 2 | https://habrahabr.ru/post/336842/
+
+256 байт intro «Springs» для компьютера Vectrex | https://habrahabr.ru/post/336784/
+
+Как мы мультиплеер для NFS MW писали | https://habrahabr.ru/post/334744/
+
+Быстрое удаление пробелов из строк на процессорах ARM — альтернативный анализ | https://habrahabr.ru/post/334142/
+
+Динамическая инструментация — не просто, а тривиально*: пишем yet another инструментацию для American Fuzzy Lop | https://habrahabr.ru/post/332076/
+
+Быстрое удаление пробелов из строк на процессорах ARM | https://habrahabr.ru/post/332710/
+
+Как я нашёл баг в процессорах Intel Skylake | https://habrahabr.ru/post/332552/
+
+A fistful of relays. Часть 4. Система команд или что можно уместить в 8 машинных инструкций? | https://habrahabr.ru/post/331208/
+
+Самодельный эмулятор дисковода для Amiga | https://habrahabr.ru/post/330668/
+
+Раскрываем тему WebAssembly с Бренданом Айком | https://habrahabr.ru/post/326276/
+
+MASM, TASM, FASM, NASM под Windows и Linux | https://habrahabr.ru/post/326078/
+
+Дайджест от Omegicus: антиалиасинг шрифтов и библиотека шифрования и сжатия | https://habrahabr.ru/post/324946/
+
+Исследование защиты ArtMoney. Часть первая | https://habrahabr.ru/post/255767/
+
+Итоги: что сильнее – ассемблер или Хабраэффект? | https://habrahabr.ru/post/319028/
+
+Писать веб-сайты на ассемблере полезно и приятно | https://habrahabr.ru/post/318916/
+
+A fistful of relays. Часть 3 — декодер команд и управляющий автомат | https://habrahabr.ru/post/318500/
+
+История одного бага: выравнивание данных на x86 | https://habrahabr.ru/post/318456/
+
+Разработка игры Frogger для компьютера Vectrex | https://habrahabr.ru/post/317656/
+
+Собственная платформа. Часть 0.2 Теория. Интерпретатор CHIP8 | https://habrahabr.ru/post/316788/
+
+Избранные места из популярного учебника микроэлектроники на русском, который наконец-то выходит на бумаге | https://habrahabr.ru/post/317558/
+
+Операционная система с нуля (почти) | https://habrahabr.ru/post/316112/
+
+Можно скачать материалы семинара Nanometer ASIC (РОСНАНО / МИСиС / Imagination Technologies) — ликбез по всему про чипы | https://habrahabr.ru/post/314892/
+
+Археология программиста | https://habrahabr.ru/post/314756/
+
+Хардвер вторгается в софтвер на московской конференции SECR | https://habrahabr.ru/post/314304/
+
+Интеграция внешней объектной системы в Delphi на примере IBM SOM | https://habrahabr.ru/post/313980/
+
+Архитектура и программирование Philips Videopac (Magnavox Odyssey 2) | https://habrahabr.ru/post/313412/
+
+Реверс-инжиниринг «Казаков», часть третья: напёрстки в LAN | https://habrahabr.ru/post/312686/
+
+Архитектура и программирование компьютера Vectrex | https://habrahabr.ru/post/313218/
+
+Архитектура и программирование компьютера Texas Instruments TI-99/4a | https://habrahabr.ru/post/313058/
+
+Для любителей ПЛИС-ов, ASIC-ов, архитектуры и микроархитектуры — еще про семинары и про конвейеры | https://habrahabr.ru/post/312354/
+
+ГОСТ Р 34.12 '15 на SSE2, или Не так уж и плох Кузнечик | https://habrahabr.ru/post/312224/
+
+Yersinia — шифруем программы, тестируем антивирусы | https://habrahabr.ru/post/311930/
+
+Микросхемы с разных сторон: семинары Nanometer ASIC, MIPSfpga и Connected MCU в России, Украине и Казахстане | https://habrahabr.ru/post/311562/
+
+Возвращаем драйверам AMD поддержку DirectX12 старыми процессорами | https://habrahabr.ru/post/310864/
+
+Итоги GSOC | https://habrahabr.ru/company/kolibrios/blog/309814/
+
+История языков программирования: как Fortran позволил пользователям общаться с ЭВМ на «ты» | https://habrahabr.ru/post/309914/
+
+Программируем «Мегапроцессор» | https://habrahabr.ru/post/309654/
+
+Не все языки программирования одинаково полезны | https://habrahabr.ru/post/309440/
+
+Подарок на 1 сентября всем поклонникам цифровой схемотехники и архитектуры компьютера | https://habrahabr.ru/post/308976/
+
+Синий. Нет! Жёлтый! — или — Дают ли новые языки программирования прирост скорости разработки | https://habrahabr.ru/post/308550/
+
+Вопросы Хейлмейера, Пирса и ответы наших разработчиков | https://habrahabr.ru/company/kolibrios/blog/308050/
+
+Каламбуры типизации функций в C | https://habrahabr.ru/post/307706/
+
+Новая редакция популярного бесплатного учебника электроники, архитектуры компьютера и низкоуровневого программирования | https://habrahabr.ru/post/306982/
+
+JIT-компилятор оптимизирует не круто, а очень круто | https://habrahabr.ru/post/305894/
+
+Вспоминаем старый добрый ZX Spectrum, пишем «Hello World» и знакомимся с демосценой | https://habrahabr.ru/post/305190/
+
+Семинары по введению во всё: от верилога и цифровой логики до микроархитектуры встроенных процессоров и RTOS-ов | https://habrahabr.ru/post/304612/
+
+Очень простой и быстрый HTML->TEXT | https://habrahabr.ru/post/304428/
+
+Методы модификации машинного кода: «селекция» vs. «генная инженерия» | https://habrahabr.ru/post/249419/
+
+Опыт полезной модификации UEFI: возвращаем Thinkpad W520 законную поддержку быстрой памяти | https://habrahabr.ru/post/303602/
+
+Оживление старого кода или как сделать хорошо приложению, которому плохо | https://habrahabr.ru/post/303164/
+
+Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте | https://habrahabr.ru/post/302570/
+
+Дайджест KolibriOS #12 | https://habrahabr.ru/company/kolibrios/blog/302094/
+
+Ассемблер/дизассемблер клавиатурных раскладок Windows с помощью flat assembler | https://habrahabr.ru/post/301882/
+
+Проекты студентов в рамках Google Summer of Code | https://habrahabr.ru/company/kolibrios/blog/282283/
+
+Новый курс по микроконтроллерам — совместный проект индустрии и университетов | https://habrahabr.ru/post/282001/
+
+Суперскалярный стековый процессор: оптимизация | https://habrahabr.ru/post/281352/
+
+Заявки студентов на проекты KolibriOS в рамках Google Summer of Code | https://habrahabr.ru/company/kolibrios/blog/280540/
+
+С++ exception handling под капотом. Часть 3 | https://habrahabr.ru/post/279149/
+
+С++ exception handling под капотом. Часть 2 | https://habrahabr.ru/post/279151/
+
+Реверс-инжиниринг «Казаков», часть вторая: увеличение очереди | https://habrahabr.ru/post/278611/
+
+В Google Summer of Code 2016 вместе с KolibriOS | https://habrahabr.ru/company/kolibrios/blog/278797/
+
+Суперскалярный стековый процессор: скрещиваем ужа и ежа | https://habrahabr.ru/post/278575/
+
+Обзор примитивов синхронизации — спинлоки и тайны ядра процессора | https://habrahabr.ru/post/278685/
+
+System 6 (Systemicus) GUI, некоторые аспекты | https://habrahabr.ru/post/278631/
+
+Дайджест KolibriOS #11 все новости с последнего выпуска и Google Summer of Code 2016 | https://habrahabr.ru/company/kolibrios/blog/278315/
+
+CAT — Управление размером кэша процессора | https://habrahabr.ru/company/intel/blog/144196/
+
+Реверс-инжиниринг и замедление «Казаков» | https://habrahabr.ru/post/277067/
+
+Добавляем инструкции в микропроцессор MIPS, которые работают в конвейере как его собственные | https://habrahabr.ru/post/276205/
+
+Анализ активности пользователей и разработчиков | https://habrahabr.ru/company/kolibrios/blog/276707/
+
+Компактная ОС для ARM процессоров | https://habrahabr.ru/post/276633/
+
+«Digital Rain» для Windows в 314 байтах | https://habrahabr.ru/post/276371/
+
+Взлом Kaspersky Crackme: исследование защитного механизма (Часть 1) | https://habrahabr.ru/post/276149/
+
+«Hello World!» на C массивом int main[] | https://habrahabr.ru/post/275861/
+
+Динамическое управление прерываниями в ARM | https://habrahabr.ru/post/275351/
+
+Как начать работать с MIPSfpga | https://habrahabr.ru/post/275215/
+
+Слон и Моська, или подключение LCD к Attiny13A | https://habrahabr.ru/post/274895/
+
+Обезвреживаем бомбу с Radare2 | https://habrahabr.ru/post/274617/
+
+Дайджест по итогам 2015 года | https://habrahabr.ru/company/kolibrios/blog/274487/
+
+Сказ о компрессоре, который можно называть, но не помню, как | https://habrahabr.ru/post/274461/
+
+memset — сторона тьмы | https://habrahabr.ru/post/272269/
+
+Знакомьтесь, loop fracking | https://habrahabr.ru/post/271905/
+
+Написание простейшей программы под Linux в машинных кодах | https://habrahabr.ru/post/271519/
+
+Полвека «универсальным машинным языкам» (1966—2016): прошлое, настоящее, будущее | https://habrahabr.ru/post/270379/
+
+Flytouch 2/Superpad III и попытка сэкономить байты в ядре Линукс | https://habrahabr.ru/company/simbirsoft/blog/270885/
+
+Дайджест KolibriOS #10: коротко о накопившемся | https://habrahabr.ru/company/kolibrios/blog/270601/
+
+Ассемблер Intel-4004 — для развлечения | https://habrahabr.ru/post/269821/
+
+Шрифты в условиях экстремальной экономии | https://habrahabr.ru/company/kolibrios/blog/269495/
+
+PCEPTPDPTE | https://habrahabr.ru/post/269295/
+
+PE (Portable Executable): На странных берегах | https://habrahabr.ru/post/266831/
+
+Реверс-инжиниринг полёта Бэтмена | https://habrahabr.ru/post/266385/
+
+Сравнение производительности С++ и C# | https://habrahabr.ru/post/266163/
+
+Дайджест KolibriOS #9: летний урожай | https://habrahabr.ru/company/kolibrios/blog/266157/
+
+Расковыриваем сжатие ресурсов в Might and Magic III | https://habrahabr.ru/post/264947/
+
+О сколько нам открытий чудных готовит Office Microsoft | https://habrahabr.ru/post/264313/
+
+Многострадальный notepad: ошибка, которую не исправляют уже 13 лет | https://habrahabr.ru/post/264081/
+
+TIS-100 — паззл про многопоточный ассемблер, который никто не ждал | https://habrahabr.ru/post/263445/
+
+Магия Ctrl-C Ctrl-V, или как перестать сохранять картинки и начать жить | https://habrahabr.ru/post/263175/
+
+Семь видов интерпретаторов виртуальной машины. В поисках самого быстрого | https://habrahabr.ru/company/intel/blog/261665/
+
+Исследование Crackme Chiwaka1 | https://habrahabr.ru/post/263093/
+
+«Pimp my game», или как «прокачивать» игры без API | https://habrahabr.ru/post/262647/
+
+Быстрая и удобная генерация IL | https://habrahabr.ru/company/skbkontur/blog/262711/
+
+Модернизация IDA Pro. Debugger-плагин. Часть I. Теория | https://habrahabr.ru/post/262433/
+
+Реверс AGTH для воссоздания альтернативного GUI | https://habrahabr.ru/post/262311/
+
+Нужна ли нормализация в числах с плавающей точкой? | https://habrahabr.ru/post/262377/
+
+Telnet и echo — кто прав, кто виноват | https://habrahabr.ru/post/262207/
+
+Учим telnet.exe правильной игре в MUD'ы | https://habrahabr.ru/post/262009/
+
+Lines и теория вероятностей | https://habrahabr.ru/post/261931/
+
+Загадка о файле-невидимке | https://habrahabr.ru/post/261733/
+
+«Прокачиваем» notepad.exe | https://habrahabr.ru/post/261507/
+
+Продолжаем разбираться с «историческими причинами» в cmd.exe | https://habrahabr.ru/post/261233/
+
+Хвостовая рекурсия в C++ с использованием 64-битных переменных — Часть 2 | https://habrahabr.ru/company/pvs-studio/blog/261029/
+
+Хвостовая рекурсия в C++ с использованием 64-битных переменных — Часть 1 | https://habrahabr.ru/company/pvs-studio/blog/261027/
+
+Избавляемся от «исторических причин» в cmd.exe | https://habrahabr.ru/post/260991/
+
+Грязные решения в реверс-инжиниринге | https://habrahabr.ru/post/260861/
+
+Разбираемся с поддержкой x64 в WPE Pro | https://habrahabr.ru/post/259459/
+
+Самая медленная инструкция x86 | https://habrahabr.ru/company/intel/blog/244565/
+
+Интервью с hidnplayr | https://habrahabr.ru/company/kolibrios/blog/257693/
+
+Trojan-Downloader.Win32.Cabby.cemx — Часть вторая — Функционал | https://habrahabr.ru/post/257681/
+
+Правим баг без исходных кодов | https://habrahabr.ru/post/257591/
+
+Форматы файлов для программ на FASM под Windows | https://habrahabr.ru/post/257551/
+
+Как заработать очки, даже не запуская игру | https://habrahabr.ru/post/257125/
+
+Реверс-инжиниринг целочисленного деления на константу | https://habrahabr.ru/post/256827/
+
+Исследование защиты PVS-Studio | https://habrahabr.ru/post/255741/
+
+Ассемблер для задач симуляции. Часть 2: ядро симуляции | https://habrahabr.ru/company/intel/blog/254027/
+
+Ассемблер для задач симуляции. Часть 1: гостевой ассемблер | https://habrahabr.ru/company/intel/blog/254419/
+
+Реактивное программирование в табличном процессоре | https://habrahabr.ru/post/254569/
+
+Низкоуровневое программирование в машинных кодах для DOS | https://habrahabr.ru/post/253325/
+
+Оптимальная сортировка непрерывного архива | https://habrahabr.ru/post/253313/
+
+Результаты Radare Summer of Code 2014 и организация нового RSoC/GSoC 2015 | https://habrahabr.ru/post/252905/
+
+Assembler вместе с C++ в Visual Studio 2013 | https://habrahabr.ru/post/252647/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 4.5 | https://habrahabr.ru/post/251841/
+
+Дайджест KolibriOS #7: как мы зиму перезимовали | https://habrahabr.ru/company/kolibrios/blog/239033/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 4 | https://habrahabr.ru/post/251479/
+
+Программа вывода лабиринта в 13… нет. 10 байт! | https://habrahabr.ru/post/251631/
+
+Использование цветовых пространств в ATTiny13a для WS2811 | https://habrahabr.ru/post/251615/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 3 | https://habrahabr.ru/post/251353/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 2 | https://habrahabr.ru/post/251199/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 1 | https://habrahabr.ru/post/251149/
+
+Пишем бота для MMORPG с ассемблером и дренейками. Часть 0 | https://habrahabr.ru/post/251137/
+
+Оптимизированная система команд для микроконтроллеров | https://habrahabr.ru/post/251063/
+
+Возвращаем оригинальные страницы меню в Phoenix SCT UEFI | https://habrahabr.ru/post/250611/
+
+Визуализация и декодирование данных с магнитных АТМ-карт | https://habrahabr.ru/post/250329/
+
+OpenOCD, ThreadX и ваш процессор | https://habrahabr.ru/post/249991/
+
+Еще немного реверс-инжиниринга UEFI PEI-модулей на другом полезном примере | https://habrahabr.ru/post/249939/
+
+Простые приемы реверс-инжиниринга UEFI PEI-модулей на полезном примере | https://habrahabr.ru/post/249655/
+
+Уязвимость MS14-063 в драйвере FastFat в ОС Windows. Разбор полетов | https://habrahabr.ru/post/248089/
+
+Сборка ICO файла с иконками в формате PNG при помощи FASM | https://habrahabr.ru/post/247425/
+
+Assembler в 30 строк на Excel | https://habrahabr.ru/post/246975/
+
+Дайджест KolibriOS #6: последняя осень | https://habrahabr.ru/company/kolibrios/blog/231433/
+
+Полноценный процессор в Minecraft: как он работает, как на нем программировать и для чего он? | https://habrahabr.ru/post/243175/
+
+Светофор в гараже. Настоящий | https://habrahabr.ru/post/242097/
+
+Как работает CPU: интерактивный урок для начинающих | https://habrahabr.ru/post/240929/
+
+Предел минимального Hello Word на AVR составляет 2 байта | https://habrahabr.ru/post/240689/
+
+Где предел минимального Hello World на AVR? | https://habrahabr.ru/post/240517/
+
+Новые решения старой задачи | https://habrahabr.ru/post/239375/
+
+Меня попросили взломать программу на собеседовании. Часть 2 | https://habrahabr.ru/post/238009/
+
+Меня попросили взломать программу на собеседовании | https://habrahabr.ru/post/237469/
+
+Python на Assembler (Tasm) | https://habrahabr.ru/post/236831/
+
+Взломать мобильную онлайн игру? Легко!. | https://habrahabr.ru/post/232531/
+
+SASM – IDE для ассемблера | https://habrahabr.ru/post/230359/
+
+Один день * Два Демопати | https://habrahabr.ru/post/229617/
+
+Вытесняющая многозадачность на ассемблере Z80 | https://habrahabr.ru/post/228049/
+
+Systemicus чаcть 2: GUI | https://habrahabr.ru/post/223979/
+
+Микропроцессор «из гаража» | https://habrahabr.ru/post/222335/
+
+(Само)идентификация процессоров. Часть вторая. Волосатый CPUID | https://habrahabr.ru/company/intel/blog/220851/
+
+(Само)идентификация процессоров. Часть первая. Сравнение архитектур | https://habrahabr.ru/company/intel/blog/220203/
+
+Реверс-инжиниринг для самых маленьких: взлом кейгена | https://habrahabr.ru/post/220245/
+
+Кидхак Prehistorik 2: анлочим уровни | https://habrahabr.ru/post/220167/
+
+Удаление Whitelist в bios ноутбуков на примере Lenovo X230 | https://habrahabr.ru/post/219893/
+
+ГОСТ 34.11-2012 Стрибог на flat assembler (x86) | https://habrahabr.ru/post/219859/
+
+Первое публичное выступление RTOS Systemicus + видео | https://habrahabr.ru/post/219851/
+
+Radare2 собирает денежные средства на проведение своего Summer of Code | https://habrahabr.ru/post/218969/
+
+Анализ приложения защищенного виртуальной машиной | https://habrahabr.ru/post/218887/
+
+Квайн на Ассемблере? Это просто | https://habrahabr.ru/post/217375/
+
+Простая прокси-DLL своими руками | https://habrahabr.ru/post/215389/
+
+Сломай меня полностью (ZeroNightsCrackme, Часть 2) | https://habrahabr.ru/post/215225/
+
+Критический баг в CoreGraphics в iOS | https://habrahabr.ru/post/154301/
+
+Техники обфускации кода при помощи LLVM | https://habrahabr.ru/post/213259/
+
+Программирование дисплея на контроллере ST7920 | https://habrahabr.ru/post/213459/
+
+Музыкальная шкатулка на PIC16F753 | https://habrahabr.ru/post/209796/
+
+Недокументированные операционные коды процессора 8086 | https://habrahabr.ru/post/210782/
+
+Разбор протокола World Of Tanks | https://habrahabr.ru/post/212351/
+
+Модификация UEFI BIOS, часть вторая: полезные модификации | https://habrahabr.ru/post/211879/
+
+Игра в 30 команд Ассемблера | https://habrahabr.ru/post/207964/
+
+Мысли о программирование на ассемблере | https://habrahabr.ru/post/207186/
+
+Решение Zeronights Crackme 2013 и причём тут матрицы | https://habrahabr.ru/post/204698/
+
+Поддержка USB в KolibriOS: что внутри? Часть 6: драйвер хабов | https://habrahabr.ru/company/kolibrios/blog/203918/
+
+Добавление широкоформатных разрешений в Grand Theft Auto | https://habrahabr.ru/post/202692/
+
+Как воплотить в жизнь мечту детства и запрограммировать что-нибудь для Dendy | https://habrahabr.ru/post/201864/
+
+OllyDbg 2.01 | https://habrahabr.ru/post/201576/
+
+Как понять ассемблер. Часть 2. Микроконтроллер | https://habrahabr.ru/post/201546/
+
+Как понять ассемблер для AVR | https://habrahabr.ru/post/201528/
+
+Аппаратная поддержка алгоритма AES современными процессорами | https://habrahabr.ru/post/201114/
+
+Поддержка USB в KolibriOS: что внутри? Часть 5: уровень логического устройства | https://habrahabr.ru/company/kolibrios/blog/200172/
+
+Пишем Hello World на ассемблере под Windows RT с использованием winapi | https://habrahabr.ru/post/199094/
+
+Завершился KolibriOS Summer of Code | https://habrahabr.ru/company/kolibrios/blog/190120/
+
+Старая, добрая «The Matrix» или визуализатор для матрицы версии один | https://habrahabr.ru/post/198106/
+
+KolibriOS: Интервью с Сергеем Кузьминым (Wildwest) | https://habrahabr.ru/company/kolibrios/blog/197360/
+
+ARM-ы для самых маленьких: компоновка-2, прерывания и hello world! | https://habrahabr.ru/post/194816/
+
+[NES] Пишем редактор уровней для Prince of Persia. Эпилог. Темница | https://habrahabr.ru/post/193406/
+
+[NES] Пишем редактор уровней для Prince of Persia. Глава пятая. Отражение | https://habrahabr.ru/post/192832/
+
+[NES] Пишем редактор уровней для Prince of Persia. Глава четвертая. Он сам бежит! Или скелет в шкафу | https://habrahabr.ru/post/192546/
+
+Мини-исследование, улучшение и бот для игры Shadow Worlds | https://habrahabr.ru/post/192254/
+
+[NES] Пишем редактор уровней для Prince of Persia. Глава третья. Первые строчки кода | https://habrahabr.ru/post/192028/
+
+[NES] Пишем редактор уровней для Prince of Persia. Глава вторая. Букетно-конфетный период | https://habrahabr.ru/post/191880/
+
+[NES] Пишем редактор уровней для Prince of Persia. Глава первая. Знакомство | https://habrahabr.ru/post/187876/
+
+ARM-ы для самых маленьких: тонкости компиляции и компоновщик | https://habrahabr.ru/post/191058/
+
+ARM-ы для самых маленьких: который час? | https://habrahabr.ru/post/190032/
+
+ARM-ы для самых маленьких | https://habrahabr.ru/post/189484/
+
+Первый Embedded Meetup в Санкт-Петербурге | https://habrahabr.ru/company/it_dominanta/blog/189182/
+
+Исходный код Second Reality передан в общественное достояние | https://habrahabr.ru/post/188904/
+
+ARM ассемблер (продолжение) | https://habrahabr.ru/post/188712/
+
+Как я писал фикс широкоэкранных разрешений для FlatOut | https://habrahabr.ru/post/188594/
+
+Настройка WinDbg | https://habrahabr.ru/post/187522/
+
+Ищем коды уровней в Prehistorik-2 | https://habrahabr.ru/post/187072/
+
+Работа с PEB и TEB | https://habrahabr.ru/post/187226/
+
+Поддержка USB в KolibriOS: что внутри? Часть 4: уровень поддержки каналов | https://habrahabr.ru/company/kolibrios/blog/186276/
+
+Антихукинг — теория | https://habrahabr.ru/post/186334/
+
+KolibriOS: network, FTP-клиент и бельгийский программист | https://habrahabr.ru/company/kolibrios/blog/186286/
+
+Поддержка USB в KolibriOS: что внутри? Часть 3: код поддержки хост-контроллеров | https://habrahabr.ru/company/kolibrios/blog/183284/
+
+Разбираемся в С, изучая ассемблер | https://habrahabr.ru/post/183376/
+
+Поддержка USB в KolibriOS: что внутри? Часть 2: основы работы с хост-контроллерами | https://habrahabr.ru/company/kolibrios/blog/183184/
+
+Подмена обработчика системного вызова | https://habrahabr.ru/post/182792/
+
+Доступ к скрытым настройкам UEFI BIOS от Insyde | https://habrahabr.ru/post/182676/
+
+Поддержка USB в KolibriOS: что внутри? Часть 1: общая схема | https://habrahabr.ru/company/kolibrios/blog/181586/
+
+Анализ KeygenMe#2 от Paic_Citron | https://habrahabr.ru/post/180919/
+
+KolibriOS вышла на Kickstarter, чтобы провести свой Summer of Code | https://habrahabr.ru/post/180197/
+
+Пишу игрушечную ОС (доступнее о планировщике) | https://habrahabr.ru/post/177569/
+
+Пишу игрушечную ОС (о прерываниях) | https://habrahabr.ru/post/175749/
+
+Время вспять… | https://habrahabr.ru/post/175025/
+
+Дизассемблируем Windows Explorer — отключаем группировку на панели задач | https://habrahabr.ru/post/174593/
+
+Почтовые индексы — на свободу! (Реверсинг в картинках) | https://habrahabr.ru/post/173651/
+
+Управляем ЖК дисплеем HD44780 с помощью ассемблера | https://habrahabr.ru/post/166735/
+
+В официальном издании Age of Empires Collector's Edition на DVD используются крэки из сети | https://habrahabr.ru/post/168269/
+
+Исследование игры-головоломки «Сапёр» (продолжение) | https://habrahabr.ru/post/167829/
+
+Взламываем игру-головоломку «Сапер» | https://habrahabr.ru/post/167537/
+
+Реализация Задержки в AVR assembler без таймеров | https://habrahabr.ru/post/167319/
+
+Простая программа на ассемблере x86: Решето Эратосфена | https://habrahabr.ru/post/165397/
+
+Анализ keygenme от Ra$cal на базе виртуальной машины | https://habrahabr.ru/post/164437/
+
+Разбор простого криптографического keygenme | https://habrahabr.ru/post/164303/
+
+Системные вызовы MIPS | https://habrahabr.ru/company/embox/blog/162229/
+
+Странное поведение Task Manager в Windows Server 2012 | https://habrahabr.ru/post/160161/
+
+Простая модель планировщика ОС | https://habrahabr.ru/post/154609/
+
+ARM NEON скининг | https://habrahabr.ru/post/153015/
+
+Heroes III. The Restoration of Campaign | https://habrahabr.ru/post/149218/
+
+Siemens SGold: взлом через Java | https://habrahabr.ru/post/149068/
+
+Максимально точное измерение кода | https://habrahabr.ru/post/147852/
+
+MHook vs Zuma | https://habrahabr.ru/post/147721/
+
+Изучаем MIPS-ассемблер | https://habrahabr.ru/post/147685/
+
+Как воровать бензин с помощью Ассемблера (основано на реальных событиях) | https://habrahabr.ru/post/147042/
+
+Программирование PIC16f886. Игра «Камень, ножницы, бумага» | https://habrahabr.ru/post/146040/
+
+ПИД-регулятор своими руками | https://habrahabr.ru/post/145991/
+
+Взаимодействие Java и… Ассемблера? | https://habrahabr.ru/post/145804/
+
+Ассемблер: прячем несколько команд в команде | https://habrahabr.ru/post/144076/
+
+Опубликованы исходники Prince of Persia для Apple II | https://habrahabr.ru/post/142232/
+
+История команд одного процессора. Часть 1. Отличия ассемблерных инструкций lddqu и movdqu | https://habrahabr.ru/post/141416/
+
+Шустрый 128-битный LFSR (MMX required) | https://habrahabr.ru/post/140095/
+
+Автоматизация создания прокси-dll | https://habrahabr.ru/post/139065/
+
+Минималистичная программа в формате ELF | https://habrahabr.ru/post/137706/
+
+CRACKL@B Contest 2010. Анализ первого задания | https://habrahabr.ru/post/135848/
+
+Обратная разработка коммерческой программы: кейген для Zuma Deluxe | https://habrahabr.ru/post/135861/
+
+Анализ Crackme #1 от PE_Kill | https://habrahabr.ru/post/135255/
+
+О создании образа KolibriOS | https://habrahabr.ru/company/kolibrios/blog/127309/
+
+Оптимизация длинной арифметики на C++ | https://habrahabr.ru/post/135590/
+
+ARM аccемблер | https://habrahabr.ru/post/133808/
+
+Анализ keygenme от TPoDT #2 | https://habrahabr.ru/post/134817/
+
+Создание графических примитивов на Ассемблере | https://habrahabr.ru/post/134495/
+
+Список ресурсов для изучения Ассемблера | https://habrahabr.ru/post/131971/
+
+Ассемблер для начинающих | https://habrahabr.ru/post/129739/
+
+Исследование игр без исходного кода на примере Zuma | https://habrahabr.ru/post/125623/
+
+MBR для флешки своими руками или как сделать из одного устройства три | https://habrahabr.ru/post/122699/
+
+Управляемая градиентная спираль на ассемблере в 256 байт (k29) | https://habrahabr.ru/post/121999/
+
+64-битная ОС на ассемблере | https://habrahabr.ru/post/120298/
+
+Три компьютерные игры (по 30 байт каждая) | https://habrahabr.ru/post/119765/
+
+Разбираем по кусочкам lincrackme3 | https://habrahabr.ru/post/116774/
+
+Использование макросов в MASM на примере создания окна | https://habrahabr.ru/post/107272/
+
+Иследование несложных crackme's (часть 3) | https://habrahabr.ru/post/102126/
+
+Исследование простого crackme (часть 2) | https://habrahabr.ru/post/101047/
+
+Исследование простого crackme | https://habrahabr.ru/post/99549/
+
+Коварный и ужасный sndrec32.exe | https://habrahabr.ru/post/89763/
+
+Написание простейшего SOCKS4 сервера на языке Assembler | https://habrahabr.ru/post/80409/
+
+Релиз KolibriOS 0.7.7.0 | https://habrahabr.ru/company/kolibrios/blog/78199/
+
+Легальный взлом как разминка для ума | https://habrahabr.ru/post/74817/
+
+Самая маленькая игра в мире (58 байт) | https://habrahabr.ru/post/64254/
+
+Расширение функциональности готовых программ | https://habrahabr.ru/post/51857/
+
+Ежегодное соревнование KHallenge | https://habrahabr.ru/post/30436/
+
+Intel® 64 and IA-32 Architectures Software Developer's Manual | https://habrahabr.ru/post/28491/
+
+Примеры ассемблерного кода и алгоритмов на решении задаче о перевороте строки | https://habrahabr.ru/post/27474/
+
+Начнём… | https://habrahabr.ru/post/27334/
+
+Кто из современных программистов способен решить задачи низкого уровня или Задачки Для Программистов | https://habrahabr.ru/post/27060/
+

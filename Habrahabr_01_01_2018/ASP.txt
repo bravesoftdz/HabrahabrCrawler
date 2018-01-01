@@ -1,0 +1,620 @@
+Немного про .NET Framework и .NET Core [плюс полезные ссылки] | https://habrahabr.ru/company/microsoft/blog/343804/
+
+Внедрение зависимости и реализация единицы работы с помощью Castle Windsor и NHibernate | https://habrahabr.ru/company/plarium/blog/344508/
+
+Открытый веб-интерфейс для .NET (OWIN) | https://habrahabr.ru/company/microsoft/blog/342900/
+
+Собираем пользовательскую активность в JS и ASP | https://habrahabr.ru/company/devexpress/blog/343816/
+
+Производительность выгрузки большого количества данных из Mongo в ASP.NET Core Web Api | https://habrahabr.ru/post/343968/
+
+Путь разработчика ASP.NET → PHP | https://habrahabr.ru/post/332868/
+
+Подборка полезных материалов: Микросервисы на .NET Core | https://habrahabr.ru/company/microsoft/blog/342812/
+
+Проблемы понимания MVC в ASP.NET MVC и не только | https://habrahabr.ru/post/342748/
+
+Нужен ли метод OPTIONS в REST-сервисах? | https://habrahabr.ru/post/342432/
+
+Авторизуем ресурсы в REST-сервисе | https://habrahabr.ru/post/342000/
+
+Sharing общих сборок между процессами и доменами в IIS | https://habrahabr.ru/post/341950/
+
+Реализация мультизагрузки файлов с индикаторами выполнения на ASP.NET | https://habrahabr.ru/company/plarium/blog/341366/
+
+Переход с ASP.NET к ASP.NET Core 2.0 | https://habrahabr.ru/post/338298/
+
+Переход с ASP.NET к ASP.NET Core 1.1 | https://habrahabr.ru/post/338644/
+
+Параллелизм против многопоточности против асинхронного программирования: разъяснение | https://habrahabr.ru/post/337528/
+
+Логическая игра с нуля на ASP.NET Core 2, поиграем? | https://habrahabr.ru/post/336590/
+
+JetBrains Rider 2017.1 — первый релиз новой кроссплатформенной .NET IDE | https://habrahabr.ru/company/JetBrains/blog/335076/
+
+Переход с ASP.NET на Angular2 с особенностями (личный опыт) | https://habrahabr.ru/post/330860/
+
+Открытая трансляция DotNext 2017 Piter: Jon Skeet, Sasha Goldshtein и Андрей Акиньшин в прямом эфире | https://habrahabr.ru/company/jugru/blog/328984/
+
+ASP.NET Core: Создание справочных страниц веб-API ASP.NET с помощью Swagger | https://habrahabr.ru/company/microsoft/blog/325872/
+
+ASP.NET Core: Разработка приложений ASP.NET Core с помощью dotnet watch | https://habrahabr.ru/company/microsoft/blog/324312/
+
+Создаем веб приложение используя VueJS и .NET | https://habrahabr.ru/post/324176/
+
+WCF REST сервисы и UWP приложения | https://habrahabr.ru/post/322202/
+
+ASP.NET Core: ваше первое приложение на Linux c использованием Visual Studio Code | https://habrahabr.ru/post/322538/
+
+Как запустить фоновый процесс в Asp.net | https://habrahabr.ru/post/321502/
+
+Структура «Feature Folders» в ASP.NET Core MVC | https://habrahabr.ru/post/321392/
+
+ASP.NET Core: Создание серверных служб для мобильных приложений | https://habrahabr.ru/company/microsoft/blog/319482/
+
+Готовим ORM, не отходя от плиты. Генерируем SQL — запрос на основе бинарных деревьев выражений | https://habrahabr.ru/post/319422/
+
+ASP.NET Core, Angular 2, SignalR для чайников | https://habrahabr.ru/post/318480/
+
+IIS Request filtering против ddos-атаки | https://habrahabr.ru/post/316550/
+
+Ищем и анализируем ошибки в коде Orchard CMS | https://habrahabr.ru/company/pvs-studio/blog/316418/
+
+Маленький код для больших данных или Apache Spark за 3 дня | https://habrahabr.ru/post/316088/
+
+ASP.NET Core: Ваше первое приложение на Mac c использованием Visual Studio Code | https://habrahabr.ru/company/microsoft/blog/315780/
+
+ASP.NET Core: Развертывание веб-приложения в службе приложений Azure с помощью Visual Studio | https://habrahabr.ru/company/microsoft/blog/314252/
+
+Каковы перспективы у «немодной» платформы .NET — мнения экспертов | https://habrahabr.ru/post/313202/
+
+ASP.NET Core: Создание первого веб-API с использованием ASP.NET Core MVC и Visual Studio | https://habrahabr.ru/company/microsoft/blog/312878/
+
+Путь ASP.NET Core [уровень 1] Основы | https://habrahabr.ru/post/312226/
+
+ASP.NET Core: Пример реализации шаблонов проектирования Единица работы и Репозиторий | https://habrahabr.ru/company/microsoft/blog/312214/
+
+Универсальная система управления данными на базе технологий скаффолдинга и платформы .NET Core | https://habrahabr.ru/post/311822/
+
+ASP.NET Core: Создание внешнего интерфейса веб-службы для приложения | https://habrahabr.ru/company/microsoft/blog/311940/
+
+В ногу со временем: Используем JWT в ASP.NET Core | https://habrahabr.ru/company/microsoft/blog/311594/
+
+ASP.NET Core на Nano Server | https://habrahabr.ru/company/microsoft/blog/310996/
+
+ASP.NET MVC+VM: разбиение сложных представлений на простые с применением моделей видов на примере календаря мероприятий | https://habrahabr.ru/post/309496/
+
+Рейтинг Elo в играх для двух игроков | https://habrahabr.ru/post/308920/
+
+Пишем ХабраКвест на ASP.NET Core и Angular2 | https://habrahabr.ru/post/306292/
+
+Переходим на WebMarkupMin 2.X | https://habrahabr.ru/post/306484/
+
+DotNext 2016: Между настоящим и будущим | https://habrahabr.ru/company/jugru/blog/303322/
+
+DotNext 2016 Piter: Full Stack .NET conference | https://habrahabr.ru/company/jugru/blog/302316/
+
+.NET Core: релиза не будет, но вы держитесь, здоровья вам, хорошего настроения | https://habrahabr.ru/post/302012/
+
+«Мы стараемся, чтобы User Experience не отличался в разных операционках» — Интервью с разработчиками Rider из JetBrains | https://habrahabr.ru/company/jugru/blog/301754/
+
+Изменения Project.json | https://habrahabr.ru/post/301622/
+
+ASP.NET Core RC2: встроенная поддержка модульности (application parts) | https://habrahabr.ru/post/301336/
+
+Sasha Goldshtein, гуру .NET Performance, выступит на .NET-конференции в Питере | https://habrahabr.ru/company/jugru/blog/282890/
+
+Как мы перестали бояться тикетов на UI | https://habrahabr.ru/company/mindbox/blog/276235/
+
+Деплой ASP.NET приложений при помощи символических ссылок | https://habrahabr.ru/post/281338/
+
+Перегружаем стандартные DataAnnotation атрибуты для использования с custom resource provider | https://habrahabr.ru/post/281222/
+
+SSO для красавицы и чудовища | https://habrahabr.ru/company/arcadia/blog/280806/
+
+Экспериментальная функция отладки .NET Core в Visual Studio Code | https://habrahabr.ru/company/microsoft/blog/280143/
+
+Готовим ASP.NET Core: подробнее про работу с модульным фреймворком | https://habrahabr.ru/company/microsoft/blog/279985/
+
+Microsoft DevCon 2016 — представляем первую волну докладчиков Community-трека | https://habrahabr.ru/company/microsoft/blog/279881/
+
+Reinforced.Typings — Angular-сервисы на TypeScript прямо из ваших MVC-контроллеров | https://habrahabr.ru/post/278961/
+
+Как написать простой блог с помощью Asp .Net MVC, Nhibernate и Ninject.Часть 1 | https://habrahabr.ru/post/278633/
+
+Подготовка ASP.NET 5 (Core) проекта и DNX окружения для участия в хакатоне в рамках hack.summit() 2016 на Koding.com | https://habrahabr.ru/post/278571/
+
+Анонс интенсива по ASP.NET Core в рамках конференции Microsoft DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/278563/
+
+Готовим ASP.NET Core: создаем собственный Tag Helper | https://habrahabr.ru/company/microsoft/blog/278251/
+
+Готовим ASP.NET Core: создаем свой кроссплатформенный модульный фреймворк | https://habrahabr.ru/company/microsoft/blog/278247/
+
+ASP.NET Core + Docker: готовим вместе | https://habrahabr.ru/company/microsoft/blog/278173/
+
+Интегрируем Webpack в Visual Studio 2015 | https://habrahabr.ru/post/278103/
+
+Нагрузочное тестирование – этап обеспечения качества продукта | https://habrahabr.ru/company/tinkoff/blog/277643/
+
+Готовим ASP.NET Core: как представить статический контент в виде ресурсов | https://habrahabr.ru/company/microsoft/blog/277235/
+
+nopCommerce CMS на ASP.NET MVC: обзор функционала новой версии | https://habrahabr.ru/company/microsoft/blog/276641/
+
+Полное руководство по использованию ASP.NET Core 1.0 (aka ASP.NET 5) Tag Helpers | https://habrahabr.ru/post/276277/
+
+Готовим ASP.NET Core: поговорим про нестандартные подходы при работе с представлениями | https://habrahabr.ru/company/microsoft/blog/276061/
+
+Готовим ASP.NET Core: поговорим подробнее про OWIN и Katana | https://habrahabr.ru/company/microsoft/blog/275817/
+
+ASP.NET 5 мертв — представляем ASP.NET Core 1.0 и .NET Core 1.0 | https://habrahabr.ru/company/microsoft/blog/275561/
+
+ASP.NET 5. Аутентификация по токену | https://habrahabr.ru/post/274163/
+
+ASP.NET 5 Identity 3 и новый инструментарий аутентификации/авторизации | https://habrahabr.ru/company/nixsolutions/blog/273753/
+
+DotNext 2015 в Москве: раздвигая границы | https://habrahabr.ru/company/jugru/blog/273905/
+
+Погружение в ASP.NET 5 Runtime | https://habrahabr.ru/post/273509/
+
+Готовим ASP.NET 5, выпуск №7: подробнее про работу с Gulp | https://habrahabr.ru/company/microsoft/blog/273493/
+
+12 декабря в 12:00 (МСК) смотрите Community DevCamp онлайн | https://habrahabr.ru/company/microsoft/blog/272943/
+
+Финальное расписание Community DevCamp (Москва, 12 декабря) | https://habrahabr.ru/company/microsoft/blog/272535/
+
+Как справиться с проблемами в унаследованном проекте после 3 других команд | https://habrahabr.ru/company/simbirsoft/blog/272417/
+
+12.12 в 12:00 приходите на Community DevCamp в Москве | https://habrahabr.ru/company/microsoft/blog/271569/
+
+Конференция DotNext 2015 Moscow: финальная программа и обзор докладов | https://habrahabr.ru/company/jugru/blog/271531/
+
+Готовим ASP.NET 5: Continuous Deployment с Docker и Tutum | https://habrahabr.ru/post/271477/
+
+Модульное приложение на ASP.NET 5 | https://habrahabr.ru/post/271249/
+
+Готовим ASP.NET 5, выпуск №6: Continuous Deployment с Visual Studio Team Services — полное руководство | https://habrahabr.ru/company/microsoft/blog/271173/
+
+Let's Encrypt: получение сертификата по шагам | https://habrahabr.ru/post/270273/
+
+Конференция DotNext 2015 Moscow: первые 7 докладов | https://habrahabr.ru/company/jugru/blog/269595/
+
+Reinforced.Typings — больше деталей | https://habrahabr.ru/post/267003/
+
+Готовим ASP.NET5, выпуск №5 — Gulp и Bower спешат на помощь | https://habrahabr.ru/company/microsoft/blog/268733/
+
+Готовим ASP.NET5, выпуск №4 — подробно про маршрутизацию | https://habrahabr.ru/company/microsoft/blog/268037/
+
+Конференция DotNext возвращается в Москву — с новыми силами и обновленным названием | https://habrahabr.ru/company/jugru/blog/250895/
+
+Incoding Framework — Get started | https://habrahabr.ru/post/266609/
+
+Reinforced.Typings — библиотека для автоматической генерации TypeScript-тайпингов и не только | https://habrahabr.ru/post/266899/
+
+Nhibernate: Варианты маппингов, варианты запросов | https://habrahabr.ru/post/265371/
+
+Часть 2. Создание классов, маппингов и заполнение БД | https://habrahabr.ru/post/264961/
+
+Уроки по FluentNHibernate c ASP.NET MVC и SQL Server. Часть 1 | https://habrahabr.ru/post/264907/
+
+Готовим ASP.NET5, выпуск №3 — внедрение зависимостей по-новому | https://habrahabr.ru/company/microsoft/blog/264467/
+
+Готовим ASP.NET5, выпуск №2 – повторим азы для самых начинающих | https://habrahabr.ru/company/microsoft/blog/264271/
+
+Навыки .NET-разработчика России и США, в чем разница? | https://habrahabr.ru/post/263757/
+
+ASP.NET 5 beta5 в Visual Studio 2015 | https://habrahabr.ru/post/261703/
+
+Готовим ASP.NET5, выпуск №1 – поговорим про статический контент | https://habrahabr.ru/company/microsoft/blog/261893/
+
+Пишем Custom MSBuild Task для деплоя (WMI included) | https://habrahabr.ru/post/261603/
+
+Мое знакомство с ASP.NET MVC в Visual Studio 2015 на примере построения прототипа МИС | https://habrahabr.ru/post/260867/
+
+.NEXT 2015 Piter: возможно ли потеснить Москву? | https://habrahabr.ru/company/jugru/blog/260481/
+
+.NET-конференция .NEXT 2015 Piter: Краткий тур по докладам — часть 2 | https://habrahabr.ru/company/jugru/blog/258865/
+
+.NET-конференция .NEXT 2015 Piter: Краткий тур по докладам — часть 1 | https://habrahabr.ru/company/jugru/blog/258429/
+
+Материалы конференции SkillsWiki: .NET-разработчик глазами работодателей России и зарубежья | https://habrahabr.ru/company/geekfamily/blog/257437/
+
+Azure cache | https://habrahabr.ru/company/infopulse/blog/257695/
+
+Лучшие 5 докладов конференции .NEXT 2014 Moscow (видео внутри) | https://habrahabr.ru/company/jugru/blog/257637/
+
+Лучшие доклады .NEXT 2014 Moscow (видео внутри). Часть 1: Места с 6 по 10 | https://habrahabr.ru/company/jugru/blog/257615/
+
+Лучшие доклады .NEXT 2014 в Питере (видео внутри) | https://habrahabr.ru/company/jugru/blog/257243/
+
+Dino Esposito выступит в Питере | https://habrahabr.ru/company/jugru/blog/256811/
+
+Гугл предлагает усилить JSON с помощью Jsonnet | https://habrahabr.ru/company/geekfamily/blog/256363/
+
+Характеристики микросервисов, приложений и систем | https://habrahabr.ru/company/geekfamily/blog/256189/
+
+Конференция SkillsWiki: .NET-разработчик глазами работодателей России и зарубежья | https://habrahabr.ru/company/geekfamily/blog/255987/
+
+Управление API и SOA | https://habrahabr.ru/company/geekfamily/blog/256137/
+
+Знакомство с ASP.NET 5 | https://habrahabr.ru/post/255983/
+
+Microsoft Developer Tour — ¾ пути, впереди Сибирь и Казахстан | https://habrahabr.ru/company/microsoft/blog/255875/
+
+ASP.NET 5 Middleware или куда же пропал мой HTTP модуль? | https://habrahabr.ru/post/255463/
+
+Одностраничное клиент-серверное MVC JavaScript приложение на технологиях 1996 года для Windows | https://habrahabr.ru/post/255351/
+
+Презентации 27 докладов наших конференций по C# | https://habrahabr.ru/company/geekfamily/blog/254975/
+
+.NET-разработка: переключения между DEV и PROD-окружениями. Часть первая | https://habrahabr.ru/post/255045/
+
+Приемы разработки ASMX веб-сервисов | https://habrahabr.ru/post/254165/
+
+Хочу таймер и счётчик загруженных строк на Web-форме | https://habrahabr.ru/post/253875/
+
+MSBuild — в Open Source на github | https://habrahabr.ru/company/luxoft/blog/253591/
+
+Введение в ASP.NET 5 | https://habrahabr.ru/company/luxoft/blog/253349/
+
+Конференция .NEXT возвращается в Питер | https://habrahabr.ru/company/jugru/blog/252573/
+
+Continuous Delivery: Продолжение | https://habrahabr.ru/post/249523/
+
+Оптимизация ASP.NET — практические советы по работе с IIS | https://habrahabr.ru/post/250881/
+
+День ASP.NET: пик Балмера, Pluralsight и будущее ASP.NET | https://habrahabr.ru/company/geekfamily/blog/250773/
+
+DevCon Digest #2. Погружаемся в ASP.NET | https://habrahabr.ru/company/microsoft/blog/250657/
+
+Breeze Server — разграничиваем доступ к объектам при помощи атрибутов | https://habrahabr.ru/post/249417/
+
+Пишем с нуля квест на ASP.NET 5 (vNext) и Angular.js | https://habrahabr.ru/post/250009/
+
+День ASP.NET: анонс докладов | https://habrahabr.ru/company/geekfamily/blog/250419/
+
+DevExpress на Go#Moscow – День ASP.NET | https://habrahabr.ru/company/devexpress/blog/249881/
+
+Навыки .NET-разработчика | https://habrahabr.ru/post/248163/
+
+SignalR в многосерверной конфигурации или по умному — Scaleout | https://habrahabr.ru/company/microsoft/blog/108929/
+
+.NEXT в Москве: как хардкорная .NET-конференция покоряла столицу | https://habrahabr.ru/company/jugru/blog/246087/
+
+.NEXT 2014 Moscow: Финальное расписание, спонсоры, стенды и пара спойлеров | https://habrahabr.ru/company/jugru/blog/244609/
+
+High CPU или как Garbage Collector может убить производительность | https://habrahabr.ru/post/244249/
+
+.NEXT 2014 Moscow: разбиваем доклады по залам вместе | https://habrahabr.ru/company/jugru/blog/244089/
+
+F.A.Q. по конференции .NEXT 2014 Moscow | https://habrahabr.ru/company/jugru/blog/242875/
+
+Обзор ASP.NET 5 | https://habrahabr.ru/post/243667/
+
+Пишем и запускаем приложения ASP.NET vNext на Маке | https://habrahabr.ru/post/243483/
+
+Простой односторонний универсальный коннектор для Chrome | https://habrahabr.ru/post/243271/
+
+Дино Эспозито выступит на .NEXT в Москве | https://habrahabr.ru/company/jugru/blog/242955/
+
+Сам себе сервер SelfHost | https://habrahabr.ru/post/242917/
+
+ASP.NET vNext Ликбез | https://habrahabr.ru/post/242243/
+
+CRUD Operations Using the Generic Repository Pattern and Unit of Work in MVC | https://habrahabr.ru/post/238737/
+
+Реализация клиент-серверного приложения с веб-интерфейсом с помощью OWIN | https://habrahabr.ru/post/237773/
+
+Bundle Transformer: Летние обновления | https://habrahabr.ru/post/237743/
+
+Некоторые аспекты логирования ASP.NET-сайта | https://habrahabr.ru/post/232783/
+
+Не даем бандлам испортить вам жизнь | https://habrahabr.ru/post/231125/
+
+Эволюция веб-фреймворков Microsoft. ASP.NET vNext | https://habrahabr.ru/company/infopulse/blog/226427/
+
+История о парсинге одного aspx сайта | https://habrahabr.ru/post/221811/
+
+Model View Dispatcher (cqrs over mvc) | https://habrahabr.ru/post/221585/
+
+IML TODO | https://habrahabr.ru/post/214963/
+
+Incoding Rapid Development Framework ( part 2 CQRS ) | https://habrahabr.ru/post/211206/
+
+Прямая запись в справочник 1C: Предприятие через Linq на примере работы с пользователями Asp.Net | https://habrahabr.ru/post/210654/
+
+Переход на механизмы авторизации и аутентификации ADFS как часть маркетинговой стратегии | https://habrahabr.ru/company/eastbanctech/blog/209834/
+
+Incoding rapid development framework | https://habrahabr.ru/post/209734/
+
+Sphinx для ASP.NET через jTemplates | https://habrahabr.ru/post/208236/
+
+Средства построения графиков для .NET. Часть 2 | https://habrahabr.ru/post/206918/
+
+Использование Backload для загружаемых файлов в ASP.NET MVC | https://habrahabr.ru/post/204878/
+
+Средства построения графиков для .NET | https://habrahabr.ru/post/204308/
+
+Настройка шаблонов ASP.NET MVC 5 Scaffolding в Visual Studio 2013 | https://habrahabr.ru/post/202642/
+
+Плагинная система на ASP.NET. Или сайт с плагинами, мадемуазелями и преферансом | https://habrahabr.ru/post/202776/
+
+OWIN и Katana: первый взгляд | https://habrahabr.ru/post/202018/
+
+Библиотека X.Scaffolding | https://habrahabr.ru/post/200692/
+
+Проблемы использования IEnumerable | https://habrahabr.ru/post/193774/
+
+Разделяй и властвуй. Или система разделения прав для ASP MVC | https://habrahabr.ru/post/191218/
+
+Запускаем приложение ASP.NET MVC 4 на Ubuntu Server 12.04 + nginx | https://habrahabr.ru/post/193156/
+
+Работа с данными из связанных таблиц в ASP.NET MVC или разработка Lookup компонента | https://habrahabr.ru/post/190482/
+
+ASP.NET MVC client-side routing | https://habrahabr.ru/post/191248/
+
+Генерируем PDF из HTML-шаблона с условиями, при помощи wkhtmltopdf и RazorEngine | https://habrahabr.ru/post/190658/
+
+ASP.NET 2.0 Login control + MySQL, VS2008, авторизация пользователей на сайте | https://habrahabr.ru/post/189346/
+
+Основы архитектуры IIS, или запросопровод для ASP.NET | https://habrahabr.ru/post/189086/
+
+Опрос «Чем вы минифицируете внешние стили и скрипты в ASP.NET?» | https://habrahabr.ru/post/182260/
+
+Система управления данными на базе ASP.NET Dynamic Data | https://habrahabr.ru/post/181804/
+
+Внутренняя работа плагина unobtrusive jQuery validate в ASP.Net MVC | https://habrahabr.ru/post/181758/
+
+Понимание Html-кода, сгенерированного ненавязчивой валидацией в ASP.Net MVC | https://habrahabr.ru/post/181754/
+
+Логинимся на сайт под чужим аккаунтом не имея пароля | https://habrahabr.ru/post/181592/
+
+nopCommerce 3.00 open source CMS: обзор новых функций, поддержка Windows Azure | https://habrahabr.ru/post/180957/
+
+Новый взгляд на старый MS Ajax | https://habrahabr.ru/post/180937/
+
+IIS 7: компрессия JSON ответа | https://habrahabr.ru/post/180769/
+
+Работа плагина jQuery validate изнутри | https://habrahabr.ru/post/180279/
+
+Интеграция AJAX в ASP.NET MVC 4 | https://habrahabr.ru/post/180011/
+
+Модальное окно bootstrap для редактирования форм | https://habrahabr.ru/post/179211/
+
+Защита Citrix Web Interface от brute-force атак с помощью CAPTCHA | https://habrahabr.ru/post/178489/
+
+Практическое использование MvcSiteMapProvider в ASP.net MVC | https://habrahabr.ru/post/175431/
+
+jRIApp — новый HTML5 фреймворк для создания интернет бизнес приложений | https://habrahabr.ru/post/177645/
+
+ASP.NET MVC. Урок 0. Вступление | https://habrahabr.ru/post/175999/
+
+ASP.NET MVC Урок 1. Начало | https://habrahabr.ru/post/176001/
+
+ASP.NET MVC Урок 2. Dependency Injection | https://habrahabr.ru/post/176007/
+
+ASP NET.MVC Урок 3. Работа с БД | https://habrahabr.ru/post/176017/
+
+ASP.NET MVC Урок 4. Routing | https://habrahabr.ru/post/176021/
+
+ASP.NET MVC Урок 5. Создание записи в БД | https://habrahabr.ru/post/176023/
+
+ASP.NET MVC Урок 6. Авторизация | https://habrahabr.ru/post/176043/
+
+ASP.NET MVC Урок 7. Bootstrap, jQuery, Ajax | https://habrahabr.ru/post/176053/
+
+ASP.NET MVC Урок 8. View, Razor, страница ошибки | https://habrahabr.ru/post/176063/
+
+ASP.NET MVC Урок 9. Configuration и загрузка файлов | https://habrahabr.ru/post/176069/
+
+ASP.NET MVC Урок A. Уведомление и рассылка | https://habrahabr.ru/post/176075/
+
+ASP.NET MVC Урок B. Json | https://habrahabr.ru/post/176087/
+
+ASP.NET MVC Урок C. Многоязычный сайт | https://habrahabr.ru/post/176095/
+
+ASP.NET MVC Урок D. Scaffolding | https://habrahabr.ru/post/176097/
+
+ASP.NET MVC Урок E. Тестирование | https://habrahabr.ru/post/176137/
+
+ASP.NET MVC Урок F. Работа как она есть | https://habrahabr.ru/post/176139/
+
+Tree View с «CRUD операциями», «drag and drop (DnD)» и «отложенной загрузкой» с использованием Dojo Tree, Entity Framework, SQL Server и ASP.NET MVC | https://habrahabr.ru/post/175571/
+
+Перенос сайта из Visual Studio 2012 на хостинг. Панель управления Parallels Plesk Panel | https://habrahabr.ru/post/175139/
+
+ASP.NET MVC, WebApi, SignalR и UnityContainer | https://habrahabr.ru/post/175161/
+
+Автоматизированное интеграционное тестирование ASP.NET приложения | https://habrahabr.ru/post/174735/
+
+Описание связей с помощью Code First Fluent API | https://habrahabr.ru/post/174709/
+
+ASP.NET MVC 4 RAZOR Динамическое многоуровневое меню из БД | https://habrahabr.ru/post/174531/
+
+DropDownList, Задать «value» для default option в MVC 4 | https://habrahabr.ru/post/174455/
+
+WebsiteSpark прекращает прием новых заявок на участие | https://habrahabr.ru/post/172559/
+
+Listeners в Ext.NET | https://habrahabr.ru/post/167573/
+
+Международный Web Camp придет в Россию в рамках Windows Azure Summit | https://habrahabr.ru/company/microsoft/blog/166451/
+
+Запрет чтения свойств модели в ASP.NET MVC | https://habrahabr.ru/post/165823/
+
+Версионность API в .NET MVC 4 | https://habrahabr.ru/post/165149/
+
+RESTFul Api контроллеры в .NET MVC 4 | https://habrahabr.ru/post/164945/
+
+Простой путь создания сложных ASP.NET MVC контролов | https://habrahabr.ru/post/165025/
+
+Twitter.Bootstrap.MVC4 – пакет Twitter Bootstrap для ASP.NET MVC 4 | https://habrahabr.ru/post/161895/
+
+Вышел Bundle Transformer 1.6.10 | https://habrahabr.ru/post/159353/
+
+Прикручиваем Umbraco CMS, как источник контента | https://habrahabr.ru/post/158587/
+
+Анатомия атаки: Как я взломал StackOverflow | https://habrahabr.ru/post/158417/
+
+Использование функционала фреймворка MVC4 для авторизации пользователей и использование ролевой модели доступа к сайту | https://habrahabr.ru/post/156443/
+
+Вышел Bundle Transformer 1.6.5 | https://habrahabr.ru/post/154629/
+
+Введение в работу с AppHarbor — облако для ASP.NET приложений | https://habrahabr.ru/post/154133/
+
+Подключение проекта ASP.NET MVC к проекту ASP.NET WebForms | https://habrahabr.ru/post/153387/
+
+Нестандартное использование Protected Configuration Provider в проектах ASP.NET Web Forms | https://habrahabr.ru/post/152521/
+
+Вышел Bundle Transformer 1.6.2 или что изменилось за полгода? | https://habrahabr.ru/post/152051/
+
+Добавляем Bundling and Minification на сайт ASP.NET Web Pages | https://habrahabr.ru/post/150946/
+
+Добавляем Bundling and Minification в приложение ASP.NET Web Forms | https://habrahabr.ru/post/150863/
+
+JSONP Formatter для ASP.NET Web API | https://habrahabr.ru/post/150495/
+
+Использование Dynamic Data совместно с Entity Framework 5 | https://habrahabr.ru/post/150012/
+
+Локализация ASP.NET MVC приложений | https://habrahabr.ru/company/knoema/blog/149802/
+
+ASP.NET MVC 3/4: Противодействие взлому | https://habrahabr.ru/post/148338/
+
+Управления конфигурационными файлами в .net проектах | https://habrahabr.ru/post/148312/
+
+Корректная работа postback в ASP.NET веб-приложенях в полноэкранном режиме на iOS устройствах | https://habrahabr.ru/post/148239/
+
+Отправляем письма из ASP .NET MVC | https://habrahabr.ru/post/146939/
+
+Фотосайт на MVC 4 для начинающих | https://habrahabr.ru/post/146216/
+
+Мой велосипед Entity FrameWork, Auto Migration, With Save Data | https://habrahabr.ru/post/146137/
+
+Эффективная веб-разработка c Visual Studio 2012: нововведения в редактор WebForms | https://habrahabr.ru/company/microsoft/blog/145672/
+
+Эффективная веб-разработка c Visual Studio 2012: нововведения в упаковку и минификацию скриптов и стилей | https://habrahabr.ru/company/microsoft/blog/145410/
+
+Эффективное использование WebAPI: self hosting REST-сервисов | https://habrahabr.ru/company/microsoft/blog/145178/
+
+Делаем чат на ASP.NET с помощью Web Socket | https://habrahabr.ru/post/145077/
+
+Miguel de Icaza про ASP.NET MVC, Moonlight и суд над Android | https://habrahabr.ru/post/144838/
+
+Локализация ASP.NET MVC приложения с помощью БД | https://habrahabr.ru/post/143204/
+
+Непутевые заметки о ASP.NET MVC. Часть 1 (и единственная) | https://habrahabr.ru/post/143024/
+
+Условно-бесплатный курс Building ASP.NET MVC Apps with EF Code First, HTML5, and jQuery | https://habrahabr.ru/post/142801/
+
+Асинхронное программирование в приложениях ASP.NET MVC 4 | https://habrahabr.ru/post/142372/
+
+Должен ли ты использовать .Net для своего стартапа? | https://habrahabr.ru/post/142207/
+
+Фильтры данных на ASP.NET MVC и Entity Framework | https://habrahabr.ru/post/141440/
+
+Dependency injection в MVC 3 Framework на примере Autofac | https://habrahabr.ru/post/136895/
+
+Сессии в ASP.NET или как создать собственный провайдер | https://habrahabr.ru/post/141056/
+
+Microsoft перевел в Open Source еще одну часть стека технологий ASP.NET | https://habrahabr.ru/post/141052/
+
+In-line редактирование табличных данных в ASP.Net MVC 3 | https://habrahabr.ru/post/138580/
+
+Обработка всех исключений в контроллерах с помощью атрибута | https://habrahabr.ru/post/137672/
+
+Вышла новая версия opensource движка nopCommerce с поддержкой мобильных устройств | https://habrahabr.ru/post/137668/
+
+Динамическая проверка прав доступа для ASP.NET MVC | https://habrahabr.ru/post/137581/
+
+Жизненный цикл Request в MVC 3 Framework приложении | https://habrahabr.ru/post/136834/
+
+ASP.NET Push notifications с помощью SignalR | https://habrahabr.ru/post/135604/
+
+Создание собственного элемента управления CheckBoxList | https://habrahabr.ru/post/134920/
+
+Расширение функционала тегов Page/MasterPage/UserControl в ASP.NET MVC | https://habrahabr.ru/post/134843/
+
+ASP .NET MVC 3. Ajax.ActionLink в виде картинки на примере добавления в избранное звездочкой на habrahabr.ru | https://habrahabr.ru/post/134126/
+
+«Классические» friendly url в ASP.NET MVC | https://habrahabr.ru/post/132799/
+
+SimpleMvcCaptcha, или мой первый опыт Open Source | https://habrahabr.ru/post/132632/
+
+Reactive Extensions for JavaScript. Полное руководство | https://habrahabr.ru/post/132463/
+
+Реализация одностраничного приложения средствами History API в ASP.NET MVC | https://habrahabr.ru/post/131556/
+
+Кросспостинг в twitter, facebook, livejournal, vkontakte | https://habrahabr.ru/post/131107/
+
+Ненавязчивая валидация в ASP.NET MVC3 | https://habrahabr.ru/post/129398/
+
+Собственная страница ошибки 404 на ASP.NET MVC | https://habrahabr.ru/post/128315/
+
+Дополнение к локализации ASP.NET MVC – Используем маршрутизацию | https://habrahabr.ru/post/128156/
+
+Создание форм для глубоко вложенных View Model в ASP.NET MVC | https://habrahabr.ru/post/128026/
+
+ASP.NET и Flex — дружба навек | https://habrahabr.ru/post/128001/
+
+Логирование .Net MVC 3 за 30 минут | https://habrahabr.ru/post/127784/
+
+Поработаем с MongoDb | https://habrahabr.ru/post/127290/
+
+OAuth2 клиент для ASP.NET | https://habrahabr.ru/post/127039/
+
+Common Table Expressions и деление таблиц на страницы | https://habrahabr.ru/post/126770/
+
+Система электронной коммерции nopCommerce теперь на ASP.NET MVC 3 | https://habrahabr.ru/post/123705/
+
+Приводя в порядок POSTs в ASP.NET MVC | https://habrahabr.ru/post/123113/
+
+ASP.NET MVC в крупных проектах. Введение: Model Binding | https://habrahabr.ru/post/119353/
+
+Declarative HTML Helpers | https://habrahabr.ru/post/119073/
+
+Razor: вывод секций в мастер-страницах мастер-страниц | https://habrahabr.ru/post/117692/
+
+Организуем view models в ASP.NET MVC | https://habrahabr.ru/post/116298/
+
+ASP.NET MVC: Привязка данных модели, которые содержат изображения | https://habrahabr.ru/post/113964/
+
+Использование XSLT-шаблонизатора в ASP.NET MVC | https://habrahabr.ru/post/113218/
+
+Быстрое создание прототипа веб приложения в ASP.NET MVC 3 с использованием MvcScaffolding | https://habrahabr.ru/post/113214/
+
+OpenID, OAuth и другие плюшки | https://habrahabr.ru/post/109700/
+
+Пять способов показать выпадающий список в Asp.Net MVC, с достоинствами и недостатками | https://habrahabr.ru/post/106370/
+
+Миграция приложений с ASP.NET MVC 2 на ASP.NET MVC 3 Preview 1 | https://habrahabr.ru/post/100445/
+
+ASP.NET MVC: Мои правила для Представлений (Views) | https://habrahabr.ru/post/99589/
+
+NerdDinner. Шаг 3: Построение модели | https://habrahabr.ru/post/99107/
+
+NerdDinner. Шаг 1: Новый проект | https://habrahabr.ru/post/98902/
+
+NoSQL, используя MongoDB, NoRM и ASP.NET MVC | https://habrahabr.ru/post/93598/
+
+Динамические формы в ASP.NET MVC | https://habrahabr.ru/post/88766/
+
+MVC 2: Полное руководство по локализации | https://habrahabr.ru/post/86331/
+
+jQuery закладки и Partial View, используем AJAX | https://habrahabr.ru/post/85518/
+
+MVC 2: Валидация модели | https://habrahabr.ru/post/80891/
+
+Шаблоны отображения и редактирования данных в ASP.NET MVC 2 | https://habrahabr.ru/post/81429/
+
+MVC 2: Строго типизированные Html-помощники | https://habrahabr.ru/post/80546/
+
+Передача анонимных объектов в View | https://habrahabr.ru/post/79363/
+
+Опыт использования jQuery/AJAX/Telerik Extensions for MVC | https://habrahabr.ru/post/79175/
+
+Ограничение маршрутов в ASP.NET MVC | https://habrahabr.ru/post/78079/
+
+Быстрое создание CRUD-основы приложения на Entity Framework/ASP.Net MVC | https://habrahabr.ru/post/76717/
+
+Осваиваем ASP.NET MVC вместе. Введение | https://habrahabr.ru/post/75346/
+
+ActionResult на все случаи жизни | https://habrahabr.ru/post/66355/
+

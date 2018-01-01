@@ -1,0 +1,160 @@
+Сборка и дeплой приложений в Kubernetes с помощью dapp и GitLab CI | https://habrahabr.ru/company/flant/blog/345580/
+
+Лучшие практики CI/CD с Kubernetes и GitLab (обзор и видео доклада) | https://habrahabr.ru/company/flant/blog/345116/
+
+Вышел GitLab 10.2: Настраиваемые доски задач и GitLab Geo в общем доступе | https://habrahabr.ru/post/344200/
+
+Почему repository в pom.xml — плохая идея | https://habrahabr.ru/company/lanit/blog/343934/
+
+Как мы настраивали процесс CI/CD для наших SOA-проектов | https://habrahabr.ru/post/342196/
+
+Полное руководство по написанию утилиты для Go | https://habrahabr.ru/company/mailru/blog/341822/
+
+Пошаговое руководство работы с Antlr4 с Maven проектом для Java через Intellij Idea | https://habrahabr.ru/post/341138/
+
+Вышел GitLab 10.1: комментирование изображений и блокировка неподписанных коммитов | https://habrahabr.ru/company/softmart/blog/341458/
+
+Объясняем современный JavaScript динозавру | https://habrahabr.ru/company/mailru/blog/340922/
+
+Сборка проектов с GitLab CI: один .gitlab-ci.yml для сотни приложений | https://habrahabr.ru/company/flant/blog/340996/
+
+Как мы заставили npm-пакеты работать в браузере | https://habrahabr.ru/company/mailru/blog/340418/
+
+Server side rendering на Vue.js | https://habrahabr.ru/post/334952/
+
+Maven, где мои артефакты? Еще одна статья про управление зависимостями | https://habrahabr.ru/post/339902/
+
+Как запустить docker-голосовалку на Swarm, Kubernetes и Nomad | https://habrahabr.ru/post/339508/
+
+Вышел GitLab 10.0: Авто-DevOps и групповые доски задач | https://habrahabr.ru/company/softmart/blog/339174/
+
+Своя система сборки на Linux | https://habrahabr.ru/post/338698/
+
+Профилирование сборки проекта | https://habrahabr.ru/company/infopulse/blog/338672/
+
+Как собрать Ceylon в контейнере, если вашему контейнеровозу перекрыли канал | https://habrahabr.ru/post/338134/
+
+Вышел GitLab 9.5: Верификация коммитов GPG и шаблоны проектов | https://habrahabr.ru/company/softmart/blog/337246/
+
+Быстрые релизы огромного масштаба | https://habrahabr.ru/post/337014/
+
+Использование фронтенда профилировщика Chrome в собственных проектах | https://habrahabr.ru/company/infopulse/blog/336584/
+
+Практика с dapp. Часть 1: Сборка простых приложений | https://habrahabr.ru/company/flant/blog/336212/
+
+Настраиваем автоматическую сборку проекта Unity3d в Gitlab CI | https://habrahabr.ru/post/335980/
+
+Вышел GitLab 9.4: Связанные задачи и веб-мониторинг приложений | https://habrahabr.ru/company/softmart/blog/335064/
+
+В разрезе: новостной агрегатор на Android с бэкендом. Система сборки | https://habrahabr.ru/post/334592/
+
+GitLab CI для непрерывной интеграции и доставки в production. Часть 2: преодолевая трудности | https://habrahabr.ru/company/flant/blog/332842/
+
+24-ядерный CPU, а я не могу сдвинуть курсор | https://habrahabr.ru/post/332816/
+
+GitLab CI для непрерывной интеграции и доставки в production. Часть 1: наш пайплайн | https://habrahabr.ru/company/flant/blog/332712/
+
+Вышел GitLab 9.3: Code Quality и межпроектные графики конвейеров | https://habrahabr.ru/company/softmart/blog/332204/
+
+Терминология OneGet, NuGet, Chocolatey, PowerShellGet — разложим по полочкам | https://habrahabr.ru/post/331124/
+
+Типизированные компоненты в Vue.js, или как подружить Vue, TypeScript и Webpack | https://habrahabr.ru/post/330400/
+
+Катаем «смоляной шарик» или создание собственных правил сборки с помощью Qbs | https://habrahabr.ru/post/330218/
+
+Вышел GitLab 9.2: Несколько исполнителей задачи, конвейеры по расписанию, локализация, альфа аварийного восстановления | https://habrahabr.ru/company/softmart/blog/330036/
+
+Феншуйная автоматизация CI & CD с помощью Jenkins и Jira | https://habrahabr.ru/company/yamoney/blog/328092/
+
+Android + Gradle + CI + CD или Как настроить кормушку для котов | https://habrahabr.ru/post/328326/
+
+Билдим под stm32duino с помощью CMake (и отгребаем от линкера) | https://habrahabr.ru/post/328010/
+
+Вышел GitLab 9.1: Service Desk, Burndown Charts и канареечные развертывания | https://habrahabr.ru/company/softmart/blog/327710/
+
+Вышел GitLab 9.0: Подгруппы и Deploy Boards | https://habrahabr.ru/company/softmart/blog/326456/
+
+От идеи до релиза в одном флаконе. Облачная система управления процессом разработки – Visual Studio Team Services | https://habrahabr.ru/post/325906/
+
+Мета-инструмент разработки: FutoIn CID | https://habrahabr.ru/post/325764/
+
+easymake — «почти» очередной task-runner для сборки, тестирования и иных задач для node.js | https://habrahabr.ru/post/324286/
+
+GitHub Pages для сайта на 8 марта | https://habrahabr.ru/post/323430/
+
+Maven. Собираем только измененное | https://habrahabr.ru/post/323228/
+
+Apache Ant – быстрый старт | https://habrahabr.ru/post/323204/
+
+Как с помощью maven работать с библиотеками, которых в maven нет | https://habrahabr.ru/company/lanit/blog/323008/
+
+Личный опыт: интеграция TeamCity и сервера символов | https://habrahabr.ru/company/pt/blog/322350/
+
+Continuous Integration UWP приложений в Visual Studio Team Services | https://habrahabr.ru/post/321638/
+
+Как сделать из Ninja систему распределённой сборки? | https://habrahabr.ru/post/321660/
+
+Версионирование артефактов сборки в Gradle используя git имена тегов, бранчей и коммитов | https://habrahabr.ru/post/321668/
+
+Вышел GitLab 8.16: Поддержка Google Container Engine, встроенный Prometheus + тайм-трекинг в CE | https://habrahabr.ru/company/softmart/blog/321418/
+
+Переход с CruiseControl.NET на Jenkins в команде разработчиков PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/321346/
+
+Codekit 3 — современный GUI сборщик для MacOS | https://habrahabr.ru/post/321318/
+
+Как мы заново открыли TFS | https://habrahabr.ru/post/319662/
+
+Вышел GitLab 8.15 | https://habrahabr.ru/company/softmart/blog/318926/
+
+Опыт использования self-hosted continuous integration систем | https://habrahabr.ru/post/318524/
+
+Непрерывная кросс компиляция для Raspberry PI | https://habrahabr.ru/post/318840/
+
+Компиляция Java программ и разрешение зависимостей в runtime | https://habrahabr.ru/post/318544/
+
+Модуляризация в JavaSE без OSGI и Jigsaw | https://habrahabr.ru/post/317578/
+
+TeamCity как Debian-репозиторий | https://habrahabr.ru/post/204496/
+
+Вышел GitLab 8.14 | https://habrahabr.ru/company/softmart/blog/317156/
+
+Конференция DevOpsDays 2017: стань докладчиком или участником | https://habrahabr.ru/company/pvs-studio/blog/317064/
+
+Первые шаги в Java: как начать разрабатывать ничего не устанавливая | https://habrahabr.ru/post/310438/
+
+Jenkins для Android на чистой системе и без UI | https://habrahabr.ru/post/315804/
+
+JetBrains Night в Москве. Видео. Первые шаги с TeamCity DSL | https://habrahabr.ru/company/JetBrains/blog/315652/
+
+Релиз GitLab 8.13 | https://habrahabr.ru/company/softmart/blog/315448/
+
+Как собрать RidgeRun SDK | https://habrahabr.ru/post/314848/
+
+Установка Jenkins и Bonobo Git Server под ОС Windows для сборки Android приложений | https://habrahabr.ru/post/313564/
+
+OpenShift + Jenkins + Bitbucket, непрерывная интеграция и публикация из коробки | https://habrahabr.ru/post/313146/
+
+Собираем Docker контейнер с http сервером при помощи Gradle | https://habrahabr.ru/post/312724/
+
+Вышел GitLab 8.12 | https://habrahabr.ru/company/softmart/blog/311692/
+
+«Выходить на сцену — мой способ не отставать от технологий»  : интервью с Барухом Садогурским из JFrog | https://habrahabr.ru/company/jugru/blog/311254/
+
+Как с помощью maven подключить библиотеку к проекту | https://habrahabr.ru/post/311108/
+
+Упаковка jvm приложения в docker образ | https://habrahabr.ru/post/310530/
+
+GitLab CI: Учимся деплоить | https://habrahabr.ru/company/softmart/blog/310502/
+
+Превращаем Java/JVM приложение в демона | https://habrahabr.ru/post/307868/
+
+Введение в GitLab CI | https://habrahabr.ru/company/softmart/blog/309380/
+
+Как собрать простейшую Java программу с помощью Maven | https://habrahabr.ru/post/309222/
+
+Готовим Open Build Service 2.6 | https://habrahabr.ru/post/303902/
+
+Deployer — удобный и гибкий деплой приложений | https://habrahabr.ru/post/302442/
+
+Как проинтегрировать TeamCity и Bitbucket Server | https://habrahabr.ru/post/282457/
+

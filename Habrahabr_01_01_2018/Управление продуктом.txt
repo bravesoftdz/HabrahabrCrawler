@@ -1,0 +1,1676 @@
+Как сторимэп помогает не завязнуть в разработке нового продукта на годы | https://habrahabr.ru/post/345524/
+
+Гибкий суррогат | https://habrahabr.ru/post/345540/
+
+Выкладываем приложение в App Store. Даже если вы не разработчик | https://habrahabr.ru/company/touchinstinct/blog/345336/
+
+Анатомия распределенной команды — процесс подготовки требований | https://habrahabr.ru/post/345302/
+
+Как сделать внутренний продукт внешним. Опыт команды Яндекс.Трекера | https://habrahabr.ru/company/yandex/blog/345044/
+
+Почему Agile не работает и что с этим делать | https://habrahabr.ru/company/it-guild/blog/345142/
+
+Avito Product Analytics Meetup — видео, фото, слайды | https://habrahabr.ru/company/avito/blog/344990/
+
+История Илона Маска – Инфографика | https://habrahabr.ru/post/344730/
+
+Суррогаты | https://habrahabr.ru/post/344844/
+
+Как теория ограничений помогает зарабатывать больше — личный опыт Логомашины | https://habrahabr.ru/company/logomachine/blog/344796/
+
+6 привычек проектного бизнеса, которые убивают продуктовый | https://habrahabr.ru/company/friifond/blog/344706/
+
+Как быть тимлидом, если работаешь с людьми из разных продуктовых команд | https://habrahabr.ru/company/tuturu/blog/344668/
+
+Как правильно чистить лук, или Почему разработка ПО выходит из-под контроля | https://habrahabr.ru/company/alconost/blog/344652/
+
+Это Спарта | https://habrahabr.ru/post/344650/
+
+Фэйковый дизайн | https://habrahabr.ru/company/edison/blog/344310/
+
+Разработка через приемочные тесты (ATDD). Что это такое, и с чем его едят | https://habrahabr.ru/post/344588/
+
+Как мы учили умную розетку замерять мощность | https://habrahabr.ru/company/rubetek/blog/344170/
+
+Недельный спринт, анкета кандидата и картонный мужик | https://habrahabr.ru/company/alfa/blog/344240/
+
+Куй железо: горячий жаргон hardware-стартапов | https://habrahabr.ru/company/friifond/blog/344214/
+
+CRM система или Help Desk? В чем принципиальная разница, откуда путаница, и что есть на рынке Help Desk-ов? | https://habrahabr.ru/company/okdesk/blog/343976/
+
+Бот добра для Slack | https://habrahabr.ru/company/ivi/blog/343878/
+
+Как мы расписание общественного транспорта в 2ГИС добавляли | https://habrahabr.ru/company/2gis/blog/343924/
+
+Инди-разработчик начал техподдержку по телефону, и вот что получилось | https://habrahabr.ru/post/343630/
+
+Avito Product Analytics Meetup 9 декабря: анонс | https://habrahabr.ru/company/avito/blog/343388/
+
+Встроить кратный рост в ДНК команды | https://habrahabr.ru/company/mobio/blog/343406/
+
+Фрэймворк для разработки продуктов от Facebook | https://habrahabr.ru/company/edison/blog/343184/
+
+Готовимся к релизу в App Store. Инструкция для новичков и лайфхаки | https://habrahabr.ru/company/touchinstinct/blog/341858/
+
+Scrum не только в разработке – используем гибкую методологию в организации IT-фестиваля для детей и родителей | https://habrahabr.ru/company/codabra/blog/343012/
+
+BPM в компании: пусть решают процессы | https://habrahabr.ru/company/lanit/blog/342962/
+
+Product owner в банке – кто это и что он умеет | https://habrahabr.ru/company/alfa/blog/342768/
+
+Short-линч приложения Райффайзен-Онлайн | https://habrahabr.ru/post/342382/
+
+Финалисты МЕГА Accelerator: пять новых идей для торговых центров | https://habrahabr.ru/company/mega_accelerator/blog/342614/
+
+Как получить более 3500 звезд на GitHub за неделю и зачем это нужно | https://habrahabr.ru/company/everydaytools/blog/342600/
+
+Как White Label помогает в развитии сервисов и продуктов. 5 примеров | https://habrahabr.ru/post/342514/
+
+Типичные проблемы IT-стартапов, которые мешают быстро развиваться, и как их избежать | https://habrahabr.ru/company/friifond/blog/342374/
+
+Прозрение по метрикам: как я понял, что такое метрики и в чём их главная прелесть | https://habrahabr.ru/post/342330/
+
+Как получить D-U-N-S number бесплатно | https://habrahabr.ru/company/touchinstinct/blog/342046/
+
+Батл приложений: am.ru, auto.ru, drom.ru | https://habrahabr.ru/post/339722/
+
+Code review по-человечески (часть 2) | https://habrahabr.ru/post/342244/
+
+PM из Facebook: контринтуитивные выводы о менеджменте (часть 1) | https://habrahabr.ru/company/edison/blog/341642/
+
+Как обнаружить миллион долларов на своём аккаунте AWS | https://habrahabr.ru/post/342096/
+
+Татьяна Пучкова, АльфаСтрахование: «Я лично обещаю уделить внимание каждому стартапу» | https://habrahabr.ru/company/fintechlab/blog/342004/
+
+Незадача коммивояжера и красный октябрь | https://habrahabr.ru/company/ods/blog/339338/
+
+Ресурсное планирование. Части 2 и 3. Что зависит от ресурсного плана. От чего зависит ресурсный план | https://habrahabr.ru/post/341714/
+
+Долгая дорога в дюнах, или как изменялась инженерная субкультура ЕФС | https://habrahabr.ru/company/efs/blog/341608/
+
+CarPrice в Японии: особенности национального автоаукциона | https://habrahabr.ru/company/carprice/blog/341380/
+
+«5П»: О качестве данных и распространенных ошибках при их сборе | https://habrahabr.ru/post/341316/
+
+Проект завяз: ныряем с головой | https://habrahabr.ru/post/341120/
+
+Как руководить людьми, у которых больше технического опыта, чем у вас | https://habrahabr.ru/company/edison/blog/340892/
+
+Анализ требований | https://habrahabr.ru/post/340956/
+
+Галопом по Европе: путешествие «Формулы Студент» из Чехии в Москву | https://habrahabr.ru/company/lanit/blog/340842/
+
+Как избежать ненужного совещания или в сотый раз о собраниях | https://habrahabr.ru/post/340374/
+
+Мои правила хорошей дизайн-системы. Компоненты и архитектура интерфейса в Figma | https://habrahabr.ru/post/340774/
+
+История – одного проекта на «Доверии». Или как большие маленьких обижают | https://habrahabr.ru/post/340586/
+
+SMS в Telegram или интеграция мессенджеров и IP-телефонии | https://habrahabr.ru/company/zadarma/blog/340284/
+
+Вы уволили самого талантливого сотрудника. Надеюсь, теперь вы довольны | https://habrahabr.ru/post/340370/
+
+Философия статического анализа кода: у нас 100 программистов, анализатор нашел мало ошибок, он бесполезен? | https://habrahabr.ru/company/pvs-studio/blog/340268/
+
+Что нужно знать руководителю IT подразделения? | https://habrahabr.ru/company/otus/blog/340266/
+
+Не по ТЗ | https://habrahabr.ru/post/340052/
+
+Как сформировать конкурентное преимущество и ценность технологичного продукта | https://habrahabr.ru/company/friifond/blog/340186/
+
+Кейс: бесконечная разработка конечной флешки или как не стоит делать стартап. Часть 1: от идеи к продукту | https://habrahabr.ru/post/339984/
+
+20 лучших книг для продакт- и проджект-менеджеров | https://habrahabr.ru/company/netologyru/blog/340060/
+
+Когортный анализ показывает картину, совершенно отличную от нашего привычного восприятия | https://habrahabr.ru/post/339982/
+
+ServiceNow-конференция «Knowledge17» | https://habrahabr.ru/company/marsis/blog/339960/
+
+Запоминать меньше, знать больше: подсказки операторам | https://habrahabr.ru/company/uis/blog/339774/
+
+Врождённый порок ICO: как токены угрожают будущему проектов, ими профинансированных | https://habrahabr.ru/company/hamstermarketplace/blog/339640/
+
+Облегчаем жизнь с заключением SLA | https://habrahabr.ru/post/339584/
+
+Как мы Scrum масштабировали | https://habrahabr.ru/company/alfa/blog/339510/
+
+«Назад в будущее»: Блокчейн сегодня и завтра | https://habrahabr.ru/company/bitfury/blog/339388/
+
+«Роль аналитика в принятии важных продуктовых решений»: видеозаписи докладов с митапа | https://habrahabr.ru/company/wrike/blog/339152/
+
+Сказка о хорошо выстроенных бизнес-процессах, или как одна проблема хакнула идеально работающую систему разработки | https://habrahabr.ru/post/339104/
+
+Как Алексей Моисеенков дошел до Prisma и пошел дальше | https://habrahabr.ru/post/338758/
+
+12 инструментов повышения личной продуктивности, которые помогут вам не профакапить дедлайн | https://habrahabr.ru/company/parallels/blog/338820/
+
+Как создать понятный пользователю каталог услуг: делаем это за 9 шагов | https://habrahabr.ru/company/it-guild/blog/337828/
+
+20 полезных сервисов для продакт-менеджеров | https://habrahabr.ru/company/netologyru/blog/338798/
+
+Как решить извечный конфликт между разработкой и эксплуатацией? | https://habrahabr.ru/company/technoserv/blog/338736/
+
+Хостинг для стартапа: конструктор, облака или свое железо? | https://habrahabr.ru/company/friifond/blog/338746/
+
+Это заблуждение, что технический директор занимается исключительно техническими вопросами | https://habrahabr.ru/company/lanit/blog/338684/
+
+Выбор Help Desk системы. 9 типичных заблуждений | https://habrahabr.ru/company/okdesk/blog/338402/
+
+Как увеличить показатели сервиса в 7 раз за три месяца с помощью HADI-циклов и приоритизации гипотез | https://habrahabr.ru/company/friifond/blog/338240/
+
+Философия статического анализа кода: три простых шага | https://habrahabr.ru/company/pvs-studio/blog/338220/
+
+Метрики в процессе разработки ПО: GQM модель | https://habrahabr.ru/post/338120/
+
+Как соответствовать требованиям к системе менеджмента качества по ISO 9001:2015 | https://habrahabr.ru/company/cloud4y/blog/337666/
+
+Платформа для сбора донатов за две недели – итоги антихакатона | https://habrahabr.ru/company/yamoney/blog/337652/
+
+Задача о премировании: почувствуй себя менеджером | https://habrahabr.ru/post/337580/
+
+Ланнистеры всегда платят свои долги! (и технические тоже) | https://habrahabr.ru/company/ncloudtech/blog/337308/
+
+Деловая игра Kanban-пицца в офисе Туту.ру | https://habrahabr.ru/company/tuturu/blog/337218/
+
+Шпаргалка для предпринимателя по IT-миру | https://habrahabr.ru/post/337238/
+
+Встреча в Петербурге «Роль аналитика в принятии важных продуктовых решений» | https://habrahabr.ru/company/wrike/blog/337106/
+
+Практика формирования требований в ИТ проектах от А до Я. Часть 2. Цели и Потребности | https://habrahabr.ru/post/336790/
+
+Руководство по локализации приложений для китайского рынка, часть 2 | https://habrahabr.ru/company/alconost/blog/336826/
+
+От геймера до директора по качеству | https://habrahabr.ru/company/mailru/blog/336226/
+
+Голосовой интерфейс для заказа автомобиля по телефону в действии | https://habrahabr.ru/post/334816/
+
+Окажите себе и компании услугу: сократите совещания в 2 раза | https://habrahabr.ru/company/logomachine/blog/336532/
+
+Нетривиальные приемы поиска бизнес-идей. Часть 2, «Сделать наоборот» | https://habrahabr.ru/post/336422/
+
+Нетривиальные приемы поиска бизнес-идей | https://habrahabr.ru/post/336410/
+
+ТМ в гостях у Booking.com | https://habrahabr.ru/company/tm/blog/336372/
+
+App Store на iOS 11: каким он будет и что это значит | https://habrahabr.ru/company/everydaytools/blog/336356/
+
+Как может помочь комплексная автоматизация, если у вас малое предприятие | https://habrahabr.ru/company/scanport/blog/336326/
+
+Особенности разработки мобильной MMO RTS. Часть 6 | https://habrahabr.ru/company/plarium/blog/336254/
+
+Ненаучная революция: как не разориться на фейковых инновациях | https://habrahabr.ru/company/spbifmo/blog/336142/
+
+Southbridge: мы развиваем полезное и убираем ненужное | https://habrahabr.ru/company/southbridge/blog/336040/
+
+Логи как часть продукта. Как GrayLog повлиял на качество | https://habrahabr.ru/company/sipuni/blog/335846/
+
+Руководство по локализации приложений для китайского рынка. Часть 1 | https://habrahabr.ru/company/alconost/blog/335806/
+
+Сервис из коробки: настроить ServiceNow «за 60 секунд» | https://habrahabr.ru/company/technoserv/blog/335690/
+
+Автоматизируй это: Как формируется рынок уничтожения рутины | https://habrahabr.ru/company/wrike/blog/335420/
+
+Клиент у руля, или почему провайдеру следует передать штурвал | https://habrahabr.ru/company/1cloud/blog/335246/
+
+Ресурсное планирование. Часть 1. О чем это вообще? | https://habrahabr.ru/post/334984/
+
+«Горшочек, вари»: 50 инструментов для управления разработкой | https://habrahabr.ru/company/it-guild/blog/334518/
+
+«На полпути»: Пятерка главных новостей компании ServiceNow за 2017 год | https://habrahabr.ru/company/it-guild/blog/334516/
+
+Команда веб-студии: система роста, аттестация и мотивация | https://habrahabr.ru/company/twins/blog/334458/
+
+Про Agile, Scrum и командную работу. Как устроены процессы развития продуктов в Альфа-Лаборатории | https://habrahabr.ru/company/alfa/blog/334294/
+
+«Пятничный формат»: Как погасить пламя или 8 верных способов загубить разработку | https://habrahabr.ru/company/it-grad/blog/333690/
+
+Planning Poker: как сделать процесс постановки задач максимально прозрачным и четким | https://habrahabr.ru/company/retailrocket/blog/334256/
+
+Как подсознательно побудить сотрудников соблюдать дедлайны проекта | https://habrahabr.ru/post/333796/
+
+Мировые рынки: как добиться успеха в Индии и Бразилии | https://habrahabr.ru/company/alconost/blog/333752/
+
+Телефонная техподдержка — как мы начали здороваться с клиентом по имени | https://habrahabr.ru/post/333566/
+
+Муда брака | https://habrahabr.ru/post/333466/
+
+Стоимость качества в разработке программного обеспечения | https://habrahabr.ru/post/332724/
+
+Покажите мне бизнес-проблему, и я постараюсь её избежать | https://habrahabr.ru/post/332952/
+
+Financial Management: Как оценить затраты на предоставляемые услуги | https://habrahabr.ru/company/it-guild/blog/331380/
+
+Post mortem | https://habrahabr.ru/post/332762/
+
+Знакомство со стандартом ISO 20000: Откуда он взялся и как сертифицировать компанию | https://habrahabr.ru/company/it-guild/blog/331378/
+
+Анализ в управлении системами | https://habrahabr.ru/company/cloud4y/blog/332434/
+
+Цифровые близнецы. Дизайн через отражение | https://habrahabr.ru/post/331562/
+
+Baking Boards или секретный ингредиент идеальной Agile кухни | https://habrahabr.ru/company/JetBrains/blog/331954/
+
+Платформа ServiceNow: Искусственный интеллект автоматизирует рабочие процессы | https://habrahabr.ru/company/it-guild/blog/331626/
+
+13 вопросов, чтобы узнать, готовы ли вы нанимать команду мобильной разработки | https://habrahabr.ru/post/331510/
+
+Фреймворк Jobs-To-Be-Done: наш опыт использования | https://habrahabr.ru/company/wrike/blog/330868/
+
+Чем малайский отличается от индонезийского, или рассказ о том, как мы переводили приложение на 35 языков | https://habrahabr.ru/post/330968/
+
+Немного о ServiceNow, ITSM и ServiceDesk в формате подборки полезных материалов | https://habrahabr.ru/company/it-guild/blog/330930/
+
+Что может пойти не так на сайте метапоисковика и что с этим делать? Часть 2 | https://habrahabr.ru/company/travelata/blog/331086/
+
+“Коллеги, всё упало!” Что может пойти не так на сайте метапоисковика и что с этим делать? Часть 1 | https://habrahabr.ru/company/travelata/blog/331070/
+
+От b2b-приложений к массовому сервису по всему миру | https://habrahabr.ru/company/mailru/blog/331052/
+
+«Ближе к народу»: как сделать IaaS доступнее | https://habrahabr.ru/company/1cloud/blog/330714/
+
+10 инструментов для стартаперов и стартапов | https://habrahabr.ru/company/everydaytools/blog/330460/
+
+Советы для инженеров от менеджера Google | https://habrahabr.ru/post/330296/
+
+Как развернуть систему клиентской поддержки за 5 минут | https://habrahabr.ru/company/deskun/blog/330232/
+
+Запуск систем без тестовой эксплуатации | https://habrahabr.ru/post/330154/
+
+Скрам в реальном мире. Обзор встречи для скрам-мастеров | https://habrahabr.ru/company/wrike/blog/329552/
+
+IT-фестиваль Tabtabus в четвертый раз соберет айтишников | https://habrahabr.ru/company/twins/blog/329340/
+
+Бизнес: как понять, что пора с этим завязывать | https://habrahabr.ru/company/mosigra/blog/329430/
+
+OKR: Как поставить цели и выполнить их на 70% | https://habrahabr.ru/company/wrike/blog/329272/
+
+Как разрабатываются отраслевые и специализированные решения для 1С:ERP | https://habrahabr.ru/company/1c/blog/328966/
+
+Как проверить бизнес-идею за 75$. Спросите у мух дрозофил | https://habrahabr.ru/post/328686/
+
+Как выглядит Scrum в реальном мире? Выясняем на встрече sсrum-мастеров 23 мая в Санкт-Петербурге | https://habrahabr.ru/company/wrike/blog/328678/
+
+Реалистичные стратегии IТ-компании в кризис | https://habrahabr.ru/company/oleg-bunin/blog/328340/
+
+Преимущества Иерархической Структуры Работ (WBS) для менеджеров ИТ проектов | https://habrahabr.ru/post/327872/
+
+Дайджест Университета ИТМО: бизнес-проекты, инициативы и советы предпринимателям | https://habrahabr.ru/company/spbifmo/blog/327532/
+
+Как мы построили инфраструктуру для своего финансового сервиса | https://habrahabr.ru/company/fondy/blog/322774/
+
+Анализ и сравнение своего ИТ-продукта с продуктами конкурентов | https://habrahabr.ru/post/327296/
+
+Шесть уроков, которые я извлек из саги «Звездные Войны» | https://habrahabr.ru/post/327306/
+
+7 препятствий для внедрения гибких методологий в больших организациях | https://habrahabr.ru/post/327158/
+
+Управление рисками. Часть 2 | https://habrahabr.ru/post/325892/
+
+«Мелочи, на которые мы обратили внимание»: кейс IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/327056/
+
+Как расти: 7 уроков, которые даёт история WeChat | https://habrahabr.ru/post/326972/
+
+Простая ошибка при кодировании — не значит нестрашная ошибка | https://habrahabr.ru/company/pvs-studio/blog/326846/
+
+Биткоинофобия питерских судов с блокировкой без потерпевших | https://habrahabr.ru/company/digitalrightscenter/blog/326766/
+
+Ресурсы для стартаперов: план действий в ссылках | https://habrahabr.ru/company/everydaytools/blog/326658/
+
+Статья о статическом анализе кода для менеджеров, которую не стоит читать программистам | https://habrahabr.ru/company/pvs-studio/blog/326552/
+
+Клиентский сервис: люди лучше роботов | https://habrahabr.ru/post/326444/
+
+Как мы в Бауманке болид собирали: зачем студенческой команде понадобились PLM-технологии | https://habrahabr.ru/company/lanit/blog/326354/
+
+Agile у каждого свой: как плыть по течению, управлять проектами и не страдать | https://habrahabr.ru/company/icanchoose/blog/326130/
+
+«Не думай о саппорте свысока»: как реализовать скрытые возможности вашей службы поддержки | https://habrahabr.ru/company/wrike/blog/325684/
+
+Мир платежного посредничества: практикум в волшебстве | https://habrahabr.ru/post/325858/
+
+Где «Кнопка» блокировки? | https://habrahabr.ru/company/digitalrightscenter/blog/325826/
+
+Управление рисками. Часть 1 | https://habrahabr.ru/post/325824/
+
+Введение в волшебный мир платежного посредничества | https://habrahabr.ru/post/325696/
+
+Гибкое планирование выпуска релизов 101 (на основе Excel) | https://habrahabr.ru/post/325476/
+
+Как мотивировать пользователей залипнуть в вашем продукте навсегда: Фреймворк Папы Григория | https://habrahabr.ru/company/funcorp/blog/324230/
+
+[Перевод статьи] 4 совета, которые мы получили, общаясь с представителями бизнеса на 4YFN 2017 | https://habrahabr.ru/post/325068/
+
+Возможности ERP-решения SAP Business One на платформе SAP HANA | https://habrahabr.ru/company/sap/blog/324966/
+
+Пять важных принципов работы с данными, о которых мы забываем при подготовке презентации проектов | https://habrahabr.ru/post/324904/
+
+The Pitch Canvas — шаблон для коротких презентаций | https://habrahabr.ru/post/324856/
+
+Чуть не уволили по статье… на Хабре | https://habrahabr.ru/post/324714/
+
+Выводим бизнес на международный рынок за 5 минут | https://habrahabr.ru/company/zadarma/blog/324378/
+
+Жесткая расстановка приоритетов | https://habrahabr.ru/company/everydaytools/blog/324380/
+
+Банальности про АБ–тест | https://habrahabr.ru/post/323836/
+
+Решаем стандартные для PMов проблемы на проектах. Часть 1 | https://habrahabr.ru/post/324182/
+
+Зачем играть в getKanban: опыт Туту.ру | https://habrahabr.ru/company/tuturu/blog/323792/
+
+Находка для шпиона: ААБ-тестирование как оптимальный вариант сплит-теста | https://habrahabr.ru/post/323702/
+
+«Исключить нельзя использовать» — новый метод управления рисками | https://habrahabr.ru/post/323596/
+
+Система менеджмента качества: как разобраться в стандартах и запустить процесс их внедрения в компании | https://habrahabr.ru/company/lanit/blog/323528/
+
+Локализация инди-игр на Unity: скрытые расходы | https://habrahabr.ru/company/alconost/blog/323450/
+
+Intranet, Office 365, Digital Workplace. Как пройти по цифровому минному полю | https://habrahabr.ru/post/323226/
+
+Как мы с друзьями прокачали наш сторонний проект до бизнеса с доходом в $17 000 в месяц | https://habrahabr.ru/company/everydaytools/blog/323060/
+
+Перфекционизм. Как перестать искать пауков в комнате и начать жить | https://habrahabr.ru/company/smartprogress/blog/322756/
+
+Сколько заработает ваша мобильная игра? | https://habrahabr.ru/company/miip/blog/322552/
+
+Реализация процедуры «Планирование выпуска релизов по продуктам» инструментами семейства Atlassian | https://habrahabr.ru/post/321598/
+
+Про спагетти, или как исследовать бизнес-процессы организации | https://habrahabr.ru/post/322448/
+
+Как вывести бизнес в онлайн и не разориться: дайджест полезных материалов для начинающих | https://habrahabr.ru/post/322426/
+
+Грабли виртуального квеста, часть вторая: строительство, миллиард багов и тошнота в VR | https://habrahabr.ru/company/rindo/blog/322238/
+
+Рынок виртуальной и дополненной реальности: перспективы для стартапов с точки зрения инвестора | https://habrahabr.ru/company/friifond/blog/322230/
+
+Стратегии go global для стартапов | https://habrahabr.ru/company/gotech_vc/blog/322200/
+
+Грабли виртуального квеста, часть первая: гейм-дизайн, разработчики, выбор шлема | https://habrahabr.ru/company/rindo/blog/321772/
+
+Играем в машинки по-взрослому: как мы стали поставщиками IT-решений для крупнейших автомобильных концернов | https://habrahabr.ru/company/bright-box/blog/321324/
+
+Путь из программиста в предприниматели (и стоит ли по нему идти) | https://habrahabr.ru/post/321184/
+
+ITSM ликбез: Зачем нужно управлять ИТ-услугами, а не просто ИТ-инфраструктурой | https://habrahabr.ru/post/321170/
+
+85% сотрудников забивает на системы управления проектами. Как мы делаем свою | https://habrahabr.ru/company/yougile/blog/321072/
+
+Как мы поумнели и научились открывать квесты в два раза быстрее | https://habrahabr.ru/company/rindo/blog/321026/
+
+«Мы подошли из-за угла», или кого может вытеснить с рынка конкурент. Часть первая, пессимистическая | https://habrahabr.ru/company/kickidler/blog/320614/
+
+ТЗ высокой четкости | https://habrahabr.ru/post/320476/
+
+ITSM ликбез: Как соответствовать ожиданиям заказчика | https://habrahabr.ru/post/320454/
+
+Как стать продакт-менеджером? Часть 5: Get things done | https://habrahabr.ru/company/appodeal/blog/320418/
+
+Добро пожаловать на борт: советы по онбордингу приложений | https://habrahabr.ru/company/appodeal/blog/319970/
+
+Развитие продукта: два года работы над мобильным приложением банка «Открытие» | https://habrahabr.ru/company/redmadrobot/blog/319806/
+
+Как стать продакт-менеджером. Часть 4 про Data Science и ASO | https://habrahabr.ru/company/appodeal/blog/319408/
+
+Обзор и интеграция с Evernote (по материалу GTD на примере Wunderlist) | https://habrahabr.ru/post/319396/
+
+Клиентские сообщества at a glance | https://habrahabr.ru/company/supereon/blog/318930/
+
+Получить инвестиции до $ 100 000 и запустить совместные проекты с лидерами рекламной индустрии | https://habrahabr.ru/company/gotech_vc/blog/319340/
+
+Обратная сторона Agile | https://habrahabr.ru/post/319232/
+
+«ИТ-инфраструктура»: Куда идем мы с «облаком» в 2017-м | https://habrahabr.ru/company/1cloud/blog/319212/
+
+Atlassian покупает Trello за $425 млн | https://habrahabr.ru/post/319190/
+
+«Меня разрывает, когда я не могу писать код» — интервью с Максимом Шафировым, CEO JetBrains | https://habrahabr.ru/company/jugru/blog/318842/
+
+42% людей, которые не покупают ваш продукт | https://habrahabr.ru/company/alconost/blog/318788/
+
+Советы основателя. Евгений Кобзев, технический директор и сооснователь компании «Кнопка» | https://habrahabr.ru/post/318766/
+
+Как научить продажника говорить с разработчиками | https://habrahabr.ru/post/318350/
+
+Как выбрать страну для выхода на международный рынок и протестировать спрос | https://habrahabr.ru/company/friifond/blog/318560/
+
+Sprint: как проверить любую бизнес-идею всего за 5 дней | https://habrahabr.ru/company/makeright/blog/318308/
+
+Как делался новый дизайн сайта viva64.com разработчиков анализатора кода PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/318528/
+
+Тематические дорожные карты проектов: первый шаг к инновации | https://habrahabr.ru/company/everydaytools/blog/318298/
+
+10 причин, по которым ваш дата-проект провалится | https://habrahabr.ru/post/317836/
+
+Как компании будут экономить в 2017 году: 3 эффективных способа | https://habrahabr.ru/company/planado/blog/318140/
+
+Business ONE: ERP для малого бизнеса существует. И он тоже | https://habrahabr.ru/company/sap/blog/317962/
+
+Идеальный программист. Часть 2 | https://habrahabr.ru/post/317850/
+
+Цифровая трансформация: классические бизнесы переходят в ИТ | https://habrahabr.ru/company/gotech_vc/blog/317758/
+
+Российское ПО в офисах компаний — текущие реалии и перспективы, мнения и опыт экспертов | https://habrahabr.ru/post/317718/
+
+Истории малого бизнеса — магазин в Воронеже | https://habrahabr.ru/company/mosigra/blog/317506/
+
+10 лучших книг для запуска успешного стартапа по версии MakeRight | https://habrahabr.ru/company/makeright/blog/317474/
+
+Help Desk система Okdesk. Как мы развиваем наш стартап: баланс между долгосрочной стратегией и пожеланиями клиентов | https://habrahabr.ru/company/okdesk/blog/317392/
+
+Как стать продакт-менеджером (и перестать быть директором по продажам). Часть 3 | https://habrahabr.ru/company/appodeal/blog/317460/
+
+Из первых рук о продуктах по управлению жизненным циклом ПО | https://habrahabr.ru/company/hpe/blog/317368/
+
+Идеальный программист. Часть 1 | https://habrahabr.ru/post/317312/
+
+Создание сайта как продукта или «а почему так дорого?» | https://habrahabr.ru/post/317318/
+
+Когда русский сервис лучше американского, или сражение гуманитария со злыми калькуляторами | https://habrahabr.ru/post/317144/
+
+Без ТЗ: как разработчики в такое ввязываются | https://habrahabr.ru/post/315624/
+
+Amazon анонсировала новые проекты для разработчиков и «простых смертных» | https://habrahabr.ru/post/316662/
+
+Как стать продакт-менеджером. Часть 2 | https://habrahabr.ru/company/appodeal/blog/316654/
+
+Как мы делали сервис по IP телефонии: с 0 до 1800 клиентов за 3 месяца | https://habrahabr.ru/company/SECL_GROUP/blog/316534/
+
+Что такое Microsoft Office 365 и чем он может помочь компании? | https://habrahabr.ru/company/comparex/blog/316452/
+
+Лучший способ уйти с рынка — не пытаться выйти на другие рынки | https://habrahabr.ru/company/kickidler/blog/316402/
+
+Волнующая жизненная история о том, как мы улучшали сервис, с завязкой, кульминацией и глубокой моралью | https://habrahabr.ru/company/knopka/blog/316294/
+
+Почему хороший дизайн начинается раньше, чем первые картинки | https://habrahabr.ru/post/316116/
+
+Как стать продакт-менеджером. Часть 1 | https://habrahabr.ru/company/appodeal/blog/316154/
+
+KPI для избранных, или бизнес-консультанты против малого бизнеса | https://habrahabr.ru/company/kickidler/blog/315776/
+
+Oracle покупает нашумевшего провайдера Dyn в надежде обойти Amazon на облачном рынке | https://habrahabr.ru/post/316052/
+
+Почему настольные игры столько стоят – или настолка своими руками | https://habrahabr.ru/company/mosigra/blog/316010/
+
+Внедрение CRM без ТЗ: дорога в никуда | https://habrahabr.ru/company/regionsoft/blog/315888/
+
+FDD для беклога продукта | https://habrahabr.ru/post/315794/
+
+Причина недопонимания между нами и неверного использования технологий. По мотивам статьи «Пять миров» (ПО) | https://habrahabr.ru/post/315450/
+
+Замена Help Desk системы. 8 универсальных советов о том, как саботировать миграцию на новое решение | https://habrahabr.ru/company/okdesk/blog/315366/
+
+Почему компании с хорошо описанными бизнес-процессами обречены на вымирание | https://habrahabr.ru/company/kickidler/blog/315336/
+
+Mobio Talks c Ириной Шашкиной, CEO Lingualeo | https://habrahabr.ru/company/mobio/blog/315306/
+
+Как создать информативный, но при этом удобный корпоративный сайт? | https://habrahabr.ru/company/onebox/blog/315304/
+
+История одного тестового задания | https://habrahabr.ru/company/ecwid/blog/315228/
+
+Сделать завтра. Как не тратить время на мелочи | https://habrahabr.ru/post/315120/
+
+Как Tesla Motors и SpaceX едва не исчезли в 2008-м | https://habrahabr.ru/post/314928/
+
+Основа системного бизнеса — базовая аналитика | https://habrahabr.ru/post/314764/
+
+Управление задачами на разработку. История из жизни | https://habrahabr.ru/post/314448/
+
+Появление корпоративного чата от Microsoft вызвало неоднозначную реакцию создателей Slack | https://habrahabr.ru/post/314380/
+
+Анонс Форума Dell EMC Forum 2016 | https://habrahabr.ru/company/dellemc/blog/314382/
+
+Как сделать виртуальную инфраструктуру доступнее | https://habrahabr.ru/company/1cloud/blog/314022/
+
+Время — деньги, или аргументы за и против почасовой оплаты | https://habrahabr.ru/company/kickidler/blog/314042/
+
+Как найти вектор развития программного продукта? Планирование как наука | https://habrahabr.ru/company/macroscop/blog/314040/
+
+Как Windows NT стала «убийцей» Novell NetWare OS | https://habrahabr.ru/post/314078/
+
+Mozilla значительно улучшит производительность Firefox новым движком Quantum | https://habrahabr.ru/post/313820/
+
+Большой список ценных советов президента Y Combinator | https://habrahabr.ru/post/313626/
+
+Настраиваем бизнес-процессы веб-студии в CRM | https://habrahabr.ru/company/twins/blog/313550/
+
+Как объяснить бабушке, что такое Agile за 15 минут с картинками | https://habrahabr.ru/company/edison/blog/313410/
+
+На второй линии фронта: наш опыт развития технического отдела поддержки | https://habrahabr.ru/company/wrike/blog/313296/
+
+Как правильно заказать и продвинуть мобильное приложение: дайджест полезных материалов | https://habrahabr.ru/post/313344/
+
+Персона. Как создатель JavaScript Брендан Айк пришел к созданию своей компании | https://habrahabr.ru/post/313040/
+
+Джоанна Хоффман — «ангел-хранитель» Стива Джобса | https://habrahabr.ru/company/edison/blog/312780/
+
+21 октября в 19.00 в Москве основатель Andy Tryba презентует: Как мы создали non profit конкурента Uber за 4 недели | https://habrahabr.ru/company/crossover/blog/312772/
+
+Удалённая работа 2.0. Надежда Юринова, директор по маркетингу Bookmate | https://habrahabr.ru/post/312326/
+
+Клиентоориентированность как основа бизнеса: Опыт IaaS-провайдера «1cloud» | https://habrahabr.ru/company/1cloud/blog/312120/
+
+Знание – сила: анализируем продуктовую статистику и не теряем клиентов на дороге прогресса | https://habrahabr.ru/company/plesk/blog/312162/
+
+Трансляция ISDEF2016. Конференция лидеров разработки ПО под собственными брендами | https://habrahabr.ru/company/isdef/blog/311990/
+
+BlueStacks: как трансляции геймплея помогают эмулятору Android для ПК | https://habrahabr.ru/post/311900/
+
+Советы основателя. Евгений Лучинин, Локалс | https://habrahabr.ru/post/311824/
+
+Внутренняя кухня JUG.ru Group: как делается конференция на 1000 программистов | https://habrahabr.ru/company/jugru/blog/311792/
+
+Опус о стартаперстве и конкурсах в одной части | https://habrahabr.ru/post/311740/
+
+Модерирование юзабилити-тестирования | https://habrahabr.ru/company/mailru/blog/311378/
+
+Счастливы вместе: Как сбор обратной связи от клиентов делает их лояльнее | https://habrahabr.ru/company/planado/blog/311482/
+
+Тестировщик vs разработчик | https://habrahabr.ru/post/311430/
+
+Сентиментальная встреча: как 17 анархистов-разработчиков в 2001 году манифест Agile подписывали | https://habrahabr.ru/company/edison/blog/311400/
+
+Формирование продуктов веб-студии: часы, сроки, рентабельность | https://habrahabr.ru/company/twins/blog/311380/
+
+Невероятные приключения иностранцев в Y Combinator | https://habrahabr.ru/company/edison/blog/311136/
+
+Ваши сотрудники работают много но формально? Вот что нужно делать… | https://habrahabr.ru/company/kickidler/blog/311246/
+
+Y Combinator: Что нужно сделать еще до взрывного роста | https://habrahabr.ru/post/310866/
+
+Защита цифрового контента: как применить DMCA и не пойти по пути судебных разбирательств? | https://habrahabr.ru/company/lawboot/blog/310834/
+
+Итак, менеджер попросил пофиксить баг… | https://habrahabr.ru/post/310310/
+
+The Macro: руководство для резидентов Y Combinator по корпоративным продажам | https://habrahabr.ru/company/edison/blog/310384/
+
+Какая ОС могла бы стать заменой Windows — мнения экспертов | https://habrahabr.ru/post/310642/
+
+Разработка системы электронного документооборота изнутри: Как мы готовим СЭД ТЕЗИС к релизу | https://habrahabr.ru/company/haulmont/blog/310450/
+
+Oracle обещает, что новые продукты помогут ей обыграть Amazon на облачном рынке | https://habrahabr.ru/post/310512/
+
+Хакатон в компании: как его делать и зачем в нем участвовать | https://habrahabr.ru/company/wrike/blog/310070/
+
+Как управлять гигантами Vol.3: полный цикл жизни проекта | https://habrahabr.ru/company/agima/blog/310046/
+
+Настраиваем магазин Windows для бизнеса | https://habrahabr.ru/company/comparex/blog/309928/
+
+Бизнес-девелопмент для SaaS-сервисов: дизайн-проектирование стратегии | https://habrahabr.ru/company/oleg-bunin/blog/309874/
+
+UX-стратегия на практике. Часть 4 — От дизайн-команды к дизайн-культуре | https://habrahabr.ru/company/mailru/blog/309742/
+
+Говорит статистика: настоящее и будущее IaaS | https://habrahabr.ru/company/it-grad/blog/309028/
+
+Agile или Lean: Ага ага, какая разница-то? | https://habrahabr.ru/post/309356/
+
+Что делать с чужими долгами? | https://habrahabr.ru/post/307282/
+
+Dash — блокчейн, который уже не остановить | https://habrahabr.ru/post/309046/
+
+На пути к простоте: как сложно она дается разработчикам | https://habrahabr.ru/company/macroscop/blog/308796/
+
+Переходим в облако: все, что вы хотели знать об Office 365 ProPlus | https://habrahabr.ru/company/comparex/blog/308332/
+
+«Поговорим об этом»: Работа проектировщика | https://habrahabr.ru/company/pechkin/blog/308058/
+
+Долгая игра Тима Кука в Apple | https://habrahabr.ru/post/307680/
+
+Как планировать и оценивать проекты в Agile? | https://habrahabr.ru/company/luxoft/blog/307760/
+
+Как чат-боты постепенно исключают человеческий фактор в российском банковском секторе | https://habrahabr.ru/company/payonline/blog/305642/
+
+Un-FuckUp-able Development Protocol (UDP) | https://habrahabr.ru/post/307134/
+
+Рекомендации по продвижению проекта в США | https://habrahabr.ru/company/gotech_vc/blog/306988/
+
+Станет ли Twitter вторым «Yahoo!» | https://habrahabr.ru/post/306956/
+
+Oracle объявил о крупнейшей сделке за последние 12 лет | https://habrahabr.ru/post/306774/
+
+Последние тенденции в онлайн платежах | https://habrahabr.ru/company/yambox/blog/306418/
+
+Help Desk и Service Desk – когда Excel и CRM недостаточно? Действительно важные функции систем учета заявок | https://habrahabr.ru/company/okdesk/blog/306326/
+
+С 18 июля новый порядок регистрации программ для ЭВМ в Роспатенте. Что изменилось? | https://habrahabr.ru/post/305854/
+
+Чему мы можем научиться у PokemonGO? | https://habrahabr.ru/company/testutor/blog/305822/
+
+Недалекое прошлое: этюд о проблемах автоматизации тестирования | https://habrahabr.ru/post/305788/
+
+Как подходить к созданию сложного продукта: 3 совета разработчикам | https://habrahabr.ru/company/planado/blog/305776/
+
+«Сапожник в своих сапогах»: как мы писали модуль управления финансовыми ресурсами для внутренней СЭД | https://habrahabr.ru/company/haulmont/blog/305664/
+
+Почему техподдержка (намеренно) невыносима | https://habrahabr.ru/post/305342/
+
+Open WG Talk #3: Новые процессы и продуктовое управление | https://habrahabr.ru/company/wargaming/blog/304670/
+
+Как устроено крупнейшее автосообщество Drive2.ru — трафик, монетизация и пользовательский контент | https://habrahabr.ru/company/surfingbird/blog/304400/
+
+Никогда не сдавайся: как Netscape вел неравную борьбу с Internet Explorer | https://habrahabr.ru/post/304344/
+
+Как быстро создавать описание товаров для вашего магазина | https://habrahabr.ru/company/yambox/blog/304316/
+
+Война за анонимность, вскрываем новые поля | https://habrahabr.ru/company/freshdoc/blog/304102/
+
+Бизнес-процессы: the good, the bad and the ugly | https://habrahabr.ru/company/hpe/blog/304016/
+
+Свой среди своих: Как возлюбить ближнего из соседнего отдела | https://habrahabr.ru/company/wrike/blog/303942/
+
+Каковы дальнейшие шаги? | https://habrahabr.ru/post/303858/
+
+CTO «Медузы» — Самат Галимов кратко о том, каково быть главным по разработке в медиа | https://habrahabr.ru/post/303746/
+
+Наши грабли в запуске hardware-стартапа — поиск бизнес-модели и разработка MVP в сфере «интернет вещей» | https://habrahabr.ru/company/friifond/blog/303694/
+
+Экономика облачных вычислений | https://habrahabr.ru/company/1cloud/blog/302174/
+
+Экономика лояльности с нулевой ценой | https://habrahabr.ru/post/303294/
+
+Патентный тролль требует деньги у разработчиков, которые используют Google Play | https://habrahabr.ru/company/rootwelt/blog/302996/
+
+Всё просто. Вы придумываете, мы делаем | https://habrahabr.ru/company/yambox/blog/302986/
+
+Количество и качество: как развиваются таск-трекеры в условиях конкуренции | https://habrahabr.ru/post/302914/
+
+Как управлять гигантами Vol.2: инструментарий для планирования разработки интернет-проектов | https://habrahabr.ru/company/agima/blog/302820/
+
+Open source сервис для создания интерактивных Канбан досок с Github, Bitbucket и Gitlab интеграцией | https://habrahabr.ru/post/302890/
+
+10 способов защиты от мошенничества заказчиков | https://habrahabr.ru/company/polyglot/blog/302886/
+
+Как Микрософт внедрял у себя Yammer (часть II) | https://habrahabr.ru/company/supereon/blog/302842/
+
+Фрилансер и предприниматель | https://habrahabr.ru/post/302784/
+
+Кнопочное мышление против целостного IT-продукта | https://habrahabr.ru/post/302382/
+
+Прогноз индустрии e-commerce на 2016 год | https://habrahabr.ru/company/yambox/blog/302306/
+
+Всё плохо: Почему оценка фриланс-биржи Upwork скоро может стать нулевой | https://habrahabr.ru/company/itinvest/blog/302248/
+
+Gchat был мессенджером будущего, но Google этого не понял | https://habrahabr.ru/post/302096/
+
+Как построить канал продаж для стартапов. Часть первая, теоретическая | https://habrahabr.ru/company/kickidler/blog/301984/
+
+Проклятие культуры | https://habrahabr.ru/company/rootwelt/blog/302008/
+
+Как Микрософт внедрял у себя Yammer (часть I) | https://habrahabr.ru/company/supereon/blog/301632/
+
+Lean — реальная тема, модное слово или натуральная возможность заработать. Или хотя бы не потерять | https://habrahabr.ru/company/kickidler/blog/301618/
+
+Шкура неубитого единорога: юридические разборки со стартапом-миллиардером Cruise | https://habrahabr.ru/company/edison/blog/301072/
+
+Почему автоматизация работы с клиентом иногда не помогает, а мешает | https://habrahabr.ru/company/kickidler/blog/301278/
+
+12 идей насчет того, как улучшить локализацию игры | https://habrahabr.ru/company/alconost/blog/301270/
+
+Главные правила коммуникации технического специалиста в веб-студии с клиентом | https://habrahabr.ru/company/ptysh/blog/300992/
+
+Что означает возвращение Мегамозга для компаний на Хабре | https://habrahabr.ru/company/edison/blog/300944/
+
+Кого хотят корпорации? | https://habrahabr.ru/company/gotech_vc/blog/300854/
+
+Древнеримская коллизия: Кто ответит за раба? | https://habrahabr.ru/company/freshdoc/blog/300834/
+
+ИТ-активы под неусыпным контролем | https://habrahabr.ru/company/hpe/blog/300798/
+
+Как работают профессионалы. Валентин Новиков, директор Calix в России и СНГ | https://habrahabr.ru/post/300778/
+
+Как мы создали в России новый рынок | https://habrahabr.ru/company/mango_telecom/blog/300748/
+
+5 лучших русских бизнес-тренеров | https://habrahabr.ru/company/cashmyvisit/blog/300654/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/300660/
+
+Некуда бежать. Юридический контент и конфликт восприятия | https://habrahabr.ru/company/freshdoc/blog/300638/
+
+Архитектура предприятия — стратегический подход к ИТ | https://habrahabr.ru/company/hpe/blog/300478/
+
+Клиентские сообщества на службе ведущих мировых компаний | https://habrahabr.ru/company/supereon/blog/300426/
+
+Так что же такое «Техническое Задание»? | https://habrahabr.ru/post/300420/
+
+Советы основателя. Никита Обухов, Tilda Publishing | https://habrahabr.ru/post/300414/
+
+Тренинг «Управление требованиями в Agile проектах» | https://habrahabr.ru/company/scrumtrek/blog/300332/
+
+Как наши клиенты конверсию повышали | https://habrahabr.ru/company/cashmyvisit/blog/300388/
+
+Почему SAP HANA не могла не провалиться или фундаментальная порочность вертикальной интеграции | https://habrahabr.ru/company/ultima/blog/300384/
+
+Миссия невыполнима: Метод планирования с недостижимыми целями | https://habrahabr.ru/company/wrike/blog/300368/
+
+Продуктивность для цифровой трансформации | https://habrahabr.ru/company/hpe/blog/300360/
+
+Аудиомания #3: Краткий обзор ecommerce-материалов | https://habrahabr.ru/company/audiomania/blog/300318/
+
+Создание быстрорастущего стартапа в традиционно инерционной отрасли промышленности | https://habrahabr.ru/post/300314/
+
+Как управлять гигантами: правила формирования команды и построения процессов в веб-разработке | https://habrahabr.ru/company/agima/blog/300234/
+
+Медицина в ногу со временем: в ИТ-парке запускается HealthCareAccelerator | https://habrahabr.ru/company/itpark/blog/300218/
+
+Как работают профессионалы. Виталий Виноградов, CEO Ticketland.ru | https://habrahabr.ru/post/300214/
+
+Как вывести Saas-сервис на внешний рынок: 6 полезных советов | https://habrahabr.ru/company/ringostat/blog/300116/
+
+Наша модель мотивации персонала | https://habrahabr.ru/company/supereon/blog/300078/
+
+Цепочки добавленной стоимости в SAFe | https://habrahabr.ru/company/hpe/blog/300036/
+
+Динамичность должна быть безопасной | https://habrahabr.ru/post/300002/
+
+Почему вам НЕ нужен специалист по юзабилити? | https://habrahabr.ru/post/299978/
+
+Советы основателя. Александр Оникиенко, CEO TakeItTaxi | https://habrahabr.ru/post/299952/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/299902/
+
+Как улучшить мир? | https://habrahabr.ru/company/hpe/blog/299872/
+
+Управляемый рост: как процессный подход способствует повышению продаж, прибыли, NPS (на примере СТД «Петрович») | https://habrahabr.ru/company/businessstudio/blog/299818/
+
+Как найти дома применение корпоративным технологиям: о борьбе с педофилом и не только | https://habrahabr.ru/company/kickidler/blog/299828/
+
+Сейчас 2016 год — почему же никто так и не может сделать достойно приложение для работы со списками задач | https://habrahabr.ru/post/299794/
+
+Сценарии как инструмент аналитика, и как они помогают работать с требованиями | https://habrahabr.ru/post/299772/
+
+Модель изменения поведения по Фоггу | https://habrahabr.ru/company/supereon/blog/299752/
+
+Референсная архитектура управления ИТ | https://habrahabr.ru/company/hpe/blog/299732/
+
+Собственные бренды как инструмент выживания бизнеса в кризис: Опыт «Аудиомании» | https://habrahabr.ru/company/audiomania/blog/299718/
+
+Какие бывают информационные инструменты управления | https://habrahabr.ru/post/299516/
+
+Этот 25-летний специалист по информационным технологиям помогает разрушить привычный для нас мир финансов | https://habrahabr.ru/post/299686/
+
+Что происходит с аккаунтом Facebook после смерти, или эволюция наследственноего права в цифровую эпоху | https://habrahabr.ru/company/freshdoc/blog/299664/
+
+Hello, SaaS | Трансформация компаний | Сотрудники и технологии | https://habrahabr.ru/company/dentalcloud/blog/299594/
+
+Все самое свежее с полей конференции JiveWorld2016 | https://habrahabr.ru/company/supereon/blog/299562/
+
+«Бизнес с нуля. Метод Lean Startup». Книга за 15 минут | https://habrahabr.ru/company/makeright/blog/299560/
+
+Самая крутая новая «фишка» в инфотехнологиях сегодня — робоконсультирование, кратко об этом | https://habrahabr.ru/post/299550/
+
+Hello, SaaS | Трекеры вне закона? | https://habrahabr.ru/company/dentalcloud/blog/299526/
+
+Открытый интерфейс для Hive: мы его сделали | https://habrahabr.ru/company/iptelefon/blog/299490/
+
+Семь техник эффективного мозгового штурма | https://habrahabr.ru/post/299484/
+
+Рецензия на книгу Дэвида Йоффи и Майкла Кусумано «Искусство стратегии» | https://habrahabr.ru/post/299436/
+
+Hello, SaaS | Персональные данные | UPd | https://habrahabr.ru/company/dentalcloud/blog/299440/
+
+Разработка уникального продукта за 6 шагов | https://habrahabr.ru/company/mango_telecom/blog/299390/
+
+Против течения: глава Slack превзошел всех конкурентов, обливая свое детище грязью на волне его растущей популярности | https://habrahabr.ru/post/299420/
+
+Кейс Pyrus: Как Максим Нальский ищет и находит лучшие решения | https://habrahabr.ru/post/299410/
+
+Полтора года на создание нового продукта: кейс Webinar | https://habrahabr.ru/company/moikrug/blog/299400/
+
+Взлёт, падение и новый взлёт сервиса Bitly: как бесплатный сервис укорачивания ссылок стал реальным бизнесом | https://habrahabr.ru/post/299364/
+
+Взгляд на бизнес с помощью схемы жизненного цикла ISO 15288 | https://habrahabr.ru/company/businessstudio/blog/299328/
+
+Не называйте код словом «Продукт». Об архитектуре | https://habrahabr.ru/post/299292/
+
+Правообладатель товарного знака требует изменить название сериала House of Cards | https://habrahabr.ru/company/freshdoc/blog/299208/
+
+Как работают профессионалы. Евгения Арестова, генеральный директор ЦОД «Омский» | https://habrahabr.ru/post/299122/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/299026/
+
+Что нужно знать о нефтегазовой отрасли. Ликбез от аналитиков Changellenge >>, выпуск 1 | https://habrahabr.ru/company/changellenge/blog/298894/
+
+Самый лучший поисковик для вашей компании | https://habrahabr.ru/company/supereon/blog/298856/
+
+Умение говорить «нет» — ключевой навык менеджера. Принципиальное «нет» | https://habrahabr.ru/post/298842/
+
+Кейс Ecwid: как Руслан Фазлыев дважды «перешёл Рубикон» электронной коммерции | https://habrahabr.ru/post/298760/
+
+Брендам придётся переосмыслить позиционирование в Instagram и Pinterest | https://habrahabr.ru/post/298692/
+
+Советы основателя. Лев Матвеев, председатель совета директоров SearchInform | https://habrahabr.ru/post/298680/
+
+Как мы решаем «Что делать?» | https://habrahabr.ru/company/1c/blog/277237/
+
+Самая бесполезная трата денег | https://habrahabr.ru/post/298674/
+
+ASICS поглотила Runkeeper | https://habrahabr.ru/post/298652/
+
+Кейс «Toptal» — как Тасо Дю Валь создал идеальную компанию-разработчика | https://habrahabr.ru/post/298640/
+
+Сертификационный курс Certified Agile Professional | https://habrahabr.ru/post/298598/
+
+Как решить 5 главных проблем онлайн покупателей | https://habrahabr.ru/company/triggmine/blog/298568/
+
+Советы основателя. Никита Репешко, Qlean | https://habrahabr.ru/post/298474/
+
+Cisco поглощает Jasper за $1,4 млрд | https://habrahabr.ru/post/298452/
+
+LG: крем для лица, пластиковые окна, лифты и умные часы | https://habrahabr.ru/post/298418/
+
+Microsoft поглотила SwiftKey за $250 млн | https://habrahabr.ru/post/298406/
+
+Сказ о том, как стартапер может погубить свою компанию, став её директором | https://habrahabr.ru/company/kickidler/blog/298400/
+
+Как работает настоящее usability | https://habrahabr.ru/post/298382/
+
+Apple может отказаться от Amazon Web Services | https://habrahabr.ru/post/298374/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/298358/
+
+Минимально жизнеспособный продукт – это не продукт, а процесс | https://habrahabr.ru/post/298302/
+
+Гигономика меняет рынок труда. Часть 2: Рассуждения о стабильности и свободе | https://habrahabr.ru/post/298188/
+
+Тренинг, который меня удивил | https://habrahabr.ru/company/supereon/blog/298182/
+
+Гигономика меняет рынок труда. Часть 1: История успеха BlaBlaCar | https://habrahabr.ru/post/298186/
+
+Каким может быть бизнес по подписке | https://habrahabr.ru/company/1cloud/blog/298172/
+
+Советы основателя. Сергей Ашин, Шефмаркет | https://habrahabr.ru/post/298164/
+
+Холдинг Усманова оказался инвестором Uber | https://habrahabr.ru/post/298116/
+
+Создаем Систему Сбалансированных Показателей своими руками. Часть третья — финальная | https://habrahabr.ru/company/kickidler/blog/298090/
+
+Конференция AgileDays'16 пройдет 14-15 марта в Москве | https://habrahabr.ru/company/scrumtrek/blog/298086/
+
+Что может быть важнее темпов роста бизнеса | https://habrahabr.ru/company/1cloud/blog/298074/
+
+Арам Габрелянов запустит отечественный аналог Buzzfeed | https://habrahabr.ru/post/298054/
+
+Молчание GitHub: участники сообщества не могут заставить руководство платформы исправить ошибки платформы | https://habrahabr.ru/post/298012/
+
+Как построить свою Систему Сбалансированных Показателей и KPI. Часть вторая — определяем стратегию | https://habrahabr.ru/company/kickidler/blog/297964/
+
+Облачные технологии, управление персоналом и прогнозирование — главные тренды 2016 года | https://habrahabr.ru/company/payonline/blog/297884/
+
+Почему Lenovo остаётся успешной компанией на сокращающемся рынке ПК | https://habrahabr.ru/post/297902/
+
+Проект Google X получает новое название | https://habrahabr.ru/post/297912/
+
+Проект Look At Me проводит реструктуризацию и обретает новых хозяев | https://habrahabr.ru/post/297802/
+
+Издание ProPublica запускает первый крупный сайт в Темной паутине | https://habrahabr.ru/post/297754/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/297752/
+
+Из девопсов в стартаперы: два года до AppStore. Часть 1. Введение | https://habrahabr.ru/company/megalenta/blog/297712/
+
+На Apple подали иск на 5 млн долларов за сознательное замедление iPhone 4S на iOS 9 | https://habrahabr.ru/post/297688/
+
+В Египте закрыт бесплатный интернет-сервис Facebook | https://habrahabr.ru/post/297674/
+
+Facebook тестирует новые тематические новостные ленты (и не только) | https://habrahabr.ru/post/297654/
+
+Оптимизация загрузки операторов мультиканального колл-центра | https://habrahabr.ru/post/297626/
+
+Как мы учет питания автоматизировали | https://habrahabr.ru/post/297600/
+
+Сказ о том, как вести бизнес, который многие ненавидят | https://habrahabr.ru/company/kickidler/blog/297572/
+
+Один из самых скрытных стартапов-единорогов Кремниевой Долины получил около миллиарда долларов инвестиций | https://habrahabr.ru/post/297556/
+
+Как мы считали, стоит ли содержать бесплатных клиентов, и во сколько это нам обойдётся | https://habrahabr.ru/company/staffcounter/blog/297536/
+
+Всего за сутки! или Конклавное проектирование | https://habrahabr.ru/post/297476/
+
+Netfix не платит налог на прибыль компаний в Великобритании, несмотря на 4,5 млн подписчиков | https://habrahabr.ru/post/297442/
+
+Инструкция как обмануть любую систему учета рабочего времени или мониторинга сотрудников без записи видео | https://habrahabr.ru/company/kickidler/blog/297436/
+
+Компания «Яндекс» получила патентный иск от Fellowship Filtering Technologies | https://habrahabr.ru/post/297420/
+
+LG увольняет разработчиков webOS из американского офиса | https://habrahabr.ru/post/297418/
+
+Tencent всецело и полностью купил Riot Games | https://habrahabr.ru/post/297414/
+
+Сказ о том как уменьшение функционала породило новый рынок ПО | https://habrahabr.ru/company/kickidler/blog/297404/
+
+Умение говорить Нет — ключевой навык менеджера. Обусловленное нет | https://habrahabr.ru/post/297390/
+
+Вспомним 7 нашумевших стартапов, которые закрылись в 2015 году | https://habrahabr.ru/post/297350/
+
+Мы работаем 8 часов в сутки. Можно ли наладить 24/5 производство интеллектуального продукта? | https://habrahabr.ru/post/297346/
+
+Блог компании Kickidler — давайте познакомимся | https://habrahabr.ru/company/kickidler/blog/297338/
+
+Apple купила фабрику по производству чипов | https://habrahabr.ru/post/297306/
+
+«Scrum. Революционный метод управления проектами». Книга за 15 минут | https://habrahabr.ru/company/makeright/blog/297250/
+
+Не увольняйте «плохих» клиентов, наймите им психиатра | https://habrahabr.ru/company/omnidesk/blog/297280/
+
+Palantir Technologies получила финансирование на 130 млн долларов | https://habrahabr.ru/post/297214/
+
+5 причин взглянуть на свой бизнес под другим углом | https://habrahabr.ru/company/cashmyvisit/blog/296762/
+
+Twitter планирует зарабатывать на пользователях без аккаунта | https://habrahabr.ru/post/297186/
+
+Википедия будет использовать искусственный интеллект для того, чтобы увеличить количество редакторов материалов | https://habrahabr.ru/post/297104/
+
+Бывший руководитель Twitter открывает новую компанию | https://habrahabr.ru/post/297092/
+
+Toshiba ищет новых партнеров | https://habrahabr.ru/post/297036/
+
+Компания Nikon намерена приобрести технологию Samsung NX | https://habrahabr.ru/post/297014/
+
+YouTube планирует запуск стриминг-сервисов для ТВ-контента и видеофильмов | https://habrahabr.ru/post/296966/
+
+Соучредитель Android возвращается с новым проектом | https://habrahabr.ru/post/296964/
+
+Публикация бизнес-процессов. Универсальный – «общерелигиозный» подход | https://habrahabr.ru/post/296948/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/296930/
+
+Интернет вещей сулит большое будущее для Intel | https://habrahabr.ru/post/296908/
+
+Тинькофф-банк ожидает получить больше прибыли за 2015 год, чем планировал изначально | https://habrahabr.ru/post/296902/
+
+Как работают профессионалы. Роман Кумар Виас, директор по маркетингу и совладелец Qlean и Shelly | https://habrahabr.ru/post/296888/
+
+«Стратегия голубого океана». Книга за 15 минут | https://habrahabr.ru/company/makeright/blog/296868/
+
+Феномен виртуального общения через мессенджеры только набирает обороты | https://habrahabr.ru/post/296880/
+
+Как оценивать задачи без помощи разработчиков? | https://habrahabr.ru/post/296852/
+
+Руководитель Google Now рассказывает о развитии проекта | https://habrahabr.ru/post/296814/
+
+Activision Blizzard объявила о проведении чемпионата мира по Hearthstone: Heroes of Warcraft 2016 | https://habrahabr.ru/post/296802/
+
+Российский акселератор iDealMachine признан одним из лучших акселераторов мира | https://habrahabr.ru/post/296778/
+
+Советы основателя. Феликс Хачатрян, Ubank | https://habrahabr.ru/post/296734/
+
+Удивительно, но факт: IBM потратила миллиарды на покупку технологии, к которой уже имела доступ | https://habrahabr.ru/post/296728/
+
+Microsoft получила крупного партнера по облачным сервисам, заключив соглашение с Hewlett Packard Enterprise | https://habrahabr.ru/post/296726/
+
+Президент Uber рассказывает о том, как компания добилась успеха на глобальном рынке | https://habrahabr.ru/post/296714/
+
+«Продажа» технических идей заказчику | https://habrahabr.ru/company/dataart/blog/296700/
+
+Отечественный участник конкурса TechCrunch Startup Battlefield 2014, компания Luka: как поживаете? | https://habrahabr.ru/post/296698/
+
+Опрос «Мегамозга»: субсидирование участников программы импортозамещения электроники в России | https://habrahabr.ru/post/296692/
+
+ProductCamp Minsk 2015 — видеозаписи выступлений | https://habrahabr.ru/company/wargaming/blog/296554/
+
+Каких изменений в мире технологий стоит ожидать в ближайшие пять лет? | https://habrahabr.ru/post/296600/
+
+Google планирует открыть официальный магазин приложений в Китае | https://habrahabr.ru/post/296574/
+
+Новостные СМИ в борьбе за выживание | https://habrahabr.ru/post/296568/
+
+RedHelper — стартап дня по версии RusBase | https://habrahabr.ru/company/redhelper/blog/296548/
+
+Локализация игр должна учитывать самобытную культуру оригинала | https://habrahabr.ru/post/296528/
+
+5 идеологов современных медиа о том, как должны работать СМИ | https://habrahabr.ru/company/surfingbird/blog/296520/
+
+Бизнес и UX: логи экспресс-семинара | https://habrahabr.ru/company/sobakapavlova/blog/296508/
+
+Венчурного рынка в России не существует? | https://habrahabr.ru/post/296502/
+
+5 сверхсекретных патентов Apple, которые были недавно обнародованы | https://habrahabr.ru/post/296466/
+
+Интернет-радио Pandora покупает стриминг-сервис Rdio в надежде составить конкуренцию крупным игрокам | https://habrahabr.ru/post/296448/
+
+Как бесплатный продукт увеличивает продажи и сплачивает команду | https://habrahabr.ru/company/redhelper/blog/296432/
+
+Загадка от Apple: как получить 94% прибыли от продаж всех смартфонов при доле рынка в 13%? | https://habrahabr.ru/post/296440/
+
+Конкурс для переводчиков от международной лингвистической фриланс-платформы Polyglot | https://habrahabr.ru/company/polyglot/blog/296428/
+
+Глава Microsoft рассказал о сервисах и устройствах, которые он использует ежедневно | https://habrahabr.ru/post/296392/
+
+Как переехать на облачный мессенджер | https://habrahabr.ru/company/1cloud/blog/296382/
+
+Хакатон от App in The Air | https://habrahabr.ru/company/avoapp/blog/296210/
+
+Чем вам помогут открытые проекты | https://habrahabr.ru/company/1cloud/blog/296342/
+
+Как построить бизнес своей мечты: история из жизни | https://habrahabr.ru/company/smartprogress/blog/296318/
+
+Корпоративное лицензирование или сделай SAM | https://habrahabr.ru/company/icl_services/blog/296298/
+
+Как работать с недовольными клиентами? | https://habrahabr.ru/company/omnidesk/blog/296246/
+
+Как и почему я реализовал P2P опрос для расчета зарплат в корпорации: конкретный пример | https://habrahabr.ru/post/296268/
+
+Перестановки на рынке онлайн-продаж мебели, или не IKEA единой: Home24 покупает Fashion For Home | https://habrahabr.ru/post/296222/
+
+Президент Okta рассказал о взрослении своей компании и масштабировании бизнеса | https://habrahabr.ru/post/296212/
+
+Кейс Group-IB: Как Илья Сачков за 10 лет построил лидера в области информационной безопасности | https://habrahabr.ru/post/296194/
+
+Корпорация Alibaba выкупила крупнейший видеопортал Китая за 3,7 млрд долларов | https://habrahabr.ru/post/296126/
+
+Советы основателя. Эдуард Гуринович, основатель Carprice.ru | https://habrahabr.ru/post/296112/
+
+Советы рабочего дня — День 5, Управляй файлами удобно | https://habrahabr.ru/post/296092/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/296084/
+
+Два лица Airbnb | https://habrahabr.ru/post/296082/
+
+Советы рабочего дня — День 3, Перегружен почтой | https://habrahabr.ru/post/296046/
+
+10 самых распространенных ошибок стартапов | https://habrahabr.ru/post/296016/
+
+Обзор облачного сервиса автоматизации стоматологии Dental Cloud | https://habrahabr.ru/company/dentalcloud/blog/295988/
+
+Советы рабочего дня — День 2, Календарь | https://habrahabr.ru/post/295984/
+
+Советы рабочего дня — День 1, Задачи, Идеи | https://habrahabr.ru/post/295942/
+
+Время заменить пользовательские истории рабочими | https://habrahabr.ru/post/295900/
+
+Вы рассчитываете MRR неверно, и вот почему | https://habrahabr.ru/company/omnidesk/blog/295874/
+
+Dental Cloud запускает бесплатный тариф «Практика» | https://habrahabr.ru/company/dentalcloud/blog/295830/
+
+Большая кухня больших данных. Часть 1 | https://habrahabr.ru/company/megafon/blog/295722/
+
+Чему вас может научить о маркетинговой рассылке ошибка Microsoft стоимостью $900 миллионов | https://habrahabr.ru/company/paysto/blog/295726/
+
+Вперед на рифы (riw-ы) | https://habrahabr.ru/post/295700/
+
+Почему Twitter умирает (и что можно почерпнуть для себя из этой ситуации) | https://habrahabr.ru/post/295644/
+
+Hello, SaaS | Коммуникации «клиника-пациент» в Dental Cloud | https://habrahabr.ru/company/dentalcloud/blog/295628/
+
+Уроки, полученные за пять лет работы с мобильными новостными приложениями. Правило №1: Не занимайтесь новостными приложениями | https://habrahabr.ru/post/295510/
+
+Как создавать софт, который действительно работает? | https://habrahabr.ru/post/295458/
+
+На что обратить внимание ИТ-руководителю | https://habrahabr.ru/company/1cloud/blog/295454/
+
+Не время для гениев (о Канделаки и Кинопоиске) | https://habrahabr.ru/post/295450/
+
+Обреченные на погибель: жив ли ваш стартап или заведомо мертв? | https://habrahabr.ru/post/295446/
+
+8 способов мотивирования службы поддержки | https://habrahabr.ru/company/omnidesk/blog/295404/
+
+Аллергия на внедрение: 12 часто задаваемых вопросов о том, почему пользователи отвергают новые продукты | https://habrahabr.ru/company/sobakapavlova/blog/295320/
+
+Как работают профессионалы. Пия Веммелунд, CEO Momondo | https://habrahabr.ru/post/295290/
+
+Hello, SaaS | WOW! форматы продвижения стартапа | https://habrahabr.ru/company/dentalcloud/blog/295264/
+
+Apple TV ведет с онлайн-кинотеатрами переговоры о выходе на российский рынок | https://habrahabr.ru/post/295260/
+
+Управление проектами в ИТ: Кейс Zappos | https://habrahabr.ru/company/1cloud/blog/295216/
+
+Рецензия на книгу Роба Фицпатрика «Спроси маму» («The mom test» Rob Fitzpatrick) | https://habrahabr.ru/post/295202/
+
+Другая сторона медали: 5 не самых приятных уроков, вынесенных из личного стартап-опыта | https://habrahabr.ru/post/295200/
+
+Креатив — главный враг конверсии | https://habrahabr.ru/post/295082/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/295068/
+
+Как замена UI-элемента может повлиять на выручку | https://habrahabr.ru/company/1cloud/blog/295044/
+
+Видео с летней школы по маркетингу софтверных продуктов в JetBrains | https://habrahabr.ru/company/JetBrains/blog/294994/
+
+Мобильные стартапы проваливаются как в 99-м году | https://habrahabr.ru/post/294938/
+
+ProductCamp Minsk 2015 | https://habrahabr.ru/company/wargaming/blog/294908/
+
+Аналитическое чудо (о нашем мозге на Мегамозге) | https://habrahabr.ru/post/294902/
+
+Ежедневные совещания как активное планирование | https://habrahabr.ru/post/294842/
+
+Кратко, Менеджмент ИТ 7 — Процессы | https://habrahabr.ru/post/294822/
+
+Репутационные риски: Кейс Volkswagen | https://habrahabr.ru/company/1cloud/blog/294794/
+
+WG Travel: как подружить геймдев и турбизнес? | https://habrahabr.ru/company/wargaming/blog/294440/
+
+Как двое парней, далеких от IT, построили свою компанию и выручили миллионы с ее продажи | https://habrahabr.ru/post/294708/
+
+Как найти таланты для службы поддержки? | https://habrahabr.ru/company/omnidesk/blog/294680/
+
+Кратко, Менеджмент ИТ 6 — Библиотека процессов | https://habrahabr.ru/post/294510/
+
+У нас будет… новая программа | https://habrahabr.ru/company/pyrus/blog/294408/
+
+Какие выводы можно сделать по итогам скандального взлома Ashley Madison | https://habrahabr.ru/company/1cloud/blog/294476/
+
+Basecamp 3: Работа может подождать | https://habrahabr.ru/post/294446/
+
+Слежка за конкурентами: да или нет? | https://habrahabr.ru/company/omnidesk/blog/294382/
+
+Как развивать облачный сервис | https://habrahabr.ru/company/1cloud/blog/294374/
+
+Customer Development и Эволюционный подход к развитию проекта | https://habrahabr.ru/company/euler2012/blog/294278/
+
+5 основных приоритетов для основателей стартапов | https://habrahabr.ru/post/294246/
+
+Что предпринять, когда тебе двадцать с небольшим | https://habrahabr.ru/company/logomachine/blog/294242/
+
+Почему удаленная работа улучшила мою продуктивность: 3 причины | https://habrahabr.ru/post/294208/
+
+Как IaaS-провайдер помогает с организацией приема платежей | https://habrahabr.ru/company/1cloud/blog/294184/
+
+Советы по Twitter для чайников: то, что мне стоило бы знать, когда я начинал | https://habrahabr.ru/post/294136/
+
+Кратко, Менеджмент ИТ 5 — Начинаем строить фундамент | https://habrahabr.ru/post/294072/
+
+Первые версии Google, Facebook, YouTube и других IT-монстров (и чему они могут научить тебя в плане развития собственного бизнеса) | https://habrahabr.ru/post/294094/
+
+Услуги в области ИТ. Матчасть – Часть 5. Не все проекты одинаково проекты | https://habrahabr.ru/company/icl_services/blog/294032/
+
+Hello, SaaS | Персональные данные | Переехали? | https://habrahabr.ru/company/dentalcloud/blog/294080/
+
+Вышла новая версия облачного сервиса автоматизации стоматологии Dental Cloud | https://habrahabr.ru/company/dentalcloud/blog/293958/
+
+Как мы сравнивали КСС. Часть 3 | https://habrahabr.ru/company/supereon/blog/293928/
+
+Восемь интересных событий в области дистанционного обучения в корпоративной среде 2015–2016 | https://habrahabr.ru/company/teachbase/blog/293924/
+
+Баллада о незнании | https://habrahabr.ru/post/293900/
+
+Сбербанк заплатит почти 12 млн рублей за разработку программы по отказу от бумажных документов | https://habrahabr.ru/post/293892/
+
+Как web-студии из Зеленограда запустить многомиллионный start-up и не помереть | https://habrahabr.ru/company/ldmco/blog/293860/
+
+Советы самому себе про product management | https://habrahabr.ru/post/292078/
+
+10 обязательных навыков для сотрудника службы поддержки | https://habrahabr.ru/company/omnidesk/blog/293662/
+
+Пациент скорее жив, чем мертв? Обследование здоровья программного проекта | https://habrahabr.ru/post/293752/
+
+Как построить успешную компанию: 4 совета молодым предпринимателям | https://habrahabr.ru/post/293710/
+
+У нас же есть техническое задание на систему / сайт / приложение / проект… | https://habrahabr.ru/post/293700/
+
+Когда одних идей недостаточно, создайте компанию | https://habrahabr.ru/post/293676/
+
+Слухи о разработке беспилотного автомобиля Apple подтверждаются | https://habrahabr.ru/post/293678/
+
+Даешь расцвет идей: Почему надо поощрять творческий подход в работе | https://habrahabr.ru/post/293672/
+
+Самое первое открытие менеджера | https://habrahabr.ru/post/293614/
+
+Советы основателя. Виктор Кох, Slinky | https://habrahabr.ru/post/293600/
+
+Метнись Кабанчиком: с чего все начиналось. Часть 1 | https://habrahabr.ru/company/kabanchik/blog/293546/
+
+Секреты поддержки клиентов — выпуск №4 | https://habrahabr.ru/company/omnidesk/blog/293526/
+
+PMM Summer School: Как пройти школу маркетинга софтверных продуктов и остаться гиком? | https://habrahabr.ru/post/293458/
+
+Apple набирает программистов для портирования проектов на Android OS | https://habrahabr.ru/post/293404/
+
+Как мы сравнивали корпоративные социальные сети. Часть 1 | https://habrahabr.ru/company/supereon/blog/293382/
+
+Интеллектуальное управление проектами и имитационное моделирование | https://habrahabr.ru/post/293270/
+
+Кафеворкинг: как выбрать кафе, где можно поработать | https://habrahabr.ru/company/alconost/blog/293206/
+
+Какие бизнес-метрики нужно использовать, и когда: анализ вашего SaaS-стартапа | https://habrahabr.ru/company/friifond/blog/293226/
+
+Модификация ABC-анализа, или как сделать плохо работающее чуть лучше | https://habrahabr.ru/post/293224/
+
+Партизанская война Instagram с порнографией и пользователями, которые входят в окна, когда перед ними закрывают двери (Часть 2) | https://habrahabr.ru/post/293212/
+
+9 инструментов для управления продуктом | https://habrahabr.ru/post/293192/
+
+Партизанская война Instagram с порнографией и пользователями, которые входят в окна, когда перед ними закрывают двери (Часть 1) | https://habrahabr.ru/post/293132/
+
+Стратегия выхода на рынок | https://habrahabr.ru/post/293112/
+
+Как превратить IT стартап в прибыльный бизнес? | https://habrahabr.ru/company/pyrus/blog/292884/
+
+Кратко, менеджмент ИТ -4. Сотрудники, роли и должности | https://habrahabr.ru/post/293022/
+
+Про конкурентные преимущества для производителя электроники | https://habrahabr.ru/post/293014/
+
+Кратко, Менеджмент ИТ — 3 | https://habrahabr.ru/post/292966/
+
+Результаты опросов по оформлению прав в ИТ-проектах | https://habrahabr.ru/company/it-lex/blog/292962/
+
+Чем живет Product Manager | https://habrahabr.ru/company/icanchoose/blog/292936/
+
+Кратко, Менеджмент ИТ — 2 | https://habrahabr.ru/post/292880/
+
+Атака мошенников на интернет-бизнес: 5 монстров под кроватью интернет-торговца | https://habrahabr.ru/company/wayforpay/blog/292870/
+
+Кратко, Менеджмент ИТ | https://habrahabr.ru/post/292848/
+
+5 находок, которые каждый дизайнер продукта обязательно должен украсть у студии Ghibli | https://habrahabr.ru/post/292844/
+
+Ретроспектива: как и зачем ее проводить? | https://habrahabr.ru/company/scrumtrek/blog/292600/
+
+Использование Design Sprint для ускорения инновационного процесса (часть 2 из 2) | https://habrahabr.ru/company/paysto/blog/292754/
+
+Взламывая корпоративную культуру | https://habrahabr.ru/post/292750/
+
+Использование Design Sprint для ускорения инновационного процесса (часть 1 из 2) | https://habrahabr.ru/company/bankfilter/blog/292742/
+
+На примере создания интернет-магазина узнаем, что же такое businessability | https://habrahabr.ru/post/292704/
+
+Как менеджеры по продукту меняют значение термина «CIO» | https://habrahabr.ru/post/292696/
+
+История одного стартапа – разбираем чужие ошибки. Часть 2 | https://habrahabr.ru/post/292646/
+
+Что нужно знать владельцу сайта, чтобы его сайт не заблокировали и не взломали? | https://habrahabr.ru/post/292620/
+
+Секреты коллтрекинга: все о виртуальных номерах и о правильном выборе провайдера | https://habrahabr.ru/post/292608/
+
+Стратегия компании, SWOT-анализ, риск-менеджмент и другие танцы с бубнами для тех, кто хочет вырасти | https://habrahabr.ru/company/alconost/blog/292572/
+
+Способы привлечения целевого трафика на сайт агенства недвижимости | https://habrahabr.ru/post/292568/
+
+Сквозь горизонт. Ищем воздушный коридор для взлета сервиса облачной телефонии | https://habrahabr.ru/company/iptelefon/blog/292546/
+
+Размышления менеджера по продукту | https://habrahabr.ru/post/292404/
+
+Советы основателя. Олег Грибанов, основатель Darenta.ru | https://habrahabr.ru/post/292398/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/292344/
+
+Как экономить на ИТ-инфраструктуре | https://habrahabr.ru/company/1cloud/blog/292246/
+
+История одного стартапа- разбираем чужие ошибки. Часть 1 | https://habrahabr.ru/post/292236/
+
+Летняя школа по маркетингу софтверных продуктов и стажировка в JetBrains | https://habrahabr.ru/company/JetBrains/blog/292164/
+
+Довольны ли клиенты работой службы поддержки? | https://habrahabr.ru/company/omnidesk/blog/292132/
+
+Международный концерн АВВ инвестирует 50 миллионов рублей в строительство первого в России центра робототехники | https://habrahabr.ru/post/292050/
+
+AgileCamp2015, 23-24 июля | https://habrahabr.ru/company/scrumtrek/blog/291912/
+
+Как мы разработали свой DNS-менеджер | https://habrahabr.ru/company/1cloud/blog/261139/
+
+Google тестирует облачного конкурента GitHub и Bitbucket | https://habrahabr.ru/post/291922/
+
+3 способа сэкономить средства при создании технического устройства | https://habrahabr.ru/post/291874/
+
+Acronis Cloud Platform Conference — June 23, 2015 | https://habrahabr.ru/company/acronis/blog/291824/
+
+Секреты поддержки клиентов — выпуск №3 | https://habrahabr.ru/company/omnidesk/blog/291816/
+
+7П — идеальная бизнес-модель организации | https://habrahabr.ru/post/291800/
+
+С 2016 года Nokia начнет выпускать мобильные устройства под другими брендами | https://habrahabr.ru/post/291744/
+
+Договор с автором-фрилансером | https://habrahabr.ru/company/it-lex/blog/291592/
+
+Евангелист — боль в ит-компании, и зачем вам это нужно | https://habrahabr.ru/company/tceh/blog/291572/
+
+25 «логичных» советов создателям стартапов от лучших инвесторов. Часть первая | https://habrahabr.ru/company/grrow/blog/291560/
+
+Alibaba запустит свой Netflix-подобный стриминговый сервис | https://habrahabr.ru/post/291558/
+
+Советы основателя. Алексей Шереметьев, сооснователь Planner 5D | https://habrahabr.ru/post/291444/
+
+Исследование методологии проектирования ИС: «Клинок не должен встречать клинок» | https://habrahabr.ru/post/291436/
+
+Почтовые ящики на pochta.ru продолжат работать и после перехода под контроль «Почты России» | https://habrahabr.ru/post/291432/
+
+Рост цены билета для московского метро объясняется использованием импортных компонентов | https://habrahabr.ru/post/291402/
+
+Взгляд на стартапы с обратной стороны. Часть 2 | https://habrahabr.ru/post/291360/
+
+Amazon опубликовал вакансии игровых разработчиков | https://habrahabr.ru/post/291330/
+
+С чего начинаются степные облака, или учет магазина в Кулунде | https://habrahabr.ru/post/291324/
+
+Применение Теории Ограничений для постановки процесса | https://habrahabr.ru/post/291310/
+
+Cтало известно о дате запуска продаж и особенностях новой модели Apple iPhone | https://habrahabr.ru/post/291300/
+
+«Атон»: «Яндекс» может уйти из Турции в 2016 году. «Яндекс» опровергает прогноз | https://habrahabr.ru/post/291298/
+
+Карьера, коммерция и управление проектами/задачами в вопросах и ответах на «Тостере» | https://habrahabr.ru/post/291226/
+
+Взгляд на стартапы с обратной стороны. Часть 1 | https://habrahabr.ru/post/291174/
+
+Что такое Cc и Bcc, и как их использовать при поддержке клиентов? | https://habrahabr.ru/company/omnidesk/blog/291080/
+
+Росреестр запустил онлайн-регистрацию прав на недвижимость | https://habrahabr.ru/post/291144/
+
+Разработка логотипа или как выжить во время холивара | https://habrahabr.ru/company/cashmyvisit/blog/291140/
+
+Ford откроет патенты за деньги | https://habrahabr.ru/post/291114/
+
+ФРИИ поможет «Ростеху» искать и развивать новые ИТ-проекты | https://habrahabr.ru/post/291104/
+
+Советы основателя. Юлия Нестерец, сооснователь Hotwork.ru | https://habrahabr.ru/post/290986/
+
+Стоимость реализации Wi-Fi подключения в московском метро может достигать 2 млрд рублей | https://habrahabr.ru/post/290972/
+
+Ищем единорогов: Product Marketing Manager'ы в JetBrains | https://habrahabr.ru/company/JetBrains/blog/290946/
+
+Перевести нельзя локализовать: как сделать сайт понятным для иностранных пользователей | https://habrahabr.ru/company/abbyy/blog/290742/
+
+Daimler и Qualcomm работают над беспроводной зарядкой электромобилей | https://habrahabr.ru/post/290870/
+
+Наталья Касперская: Верить инвесторам нельзя ни в коем случае | https://habrahabr.ru/post/290814/
+
+Какие инструменты мы используем для работы и общения с пользователями | https://habrahabr.ru/company/carrotquest/blog/290792/
+
+Антропоморфизм — новая методика управления хаосом мыслей дизайнеров и проектировщиков | https://habrahabr.ru/post/290774/
+
+Как это выглядит: личный кабинет Rocket Callback | https://habrahabr.ru/company/rocketcallback/blog/290712/
+
+Правильный замес для эффективной работы коллектива: цель, правила игры, контроль, актуальная информация | https://habrahabr.ru/post/290612/
+
+Если ваш клиент — гендир | https://habrahabr.ru/company/skybase/blog/290554/
+
+О доверии покупателей к интернет–магазинам | https://habrahabr.ru/company/onemarkt/blog/290594/
+
+Услуги в области ИТ. Матчасть – Часть 4. Профессиональные услуги в области ИТ. ИТ-аутсорсинг | https://habrahabr.ru/company/icl_services/blog/290564/
+
+Советы основателя. Артем Субботин, CEO «Симкомат» | https://habrahabr.ru/post/290520/
+
+Я разработчик, а не юрист | https://habrahabr.ru/company/paysto/blog/290498/
+
+О роли OneMarkt в развитии электронной коммерции | https://habrahabr.ru/company/onemarkt/blog/290494/
+
+Как я собирала команду для своего стартапа | https://habrahabr.ru/company/rocketcallback/blog/290422/
+
+Дисциплина или тесты. Выберите одно? | https://habrahabr.ru/company/luxoft/blog/290462/
+
+Несколько бутстреппинг-советов, которые помогут превратить ваши идеи в реальность | https://habrahabr.ru/post/290440/
+
+Работоспособный NDA с сотрудниками компании | https://habrahabr.ru/post/290424/
+
+Советы основателя. Олег Балбеков, директор Evrone и основатель Vexor.io | https://habrahabr.ru/post/290420/
+
+Качество и тестирование: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/290366/
+
+Департамент транспорта Москвы готовит проект каршэринга — краткосрочной аренды автомобиля | https://habrahabr.ru/post/290294/
+
+WayForPay: Немного о приеме онлайн платежей | https://habrahabr.ru/company/wayforpay/blog/290288/
+
+Еврокомиссия готовится к масштабному регулированию интернет-отрасли | https://habrahabr.ru/post/290292/
+
+Защита прав на базу данных | https://habrahabr.ru/company/it-lex/blog/290260/
+
+В чем сила настоящего UX? | https://habrahabr.ru/post/290252/
+
+Конспект выходного дня: Построение бизнес-моделей | https://habrahabr.ru/post/290236/
+
+Патентное право в России | https://habrahabr.ru/post/290140/
+
+Почему мозговой штурм – это трата времени | https://habrahabr.ru/post/290158/
+
+Evernote меняет свою бизнес-модель | https://habrahabr.ru/post/290142/
+
+Как стать таким же успешным, как Билл Гейтс, Стив Джобс, Элон Маск или Ричард Брэнсон? | https://habrahabr.ru/company/astoundcommerce/blog/290134/
+
+Советы основателя. Байрам Аннаков, создатель App In The Air | https://habrahabr.ru/post/290130/
+
+Шишка за шишкой в разработке мобильных приложений | https://habrahabr.ru/company/pomodoro/blog/290062/
+
+Как отказаться от $300k и поехать в Чили. Интервью с Даниилом Бродовичем — основателем американского стартапа TalkToChef | https://habrahabr.ru/company/cloverr/blog/290048/
+
+Легенда не вернется | https://habrahabr.ru/post/290028/
+
+Я наконец-то понял, что такое unit-экономика | https://habrahabr.ru/company/pvs-studio/blog/290018/
+
+Пять вещей, которые я усвоил за шесть лет работы в SoundCloud | https://habrahabr.ru/post/290008/
+
+Как 276 000 беременных женщин достались одному мужчине. Что-то типа Success Story | https://habrahabr.ru/company/happypregnancy/blog/289982/
+
+Интервью c командой проекта месяца Sourceforge.net — GNS3 | https://habrahabr.ru/post/289972/
+
+История одного приложения личной продуктивности | https://habrahabr.ru/company/pomodoro/blog/289876/
+
+Роман Абрамович инвестировал $15 млн в музыкальное приложение Music Messenger | https://habrahabr.ru/post/289856/
+
+Продакт, проджект, аккаунт, сейл — ху из ху? | https://habrahabr.ru/post/289838/
+
+Советы основателя. Илья Осипов, сооснователь i2istudy.com | https://habrahabr.ru/post/289820/
+
+Слезные войны: Пробуждение сайта | https://habrahabr.ru/post/289782/
+
+Теперь я владелец интернет-магазина (Часть 1) | https://habrahabr.ru/company/ringcloud/blog/289632/
+
+4 свойства превосходного качества обслуживания с точки зрения клиента | https://habrahabr.ru/company/icl_services/blog/289654/
+
+Стартап Docker привлёк дополнительные $95 млн на развитие | https://habrahabr.ru/post/289574/
+
+Советы основателя. Рустам Салаватов, основатель LIFE.FILM | https://habrahabr.ru/post/289556/
+
+Почему я больше не рекламирую услуги своей компании | https://habrahabr.ru/post/289548/
+
+Автор «The Lean Startup» Эрик Рис привлекает желающих к созданию новой книги | https://habrahabr.ru/post/289512/
+
+Услуги в области ИТ. Матчасть – Часть 3. ИТ-услуги ≠ Услуги в области ИТ. Кто или что создаёт полезность услуги? | https://habrahabr.ru/company/icl_services/blog/289462/
+
+Интервью с Петерисом Круминьшем (CEO в Browserling) и ответы на ваши вопросы | https://habrahabr.ru/post/289414/
+
+Запущена версия Facebook Messenger для web-браузеров | https://habrahabr.ru/post/289440/
+
+Советы основателя. Алексей Виноградов, основатель CallsFreeCalls и создатель IXC | https://habrahabr.ru/post/289430/
+
+История неудачного кейса: Как мы сливали алкоголь | https://habrahabr.ru/post/289422/
+
+Российское фотоприложение Glitché стало лауреатом премии «Интернет-Оскар» в Нью-Йорке | https://habrahabr.ru/post/289378/
+
+10 докладов с AgileDays-2015 — Iteration-01 | https://habrahabr.ru/post/289366/
+
+Основные тезисы Сергея Леонтьева в интервью «Секрету Фирмы» | https://habrahabr.ru/post/289360/
+
+«Почта России» запустила два сервиса для интернет-магазинов | https://habrahabr.ru/post/289296/
+
+Не пора ли остановиться или все же продолжать вкладывать в проект? Личный опыт | https://habrahabr.ru/post/289280/
+
+Марк Руссинович заявил о возможности Windows с открытым кодом | https://habrahabr.ru/post/289270/
+
+Эволюционное управление разработкой — гарантированный путь к успеху | https://habrahabr.ru/post/289266/
+
+В Китае iPhone 6 занял первое место в рейтинге новых смартфонов | https://habrahabr.ru/post/289262/
+
+Советы основателя. Евгений Рыжков, генеральный директор «СиПроВер» и разработчик PVS-Studio | https://habrahabr.ru/post/289236/
+
+Правила эффективного создания прототипа продукта | https://habrahabr.ru/post/289192/
+
+Топ-менеджеры уходят из Enter не дожидаясь «перезагрузки» | https://habrahabr.ru/post/289166/
+
+Huawei увеличила на треть расходы на исследования и собирается вложить $600 млн в разработку 5G | https://habrahabr.ru/post/289158/
+
+4 причины, по которым дизайн покоряет Силиконовую Долину | https://habrahabr.ru/post/289130/
+
+Рост выручки Avito замедляется | https://habrahabr.ru/post/289128/
+
+Yota Devices создает совместное предприятие с китайской компанией Jielan LTD | https://habrahabr.ru/post/289102/
+
+Услуги в области ИТ: Матчасть. Часть 2. Формула услуги | https://habrahabr.ru/company/icl_services/blog/289090/
+
+Почему i2istudy не стал сотрудничать с ФРИИ | https://habrahabr.ru/post/289072/
+
+Тайм-менеджмент и смартфон. Самоорганизация на основе GTD и Google Calendar | https://habrahabr.ru/post/289068/
+
+Услуги в области ИТ: Матчасть. Часть 1. Вступление и Основы | https://habrahabr.ru/company/icl_services/blog/289036/
+
+Три истории на ProductMeetup — диаграммы Кано, ужасы дизайна в B2B, форум для 50K сотрудников Сбербанка | https://habrahabr.ru/post/289026/
+
+Ответ на главный вопрос Вселенной и всего-на-свете: Команда | https://habrahabr.ru/post/289030/
+
+«Афишу» ждут кардинальные изменения | https://habrahabr.ru/post/288996/
+
+Главные анонсы первого дня Facebook F8 | https://habrahabr.ru/post/287068/
+
+Вигерс, ты не прав! Ещё раз об итеративной и инкрементальной разработке | https://habrahabr.ru/post/287012/
+
+Parallels выделяет облачные технологии в отдельный бренд | https://habrahabr.ru/post/286990/
+
+Советы основателей. Игорь Дебатур и Анатолий Черняков, сооснователи Whitescape | https://habrahabr.ru/post/286950/
+
+Качество: Руководство Gov.uk | https://habrahabr.ru/company/friifond/blog/286920/
+
+Отказ от предварительных оценок: в чем смысл #NoEstimates | https://habrahabr.ru/post/286924/
+
+Перезапустился «Секрет фирмы» | https://habrahabr.ru/post/286870/
+
+Институт развития интернета предложил меры поддержки отечественных производителей ПО | https://habrahabr.ru/post/286862/
+
+13 бизнес-стартапов с наибольшей капитализацией | https://habrahabr.ru/post/286838/
+
+Без купюр. kubish.ru третий месяц в России: итоги и как нас хакали | https://habrahabr.ru/post/286808/
+
+Microsoft не собирается убивать Internet Explorer | https://habrahabr.ru/post/286778/
+
+Google ввела премодерацию приложений и возрастные рейтинги в Google Play | https://habrahabr.ru/post/286760/
+
+Советы основателя. Антон Гладкобородов, CEO Coub | https://habrahabr.ru/post/286756/
+
+Российская Baikal Electronics заключила соглашение с Synopsys об использовании систем проектирования для разработки процессоров | https://habrahabr.ru/post/286704/
+
+Какими знаниями не должен обладать Product Owner? | https://habrahabr.ru/company/luxoft/blog/286702/
+
+История одного провала, или Почему «Сайтоняня» пока подождет | https://habrahabr.ru/company/sobakapavlova/blog/286658/
+
+Топ-10 самых инновационных компаний из мира интернета вещей по версии Fast Company | https://habrahabr.ru/post/286632/
+
+Свадебный сервис получил 25 миллионов рублей инвестиций | https://habrahabr.ru/post/286576/
+
+Женщины, которые поменяли бизнес | https://habrahabr.ru/post/286478/
+
+РБК рассказал историю «русского IBM» | https://habrahabr.ru/post/286356/
+
+Slon.ru перезапустился в новом дизайне | https://habrahabr.ru/post/286344/
+
+Региональный малый и средний бизнес в ИТ — 3 | https://habrahabr.ru/post/286326/
+
+В 2014 году компания МТС вложила более 1,2 млрд рублей в инфраструктуру связи Красноярского края | https://habrahabr.ru/post/286274/
+
+There is no silver bullet, или как мы от водопада до Канбана через скрамовые аджайлы дошли | https://habrahabr.ru/company/acronis/blog/286258/
+
+Бюджет издания Meduza на 2015 год составляет $1,7 млн | https://habrahabr.ru/post/286222/
+
+5 главных ошибок или почему ваши рациональные решения не работают? | https://habrahabr.ru/company/mbaconsult/blog/286178/
+
+Google обогнал Яндекс по мобильной аудитории в крупных городах России | https://habrahabr.ru/post/286192/
+
+Приложение Getable для найма строительной техники получило пять миллионов долларов инвестиций | https://habrahabr.ru/post/286184/
+
+Лаборатория Касперского запустила собственный акселератор | https://habrahabr.ru/post/286168/
+
+Viber грозит отключение в Южной Корее | https://habrahabr.ru/post/286144/
+
+10 шагов, которые позволят улучшить ваш дизайн (часть 2) | https://habrahabr.ru/company/paysto/blog/286142/
+
+Twitter подтвердил готовность к диалогу с Роскомнадзором | https://habrahabr.ru/post/286136/
+
+10 шагов, которые позволят улучшить ваш дизайн (часть 1) | https://habrahabr.ru/company/paysto/blog/286118/
+
+25 лет Adobe Photoshop: между прошлым и будущим | https://habrahabr.ru/post/286074/
+
+Советы основателя. Станислав Протасов, вице-президент по разработке Acronis | https://habrahabr.ru/post/286072/
+
+Госпоисковик «Спутник» получит 800 млн рублей инвестиций от «Ростелекома» | https://habrahabr.ru/post/286036/
+
+Будьте честны: ваш продукт действительно лучший? | https://habrahabr.ru/post/283928/
+
+Фонд Сбербанка и другие инвесторы вложили 6,5 миллионов долларов в финансовый стартап Mobeewave | https://habrahabr.ru/post/285980/
+
+Проектная кухня. Снижение архитектурных рисков проекта | https://habrahabr.ru/post/285884/
+
+Причина, по которой провалились Google Glass, Amazone Fire Phone и Segway | https://habrahabr.ru/post/285894/
+
+От проблемы к требованиям. Теория принятия решений в разработке ПО | https://habrahabr.ru/post/285714/
+
+Ренессанс венчурных инвестиций: рост технологий или второй «пузырь доткомов»? | https://habrahabr.ru/post/285846/
+
+10 лет Google Maps: путь от Slashdot до Ground Truth | https://habrahabr.ru/post/285838/
+
+Региональный малый и средний бизнес в ИТ — 2 | https://habrahabr.ru/post/285808/
+
+Что будет с нишевыми IT-изданиями в 2015 году – опрос «Мегамозга» | https://habrahabr.ru/post/285788/
+
+Уроки бизнеса из реальной жизни | https://habrahabr.ru/post/285770/
+
+Онлайн игра-руками дилетанта. История неспеха | https://habrahabr.ru/company/supernova/blog/285748/
+
+Премьера фильма о Стиве Джобсе состоится 9 октября 2015 года, на год раньше предполагаемого ранее срока | https://habrahabr.ru/post/285732/
+
+Sanoma продает пакет акций в газете «Ведомости» | https://habrahabr.ru/post/285716/
+
+Wargaming закрывает харьковский офис | https://habrahabr.ru/post/284060/
+
+Agile с точки зрения программиста | https://habrahabr.ru/post/284012/
+
+Резиденты российских технопарков в 2014 году увеличили выручку на четверть | https://habrahabr.ru/post/283990/
+
+Работа в стартапе: Идеи, рутина и ответственность | https://habrahabr.ru/company/friifond/blog/283960/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/283940/
+
+Новый парень в руководстве: чем занимается Chief Experience Officer? | https://habrahabr.ru/post/283908/
+
+Типичный день менеджера Google | https://habrahabr.ru/post/283900/
+
+Как организовать техническую поддержку в веб-студии | https://habrahabr.ru/post/283870/
+
+Какую часть рабочего времени вы тратите на производство продукта | https://habrahabr.ru/post/283858/
+
+Что нас ждет в ближайшие 25 лет? Предсказания от Рэймонда Курцвейла | https://habrahabr.ru/post/283852/
+
+21 способ минимизации удержания сотрудников | https://habrahabr.ru/post/283840/
+
+Apple установила мировой рекорд по прибыли за финансовый квартал | https://habrahabr.ru/post/283838/
+
+SocialRank обновил индексы и рейтинги | https://habrahabr.ru/post/283812/
+
+Интересные события, произошедшие в выходные | https://habrahabr.ru/post/283808/
+
+Перед стартапом – часть вторая | https://habrahabr.ru/post/283624/
+
+Перед стартапом — часть первая | https://habrahabr.ru/post/283608/
+
+Феномен Xiaomi: стать третьим производителем смартфонов | https://habrahabr.ru/post/283592/
+
+Региональный малый и средний бизнес в ИТ | https://habrahabr.ru/post/248339/
+
+5 улучшений для сайта, которые могут увеличить продажи в 3 раза | https://habrahabr.ru/company/alconost/blog/246263/
+
+На какие языки лучше переводить свой продукт? | https://habrahabr.ru/company/alconost/blog/231511/
+
+Хотите управлять продуктом? О чем молчат все менеджеры по продукту | https://habrahabr.ru/company/alconost/blog/220335/
+
+Как создавать крутые продукты: два ключевых принципа от компании HubSpot | https://habrahabr.ru/company/alconost/blog/216371/
+
+А вдруг успешным стартапам просто повезло? | https://habrahabr.ru/company/web_payment_ru/blog/204016/
+
+Языки в Европе: когда перевод имеет смысл? | https://habrahabr.ru/company/alconost/blog/189194/
+
+С гвоздем в глазу все видится гвоздем | https://habrahabr.ru/company/alconost/blog/187446/
+
+Инфографика: доступ к мировой аудитории и ценность языков онлайн | https://habrahabr.ru/company/alconost/blog/186184/
+
+Привлечение денег — средство, а не самоцель | https://habrahabr.ru/company/alconost/blog/184108/
+
+12 бизнес-уроков от основателя и гендиректора Amazon Джеффа Безоса. Часть 2 | https://habrahabr.ru/company/alconost/blog/170727/
+
+12 бизнес-уроков от основателя и гендиректора Amazon Джеффа Безоса. Часть 1 | https://habrahabr.ru/company/alconost/blog/170201/
+
+Чему я научился у Джейсона Фрайда (37signals) | https://habrahabr.ru/company/alconost/blog/167477/
+
+Стройте бизнес, а не «стратегию выхода» | https://habrahabr.ru/company/alconost/blog/166569/
+
+Восемь способов улучшить мозговой штурм | https://habrahabr.ru/company/alconost/blog/163125/
+
+Внедрять agile как готовить пироги | https://habrahabr.ru/company/scrumtrek/blog/157295/
+
+О том, как мы живого онлайн-переводчика Nitro придумали и сделали | https://habrahabr.ru/company/alconost/blog/156699/
+

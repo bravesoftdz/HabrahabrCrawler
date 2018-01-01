@@ -1,0 +1,160 @@
+Пасём биконов тучные стада | https://habrahabr.ru/post/345162/
+
+«Виртуальный университет»: какие VR-проекты развивают в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/345256/
+
+AliExpress головного мозга | https://habrahabr.ru/company/lanit/blog/344944/
+
+Поле боя — дополненная реальность. Часть III: возможности движка, анимация и POI | https://habrahabr.ru/post/345062/
+
+Виртуальные ядерные установки: полный цикл разработки для Oculus Rift в одном лице (UPD 18.12.2017) | https://habrahabr.ru/post/344570/
+
+Местоопределение Wi-FI источников в AR и котелок | https://habrahabr.ru/post/344278/
+
+Поле боя — дополненная реальность. Часть II: как распознать объект и показать 3D модель | https://habrahabr.ru/post/343648/
+
+В Физтех.Читалке пройдет бесплатная лекция на тему «Как создать игру в виртуальной реальности» | https://habrahabr.ru/company/mipt/blog/343384/
+
+Поле боя — дополненная реальность. Часть I: основы распознавания объектов | https://habrahabr.ru/post/342950/
+
+Как создавать графику для VR — рекомендации Google | https://habrahabr.ru/post/342426/
+
+Путь разработчика, часть 4: На пути к мечте | https://habrahabr.ru/post/341628/
+
+Результаты EdHack 2017 — AR и VR в образовании | https://habrahabr.ru/company/mailru/blog/340786/
+
+Красные стрелы доп-реальности | https://habrahabr.ru/post/339586/
+
+Хакатон от ABBYY | https://habrahabr.ru/company/abbyy/blog/338742/
+
+Когда размер имеет значение: создаем приложение-линейку с помощью ARKit | https://habrahabr.ru/company/everydaytools/blog/337808/
+
+Конкурс идей от ABBYY – как выиграть новый iPhone | https://habrahabr.ru/company/abbyy/blog/337756/
+
+Охота на кремлевского демона | https://habrahabr.ru/post/337608/
+
+Автооптимизация виртуальной реальности или В чем разница между репроекцией, timewarp и spacewarp | https://habrahabr.ru/company/pixonic/blog/336140/
+
+Охота на рыжего демона или пеленгатор помех спутниковой навигации | https://habrahabr.ru/post/332746/
+
+Интеграция Oculus Rift в десктопное Direct3D приложение на примере Renga | https://habrahabr.ru/company/ascon/blog/332806/
+
+Практика применения технологий виртуальной и дополненной реальности | https://habrahabr.ru/company/miip/blog/332118/
+
+Создание React VR-приложения, работающего в реальном времени | https://habrahabr.ru/company/mailru/blog/331816/
+
+Виртуальная реальность на геймдев-конференции White Nights | https://habrahabr.ru/company/miip/blog/331332/
+
+Дополненная реальность для первых лиц государств | https://habrahabr.ru/company/miip/blog/331200/
+
+Тестируем возможности ARKit. Создаем игру с дополненной реальностью | https://habrahabr.ru/company/touchinstinct/blog/331078/
+
+Полное погружение в виртуальную реальность: настоящее и будущее | https://habrahabr.ru/company/miip/blog/330754/
+
+Создание VR-игры от третьего лица | https://habrahabr.ru/post/330322/
+
+Видео: инди-разработчики о провалах, успехе и монетизации | https://habrahabr.ru/company/appodeal/blog/330354/
+
+Обзор VR/AR новинок Google I/O 2017 | https://habrahabr.ru/company/google/blog/330310/
+
+WWDC 2017. Пошумим немножечко | https://habrahabr.ru/company/touchinstinct/blog/330292/
+
+Пеленгатор на дополненной реальности | https://habrahabr.ru/post/323638/
+
+WebVR: второе рождение виртуальной реальности | https://habrahabr.ru/company/jugru/blog/329786/
+
+Приглашаем на встречу Unity разработчиков в Москве | https://habrahabr.ru/company/miip/blog/329356/
+
+Экскурсия по площадке Google I/O | https://habrahabr.ru/company/touchinstinct/blog/329190/
+
+Стресс-тест команды: как сделать GPU бенчмарк и не перегреться | https://habrahabr.ru/company/unigine/blog/328082/
+
+Выставки и конференции по виртуальной реальности 2017 | https://habrahabr.ru/company/miip/blog/328210/
+
+Нужны ли видеозвонки в VR? | https://habrahabr.ru/company/Voximplant/blog/327464/
+
+Игры для Oculus Rift в которые уже можно поиграть | https://habrahabr.ru/company/miip/blog/327098/
+
+Управление «силой мысли»: резидент акселератора Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/327106/
+
+Неделя до Международной мобильной конференции MBLT17 | https://habrahabr.ru/company/e-Legion/blog/326818/
+
+Виртуальная студия и захват движения используя Htc Vive | https://habrahabr.ru/post/326690/
+
+Экзоскелет своими руками | https://habrahabr.ru/company/parallels/blog/326596/
+
+Методология VR-разработки | https://habrahabr.ru/post/326392/
+
+Игры для Playstation VR в которые уже можно поиграть | https://habrahabr.ru/company/miip/blog/326424/
+
+Предварительная программа MBLT17 | https://habrahabr.ru/company/e-Legion/blog/325614/
+
+VR Design: содержимое сцен | https://habrahabr.ru/post/325284/
+
+VR/AR в браузере. Как быстро влиться и сделать свое первое приложение, используя WebVR API | https://habrahabr.ru/company/tuturu/blog/324570/
+
+Видео Google Device Day | https://habrahabr.ru/company/google/blog/324468/
+
+Узкие места в облаках: истории Pokemon Go и Trivia Crack | https://habrahabr.ru/post/321196/
+
+VR-Design: User Interface | https://habrahabr.ru/post/324002/
+
+Звуковые эффекты в виртуальных мирах | https://habrahabr.ru/post/323072/
+
+Отчет с Game Design meetup 4 февраля | https://habrahabr.ru/company/mailru/blog/322328/
+
+«Порог вхождения сводится к знанию основ компьютерной графики»: разработчик Александр Коршак о мобильном VR | https://habrahabr.ru/company/jugru/blog/322294/
+
+Уроки ВР, полученные при создании EVE: Valkyrie | https://habrahabr.ru/post/321848/
+
+Как опубликовать приложение в Oculus Store и кому это нужно: опыт российских разработчиков | https://habrahabr.ru/company/lanit/blog/321958/
+
+Рендеринг и оптимизация в VR-разработке | https://habrahabr.ru/post/321784/
+
+Виртуальная реальность в недвижимости: кейс | https://habrahabr.ru/company/miip/blog/321506/
+
+Виртуальная кинематография для VR-трейлеров | https://habrahabr.ru/post/320702/
+
+Приглашаем на Game Design meetup 4 февраля | https://habrahabr.ru/company/mailru/blog/321058/
+
+VR-Design: взгляд в виртуальный мир | https://habrahabr.ru/post/320860/
+
+Сквозь стены: преодоление преград | https://habrahabr.ru/post/320856/
+
+Разработка качественных VR-проектов | https://habrahabr.ru/post/320858/
+
+Материалы журналов Университета ИТМО: исследования в сфере обработки изображений и компьютерного моделирования | https://habrahabr.ru/company/spbifmo/blog/320842/
+
+Подходы к дизайну в виртуальной реальности | https://habrahabr.ru/company/mailru/blog/318780/
+
+Погружение в Глубину: как вместить реальность в маленькую коробочку | https://habrahabr.ru/post/320564/
+
+Комфорт пользователей в VR: учёт параметров игрока | https://habrahabr.ru/post/320448/
+
+Нескучный SCRUM и сегментация изображения для выделения Post-it наклеек | https://habrahabr.ru/post/320456/
+
+Система трекинга для GearVR или производство электроники в России | https://habrahabr.ru/company/antilatency/blog/320204/
+
+Погружение в Глубину: как сделать качественный проект без миллионов в кармане и почему не нужно бояться «долгостроев» | https://habrahabr.ru/post/320168/
+
+Почему броски в VR такие отстойные, и что с этим делать? | https://habrahabr.ru/post/319250/
+
+ТехноLive: VR и платформы будущего (Максим Пестун, Дмитрий Трубицын) | https://habrahabr.ru/company/mailru/blog/318640/
+
+Топ-10 ключевых анонсов от Microsoft в 2016 году | https://habrahabr.ru/company/microsoft/blog/318130/
+
+VR-приложение с нуля на libgdx: часть 1 | https://habrahabr.ru/post/318278/
+
+Доступность VR для людей с ограниченными возможностями | https://habrahabr.ru/post/317576/
+
+Клипса от Raccoon.world, как контроллер для VR/AR | https://habrahabr.ru/post/317522/
+
+Интервью с Луисом Катальди (Epic Games) об игровом движке Unreal Engine | https://habrahabr.ru/company/mobio/blog/316972/
+
+Неигровой VR: перспективы и возможности в вебе, – интервью с VR-энтузиастом Martin Splitt, Archilogic | https://habrahabr.ru/company/jugru/blog/315868/
+
+Практическое руководство по VR-дизайну | https://habrahabr.ru/company/mailru/blog/316566/
+
+Руководство для начинающих VR-разработчиков | https://habrahabr.ru/company/mailru/blog/316024/
+
+Создаём простейшую VR-демку с Unreal Engine | https://habrahabr.ru/company/mailru/blog/315966/
+

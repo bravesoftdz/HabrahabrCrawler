@@ -1,0 +1,1064 @@
+10 главных анонсов Microsoft в 2017 году | https://habrahabr.ru/company/microsoft/blog/345416/
+
+Синхронизация AssemblyVersion и Publish Version в ClickOnce приложении | https://habrahabr.ru/post/345390/
+
+Расширение Visual Studio для визуализации экземпляров пользовательских классов в режиме отладки. Часть 2 | https://habrahabr.ru/company/ascon/blog/344156/
+
+Простая реализация Token для взаимодействия мобильного приложения с WebAPI | https://habrahabr.ru/post/344902/
+
+F# на Linux как лекарство для души | https://habrahabr.ru/company/microsoft/blog/343864/
+
+Анализаторы Roslyn: повадки и места обитания | https://habrahabr.ru/post/334582/
+
+Ключевые анонсы Connect(); 2017 | https://habrahabr.ru/company/microsoft/blog/342516/
+
+Запуск/отладка Python скриптов в контейнерах LXC/LXD из под VS Code | https://habrahabr.ru/post/342080/
+
+Знаки табуляции или пробелы: решаем с помощью Visual Studio | https://habrahabr.ru/company/microsoft/blog/341722/
+
+Отладка React-приложений в VS Code | https://habrahabr.ru/company/ruvds/blog/341878/
+
+Настройка папок отображения в табличной модели SSAS 2016 | https://habrahabr.ru/post/340286/
+
+Расставим точки над .NET Core и .NET Standard | https://habrahabr.ru/company/microsoft/blog/340128/
+
+MvvmCross для простого приложения iOS на C# | https://habrahabr.ru/post/339864/
+
+Тайм-менеджмент для кинестетиков | https://habrahabr.ru/company/devexpress/blog/338948/
+
+DevOps с Kubernetes и VSTS. Часть 2: Облачная история | https://habrahabr.ru/company/microsoft/blog/337708/
+
+Привет, Программист | https://habrahabr.ru/company/microsoft/blog/337866/
+
+DevOps с Kubernetes и VSTS. Часть 1: Локальная история | https://habrahabr.ru/company/microsoft/blog/337626/
+
+Plugin for HANA Database project in Visual Studio | https://habrahabr.ru/company/infopulse/blog/337680/
+
+Как перешагнуть через legacy и начать использовать статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/336824/
+
+Отладка Xamarin проектов из VirtualBox на эмуляторе Android | https://habrahabr.ru/post/335680/
+
+О поддержке языковых фич C# в Visual Studio и в CodeRush for Roslyn | https://habrahabr.ru/company/devexpress/blog/334664/
+
+JetBrains Rider 2017.1 — первый релиз новой кроссплатформенной .NET IDE | https://habrahabr.ru/company/JetBrains/blog/335076/
+
+Автоматизация CI/CD для Java приложений с помощью Microsoft Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/334270/
+
+Microsoft Bot Framework на Linux под Node.JS | https://habrahabr.ru/post/333824/
+
+С/С++ на Linux в Visual Studio Code для начинающих | https://habrahabr.ru/company/microsoft/blog/333680/
+
+Возможности CodeRush for Roslyn для XAML | https://habrahabr.ru/company/devexpress/blog/331350/
+
+Терминология OneGet, NuGet, Chocolatey, PowerShellGet — разложим по полочкам | https://habrahabr.ru/post/331124/
+
+Notepad++: проверка кода пять лет спустя | https://habrahabr.ru/company/pvs-studio/blog/330394/
+
+Global DevOps Bootcamp + подборка видео | https://habrahabr.ru/company/microsoft/blog/330226/
+
+Как пропатчить KDE под FreeBSD или, что ждать от мастер-классов на DevCon School 1 июня | https://habrahabr.ru/company/microsoft/blog/329324/
+
+Использование модулей C++ в Visual Studio 2017 | https://habrahabr.ru/company/pvs-studio/blog/328482/
+
+Build 2017: текстовая трансляция. День 2 | https://habrahabr.ru/company/microsoft/blog/328366/
+
+Build 2017: текстовая трансляция. День 1 | https://habrahabr.ru/company/microsoft/blog/328014/
+
+Сравнение PVS-Studio C# и статического анализатора, встроенного в Visual Studio, на базе кода проекта CruiseControl.NET | https://habrahabr.ru/company/pvs-studio/blog/328354/
+
+Не пропустите онлайн-трансляцию конференции Build 2017 | https://habrahabr.ru/company/microsoft/blog/328074/
+
+Поддержка Visual Studio 2017 и Roslyn 2.0 в PVS-Studio: иногда использовать готовые решения не так просто | https://habrahabr.ru/company/pvs-studio/blog/327874/
+
+Как используя PVS-Studio можно улучшить Visual C++ 2017 Libraries | https://habrahabr.ru/company/pvs-studio/blog/327784/
+
+Простой и быстрый сервер на C/C++ с клиентом на C#: TCP версия | https://habrahabr.ru/post/327574/
+
+9-я встреча MSK.NET Community | https://habrahabr.ru/company/jugru/blog/325736/
+
+Проверяем проект PascalABC.NET с помощью плагинов для SonarQube: SonarC# и PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/325126/
+
+Стратегия развития языков программирования .NET | https://habrahabr.ru/company/microsoft/blog/324548/
+
+Использование Entity Framework Core code-first с СУБД SQLite при разработке WinForms-приложений в VisualStudio 2015 | https://habrahabr.ru/post/324272/
+
+Митап MSK.NET Community | https://habrahabr.ru/company/jugru/blog/324076/
+
+Конфигурирование стиля кода в Visual Studio 2017 | https://habrahabr.ru/post/323966/
+
+Топ 10 ошибок в открытых проектах С++ за 2016 год | https://habrahabr.ru/company/pvs-studio/blog/323636/
+
+Visual Studio 2017 и новые возможности инструментов от Microsoft | https://habrahabr.ru/company/microsoft/blog/323452/
+
+Онлайн-трансляция запуска Visual Studio 2017 | https://habrahabr.ru/company/microsoft/blog/323278/
+
+Топ 10 ошибок в проектах C# за 2016 год | https://habrahabr.ru/company/pvs-studio/blog/322662/
+
+ASP.NET Core: ваше первое приложение на Linux c использованием Visual Studio Code | https://habrahabr.ru/post/322538/
+
+Там добавим const, отсюда удалим const… | https://habrahabr.ru/company/infopulse/blog/322320/
+
+Continuous Integration UWP приложений в Visual Studio Team Services | https://habrahabr.ru/post/321638/
+
+Подробное введение в rvalue-ссылки для тех, кому не хватило краткого | https://habrahabr.ru/post/322132/
+
+Visual C++ for Linux Development: Практика использования для Windows разработчиков | https://habrahabr.ru/post/321228/
+
+Повторная проверка SharpDevelop: что нового? | https://habrahabr.ru/company/pvs-studio/blog/320778/
+
+Как мы внедряли DevOps: публикация образа в Docker Hub с помощью Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/320238/
+
+Application Insights. Про аналитику и другие новые инструменты | https://habrahabr.ru/post/320058/
+
+Visual C++ for IoT Development: Прорыв или разочарование? | https://habrahabr.ru/post/320120/
+
+Расширение Visual C++ for Linux Development | https://habrahabr.ru/company/microsoft/blog/319962/
+
+Webpack в Visual Studio для больших солюшенов | https://habrahabr.ru/company/mindbox/blog/319156/
+
+11 советов, которые помогут сэкономить время при отладке программ | https://habrahabr.ru/company/pvs-studio/blog/318658/
+
+Перевод .NET в Open source принес Microsoft ощутимую пользу | https://habrahabr.ru/company/inoventica/blog/318478/
+
+Декабрьский релиз ReSharper Ultimate 2016.3 | https://habrahabr.ru/company/JetBrains/blog/317936/
+
+Снова проверяем исходный код Umbraco | https://habrahabr.ru/company/pvs-studio/blog/317900/
+
+Баг в Visual Studio 2017 RC при использовании новых возможностей C# 7 | https://habrahabr.ru/post/317804/
+
+.NET Portability Analyzer | https://habrahabr.ru/post/312506/
+
+Как я написал систему визуализации для стенда | https://habrahabr.ru/post/315978/
+
+ASP.NET Core: Ваше первое приложение на Mac c использованием Visual Studio Code | https://habrahabr.ru/company/microsoft/blog/315780/
+
+GitHub для пользователей Windows | https://habrahabr.ru/post/313996/
+
+Виртуальные события в C#: что-то пошло не так | https://habrahabr.ru/company/pvs-studio/blog/315600/
+
+История языков программирования: от BASIC к Visual Basic | https://habrahabr.ru/post/315470/
+
+Visual Studio для Mac и другие новости конференции Connect(); //2016 | https://habrahabr.ru/company/microsoft/blog/315444/
+
+Connect(); // 2016: Текстовая трансляция | https://habrahabr.ru/company/microsoft/blog/315434/
+
+Connect(); // 2016: Программа, онлайн-трансляция и бонус | https://habrahabr.ru/company/microsoft/blog/315248/
+
+Проблемы, с которыми мы столкнулись при обновлении интерфейса PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/314968/
+
+ASP.NET Core: Развертывание веб-приложения в службе приложений Azure с помощью Visual Studio | https://habrahabr.ru/company/microsoft/blog/314252/
+
+Продолжаем проверять проекты Microsoft: анализ PowerShell | https://habrahabr.ru/company/pvs-studio/blog/314226/
+
+История языков программирования: C# — впереди планеты всей | https://habrahabr.ru/post/313694/
+
+О производительности именованных каналов в многопроцессных приложениях | https://habrahabr.ru/company/infopulse/blog/313638/
+
+ASP.NET Core: Создание первого веб-API с использованием ASP.NET Core MVC и Visual Studio | https://habrahabr.ru/company/microsoft/blog/312878/
+
+Поддержка BizTalk Server: полезные советы. Часть 2 | https://habrahabr.ru/company/icl_services/blog/312512/
+
+ASP.NET Core: Пример реализации шаблонов проектирования Единица работы и Репозиторий | https://habrahabr.ru/company/microsoft/blog/312214/
+
+Visual Studio «15» Preview 5 | https://habrahabr.ru/company/infopulse/blog/312198/
+
+ASP.NET Core: Создание внешнего интерфейса веб-службы для приложения | https://habrahabr.ru/company/microsoft/blog/311940/
+
+Чат-боты, и как нам с этим поможет Microsoft | https://habrahabr.ru/company/pvs-studio/blog/311592/
+
+Проверяем исходный код MSBuild с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/308520/
+
+Первая встреча Moscow IoT Community: как мы нашли баг в Visual Studio | https://habrahabr.ru/post/307882/
+
+Find.By — finding & verifying locators | https://habrahabr.ru/post/306930/
+
+Автоматизация лабораторных измерений | https://habrahabr.ru/post/306434/
+
+Готовим Xamarin.Forms: настройка окружения и первые шаги | https://habrahabr.ru/company/microsoft/blog/303630/
+
+DevCon 2016. Подключайтесь к трансляции сегодня в 09:30! Что вас ожидает во второй день? | https://habrahabr.ru/company/microsoft/blog/301800/
+
+Все, что вам нужно знать про DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/301404/
+
+Введение в Roslyn. Использование для разработки инструментов статического анализа | https://habrahabr.ru/company/pvs-studio/blog/301204/
+
+Microsoft избавится от телеметрии в Visual C++ в Update 3 | https://habrahabr.ru/post/283308/
+
+Yandex Translate для Visual Studio Code | https://habrahabr.ru/post/283218/
+
+Как мы внедряли DevOps: управление релизами в Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/281895/
+
+Microsoft DevCon 2016 — представляем заключительную волну докладчиков Community-трека | https://habrahabr.ru/company/microsoft/blog/282978/
+
+Ключевые спикеры конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/282716/
+
+Xamarin SDK в Open Source и многое другое на Xamarin Evolve 2016 | https://habrahabr.ru/company/microsoft/blog/282640/
+
+Подключайтесь к онлайн-трансляции! Открытие конференции Xamarin Evolve 27 апреля | https://habrahabr.ru/company/microsoft/blog/282459/
+
+Открытая встреча экспертов по DevOps 28 апреля в технологическом центре Microsoft | https://habrahabr.ru/company/microsoft/blog/282363/
+
+Определяем пол и возраст с помощью Microsoft Project Oxford и C# | https://habrahabr.ru/post/282231/
+
+Возможен ли новый Яндекс, Parallels или Nginx сейчас в России? Запросто | https://habrahabr.ru/company/microsoft/blog/281378/
+
+Первая версия Visual Studio Code 1.0 — путь от простого редактора до мощного инструмента | https://habrahabr.ru/company/microsoft/blog/281667/
+
+Как мы внедряли DevOps: инфраструктура-как-код с помощью Microsoft Azure и Azure Resource Manager | https://habrahabr.ru/company/microsoft/blog/281505/
+
+Стандартная библиотека Visual Studio 2015 и телеметрия | https://habrahabr.ru/post/281374/
+
+Что нового в облаке Azure после Build? Справочник по анонсам | https://habrahabr.ru/company/microsoft/blog/281074/
+
+Как мы внедряли DevOps: непрерывная интеграция с GitHub и системой сборки Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/281024/
+
+Что нового в Visual Studio 2015 для энтузиастов C#, Visual Basic и Linux | https://habrahabr.ru/company/microsoft/blog/280956/
+
+Текстовая трансляция конференции Build 2016 — второй день | https://habrahabr.ru/company/microsoft/blog/280622/
+
+Как мы внедряли DevOps: планирование и управление проектами с помощью Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/280446/
+
+Экспериментальная функция отладки .NET Core в Visual Studio Code | https://habrahabr.ru/company/microsoft/blog/280143/
+
+Настройка редактора Visual Studio Code для разработки на PHP | https://habrahabr.ru/company/microsoft/blog/279947/
+
+Настройка Xamarin Studio для полноценной работы с кодом | https://habrahabr.ru/post/279955/
+
+Бесплатный пакет возможностей для разработчика: Visual Studio Dev Essentials | https://habrahabr.ru/company/microsoft/blog/279765/
+
+Что есть в Visual Studio 2015 для разработчика на Python | https://habrahabr.ru/company/microsoft/blog/279455/
+
+1.1 SFML и Visual Studio | https://habrahabr.ru/post/278977/
+
+Опубликованы записи докладов конференции ALM Summit 2016 | https://habrahabr.ru/company/microsoft/blog/278501/
+
+Как мы автоматизируем тестирование с помощью управления выпусками — Часть 2 | https://habrahabr.ru/company/microsoft/blog/278475/
+
+Добавление прокси в любое приложение на IIS | https://habrahabr.ru/post/278453/
+
+Интегрируем Webpack в Visual Studio 2015 | https://habrahabr.ru/post/278103/
+
+Как мы автоматизируем тестирование с помощью управления выпусками — Часть 1 | https://habrahabr.ru/company/microsoft/blog/277601/
+
+Параллельное выполнение тестов с учетом контекста с использованием Visual Studio 2015 Update 1 | https://habrahabr.ru/company/microsoft/blog/277583/
+
+От черного прямоугольника в Яндекс.Браузере к ускорению всего Chromium | https://habrahabr.ru/company/yandex/blog/277555/
+
+Удаленная отладка JavaScript с VS2015. Часть 3 (F12 Chooser) | https://habrahabr.ru/post/277167/
+
+Создание своей темы для Visual Studio Code | https://habrahabr.ru/post/276997/
+
+Удаленная отладка JavaScript с VS2015. Часть 2 | https://habrahabr.ru/post/276897/
+
+Используем VS Code для Веб-разработки | https://habrahabr.ru/post/276825/
+
+Вышла новая версия Visual Studio Tools for Unity | https://habrahabr.ru/company/microsoft/blog/276775/
+
+Отладка и профилирование в Visual Studio 2015 | https://habrahabr.ru/company/nixsolutions/blog/276027/
+
+Удаленная отладка JavaScript с VS2015. Часть 1 | https://habrahabr.ru/post/275473/
+
+Полезные дополнения к ReSharper | https://habrahabr.ru/post/274327/
+
+Новогодняя проверка .NET Core Libraries (CoreFX) | https://habrahabr.ru/company/pvs-studio/blog/274191/
+
+«Roslyn — еще очень сырая технология» — интервью с Сергеем Шкредовым, руководителем .NET-направления в JetBrains | https://habrahabr.ru/company/jugru/blog/274091/
+
+Сравнение алгоритмов сортировки | https://habrahabr.ru/post/274017/
+
+Новогодний релиз PVS-Studio 6.00: проверяем Roslyn | https://habrahabr.ru/company/pvs-studio/blog/273811/
+
+Топ-10 самых главных анонсов Microsoft в 2015 году | https://habrahabr.ru/company/microsoft/blog/273653/
+
+Интерактивный C# | https://habrahabr.ru/post/273037/
+
+Проверяем Microsoft Code Contracts | https://habrahabr.ru/company/pvs-studio/blog/273111/
+
+Verone — статический анализатор для C++ с анализом на лету | https://habrahabr.ru/post/272407/
+
+4 декабря смотрите Visual Studio Connect 2015 в России онлайн | https://habrahabr.ru/company/microsoft/blog/272135/
+
+Экспериментальная версия PVS-Studio, поддерживающая C# | https://habrahabr.ru/company/pvs-studio/blog/271993/
+
+Новые варианты приобретения и бесплатные предложения Visual Studio 2015 | https://habrahabr.ru/company/microsoft/blog/271813/
+
+.NET-Хардкор в Москве | https://habrahabr.ru/company/jugru/blog/271915/
+
+«IT — это достаточно бедная индустрия» — интервью с Дмитрием Нестеруком из JetBrains | https://habrahabr.ru/company/jugru/blog/271887/
+
+Расследование ошибки установки Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/271809/
+
+DotNext — Конференция по .NET-технологиям, Москва, 11 декабря | https://habrahabr.ru/company/devexpress/blog/271749/
+
+Приходите 26 ноября на Visual Studio Workshop | https://habrahabr.ru/company/microsoft/blog/271683/
+
+Конференция DotNext 2015 Moscow: финальная программа и обзор докладов | https://habrahabr.ru/company/jugru/blog/271531/
+
+C#, способы хранения настроек программы | https://habrahabr.ru/post/271483/
+
+Динамическое создание Windows и Web CRUD-интерфейсов и не только для бизнес приложений с XAF + Entity Framework. Часть 1 | https://habrahabr.ru/company/devexpress/blog/271331/
+
+Про использование Visual Studio Code в Unity под OS X | https://habrahabr.ru/company/microsoft/blog/271439/
+
+Готовим ASP.NET 5, выпуск №6: Continuous Deployment с Visual Studio Team Services — полное руководство | https://habrahabr.ru/company/microsoft/blog/271173/
+
+Главные анонсы конференции Microsoft Connect() и виртуальная конференция Visual Studio Connect 2015 в России 4 декабря | https://habrahabr.ru/company/microsoft/blog/271199/
+
+Смотрите сегодня в 18:00 MSK открытие конференции Connect(); //2015 | https://habrahabr.ru/company/microsoft/blog/270651/
+
+Пишем простейший плагин для ReSharper | https://habrahabr.ru/post/270155/
+
+Лучшие доклады конференции DotNext 2015 Piter: Часть 2 (Видео внутри) | https://habrahabr.ru/company/jugru/blog/270889/
+
+SolutionCop | https://habrahabr.ru/post/270873/
+
+Первая статья про проверку C# проекта | https://habrahabr.ru/company/pvs-studio/blog/270823/
+
+Видео докладов от SPB .NET Community | https://habrahabr.ru/post/270737/
+
+Лучшие доклады конференции DotNext 2015 Piter. Часть 1 (Видео внутри) | https://habrahabr.ru/company/jugru/blog/270711/
+
+Смотрите 18 и 19 ноября виртуальную конференцию Connect(); // 2015 | https://habrahabr.ru/company/microsoft/blog/270641/
+
+7 расширенных возможностей Visual Studio 2015 Enterprise | https://habrahabr.ru/company/microsoft/blog/270451/
+
+Visual Studio Online: непрерывная интеграция и тестирование | https://habrahabr.ru/company/microsoft/blog/270229/
+
+Тест производительности Azure Web Apps | https://habrahabr.ru/company/microsoft/blog/269483/
+
+Microsoft добавит поддержку компилятора Clang в ноябрьском обновлении Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/269313/
+
+Критическое отличие компиляции дерева выражений в Visual Studio 2015 | https://habrahabr.ru/post/269139/
+
+Офис как Платформа, выпуск №8 — контекстное приложение Office c Visual Studio Code на OS X, Linux и Windows | https://habrahabr.ru/company/microsoft/blog/269015/
+
+Visual Studio Code — эволюция кроссплатформенного редактора кода на примере версии для OS X | https://habrahabr.ru/company/microsoft/blog/268837/
+
+Готовим ASP.NET5, выпуск №5 — Gulp и Bower спешат на помощь | https://habrahabr.ru/company/microsoft/blog/268733/
+
+Поиск и чтение унаследованного кода | https://habrahabr.ru/company/custis/blog/267923/
+
+Поддержка C++ модулей в Visual Studio 2015 Update 1 | https://habrahabr.ru/company/infopulse/blog/267781/
+
+Новый профилировщик памяти в Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/265507/
+
+Доступно обновление для ReSharper Ultimate | https://habrahabr.ru/company/JetBrains/blog/265191/
+
+Пишем программу для кражи данных с USB-носителя в Windows | https://habrahabr.ru/post/264513/
+
+Готовим ASP.NET5, выпуск №3 — внедрение зависимостей по-новому | https://habrahabr.ru/company/microsoft/blog/264467/
+
+Готовим ASP.NET5, выпуск №2 – повторим азы для самых начинающих | https://habrahabr.ru/company/microsoft/blog/264271/
+
+Компиляция iOS приложений для Windows Store | https://habrahabr.ru/company/microsoft/blog/264321/
+
+Приглашаем на Windows Camp — 10 сентября, Москва | https://habrahabr.ru/company/microsoft/blog/264283/
+
+Использование Visual Studio Application Insights — опыт инженера по тестированию | https://habrahabr.ru/company/microsoft/blog/263999/
+
+Как перенести проект размером в 9 млн строк кода на 64-битную платформу? | https://habrahabr.ru/company/pvs-studio/blog/264021/
+
+Visual Studio 2015: обновления инструментария Microsoft Azure | https://habrahabr.ru/company/microsoft/blog/263973/
+
+Что нового в Visual Studio 2015 для JS-разработчиков | https://habrahabr.ru/company/microsoft/blog/263241/
+
+Релиз Visual Studio 2015 и .NET 4.6 | https://habrahabr.ru/company/microsoft/blog/263217/
+
+Онлайн трансляция запуска Visual Studio 2015 | https://habrahabr.ru/company/microsoft/blog/263059/
+
+Возможности С++ 11/14/17 в Visual Studio 2015 RTM | https://habrahabr.ru/company/microsoft/blog/262805/
+
+Самые интересные материалы о Visual Studio 2015 | https://habrahabr.ru/company/microsoft/blog/262689/
+
+Сборщик почты (делаем простые вещи сложно) | https://habrahabr.ru/post/262613/
+
+Visual Studio Code – редактор кода для Linux, OS X и Windows | https://habrahabr.ru/company/microsoft/blog/262523/
+
+Статический анализ библиотеки HPX при помощи PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/262455/
+
+Управление настройками ReSharper в команде | https://habrahabr.ru/post/262383/
+
+Entity Framework глазами постороннего | https://habrahabr.ru/post/262023/
+
+Готовим ASP.NET5, выпуск №1 – поговорим про статический контент | https://habrahabr.ru/company/microsoft/blog/261893/
+
+О том, как мы опробовали статический анализ на своем проекте учебного симулятора рентгенэндоваскулярной хирургии | https://habrahabr.ru/company/pvs-studio/blog/259911/
+
+Ещё одно средство распознавания языков 4 | https://habrahabr.ru/post/259475/
+
+Пишем простой анализатор кода на Roslyn | https://habrahabr.ru/post/259213/
+
+64-битный код в 2015 году: что нового в диагностике возможных проблем? | https://habrahabr.ru/company/pvs-studio/blog/258491/
+
+Анализ связей в проекте своими руками | https://habrahabr.ru/post/258295/
+
+Скидки на обновление до ReSharper Ultimate | https://habrahabr.ru/company/JetBrains/blog/258201/
+
+Событийная модель построения проектов и решений Visual Studio для разработчиков | https://habrahabr.ru/post/258057/
+
+Разработка и встраивание расширений .vsix в Visual Studio на C# для чайников | https://habrahabr.ru/post/258051/
+
+Изменения в Visual C++ | https://habrahabr.ru/post/257509/
+
+Новости BUILD 2015: Visual Studio Code, Visual Studio 2015 RC, Team Foundation Server 2015 RC, Visual Studio 2013 Update 5 | https://habrahabr.ru/company/microsoft/blog/257083/
+
+Build 2015: Visual Studio для OS X и Linux, Windows 10, облачные сервисы и другие новинки от Microsoft | https://habrahabr.ru/company/microsoft/blog/257029/
+
+Microsoft анонсировала кроссплатформенный редактор для Windows, OS X и Linux | https://habrahabr.ru/post/257011/
+
+Мы закрываем проект CppCat | https://habrahabr.ru/company/pvs-studio/blog/256637/
+
+Visual Studio Online. Что это такое и с чем её едят? | https://habrahabr.ru/post/256435/
+
+Сравнение Visual Studio Community 2013 с Visual Studio 2013 Express. Особенности лицензионного соглашения | https://habrahabr.ru/post/256401/
+
+Встречайте ReSharper C++ | https://habrahabr.ru/company/JetBrains/blog/255151/
+
+Доступно свежее обновление ReSharper Ultimate | https://habrahabr.ru/company/JetBrains/blog/255235/
+
+.NET-разработка: переключения между DEV и PROD-окружениями. Часть первая | https://habrahabr.ru/post/255045/
+
+Любите ли вы Assert.That так, как его любят некоторые другие или выходу беты NUnit v3 посвящается | https://habrahabr.ru/post/254289/
+
+Да здравствует мыло душистое, или как исправить неправильное масштабирование Windows программ | https://habrahabr.ru/post/254211/
+
+Online-трансляция открытия технологической экспедиции Microsoft Developer Tour | https://habrahabr.ru/company/microsoft/blog/253305/
+
+Технологическая экспедиция Microsoft начнется 18 марта в Санкт-Петербурге | https://habrahabr.ru/company/payonline/blog/253283/
+
+Анонс наших конференций по C# на апрель | https://habrahabr.ru/company/geekfamily/blog/252999/
+
+Assembler вместе с C++ в Visual Studio 2013 | https://habrahabr.ru/post/252647/
+
+DevCon 2015: анонс второй волны спикеров и докладов конференции | https://habrahabr.ru/company/microsoft/blog/252497/
+
+3-2-1-Поехали! Microsoft Developer Tour по России, Беларуси и Казахстану | https://habrahabr.ru/company/microsoft/blog/252171/
+
+Настройка TeamCity в Azure — постоянно-доступная система для командной работы в облаке | https://habrahabr.ru/company/microsoft/blog/252023/
+
+Завтра в 10:00 смотрите онлайн-трансляцию: Кроссплатформенная разработка с Visual Studio 2015 | https://habrahabr.ru/company/microsoft/blog/252003/
+
+Visual Studio Extensibility. Часть первая: MSBuild | https://habrahabr.ru/post/251795/
+
+DevCon Digest #3. Погружаемся в Visual Studio | https://habrahabr.ru/company/microsoft/blog/251493/
+
+Выпущен Visual Studio 2015 CTP6 | https://habrahabr.ru/company/microsoft/blog/251443/
+
+Уменьшаем время разработки и тестирования с Azure Web-Sites и Visual Studio Online | https://habrahabr.ru/company/microsoft/blog/250217/
+
+DevCon Digest #1. Погружаемся в .NET | https://habrahabr.ru/company/microsoft/blog/250073/
+
+T4 в помощь на примере MVVM | https://habrahabr.ru/post/249521/
+
+Инструменты тестирования Visual Studio Online, опыт использования и сравнение с ручным подходом | https://habrahabr.ru/company/microsoft/blog/249485/
+
+Пишем расширения c Roslyn к 2015 студии (часть 2) | https://habrahabr.ru/post/248913/
+
+Пишем расширения c Roslyn к 2015 студии (часть 1) | https://habrahabr.ru/post/248899/
+
+Тестирование с инструментами Microsoft — полевой опыт | https://habrahabr.ru/company/microsoft/blog/248747/
+
+Microsoft присоединился к Student Developer Pack и некоторые другие новости GitHub Education | https://habrahabr.ru/post/248765/
+
+SAL. Контрактное программирование от Микрософт или как помочь статическому анализатору | https://habrahabr.ru/post/248025/
+
+Resharper v9 и C# v6 | https://habrahabr.ru/post/246379/
+
+Почему студентам нужен анализатор кода CppCat | https://habrahabr.ru/company/pvs-studio/blog/245465/
+
+Roslyn для автоматического перевода кода C# в 1С-код | https://habrahabr.ru/post/245453/
+
+Доступны для скачивания ReSharper 9, dotTrace 6, dotCover 3, dotMemory 4.2 и dotPeek 1.3 | https://habrahabr.ru/company/JetBrains/blog/245387/
+
+Анонс новых возможностей Typescript 1.4 | https://habrahabr.ru/post/245109/
+
+Подготовка к сертификационному экзамену Microsoft 70-483 «Programming in C#» | https://habrahabr.ru/post/245067/
+
+Открыта регистрация на конференцию DevCon 2015 | https://habrahabr.ru/company/microsoft/blog/244757/
+
+Новые бесплатные курсы виртуальной академии Microsoft Virtual Academy, декабрь 2014 | https://habrahabr.ru/company/microsoft/blog/244635/
+
+Семинары Connect(«Russia») в Москве — для тех, кто хочет понять, что произошло за последние пару месяцев в экосистеме Microsoft | https://habrahabr.ru/company/microsoft/blog/244315/
+
+Как я гонял Балду на Visual Basic for Applications для MS Access | https://habrahabr.ru/post/244217/
+
+F.A.Q. по конференции .NEXT 2014 Moscow | https://habrahabr.ru/company/jugru/blog/242875/
+
+Обзор ASP.NET 5 | https://habrahabr.ru/post/243667/
+
+21 ноября — онлайн-конференция — о новой Visual Studio 2015 и других анонсах Connect(); | https://habrahabr.ru/company/microsoft/blog/243527/
+
+Рефакторинг C++ кода в Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/243437/
+
+И ещё пару слов о SandCastle, TFS и магии… | https://habrahabr.ru/post/243171/
+
+Бесплатный CppCat для студентов | https://habrahabr.ru/company/pvs-studio/blog/243149/
+
+Адаптация ZenCoding к C# — ZenSharp | https://habrahabr.ru/post/243085/
+
+.NET Server Core, кросс-платформенная разработка, Visual Studio 2015 и другие анонсы Microsoft Connect() | https://habrahabr.ru/company/microsoft/blog/243067/
+
+Как непрограммист создал своё мобильное приложение | https://habrahabr.ru/post/243007/
+
+Смотрите 12 и 13 ноября прямую трансляцию виртуального мероприятия Connect(); для разработчиков! | https://habrahabr.ru/company/microsoft/blog/242775/
+
+Как сохранить оригинальную расцветку вашего кода из Visual Studio в публикации на Хабрахабр. Сравниваем расцветки. Опрос | https://habrahabr.ru/post/242341/
+
+Расширение Visual Studio для визуализации пользовательских классов в режиме отладки | https://habrahabr.ru/post/242231/
+
+Как разворачивать веб-сайты в Microsoft Azure? | https://habrahabr.ru/company/microsoft/blog/242075/
+
+Visual Studio Express – отличный бесплатный инструмент для веб-разработки | https://habrahabr.ru/company/microsoft/blog/241826/
+
+Конференция Connect() – смотрим вместе анонсы ключевых продуктов для разработчиков на платформе Microsoft | https://habrahabr.ru/company/microsoft/blog/241571/
+
+Хочешь вкусного пива, Arduino в помощь | https://habrahabr.ru/post/241463/
+
+Мобильные приложения для веб-разработчиков | https://habrahabr.ru/company/microsoft/blog/241089/
+
+Update 3! Серия из 24 лабораторных работ по разработке, тестированию и управлению жизненным циклом ПО для Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/240927/
+
+Всё о Visual Studio 2013 Update 3 + вебинар | https://habrahabr.ru/company/microsoft/blog/240639/
+
+Вышел Python Tools 2.1 для Visual Studio | https://habrahabr.ru/post/240581/
+
+Доступна для скачивания ранняя версия ReSharper 9 | https://habrahabr.ru/company/JetBrains/blog/240369/
+
+Тяп-ляп, проверил библиотеки Visual C++ 2013 (update 3) | https://habrahabr.ru/company/pvs-studio/blog/240143/
+
+Таблица виртуальных методов и техника безопасности | https://habrahabr.ru/company/pvs-studio/blog/239915/
+
+WebMarkupMin: Минимизация представлений KnockoutJS и AngularJS | https://habrahabr.ru/post/239025/
+
+HTML-минимизация в Web Essentials 2013: Что изменилось за год? | https://habrahabr.ru/post/238741/
+
+Программирование на клавиатуре… фортепиано | https://habrahabr.ru/company/abbyy/blog/238037/
+
+Инфраструктура для нагрузочного тестирования в облаке — с Visual Studio 2013 и только тогда, когда надо | https://habrahabr.ru/company/microsoft/blog/237627/
+
+Полуавтоматическое инкрементирование версии проекта при работе с GIT в Visual Studio | https://habrahabr.ru/post/237585/
+
+Серия из 24 лабораторных работ по разработке, тестированию и управлению жизненным циклом ПО для Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/236801/
+
+Компоновка с msvcrt.dll в Visual C++: проблемы и решения | https://habrahabr.ru/post/236355/
+
+Das Experiment, или несколько дней жизни без Resharper'a | https://habrahabr.ru/post/235743/
+
+[Перевод] Введение в Gulp, Grunt, Bower, и поддержка npm в Visual Studio | https://habrahabr.ru/post/235447/
+
+Серия лабораторных работ по управлению тестированием с Microsoft Test Manager 2013 | https://habrahabr.ru/company/microsoft/blog/235157/
+
+Большой набор примеров кода расширений для Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/232935/
+
+Первый релиз Visual Studio Tools for Unity 1.9 после покупки SyntaxTree | https://habrahabr.ru/post/232461/
+
+Обновления для разработчиков под Windows | https://habrahabr.ru/post/232451/
+
+Visual Studio: разработчики VS починили Caps Lock на своих клавиатурах | https://habrahabr.ru/company/pvs-studio/blog/231851/
+
+Различные профили Visual Studio и установка расширений к ним | https://habrahabr.ru/post/230097/
+
+Обзор расширений Visual Studio для веб-разработчиков | https://habrahabr.ru/company/microsoft/blog/228581/
+
+Перенос кода с tfs на git | https://habrahabr.ru/company/microsoft/blog/228319/
+
+Опыт кастомного анализа c# кода | https://habrahabr.ru/post/227545/
+
+Для новичков про stdafx.h | https://habrahabr.ru/company/pvs-studio/blog/227521/
+
+Как попробовать новую Visual Studio “14” CTP без установки? | https://habrahabr.ru/company/microsoft/blog/225699/
+
+Тестирование производительности платформы Docsvision c Visual Studio | https://habrahabr.ru/company/docsvision/blog/225129/
+
+Доступна превью новой версии Visual Studio, с Roslyn и C# 6 | https://habrahabr.ru/post/225163/
+
+Пару слов об интеграции в TFS системы управления дефектами с системой управления версиями | https://habrahabr.ru/post/224827/
+
+Опыт использования TFS после перехода с SVN | https://habrahabr.ru/post/223797/
+
+Конфликты при слиянии csproj файлов | https://habrahabr.ru/post/221999/
+
+Пишем плагин для GStreamer на MS Visual Studio | https://habrahabr.ru/post/221483/
+
+Массовый релиз продуктов .NET | https://habrahabr.ru/company/JetBrains/blog/217731/
+
+Отладка кода Ардуино в кристалле | https://habrahabr.ru/post/216029/
+
+Git и Visual Studio: как правильно приготовить | https://habrahabr.ru/company/microsoft/blog/216037/
+
+Real-Time мониторинг сервиса на Windows Workflow Foundation с помощью StreamInsight, SignalR | https://habrahabr.ru/post/215097/
+
+Сравнение анализаторов кода: CppCat, Cppcheck, PVS-Studio, Visual Studio | https://habrahabr.ru/company/pvs-studio/blog/215469/
+
+Application Insights для Visual Studio Online — мощный инструмент диагностики в набор разработчика | https://habrahabr.ru/company/microsoft/blog/214985/
+
+Сколько стоит одна ошибка в наших программах, или какие ошибки бывают в PVS-Studio и CppCat | https://habrahabr.ru/company/pvs-studio/blog/214161/
+
+Миграция кода из SVN на Git в TFS2013 | https://habrahabr.ru/company/microsoft/blog/214157/
+
+Предварительная версия Visual Studio 2013 Update 2 | https://habrahabr.ru/company/microsoft/blog/213977/
+
+Баги реализации стандарта С++11 в Visual Studio 2012, которые были исправлены в Visual Studio 2013 | https://habrahabr.ru/company/infopulse/blog/213863/
+
+Адаптация Visual Studio для разработки под Salesforce — Введение | https://habrahabr.ru/post/213677/
+
+Bing code search | https://habrahabr.ru/company/microsoft/blog/212999/
+
+Используем WEBKit вместо IE в приложениях Visual Basic.net | https://habrahabr.ru/post/212877/
+
+10 моих любимых функций CodeRush для .NET разработки в Visual Studio | https://habrahabr.ru/company/devexpress/blog/211805/
+
+Вышла первая версия модуля интеграции Cppcheck в Visual Studio с открытым кодом | https://habrahabr.ru/company/abbyy/blog/211765/
+
+Кроссплатформенный https сервер с неблокирующими сокетами. Часть 2 | https://habrahabr.ru/post/211853/
+
+Кроссплатформенный https сервер с неблокирующими сокетами | https://habrahabr.ru/post/211661/
+
+Простейший кросcплатформенный сервер с поддержкой ssl | https://habrahabr.ru/post/211474/
+
+Новые возможности поддержки JavaScript в ReSharper 8.1 | https://habrahabr.ru/company/JetBrains/blog/210886/
+
+Редактирование кода С#, PHP, Node.js прямо в браузере с Visual Studio Online «Monaco» и Windows Azure Web Sites | https://habrahabr.ru/company/microsoft/blog/210182/
+
+Новые возможности профилирования Windows Store приложений в Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/209538/
+
+Управление релизами в Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/209406/
+
+Альтернатива PVS-Studio за $250 | https://habrahabr.ru/company/pvs-studio/blog/208920/
+
+Использование Portable Class Libraries c поддержкой Windows Phone 7.5 в Visual Studio 2013 | https://habrahabr.ru/post/207690/
+
+Nuget Packages. Личный опыт обновления пакетов | https://habrahabr.ru/post/207554/
+
+WCF RIA Services. Обновление данных. Часть 3 | https://habrahabr.ru/post/207054/
+
+Обновления в ночь на пятницу, 13-е: ReSharper и другие .NET-продукты | https://habrahabr.ru/company/JetBrains/blog/205854/
+
+SharePoint Code Check (SPCop) – бесплатный инструмент для анализа кода | https://habrahabr.ru/post/205218/
+
+Телеметрия приложений Windows Phone 8 и Windows 8 | https://habrahabr.ru/company/microsoft/blog/205020/
+
+Приглашаем на ALM Summit Russia 2014 | https://habrahabr.ru/company/microsoft/blog/203676/
+
+Создание игр для Windows Store c использованием WebGL | https://habrahabr.ru/company/microsoft/blog/203550/
+
+Расширение Node.js Tools для Visual Studio | https://habrahabr.ru/post/203170/
+
+Встречайте: Node.js Tools for Visual Studio | https://habrahabr.ru/post/203154/
+
+Миграция приложения с Windows 8 на Windows 8.1 | https://habrahabr.ru/company/microsoft/blog/202562/
+
+Анонс Visual Studio Online | https://habrahabr.ru/company/microsoft/blog/202064/
+
+Трансляция запуска Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/201940/
+
+SassyStudio – поддержка SCSS/SASS/Compass в Visual Studio | https://habrahabr.ru/post/201670/
+
+Удаленная отладка веб-приложений в облаке с Visual Studio 2013 | https://habrahabr.ru/post/200852/
+
+Автоматические тесты в облаке | https://habrahabr.ru/post/200446/
+
+PVS-Studio для Visual C++ | https://habrahabr.ru/company/pvs-studio/blog/199346/
+
+HTML-минимизация в Web Essentials 2013 | https://habrahabr.ru/post/199206/
+
+DevExtreme: быстрое создание кросс-платформенного бизнес-приложения на HTML5 в Visual Studio | https://habrahabr.ru/company/devexpress/blog/198728/
+
+20 бесплатных дополнений для Visual Studio | https://habrahabr.ru/company/microsoft/blog/198838/
+
+Как тестировать только то, что нужно | https://habrahabr.ru/company/microsoft/blog/198696/
+
+CodeLens в Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/198028/
+
+Решение проблем настроек web-сервера при публикации web-приложений | https://habrahabr.ru/post/198452/
+
+Состоялся релиз Visual Studio 2013. Приглашаем на запуск! | https://habrahabr.ru/company/microsoft/blog/197822/
+
+Windows 8.1 и Visual Studio 2013 доступны для скачивания | https://habrahabr.ru/company/microsoft/blog/197976/
+
+Хранение служебных баз Team Foundation Server 2013 RC на SQL Server 2014 СТР1 | https://habrahabr.ru/company/microsoft/blog/197008/
+
+Руководство по разработке модулей расширений на C# для Visual Studio 2005-2012 и Atmel Studio | https://habrahabr.ru/company/pvs-studio/blog/192486/
+
+Руководство по установке и настройке Web Deploy в среде Windows Server 2008 R2 | https://habrahabr.ru/post/192150/
+
+Разработчики в борьбе за эффективность программиста, команды, команд | https://habrahabr.ru/company/eastbanctech/blog/191406/
+
+Есть ли жизнь без Resharper-а — 2? | https://habrahabr.ru/post/189200/
+
+Есть ли жизнь без Resharper-а? | https://habrahabr.ru/post/189024/
+
+Регулярные выражения в расчетах ядерной трансмутации | https://habrahabr.ru/post/188448/
+
+Расширение Regex Tester теперь поддерживает Visual Studio 2012 | https://habrahabr.ru/post/187600/
+
+ReSharper 8 | https://habrahabr.ru/company/JetBrains/blog/186966/
+
+Подключайтесь к онлайн-конференции «Создание современных приложений с Visual Studio 2013» сегодня в 10:00 (МСК) | https://habrahabr.ru/company/microsoft/blog/185590/
+
+Python Tools для Visual Studio, о новинках из первых рук | https://habrahabr.ru/company/microsoft/blog/185412/
+
+Попробуйте Windows Server 2012 R2, SQL Server 2014 и Visual Studio 2013 без установки! | https://habrahabr.ru/company/microsoft/blog/185162/
+
+Выпущена предварительная версия Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/184902/
+
+Поддержка С++ в ReSharper | https://habrahabr.ru/company/JetBrains/blog/184830/
+
+Визуализация «if» в отладчике Visual Studio от BugAid | https://habrahabr.ru/post/182238/
+
+Анонс Visual Studio 2013 | https://habrahabr.ru/company/microsoft/blog/182116/
+
+Визуализация списков в отладчике Visual Studio или новое слово от «BugAid For Visual Studio» | https://habrahabr.ru/post/181604/
+
+Динамические Linq-запросы или приручаем деревья выражений | https://habrahabr.ru/post/181065/
+
+Еще один Linq для С++ | https://habrahabr.ru/post/180859/
+
+Как сделать ваше приложение быстрым: профильная оптимизация C++ | https://habrahabr.ru/company/microsoft/blog/180777/
+
+Написание многопоточных приложений для магазина Windows с помощью Intel Threading Building Blocks — теперь с DLL | https://habrahabr.ru/company/intel/blog/175121/
+
+Вышел Visual Studio 2012 Update 2 | https://habrahabr.ru/company/microsoft/blog/175537/
+
+Разработка приложений на Ruby on Rails в Visual Studio | https://habrahabr.ru/post/174103/
+
+Выпущена новая версия Python Tools for Visual Studio 2.0 | https://habrahabr.ru/company/microsoft/blog/173973/
+
+[В разработке] Перехватчик функций с неизвестными аргументами | https://habrahabr.ru/post/172879/
+
+Доступен для скачивания ReSharper 8 EAP | https://habrahabr.ru/company/JetBrains/blog/171773/
+
+Отладка Node.js в Visual Studio | https://habrahabr.ru/post/172107/
+
+Подключение к службе TFS без ввода учетных данных LiveID | https://habrahabr.ru/company/microsoft/blog/171209/
+
+Нужна ли разработчику виртуальная машина, и насколько | https://habrahabr.ru/post/170979/
+
+Разработка под iOS в среде Visual Studio | https://habrahabr.ru/post/170193/
+
+ASP.NET и сжатие клиентского кода | https://habrahabr.ru/post/169529/
+
+.Net: женим Portable Library и UI | https://habrahabr.ru/post/168811/
+
+Сборка Qt5 в Visual Studio 2012 или я могу пришить глаз кенгуру пока течет мой любимый кетчуп | https://habrahabr.ru/post/168671/
+
+Интеграция Team Foundation Services с Git и другие новые возможности | https://habrahabr.ru/company/microsoft/blog/167699/
+
+Логотип Московской Биржи очень похож на логотип Visual Studio 2012 | https://habrahabr.ru/post/166239/
+
+Расширение Web Essentials для Visual Studio: LESS, Zen Coding, CoffeeScript и многое другое | https://habrahabr.ru/company/microsoft/blog/165735/
+
+Создаем расширение (extension) Visual Studio для генерирования C++ директивы #define в header-файле | https://habrahabr.ru/post/164973/
+
+Забавные баги и особенности в Visual Studio и .NET | https://habrahabr.ru/post/164571/
+
+Сборка Qt 5.3.0 в Visual Studio 2008 | https://habrahabr.ru/post/164357/
+
+Подключение и работа с MySQL в VB.NET | https://habrahabr.ru/post/162329/
+
+Просмотр изображений OpenCV во время отладки C++ кода в Visual Studio | https://habrahabr.ru/post/161605/
+
+Вышел первый сервис пак для Visual Studio 2012 | https://habrahabr.ru/post/160523/
+
+Windows 8: Написание многопоточных приложений для магазина Windows с помощью Intel® Threading Building Blocks | https://habrahabr.ru/company/intel/blog/158263/
+
+Миграция Domain Controller и создание Team Foundation Server на Virtual Machine в Windows Azure | https://habrahabr.ru/post/157945/
+
+Попытка установить Windows Phone 8 SDK в Windows 7 | https://habrahabr.ru/post/157427/
+
+Контекстные меню VS2010/2012 и клавиатура | https://habrahabr.ru/post/157389/
+
+TFS в Облаке: 5 пользователей бесплатно! | https://habrahabr.ru/company/microsoft/blog/157009/
+
+Встречайте IntelliCommand (Visual Studio 2010/2012 extension) | https://habrahabr.ru/post/156875/
+
+Создание минидампов в проектах на C# 4.0, разрабатываемых в VS 2010 | https://habrahabr.ru/post/153181/
+
+Какую цветовую схему Вы используете в Visual Studio 2012 | https://habrahabr.ru/post/153139/
+
+Импорт макросов в Visual Studio 2012 | https://habrahabr.ru/post/152455/
+
+Поиск и замена текста по регулярному выражению | https://habrahabr.ru/post/152457/
+
+Привычный вид для Visual Studio 2012 | https://habrahabr.ru/post/151829/
+
+Использование оболочки Visual Studio 2010 для компиляции проектов с помощью gcc в Linux | https://habrahabr.ru/company/neobit/blog/151712/
+
+Проблема с подсветкой синтаксиса в Visual studio 2012 | https://habrahabr.ru/post/151571/
+
+Запуск Visual Studio 2012 в День Программиста! | https://habrahabr.ru/company/microsoft/blog/151336/
+
+C++ Debugger Visualizers: отображение типов в отладчике из Boost, wxWidgets, TinyXML и TinyXML2 | https://habrahabr.ru/post/151266/
+
+Отладочные инструменты .NET разработчика | https://habrahabr.ru/post/149125/
+
+Visual Studio 2012 будет доступна 12 сентября | https://habrahabr.ru/post/148927/
+
+Об исследовательском тестировании в Microsoft Test Manager 2012 | https://habrahabr.ru/post/148598/
+
+Использование JSON контроллера MVC в Visual Studio на шаблоне Empty Web Site и языке C# | https://habrahabr.ru/post/148565/
+
+Анонс. Бесплатный вебинар: Отладка в Visual Studio 2012 — советы и новые возможности | https://habrahabr.ru/company/microsoft/blog/148017/
+
+MSVS Lifehacks, ч.1 — Debugger. Управление пошаговым выполнением | https://habrahabr.ru/post/147655/
+
+Тайна лишнего CMP или зачем Володька сбрил усы? | https://habrahabr.ru/post/147400/
+
+Сравниваем производительность целочисленного умножения | https://habrahabr.ru/post/147272/
+
+NVIDIA Nsight Tegra — плагин VS для нативной разработки Android приложений | https://habrahabr.ru/post/147081/
+
+Автоматический контроль архитектуры в Visual Studio | https://habrahabr.ru/post/146655/
+
+Эффективная веб-разработка c Visual Studio 2012: нововведения в редактор WebForms | https://habrahabr.ru/company/microsoft/blog/145672/
+
+Эффективная веб-разработка c Visual Studio 2012: нововведения в редакторы HTML/CSS и JavaScript | https://habrahabr.ru/company/microsoft/blog/145649/
+
+Visual Studio Express 2012 for Windows Desktop | https://habrahabr.ru/post/145549/
+
+Выпущены новые версии инструментов Windows Azure, добавлена поддержка Python | https://habrahabr.ru/company/microsoft/blog/145422/
+
+Эффективная веб-разработка c Visual Studio 2012: Page Inspector | https://habrahabr.ru/company/microsoft/blog/145257/
+
+Создание множества диаграмм на базе одной модели Entity Framework в Visual Studio 2012 | https://habrahabr.ru/company/microsoft/blog/145214/
+
+Как убрать КАПС из меню Visual Studio 2012 RC | https://habrahabr.ru/post/145093/
+
+Что нового в Visual Studio 2012 RC | https://habrahabr.ru/company/microsoft/blog/145036/
+
+Visual Studio 2012 Release Candidate | https://habrahabr.ru/post/144989/
+
+Стали доступны для загрузки Windows 8 Release Preview + Visual Studio 2012 RC + Windows Server 2012 RС | https://habrahabr.ru/post/133665/
+
+Темная тема финальной версии Visual Studio 11 | https://habrahabr.ru/company/microsoft/blog/144985/
+
+Бесплатная Visual Studio 11 будет работать только с Metro UI | https://habrahabr.ru/company/apps4all/blog/144538/
+
+Team Foundation Server Express | https://habrahabr.ru/post/144162/
+
+Непрерывная интеграция в TFS 11 | https://habrahabr.ru/post/143509/
+
+Изменение интерфейса Visual Studio в приходящем RC | https://habrahabr.ru/post/143486/
+
+ALM Summit и новые материалы о Visual Studio | https://habrahabr.ru/company/microsoft/blog/142230/
+
+Бесплатный вебинар про нововведения в Team Foundation Server 11 для командной разработки и цикла разработки приложений | https://habrahabr.ru/company/microsoft/blog/141935/
+
+О первопроходцах | https://habrahabr.ru/post/141672/
+
+Выпущена новая версия пакетного менеджера NuGet 1.7 | https://habrahabr.ru/company/microsoft/blog/141498/
+
+Анонсирована серия региональных мероприятий по Visual Studio 11 — Visual Studio в прямом эфире | https://habrahabr.ru/company/microsoft/blog/140956/
+
+Отладка DirectX — проще простого | https://habrahabr.ru/company/microsoft/blog/140638/
+
+Таинственные знаки на полях — разгадка | https://habrahabr.ru/company/infopulse/blog/140390/
+
+Image Control своими руками в Visual C++ | https://habrahabr.ru/post/140423/
+
+Описание работы с Virtual Grid Control в Visual C++ | https://habrahabr.ru/post/140388/
+
+Таинственные знаки на полях | https://habrahabr.ru/company/infopulse/blog/139820/
+
+Загадочный язык программирования фреймворка Duqu определён | https://habrahabr.ru/post/140288/
+
+Пишем свой VLOOKUP для того, чтобы не зависеть от стандартного (Excel functions) | https://habrahabr.ru/post/140085/
+
+Бесплатный вебинар по Visual Studio 11 beta и TFS 11 beta | https://habrahabr.ru/company/microsoft/blog/140079/
+
+14 возможностей ReSharper по навигации и редактированию | https://habrahabr.ru/post/139997/
+
+Первые впечатления от Visual Studio 11 | https://habrahabr.ru/post/139393/
+
+Запускаем проекты, созданные в Visual Studio 2011 на Visual Studio 2010 | https://habrahabr.ru/post/139259/
+
+Новый интерфейс Visual Studio 11 | https://habrahabr.ru/post/138777/
+
+Javascript Parser Extension для VisualStudio | https://habrahabr.ru/post/138323/
+
+Achievements в Visual Studio | https://habrahabr.ru/post/136683/
+
+Вышла новая версия расширения Regex Tester для Visual Studio 2010 | https://habrahabr.ru/post/136244/
+
+Минимальный проект MsBuild | https://habrahabr.ru/post/134888/
+
+Валидация CSS в Visual Studio 2010 с помощью расширения CSSCop | https://habrahabr.ru/post/134326/
+
+Зеркало справочных архивов Visual Studio 2010 | https://habrahabr.ru/post/133266/
+
+Быстрый Attach to Process | https://habrahabr.ru/post/131937/
+
+Об одной ошибке оптимизации времени выполнения | https://habrahabr.ru/post/131615/
+
+Опыт использования TFS 2010: (Система контроля.Права и Политики) | https://habrahabr.ru/post/130280/
+
+Опыт использования TFS 2010: (Система контроля.Ветки.Создание) | https://habrahabr.ru/post/130160/
+
+Как проверить приложение на соответствие архитектуре слоев | https://habrahabr.ru/company/microsoft/blog/129073/
+
+Новый Командный Обозреватель в TFS 2011 | https://habrahabr.ru/company/microsoft/blog/129001/
+
+Сравнение DevExpress CodeRush и JetBrains ReSharper | https://habrahabr.ru/post/127105/
+
+Первый взгляд на новые возможности для С++ разработчика в следующей версии Visual Studio | https://habrahabr.ru/post/127747/
+
+20 бесплатных дополнений для Visual Studio | https://habrahabr.ru/company/microsoft/blog/127425/
+
+Релиз Python Tools 1.0 для Visual Studio 2010 | https://habrahabr.ru/company/microsoft/blog/127319/
+
+Какие из новых возможностей С++0x вы больше всего хотели бы увидеть в Visual C++ 2012? | https://habrahabr.ru/post/123784/
+
+Debugger Canvas – новый способ отладки кода в Visual Studio | https://habrahabr.ru/post/121843/
+
+Что может Ctrl в Visual Studio | https://habrahabr.ru/post/121104/
+
+Visual Studio vNext | https://habrahabr.ru/post/119479/
+
+Быстрое создание временного проекта | https://habrahabr.ru/post/119308/
+
+А еще в Visual Studio есть External Tools… | https://habrahabr.ru/post/118354/
+
+Ускоряем Visual Studio, часть III. Производительность IDE | https://habrahabr.ru/post/117675/
+
+Ускоряем Visual Studio, часть II. Эксперименты с компиляцией | https://habrahabr.ru/post/117670/
+
+Ускоряем Visual Studio, часть I. Unity Builds | https://habrahabr.ru/post/117663/
+
+Компания Microsoft представила поддержку Python в Visual Studio | https://habrahabr.ru/post/115288/
+
+Финальная версия Visual Studio 2010 Service Pack 1 и другие анонсы | https://habrahabr.ru/post/115109/
+
+C++/CLI IntelliSense в Visual Studio | https://habrahabr.ru/post/114922/
+
+Тестируем среду для тестирования: MS Visual Studio Test Professional 2010 | https://habrahabr.ru/post/113638/
+
+Visual Studio Solution Pivot Viewer. Аддон к Visual Studio 2010 для визуализации структуры и метрик кода | https://habrahabr.ru/post/106982/
+
+Пакетный менеджер от Microsoft? Да, для Visual Studio 2010 | https://habrahabr.ru/post/105675/
+
+Что вы думаете о качестве кода в Visual Studio или летний розыгрыш Visual Studio 2010 с подпиской MSDN | https://habrahabr.ru/post/101449/
+
+Горячие клавиши Visual Studio 2010 | https://habrahabr.ru/post/100511/
+
+Visual Studio 2010 Productivity Power Tools | https://habrahabr.ru/post/99670/
+
+Расширение Regex Tester для Visual Studio 2010 | https://habrahabr.ru/post/98785/
+
+Развлекаемся с VS2010 Ultimate: сравнение SQL данных | https://habrahabr.ru/post/98695/
+
+Игры с локализацией | https://habrahabr.ru/post/98582/
+
+Профилирование приложений в Visual Studio 2010 | https://habrahabr.ru/post/98361/
+
+Visual Studio 2010 тестирование веб-приложения | https://habrahabr.ru/post/98230/
+
+H#, Создаём свой язык программирования | https://habrahabr.ru/post/97861/
+
+Руководство по отладке многопоточных приложений в Visual Studio 2010 | https://habrahabr.ru/post/97817/
+
+Visual Studio 2010 Wallpapers | https://habrahabr.ru/post/97711/
+
+Использование утилиты Class Designer в Visual Studio 2010 | https://habrahabr.ru/post/97692/
+
+Visual Studio 2010 в таскбаре Windows 7 | https://habrahabr.ru/post/97557/
+
+Делаем расширение StartPage для Visual Studio 2010 | https://habrahabr.ru/post/97312/
+
+26 багов в интерфейсе и локализации Visual Studio 2010 Rus | https://habrahabr.ru/post/97124/
+
+Visual Studio 2010: 4 полезнейших расширения | https://habrahabr.ru/post/96011/
+
+Менеджер расширений VS 2010 и новое расширение PowerCommands | https://habrahabr.ru/post/93446/
+
+Python в Visual Studio 2010 | https://habrahabr.ru/post/92705/
+
+IntelliTrace или historical debugger в Visual Studio 2010 | https://habrahabr.ru/post/92441/
+
+Загружай и делись цветовыми схемами Visual Studio | https://habrahabr.ru/post/92362/
+
+VS 2010: Нововведения в отладке | https://habrahabr.ru/post/92007/
+
+Екатеринбург: как съели Visual Studio | https://habrahabr.ru/post/91316/
+
+Небольшой Add-In для Visual Studio | https://habrahabr.ru/post/91276/
+
+Поддержка C++0x в Visual Studio 2010 | https://habrahabr.ru/post/91122/
+
+Улучшения Javascript Intellisense в VS 2010 | https://habrahabr.ru/post/91042/
+
+Запуск Visual Studio 2010 в Санкт-Петербурге | https://habrahabr.ru/post/90997/
+
+Работа с Visual Studio Team Foundation Server 2010 | https://habrahabr.ru/post/90911/
+
+Запуск Visual Studio 2010 в России | https://habrahabr.ru/post/90796/
+
+Online-трансляция российского запуска Visual Studio 2010! | https://habrahabr.ru/post/90673/
+
+Конкурс Visual Studio 2010 на Хабрахабр! | https://habrahabr.ru/post/89980/
+
+Собираетесь ли вы переводить проекты на Visual Studio 2010 и .NET Framework 4.0? | https://habrahabr.ru/post/89950/
+
+Расширение возможностей IntelliSense для XAML-редактора Visual Studio 2010 | https://habrahabr.ru/post/88661/
+
+Проверка орфографии в Visual Studio | https://habrahabr.ru/post/85100/
+
+VS2010 — делаем свою подсветку синтаксиса | https://habrahabr.ru/post/85038/
+
+Вышла вторая бета Resharper 5 | https://habrahabr.ru/post/84816/
+
+Visual Studio 2010 Release Candidate доступна для всех желающих | https://habrahabr.ru/post/83827/
+
+Visual Studio 2010: работа с новым профайлером | https://habrahabr.ru/post/81334/
+
+Вышла первая бета ReSharper 5 | https://habrahabr.ru/post/79265/
+
+Удобная работа с вкладками в VS2008 | https://habrahabr.ru/post/78985/
+
+Набор сниппетов для работы c jQuery | https://habrahabr.ru/post/76862/
+
+Расширение функциональности Visual Studio | https://habrahabr.ru/post/74883/
+
+Visual Studio hotkeys | https://habrahabr.ru/post/73835/
+
+Навигатор по проектам для Visual Studio | https://habrahabr.ru/post/74084/
+
+VS 2010: Улучшения в окне «Add Reference» | https://habrahabr.ru/post/73874/
+
+VS 2010: Оптимизированный профиль веб-разработки | https://habrahabr.ru/post/73308/
+
+VS 2010: отладка с IntelliTrace | https://habrahabr.ru/post/73335/
+
+Ускоряем работу VS 2010 Beta2 | https://habrahabr.ru/post/73387/
+
+VS 2010: поддержка ASP.NET, HTML, Javascript сниппетов | https://habrahabr.ru/post/73302/
+
+VS 2010: Pin to Source для отладки | https://habrahabr.ru/post/73316/
+
+Поиск и навигация по коду в VS 2010 | https://habrahabr.ru/post/73199/
+
+VS 2010 улучшения в Intellisense | https://habrahabr.ru/post/73167/
+
+Проблема установки Silverlight SDK в VS2010 Beta 2 | https://habrahabr.ru/post/73058/
+
+Смена логотипа | https://habrahabr.ru/post/72855/
+
+Visual Studio 2010 Beta 2 доступна для скачивания | https://habrahabr.ru/post/72819/
+
+История создания средств разработки Microsoft (видео) | https://habrahabr.ru/post/71887/
+
+MVVM Light Toolkit | https://habrahabr.ru/post/71513/
+
+Помощь в отладке для Visual Studio — Debugger Visualizers | https://habrahabr.ru/post/71013/
+
+Отладка исходного кода .Net Framework в MS VS 2008 и не только | https://habrahabr.ru/post/69644/
+
+ScottGu о Visual Studio 2010: поддержка нескольких мониторов | https://habrahabr.ru/post/68441/
+
+Архитектурные инструменты в Visual Studio 2010 | https://habrahabr.ru/post/68334/
+
+ScottGu о VS 2010 и .NET 4.0: шаблоны проектов в VS 2010 | https://habrahabr.ru/post/68083/
+
+ScottGu открывает серию статей про VS 2010 и .NET 4.0 | https://habrahabr.ru/post/67992/
+
+Visual Studio 2008 Win32 Wizard MOD | https://habrahabr.ru/post/51632/
+

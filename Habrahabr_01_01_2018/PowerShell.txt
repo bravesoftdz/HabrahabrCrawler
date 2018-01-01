@@ -1,0 +1,258 @@
+Сбор и фильтрация событий входа в систему с помощью Log Parser | https://habrahabr.ru/company/infowatch/blog/345022/
+
+Решаем Open Day CrackMe, таск Pizza | https://habrahabr.ru/post/344866/
+
+Перекрестное опыление: управляем Linux из-под Windows, и наоборот | https://habrahabr.ru/company/pc-administrator/blog/343264/
+
+1000++ способ запуска команд на удаленном компьютере | https://habrahabr.ru/company/pc-administrator/blog/342428/
+
+Мониторинг raid массивов в Windows Core | https://habrahabr.ru/post/341484/
+
+Применение PowerShell для ИТ-безопасности. Часть V: оптимизация платформы безопасности с использованием скриптов | https://habrahabr.ru/company/varonis/blog/340312/
+
+Применение PowerShell для ИТ-безопасности. Часть III: бюджетная классификация | https://habrahabr.ru/company/varonis/blog/338166/
+
+Сбор данных о загрузочных событиях Windows Server 2016 | https://habrahabr.ru/company/pc-administrator/blog/336604/
+
+Применение PowerShell для ИТ-безопасности. Часть II: анализ доступа к файлам | https://habrahabr.ru/company/varonis/blog/336062/
+
+[конспект админа] Меньше администраторов всем | https://habrahabr.ru/company/pc-administrator/blog/335568/
+
+Применение PowerShell для ИТ-безопасности. Часть I: отслеживание событий | https://habrahabr.ru/company/varonis/blog/335176/
+
+Поиск пакетов Go на PowerShell | https://habrahabr.ru/post/334720/
+
+Антивирус на батниках в прошлом ㅡ пришло время сниффера на PowerShell | https://habrahabr.ru/company/pc-administrator/blog/333838/
+
+Локальный сервер обновлений Comodo Internet Security | https://habrahabr.ru/post/333420/
+
+Автоматизация блокирования Petya/NonPetya | https://habrahabr.ru/post/332068/
+
+Многоступенчатая организация хранения резервных копий для самых маленьких | https://habrahabr.ru/post/329920/
+
+Подчищаем хвосты за Microsoft Exchange Server 2016 используя Powershell | https://habrahabr.ru/post/328992/
+
+3 административных скрипта | https://habrahabr.ru/post/327980/
+
+Bash on Windows: практические опыты по скрещиванию ежей и ужей | https://habrahabr.ru/post/326634/
+
+Windows 10 Creators Update: что нового в Bash/WSL и Windows Console | https://habrahabr.ru/post/326432/
+
+Управление разрешениями в домене с помощью PowerShell и API ADSI | https://habrahabr.ru/company/infowatch/blog/324660/
+
+Zabbix: LLD-мониторинг железа под Windows на PowerShell | https://habrahabr.ru/post/322668/
+
+Powershell и кирилица в консольных приложениях (updated) | https://habrahabr.ru/post/321076/
+
+Powershell и глубина стека | https://habrahabr.ru/post/320970/
+
+Набор отверток администратора 1С | https://habrahabr.ru/company/pc-administrator/blog/320852/
+
+Нескучный Powershell | https://habrahabr.ru/post/319872/
+
+Скрипт удаления старых драйверов | https://habrahabr.ru/post/319152/
+
+Телеграмм-бот для системного администратора | https://habrahabr.ru/post/317906/
+
+Модуль Posh-SSH простой доступ к SSH и SCP из PowerShell | https://habrahabr.ru/post/314990/
+
+Аудит баз Oracle | https://habrahabr.ru/company/infowatch/blog/314784/
+
+ODBC Firebird Postgresql, выполнение запросов в Powershell | https://habrahabr.ru/post/313464/
+
+Новые возможности PowerShell в Windows Server 2016 | https://habrahabr.ru/post/312616/
+
+Мониторим клиентские ПК в Microsoft AD с помощью Zabbix. Часть 1 — Автоустановка | https://habrahabr.ru/post/310928/
+
+Количество отправленных и полученных писем по дням | https://habrahabr.ru/post/310348/
+
+PowerShell. Пользовательские функции для пользователей | https://habrahabr.ru/post/309726/
+
+Автор сurl просит Microsoft удалить алиасы curl и wget из PowerShell | https://habrahabr.ru/post/308140/
+
+Microsoft открыла исходный код PowerShell | https://habrahabr.ru/post/308076/
+
+Автоматизация установки обновлений на клиентскую машину с отсевом ошибочных обновлений | https://habrahabr.ru/post/306866/
+
+PSReadLine устанавливаем подсветку синтаксиса в консоль PowerShell | https://habrahabr.ru/post/303986/
+
+Автоматизация администрирования систем, обзор проблем и вариант решения. Ed Wilson | https://habrahabr.ru/post/301242/
+
+Создание отчетов в PowerShell | https://habrahabr.ru/post/279005/
+
+Foreach — из книги PowerShell in depth | https://habrahabr.ru/post/278701/
+
+превратить string в scriptblock | https://habrahabr.ru/post/278693/
+
+PowerShell Remoting — настройка и удаленное управление | https://habrahabr.ru/post/278691/
+
+Глава 21. Часть 2 — Создание объектов и вывод данных объектами. PowerShell in depth — Don Jones, Richard Siddaway | https://habrahabr.ru/post/278637/
+
+Глава 21. Часть 1 — Создание объектов и вывод данных объектами. PowerShell in depth — Don Jones, Richard Siddaway | https://habrahabr.ru/post/278343/
+
+Автоматизация легкого управления списками баз 1С | https://habrahabr.ru/post/278577/
+
+Специальные папки. Перевод с Richard Siddaway's Blog | https://habrahabr.ru/post/278483/
+
+Как создавать объекты в PowerShell | https://habrahabr.ru/post/278351/
+
+Kaspersky Security Center — борьба за автоматизацию | https://habrahabr.ru/post/278209/
+
+Best practices Richard Siddeway Powershell in depth | https://habrahabr.ru/post/278165/
+
+Цифровая подпись, быстрый курс (перевод 17 главы Powershell in depth) | https://habrahabr.ru/post/277691/
+
+Сброс зависших RDP сессий | https://habrahabr.ru/post/276935/
+
+Пересылка больших файлов. Автоматическое получение ссылки для скачивания на почту | https://habrahabr.ru/post/276575/
+
+Удаление/восстановление Metro-приложений в Windows 10 | https://habrahabr.ru/post/276059/
+
+Оптимизация работы со строками в Powershell | https://habrahabr.ru/post/273619/
+
+Серверное администрирование. Управление ресурсами средствами PowerShell | https://habrahabr.ru/post/272107/
+
+Аудит безопасности на сервере. Поиск по жураналу безопасности. Power Powershell | https://habrahabr.ru/post/271963/
+
+Практическое использование Desired State Configuration для Windows Server 2012 R2 | https://habrahabr.ru/post/267829/
+
+Мониторинг IP в блэклистах с помощью Zabbix | https://habrahabr.ru/post/267189/
+
+Скрипт для подсчета места, занимаемого виртуальными машинами Hyper-V | https://habrahabr.ru/post/266097/
+
+Использование Pester для тестирования при разработке PowerShell скриптов | https://habrahabr.ru/post/264697/
+
+Централизованный сбор и обработка журналов печати Windows | https://habrahabr.ru/post/257297/
+
+Автоматическое управление паролями в Active Directory | https://habrahabr.ru/post/255197/
+
+Наблюдаем за новыми арендами адресов на DHCP сервере с помощью PowerShell | https://habrahabr.ru/post/252979/
+
+Powershell для тестировщиков | https://habrahabr.ru/post/252957/
+
+Загрузка фото пользователя в Active Directory с помощью PowerShell | https://habrahabr.ru/post/252119/
+
+Try/Catch/Finally | https://habrahabr.ru/post/248217/
+
+Advanced PowerShell vol. 1: повторное использование кода | https://habrahabr.ru/post/245875/
+
+Сбор информации о рабочих станциях через Powershell | https://habrahabr.ru/post/245899/
+
+DFS Replication и «временные» файлы | https://habrahabr.ru/post/245075/
+
+Автоматическое подключение сетевых МФУ с возможностью сканирования [Часть 2] | https://habrahabr.ru/post/242725/
+
+Jump Start в PowerShell (часть II) | https://habrahabr.ru/post/242445/
+
+Автоматическое подключение сетевых МФУ с возможностью сканирования [Часть 1] | https://habrahabr.ru/post/242513/
+
+Jump Start в PowerShell (часть I) | https://habrahabr.ru/post/242425/
+
+Отслеживаем удаление файлов на PowerShell | https://habrahabr.ru/post/238469/
+
+Пишем свой пакет для Chocolatey | https://habrahabr.ru/post/223373/
+
+Работа с алертами в System Center Operations Manager, используя свой коннектор | https://habrahabr.ru/post/207486/
+
+Скрипт исправления даты установки пароля пользователя в AD | https://habrahabr.ru/post/205696/
+
+Предупреждение пользователей об истечении пароля и действия учётной записи | https://habrahabr.ru/post/204796/
+
+Как проимпортировать неимпортируемое | https://habrahabr.ru/post/199228/
+
+Как я сайт на powershell парсил | https://habrahabr.ru/post/194792/
+
+Поддержка чистой шары для обмена файлами с помощью Powershell | https://habrahabr.ru/post/186358/
+
+Деплой Zabbix-агентов на большое количество Windows-based серверов с помощью Powershell | https://habrahabr.ru/post/168185/
+
+Песочница средствами SCVMM | https://habrahabr.ru/post/167665/
+
+rCons — quake-style враппер для консоли в Windows | https://habrahabr.ru/post/164249/
+
+Тонзиллэктомия ректально: работаем с AD в Powershell без AD cmdlets | https://habrahabr.ru/post/160503/
+
+Уведомления об истечении срока действия пароля в Active Directory средствами PowerShell | https://habrahabr.ru/post/160599/
+
+Одобрения обновлений WSUS: импорт, экспорт, копирование | https://habrahabr.ru/post/160069/
+
+Аудит удаления и доступа к файлам и запись событий в лог-файл средствами Powershell | https://habrahabr.ru/post/150149/
+
+Аудит Active Directory средствами Powershell с оповещением об изменениях. Часть 2 | https://habrahabr.ru/post/150122/
+
+Аудит Active Directory средствами Powershell с оповещением об изменениях. Часть 1 | https://habrahabr.ru/post/147750/
+
+Сквозь порты на оборудовании к пользовательским машинам | https://habrahabr.ru/post/149191/
+
+PowerShell: рендеринг HTML представлений | https://habrahabr.ru/post/148166/
+
+Встречаем третий PowerShell (часть II) | https://habrahabr.ru/post/146422/
+
+Встречаем третий PowerShell (часть I) | https://habrahabr.ru/post/146247/
+
+Сам себе DynDNS или реализация Managed DNS посредством PowerShell | https://habrahabr.ru/post/146079/
+
+PowerShell: Перемешиваем файлы | https://habrahabr.ru/post/144888/
+
+Скрипт для развертывания SSRS отчетов | https://habrahabr.ru/post/139036/
+
+Потерянная группа. Выясняем назначение «странных» групп в AD | https://habrahabr.ru/post/138600/
+
+Как подписать свой первый скрипт за 48 часов | https://habrahabr.ru/post/137884/
+
+Синхронизируем контакты между лесами | https://habrahabr.ru/post/136773/
+
+Teamviewer, powershell и циска | https://habrahabr.ru/post/133740/
+
+Актуализируем учетные данные Active Directory | https://habrahabr.ru/post/132591/
+
+Ошибка 80040154 при работе с WebAdministration | https://habrahabr.ru/post/130958/
+
+HelpDesk под колпаком. Аудит создания учетных записей пользователей в AD | https://habrahabr.ru/post/127935/
+
+Меняем цвета в PowerShell | https://habrahabr.ru/post/126965/
+
+Инвентаризация компьютеров в домене. Лень-двигатель прогресса | https://habrahabr.ru/post/124386/
+
+Использование PowerShell для администрирования Microsoft SQL Server | https://habrahabr.ru/post/120475/
+
+PowerShell: машина vs человек | https://habrahabr.ru/post/120434/
+
+Особенности национальной автоматизации MS Excel | https://habrahabr.ru/post/120383/
+
+PowerShell и аудит безопасности | https://habrahabr.ru/post/118644/
+
+Настройка виндового веб-сервера без RDP | https://habrahabr.ru/post/118020/
+
+Как же все-таки пользоваться PowerShell? | https://habrahabr.ru/post/117441/
+
+Run as administrator из командной строки | https://habrahabr.ru/post/114201/
+
+Первые шаги для пауэршельшиков | https://habrahabr.ru/post/113913/
+
+Замена для FIND и GREP | https://habrahabr.ru/post/93164/
+
+Подкуем хаос | https://habrahabr.ru/post/92238/
+
+Отправка запросов HTTP POST из PowerShell | https://habrahabr.ru/post/92206/
+
+Сортировка изображений по разрешению… на сцене PowerShell | https://habrahabr.ru/post/85576/
+
+PowerShell и Habrahabr API | https://habrahabr.ru/post/76538/
+
+PowerShell 2.0 RTM доступен для всех версий Windows | https://habrahabr.ru/post/73809/
+
+WinRM — удалённая работа с PowerShell | https://habrahabr.ru/post/73613/
+
+Visual Studio 2008 PowerShell Command Prompt | https://habrahabr.ru/post/72035/
+
+Windows PowerShell 2.0 RTM | https://habrahabr.ru/post/65282/
+
+Учим PowerShell разговаривать | https://habrahabr.ru/post/60965/
+
+PowerShell для автоматического переключения сетевых настроек | https://habrahabr.ru/post/59712/
+
+PowerShell: выстрелил и забыл | https://habrahabr.ru/post/59630/
+
+Знакомство с PowerShell | https://habrahabr.ru/post/57648/
+

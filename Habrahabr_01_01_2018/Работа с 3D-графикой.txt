@@ -1,0 +1,718 @@
+Объёмное атмосферное рассеяние света | https://habrahabr.ru/post/345630/
+
+Как рендерит кадр движок Metal Gear Solid V: Phantom Pain | https://habrahabr.ru/post/344916/
+
+Виртуальные ядерные установки: полный цикл разработки для Oculus Rift в одном лице (UPD 18.12.2017) | https://habrahabr.ru/post/344570/
+
+Алгоритмы антиалиасинга в реальном времени | https://habrahabr.ru/post/343876/
+
+Эффект дизеринга в трёхмерной игре | https://habrahabr.ru/post/343172/
+
+Поле боя — дополненная реальность. Часть II: как распознать объект и показать 3D модель | https://habrahabr.ru/post/343648/
+
+Трёхмерная графика с нуля. Часть 2: растеризация | https://habrahabr.ru/post/342708/
+
+Ray casting в мире веб сегодня | https://habrahabr.ru/post/343016/
+
+Трёхмерная графика с нуля. Часть 1: трассировка лучей | https://habrahabr.ru/post/342510/
+
+О трехмерных шутерах на CSS +HTML [перевод] | https://habrahabr.ru/post/342546/
+
+Создание концепт-артов в 3D | https://habrahabr.ru/post/342172/
+
+Unreal Engine: QuickStart в Qt Creator под Arch Linux | https://habrahabr.ru/post/341756/
+
+Работа с видео в Full Throttle Remastered | https://habrahabr.ru/post/340564/
+
+Как рендерит кадр движок Unreal Engine | https://habrahabr.ru/post/341080/
+
+Полный цикл создания модели персонажа для игры | https://habrahabr.ru/post/341050/
+
+Исследование фотограмметрии | https://habrahabr.ru/post/339464/
+
+Разработка персонажей для игры «Аллоды Онлайн» | https://habrahabr.ru/company/mailru/blog/334712/
+
+Создание камней для игр с помощью фотограмметрии | https://habrahabr.ru/post/333950/
+
+Как создать билборд-текстуру растительности в Unreal Engine 4 | https://habrahabr.ru/company/plarium/blog/332608/
+
+3Ds max. Основы. Как и с чего начать? | https://habrahabr.ru/post/326532/
+
+Как мы делали совершенно новый КОМПАС-3D: История в семи главах → часть 1 | https://habrahabr.ru/company/ascon/blog/326550/
+
+5 курсов, которые помогут начать свой путь в дизайне игр | https://habrahabr.ru/company/plarium/blog/326120/
+
+Сравнение 7 систем фотограмметрии. Что лучше выбрать? | https://habrahabr.ru/post/320766/
+
+(Надеюсь) всё, что нужно знать о фотограмметрии | https://habrahabr.ru/post/319464/
+
+Ремастеринг текстур для BioShock: The Collection | https://habrahabr.ru/post/319400/
+
+Создание атмосферы в видеоиграх при помощи архитектуры | https://habrahabr.ru/post/314376/
+
+Unity: сжимая сжатое | https://habrahabr.ru/post/316672/
+
+Texel density. Зачем нужен и как его применять | https://habrahabr.ru/post/315146/
+
+Виртуальный сервер с видеокартой | https://habrahabr.ru/company/ultravds/blog/313382/
+
+ExcelArt – изометрия «на халяву». Рисуем псевдообъемный телефон без 3D и Фотошопа | https://habrahabr.ru/company/mailru/blog/309480/
+
+Наши грабли тренингов в виртуальной реальности (и проблемы инженеров с руками с мою голову) | https://habrahabr.ru/company/croc/blog/306080/
+
+OFFF 2016 | https://habrahabr.ru/company/acronis/blog/303278/
+
+Мультимедийная 3D реконструкция театральной постановки «Чайка» на сцене Александринского театра (17 октября 1896) | https://habrahabr.ru/post/282237/
+
+3D в школе: кто, чему и как должен учить? | https://habrahabr.ru/post/275495/
+
+Приёмы работы в Blender. Часть 3 | https://habrahabr.ru/post/274363/
+
+Да пребудет с вами прокрутка: теория и практика по камере в платформерах [2/2] | https://habrahabr.ru/post/273397/
+
+Приёмы работы в Blender. Часть 2 | https://habrahabr.ru/post/274097/
+
+3D-лаборатория для людей из МИЭМа, сующих голову внутрь прототипов трассировки печатных плат | https://habrahabr.ru/company/croc/blog/273773/
+
+Простой Blender. Часть 5, заключительная | https://habrahabr.ru/post/273543/
+
+Демо-проект The Blacksmith от Unity | https://habrahabr.ru/company/plarium/blog/273299/
+
+Да пребудет с вами прокрутка: теория и практика по камере в платформерах [1/2] | https://habrahabr.ru/post/272933/
+
+Приёмы работы в Blender. Часть 1 | https://habrahabr.ru/post/273067/
+
+Простой Blender. Часть 4 | https://habrahabr.ru/post/272993/
+
+Простой Blender. Часть 3 | https://habrahabr.ru/post/272853/
+
+Простой Blender. Часть 2 | https://habrahabr.ru/post/272721/
+
+Простой Blender. Часть 1 | https://habrahabr.ru/post/272519/
+
+22 правила повествования от Pixar | https://habrahabr.ru/post/269665/
+
+3D-сканирование с использованием Intel RealSense | https://habrahabr.ru/company/intel/blog/268425/
+
+Отчет о Международной машиностроительной выставке MSV 2015 | https://habrahabr.ru/post/267377/
+
+Сравнение мобильных приложений для 3Д реконструкции | https://habrahabr.ru/post/267023/
+
+Principle: инструмент для прототипирования, который вы должны попробовать | https://habrahabr.ru/post/265281/
+
+«Хозяин, напиши для нас приложение». Требуется разработчик софта и железа для дронов DJI | https://habrahabr.ru/company/neuronspace/blog/259527/
+
+Как в Pixar решали проблемы со съёмками «Головоломки» (The Inside Out) | https://habrahabr.ru/post/263325/
+
+Главное, чтобы ботинок сидел. Как 3D-технологии помогают подобрать обувь по ноге | https://habrahabr.ru/company/intel/blog/260403/
+
+Графика процессоров Intel Core. Краткое справочное руководство | https://habrahabr.ru/company/intel/blog/259871/
+
+Dell приходит на помощь студии видеопродакшена | https://habrahabr.ru/company/dellemc/blog/259551/
+
+Краткий Making of Pinup персонажа | https://habrahabr.ru/post/258847/
+
+Как делаются видео с НЛО | https://habrahabr.ru/post/258775/
+
+Euphoria Module: короткометражная 3D-анимация, созданная с помощью открытого ПО | https://habrahabr.ru/post/256683/
+
+Принципы анимации для веба | https://habrahabr.ru/company/htmlacademy/blog/255583/
+
+Сборка Krita под Linux для котанов | https://habrahabr.ru/company/krita/blog/252289/
+
+Компьютерная графика, онлайн-курс | https://habrahabr.ru/company/stepic/blog/253053/
+
+Откуда есть пошел Animusic | https://habrahabr.ru/post/251883/
+
+Основы CG-рисунка на примерах: рисуем осциллограф, применяем 3D | https://habrahabr.ru/company/mailru/blog/247983/
+
+Планы развития Blender | https://habrahabr.ru/post/245225/
+
+Для чего blender фотографу? | https://habrahabr.ru/post/244977/
+
+Невероятная Athena | https://habrahabr.ru/company/lenovo/blog/244769/
+
+Революция в сфере компьютерного моделирования человеческого тела в движении | https://habrahabr.ru/company/materialise/blog/244103/
+
+Максимально реалистичная анимация | https://habrahabr.ru/company/nordavind/blog/240597/
+
+Профессиональные ручные 3d-сканеры | https://habrahabr.ru/post/232387/
+
+Моделирование жука | https://habrahabr.ru/post/239557/
+
+Как выглядит рисование в Oculus Rift | https://habrahabr.ru/company/medgadgets/blog/239463/
+
+Реконструкция 3D-модели движущегося лица | https://habrahabr.ru/post/237827/
+
+Презентация с помощью impress.js – просто и элегантно | https://habrahabr.ru/company/theonlypage/blog/237473/
+
+Первые пробы себя в проекте открытого образования в формате «Политех 2.0» | https://habrahabr.ru/company/opentechedu/blog/237241/
+
+Школа 3D-решений для студентов: что внутри и как попасть на обучение бесплатно | https://habrahabr.ru/company/croc/blog/235907/
+
+3D-режим в Diablo 2 | https://habrahabr.ru/post/235735/
+
+Медицинская анатомическая иллюстрация — история изучения тела человека в атласах 5 столетий. Заключительная часть | https://habrahabr.ru/company/visual-science/blog/235297/
+
+Рендеринг 3D-иллюстраций для IKEA | https://habrahabr.ru/post/235003/
+
+RenderDoc — графический отладчик для DirectX11 от Crytek | https://habrahabr.ru/company/infopulse/blog/234619/
+
+Инструмент Autodesk для отображения 3d-моделей в вебе | https://habrahabr.ru/company/autodesk/blog/233703/
+
+Мёртвая «Ксюша» и пыльный чайник. Почему «АвтоматическийСтол» — корпорация зла | https://habrahabr.ru/post/232653/
+
+Манипуляции с объектами на фотографиях в 3D | https://habrahabr.ru/post/232513/
+
+Krita: четырехточечные перспективные трансформации | https://habrahabr.ru/company/krita/blog/232019/
+
+Аниматор из России работает над созданием 3D версии интро к Futurama | https://habrahabr.ru/post/230253/
+
+Создание игрового персонажа | https://habrahabr.ru/post/230081/
+
+Кикстартер для Krita: новый функционал для Krita 2.9 | https://habrahabr.ru/post/228781/
+
+Azarkant: короткометражный мультфильм, на который ушло три года | https://habrahabr.ru/post/228651/
+
+Визуализация трансатлантических авиарейсов за 24 часа | https://habrahabr.ru/post/228447/
+
+Gamma, ColorMapping and LinearWorkflow | https://habrahabr.ru/post/227857/
+
+OpenColorIO и Krita: обработка и рисование HDR изображений | https://habrahabr.ru/post/227597/
+
+Быть в 3d или не быть? Как я сам себя отсканировал и распечатал на 3d-принтере | https://habrahabr.ru/post/224775/
+
+Go! Самая простая книга по графическому дизайну | https://habrahabr.ru/company/piter/blog/225701/
+
+Modio: детское приложение по проектированию игрушек для печати на 3D принтерах | https://habrahabr.ru/post/225453/
+
+Pixar анонсирует бесплатную версию Renderman для некоммерческого использования | https://habrahabr.ru/post/225443/
+
+Обзор компаний-лидеров в области оказания услуг 3D-печати | https://habrahabr.ru/post/222991/
+
+3D сканирование в археологии. Личный опыт, используемое оборудование и прочее | https://habrahabr.ru/post/223201/
+
+Как создать 3D-модель вируса человека. Часть первая: сбор и анализ научных данных | https://habrahabr.ru/company/visual-science/blog/222819/
+
+12 приемов художников Disney для оживления анимации | https://habrahabr.ru/post/222225/
+
+Зачем инженерам в России нужны 3D-решения | https://habrahabr.ru/company/croc/blog/221921/
+
+Как делаются видеоролики для игр | https://habrahabr.ru/company/alconost/blog/220805/
+
+Создатель мультфильма «Крепость» выпустит продолжение | https://habrahabr.ru/post/221031/
+
+Аспирант из Беркли восстановил внешний вид растения, жившего 375 миллионов лет назад | https://habrahabr.ru/post/219787/
+
+Первая книга о 3D печати на русском языке «Доступная 3D печать для науки, образования и устойчивого развития» (Low-cost 3D Printing for Science, Education and Sustainable Development) готова! | https://habrahabr.ru/post/219705/
+
+Медведь на лестнице | https://habrahabr.ru/post/219455/
+
+ESA представило интерактивный 3D-симулятор миссии «Розетта» (изучение кометы Чурюмова-Герасименко) | https://habrahabr.ru/post/218785/
+
+Студенты-врачи виртуально оперируют трёхмерные тела | https://habrahabr.ru/post/218653/
+
+Лепка пиксельного мульта Simpsons Coach Gag в Экселе | https://habrahabr.ru/post/216163/
+
+Valve открыла исходники транслятора Direct3D в OpenGL | https://habrahabr.ru/post/215559/
+
+Как строить многоэтажные дома за 2 месяца, а города на 100 000 жителей — за 2 года | https://habrahabr.ru/company/alconost/blog/215303/
+
+Реверс-инжиниринг комикса xkcd | https://habrahabr.ru/post/213745/
+
+Project Tango от Google: смартфон c 3D-сканером пространства | https://habrahabr.ru/post/213381/
+
+Эффект 3D с помощью белых линий | https://habrahabr.ru/post/212921/
+
+Стерео плеер из VLC | https://habrahabr.ru/post/211468/
+
+Масяня: краудфандинг возвращается | https://habrahabr.ru/post/210618/
+
+<Продлен до 27 февраля!> Объявляем конкурс на разработку макета для 3d печати почки | https://habrahabr.ru/company/autodesk/blog/209210/
+
+Гибкое мускульное передвижение для двуногих существ | https://habrahabr.ru/post/209096/
+
+2 января 2014 года проекту Blender исполнится 20 лет | https://habrahabr.ru/post/207762/
+
+“Солнышко для Планктонушка” – основы светототехнического моделирования в DIALux | https://habrahabr.ru/post/207604/
+
+С днём 3D и прочей графики! | https://habrahabr.ru/company/mailru/blog/204614/
+
+Хорошие новости: Maya для разработчиков игр по цене от 70 евро | https://habrahabr.ru/company/autodesk/blog/204088/
+
+Microsoft выпустила программу для бесшовной циклической анимации | https://habrahabr.ru/post/203872/
+
+Plotagon – сам себе режиссер | https://habrahabr.ru/post/203536/
+
+Основные зарубежные сборники аниме-картинок отключены Роскомнадзором | https://habrahabr.ru/post/203036/
+
+Автоматизация сэмплинг-акций: терминал для раздачи образцов и пробников продукции | https://habrahabr.ru/company/alconost/blog/202126/
+
+Роскомнадзором запрещён анимесайт «Санкакукон». Кто недовольно заорёт, того в тюрьму: «не патриот!» | https://habrahabr.ru/post/200594/
+
+10 правил подготовки модели к 3D печати | https://habrahabr.ru/post/196182/
+
+Сетевой рендер в блендере | https://habrahabr.ru/post/198906/
+
+Дизайнер на кладбище | https://habrahabr.ru/post/183722/
+
+Роскомнадзор запрещает двадцать девять японских комиксов «манга», приравнивает к сексу с детьми | https://habrahabr.ru/post/195008/
+
+Drive Market: шопинг за рулем автомобиля | https://habrahabr.ru/company/alconost/blog/193314/
+
+Получение 3D объекта по 1 фото | https://habrahabr.ru/post/193292/
+
+3D-моделирование окружения с помощью видеокамеры | https://habrahabr.ru/post/191884/
+
+Набор в Школу разработчиков 3D решений: бесплатные места | https://habrahabr.ru/company/croc/blog/191814/
+
+Цвет как фактор эффективности труда | https://habrahabr.ru/post/190824/
+
+Создатели Oculus Rift запустили специализированный магазин игр | https://habrahabr.ru/post/190644/
+
+Студия Трейлеров вернулась на Хабр | https://habrahabr.ru/company/trailerss/blog/190580/
+
+Cпецэффекты в стиле «Матрицы» для спортивных телетрансляций | https://habrahabr.ru/company/nordavind/blog/189470/
+
+Товары из IKEA можно оценить в домашних условиях при помощи дополненной реальности | https://habrahabr.ru/post/189424/
+
+Pixomondo и Dell: на крыльях успеха | https://habrahabr.ru/company/dellemc/blog/189420/
+
+Дыхание Земли | https://habrahabr.ru/post/188460/
+
+Новый алгоритм Disney Research способен превращать 2D фотографии в 3D-модели | https://habrahabr.ru/post/188320/
+
+Распечатанное оружие | https://habrahabr.ru/post/188122/
+
+Kinect научили распознавать и переводить язык жестов | https://habrahabr.ru/post/187232/
+
+Пользователь Reddit создал «вирусный» анимированный ролик про тотальную слежку АНБ по мотивам заставки Pixar | https://habrahabr.ru/post/186462/
+
+Популярно о 3D графике. Часть 2. Игры и 3D | https://habrahabr.ru/post/175545/
+
+Масяня: торжество краудфандинга | https://habrahabr.ru/post/185384/
+
+Применение процедурных генераторов в создании контента для real-time 3D приложений: Часть 2. Valley Benchmark | https://habrahabr.ru/company/unigine/blog/184614/
+
+DirectX 11.2 станет эксклюзивом для Windows 8.1 и Xbox One | https://habrahabr.ru/post/185082/
+
+Роскомнадзор признаёт хентай детским порно, призывает к подаче жалоб, обещает пополнение реестра запрещённых ресурсов в Интернете | https://habrahabr.ru/post/183304/
+
+Синхровидео или используем множество камер | https://habrahabr.ru/post/183218/
+
+Полупрозрачность, видеомонтаж и работа с мозаикой в PaintCAD 4Windows 1.2.1 | https://habrahabr.ru/post/182654/
+
+Беспилотный боевой робот | https://habrahabr.ru/company/alconost/blog/180793/
+
+Российское 3D-ядро захабрено. Ответы на ваши вопросы | https://habrahabr.ru/post/180707/
+
+Euclideon «вернулись» с новым видео | https://habrahabr.ru/post/180683/
+
+GIF произносится как «джиф», говорит автор стандарта | https://habrahabr.ru/post/180601/
+
+Российское 3D-ядро | https://habrahabr.ru/post/180455/
+
+Как можно посмотреть обычный фильм в 3D | https://habrahabr.ru/post/178869/
+
+Чёрный список 2.0, теперь с уголовными наказаниями | https://habrahabr.ru/post/178773/
+
+Новый 3D алгоритм симуляции воды | https://habrahabr.ru/post/177995/
+
+Как мы делали ролик для Shadow Fight 2 | https://habrahabr.ru/company/Nekki/blog/177617/
+
+Космические сюжеты в веб-дизайне | https://habrahabr.ru/post/176701/
+
+Ресторан будущего: технология моментального обслуживания | https://habrahabr.ru/company/alconost/blog/176297/
+
+Классификация продающих видеороликов об IT продуктах | https://habrahabr.ru/company/alconost/blog/176059/
+
+Популярно о компьютерной 3D графике, часть 1 | https://habrahabr.ru/post/175285/
+
+Дайте нам воооот этот ноутбук – мальчику для учёбы будет | https://habrahabr.ru/company/dellemc/blog/174679/
+
+Принципы анимации: как сделать хороший скринкаст программного продукта | https://habrahabr.ru/company/alconost/blog/173685/
+
+Новые видеоролики от Alconost | https://habrahabr.ru/company/alconost/blog/172253/
+
+Технология безоперационного удаления холестериновых отложений. Будущее рядом | https://habrahabr.ru/company/alconost/blog/171229/
+
+«Фэйковое видео работы смартфон-приложения с фоном вокруг» или «Как сэкономить на DIY системе стабилизации» или «А нельзя ли записать это с помощью какого-нить софта прямо в смарте?» | https://habrahabr.ru/post/171029/
+
+SketchUp помог оценить скорость челябинского феномена | https://habrahabr.ru/post/169857/
+
+Переходим с Flash на Edge — сравнение двух платформ для создания анимации | https://habrahabr.ru/post/169253/
+
+Формула белогривых лошадок: perlin noise в картинках | https://habrahabr.ru/post/169001/
+
+Применение процедурных генераторов в создании контента для real-time 3D приложений: Часть 1. Oil Rush | https://habrahabr.ru/company/unigine/blog/167075/
+
+3000 кораблей схлестнулись в бою в EVE Online | https://habrahabr.ru/post/167581/
+
+DeltaMaker — еще один 3D-принтер | https://habrahabr.ru/post/167423/
+
+Как создавалась 3D панорама бородинского сражения | https://habrahabr.ru/post/167043/
+
+Распечатайте-ка мне пожалуйста вот это платье | https://habrahabr.ru/post/166983/
+
+Activision покажет новое поколение технологий рендеринга на GDC | https://habrahabr.ru/post/166725/
+
+Где же ты, плеер мечты для Android? | https://habrahabr.ru/company/alconost/blog/165047/
+
+3D на рабочий стол Windows (+исходники) | https://habrahabr.ru/post/165007/
+
+Построение тора средствами WPF | https://habrahabr.ru/post/164857/
+
+Зависимость прозрачности от ориентации поверхности | https://habrahabr.ru/post/161961/
+
+Трейлер бактерицидного увлажнителя воздуха Aquacom | https://habrahabr.ru/company/trailerss/blog/161691/
+
+Самоходный дорожностроительный комбайн: 1 км дороги за 1 день и $3-5 млн | https://habrahabr.ru/company/alconost/blog/161271/
+
+С (неофициальным) днем компьютерной графики! | https://habrahabr.ru/post/161177/
+
+MEGAVISOR: новости, приглашение поиграть | https://habrahabr.ru/company/megavisor/blog/155139/
+
+Мобильные дома-трансформеры | https://habrahabr.ru/company/alconost/blog/160375/
+
+Цветовые профили и их использование | https://habrahabr.ru/post/160317/
+
+123D Design от Autodesk | https://habrahabr.ru/post/157903/
+
+Один день Интернета: статистика, цифры, факты | https://habrahabr.ru/company/alconost/blog/157675/
+
+PaintCAD 4Windows: создание GIF анимаций, 3D рисунков и 3D фотографий | https://habrahabr.ru/post/157237/
+
+Новый курс CS184.1x Foundations of Computer Graphics от Berkeley | https://habrahabr.ru/post/157065/
+
+Новый ролик. Новая статья | https://habrahabr.ru/company/trailerss/blog/156857/
+
+Иллюстрации в видеодизайне | https://habrahabr.ru/company/trailerss/blog/154867/
+
+Вышел новый релиз программы Blender | https://habrahabr.ru/post/153603/
+
+Онлайн-премьера четвёртого открытого короткометражного фильма Tears Of Steel | https://habrahabr.ru/post/152405/
+
+Экспорт планировок из Planner 5D | https://habrahabr.ru/post/152135/
+
+3D принтер, печатающий самым дешевым расходным материалом | https://habrahabr.ru/post/111958/
+
+Создание стереограммы на основе трехмерной модели | https://habrahabr.ru/post/151655/
+
+Пример реализации Stencil буфера с помощью CUDA | https://habrahabr.ru/post/151640/
+
+Демки из прошлого — United Crackers League (UCL) | https://habrahabr.ru/post/151139/
+
+Перенос проектов Adobe After Effects | https://habrahabr.ru/post/150337/
+
+Небольшой текстовый отчёт о SIGGRAPH 2012 | https://habrahabr.ru/post/150178/
+
+Как вы относитесь к аниме? | https://habrahabr.ru/post/150007/
+
+Проект Animusic 3 просит о помощи | https://habrahabr.ru/post/149893/
+
+Немного интерактивного космоса | https://habrahabr.ru/company/megavisor/blog/149538/
+
+Интерактивное 3D путешествие по Версалю от Google | https://habrahabr.ru/post/149350/
+
+ASCII StreetView | https://habrahabr.ru/post/148882/
+
+Как мы создавали вступительный ролик для игры Vector | https://habrahabr.ru/company/Nekki/blog/148280/
+
+Ночной вид с международной космической станции | https://habrahabr.ru/post/148229/
+
+Превращаем iPad в 3D мышь | https://habrahabr.ru/post/148210/
+
+Проект Mango приближается к завершению | https://habrahabr.ru/post/147832/
+
+Человек вывел виртуальную девушку в реальный мир | https://habrahabr.ru/post/147467/
+
+Valve анонсировала Source Filmmaker | https://habrahabr.ru/post/146651/
+
+Про интерактивные картинки и MEGAVISOR.com | https://habrahabr.ru/company/megavisor/blog/146488/
+
+Потрясающее демо NettleBox 2 | https://habrahabr.ru/post/146389/
+
+Canon выводит на рынок свою систему дополненной реальности | https://habrahabr.ru/post/146350/
+
+Быстрое создание 3D изображений из обычных фотографий — технология из Японии | https://habrahabr.ru/post/146157/
+
+Глубина резкости в компьютерной графике | https://habrahabr.ru/post/146136/
+
+Почему я не верю в 3D-карты | https://habrahabr.ru/post/146037/
+
+Google Maps получили 3D и возможность автономной работы | https://habrahabr.ru/post/145366/
+
+Каталог из тысяч 3D моделей в браузере с помощью WebGL | https://habrahabr.ru/post/145101/
+
+Тайная комната в анимационной студии Pixar | https://habrahabr.ru/post/144278/
+
+Cascadeur — зачем аниматорам физика? | https://habrahabr.ru/company/Nekki/blog/143967/
+
+История одного реинжиниринга или RNAInSpace v.1.3. Demo | https://habrahabr.ru/post/143932/
+
+Лучшие бесплатные программы для создания GIF-анимации для Windows | https://habrahabr.ru/post/143730/
+
+Опенсорс-фотореализм на GPU: Cycles Render | https://habrahabr.ru/post/142213/
+
+История одного автора | https://habrahabr.ru/post/143254/
+
+Google запускает виртуальные 3D путешествия в Google Maps | https://habrahabr.ru/post/142820/
+
+Cascadeur — можно ли заменить каскадеров? | https://habrahabr.ru/company/Nekki/blog/142055/
+
+ЗdMax: создаём клип с космическими сценами | https://habrahabr.ru/post/141841/
+
+DAZ 3D inc продлила акцию по бесплатному распространению программ | https://habrahabr.ru/post/141222/
+
+Сказ о трех историях | https://habrahabr.ru/company/trailerss/blog/140478/
+
+ClojureScript — изменение кода на лету | https://habrahabr.ru/post/139478/
+
+Рисуем остаток совы, или «Семь пропущенных шагов» | https://habrahabr.ru/post/139419/
+
+Daz Productions раздает бесплатно лицензии на Bryce 7 Pro, Daz Studio и Hexagon | https://habrahabr.ru/post/137617/
+
+3D редакторы, плюсы и минусы | https://habrahabr.ru/post/136350/
+
+Работа с Motion Capture данными, cleaning/чистка | https://habrahabr.ru/post/135755/
+
+Sintel: о технологичности искусства | https://habrahabr.ru/post/135583/
+
+Онлайн просмотр интерактивных 3D-моделей при помощи WebGL | https://habrahabr.ru/post/135204/
+
+Сканируем в 3D с помощью фотоаппарата или 123D Catch | https://habrahabr.ru/post/134781/
+
+Пакетный 3D-конвертер на основе 3ds Max | https://habrahabr.ru/post/134447/
+
+Коралина. Мир наоборот | https://habrahabr.ru/post/133333/
+
+MassFX — от теории к практике | https://habrahabr.ru/post/129087/
+
+Действительно трехмерное объемное изображение | https://habrahabr.ru/post/132582/
+
+Наши самородки 2 | https://habrahabr.ru/post/132482/
+
+Наши самородки | https://habrahabr.ru/post/132454/
+
+Книга «Основы Blender 2.6» готова! | https://habrahabr.ru/post/131845/
+
+Анимация и Система частиц в Blender | https://habrahabr.ru/post/131416/
+
+Сделай Blender лучше прямо сейчас | https://habrahabr.ru/post/130800/
+
+Как создается аниме | https://habrahabr.ru/post/130002/
+
+Первые главы «Основы Blender 2.6» готовы | https://habrahabr.ru/post/129972/
+
+Рисуем воду на Direct3D. Часть 1. Архитектура графического конвейера и API | https://habrahabr.ru/post/129166/
+
+Новый движок расчета физики в 3ds Max | https://habrahabr.ru/post/128907/
+
+Проблема 3D частиц в After Effects | https://habrahabr.ru/post/128737/
+
+Вышло продолжение Escape from City 17 | https://habrahabr.ru/post/127121/
+
+Будущее началось. 2050 год | https://habrahabr.ru/post/126575/
+
+Технология программной трассировки лучей от Euclideon | https://habrahabr.ru/post/125482/
+
+Рендеринг изоповерхностей с использованием алгоритма рейкастинга | https://habrahabr.ru/post/123632/
+
+Blender 2.5: горячие клавиши | https://habrahabr.ru/post/122594/
+
+Hit print | https://habrahabr.ru/post/117844/
+
+Реализация настоящего 3D эффекта в своих проектах | https://habrahabr.ru/post/115031/
+
+Реальный автомобиль в виртуальном пространстве | https://habrahabr.ru/post/114729/
+
+Одежда для принцессы | https://habrahabr.ru/post/114242/
+
+Иллюзионист. Графическая магия | https://habrahabr.ru/post/114021/
+
+David O'Reilly | https://habrahabr.ru/post/113434/
+
+Знакомимся с OpenGL | https://habrahabr.ru/post/111175/
+
+Визуализация эмоций в 3D-играх | https://habrahabr.ru/post/110535/
+
+Самый главный миф о Pixar | https://habrahabr.ru/post/110209/
+
+Рекламный ролик: «О чём ты думаешь сейчас?» | https://habrahabr.ru/post/108379/
+
+Эволюция OpenStreetMap в Европе (в т.ч. России) | https://habrahabr.ru/post/108108/
+
+Реклама в 4D | https://habrahabr.ru/post/107969/
+
+Pixar демонстрирует сервис рендеринга технологии RenderMan в облаке | https://habrahabr.ru/post/107154/
+
+Поздравляем с Международным днем анимации | https://habrahabr.ru/post/107050/
+
+«Звёздные Войны» выйдут в 3D | https://habrahabr.ru/post/105249/
+
+Трюк с совместимостью 3D очков от Samsung и Panasonic | https://habrahabr.ru/post/105081/
+
+Трехмерное видео: тернистый путь к зрителю | https://habrahabr.ru/post/104617/
+
+3D-звук для Google Earth | https://habrahabr.ru/post/103480/
+
+НТВ-ПЛЮС и Panasonic запускают первый в России 3D канал | https://habrahabr.ru/post/103454/
+
+Новая версия 3D-камеры Fuji подешевела до $500 | https://habrahabr.ru/post/101977/
+
+Делаем игру Pinball на Игровом Движке Blender | https://habrahabr.ru/post/100634/
+
+Демонстрация Lagoa Multiphysics | https://habrahabr.ru/post/100407/
+
+Голограммы в ночных клубах | https://habrahabr.ru/post/100362/
+
+Игровой Движок Blender — осваиваем контроллеры с логическими выражениями | https://habrahabr.ru/post/100039/
+
+Виртуальные путешествия по знаменитым местам мира в 3D | https://habrahabr.ru/post/99448/
+
+Super Mario на заборе | https://habrahabr.ru/post/98719/
+
+Объемные телетрансляции опасны для здоровья | https://habrahabr.ru/post/98490/
+
+Мокрый 3D-дисплей представят на SIGGRAPH | https://habrahabr.ru/post/98371/
+
+Blender GameKit 2 — первая глава на русском языке | https://habrahabr.ru/post/97696/
+
+Цифровая модель рельефа — по тени облаков | https://habrahabr.ru/post/97049/
+
+Project Offset | https://habrahabr.ru/post/96310/
+
+Azureus Rising | https://habrahabr.ru/post/95470/
+
+Blender. Введение в ноды (Часть 1) | https://habrahabr.ru/post/95440/
+
+Новый метод для рендеринга невозможных фигур | https://habrahabr.ru/post/95412/
+
+Век 3D близок | https://habrahabr.ru/post/94466/
+
+The Secret of Kells | https://habrahabr.ru/post/92225/
+
+Как маскируются секретные прототипы (камуфляж и скрытие контура) | https://habrahabr.ru/post/90392/
+
+Минздрав предупреждает: 3d-фильмы вредят здоровью | https://habrahabr.ru/post/90182/
+
+Логорама (лучший короткометражный анимационный фильм) | https://habrahabr.ru/post/89119/
+
+Эротическая анимация телевизоров Philips | https://habrahabr.ru/post/88950/
+
+Из мухи в слона | https://habrahabr.ru/post/88327/
+
+Пособие для начинающих в Blender 2.5 | https://habrahabr.ru/post/88049/
+
+Визуальные эксперименты | https://habrahabr.ru/post/88041/
+
+Unlimited Detail — интересно, но есть у меня вполне конкретные сомнения… | https://habrahabr.ru/post/87208/
+
+The Sandpit: один день из жизнь Нью-Йорка, в миниатюре | https://habrahabr.ru/post/85823/
+
+Apophysis: бесплатный редактор фрактального пламени для Windows | https://habrahabr.ru/post/84198/
+
+Создание круговых панорам (flash) | https://habrahabr.ru/post/83434/
+
+Рендер на удалённой машине при помощи связки Dropbox & Mail | https://habrahabr.ru/post/82381/
+
+Обзор Nvidia 3d vision: второй глаз для игр, фильмов и фото | https://habrahabr.ru/post/81044/
+
+The Third & The Seventh | https://habrahabr.ru/post/80345/
+
+«Alma» короткометражный мультфильм Rodrigo Blaas'а | https://habrahabr.ru/post/79608/
+
+Сравнение OpenGL и Direct3D | https://habrahabr.ru/post/79257/
+
+IMAX 3D vs RealD vs Dolby 3D | https://habrahabr.ru/post/79145/
+
+Luxology modo | https://habrahabr.ru/post/76390/
+
+3D-камера со 158 объективами | https://habrahabr.ru/post/78438/
+
+16.12 — день премьеры в России 3D-фильма «Аватар»! | https://habrahabr.ru/post/78400/
+
+Стереоизображения Японии 19 века | https://habrahabr.ru/post/78249/
+
+Global Illumination на GPU | https://habrahabr.ru/post/77235/
+
+Будущее, роботы, спецэффекты | https://habrahabr.ru/post/77213/
+
+The Passenger: 7 минут за 8 лет | https://habrahabr.ru/post/76640/
+
+ProFORMA: Объекты в 3D через Веб-камеру | https://habrahabr.ru/post/76375/
+
+Pigeon Impossible | https://habrahabr.ru/post/76010/
+
+NVIDIA RealityServer – облачные вычисления в 3D | https://habrahabr.ru/post/75470/
+
+Возвращение к основам 3D | https://habrahabr.ru/post/74781/
+
+Ford Shelby vs Camaro vs Jeep vs VAZ 2107 | https://habrahabr.ru/post/74415/
+
+Отпечатки пальцев 3D | https://habrahabr.ru/post/72486/
+
+Голографический рендеринг разогнали до 10 fps | https://habrahabr.ru/post/68208/
+
+3D-сканирование в планшетном сканере | https://habrahabr.ru/post/66978/
+
+Рисуем 3D на осциллографе | https://habrahabr.ru/post/307352/
+
+Генерация 3D-моделей по фотографиям | https://habrahabr.ru/post/64080/
+
+Красивый мультфильм, ничего больше | https://habrahabr.ru/post/62047/
+
+Компьютерная симуляция звуков воды | https://habrahabr.ru/post/61888/
+
+7 творческих принципов Pixar от John Lasseter | https://habrahabr.ru/post/59016/
+
+Мультфильм «Цыган»: С первым апреля! | https://habrahabr.ru/post/56147/
+
+Все небоскрёбы Нью-Йорка в 3D | https://habrahabr.ru/post/47359/
+
+BURN-E — короткометражный фильм от студии Pixar, на основе фильма WALL-E | https://habrahabr.ru/post/44745/
+
+Северное сияние впервые сняли в 3D | https://habrahabr.ru/post/44526/
+
+Как при жизни сделать настоящую маску своего лица | https://habrahabr.ru/post/44464/
+
+QUIDAM 2.3: создание 3D-персонажей | https://habrahabr.ru/post/43035/
+
+Если вы умеете печатать — вы умеете делать мультфильмы. | https://habrahabr.ru/post/42342/
+
+Сделаем фотомодель по-быстрому! | https://habrahabr.ru/post/39932/
+
+Motion Design | https://habrahabr.ru/post/39758/
+
+Итоги Фестиваля Компьютерной Графики (Siggraph 2008) | https://habrahabr.ru/post/37810/
+
+Анимационная инициатива Intel | https://habrahabr.ru/post/37326/
+
+Autodesk Maya празднует 10-ти летие | https://habrahabr.ru/post/36974/
+
+Pixar готовит «Корпорацию монстров-2»? | https://habrahabr.ru/post/36778/
+
+Новый мультфильм Pixar: UP / Вверх | https://habrahabr.ru/post/30243/
+
+Обстановка в студии Pixar | https://habrahabr.ru/post/29753/
+
+«Presto» by PIXAR | https://habrahabr.ru/post/28644/
+
+WALL-E — Presto =? | https://habrahabr.ru/post/28633/
+
+WALL-E из бумаги своими руками | https://habrahabr.ru/post/28523/
+
+Как Стив Джобс воскресил студию Pixar | https://habrahabr.ru/post/27819/
+
+Немножко новостей из мира Pixar | https://habrahabr.ru/post/25682/
+
+Пасхальные яйца в мультиках Pixar | https://habrahabr.ru/post/19904/
+
+«Это стало самым главным испытанием – делать стальную машину с лицом, передающим эмоции» | https://habrahabr.ru/post/16441/
+
+Проект Офис или как мы сделали Корпорацию монстров | https://habrahabr.ru/post/15975/
+
+Продолжаем создавать персонажей мультфильма Рататуй вместе с Джейсоном Димером | https://habrahabr.ru/post/15900/
+
+История одного дизайнера, или как они нарисовали Рататуй… | https://habrahabr.ru/post/15690/
+

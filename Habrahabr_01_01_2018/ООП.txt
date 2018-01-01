@@ -1,0 +1,592 @@
+Не хочешь депозит 6,5? Расчет нормы доходности акций и полной доходности с помощью Moex API и парсера дивидендов | https://habrahabr.ru/post/345696/
+
+Почему мне кажется, что студентов учат ООП неправильно | https://habrahabr.ru/post/345658/
+
+Новинки С++17, которые необходимо использовать каждому | https://habrahabr.ru/company/piter/blog/345560/
+
+Внедрение зависимостей в .Net Марка Симана 3 — Сквозные аспекты приложения, перехват, декоратор | https://habrahabr.ru/post/344986/
+
+Краткий справочник информатики | https://habrahabr.ru/post/344810/
+
+Внедрение зависимостей в .Net Марка Симана 2 — Внедрение конструктора, время жизни | https://habrahabr.ru/post/344380/
+
+Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном | https://habrahabr.ru/post/344164/
+
+Принципы SOLID в действии: от Slack до Twilio | https://habrahabr.ru/post/343966/
+
+Реализация простейшей стратегии инвестирования на базе API MOEX (Московской биржи) | https://habrahabr.ru/post/343688/
+
+Внедрение зависимостей в .Net Марка Симана 1 — Зависимости между слоями приложения | https://habrahabr.ru/post/343830/
+
+Разделка бегемота. Еще раз о проектировании и рефакторинге от Сэнди Метц | https://habrahabr.ru/company/piter/blog/342810/
+
+Шаблон проектирования “минисценарий с проверкой противоречий” | https://habrahabr.ru/post/342302/
+
+Классы матриц и векторов в Delphi | https://habrahabr.ru/post/340612/
+
+Графы большие и маленькие: интеллектуальное решение проблемы выбора представления | https://habrahabr.ru/post/339752/
+
+Принцип единственной ответственности: фундамент декомпозиции | https://habrahabr.ru/post/338064/
+
+Часть 2: MVVM: полное понимание (+WPF) | https://habrahabr.ru/post/339538/
+
+Зачем мне гибкость Python, если мне запрещают ей пользоваться? | https://habrahabr.ru/post/339272/
+
+MVVM: полное понимание (+WPF) Часть 1 | https://habrahabr.ru/post/338518/
+
+Параллельный Hystrix. Повышаем производительность распределенных приложений | https://habrahabr.ru/post/337864/
+
+RailsClub 2017. Интервью с Luca Guidi, автором Hanami: смешиваем FP и OOP в Ruby | https://habrahabr.ru/company/railsclub/blog/337862/
+
+Архитектурная пирамида приложения | https://habrahabr.ru/post/336496/
+
+Итерируемый объект, итератор и генератор | https://habrahabr.ru/post/337314/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 2 | https://habrahabr.ru/company/ascon/blog/335110/
+
+DDD на практике. Проектирование списка желаний | https://habrahabr.ru/post/335834/
+
+Как математическая библиотека КОМПАС-3D превратилась в C3D Toolkit для разработчиков САПР → часть 1 | https://habrahabr.ru/company/ascon/blog/334814/
+
+Продвинутые перечисления с Ruby | https://habrahabr.ru/post/335072/
+
+Полиморфизм и указатели на функции | https://habrahabr.ru/post/335162/
+
+Истинная реализация нейросети с нуля на языке программирования C# | https://habrahabr.ru/post/335052/
+
+Об «Элегантных объектах» и евангелистах | https://habrahabr.ru/post/334766/
+
+Интерфейс vs interface | https://habrahabr.ru/post/332578/
+
+Поговорим о Yii 2 | https://habrahabr.ru/post/333398/
+
+Признаки проблемного дизайна | https://habrahabr.ru/post/331732/
+
+Как запутать аналитика. Часть вторая: что такое моделирование предметной области? | https://habrahabr.ru/post/332064/
+
+«Фабричный метод» в разработке под Android. Лучший способ обработки пушей | https://habrahabr.ru/post/332006/
+
+Как запутать аналитика. Часть первая | https://habrahabr.ru/post/331882/
+
+nstd — C++ библиотека — «джентельменский набор» полезных классов | https://habrahabr.ru/post/331564/
+
+3 cпособа нарушить Single Responsibility Principle | https://habrahabr.ru/post/330142/
+
+Технологии технологиями, а главное — код | https://habrahabr.ru/company/devconf/blog/329704/
+
+Тайп-хинтинг по всем канонам полиморфизма в старых версиях PHP | https://habrahabr.ru/post/329360/
+
+Функциональный Rust: Готовим говядину | https://habrahabr.ru/post/283450/
+
+Иерархия исключений в современном PHP-приложении | https://habrahabr.ru/post/329140/
+
+Архитектура клиентского приложения (механизмы структуризации) | https://habrahabr.ru/company/larian/blog/329032/
+
+SOLID: принцип единственности ответственности | https://habrahabr.ru/post/328584/
+
+Изменяемые свойства классов в питоне: польза для дела и мелкого хулиганства | https://habrahabr.ru/post/328234/
+
+Как изучение Smalltalk может улучшить ваши навыки программиста | https://habrahabr.ru/post/328156/
+
+Построение гибких PHP приложений | https://habrahabr.ru/post/327746/
+
+Под капотом среды разработки. Базовые модели | https://habrahabr.ru/post/326632/
+
+Композиция или наследование: как выбрать? | https://habrahabr.ru/post/325478/
+
+«Ruby для меня — это отличный инструмент» | https://habrahabr.ru/company/netologyru/blog/325162/
+
+Безболезненная прививка объектного мышления | https://habrahabr.ru/post/325010/
+
+Готовимся к собеседованию по PHP: Всё об итерации и немного про псевдотип «iterable» | https://habrahabr.ru/post/324934/
+
+Как сделать сайдбар за 5 строк кода | https://habrahabr.ru/post/323934/
+
+Красиво «взламываем» ООП с помощью C++14 | https://habrahabr.ru/post/323412/
+
+Функциональные паттерны при моделировании предметной области – анемичные модели и компоновка поведений | https://habrahabr.ru/company/piter/blog/322528/
+
+Работа с устройствами печати в C# на примере реализации виртуального принтера | https://habrahabr.ru/post/322322/
+
+Ответ на введение в проектирование сущностей, проблемы создания объектов | https://habrahabr.ru/post/321892/
+
+Проблема ООЯП: отсутствует чёткое и обязательное ядро объектно-ориентированного моделирования | https://habrahabr.ru/post/321738/
+
+Инверсии зависимостей управления впрыском | https://habrahabr.ru/post/321344/
+
+Введение в проектирование сущностей, проблемы создания объектов | https://habrahabr.ru/post/321340/
+
+Нетрадиционная ориентация ООП | https://habrahabr.ru/post/320976/
+
+Маппинг в C# на примере сериализатора для AMF | https://habrahabr.ru/post/320446/
+
+Как создать временный файл на PHP, когда функция tmpfile() не подходит | https://habrahabr.ru/post/320078/
+
+Релиз FFCMS 3.0.0 — новая переработанная система | https://habrahabr.ru/company/ffcms/blog/319788/
+
+Поддержка нестандартного XMPP-протокола с помощью Smack | https://habrahabr.ru/company/simbirsoft/blog/319150/
+
+Проектирование и рефакторинг: по стопам Эвклида | https://habrahabr.ru/post/319022/
+
+Натягиваем ФП на ООП | https://habrahabr.ru/post/318908/
+
+Как я научился не волноваться и полюбил микросервисы, часть 1: Эффекты плохого кода | https://habrahabr.ru/post/318520/
+
+Обертываем алгоритмы в итераторы | https://habrahabr.ru/company/piter/blog/317762/
+
+Как не нужно использовать паттерн Repository | https://habrahabr.ru/post/316836/
+
+Блокировка дубликатов Symfony Сommand | https://habrahabr.ru/post/317258/
+
+Псевдо-инкапсуляция легаси include-ов когда нет времени рефакторить | https://habrahabr.ru/post/316650/
+
+История языков программирования: от BASIC к Visual Basic | https://habrahabr.ru/post/315470/
+
+Правильный полиморфный билдер на Java | https://habrahabr.ru/post/315156/
+
+Разработка модулей для Magento 1.x — большой гайд + видео | https://habrahabr.ru/post/312322/
+
+Какое место занимает язык Scala в ИТ-индустрии | https://habrahabr.ru/post/314308/
+
+Композиция и интерфейсы | https://habrahabr.ru/post/314258/
+
+Паттерн Стратегия на JavaScript | https://habrahabr.ru/post/313392/
+
+Аспект. Найти и инкапсулировать изменчивость на стыке областей | https://habrahabr.ru/post/313954/
+
+Repository Pattern via CSLA .NET | https://habrahabr.ru/post/314110/
+
+Теория категорий на JavaScript. Часть 1. Категория множеств | https://habrahabr.ru/company/cit/blog/313254/
+
+Интеграция внешней объектной системы в Delphi на примере IBM SOM | https://habrahabr.ru/post/313980/
+
+Разбираемся с SOLID: Инверсия зависимостей | https://habrahabr.ru/post/313796/
+
+История языков программирования: C# — впереди планеты всей | https://habrahabr.ru/post/313694/
+
+Критерии простоты | https://habrahabr.ru/post/312950/
+
+«Мир есть совокупность фактов, а не вещей»: Витгенштейн и операционно-ориентированное программирование | https://habrahabr.ru/post/312510/
+
+Удобное создание Composition Root с помощью Autofac | https://habrahabr.ru/post/269479/
+
+Сверхлегкая BDD: малая механизация автономных тестов | https://habrahabr.ru/post/310942/
+
+Наследование реализаций: закопайте стюардессу | https://habrahabr.ru/post/310314/
+
+PHP 7.1: Обзор новых возможностей | https://habrahabr.ru/post/309858/
+
+Null, великий и ужасный | https://habrahabr.ru/post/309462/
+
+30 вредных советов для php-разработчиков | https://habrahabr.ru/post/309450/
+
+ООП будущего: Барух Садогурский и Егор Бугаенко о том, как мы будем программировать через 20 лет | https://habrahabr.ru/company/jugru/blog/308914/
+
+Пример использования policy-based design в С++ вместо копипасты и создания ООП-шых иерархий | https://habrahabr.ru/post/308594/
+
+Вы препарируете труп используя SOLID | https://habrahabr.ru/post/308218/
+
+Elixir: Как выглядит ООП в функциональном языке? | https://habrahabr.ru/post/307720/
+
+Все программисты думают что C++ поддерживает ООП, кроме автора ООП | https://habrahabr.ru/post/307354/
+
+Прощай, объектно-ориентированное программирование | https://habrahabr.ru/company/mailru/blog/307168/
+
+Почему ООП не инкапсуляция, наследование и полиморфизм, или как я научился не волноваться и полюбил разметку | https://habrahabr.ru/post/307040/
+
+Маслобойка | https://habrahabr.ru/post/306782/
+
+О том, как мы на PHP запускали настоящий MS Excel и что из этого вышло | https://habrahabr.ru/post/306408/
+
+Рефлексивное метапрограммирование на Go: цикл for each средствами пакета reflect | https://habrahabr.ru/post/306304/
+
+Простой Dependency Injection в Node.js | https://habrahabr.ru/post/306276/
+
+Как начать разработку крупного, нетипичного проекта. Практическое пособие | https://habrahabr.ru/post/304908/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 2 | https://habrahabr.ru/post/303800/
+
+Язык Go, микросервисы и DevOps – хорошая компания? | https://habrahabr.ru/company/piter/blog/304040/
+
+Реализация интерактивных диаграмм с помощью ООП на примере прототипа редактора UML-диаграмм. Часть 1 | https://habrahabr.ru/post/303794/
+
+Алан Кэй, создатель ООП, про разработку, Лисп и ООП | https://habrahabr.ru/company/hexlet/blog/303754/
+
+Создание блога на Symfony 2.8 lts [ Часть 6] | https://habrahabr.ru/post/303578/
+
+Создание блога на Symfony 2.8 lts [ Часть 5] | https://habrahabr.ru/post/303114/
+
+Немного о Stream API(Java 8) | https://habrahabr.ru/post/302628/
+
+Создание блога на Symfony 2.8 lts [ Часть 4] | https://habrahabr.ru/post/302602/
+
+ООП в JavaScript | https://habrahabr.ru/company/nixsolutions/blog/302518/
+
+Создание блога на Symfony 2.8 lts [ Часть 3 ] | https://habrahabr.ru/post/302438/
+
+Создание блога на Symfony 2.8 lts [ Часть 2 ] | https://habrahabr.ru/post/302032/
+
+Создание блога на Symfony 2.8 lts | https://habrahabr.ru/post/301760/
+
+PHP, статические переменные внутри методов класса и история одного бага | https://habrahabr.ru/post/301478/
+
+Основы синтаксиса TypeScript | https://habrahabr.ru/company/nixsolutions/blog/301002/
+
+С днём рождения, Алан Кейǃ (или как получить +80 к IQ) | https://habrahabr.ru/company/edison/blog/300922/
+
+Entity “фреймворк” для PHP из одного класса | https://habrahabr.ru/post/282844/
+
+Персистентная ОС: ничто не блокируется | https://habrahabr.ru/post/282263/
+
+Слабые[weak] ссылки в новой версии Delphi | https://habrahabr.ru/post/282035/
+
+Особенности и отличия языка программирования MSH от MUMPS | https://habrahabr.ru/post/280938/
+
+Humane VimScript: минималистичная объектная ориентация | https://habrahabr.ru/post/278623/
+
+Еще возитесь с отладкой? | https://habrahabr.ru/company/piter/blog/278567/
+
+Шаблонный метод | https://habrahabr.ru/post/277295/
+
+Реализация функциональности многоуровневого undo/redo на примере прототипа электронной таблицы | https://habrahabr.ru/post/277245/
+
+Сэнди Метц и объектно-ориентированное проектирование в Ruby | https://habrahabr.ru/company/piter/blog/277107/
+
+UFCS в языке программирования D | https://habrahabr.ru/post/277097/
+
+Опыт лекций по введению в шаблоны проектирования | https://habrahabr.ru/post/276699/
+
+Реализация Swift словаря | https://habrahabr.ru/post/275911/
+
+Пример создания веб-приложения с помощью библиотек Vaadin | https://habrahabr.ru/post/275795/
+
+Выходу Dolphin Smalltalk 7 под Open Sourсe посвящается | https://habrahabr.ru/company/pvs-studio/blog/274909/
+
+Open Source Society University | https://habrahabr.ru/post/274789/
+
+Dolphin Smalltalk 7 выходит под open source лицензией MIT | https://habrahabr.ru/post/274289/
+
+От STUPID кода к SOLID коду | https://habrahabr.ru/post/273843/
+
+Disposable без границ | https://habrahabr.ru/post/272497/
+
+Осторожно, истинные контракты классов могут отличаться от формальных | https://habrahabr.ru/post/271533/
+
+Компонентно-ориентированный движок на C# [часть 2] | https://habrahabr.ru/post/271309/
+
+Самая простая и надежная реализация шаблона проектирования Dispose | https://habrahabr.ru/post/270929/
+
+Параллельное программирование в Java8. Создание многопоточных программ с помощью Fork/Join Framework | https://habrahabr.ru/post/270943/
+
+Пример решения типичной ООП задачи на языке Go | https://habrahabr.ru/post/270849/
+
+Компонентно-ориентированный движок на C# | https://habrahabr.ru/post/270825/
+
+Как обойтись почти без исключений, заменив их уведомлениями | https://habrahabr.ru/company/piter/blog/270331/
+
+Как «Змейка» может познакомить с ООП: сложная концепция простыми словами | https://habrahabr.ru/company/geekbrains/blog/268741/
+
+Типы CQRS | https://habrahabr.ru/post/268627/
+
+DTO vs POCO vs Value Object | https://habrahabr.ru/post/268371/
+
+Разделяем интерфейсы для юнит-тестирования | https://habrahabr.ru/company/ivi/blog/256517/
+
+Docker, часть вторая. Полуавтоматическая винтовка с самонаведением на ногу | https://habrahabr.ru/post/267451/
+
+Functional C#: работа с ошибками | https://habrahabr.ru/post/267231/
+
+Functional C#: Non-nullable reference types (ненулевые ссылочные типы) | https://habrahabr.ru/post/267063/
+
+Functional C#: Primitive obsession (одержимость примитивами) | https://habrahabr.ru/post/266937/
+
+Functional C#: Immutability | https://habrahabr.ru/post/266873/
+
+Логируем контекст исключений | https://habrahabr.ru/post/266729/
+
+Как сделать тетрис за полгода на cocos2dx | https://habrahabr.ru/post/265809/
+
+Навигация между экранами с использованием xib файлов | https://habrahabr.ru/post/265723/
+
+Объектный язык ограничений (и немного про метамодели) | https://habrahabr.ru/company/cit/blog/264963/
+
+Природный генетический алгоритм или доказательство эволюции живых организмов на C++ | https://habrahabr.ru/post/264433/
+
+Сделаем GCC C++ для AVR и Arduino лучше? | https://habrahabr.ru/company/amperka/blog/264041/
+
+Удобная сериализация данных с Variadic Templates | https://habrahabr.ru/post/263599/
+
+Пример решения типичной ООП задачи на языке Haskell | https://habrahabr.ru/post/263575/
+
+Про модель, логику, ООП, разработку и остальное | https://habrahabr.ru/post/263025/
+
+Action-Domain-Responder — доработка MVC под задачи веба | https://habrahabr.ru/post/260769/
+
+Прототипы это объекты (и почему это важно) | https://habrahabr.ru/company/hexlet/blog/260427/
+
+Многомерное дерево Mtree | https://habrahabr.ru/post/259855/
+
+Как я нашел лучший в мире язык программирования. Часть 2 | https://habrahabr.ru/post/259841/
+
+Как я нашел лучший в мире язык программирования. Часть 1 | https://habrahabr.ru/post/259831/
+
+Готовимся к собеседованию по PHP: ключевое слово «static» | https://habrahabr.ru/post/259627/
+
+Lua, ООП и ничего лишнего | https://habrahabr.ru/post/259265/
+
+Снова о разработке на основе предметной области (Domain-Driven Design, DDD) | https://habrahabr.ru/post/258693/
+
+Как Валера взял в команду стажера и начал учить его проектированию | https://habrahabr.ru/post/258725/
+
+Концептуальное моделирование: How Many? How Much? | https://habrahabr.ru/post/257217/
+
+Первое знакомство с архитектурой коллекционной карточной игры «Last Argument» | https://habrahabr.ru/post/256889/
+
+Особенности концептуального моделирования предметной области | https://habrahabr.ru/post/256823/
+
+MVC на сервере не бывает | https://habrahabr.ru/post/254279/
+
+Perl 6: nextsame и его родственники | https://habrahabr.ru/post/254787/
+
+Моделирование функциональных и физических событий в логической парадигме | https://habrahabr.ru/post/254445/
+
+Будущее C: ООП | https://habrahabr.ru/post/253274/
+
+Класс объектов или объекты класса? | https://habrahabr.ru/post/252467/
+
+MVC и Модель 2. Знания и обязанности компонентов | https://habrahabr.ru/post/251361/
+
+Антипаттерны проектирования: Functional Decomposition | https://habrahabr.ru/post/251089/
+
+Антипаттерны проектирования: Poltergeists | https://habrahabr.ru/post/217847/
+
+BemPHP: реализация методологии БЭМ средствами PHP | https://habrahabr.ru/post/249629/
+
+На тему моделирования предметной области в терминах ООП | https://habrahabr.ru/post/249193/
+
+Особенности моделирования предметной области с помощью ООП | https://habrahabr.ru/post/249165/
+
+Simple container | https://habrahabr.ru/company/skbkontur/blog/248585/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 5. Тестирование | https://habrahabr.ru/post/248027/
+
+Что-то издали похожее на монады | https://habrahabr.ru/post/247997/
+
+Хук ООП не друг или Динамическое автонаследование классов | https://habrahabr.ru/post/247351/
+
+Краткая заметка про наследование в Node.js | https://habrahabr.ru/post/247325/
+
+Когда использовать ООП, а когда — ФП? | https://habrahabr.ru/post/247285/
+
+Одностраничный магазин на Phalcon PHP + AngularJS. Работа над ошибками | https://habrahabr.ru/post/246733/
+
+Одностраничный магазин с корзиной на Phalcon + AngularJS + Zurb Foundation | https://habrahabr.ru/post/245665/
+
+Особенности внедрения зависимостей в Unity3D | https://habrahabr.ru/post/245589/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 4 Serialization | https://habrahabr.ru/post/245441/
+
+Фабричный метод без размещения в динамической памяти | https://habrahabr.ru/post/244497/
+
+Ответ на Решетчатое наследование | https://habrahabr.ru/post/244257/
+
+Решетчатое наследование | https://habrahabr.ru/post/242649/
+
+От MUMPS к MSH | https://habrahabr.ru/post/241369/
+
+Объекты в JavaScript и создание JS-компонента. Часть 1 | https://habrahabr.ru/post/240375/
+
+Притча о программистах и кодерах | https://habrahabr.ru/post/236863/
+
+Объектно-ориентированная охота на мамонта (записки делопроизводителя) | https://habrahabr.ru/post/236723/
+
+ООБД без ООП | https://habrahabr.ru/post/235725/
+
+MindStream. Как мы пишем ПО под FireMonkey. Часть 2 | https://habrahabr.ru/post/234801/
+
+MindStream. Как мы пишем ПО под FireMonkey | https://habrahabr.ru/post/232955/
+
+Классы в Swift [Часть 1] | https://habrahabr.ru/post/231739/
+
+Variadic Templates, Low Coupling и немного размышлений | https://habrahabr.ru/post/231021/
+
+Метаобъектный протокол Common Lisp на примере реализации прототипной объектной системы | https://habrahabr.ru/post/230619/
+
+Syringe — декларативный IoC Container на PHP | https://habrahabr.ru/post/229879/
+
+Как стать хорошим программистом? | https://habrahabr.ru/post/226461/
+
+Является ли Go языком ООП? | https://habrahabr.ru/post/225907/
+
+Вариантность в программировании | https://habrahabr.ru/post/218753/
+
+Структурная типизация в C# | https://habrahabr.ru/post/218405/
+
+Концепция Абстрактного Типа Данных | https://habrahabr.ru/post/216725/
+
+Шаблоны проектирования PHP. Часть 1. Порождающие | https://habrahabr.ru/post/214285/
+
+Применяем делегирование совместно с наследованием для организации контроллеров действий | https://habrahabr.ru/post/213971/
+
+Особенности реализации MVP для Windows Forms | https://habrahabr.ru/post/211899/
+
+Двадцать тысяч строк кода, которые потрясут мир? | https://habrahabr.ru/post/208474/
+
+Шпаргалка по SOLID-принципам с примерами на PHP | https://habrahabr.ru/post/208442/
+
+Метаклассы в Smalltalk | https://habrahabr.ru/post/207982/
+
+Метаклассы в Objective-C | https://habrahabr.ru/post/207786/
+
+Причуды абстракций | https://habrahabr.ru/company/tiktokcoach/blog/206994/
+
+Объектная гимнастика | https://habrahabr.ru/post/206802/
+
+Паттерны ООП в примерах для iOS | https://habrahabr.ru/post/202960/
+
+Объектный пул и быстрое создание объектов в куче | https://habrahabr.ru/post/205316/
+
+Архитектура агрегаторов: паттерны веб-сервисов (Часть 1) | https://habrahabr.ru/post/204436/
+
+Внутреннее устройство llst, часть 3. Магия JIT, или как ускорить виртуальную машину в 50 раз | https://habrahabr.ru/post/197474/
+
+Что так с ООП и ФП, и что не так с программированием | https://habrahabr.ru/post/201920/
+
+Что не так с ООП и ФП | https://habrahabr.ru/post/201874/
+
+Экзоскелет — быстрая и современная замена Backbone | https://habrahabr.ru/post/198800/
+
+Squeak: Моделирование систем массового обслуживания | https://habrahabr.ru/post/198664/
+
+Active Record против Data Mapper-а для сохранения данных | https://habrahabr.ru/post/198450/
+
+Из опыта создания кружка программирования для детей | https://habrahabr.ru/post/198256/
+
+Правильно программируем. Используем полиморфизм. Общая логика игровых персонажей | https://habrahabr.ru/post/195970/
+
+Живая бифидопрограмма | https://habrahabr.ru/post/192900/
+
+Tell-Don’t-Ask | https://habrahabr.ru/post/192706/
+
+Паттерн Стратегия на Javascript | https://habrahabr.ru/post/191480/
+
+Понимание ООП на джаваскрипте (ES5), часть 2 | https://habrahabr.ru/post/189432/
+
+Геттеры и сеттеры при помощи трейта или сильные стороны PHP | https://habrahabr.ru/post/186420/
+
+Чертежи в SVG формате. Часть 1 — Черновик стандарта | https://habrahabr.ru/post/184958/
+
+Развитие пользовательских типов данных в программировании | https://habrahabr.ru/post/184558/
+
+Backstreet Access To Intersystems Cache' | https://habrahabr.ru/post/183340/
+
+Полиморфизм без виртуальных функций | https://habrahabr.ru/post/182824/
+
+Советы новичкам при проектировании модульных производственных систем | https://habrahabr.ru/post/182132/
+
+Классы в lua, или избавляемся от двоеточия | https://habrahabr.ru/post/182018/
+
+Реляционное отображение коллекций — альтернатива объектно-реляционному отображению? | https://habrahabr.ru/post/181213/
+
+Статические члены класса. Не дай им загубить твой код | https://habrahabr.ru/post/169301/
+
+Когда полиморфизм терпит неудачу | https://habrahabr.ru/post/181041/
+
+Встраивание своей классовой структуры в проект на CodeIgniter | https://habrahabr.ru/post/178749/
+
+Сравнение Angular, Backbone, CanJS и Ember | https://habrahabr.ru/post/177115/
+
+Расширяем класс работы с SOAP на PHP | https://habrahabr.ru/post/171417/
+
+Откуда есть пошел xUnit | https://habrahabr.ru/post/170215/
+
+Зачем нужны паттерны ООП? | https://habrahabr.ru/post/170597/
+
+Business Natural Languages | https://habrahabr.ru/post/169711/
+
+Десять вещей, которые я терпеть не могу в ООП | https://habrahabr.ru/post/169601/
+
+Светский разговор об управляемой тестами выпечке | https://habrahabr.ru/post/168993/
+
+Объектно-дезориентированный язык | https://habrahabr.ru/post/167247/
+
+Шаблоны с переменным количеством аргументов на примере обертки для Lua | https://habrahabr.ru/post/165765/
+
+ООП-билдер «массивных» параметров | https://habrahabr.ru/post/165629/
+
+Внутреннее устройство llst, часть 1. Введение в Smalltalk | https://habrahabr.ru/post/164769/
+
+Индексный доступ к Multibyte-строкам на PHP или изучение ООП на практике | https://habrahabr.ru/post/165107/
+
+LLST: Новая жизнь Little Smalltalk | https://habrahabr.ru/post/164153/
+
+Обучение программированию через игру или как быстро собрать весь мёд | https://habrahabr.ru/post/164229/
+
+Особенности обработки исключений в Windows | https://habrahabr.ru/post/163745/
+
+Использование try — catch для отладки | https://habrahabr.ru/post/163393/
+
+IBM SOM: внешняя объектная система с поддержкой наследования | https://habrahabr.ru/post/159139/
+
+Немного об интерфейсах в .Net (по мотивам одного интервью) | https://habrahabr.ru/post/156037/
+
+Fuelphp в полевых условиях | https://habrahabr.ru/post/156279/
+
+Active Record Pattern | https://habrahabr.ru/post/155545/
+
+FiM++ | https://habrahabr.ru/post/155131/
+
+Генератор SQL запросов на PHP | https://habrahabr.ru/post/154245/
+
+Понимание ООП в JavaScript [Часть 1] | https://habrahabr.ru/company/enterra/blog/153365/
+
+Как два программиста хлеб пекли | https://habrahabr.ru/post/153225/
+
+Data Context Interaction (DCI) — эволюция объектно-ориентированной парадигмы | https://habrahabr.ru/post/151169/
+
+Zend Framework, субъективные впечатления | https://habrahabr.ru/post/150762/
+
+AMatch, часть 2. Коды ошибок, собственные ошибки, новый формат callback | https://habrahabr.ru/post/150039/
+
+Почему все работают с ООП? Кратко о главном или «пища» для размышления | https://habrahabr.ru/post/148088/
+
+«Ровная» объектная модель или чего стоит «синтаксический сахар» | https://habrahabr.ru/post/149882/
+
+Auto dependency injection в Javascript | https://habrahabr.ru/post/149912/
+
+Я, наверное, знаю ООП. Опыт объектно-ориентированного программирования и дизайна. Ответ «не знающим ООП.» | https://habrahabr.ru/post/149096/
+
+Объектно-ориентированное функциональное метапрограммирование | https://habrahabr.ru/post/148899/
+
+Переменные переменных. Свойства свойств. Инициализация данных из суперглобальных массивов легко и просто | https://habrahabr.ru/post/148868/
+
+GC в C++: преодоление соблазна | https://habrahabr.ru/post/148242/
+
+Зачем нам ООП и что это такое | https://habrahabr.ru/post/148015/
+
+Yet another factory | https://habrahabr.ru/post/147942/
+
+Я не знаю ООП | https://habrahabr.ru/post/147927/
+
+Почему ООП не отстой | https://habrahabr.ru/post/147896/
+
+Почему объектно-ориентированное программирование — это отстой | https://habrahabr.ru/post/147890/
+
+FuelPHP год после 1.0 | https://habrahabr.ru/post/147518/
+
+Moose: ООП в Perl | https://habrahabr.ru/post/146442/
+
+Javascript: ООП, прототипы, замыкания, «класс» Timer.js | https://habrahabr.ru/post/144646/
+
+Запрограммируем вакансию | https://habrahabr.ru/post/144603/
+
+Жизнь без объектов | https://habrahabr.ru/post/143620/
+
+Виртуальные функции в C | https://habrahabr.ru/post/138684/
+
+Замыкания и объекты JavaScript. Переизобретаем интерпретатор | https://habrahabr.ru/post/125306/
+
+Коротко об истории объектно-ориентированного программирования | https://habrahabr.ru/post/107940/
+
+Io programming language | https://habrahabr.ru/post/28041/
+

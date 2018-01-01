@@ -1,4 +1,4 @@
-HabrahabrMonitoring
+Habrahabr Crawler
 ===================
 
 TODO !!!

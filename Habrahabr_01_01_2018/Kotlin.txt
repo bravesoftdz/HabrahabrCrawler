@@ -1,0 +1,316 @@
+Полное руководство по Splash Screen на Android | https://habrahabr.ru/post/345380/
+
+Больше чем Java? | https://habrahabr.ru/post/345100/
+
+Защищенность переменных в Kotlin на примере Java | https://habrahabr.ru/post/344864/
+
+Туториал по созданию трекера криптовалют под андроид на Kotlin | https://habrahabr.ru/post/344630/
+
+Вы все еще кодите на Java? Пора измениться | https://habrahabr.ru/post/344540/
+
+Kotlin Night Moscow — видео, фото, презентации | https://habrahabr.ru/company/avito/blog/344146/
+
+Пишем DSL в Koltin | https://habrahabr.ru/post/343730/
+
+Отчет со встречи Android Devs Meetup 22 сентября | https://habrahabr.ru/company/mailru/blog/343656/
+
+Kotlin 1.2: общий код для JVM и JavaScript | https://habrahabr.ru/company/JetBrains/blog/343500/
+
+Наипростейший RESTful сервис на Kotlin и Spring boot | https://habrahabr.ru/post/343364/
+
+Не используйте лямбды в качестве слушателей в Kotlin | https://habrahabr.ru/post/342460/
+
+Kotlin Night Moscow в Avito 25 ноября | https://habrahabr.ru/company/avito/blog/342384/
+
+Современная Android разработка на Kotlin. Часть 1 | https://habrahabr.ru/post/341602/
+
+Android Oreo: чего ждать разработчикам? | https://habrahabr.ru/company/jugru/blog/341896/
+
+Kotlin DSL: Теория и Практика | https://habrahabr.ru/company/haulmont/blog/341402/
+
+Большая миграция | https://habrahabr.ru/company/alfa/blog/340942/
+
+MockK — библиотека для mocking-а в Kotlin | https://habrahabr.ru/post/341202/
+
+От оптимизаций до Machine Learning: интервью с автором Android High Performance Programming | https://habrahabr.ru/company/jugru/blog/340424/
+
+Послевкусие от Kotlin, часть 3. Корутины — делим процессорное время | https://habrahabr.ru/post/339618/
+
+Kakao — как сделать UI тестирование снова великим | https://habrahabr.ru/post/339664/
+
+Kotlin in Action вышел на русском языке | https://habrahabr.ru/company/JetBrains/blog/339400/
+
+Скажи «нет» Electron! Пишем быстрое десктопное приложение на JavaFX | https://habrahabr.ru/post/339382/
+
+Kotlin, puzzlers and 2 Kekses: Вы уверены, что знаете, как ведет себя Kotlin? | https://habrahabr.ru/company/jugru/blog/338924/
+
+30 новых ресурсов для android-разработчика (лето 2017) | https://habrahabr.ru/company/edison/blog/338904/
+
+MBLTdev 2017: хардкорные доклады по Android-разработке | https://habrahabr.ru/company/e-Legion/blog/338816/
+
+iOS+Kotlin. Что можно сделать сейчас | https://habrahabr.ru/post/337958/
+
+Приглашаем на Android Devs Meetup 22 сентября | https://habrahabr.ru/company/mailru/blog/338048/
+
+10 лет Computer Science клубу | https://habrahabr.ru/company/spbau/blog/337720/
+
+Dive into BerkeleyDB JE. Introduction to Collections API | https://habrahabr.ru/post/337024/
+
+Избавляемся от библиотек сохранения состояния фрагмента с помощью чистого kotlin | https://habrahabr.ru/post/336994/
+
+Послевкусие от Kotlin, часть 2 | https://habrahabr.ru/post/337002/
+
+Kotlin: опыт боевого применения | https://habrahabr.ru/company/isdef/blog/336798/
+
+Корутины в Kotlin (гайд) | https://habrahabr.ru/company/alfa/blog/336228/
+
+Dive into BerkeleyDB JE. Introduction to DPL API | https://habrahabr.ru/post/336098/
+
+Retrofit на Android с Kotlin | https://habrahabr.ru/post/336034/
+
+Model-View-Intent и индикатор загрузки/обновления | https://habrahabr.ru/post/335112/
+
+LibGDX + Scene2d (программируем на Kotlin). Часть 2 | https://habrahabr.ru/post/333386/
+
+LibGDX + Scene2d (программируем на Kotlin). Часть 1 | https://habrahabr.ru/post/332298/
+
+Чему я научился, конвертируя проект в Kotlin при помощи Android Studio | https://habrahabr.ru/company/everydaytools/blog/332598/
+
+Зачем мне твои неизменяемые коллекции? Они же медленные | https://habrahabr.ru/company/inforion/blog/332460/
+
+LibGDX + Scene2d (программируем на Kotlin). Часть 0 | https://habrahabr.ru/post/332144/
+
+Kotlin и стоимость разработки игры (+ немного оффтопика) | https://habrahabr.ru/post/331976/
+
+Рассмотрим Kotlin повнимательнее | https://habrahabr.ru/company/mailru/blog/331442/
+
+Послевкусие от Kotlin, часть 1 | https://habrahabr.ru/post/331280/
+
+Почему стоит полностью переходить на Ceylon или Kotlin (часть 2) | https://habrahabr.ru/post/330796/
+
+Почему стоит полностью переходить на Ceylon или Kotlin (часть 1) | https://habrahabr.ru/post/330412/
+
+Kotlin, компиляция в байткод и производительность (часть 2) | https://habrahabr.ru/company/inforion/blog/330064/
+
+Kotlin, компиляция в байткод и производительность (часть 1) | https://habrahabr.ru/company/inforion/blog/330060/
+
+Kotlin и Swift. Новая эпоха в мобильной разработке? | https://habrahabr.ru/post/329870/
+
+Почему следует полностью переходить на Kotlin | https://habrahabr.ru/company/mailru/blog/329294/
+
+Kotlin vs. Java: скорость компиляции | https://habrahabr.ru/company/badoo/blog/329026/
+
+Kotlin для Android: Теперь официально | https://habrahabr.ru/company/JetBrains/blog/329028/
+
+Kotlin — официальный язык разработки под Android. Разбираемся в тонкостях языка на Stepik | https://habrahabr.ru/company/stepic/blog/328946/
+
+Идиоматичный Kotlin, набор хороших практик | https://habrahabr.ru/company/inforion/blog/328218/
+
+Приглашаем на Android Devs Meetup 26 апреля | https://habrahabr.ru/company/mailru/blog/326914/
+
+Kotlin + Rx2: Реактивный и функциональный подход к разработке мобильных приложений | https://habrahabr.ru/company/jugru/blog/325836/
+
+Kotlin для Android: упрощаем работу со слабыми ссылками в асинхронных вызовах | https://habrahabr.ru/post/325966/
+
+Тёмный путь | https://habrahabr.ru/post/324122/
+
+«Скорее всего, будет расти как снежный ком» — Андрей Бреслав и Антон Кекс о Kotlin | https://habrahabr.ru/company/jugru/blog/323562/
+
+Встречайте Kotlin 1.1: JavaScript, корутины и многое другое | https://habrahabr.ru/company/JetBrains/blog/323012/
+
+Асинхронная альтернатива для Kotlin в лице Vert.x | https://habrahabr.ru/post/322406/
+
+Пишем простой DSL на Kotlin в 2 шага | https://habrahabr.ru/company/eastbanctech/blog/322372/
+
+Почему Kotlin отстой | https://habrahabr.ru/post/322256/
+
+Типы сообщений компилятора Kotlin, которые нужно использовать в Suppress | https://habrahabr.ru/post/322026/
+
+Серия видеоуроков по Kotlin | https://habrahabr.ru/post/321600/
+
+Однострочный калькулятор, искусство или порок? | https://habrahabr.ru/post/320830/
+
+Автоматические объекты компилятора | https://habrahabr.ru/post/319692/
+
+Сериализация данных: тест производительности и описание применения | https://habrahabr.ru/post/319604/
+
+Минус одна система аналитики данных | https://habrahabr.ru/post/319504/
+
+FloatingActionMode — панель контекстных действий для Android | https://habrahabr.ru/post/319238/
+
+JetBrains Night в Москве. Видео. Kotlin как первый шаг к JVM | https://habrahabr.ru/company/JetBrains/blog/314826/
+
+Погружение в Async-Await в Android | https://habrahabr.ru/post/314656/
+
+Беглый взгляд на Async-Await в Android | https://habrahabr.ru/post/314574/
+
+Вспомнить всё: Java-конференция JET. 25 апреля 2016. Отчёт №2 | https://habrahabr.ru/post/313484/
+
+DSL для регулярных выражений на Kotlin | https://habrahabr.ru/post/312776/
+
+Язык арифметических выражений с конструкцией let как dsl на Kotlin | https://habrahabr.ru/post/310320/
+
+Kotlin и autoboxing | https://habrahabr.ru/post/309670/
+
+Scala vs Kotlin (перевод) | https://habrahabr.ru/post/308562/
+
+Kotlin: без Best Practices и жизнь не та. Часть 1 | https://habrahabr.ru/post/308312/
+
+Интервью с Барухом Садогурским: идеальный стэк технологий для Enterprise-разработки | https://habrahabr.ru/company/luxoft/blog/302668/
+
+Generics в Kotlin vs. Generics в JAVA: cходства, различия, особенности | https://habrahabr.ru/company/redmadrobot/blog/301174/
+
+Пишем MVP приложение на Kotlin под Android | https://habrahabr.ru/post/275255/
+
+Краткий обзор Kotlin и сравнение с C# | https://habrahabr.ru/post/281759/
+
+Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE | https://habrahabr.ru/post/281473/
+
+Встречайте IntelliJ IDEA 2016.1 | https://habrahabr.ru/company/JetBrains/blog/280019/
+
+Андрей Бреслав и Дмитрий Жемеров о Kotlin 1.0 на jug.msk.ru | https://habrahabr.ru/company/jugru/blog/279667/
+
+[Москва] Встреча с разработчиками Kotlin | https://habrahabr.ru/company/JetBrains/blog/279351/
+
+Видео со встречи JUG.ru с разработчиками языка Kotlin Андреем Бреславом и Дмитрием Жемеровым | https://habrahabr.ru/company/jugru/blog/278647/
+
+Kotlin для начинающих | https://habrahabr.ru/post/278277/
+
+Как себе выстрелить в ногу в Kotlin | https://habrahabr.ru/post/278169/
+
+[Питер] Встреча JUG.ru с разработчиками Kotlin | https://habrahabr.ru/company/jugru/blog/277871/
+
+Немного о Kotlin | https://habrahabr.ru/post/277479/
+
+Kotlin 1.0. Задай вопрос команде | https://habrahabr.ru/company/JetBrains/blog/277573/
+
+Встреча Android-разработчиков, посвящённая языку Kotlin | https://habrahabr.ru/post/277481/
+
+Вышел первый релиз Kotlin 1.0 | https://habrahabr.ru/post/277431/
+
+Новые подкасты о профессиональной разработке под Android | https://habrahabr.ru/company/google/blog/275421/
+
+Анонс шестой встречи Java User Group EKB | https://habrahabr.ru/company/naumen/blog/275285/
+
+Пишем простой RESTful сервис на kotlin и spring boot | https://habrahabr.ru/post/274997/
+
+Готовим rutracker на spring и kotlin | https://habrahabr.ru/post/274713/
+
+Kotlin ❤ FP | https://habrahabr.ru/post/268463/
+
+Kotlin и свои почти языковые конструкции | https://habrahabr.ru/post/266817/
+
+Щупаем Kotlin (и чуть-чуть Gradle) на примере Отправлялки-длинных-твитов (открытые исходники) | https://habrahabr.ru/post/263657/
+
+Kotlin для Android | https://habrahabr.ru/post/258683/
+
+Анонс конференции Mobius 2015: доклады по iOS, Android и Mobile Security | https://habrahabr.ru/company/jugru/blog/250081/
+
+Дайджест интересных материалов для мобильного разработчика #88 (26 января-1 февраля) | https://habrahabr.ru/post/249411/
+
+Пример приложения с использованием библиотеки AQuery | https://habrahabr.ru/company/surfingbird/blog/248647/
+
+Практический пример переиспользования кода, как повысить качество и ускорить разработку | https://habrahabr.ru/company/e-Legion/blog/246201/
+
+Казуальные игры на Libgdx, тонкие моменты в разработке | https://habrahabr.ru/post/246185/
+
+Трилатерация c помощью iBeacon | https://habrahabr.ru/company/e-Legion/blog/245593/
+
+Современные способы аутентификации и безопасность iOS-устройств | https://habrahabr.ru/company/e-Legion/blog/245367/
+
+Дайджест интересных материалов для мобильного разработчика #82 (1-7 декабря) | https://habrahabr.ru/post/245181/
+
+Kotlin для Android, или лёгкий способ перестать программировать на Java | https://habrahabr.ru/company/e-Legion/blog/244999/
+
+#MBLTDev 2014 глазами простого iOS-разработчика из Тинькофф Банка | https://habrahabr.ru/company/tinkoff/blog/242815/
+
+Возвращение Джокера: как прошла главная российская Java-конференция | https://habrahabr.ru/company/jugru/blog/241816/
+
+Опубликована финальная программа конференции мобильных разработчиков #MBLTDev | https://habrahabr.ru/company/e-Legion/blog/241203/
+
+TeaVM — ещё один способ запускать Java в браузере | https://habrahabr.ru/post/240999/
+
+Вторая волна спикеров на конференцию мобильных разработчиков #MBTLDev | https://habrahabr.ru/company/e-Legion/blog/240457/
+
+Статистика Github | https://habrahabr.ru/post/235689/
+
+Полезные материалы для мобильного разработчика #64 (28 июня-3 августа) | https://habrahabr.ru/post/232017/
+
+Пишем на Kotlin под Android | https://habrahabr.ru/company/JetBrains/blog/231525/
+
+Интервью с Дино Эспозито, автором книги «Microsoft .NET: Architecting applications for the enterprise» | https://habrahabr.ru/company/luxoft/blog/231331/
+
+Hackathon@JetBrains 2014 | https://habrahabr.ru/company/JetBrains/blog/230007/
+
+DevConf::Mobi — уже на следующей неделе 14 июня, сформирована программа секции | https://habrahabr.ru/company/devconf/blog/225537/
+
+DevConf::Mobi 2014 — Голосуем сегодня за интересные доклады — формируем программу конференции сами | https://habrahabr.ru/company/devconf/blog/224233/
+
+Мы провели Kotlin Challenge: что в финале? | https://habrahabr.ru/company/JetBrains/blog/222693/
+
+Знакомство с Kotlin и сборка jar при помощи maven | https://habrahabr.ru/post/221269/
+
+DevConf 2014 пройдет 14 июня в Москве — соберутся более 1000 разработчиков из сообществ | https://habrahabr.ru/company/devconf/blog/221185/
+
+Обзор докладов конференции JPoint 2014 | https://habrahabr.ru/company/jugru/blog/218601/
+
+Проблемы с кодом? Помогите команде писать лучший код. Советы от Дино Эспозито | https://habrahabr.ru/company/luxoft/blog/215345/
+
+Upsource: новая платформа от JetBrains | https://habrahabr.ru/company/JetBrains/blog/196860/
+
+(Почти) все доклады конференции Joker 2013 | https://habrahabr.ru/company/jugru/blog/196196/
+
+Новая олимпиада по новому языку: открываем регистрацию | https://habrahabr.ru/company/JetBrains/blog/195852/
+
+День открытых дверей в офисе JetBrains собирает профессионалов-разработчиков отовсюду | https://habrahabr.ru/company/JetBrains/blog/183770/
+
+Kotlin M5.3: Delegated Properties | https://habrahabr.ru/company/JetBrains/blog/183444/
+
+JavaOne Russia или бенефис Куксенко с Шипилёвым. Отчет о конференции | https://habrahabr.ru/post/178889/
+
+Разработчик Smalltalk для JVM собирает средства для завершения разработки версии 1.0 | https://habrahabr.ru/post/170413/
+
+Прожектор прошедших событий. Выпуск №2 | https://habrahabr.ru/company/it_dominanta/blog/169947/
+
+Реализация yield в Kotlin | https://habrahabr.ru/post/168571/
+
+Вышел Kotlin M5 | https://habrahabr.ru/company/JetBrains/blog/168265/
+
+Как Kotlin получил 11 контрибьюторов из четырех университетов | https://habrahabr.ru/company/JetBrains/blog/166523/
+
+Вышел Kotlin M4 | https://habrahabr.ru/company/JetBrains/blog/161327/
+
+Встреча FProg 2012-12 в Петербурге | https://habrahabr.ru/company/JetBrains/blog/161743/
+
+Дайджест новостей JetBrains с 11 сентября по 9 октября | https://habrahabr.ru/company/JetBrains/blog/154149/
+
+Играем с коднэймами | https://habrahabr.ru/company/JetBrains/blog/152545/
+
+Вышел Kotlin M3 | https://habrahabr.ru/company/JetBrains/blog/152126/
+
+О языке Kotlin для Java-программистов | https://habrahabr.ru/post/150104/
+
+Видео с конференции ScalaDev | https://habrahabr.ru/company/e-Legion/blog/146950/
+
+Выпуск №77 — The Art Of Programming [ Java Learning ] JRebel | https://habrahabr.ru/post/146614/
+
+Scala-конференция в Петербурге через 4 дня | https://habrahabr.ru/company/e-Legion/blog/143890/
+
+Вторая Scala-конференция в Петербурге | https://habrahabr.ru/company/e-Legion/blog/143418/
+
+Андрей Бреслав — Язык Kotlin для платформы Java | https://habrahabr.ru/company/JetBrains/blog/143218/
+
+JetBrains представила язык Kotlin на конференции JavaOne Russia 2012 | https://habrahabr.ru/company/JetBrains/blog/142417/
+
+Вышел Kotlin версии M1 (0.1.2090) | https://habrahabr.ru/post/141973/
+
+Немного про повторное использование объектов | https://habrahabr.ru/post/138271/
+
+Kotlin теперь OpenSource | https://habrahabr.ru/post/138197/
+
+JetBrains показали исходные коды Kotlin | https://habrahabr.ru/post/138184/
+
+Веб-редактор кода на Kotlin, с примерами и компиляцией в JavaScript | https://habrahabr.ru/company/JetBrains/blog/136033/
+
+Расширяем C# с помощью Roslyn. Безопасные вызовы | https://habrahabr.ru/post/133340/
+

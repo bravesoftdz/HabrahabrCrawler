@@ -1,0 +1,1934 @@
+Анализ логов СКУД с помощью Splunk | https://habrahabr.ru/company/tssolution/blog/345412/
+
+Hadoop 3.0: краткий обзор новых возможностей | https://habrahabr.ru/company/it-grad/blog/344596/
+
+Предсказываем отток с помощью нейросети | https://habrahabr.ru/company/plarium/blog/345310/
+
+Как предсказать курс рубля к доллару при помощи SAP Predictive Analytics | https://habrahabr.ru/company/sap/blog/345108/
+
+Avito Product Analytics Meetup — видео, фото, слайды | https://habrahabr.ru/company/avito/blog/344990/
+
+Big Data в Hadoop по подписке в облаке SAP | https://habrahabr.ru/company/sap/blog/344720/
+
+R и Информационная безопасность. Как устранить противоречие интересов и запустить R на Linux в оффлайн-режиме | https://habrahabr.ru/post/345000/
+
+Лекции Техносферы. Нейронные сети в машинном обучении | https://habrahabr.ru/company/mailru/blog/344982/
+
+Глубокое обучение при помощи Spark и Hadoop: знакомство с Deeplearning4j | https://habrahabr.ru/company/piter/blog/344824/
+
+Построение процесса бизнес-анализа в проектах по разработке BI-приложений с продвинутой визуализацией | https://habrahabr.ru/post/344654/
+
+Системы ИИ в 2018: шесть прогнозов | https://habrahabr.ru/company/it-grad/blog/344590/
+
+Greenplum 5: первые шаги в Open Source | https://habrahabr.ru/company/ibs/blog/343640/
+
+Airflow Workshop: сложные DAG’и без костылей | https://habrahabr.ru/company/mailru/blog/344398/
+
+Об итогах конкурса MERC-2017: интервью с победителями | https://habrahabr.ru/company/neurodatalab/blog/344268/
+
+Как построить классификатор изображений на основе предобученной нейронной сети | https://habrahabr.ru/post/344222/
+
+Цифровой маркетинг в режиме одного окна: разбираем облачные продукты SAS | https://habrahabr.ru/company/sas/blog/343860/
+
+Об итогах конкурса MERC-2017: победители и комментарии | https://habrahabr.ru/company/neurodatalab/blog/343850/
+
+Анализируй это — Lenta.ru | https://habrahabr.ru/post/343838/
+
+Введение в обучение с подкреплением: от многорукого бандита до полноценного RL агента | https://habrahabr.ru/company/newprolab/blog/343834/
+
+AlphaGo Zero совсем на пальцах | https://habrahabr.ru/post/343590/
+
+Анализ Cisco CDR и логов Microsoft Exchange Server c помощью Splunk | https://habrahabr.ru/company/tssolution/blog/343420/
+
+Стоит ли использовать табличную модель SSAS? | https://habrahabr.ru/post/342862/
+
+Avito Product Analytics Meetup 9 декабря: анонс | https://habrahabr.ru/company/avito/blog/343388/
+
+SAS: мы анализировали данные и обучали модели задолго до того, как это стало модным | https://habrahabr.ru/company/sas/blog/343140/
+
+Как работают дата-центры: сегодня и завтра | https://habrahabr.ru/company/vps_house/blog/343282/
+
+Машинный интеллект ищет ответы на загадки Вселенной. Как — расскажем на открытом семинаре AI@MIPT | https://habrahabr.ru/company/mipt/blog/343146/
+
+Коллективный портрет участников конкурса MERC-2017 | https://habrahabr.ru/company/neurodatalab/blog/342990/
+
+Миграция с мэйнфреймов: как убедить руководство? | https://habrahabr.ru/company/tmaxsoft/blog/342948/
+
+Как мы создавали новый тип тарифов «Включайся» | https://habrahabr.ru/company/megafon/blog/342638/
+
+Топ-3 анонсов с NetApp Insight 2017 | https://habrahabr.ru/company/dataline/blog/342484/
+
+Таргетирование приложения «Модератор Одноклассников» | https://habrahabr.ru/company/odnoklassniki/blog/342400/
+
+29 ноября, Харьков: доклад «Analytics in a Gaming Company: Big Data Architecture and Tools» | https://habrahabr.ru/company/plarium/blog/342290/
+
+Обнаружение птиц с помощью Azure ML Workbench | https://habrahabr.ru/company/microsoft/blog/342056/
+
+Использование R для «промышленной» разработки | https://habrahabr.ru/post/342254/
+
+Как мозг бьет дерево, или как мы сделали рекомендательную систему с помощью нейронной сети | https://habrahabr.ru/company/qiwi/blog/339454/
+
+Digital Transformation: Начало | https://habrahabr.ru/company/microsoft/blog/341854/
+
+ИИ на Физтехе: цифровая экономика, блокчейн, чат-боты и вот это всё | https://habrahabr.ru/company/mipt/blog/341962/
+
+Глобальная теплокарта Strava: теперь в 6 раз горячее | https://habrahabr.ru/post/341900/
+
+Приглашаем на Sberbank Data Science Day 11 ноября | https://habrahabr.ru/company/sberbank/blog/341814/
+
+R, Asterisk и платяной шкаф | https://habrahabr.ru/post/341668/
+
+Проведение выборов с помощью блокчейна, идентификация пользователя по голосу и приложение для онлайн-собеседований | https://habrahabr.ru/company/innopolis_university/blog/341520/
+
+Отличие DAX и MDX | https://habrahabr.ru/post/341478/
+
+Анонс Moscow Spark #3 | https://habrahabr.ru/company/rambler-co/blog/341394/
+
+Поддержка SAP HANA: новые возможности | https://habrahabr.ru/company/fujitsu/blog/341340/
+
+«5П»: О качестве данных и распространенных ошибках при их сборе | https://habrahabr.ru/post/341316/
+
+Хронология уровня CO в атмосфере США (решение задачи Kaggle с помощью Python+Feature Engineering) | https://habrahabr.ru/post/341130/
+
+Числа и буквы: как прошла конференция SmartData | https://habrahabr.ru/company/jugru/blog/341086/
+
+1-я лабораторная работа программы Data Engineer | https://habrahabr.ru/company/newprolab/blog/341022/
+
+“Главный вызов — это кадровый голод” — панельная дискуссия о подборе команд по работе с данными. Data Science Week 2017 | https://habrahabr.ru/company/newprolab/blog/340806/
+
+Большие данные и машинное обучение: новые возможности для медицины | https://habrahabr.ru/company/spbifmo/blog/340668/
+
+“Без data engineer-а ценность модели аналитика стремится к нулю” — интервью с дата инженером Николаем Марковым | https://habrahabr.ru/company/newprolab/blog/340582/
+
+Используем Apache Ignite в быту | https://habrahabr.ru/company/gridgain/blog/339866/
+
+Открытая трансляция из главного зала SmartData 2017: речь не про решения — речь про эволюцию | https://habrahabr.ru/company/jugru/blog/340402/
+
+Старт конкурса MERC-2017 от Neurodata Lab | https://habrahabr.ru/company/neurodatalab/blog/340454/
+
+Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем | https://habrahabr.ru/company/alconost/blog/340372/
+
+Настройка папок отображения в табличной модели SSAS 2016 | https://habrahabr.ru/post/340286/
+
+А вы уже применяете R в бизнесе? | https://habrahabr.ru/post/340316/
+
+Введение в архитектуры нейронных сетей | https://habrahabr.ru/company/oleg-bunin/blog/340184/
+
+Почему DataScientist-ы не используют ошибки первого и второго рода | https://habrahabr.ru/post/340048/
+
+Machine Learning: где деньги лежат? | https://habrahabr.ru/company/jugru/blog/340026/
+
+Data Science Week 2017. Обзор второго и третьего дня | https://habrahabr.ru/company/newprolab/blog/339956/
+
+Что должен знать о поиске каждый разработчик | https://habrahabr.ru/company/alconost/blog/339894/
+
+Обзор фреймворка Luigi для построения последовательностей выполнения задач | https://habrahabr.ru/company/otus/blog/339904/
+
+Хабр посоветуй: как выиграть олимпиаду НТИ для школьников по профилю «Большие данные» | https://habrahabr.ru/company/goto/blog/339050/
+
+В поисках разума: можно ли сделать “универсальный” чат-бот с помощью нейронных сетей? | https://habrahabr.ru/company/meanotek/blog/339872/
+
+Когда лучше не использовать глубинное обучение | https://habrahabr.ru/post/339840/
+
+[Перевод] Как я учился прогать ИИ последние два месяца | https://habrahabr.ru/company/edison/blog/339760/
+
+Multimodal Emotion Recognition Challenge by Neurodata Lab | https://habrahabr.ru/company/neurodatalab/blog/339532/
+
+Airflow — инструмент, чтобы удобно и быстро разрабатывать и поддерживать batch-процессы обработки данных | https://habrahabr.ru/company/mailru/blog/339392/
+
+Вести с полей больших и умных данных: программа конференции SmartData 2017 Piter | https://habrahabr.ru/company/jugru/blog/339398/
+
+Распознавание дорожных знаков с помощью CNN: Spatial Transformer Networks | https://habrahabr.ru/company/newprolab/blog/339484/
+
+Создатель Open Data Science о Slack, xgboost и GPU | https://habrahabr.ru/company/jugru/blog/339386/
+
+3 кейса применения анализа данных в сфере недвижимости. Data Science Week 2017. Обзор. Часть 1 | https://habrahabr.ru/company/newprolab/blog/339116/
+
+Apache® Ignite™ + Persistent Data Store — In-Memory проникает на диски. Часть I — Durable Memory | https://habrahabr.ru/company/gridgain/blog/338606/
+
+Запуск регулярных задач на кластере или как подружить Apache Spark и Oozie | https://habrahabr.ru/post/338952/
+
+Материалы с VLDB, конференции о будущем баз данных | https://habrahabr.ru/company/avito/blog/338180/
+
+MVP системы рекомендаций для GitHub за неделю | https://habrahabr.ru/post/338550/
+
+PowerShell для ИТ-безопасности. Часть IV: платформа безопасности с использованием скриптов | https://habrahabr.ru/company/varonis/blog/338848/
+
+«Короли математики»: аналитика Big Data в банке. Проект ГАУСС в ВТБ | https://habrahabr.ru/company/vtb/blog/338810/
+
+«Человек» искусства: способен ли искусственный интеллект творить? | https://habrahabr.ru/company/neurodatalab/blog/337624/
+
+Достижения в глубоком обучении за последний год | https://habrahabr.ru/company/mailru/blog/338248/
+
+Три идеи, как повысить эффективность разработки: итоги хакатона по Machine Learning в СберТехе | https://habrahabr.ru/company/sberbank/blog/338426/
+
+Go для больших данных | https://habrahabr.ru/company/intel/blog/338002/
+
+Как мы обучали приложение Яндекс.Такси предсказывать пункт назначения | https://habrahabr.ru/company/yandex/blog/337328/
+
+Первый в России OpenHack от Microsoft (то есть от нас) | https://habrahabr.ru/company/microsoft/blog/338146/
+
+4 причины стать Data Engineer | https://habrahabr.ru/company/newprolab/blog/337938/
+
+Китай сделал новый ход в гонке суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/337898/
+
+Apache Ignite 2.1 — теперь со вкусом Persistence | https://habrahabr.ru/company/gridgain/blog/335294/
+
+Метавычисления и глубокие свёрточные сети: интервью с профессором ИТМО | https://habrahabr.ru/company/jugru/blog/337392/
+
+Data Science Week 2017: Рынок становится всё более зрелым | https://habrahabr.ru/company/newprolab/blog/337466/
+
+Data Science: Про любовь, имена и не только. Часть II | https://habrahabr.ru/company/odnoklassniki/blog/337368/
+
+Какой язык программирования выбрать для работы с данными? | https://habrahabr.ru/post/337330/
+
+Передаю привет разработчикам компании Yandex | https://habrahabr.ru/company/pvs-studio/blog/337182/
+
+BigDL: глубинное обучение — к услугам пользователей больших данных и исследователей данных | https://habrahabr.ru/company/intel/blog/337056/
+
+Bigdata стек глазами воинствующего ораклойда | https://habrahabr.ru/post/337128/
+
+Big Data и Одноклассники: как поступают с данными во 2-й по посещаемости соцсети в России | https://habrahabr.ru/company/jugru/blog/336866/
+
+Data Science: Про любовь, имена и не только | https://habrahabr.ru/company/odnoklassniki/blog/336390/
+
+Приглашаем на Moscow Data Science Meetup 1 сентября | https://habrahabr.ru/company/mailru/blog/336128/
+
+Российские девушки в Data Science. Часть 1 | https://habrahabr.ru/company/newprolab/blog/336256/
+
+Машинное обучение: от Ирисов до Телекома | https://habrahabr.ru/company/billing/blog/334738/
+
+Измеряем динамику упоминания сущностей в информационном поле | https://habrahabr.ru/post/336144/
+
+Зачем изучать Spark? | https://habrahabr.ru/company/epam_systems/blog/336090/
+
+Цифровая экономика и экосистема R | https://habrahabr.ru/post/335576/
+
+Школа Данных: хорошее мы сделали еще лучше | https://habrahabr.ru/company/dataschool/blog/335394/
+
+Интерактивные рекоммендеры: как создавать, как работают | https://habrahabr.ru/company/epam_systems/blog/335114/
+
+R c H2O на Spark в HDInsight | https://habrahabr.ru/post/334898/
+
+Распределенное обучение нейронных сетей с MXNet. Часть 1 | https://habrahabr.ru/post/334968/
+
+10 типов структур данных, которые нужно знать + видео и упражнения | https://habrahabr.ru/company/netologyru/blog/334914/
+
+Поиск лучшего места в мире для ветряка | https://habrahabr.ru/post/334804/
+
+Генератор кликов на Python для программы Data Engineer | https://habrahabr.ru/company/newprolab/blog/334756/
+
+Распознавание дорожных знаков с помощью CNN: Инструменты для препроцессинга изображений | https://habrahabr.ru/company/newprolab/blog/334618/
+
+R и большие данные: использование Replyr | https://habrahabr.ru/post/334398/
+
+Данные: красивые и ужасные | https://habrahabr.ru/company/cloud4y/blog/334234/
+
+«Data mining сейчас — это преимущество на рынке»: о конференции SmartData и больших данных | https://habrahabr.ru/company/jugru/blog/334174/
+
+Отчет с Science Slam Digital 7 июля | https://habrahabr.ru/company/mailru/blog/333814/
+
+Анализируем карьеру игроков NHL с помощью Survival Regression и Python | https://habrahabr.ru/company/newprolab/blog/333628/
+
+Как тысячи игроков Eve Online помогают в расшифровке человеческого тела | https://habrahabr.ru/post/333528/
+
+Машинное обучение и поиск темной материи: соревнование от ЦЕРНа и Яндекса | https://habrahabr.ru/company/yandex/blog/333490/
+
+Запись с 1 млн нейронов: новые планы DARPA | https://habrahabr.ru/company/it-grad/blog/332828/
+
+Знакомьтесь, Apache BookKeeper — реплицируемый сервис журналов | https://habrahabr.ru/post/332686/
+
+Лекция о двух библиотеках Яндекса для работы с большими данными | https://habrahabr.ru/company/yandex/blog/332688/
+
+Moneyball на бирже: как новые технологии меняют не только трейдинг, но и работу хедж-фондов | https://habrahabr.ru/company/itinvest/blog/332520/
+
+Выбор алгоритма вычисления квантилей для распределённой системы | https://habrahabr.ru/company/badoo/blog/332568/
+
+Анонс Moscow Spark #2 | https://habrahabr.ru/company/rambler-co/blog/332546/
+
+Big Data в Райффайзенбанке | https://habrahabr.ru/company/raiffeisenbank/blog/332496/
+
+Про аналитику и серебряные пули или «При чем здесь Рамблер/топ-100?» | https://habrahabr.ru/company/rambler-co/blog/332202/
+
+Шесть мифов о Big Data | https://habrahabr.ru/company/netologyru/blog/332184/
+
+Доступ к ClickHouse с помощью JDBC | https://habrahabr.ru/post/332112/
+
+Apache Spark: из open source в индустрию | https://habrahabr.ru/company/netologyru/blog/331728/
+
+SmartData — новая конференция по большим и умным данным от JUG.ru Group | https://habrahabr.ru/company/jugru/blog/331686/
+
+Apache Cassandra + Apache Ignite — как совместить лучшее | https://habrahabr.ru/company/gridgain/blog/329736/
+
+Динамическое создание кластера Apache NiFi | https://habrahabr.ru/post/331444/
+
+Полезные функции Google Таблиц, которых нет в Excel | https://habrahabr.ru/post/331360/
+
+Материалы студенческой школы «Recent Advances in Algorithms» | https://habrahabr.ru/company/spbau/blog/331286/
+
+Отчет с Moscow Data Science Meetup 31 мая | https://habrahabr.ru/company/mailru/blog/331074/
+
+Data Science meetup в офисе Avito 24 июня | https://habrahabr.ru/company/avito/blog/331054/
+
+Apache Spark как ядро проекта. Часть 2. Streaming, и на что мы напоролись | https://habrahabr.ru/post/330986/
+
+AgeHack — первый онлайн-хакатон по продлению жизни на платформе MLBootCamp | https://habrahabr.ru/company/mailru/blog/330960/
+
+Dropout — метод решения проблемы переобучения в нейронных сетях | https://habrahabr.ru/company/wunderfund/blog/330814/
+
+Поддержка исследователей в области Deep Learning | https://habrahabr.ru/company/newprolab/blog/330820/
+
+ГИС и распределенные вычисления | https://habrahabr.ru/company/technoserv/blog/330758/
+
+Диалектика нейронного машинного перевода | https://habrahabr.ru/post/330654/
+
+Распределенные структуры данных (часть 2, как это сделано) | https://habrahabr.ru/company/gridgain/blog/328368/
+
+Бесплатные билеты на In-Memory Computing Summit 2017 – Europe | https://habrahabr.ru/company/gridgain/blog/330464/
+
+По дороге с облаками. Реляционные базы данных в новом технологическом контексте | https://habrahabr.ru/company/piter/blog/330364/
+
+Наука о нейронных сетях. Прямой эфир | https://habrahabr.ru/company/microsoft/blog/329922/
+
+О чем говорят женщины? (Text mining of beauty blogs) | https://habrahabr.ru/company/lanit/blog/329892/
+
+Оценка качества алгоритмов распознавания лиц | https://habrahabr.ru/company/ntechlab/blog/329412/
+
+Apache Ignite 2.0 — Machine Learning, новая модель хранения данных, DDL | https://habrahabr.ru/company/gridgain/blog/329318/
+
+Упущенные возможности BigData | https://habrahabr.ru/post/329390/
+
+8 навыков, необходимых в профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329234/
+
+Как стать специалистом по Data science: итоги открытого семинара в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/329220/
+
+Обзор профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329068/
+
+Для чего нужен Apache Ignite / GridGain, на примере .NET & C# | https://habrahabr.ru/company/gridgain/blog/325830/
+
+Дисциплина, точность, внимание к деталям, часть вторая (OLAP, SSAS) | https://habrahabr.ru/post/328688/
+
+Deep Learning против рака. Конкурс Intel | https://habrahabr.ru/company/intel/blog/328424/
+
+Проблемы современного Data Science | https://habrahabr.ru/company/dataschool/blog/328556/
+
+Рост автономных платформ обработки данных или еще раз про Big Data | https://habrahabr.ru/company/parallels/blog/328572/
+
+United Dev Conf 2017: итоги и полезные материалы | https://habrahabr.ru/post/328452/
+
+Введение в OpenCV применительно к распознаванию линий дорожной разметки | https://habrahabr.ru/company/newprolab/blog/328422/
+
+Часть 3. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/328004/
+
+Часть 2. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327947/
+
+Часть 1. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327836/
+
+Отчет с Data Fest⁴ 11-12 февраля | https://habrahabr.ru/company/mailru/blog/324078/
+
+Видеозапись вебинара «Julia — A fresh approach to numerical computing and data science» | https://habrahabr.ru/company/flyelephant/blog/327608/
+
+Конфигурирование Spark на YARN | https://habrahabr.ru/company/newprolab/blog/327556/
+
+Школа данных: можно ли с помощью Big Data влиять на выборы | https://habrahabr.ru/company/dataschool/blog/327528/
+
+Спортивный анализ данных, или как стать специалистом по data science | https://habrahabr.ru/company/yandex/blog/327444/
+
+Видеозаписи докладов конференции AI&BigDataLab за последние три года | https://habrahabr.ru/company/flyelephant/blog/327390/
+
+Как мы построили облачную инфраструктуру обработки данных для кросс-продуктовой аналитики | https://habrahabr.ru/company/skyeng/blog/327088/
+
+Приглашаем на IV конференцию по практическому применению науки о данных DataScience Lab 13 мая | https://habrahabr.ru/company/flyelephant/blog/327238/
+
+Machine Learning Boot Camp IV. Четвертый. Секретный. Твой | https://habrahabr.ru/company/mailru/blog/326860/
+
+Дайджест Университета ИТМО: материалы для тех, кто хочет влиться в Data Science | https://habrahabr.ru/company/spbifmo/blog/326894/
+
+Как мы делали ML Boot Camp III | https://habrahabr.ru/company/mailru/blog/326752/
+
+International Space Apps Challenge: хакатон от NASA | https://habrahabr.ru/company/microsoft/blog/326812/
+
+«Big Data — это понятно и просто» — интервью с руководителем проектов по большим данным в QIWI Сергеем Чеканским | https://habrahabr.ru/company/newprolab/blog/326762/
+
+Data science и качественный код | https://habrahabr.ru/post/326656/
+
+Быстрая загрузка данных из файлов в R | https://habrahabr.ru/post/326616/
+
+RStudio Connect — «фейслифтинг» Shiny для корпоративного применения | https://habrahabr.ru/post/326238/
+
+Курсы Computer Science клуба, весна 2017 | https://habrahabr.ru/company/spbau/blog/326064/
+
+Быстрый старт: обзор основных Deep Learning фреймворков | https://habrahabr.ru/company/newprolab/blog/325818/
+
+Кинетика больших кластеров | https://habrahabr.ru/post/325798/
+
+Митап по Apache Spark | https://habrahabr.ru/company/rambler-co/blog/325622/
+
+7 кейсов использования технологий Big Data в сфере производства | https://habrahabr.ru/company/newprolab/blog/325550/
+
+У компании есть еще похожие вакансии | https://habrahabr.ru/company/superjob/blog/325014/
+
+Интеграция XML данных — другой путь | https://habrahabr.ru/post/325186/
+
+Frontera: архитектура фреймворка для обхода веба и текущие проблемы | https://habrahabr.ru/post/325154/
+
+«Пятый элемент» в экосистеме R. WYSIWYG интерфейс для аналитиков | https://habrahabr.ru/post/325108/
+
+Обзор Data Science Weekend | https://habrahabr.ru/company/newprolab/blog/324622/
+
+Зашифрованные почтовые сервисы: что выбрать? | https://habrahabr.ru/company/netologyru/blog/324618/
+
+«Сложную архитектуру очень просто сделать» — интервью с Олегом Анастасьевым из Одноклассников | https://habrahabr.ru/company/jugru/blog/324424/
+
+Использование ArcGIS API for Python в Jupyter Notebook | https://habrahabr.ru/company/technoserv/blog/324124/
+
+Data Science Weekend. Презентации спикеров | https://habrahabr.ru/company/newprolab/blog/324082/
+
+Superjob Data Science Meetup (отчет, презентации, видео) | https://habrahabr.ru/company/superjob/blog/323350/
+
+Вебинар: Julia — A fresh approach to numerical computing and data science | https://habrahabr.ru/company/flyelephant/blog/323840/
+
+Обзор буткэмпов в области data science за рубежом | https://habrahabr.ru/company/newprolab/blog/323796/
+
+ВВС США используют нейроморфный чип IBM для обнаружения танков и наземных систем ПВО | https://habrahabr.ru/company/ibm/blog/323722/
+
+Учиться можно увлекательно, учиться можно эффективно | https://habrahabr.ru/company/newprolab/blog/323564/
+
+Дисциплина, Точность, Внимание к деталям | https://habrahabr.ru/post/323276/
+
+Power BI Embedded, IoT и машинное обучение для обработки термограмм мозга | https://habrahabr.ru/company/microsoft/blog/323200/
+
+Vertica+Anchor Modeling = запусти рост своей грибницы | https://habrahabr.ru/company/avito/blog/322510/
+
+Superjob Data Science Meetup. Прямая трансляция | https://habrahabr.ru/company/superjob/blog/323058/
+
+Тонкости R. Как минута час экономит | https://habrahabr.ru/post/322890/
+
+Data Science Weekend 3-4 марта | https://habrahabr.ru/company/newprolab/blog/322708/
+
+Big Data: большие возможности или большой обман | https://habrahabr.ru/company/1cloud/blog/322670/
+
+Аналитические данные за пределами аналитики в Wrike | https://habrahabr.ru/company/wrike/blog/322366/
+
+Будут ли data scientist’ы в ближайшее время заменены автоматизированными алгоритмами и искусственным интеллектом? | https://habrahabr.ru/company/newprolab/blog/322414/
+
+Мифы о CAP теореме | https://habrahabr.ru/post/322276/
+
+Книга «Основы Data Science и Big Data. Python и наука о данных» | https://habrahabr.ru/company/piter/blog/322194/
+
+R в enterprise задачах. Хитрости и трюки | https://habrahabr.ru/post/322066/
+
+Superjob Data Science Meetup | https://habrahabr.ru/company/superjob/blog/321950/
+
+Данные лучше, чем нефть, или шестой набор на программу по big data | https://habrahabr.ru/company/newprolab/blog/321918/
+
+Распределённый xargs, или Исполнение гетерогенных приложений на Hadoop-кластере | https://habrahabr.ru/company/badoo/blog/321692/
+
+Вебинар: Введение в Singularity | https://habrahabr.ru/company/flyelephant/blog/321808/
+
+Мультифакторный анализатор деятельности произвольного предприятия на IEM-платформе | https://habrahabr.ru/company/ultima/blog/321704/
+
+Черновик книги Эндрю Ына «Жажда машинного обучения», главы 1-7 | https://habrahabr.ru/post/321368/
+
+Техносфере Mail.Ru — три года | https://habrahabr.ru/company/mailru/blog/321360/
+
+Kaggle и Linux. Digit Recognizer for analysts (для начинающих аналитиков) | https://habrahabr.ru/post/321350/
+
+История разработки TWIME — нового высокоскоростного интерфейса Московской Биржи | https://habrahabr.ru/company/moex/blog/321280/
+
+Как платформа SAP HANA работает с большими данными | https://habrahabr.ru/company/sap/blog/321156/
+
+Скоро открытие ML Boot Camp III | https://habrahabr.ru/company/mailru/blog/321016/
+
+Приглашаем на Data Fest⁴ 11 и 12 февраля | https://habrahabr.ru/company/mailru/blog/320978/
+
+Azure понятным языком [Шпаргалка] | https://habrahabr.ru/company/microsoft/blog/320544/
+
+Разница между статистикой и наукой о данных | https://habrahabr.ru/company/piter/blog/320772/
+
+Crowd разработка скоринговой системы для IEM системы | https://habrahabr.ru/company/ultima/blog/320598/
+
+Зачем нужно еще больше дата-центров: сегодня и завтра аналитики больших данных | https://habrahabr.ru/company/contell/blog/320514/
+
+Обзор Knime Analytics Platform — open source системы для анализа данных | https://habrahabr.ru/post/320500/
+
+3 главных тренда в мире ИИ в 2017 году | https://habrahabr.ru/company/gvalg/blog/320424/
+
+Самые популярные слова в двух терабайтах кода | https://habrahabr.ru/post/320256/
+
+Обзор рынка труда в области big data и data science | https://habrahabr.ru/company/newprolab/blog/320336/
+
+Производительность сети малой латентности InfiniBand на виртуальном кластере HPC HUB | https://habrahabr.ru/company/hpchub/blog/319940/
+
+Сравнение производительности аналитических СУБД HPE Vertica и Exasol с использованием TPC-H Benchmark | https://habrahabr.ru/post/319902/
+
+Машинное обучение — это легко | https://habrahabr.ru/post/319288/
+
+С чего начать внедрение Hadoop в компании | https://habrahabr.ru/company/oleg-bunin/blog/319138/
+
+Hadoop From Scratch | https://habrahabr.ru/post/319048/
+
+Школа Данных «Билайн»: с Наступающим | https://habrahabr.ru/company/beeline/blog/318820/
+
+8 JavaScript библиотек для визуализации данных в виде интерактивных карт | https://habrahabr.ru/post/318600/
+
+Быстрый Data Mining или сравнение производительности C# vs Python (pandas-numpy-skilearn) | https://habrahabr.ru/post/318484/
+
+Система отслеживания степени заледенелости улиц: машинное обучение + Microsoft Azure + Android | https://habrahabr.ru/post/318470/
+
+Сравнение производительности аналитической СУБД Exasol и Oracle In-Memory Option | https://habrahabr.ru/post/318416/
+
+Еще 12 big data кейсов | https://habrahabr.ru/company/newprolab/blog/318208/
+
+Создайте свой сервер AWS S3 с открытым кодом | https://habrahabr.ru/post/318086/
+
+Масштабирование ClickHouse, управление миграциями и отправка запросов из PHP в кластер | https://habrahabr.ru/company/smi2/blog/317682/
+
+Обзор (и видеозаписи) лучших докладов Java-конференции JPoint 2016: BigData, кишки JVM и паззлеры | https://habrahabr.ru/company/jugru/blog/317764/
+
+Система хранения для миллиардов записей с доступом по ключу | https://habrahabr.ru/post/317874/
+
+Как мы запускали программу Deep Learning | https://habrahabr.ru/company/newprolab/blog/317766/
+
+Вебинар: Введение в Data Science | https://habrahabr.ru/company/flyelephant/blog/317690/
+
+Предсказание тяжести страховых требований для компании Allstate. Дипломный проект нашего выпускника | https://habrahabr.ru/company/newprolab/blog/317246/
+
+Нелинейная регрессия в Apache Spark. Разрабатываем своими руками | https://habrahabr.ru/post/316988/
+
+«До чего дошел прогRесс». Замена «умственного» труда механическим процессом на базе R | https://habrahabr.ru/post/317130/
+
+Опрос Data Science Tools | https://habrahabr.ru/company/flyelephant/blog/317020/
+
+Как мы участвовали в HR-хакатоне. Наши выпускники делятся своим решением и впечатлениями от участия | https://habrahabr.ru/company/newprolab/blog/316616/
+
+Разработка динамических REST-сервисов на документо-ориентированной БД Bagri | https://habrahabr.ru/post/315392/
+
+[Питер, анонс] Встреча JUG.ru с Андреем Ершовым: «Как мы делали телефонную платформу с использованием GridGain» | https://habrahabr.ru/company/jugru/blog/316306/
+
+О том почему «открытые данные Сбербанка» это не открытые данные и что нам с этим делать | https://habrahabr.ru/company/infoculture/blog/316186/
+
+FlyElephant празднует первый год работы в публичном доступе и анонсирует сотрудничество с HPC-HUB | https://habrahabr.ru/company/flyelephant/blog/316146/
+
+data.table: выжимаем максимум скорости при работе с данными в языке R | https://habrahabr.ru/company/microsoft/blog/316032/
+
+Маленький код для больших данных или Apache Spark за 3 дня | https://habrahabr.ru/post/316088/
+
+Встреча любителей больших данных и искусства | https://habrahabr.ru/company/dca/blog/315904/
+
+«Вечная флешка»: как создать надежный носитель, который сохранит данные на тысячи лет | https://habrahabr.ru/company/fpi_russia/blog/315886/
+
+Еще примеры использования R для решения практических бизнес-задач | https://habrahabr.ru/post/315870/
+
+Программа по Deep Learning | https://habrahabr.ru/company/newprolab/blog/315598/
+
+Искусственный интеллект, вызовы и риски – глазами инженера | https://habrahabr.ru/company/bitrix/blog/315484/
+
+Приглашаем на Moscow Data Science Meetup 25 ноября | https://habrahabr.ru/company/mailru/blog/314942/
+
+Класс удаленного прокси — это не (очень) больно | https://habrahabr.ru/company/intersystems/blog/314774/
+
+12 кейсов по биг дате: подтвержденные примеры из индустрии, когда биг дата приносит деньги | https://habrahabr.ru/company/newprolab/blog/314926/
+
+Рекомендации на основе изображений товаров | https://habrahabr.ru/post/314490/
+
+Как запустить ClickHouse своими силами и выиграть джекпот | https://habrahabr.ru/company/smi2/blog/314558/
+
+Как подружить Bagri и MongoDB | https://habrahabr.ru/post/312626/
+
+Интервью с вице-президентом по технологической стратегии компании MapR | https://habrahabr.ru/post/313390/
+
+Много ли надо, чтобы сделать стартап с использованием больших данных и ИИ? | https://habrahabr.ru/company/newprolab/blog/313162/
+
+MapReduce из подручных материалов. Часть III – собираем все вместе | https://habrahabr.ru/company/intersystems/blog/312338/
+
+Создание разделяемого хранилища на базе CEPH RBD и GFS2 | https://habrahabr.ru/company/hpchub/blog/312652/
+
+Применение R для подготовки и передачи «живой» аналитики другим бизнес-подразделениям | https://habrahabr.ru/post/312632/
+
+Как собрать биграммы для корпуса любого размера на домашнем компьютере | https://habrahabr.ru/post/312490/
+
+Как писать меньше кода для MR, или Зачем миру ещё один язык запросов? История Yandex Query Language | https://habrahabr.ru/company/yandex/blog/312430/
+
+Сравнение аналитических in-memory баз данных | https://habrahabr.ru/company/tinkoff/blog/310620/
+
+Когда старый MapReduce лучше нового Tez | https://habrahabr.ru/company/mailru/blog/312194/
+
+Школа Данных «Билайн», на Неве | https://habrahabr.ru/company/beeline/blog/311924/
+
+Многоуровневый подход NoSQL к обеспечению безопасности больших данных | https://habrahabr.ru/company/gemaltorussia/blog/311666/
+
+Обзор курсов по Deep Learning | https://habrahabr.ru/company/newprolab/blog/311812/
+
+Речевая аналитика как инструмент управления KPI контакт-центра. Кейс «Ростелеком» | https://habrahabr.ru/company/speechpro/blog/311790/
+
+MapReduce из подручных материалов. Часть II – базовые интерфейсы реализации | https://habrahabr.ru/company/intersystems/blog/310196/
+
+Запрягаем R на службу бизнесу на «1-2-3» | https://habrahabr.ru/post/311330/
+
+Что такое большие данные, часть 3 | https://habrahabr.ru/post/311460/
+
+Виртуальный суперкомпьютер по требованию | https://habrahabr.ru/company/hpchub/blog/311394/
+
+Data Science Week 2016. Обзор третьего и четвертого дня | https://habrahabr.ru/company/newprolab/blog/311348/
+
+Видеозапись вебинара «Инструменты для работы Data Scientist» | https://habrahabr.ru/company/flyelephant/blog/311318/
+
+Измеряем производительность кэша Apache Ignite | https://habrahabr.ru/post/311140/
+
+Welcome to Spark… on Java: Интервью с Евгением Борисовым | https://habrahabr.ru/company/jugru/blog/311146/
+
+Книга «Spark для профессионалов: современные паттерны обработки больших данных» | https://habrahabr.ru/company/piter/blog/311114/
+
+YT: зачем Яндексу своя MapReduce-система и как она устроена | https://habrahabr.ru/company/yandex/blog/311104/
+
+Data Science Week 2016. Обзор первого и второго дня | https://habrahabr.ru/company/newprolab/blog/311024/
+
+Spring Boot стартер для Apache Ignite своими руками | https://habrahabr.ru/post/310672/
+
+Работа с топологией Apache Ignite | https://habrahabr.ru/post/310464/
+
+Новое в нашей программе по big data и три стипендии на обучение | https://habrahabr.ru/company/newprolab/blog/310546/
+
+CIKM Cup 2016 – международное соревнование в области Data Science | https://habrahabr.ru/company/dca/blog/310494/
+
+Вам не хватает скорости R? Ищем скрытые резервы | https://habrahabr.ru/post/310472/
+
+Знакомство с Apache Ignite: первые шаги | https://habrahabr.ru/post/310334/
+
+Вебинар: Инструменты для работы Data Scientist | https://habrahabr.ru/company/flyelephant/blog/309992/
+
+Bagri — NoSQL база данных с открытым кодом, построенная поверх распределенного кэша | https://habrahabr.ru/post/310110/
+
+Применение R для работы с утверждением «Кто виноват? Конечно ИТ!» | https://habrahabr.ru/post/310108/
+
+Data Science Week 2016. Презентации спикеров | https://habrahabr.ru/company/newprolab/blog/310102/
+
+11 текстов, которые помогут разобраться в больших данных | https://habrahabr.ru/company/surfingbird/blog/309902/
+
+Как мы искали компромисс между точностью и полнотой в конкретной задаче ML | https://habrahabr.ru/company/hh/blog/309792/
+
+Твоя Data такая большая: Введение в Spark на Java | https://habrahabr.ru/company/jugru/blog/309776/
+
+III Международная конференция АI Ukraine, 8-9 октября, Харьков | https://habrahabr.ru/company/flyelephant/blog/309736/
+
+Обзор HPE Vertica 8 (Frontloader) | https://habrahabr.ru/post/309550/
+
+Джентельменский набор пакетов R для автоматизации бизнес-задач | https://habrahabr.ru/post/309420/
+
+Игорь Илюнин: «Заказчик попросил собрать команду, которой не нашел в Кремниевой долине» | https://habrahabr.ru/company/dataart/blog/309360/
+
+Экосистема R как инструмент для автоматизации бизнес-задач | https://habrahabr.ru/post/309350/
+
+Batch Normalization для ускорения обучения нейронных сетей | https://habrahabr.ru/post/309302/
+
+Инструменты Data Science как альтернатива классической интеграции ИТ систем | https://habrahabr.ru/post/309246/
+
+Data Science Week 2016 | https://habrahabr.ru/company/dca/blog/309244/
+
+Обсуждение инструментов аналитики для работы с большими данными в Питере 14 сентября | https://habrahabr.ru/company/wrike/blog/309196/
+
+Книга об интенсивной обработке данных | https://habrahabr.ru/company/piter/blog/309106/
+
+Data Science Week 2016. Форум о технологиях работы с данными | https://habrahabr.ru/company/newprolab/blog/309004/
+
+Что такое большие данные, часть 2 | https://habrahabr.ru/post/308586/
+
+Big Data хакатон от Университета Иннополис и компании Provectus | https://habrahabr.ru/company/innopolis_university/blog/308578/
+
+R и Spark | https://habrahabr.ru/post/308534/
+
+«Мои друзья потеряли меня из виду на 3 месяца» или как люди учатся у нас big data | https://habrahabr.ru/company/newprolab/blog/308424/
+
+Встреча любителей больших данных | https://habrahabr.ru/company/dca/blog/308122/
+
+Дино Эспозито на uDev Tech Events: «Life as a Service: Scalability and other Aspects» | https://habrahabr.ru/company/plarium/blog/307900/
+
+Работа с фреймворком итеративной обработки графов Giraph на примере RBM | https://habrahabr.ru/company/mailru/blog/306362/
+
+Flume — управляем потоками данных. Часть 3 | https://habrahabr.ru/company/dca/blog/305932/
+
+Кого агрегирует Meduza? | https://habrahabr.ru/post/305546/
+
+Пересечение морд доменов топ 1,000,000 по N-граммам | https://habrahabr.ru/post/307250/
+
+Deep Learning — что же делать, кого бить | https://habrahabr.ru/company/bitrix/blog/307024/
+
+Сообщество экспертов, совместная работа над проектами и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/306494/
+
+Strata + Hadoop 2016 review | https://habrahabr.ru/company/badoo/blog/306208/
+
+Артём Геллер будет ментором финального хакатона «BudgetApps» | https://habrahabr.ru/company/infoculture/blog/305972/
+
+Создание собственного приложения для обработки графов в Giraph | https://habrahabr.ru/company/mailru/blog/305924/
+
+Big Data от A до Я. Часть 5.2: Продвинутые возможности hive | https://habrahabr.ru/company/dca/blog/305838/
+
+Что такое большие данные, часть 1 | https://habrahabr.ru/post/305738/
+
+Spark Summit 2016: обзор и впечатления | https://habrahabr.ru/company/wrike/blog/304570/
+
+Нейронные сети на Javascript | https://habrahabr.ru/post/304414/
+
+Как стать специалистом в области «больших данных»? | https://habrahabr.ru/company/huawei/blog/304226/
+
+Отчет с Moscow Data Science Meetup 27 мая | https://habrahabr.ru/company/mailru/blog/303452/
+
+Dell Storage SC9000: интеллектуальная система хранения для эффективного дата-центра | https://habrahabr.ru/company/dellemc/blog/303796/
+
+Big Data головного мозга | https://habrahabr.ru/post/303802/
+
+Выбор детского сада в Москве | https://habrahabr.ru/post/303622/
+
+Итоги Black Box Challenge | https://habrahabr.ru/company/dca/blog/303286/
+
+Яндекс открывает ClickHouse | https://habrahabr.ru/company/yandex/blog/303282/
+
+Школа Данных «Билайн», без перерыва на лето | https://habrahabr.ru/company/beeline/blog/303182/
+
+Граф цитирования статей Хабрахабра | https://habrahabr.ru/post/302430/
+
+Импортозамещение в сфере систем хранения данных: где искать российские решения? | https://habrahabr.ru/post/303012/
+
+Курс молодого бойца для Spark/Scala | https://habrahabr.ru/company/retailrocket/blog/302828/
+
+Наблюдаем за пользователем – два типа timestamp | https://habrahabr.ru/post/302620/
+
+Облачный дайджест #6: Работа с данными и безопасность | https://habrahabr.ru/post/302236/
+
+Технологии фондового рынка: 10 заблуждений о нейронных сетях | https://habrahabr.ru/company/itinvest/blog/302120/
+
+Перепись российского и русскоязычного сообщества по открытым данным | https://habrahabr.ru/company/infoculture/blog/302140/
+
+Работа с данными: Как это делают крупные компании | https://habrahabr.ru/company/1cloud/blog/302124/
+
+Всероссийская инженерная олимпиада для старшеклассников: BigData и Интеллектуальные энергетические системы | https://habrahabr.ru/post/283430/
+
+Не мы такие — жизнь такая: Тематический анализ для самых нетерпеливых | https://habrahabr.ru/company/surfingbird/blog/301922/
+
+R в Microsoft Azure для победы на хакатоне. Инструкция по применению | https://habrahabr.ru/post/301176/
+
+Анонс: 8 июня пройдет виртуальный форум Microsoft «Данные. Технологии. SQL Server 2016» | https://habrahabr.ru/company/microsoft/blog/301024/
+
+Выбор школы в Москве the hard way | https://habrahabr.ru/post/283564/
+
+Как работает кросс-девайс реклама: сложности и перспективы развития технологии | https://habrahabr.ru/company/dca/blog/283512/
+
+Ожидания направлений развития в сфере хранения и обработки данных до 2020 года. Основные тренды | https://habrahabr.ru/company/ua-hosting/blog/283160/
+
+Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce | https://habrahabr.ru/company/dca/blog/283212/
+
+Объектное хранилище NetApp StorageGrid | https://habrahabr.ru/post/279743/
+
+Укрощаем слона или что такое HUE | https://habrahabr.ru/post/283242/
+
+Как дата-центры меняются прямо сейчас: Энергоэффективность, хранение данных и «облака» | https://habrahabr.ru/company/1cloud/blog/283044/
+
+Интернет пчел, или Зеленое будущее M2M приложений | https://habrahabr.ru/company/gemaltorussia/blog/282786/
+
+Big Data: «Серебряная пуля» или еще один инструмент | https://habrahabr.ru/company/1cloud/blog/282560/
+
+Приглашаем на конференцию по искусственному интеллекту и большим данным AI&BigData Lab 4 июня | https://habrahabr.ru/company/flyelephant/blog/282558/
+
+Производительность Apache Parquet | https://habrahabr.ru/post/282552/
+
+Какие факторы влияют на производительность систем хранения и как? | https://habrahabr.ru/company/ua-hosting/blog/282469/
+
+Книга «От хранения данных к управлению информацией» | https://habrahabr.ru/company/piter/blog/282367/
+
+Flume — управляем потоками данных. Часть 2 | https://habrahabr.ru/company/dca/blog/281933/
+
+Palantir: Объектная модель | https://habrahabr.ru/company/edison/blog/281733/
+
+Как выиграть в игру с неизвестными правилами? | https://habrahabr.ru/company/dca/blog/281707/
+
+Этого не будет в BI (Купив BI tool, вы этого не получите) | https://habrahabr.ru/post/281703/
+
+Предсказание оттока игроков из World of Tanks от Yandex Data Factory. Лекция для Малого ШАДа | https://habrahabr.ru/company/yandex/blog/281777/
+
+Интернет вещей (IoT) – вызовы новой реальности | https://habrahabr.ru/company/gemaltorussia/blog/281619/
+
+Динамическая онтология. Как инженеры Palantir объясняют это ЦРУ, АНБ и военным | https://habrahabr.ru/company/edison/blog/281118/
+
+Киберконтрразведка. Как Palantir может «сноуденов» ловить | https://habrahabr.ru/company/edison/blog/281112/
+
+Data Lake – от теории к практике. Методы интеграции данных Hadoop и корпоративного DWH | https://habrahabr.ru/company/tinkoff/blog/281196/
+
+Анатомия взлома: Sony | https://habrahabr.ru/company/varonis/blog/281126/
+
+Palantir: как обнаружить ботнет | https://habrahabr.ru/company/edison/blog/280930/
+
+Метрика рекомендательной системы imhonet.ru | https://habrahabr.ru/company/dca/blog/281066/
+
+Как большим операторам зарабатывать большие деньги на больших данных? | https://habrahabr.ru/company/huawei/blog/280980/
+
+Palantir: торговля оружием и распространение пандемии | https://habrahabr.ru/company/edison/blog/280444/
+
+Прием докладов на конференцию по искусственному интеллекту и большим данным AI&BigData Lab | https://habrahabr.ru/company/flyelephant/blog/280760/
+
+Big Data от А до Я. Часть 4: Hbase | https://habrahabr.ru/company/dca/blog/280700/
+
+Блеск и нищета Big Data | https://habrahabr.ru/post/280474/
+
+Flume — управляем потоками данных. Часть 1 | https://habrahabr.ru/company/dca/blog/280386/
+
+Четыре слова, которые нельзя (исследование русской обсценной лексики на материалах соц.медиа) | https://habrahabr.ru/company/palitrumlab/blog/280450/
+
+Palantir и отмывание денег | https://habrahabr.ru/company/edison/blog/280434/
+
+Визуализация инструментов обработки данных с Github | https://habrahabr.ru/post/280412/
+
+Школа Данных «Билайн»: весна, знания, новый курс | https://habrahabr.ru/company/beeline/blog/280300/
+
+Ученые создали нейросеть, распознающую «пьяные» сообщения в Twitter | https://habrahabr.ru/post/280186/
+
+Fbi Detected: Как я обнаружил агентов ФБР | https://habrahabr.ru/post/280065/
+
+Логическая витрина для доступа к большим данным | https://habrahabr.ru/post/280051/
+
+Как нельзя делать рекомендации контента | https://habrahabr.ru/company/surfingbird/blog/279909/
+
+Как Big Data используют для анализа фондового рынка | https://habrahabr.ru/company/itinvest/blog/279963/
+
+Как использовать Parquet и не поскользнуться | https://habrahabr.ru/company/wrike/blog/279797/
+
+1 000 000 жилых домов России | https://habrahabr.ru/post/279833/
+
+Строим надёжный процессинг данных — лямбда архитектура внутри Google BigQuery | https://habrahabr.ru/post/279491/
+
+BDRA – современная архитектура для аналитики больших данных | https://habrahabr.ru/company/hpe/blog/279247/
+
+Анализ результатов выборов в Госдуму. Готовимся к голосованию 2016 года | https://habrahabr.ru/post/279157/
+
+А нужно ли знать программисту алгоритмы? | https://habrahabr.ru/post/279093/
+
+Эксперимент: Использование Google Trends для прогнозирования обвалов фондового рынка | https://habrahabr.ru/company/itinvest/blog/279021/
+
+Знакомьтесь, линейные модели | https://habrahabr.ru/post/278513/
+
+IBM и X Prize Foundation объявили конкурс по искусственному интеллекту с призовым фондом в $5 млн | https://habrahabr.ru/company/ibm/blog/278887/
+
+Уроки участия в хакатоне «Dota Science» в рамках «Data Fest 2» | https://habrahabr.ru/post/278785/
+
+Работа с приватными репозиториями и другие обновления платформы FlyElephant | https://habrahabr.ru/company/flyelephant/blog/278751/
+
+Введение в практическую аналитику, или что общего у нейронных сетей с таблетками для похудения | https://habrahabr.ru/post/278409/
+
+Разбираемся с войной нейронных сетей (GAN) | https://habrahabr.ru/post/278425/
+
+Где и у кого учиться робототехнике, управлению большими данными, качественной разработке ПО | https://habrahabr.ru/company/innopolis_university/blog/278183/
+
+Онлайн-конференция на Ярмарке вакансий для ИТшников | https://habrahabr.ru/company/hh/blog/277851/
+
+Как устроен Relap.io — сервис, который выдает 30 миллиардов рекомендаций в месяц | https://habrahabr.ru/company/surfingbird/blog/277559/
+
+О пользе технологий больших данных в повседневной жизни | https://habrahabr.ru/company/odnoklassniki/blog/277527/
+
+Специализация по машинному обучению на Coursera от Физтеха и Яндекса | https://habrahabr.ru/company/yandex/blog/277427/
+
+Глубокое обучение в гараже — Возвращение смайлов | https://habrahabr.ru/post/277403/
+
+Сервис «Kimono» закрывается | https://habrahabr.ru/post/277361/
+
+Глубокое обучение в гараже — Братство данных | https://habrahabr.ru/post/277267/
+
+Применение машинного обучения в сфере финтеха | https://habrahabr.ru/company/payonline/blog/276821/
+
+Когнитивные вычисления – работа быстрее мысли | https://habrahabr.ru/company/ibm/blog/276855/
+
+Школа Данных «Билайн», для менеджеров | https://habrahabr.ru/company/beeline/blog/276749/
+
+AI, BigData & HPC Digest #4 | https://habrahabr.ru/company/flyelephant/blog/276677/
+
+Знакомство с Apache Spark | https://habrahabr.ru/company/piter/blog/276675/
+
+Рекомендации на потоке | https://habrahabr.ru/company/econtenta/blog/276661/
+
+Как уменьшить количество измерений и извлечь из этого пользу | https://habrahabr.ru/post/275273/
+
+Автоматизированный доступ к SharePoint. Как облегчить работу администратора и установить контроль за раздачей прав | https://habrahabr.ru/company/varonis/blog/276561/
+
+Хабра-граф, -сообщества и куда же делась вся карма | https://habrahabr.ru/post/276383/
+
+Дозиметр в интернете вещей: составляем карту радиоактивных зон для себя и всего мира | https://habrahabr.ru/company/promwad/blog/276467/
+
+Все погодные аномалии 2015 года за 8 минут | https://habrahabr.ru/post/276473/
+
+Что сегодня обсуждают эксперты по Data Science и Big Data | https://habrahabr.ru/company/1cloud/blog/276399/
+
+Census Analyzer 1.0: новый инструмент для анализа данных | https://habrahabr.ru/company/JetBrains/blog/276361/
+
+Хакатон по анализу открытых данных пользователей социальной сети ВКонтакте. Для школьников и первокурсников | https://habrahabr.ru/post/276079/
+
+Кто встречал Новый Год вместе с россиянами? | https://habrahabr.ru/company/megafon/blog/276107/
+
+TensorFlow и логистическая регрессия | https://habrahabr.ru/post/276093/
+
+Используем Apache Spark как SQL Engine | https://habrahabr.ru/company/wrike/blog/275567/
+
+FlyElephant как инструмент для вычислений на C++, R, Python или Octave | https://habrahabr.ru/company/flyelephant/blog/275571/
+
+Параллельные алгоритмы для обработки BigData: подводные камни и непростые решения | https://habrahabr.ru/company/bitrix/blog/275455/
+
+Школа Данных «Билайн», каникулы закончились | https://habrahabr.ru/company/beeline/blog/274921/
+
+Revolution R переименован в Microsoft R и доступен бесплатно для разработчиков и студентов | https://habrahabr.ru/post/275113/
+
+Новые инструменты (Octave и Scilab) во FlyElephant и анонс вебинаров | https://habrahabr.ru/company/flyelephant/blog/274883/
+
+Spark local mode: обработка больших файлов на обычном ноутбуке | https://habrahabr.ru/post/274705/
+
+AI, BigData & HPC Digest #3 | https://habrahabr.ru/company/flyelephant/blog/274335/
+
+Numpy и многопроцессорность | https://habrahabr.ru/post/274331/
+
+Фестиваль Данных в музее Москвы, как это было | https://habrahabr.ru/company/beeline/blog/274205/
+
+Dell Solutions Forum 2015: как это было | https://habrahabr.ru/company/dellemc/blog/158771/
+
+Полуавтоматическая классификация сайтов | https://habrahabr.ru/post/265431/
+
+Интерактивная карта клиентов — Apache Spark Streaming и Яндекс.Карты | https://habrahabr.ru/company/bitrix/blog/274041/
+
+Про участие в хакатоне от Билайна | https://habrahabr.ru/post/273831/
+
+Hub AI&BigData meetup #1 | https://habrahabr.ru/company/flyelephant/blog/273825/
+
+Data Driven Realtime Rule Engine в Wargaming: сбор данных | https://habrahabr.ru/company/wargaming/blog/273607/
+
+Scalding: повод перейти с Java на Scala | https://habrahabr.ru/post/273611/
+
+Поиск потенциальных фолловеров в Твиттере | https://habrahabr.ru/post/273531/
+
+Оптимизация гиперпараметров в Vowpal Wabbit с помощью нового модуля vw-hyperopt | https://habrahabr.ru/company/dca/blog/272697/
+
+Эволюция структур данных в Яндекс.Метрике | https://habrahabr.ru/company/yandex/blog/273305/
+
+Фестиваль данных в музее Москвы, или как Big Data помогает жить и работать | https://habrahabr.ru/company/beeline/blog/273117/
+
+Релиз mongodb 3.2 немного подробностей | https://habrahabr.ru/post/192870/
+
+Математические тайны «больших данных» | https://habrahabr.ru/company/ua-hosting/blog/272883/
+
+Школа Данных «Билайн», приоткрываем занавес | https://habrahabr.ru/company/beeline/blog/272799/
+
+MongoDB как средство мониторинга LOG-файлов | https://habrahabr.ru/company/at_consulting/blog/272651/
+
+Palantir 101. Что позволено знать простым смертным о второй по крутоcти частной компании в Кремниевой Долине | https://habrahabr.ru/post/271883/
+
+Под капотом Redis: Хеш таблица (часть 2) и Список | https://habrahabr.ru/post/272089/
+
+Kudu – новый движок хранения данных в экосистеме Hadoop | https://habrahabr.ru/post/272267/
+
+Устойчивая красота неприличных моделей | https://habrahabr.ru/post/272201/
+
+Новость позвала в дорогу: сверхбыстрый энергоэффективный оптический сопроцессор для больших данных | https://habrahabr.ru/post/272255/
+
+Тонкости перевода: как волонтёры, ABBYY LS и IBS переводят на русский курсеровскую специализацию Data Science | https://habrahabr.ru/company/ibs/blog/272143/
+
+Data Modelling and Databases для первокурсника | https://habrahabr.ru/company/innopolis_university/blog/272235/
+
+Архитектура и технологические подходы к обработке BigData на примере «1С-Битрикс BigData: Персонализация» | https://habrahabr.ru/company/bitrix/blog/272041/
+
+Под капотом Redis: Хеш таблица (часть 1) | https://habrahabr.ru/post/271205/
+
+Data Science Skills | https://habrahabr.ru/post/271085/
+
+Запись данных в Teradata c помощью DML | https://habrahabr.ru/post/271735/
+
+Анонс онлайн-курсов Технопарка, Техносферы и Технотрека на Stepic | https://habrahabr.ru/company/mailru/blog/271971/
+
+Кружки при московских школах. Какие, сколько стоят, влияют ли на результаты ЕГЭ | https://habrahabr.ru/post/271923/
+
+Exasol: опыт использования в Badoo | https://habrahabr.ru/company/badoo/blog/271753/
+
+Сравнительный анализ покупательских корзин | https://habrahabr.ru/company/datawiz/blog/271757/
+
+Яндекс анонсирует собственную технологию прогнозирования погоды Метеум. С точностью до дома | https://habrahabr.ru/company/yandex/blog/271725/
+
+Анализ изменения цен в российских интернет-магазинах | https://habrahabr.ru/post/270895/
+
+Хакатон по машинному обучению: Прийти. Обучить модель. Победить | https://habrahabr.ru/post/271697/
+
+IBM Watson научили обсуждать проблемы мирового уровня | https://habrahabr.ru/company/ibm/blog/271589/
+
+Apache Spark как ядро проекта. Часть 1 | https://habrahabr.ru/post/271375/
+
+Приглашаем на Moscow Data Science 27 ноября | https://habrahabr.ru/company/mailru/blog/271499/
+
+Параллельный парсинг большого количества HTML-страниц с помощью Apache Ignite (GridGain) в 200 строк кода | https://habrahabr.ru/post/271475/
+
+Под капотом Redis: Строки | https://habrahabr.ru/post/271487/
+
+Анализ резюме с HeadHunter. Кто сколько зарабатывает и в каких отраслях работает | https://habrahabr.ru/post/271407/
+
+Big data как арт-искусство | https://habrahabr.ru/post/271001/
+
+Isilon.Next — как Big Data СХД стала больше, облачнее и мягче* | https://habrahabr.ru/company/dellemc/blog/271043/
+
+Power Query: стероиды для MS Excel и Power BI | https://habrahabr.ru/post/271019/
+
+Титаник на Kaggle: вы не дочитаете этот пост до конца | https://habrahabr.ru/company/mlclass/blog/270973/
+
+Как мы участвовали в Smart Data Hack. Headhunter и Труд всем | https://habrahabr.ru/post/270921/
+
+DataTalks #4: Предсказательная аналитика | https://habrahabr.ru/company/wargaming/blog/270791/
+
+Новая версия HP Vertica Экскаватор (7.2) | https://habrahabr.ru/post/270755/
+
+Исследование результатов ЕГЭ, ГИА и олимпиад для московских школ. Из каких школ в какие ВУЗы поступают | https://habrahabr.ru/post/270675/
+
+«Большие данные» — это скучно? | https://habrahabr.ru/company/megafon/blog/270515/
+
+Как мы учим машинному обучению и анализу данных в «Билайн» | https://habrahabr.ru/company/beeline/blog/270619/
+
+Highload Dev Conf'2015 прошла 17 октября в Минске | https://habrahabr.ru/post/270583/
+
+Kaggle: определение тональности текстов | https://habrahabr.ru/company/mlclass/blog/270591/
+
+Анализ покупательских корзин в ритейле | https://habrahabr.ru/company/datawiz/blog/270503/
+
+Big data от А до Я. Часть 3: Приемы и стратегии разработки MapReduce-приложений | https://habrahabr.ru/company/dca/blog/270453/
+
+Как устроена профессия «Data Scientist» | https://habrahabr.ru/company/1cloud/blog/270347/
+
+Обзор первого эластичного хранилища данных Snowflake Elastic Data Warehouse | https://habrahabr.ru/company/lifestreet/blog/270167/
+
+О проектах на открытых данных, поиске финансирования общественных проектов и об открытых данных о госфинансах | https://habrahabr.ru/company/infoculture/blog/270127/
+
+Майкл Стоунбрейкер — Hadoop на распутье | https://habrahabr.ru/post/270017/
+
+Анализ истории Lastfm в контексте перехода на Яндекс.Музыку | https://habrahabr.ru/post/269941/
+
+Введение в RapidMiner | https://habrahabr.ru/post/269427/
+
+Большая кухня больших данных. Часть 1 | https://habrahabr.ru/company/megafon/blog/269557/
+
+Курс по машинному обучению на Coursera от Яндекса и ВШЭ | https://habrahabr.ru/company/yandex/blog/269175/
+
+Совмещенный АВС и XYZ анализ в Ритейле | https://habrahabr.ru/company/datawiz/blog/269167/
+
+Redis и проблема больших данных | https://habrahabr.ru/company/retailrocket/blog/269151/
+
+Big data, билайн и кококо | https://habrahabr.ru/post/269065/
+
+Освоение специальности Data Science на Coursera: личный опыт (ч.2) | https://habrahabr.ru/company/ibs/blog/268893/
+
+Московские школы. Как мы участвовали во втором хакатоне по открытым данным | https://habrahabr.ru/post/268839/
+
+Greenplum DB | https://habrahabr.ru/company/tinkoff/blog/267733/
+
+Хакатон Big Data for Business: начните свой технологичный стартап | https://habrahabr.ru/company/textocat/blog/268435/
+
+Освоение специальности Data Science на Coursera: личный опыт (ч.1) | https://habrahabr.ru/company/ibs/blog/268491/
+
+Приглашаем на Media Hack Weekend. 16-18 октября, Киев | https://habrahabr.ru/company/intel/blog/268441/
+
+Тренды мирового e-commerce рынка в 2015-2016 годах | https://habrahabr.ru/company/SECL_GROUP/blog/268455/
+
+Ищем стабильность в ритейле, XYZ–анализ ассортимента | https://habrahabr.ru/company/datawiz/blog/268341/
+
+Две задачи HeadHunter на Data Science Week: попробуйте решить сами | https://habrahabr.ru/company/ods/blog/268319/
+
+AI, BigData & HPC Digest #2 | https://habrahabr.ru/company/flyelephant/blog/268327/
+
+Big Data от А до Я. Часть 2: Hadoop | https://habrahabr.ru/company/dca/blog/268277/
+
+Как погрепать интернет | https://habrahabr.ru/post/268205/
+
+Файловая система и Hadoop: Опыт Twitter (Часть 2) | https://habrahabr.ru/company/1cloud/blog/268129/
+
+Рекомендательная система на .Net или первые шаги с MyMediaLite | https://habrahabr.ru/post/268073/
+
+Файловая система и Hadoop: Опыт Twitter (Часть 1) | https://habrahabr.ru/company/1cloud/blog/268041/
+
+Переход из SQL на NoSQL: опыт проекта СМЭВ 2.0 | https://habrahabr.ru/company/at_consulting/blog/267979/
+
+Big Data vs Data Mining | https://habrahabr.ru/post/267827/
+
+Утилиты командной строки могут быть в 235-раз быстрее вашего Hadoop кластера | https://habrahabr.ru/post/267697/
+
+Dell Solutions Forum 2015: регистрация открыта | https://habrahabr.ru/company/dellemc/blog/267627/
+
+Как мы ABC анализ для ритейла делали, или «без пол-литра не разберешься» | https://habrahabr.ru/company/datawiz/blog/267175/
+
+Big Data и Machine Learning? Вам на HighLoad++ | https://habrahabr.ru/company/oleg-bunin/blog/267379/
+
+Всероссийский конкурс «Открытые данные» | https://habrahabr.ru/company/mlclass/blog/267419/
+
+Big Data от А до Я. Часть 1: Принципы работы с большими данными, парадигма MapReduce | https://habrahabr.ru/company/dca/blog/267361/
+
+IBM Research планирует создать надежную методику раннего диагностирования слабоумия при помощи смартфонов | https://habrahabr.ru/company/ibm/blog/267327/
+
+Тысяча и один блистер. Поиск лекарств с завышенной ценой | https://habrahabr.ru/post/265655/
+
+Сколько твитов нужно, чтобы узнать ваш характер? | https://habrahabr.ru/company/palitrumlab/blog/267247/
+
+Как я участвовал в конкурсе Сбербанка про предсказание оттока клиентов | https://habrahabr.ru/post/267217/
+
+Анализ логов с помощью Hadoop/Python | https://habrahabr.ru/company/dca/blog/267107/
+
+Разбор задачи Digit Recognizer соревнования Kaggle | https://habrahabr.ru/company/mlclass/blog/267075/
+
+История о чертовых дублях | https://habrahabr.ru/company/jetinfosystems/blog/267067/
+
+SYNful knock на ОС маршрутизаторов Cisco Systems | https://habrahabr.ru/company/it-grad/blog/267057/
+
+Работа с данными среднего размера в Python. Pandas и Seaborn | https://habrahabr.ru/post/266289/
+
+Об одной задаче Data Science | https://habrahabr.ru/company/mlclass/blog/266727/
+
+Зaчем мне AshleyMadison, если я не курю? | https://habrahabr.ru/post/266639/
+
+HighLoad++ — это блюдо, которое подают высоконагруженным | https://habrahabr.ru/company/oleg-bunin/blog/266393/
+
+Как за месяц сильно прокачаться в Data Science | https://habrahabr.ru/company/mlclass/blog/266421/
+
+Карта дождей | https://habrahabr.ru/post/266303/
+
+Apache Spark или возвращение блудного пользователя | https://habrahabr.ru/company/targetix/blog/266009/
+
+Кто ВКонтакте самый главный? | https://habrahabr.ru/company/mlclass/blog/265923/
+
+«Bigdata Conference» — крупнейшая конференция по большим данным уже очень скоро | https://habrahabr.ru/company/bitrix/blog/265887/
+
+Анализ неструктурированных данных и оптимизация их хранения | https://habrahabr.ru/company/hpe/blog/265499/
+
+IBM поможет Сингапуру решить проблему роста морского трафика | https://habrahabr.ru/company/ibm/blog/265737/
+
+Как мы участвовали в хакатоне Data Science Week 2015 | https://habrahabr.ru/post/265721/
+
+Статистический метод обнаружения аномалий в eBay | https://habrahabr.ru/company/io/blog/265571/
+
+Datathon в рамках Data Science Week | https://habrahabr.ru/post/265549/
+
+Big Data — первый опыт ED IB | https://habrahabr.ru/company/at_consulting/blog/265465/
+
+Новая бесплатная библиотека для аналитики данных Intel® DAAL | https://habrahabr.ru/company/intel/blog/265347/
+
+Кластеризация графов и поиск сообществ. Часть 1: введение, обзор инструментов и Волосяные Шары | https://habrahabr.ru/company/dca/blog/265077/
+
+Dell и TLC 3D NAND: что-то новенькое | https://habrahabr.ru/company/dellemc/blog/265189/
+
+Data Science Week — микроанонс для тех, кто еще не знает | https://habrahabr.ru/post/265105/
+
+DMP часть 1. Микросегментирование аудитории с помощью ключевых слов | https://habrahabr.ru/company/targetix/blog/264821/
+
+Как легко понять логистическую регрессию | https://habrahabr.ru/company/io/blog/265007/
+
+Deephack: хакатон по глубокому обучению с подкреплением, или как мы улучшали алгоритм Google Deepmind | https://habrahabr.ru/post/264871/
+
+Поиск сайтов заданной тематики | https://habrahabr.ru/post/264627/
+
+Влияет ли объём данных на трудоёмкость разработки. Учёт в муравейнике | https://habrahabr.ru/post/264807/
+
+Аугментация (augmentation, “раздутие”) данных для обучения нейронной сети на примере печатных символов | https://habrahabr.ru/company/smartengines/blog/264677/
+
+MCMC и байесова статистика в BASIC | https://habrahabr.ru/company/io/blog/264587/
+
+14 новых ролей в Big Data | https://habrahabr.ru/company/io/blog/264359/
+
+Определяем ключевые товары с помощью линейной регрессии | https://habrahabr.ru/company/datawiz/blog/264333/
+
+Data Science: путь к профессионализму | https://habrahabr.ru/company/piter/blog/264285/
+
+Применяем корреляцию в ритейле | https://habrahabr.ru/company/datawiz/blog/264217/
+
+Hybrid Conf — первая конференция о programmatic-advertising в России | https://habrahabr.ru/company/targetix/blog/264195/
+
+Как узнать год выпуска песни по набору аудио характеристик? | https://habrahabr.ru/post/264193/
+
+В чем разница между наукой о данных, анализом данных, большими данными, аналитикой, дата майнингом и машинным обучением | https://habrahabr.ru/company/io/blog/264125/
+
+Office как Платформа, выпуск №2: Power BI – новый подход к созданию бизнес-аналитики | https://habrahabr.ru/company/microsoft/blog/264051/
+
+Что такое Мастер-Данные и зачем они нужны | https://habrahabr.ru/company/navicon/blog/260927/
+
+Поиск похожих групп и пабликов Вконтакте | https://habrahabr.ru/post/263753/
+
+PostgreSQL: Приемы на продакшене | https://habrahabr.ru/post/263541/
+
+Типы личности по MBTI: влияние на восприятие рекламы | https://habrahabr.ru/company/dca/blog/263729/
+
+Анализируем большие объемы данных с Apache Spark | https://habrahabr.ru/post/263491/
+
+R и Python — достойные соперники? | https://habrahabr.ru/company/piter/blog/263457/
+
+Опрос: Какие данные открывать налоговой службе? | https://habrahabr.ru/company/infoculture/blog/263451/
+
+Поиск по геному с помощью Wolfram Language (Mathematica) и HadoopLink | https://habrahabr.ru/company/wolfram/blog/263307/
+
+Сервис распознавания котов | https://habrahabr.ru/company/ibm_bluemix/blog/262911/
+
+Шесть способов надежно защитить свою организацию от внешних и внутренних угроз | https://habrahabr.ru/company/varonis/blog/262891/
+
+Palantir, мафия PayPal, спецслужбы, мировое правительство | https://habrahabr.ru/post/262837/
+
+Замечания о распределенных системах для начинающих | https://habrahabr.ru/company/piter/blog/262807/
+
+Видео докладов с конференции «Российские интернет-технологии 2015» | https://habrahabr.ru/company/badoo/blog/262797/
+
+«Разрывая ETL барьеры с помощью Spark Streaming» от Concur. Отчет о встрече | https://habrahabr.ru/post/262785/
+
+Cortana как публичный сервис аналитики и другие анонсы Microsoft World Partner Conference | https://habrahabr.ru/company/microsoft/blog/262597/
+
+Сентимент анализ текста | https://habrahabr.ru/company/palitrumlab/blog/262595/
+
+DataTalks #3: онлайн-опросы | https://habrahabr.ru/company/wargaming/blog/262559/
+
+Чёрная археология датамайнинга: насколько опасны «сливы» больших данных | https://habrahabr.ru/post/262305/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 2 | https://habrahabr.ru/post/262431/
+
+Реал-тайм процессинг данных в AWS Cloud. Часть 1 | https://habrahabr.ru/post/262175/
+
+Watson отправился на Уимблдон | https://habrahabr.ru/company/ibm/blog/262141/
+
+Бесплатная летняя школа по HPC в научных и инженерных задачах — заявки принимаются до 24 июля | https://habrahabr.ru/company/innopolis_university/blog/262003/
+
+Анализ звонков в колл-центры | https://habrahabr.ru/post/261993/
+
+DSP на .Net под Windows. Джедайской Силы Пост | https://habrahabr.ru/company/targetix/blog/261745/
+
+Иерархическая классификация сайтов на Python | https://habrahabr.ru/company/dca/blog/261677/
+
+Создание масштабируемого распределенного приложения с нуля | https://habrahabr.ru/post/261509/
+
+Большие данные и большие вопросы | https://habrahabr.ru/company/1cloud/blog/261487/
+
+Черная археология датамайнинга: что может быть эффективнее атаки по словарю? | https://habrahabr.ru/post/261331/
+
+Как я участвовал в хакатоне про открытые данные | https://habrahabr.ru/post/261329/
+
+Лекция Дмитрия Ветрова о математике больших данных: тензоры, нейросети, байесовский вывод  | https://habrahabr.ru/company/yandex/blog/261245/
+
+Microsoft Research для молодых ученых — итоги, слайды и программа по получению облака Azure для научных исследований | https://habrahabr.ru/company/microsoft/blog/261229/
+
+Targetix — разработка full-stack RTB технологий | https://habrahabr.ru/company/targetix/blog/261191/
+
+Открытые правоохранительные данные — статистика и данные по каждому преступлению | https://habrahabr.ru/company/infoculture/blog/261177/
+
+Интернет вещей – миф или реальность? | https://habrahabr.ru/company/sap/blog/261045/
+
+Как пользователи Twitter оценивают «Мир Юрского периода»? Обрабатываем Большие данные при помощи IBM Watson | https://habrahabr.ru/company/ibm/blog/260901/
+
+Потоковая обработка данных при помощи Akka | https://habrahabr.ru/company/dca/blog/260845/
+
+Черная археология дата майнинга | https://habrahabr.ru/post/260747/
+
+Необычный хакатон по открытым данным | https://habrahabr.ru/company/mlclass/blog/260675/
+
+Геолокация без GPS (часть 2) | https://habrahabr.ru/post/259605/
+
+«Приоткрытые данные» / Заметки по следам совета по открытым данным 15 июня | https://habrahabr.ru/company/infoculture/blog/260389/
+
+Нужны ли на самом деле старт-апы крупным корпорациям | https://habrahabr.ru/company/sap/blog/260279/
+
+Общие советы при решении вопроса контроля местоположения, разрешений доступа и использования конфиденциальной информации в организации | https://habrahabr.ru/company/varonis/blog/259889/
+
+Многомерное дерево Mtree | https://habrahabr.ru/post/259855/
+
+DevOps зоопарк или как 500px обслуживает более 500TB изображений | https://habrahabr.ru/post/258751/
+
+Предсказание курса акций с использованием больших данных и машинного обучения | https://habrahabr.ru/company/itinvest/blog/259803/
+
+AI, BigData & HPC Digest #1 (7 мая — 3 июня) | https://habrahabr.ru/company/flyelephant/blog/259397/
+
+От эксперимента к продукту: Hadoop и Big Data | https://habrahabr.ru/company/1cloud/blog/259433/
+
+Ваши вопросы о Data Science | https://habrahabr.ru/company/mlclass/blog/259321/
+
+Болты в чае, или вебинар по теории вероятностей на практике | https://habrahabr.ru/company/yasno_tv/blog/259285/
+
+Data Lake – от теории к практике. Сказ про то, как мы строим ETL на Hadoop | https://habrahabr.ru/company/tinkoff/blog/259173/
+
+«Умные города» и Большие Данные | https://habrahabr.ru/company/fujitsu/blog/258925/
+
+Анализ данных на Scala. Считаем корреляцию 21-го века | https://habrahabr.ru/company/retailrocket/blog/258543/
+
+«Под капотом» Netflix: Анализ мирового кинематографа | https://habrahabr.ru/company/1cloud/blog/258753/
+
+Уникальный TechTalk c Майклом Монти Видениусом | https://habrahabr.ru/company/acronis/blog/258601/
+
+Сериал: Big Data — как мечта. 9-я серия: Почему IBM был вынужден купить «Алхимиков» за $100млн | https://habrahabr.ru/company/palitrumlab/blog/258607/
+
+Мой опыт внедрения Apache Cassandra | https://habrahabr.ru/post/258581/
+
+Big Data: текущая реальность | https://habrahabr.ru/company/mlclass/blog/258475/
+
+Открыта регистрация на конференцию по компьютерной лингвистике «Диалог» | https://habrahabr.ru/company/abbyy/blog/258485/
+
+Два противоположных направления ВИДЕОАНАЛИТИКИ: «жесткая» и «гибкая», кто сильней? | https://habrahabr.ru/post/258451/
+
+Object Storage — Ближайшее будущее систем хранения данных | https://habrahabr.ru/company/dellemc/blog/258293/
+
+5 инструментов в помощь аналитику | https://habrahabr.ru/company/navicon/blog/258151/
+
+Граф жизни сайта, или визуализация связи между страницами | https://habrahabr.ru/post/258213/
+
+AI, Big Data и дезинформация технологий | https://habrahabr.ru/company/1cloud/blog/258219/
+
+Лекции Техносферы. 2 семестр. Методы распределенной обработки больших объемов данных в Hadoop | https://habrahabr.ru/company/mailru/blog/258045/
+
+Записки на полях Big Data Week Moscow | https://habrahabr.ru/company/newprolab/blog/257499/
+
+AI, BigData & HPC дайджест #0. Пилотный выпуск | https://habrahabr.ru/company/flyelephant/blog/257463/
+
+Аналитический обзор рынка Big Data | https://habrahabr.ru/company/moex/blog/256747/
+
+NFX — Ультраэффективная Бинарная Сериализация в CLR | https://habrahabr.ru/post/257247/
+
+Hadoop: быть или не быть? | https://habrahabr.ru/company/piter/blog/257233/
+
+Храним 300 миллионов объектов в CLR процессе | https://habrahabr.ru/post/257091/
+
+Big Data Week Moscow 2015: презентации спикеров | https://habrahabr.ru/company/newprolab/blog/256933/
+
+Microsoft Research для молодых ученых — общение и возможность обсудить свою работу с ведущими учеными из Microsoft | https://habrahabr.ru/company/microsoft/blog/256955/
+
+Сериал: Big Data — как мечта. 8-я серия. Нетехническая. Модульная журналистика | https://habrahabr.ru/company/palitrumlab/blog/256775/
+
+Создание HANA-приложения с использованием среды разработки Eclipse | https://habrahabr.ru/company/sap/blog/256761/
+
+Подходы и инструменты работы с BigData — все только начинается, начи-на-ет-ся | https://habrahabr.ru/company/bitrix/blog/256551/
+
+DataTalks #2: Визуализация данных | https://habrahabr.ru/company/wargaming/blog/256567/
+
+Городская лаборатория анализа данных: собираем команду | https://habrahabr.ru/company/dit/blog/256453/
+
+Геолокация без GPS (часть 1) | https://habrahabr.ru/post/256321/
+
+Конференция Microsoft Research — Cloud computing for Research with Microsoft Azure, 19 мая в МГУ | https://habrahabr.ru/company/microsoft/blog/256221/
+
+Лекции Техносферы. 1 семестр. Методы использования СУБД в интернет-приложениях | https://habrahabr.ru/company/mailru/blog/256039/
+
+Big Data Week Moscow 2015: узнайте об индустрии больших данных изнутри | https://habrahabr.ru/company/newprolab/blog/256005/
+
+Сериал: Big Data — как мечта. 6-я серия. BD (Bolt Data) — Быстрые Big Data данные | https://habrahabr.ru/company/palitrumlab/blog/255963/
+
+Бесплатное обучение для студентов на конец апреля | https://habrahabr.ru/company/croc/blog/255873/
+
+SAP Форум: новые возможности для разработчиков и стартаперов | https://habrahabr.ru/company/sap/blog/255851/
+
+Наиболее актуальные примеры уведомлений о нестандартном поведении пользователей | https://habrahabr.ru/company/varonis/blog/255619/
+
+Лекции Техносферы. 1 семестр. Алгоритмы интеллектуальной обработки больших объемов данных | https://habrahabr.ru/company/mailru/blog/254897/
+
+Сериал: Big Data — как мечта. Незапланированная 5-я серия: Большая игра. Частное мнение | https://habrahabr.ru/company/palitrumlab/blog/255547/
+
+Глобальная значимость английского, немецкого, русского, китайского и других языков в Интернете (Data Mining) | https://habrahabr.ru/company/newprolab/blog/255189/
+
+Что такое Business Intelligence | https://habrahabr.ru/company/navicon/blog/250875/
+
+Сериал: Big Data — как мечта. 4-я серия. Революция мозгов | https://habrahabr.ru/company/palitrumlab/blog/255069/
+
+IBM анонсирует аналитические инструменты для работы с базами данных Twitter | https://habrahabr.ru/company/ibm/blog/254629/
+
+RapidMiner – Data Mining и BigData у вас дома, быстро и без подготовки (почти) | https://habrahabr.ru/company/croc/blog/254467/
+
+Стоит ли и дальше использовать термин Big Data? | https://habrahabr.ru/company/kingservers/blog/254517/
+
+Big Data в Билайне: реальный опыт | https://habrahabr.ru/company/beeline/blog/254469/
+
+Как на самом деле устроен процесс в Data Science | https://habrahabr.ru/company/mlclass/blog/254349/
+
+Снифаем выходную ноду Tor’а и анализируем получившийся контент | https://habrahabr.ru/company/xakep/blog/244485/
+
+Нейропластичность в искусственных нейронных сетях | https://habrahabr.ru/company/mailru/blog/252965/
+
+Техносфере — 1 год | https://habrahabr.ru/company/mailru/blog/253441/
+
+Deep Learning, NLP, and Representations | https://habrahabr.ru/post/253227/
+
+Ваш персональный курс по Big Data | https://habrahabr.ru/company/mlclass/blog/252743/
+
+Корпоративный поиск | https://habrahabr.ru/company/varonis/blog/253149/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №39 (9 — 15 марта 2015) | https://habrahabr.ru/post/253115/
+
+Магнитная лента — старый конь борозды не портит | https://habrahabr.ru/company/ua-hosting/blog/253025/
+
+Airpal: веб-приложение для работы с SQL | https://habrahabr.ru/company/airbnb/blog/252859/
+
+Курс по Big Data: три месяца на основные знания, и зачем это нужно | https://habrahabr.ru/company/newprolab/blog/252589/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №38 (2 — 8 марта 2015) | https://habrahabr.ru/post/252597/
+
+Social Network Analysis: Spark GraphX | https://habrahabr.ru/company/mlclass/blog/252157/
+
+Эволюция носителей данных | https://habrahabr.ru/company/ua-hosting/blog/252187/
+
+Классификация неструктурированных данных – зачем она нужна? | https://habrahabr.ru/company/varonis/blog/252047/
+
+Решения Dell PowerEdge для кинотеатрального контент-провайдера | https://habrahabr.ru/company/dellemc/blog/251949/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №37 (23 февраля — 1 марта 2015) | https://habrahabr.ru/post/251829/
+
+Анонс MongoDB 3 | https://habrahabr.ru/post/251745/
+
+Как мы готовим будущих специалистов по большим данным | https://habrahabr.ru/company/newprolab/blog/251675/
+
+Обучение на больших данных: Spark MLlib | https://habrahabr.ru/company/mlclass/blog/251471/
+
+Fujitsu ETERNUS CD10000: Ceph без забот | https://habrahabr.ru/company/fujitsu/blog/251557/
+
+Apache Spark: что там под капотом? | https://habrahabr.ru/post/251507/
+
+Владельцы данных – мысли на тему, за и против | https://habrahabr.ru/company/varonis/blog/251291/
+
+Международная выставка «EuroCIS-2015». Прямая twitter-трансляция | https://habrahabr.ru/company/crystal_service/blog/251127/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №36 (16 — 22 февраля 2015) | https://habrahabr.ru/post/251191/
+
+IBM Watson for Oncology: помощь когнитивной системы в борьбе с раком | https://habrahabr.ru/company/ibm/blog/250903/
+
+Введение в Apache Spark | https://habrahabr.ru/company/mlclass/blog/250811/
+
+Поиск похожих документов с MinHash + LHS | https://habrahabr.ru/post/250673/
+
+Седьмая ежегодная Летняя школа Microsoft Research. На этот раз про машинное обучение и интеллект | https://habrahabr.ru/company/microsoft/blog/250669/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №35 (9 — 15 февраля 2015) | https://habrahabr.ru/post/250613/
+
+Диски HGST в RAID массивах | https://habrahabr.ru/company/hgst/blog/250359/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №34 (2 — 8 февраля 2015) | https://habrahabr.ru/post/250157/
+
+Новое исследование: избыточные права доступа сотрудников к конфиденциальной информации подвергают компанию опасности и повышают риски | https://habrahabr.ru/company/varonis/blog/250107/
+
+Анализ потока данных в реальном времени с помощью Azure Stream Analytics | https://habrahabr.ru/company/microsoft/blog/250101/
+
+Пример Feature Engineering в машинном обучении | https://habrahabr.ru/company/mlclass/blog/249759/
+
+Apriori: новое или хорошо забытое старое | https://habrahabr.ru/company/datawiz/blog/249243/
+
+«Специалист по большим данным»: учебная программа от «Лаборатории новых профессий» | https://habrahabr.ru/company/newprolab/blog/249477/
+
+Расшифровываем формулу Хабра-рейтинга или восстановление функциональных зависимостей по эмпирическим данным | https://habrahabr.ru/post/249375/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №33 (26 января — 1 февраля 2015) | https://habrahabr.ru/post/249415/
+
+Новости Microsoft: поддержка R, новый Power BI для аналитики и отчетов, анимация и 3D-графика в облаке | https://habrahabr.ru/company/microsoft/blog/249079/
+
+Проект Dual ETL или как мы строили Disaster Recovery для Greenplum | https://habrahabr.ru/company/tinkoff/blog/248853/
+
+Deep learning и Caffe на новогодних праздниках | https://habrahabr.ru/post/249089/
+
+Кластеризация: расскажи мне, что ты покупаешь, и я скажу кто ты | https://habrahabr.ru/company/datawiz/blog/248863/
+
+Когда данных действительно много: Vowpal Wabbit | https://habrahabr.ru/company/mlclass/blog/248779/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №32 (19 — 25 января 2015) | https://habrahabr.ru/post/248793/
+
+Визуализация многомерных данных с помощью диаграмм Эндрюса | https://habrahabr.ru/post/248623/
+
+Как начать работу в Kaggle: руководство для новичков в Data Science | https://habrahabr.ru/post/248395/
+
+«Любовь и ненависть» на карте России, зима 2014-2015: четвертое исследование эмоционального состояния 35 млн пользователей социальных медиа | https://habrahabr.ru/company/palitrumlab/blog/248255/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №31 (12 — 18 января 2015) | https://habrahabr.ru/post/248165/
+
+Искусство Feature Engineering в машинном обучении | https://habrahabr.ru/company/mlclass/blog/248129/
+
+Неперсонализированные рекомендации: метод ассоциаций | https://habrahabr.ru/company/ivi/blog/247813/
+
+Введение в машинное обучение с помощью Python и Scikit-Learn | https://habrahabr.ru/company/mlclass/blog/247751/
+
+5 трендов в области анализа и обработки данных в 2015 году | https://habrahabr.ru/post/247609/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №30 (5 — 11 января 2015) | https://habrahabr.ru/post/247587/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №29 (29 декабря 2014 — 4 января 2015) | https://habrahabr.ru/post/247321/
+
+BudgetApps — Первый Всероссийский конкурс по открытым финансовым данным | https://habrahabr.ru/company/infoculture/blog/247117/
+
+Новая новая вещь (The new new thing) | https://habrahabr.ru/post/246997/
+
+Тривиум теории измерений | https://habrahabr.ru/post/246983/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №28 (22 — 28 декабря 2014) | https://habrahabr.ru/post/246939/
+
+Персонализация в электронной коммерции | https://habrahabr.ru/company/retailrocket/blog/246793/
+
+База данных простых чисел | https://habrahabr.ru/post/246789/
+
+Обзор алгоритмов сжатия графов | https://habrahabr.ru/post/246325/
+
+R reference manual | https://habrahabr.ru/post/246455/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №27 (15 — 21 декабря 2014) | https://habrahabr.ru/post/246405/
+
+Обработка данных NBA за 30 лет с помощью MongoDB Aggregation | https://habrahabr.ru/company/itinvest/blog/246317/
+
+Нефтяные ряды в R | https://habrahabr.ru/post/243211/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №26 (8 — 14 декабря 2014) | https://habrahabr.ru/post/245795/
+
+Сравнение скорости построения линейных моделей в R и Eviews | https://habrahabr.ru/post/245641/
+
+Яндекс открывает новое направление своей деятельности — Yandex Data Factory | https://habrahabr.ru/company/yandex/blog/245393/
+
+Hadoop для сетевых инженеров | https://habrahabr.ru/company/cisco/blog/245339/
+
+Highload ++ 2014 глазами докладчика, который очень любит Processing Large-Scale Graph Data разными нехорошими способами | https://habrahabr.ru/post/245215/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №25 (1 — 7 декабря 2014) | https://habrahabr.ru/post/245195/
+
+Немцы создали библиотеку пьяных аудиозаписей | https://habrahabr.ru/post/245125/
+
+Как узнать больше о ваших пользователях? Применение Data Mining в Рейтинге Mail.Ru | https://habrahabr.ru/company/mailru/blog/244285/
+
+Информационные технологии и большие деньги | https://habrahabr.ru/post/244907/
+
+В поисках идеального файлового хранилища | https://habrahabr.ru/post/244491/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №24 (24 — 30 ноября 2014) | https://habrahabr.ru/post/244579/
+
+Адаптивное обучение, или несколько слов о Knewton | https://habrahabr.ru/company/newprolab/blog/244539/
+
+Система DeepSort от Samsung заняла первое место на соревновании Sort Benchmark 2014 | https://habrahabr.ru/company/samsung/blog/244511/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №23 (17 — 23 ноября 2014) | https://habrahabr.ru/post/243967/
+
+DataTalks 25.10.14: первая встреча | https://habrahabr.ru/company/wargaming/blog/243755/
+
+Конференция HDConf: видео-отчет | https://habrahabr.ru/post/243645/
+
+Как мы делаем командные и ситуационные центры для крупных компаний | https://habrahabr.ru/company/croc/blog/243699/
+
+IBM запускает совместные магистерские программы в области Больших Данных с ведущими российскими университетами | https://habrahabr.ru/company/ibm/blog/243577/
+
+Киевский Speakers' Corner с Моти Грановски: «Intelligence to the masses: BI today & in the future», 26 ноября | https://habrahabr.ru/company/Ciklum/blog/243441/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №22 (10 — 16 ноября 2014) | https://habrahabr.ru/post/243339/
+
+Современное состояние М2М (machine-to-machine) систем | https://habrahabr.ru/post/243101/
+
+NDFS — Nutanix Distributed File System, «фундамент» Nutanix | https://habrahabr.ru/company/nutanix/blog/243019/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №21 (3 — 9 ноября 2014) | https://habrahabr.ru/post/242687/
+
+Проектирование новостной ленты в социальных сетях | https://habrahabr.ru/company/dataart/blog/242593/
+
+Microsoft Azure ❤ Big Data | https://habrahabr.ru/post/242403/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №20 (27 октября — 2 ноября 2014) | https://habrahabr.ru/post/242237/
+
+Парные товары. Размещения товаров в торговом зале | https://habrahabr.ru/company/datawiz/blog/241738/
+
+Московский Big Data-хакатон 15-16 ноября | https://habrahabr.ru/company/microsoft/blog/241660/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №19 (20 — 26 октября 2014) | https://habrahabr.ru/post/241527/
+
+Как колебания в продажах влияют на оборот? | https://habrahabr.ru/company/datawiz/blog/241383/
+
+IBM анонсирует новые проекты внедрения технологий Watson и открытие штаб-квартиры Watson Group в Нью-Йорке | https://habrahabr.ru/company/ibm/blog/241363/
+
+Конференция HDConf: фото-видео-слайд отчет | https://habrahabr.ru/post/241349/
+
+Dell Solutions Forum 2014: регистрация открыта | https://habrahabr.ru/company/dellemc/blog/240961/
+
+О Nutanix, Web-Scale, конвергентных платформах и смене парадигм построения IT инфраструктур | https://habrahabr.ru/company/nutanix/blog/240859/
+
+Закон Бенфорда и распределения под него попадающие | https://habrahabr.ru/post/240853/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №18 (13 — 19 октября 2014) | https://habrahabr.ru/post/240835/
+
+Hadoop: что, где и зачем | https://habrahabr.ru/post/240405/
+
+Вышел Python Tools 2.1 для Visual Studio | https://habrahabr.ru/post/240581/
+
+Как выявить потери в продажах | https://habrahabr.ru/company/datawiz/blog/240511/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №17 (6 — 12 октября 2014) | https://habrahabr.ru/post/240139/
+
+DataTalks: Анализ данных для решения бизнес-задач | https://habrahabr.ru/company/wargaming/blog/239673/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №16 (29 сентября — 5 октября 2014) | https://habrahabr.ru/post/239247/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №15 (22 — 28 сентября 2014) | https://habrahabr.ru/post/238431/
+
+IBM Watson становится ближе к бизнесу и обычным пользователям | https://habrahabr.ru/company/ibm/blog/238375/
+
+Cybercortex. Система расширенного восприятия и мышления | https://habrahabr.ru/post/238249/
+
+«Всезнайки» от бизнеса – как большие данные меняют облик компаний | https://habrahabr.ru/company/1cloud/blog/238141/
+
+Конкурс Apps4Russia 2014. Открытые данные и «понятность» языка, денег и правил | https://habrahabr.ru/company/infoculture/blog/237605/
+
+Как открытые данные помогут предсказать преступления | https://habrahabr.ru/post/237649/
+
+Обзор наиболее интересных материалов по высокой производительности (15 — 21 сентября 2014) | https://habrahabr.ru/post/237581/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №14 (15 — 21 сентября 2014) | https://habrahabr.ru/post/237583/
+
+Приглашаем на HadoopKitchen | https://habrahabr.ru/company/mailru/blog/237131/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №13 (8 — 14 сентября 2014) | https://habrahabr.ru/post/236757/
+
+Hadoop, java MapReduce: запуск из произвольного web/EE контейнера | https://habrahabr.ru/post/235253/
+
+Hazelcast 3.3 — что нового? | https://habrahabr.ru/post/236485/
+
+Новый сервис от IBM Watson поможет ученым работать более эффективно | https://habrahabr.ru/company/ibm/blog/236295/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №12 (1 — 8 сентября 2014) | https://habrahabr.ru/post/235993/
+
+Oracle vs Teradata vs Hadoop | https://habrahabr.ru/post/235465/
+
+Несколько слов о «линейной» регрессии | https://habrahabr.ru/post/233059/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №11 (25 августа — 1 сентября 2014) | https://habrahabr.ru/post/235161/
+
+Поговорим за Hadoop | https://habrahabr.ru/company/dataart/blog/234993/
+
+Поисковая система в АНБ содержит более 850 млрд записей | https://habrahabr.ru/post/234615/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №10 (18 — 25 августа 2014) | https://habrahabr.ru/post/234459/
+
+Как проиндексировать логи бизнес-приложений в Hadoop (SolrCloud) | https://habrahabr.ru/company/custis/blog/234049/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №9 (11 — 18 августа 2014) | https://habrahabr.ru/post/233681/
+
+Роза кишечных бактерий | https://habrahabr.ru/company/datalaboratory/blog/232895/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №8 (4 — 11 августа 2014) | https://habrahabr.ru/post/232879/
+
+Новая версия HP Vertica: Dragline 7.1 | https://habrahabr.ru/post/232797/
+
+Made with IBM: где используются технологии IBM? | https://habrahabr.ru/company/ibm/blog/232615/
+
+Социально-культурная миграция 2600-летнего периода истории в 5 минутах: познавательная визуализация | https://habrahabr.ru/post/232591/
+
+Эволюция списка рекомендаций в SmartProgress | https://habrahabr.ru/company/smartprogress/blog/232279/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №7 (28 июля — 4 августа 2014) | https://habrahabr.ru/post/232039/
+
+10 заповедей Больших Данных | https://habrahabr.ru/post/231359/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №6 (21 — 28 июля 2014) | https://habrahabr.ru/post/231323/
+
+Я угадаю эту мелодию по трем нотам! | https://habrahabr.ru/company/ibm/blog/230759/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №5 (7 — 21 июля 2014) | https://habrahabr.ru/post/230561/
+
+Lean Big Data на 6 сервисах Google | https://habrahabr.ru/post/230243/
+
+Трансляция из морских глубин: 800 километровый канал NEPTUNE проводит интернет на дно океана | https://habrahabr.ru/post/229091/
+
+[Перевод] Конфиденциальность в офисе: где черта, которую не стоит пересекать | https://habrahabr.ru/post/229557/
+
+Исследуем и тестируем распределенные вычисления от Hazelcast | https://habrahabr.ru/post/229149/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №4 (23 июня — 7 июля 2014) | https://habrahabr.ru/post/228989/
+
+Дайджест статей по анализу данных №4 (23.06.2014 —06.07.2014) | https://habrahabr.ru/post/228895/
+
+Эффективная оценка медианы | https://habrahabr.ru/post/228575/
+
+В Openstat стали доступны мета-счетчики и мета-анализ | https://habrahabr.ru/company/openstat/blog/228573/
+
+Кластерный анализ (на примере сегментации потребителей) часть 1 | https://habrahabr.ru/post/228477/
+
+Исследуем и тестируем очереди от Hazelcast | https://habrahabr.ru/post/228445/
+
+Работа с геолокациями в режиме highload | https://habrahabr.ru/post/228023/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №3 (обзор онлайн курсов) | https://habrahabr.ru/post/228187/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №2 (16 — 23 июня 2014) | https://habrahabr.ru/post/227293/
+
+HP Vertica, проектирование хранилища данных, больших данных | https://habrahabr.ru/post/227111/
+
+Где и как используются возможности IBM Watson? Часть 2 | https://habrahabr.ru/company/ibm/blog/226611/
+
+Дайджест статей по анализу данных №3 (09.06.2014 —22.06.2014) | https://habrahabr.ru/post/227135/
+
+Обзор наиболее интересных материалов по анализу данных и машинному обучению №1 (9 — 16 июня 2014) | https://habrahabr.ru/post/226641/
+
+Бизнес и Большие данные: лаборатория FABERNOVEL | https://habrahabr.ru/company/fabernovel/blog/226389/
+
+На языке футбола: Big Data + лингвистика для виджета по Чемпионату Мира | https://habrahabr.ru/company/palitrumlab/blog/225985/
+
+IBM Watson: где и как сейчас используются возможности суперкомпьютера? | https://habrahabr.ru/company/ibm/blog/225771/
+
+Дайджест статей по анализу данных №2 (26.05.2014 — 8.06.2014) | https://habrahabr.ru/post/225589/
+
+Секретная служба США покупает софт, распознающий сарказм в соцсетях | https://habrahabr.ru/post/225229/
+
+Масштабируем Elasticsearch на примере кластера с индексами в несколько терабайт | https://habrahabr.ru/post/224877/
+
+250 миллионов международных событий в одном месте | https://habrahabr.ru/post/224647/
+
+Дайджест статей по анализу данных и big data | https://habrahabr.ru/post/223903/
+
+Hive vs Pig. На что мне столько ETL? | https://habrahabr.ru/post/223217/
+
+Как мы запрос в 100 раз ускоряли, или не все хеш-функции одинаково плохи | https://habrahabr.ru/post/222565/
+
+Видеозаписи докладов конференции AI&BigData Lab | https://habrahabr.ru/company/rootuamedia/blog/222489/
+
+Dell Fluid Cache for SAN: когда данные всегда под рукой | https://habrahabr.ru/company/dellemc/blog/222239/
+
+Долой оковы MongoDB | https://habrahabr.ru/post/222083/
+
+Отчет о конференции «AI&BigData Lab» | https://habrahabr.ru/company/rootuamedia/blog/221561/
+
+Как порталы открытых данных могут стимулировать рост экономики и инноваций | https://habrahabr.ru/company/fabernovel/blog/221281/
+
+Компания IBM представила новые серверы на основе процессоров Power8 | https://habrahabr.ru/company/ibm/blog/221115/
+
+Тренды в онлайн образовании | https://habrahabr.ru/company/stepic/blog/221121/
+
+Популярность средств веб-аналитики | https://habrahabr.ru/company/openstat/blog/212103/
+
+Data Mining в Big Data: рейтинг цитируемости СМИ в социальных медиа | https://habrahabr.ru/company/palitrumlab/blog/220415/
+
+QlikView. Создадим свое первое приложение?… | https://habrahabr.ru/post/218737/
+
+Мифы и легенды про Big Data | https://habrahabr.ru/company/beeline/blog/218669/
+
+Большие данные и их хранение | https://habrahabr.ru/company/acronis/blog/218243/
+
+Небольшой тест производительности Hadoop/Mapreduce | https://habrahabr.ru/post/217821/
+
+MongoDB от теории к практике. Руководство по установке кластера mongoDB | https://habrahabr.ru/post/217393/
+
+Кризис докатился до облаков! | https://habrahabr.ru/post/216487/
+
+Big data: размер имеет значение? | https://habrahabr.ru/company/odnoklassniki/blog/216401/
+
+Ещё одна история о запуске стартапа | https://habrahabr.ru/company/advertone_ru/blog/216291/
+
+Эффективность персональных рекомендаций: контекстный подход | https://habrahabr.ru/post/209554/
+
+Такси в Нью-Йорке: визуализация перемещений за год | https://habrahabr.ru/post/215881/
+
+Hadoop, часть 3: Pig, обработка данных | https://habrahabr.ru/company/selectel/blog/215307/
+
+Как обеспечить надежное хранение больших объемов данных в рамках умеренного бюджета | https://habrahabr.ru/company/acronis/blog/215007/
+
+Единый интерфейс управления рекламой на сайте | https://habrahabr.ru/company/advertone_ru/blog/214735/
+
+Что такое на самом деле Big Data и чем они прекрасны. Лекция Андрея Себранта в Яндексе | https://habrahabr.ru/company/yandex/blog/214217/
+
+Можем ли мы доверять решению компьютера, если не можем его проверить? | https://habrahabr.ru/post/214229/
+
+Как сохранить олимпиаду? | https://habrahabr.ru/company/acronis/blog/213949/
+
+Программа конференции «Al&BigData Lab» и «Just Sell IT! Эффективные IT-продажи» | https://habrahabr.ru/company/rootuamedia/blog/213821/
+
+За посетителями аэропорта Ньюарка будут следить светодиодные лампы | https://habrahabr.ru/company/telebreeze/blog/213355/
+
+Как мы используем инфраструктуру обработки данных в Sports.ru и Tribuna.com? | https://habrahabr.ru/company/sports_ru/blog/212863/
+
+Конференция по большим данным и искусственному интеллекту AI&BigData Lab | https://habrahabr.ru/company/rootuamedia/blog/212255/
+
+Первое Февраля — День Помощи | https://habrahabr.ru/post/210916/
+
+Начало подготовки конференции AI&BigData Lab | https://habrahabr.ru/company/rootuamedia/blog/210436/
+
+Распределение строк и доступ в СУБД Teradata (Primary Index) | https://habrahabr.ru/post/209166/
+
+Как живется Data Mining компании: задачи и исследования | https://habrahabr.ru/company/dmlabs/blog/207538/
+
+Что такое Teradata? | https://habrahabr.ru/post/209078/
+
+Параллельные и распределенные вычисления. Лекции от Яндекса для тех, кто хочет провести праздники с пользой | https://habrahabr.ru/company/yandex/blog/208244/
+
+Machine Learning. Курс от Яндекса для тех, кто хочет провести новогодние каникулы с пользой | https://habrahabr.ru/company/yandex/blog/208034/
+
+Google Photon. Обработка данных со скоростью света* | https://habrahabr.ru/post/207348/
+
+Dremel. Как Google считает в real-time? | https://habrahabr.ru/post/207234/
+
+Spanner. NewSQL хранилище от Google | https://habrahabr.ru/post/207082/
+
+Colossus. Распределенная файловая система от Google | https://habrahabr.ru/post/206986/
+
+Быстрый выбор случайных значений из больших таблиц MySQL по условию | https://habrahabr.ru/post/207096/
+
+В Екатеринбурге завершилась Cassandra Сonf | https://habrahabr.ru/company/it_people/blog/207062/
+
+Google Platform. 10+ лет | https://habrahabr.ru/post/206972/
+
+Как передать зашифрованные параметры в DataStage | https://habrahabr.ru/post/206530/
+
+Новая версия HP Vertica: Кран № 7 | https://habrahabr.ru/post/206278/
+
+Настройка маленького кластера Hadoop 2.2.0 с нуля | https://habrahabr.ru/post/206196/
+
+IBM PureData для Hadoop: чем эта система может мне помочь? | https://habrahabr.ru/company/ibm/blog/205334/
+
+SELECT...WHERE запросы в Cassandra 2.0 на CQL3 | https://habrahabr.ru/post/205176/
+
+Пример моделирования схемы в Cassandra 2.0 на CQL3 | https://habrahabr.ru/post/204026/
+
+Новое исследование: Любовь и ненависть на карте России | https://habrahabr.ru/company/palitrumlab/blog/203744/
+
+Моделирование данных в Cassandra 2.0 на CQL3 | https://habrahabr.ru/post/203200/
+
+CASSANDRA CONF 2013. Екатеринбург, 9 декабря | https://habrahabr.ru/company/it_people/blog/202712/
+
+Hadoop, часть 2: сбор данных через Flume | https://habrahabr.ru/company/selectel/blog/201204/
+
+Кластеры Hadoop по запросу из облака: внутреннее устройство, первые шаги, задачи, Hive | https://habrahabr.ru/post/200750/
+
+Windows Azure и Hadoop: «дружба», готовая к Enterprise | https://habrahabr.ru/post/200780/
+
+Распространение эпидемий: Анализ соцмедиа VS. анализ запросов Google Flu | https://habrahabr.ru/company/palitrumlab/blog/200540/
+
+И снова Vertica на HighLoad++ | https://habrahabr.ru/company/lifestreet/blog/200254/
+
+Активные авторы в социальных медиа: исследование по возрастным группам | https://habrahabr.ru/company/palitrumlab/blog/198772/
+
+Кто живет в соцсетях? | https://habrahabr.ru/post/198722/
+
+Hadoop, часть 1: развертывание кластера | https://habrahabr.ru/company/selectel/blog/198534/
+
+ETL-процесс с использованием веб-сервисов в Integration Services 2012 | https://habrahabr.ru/post/198224/
+
+Целеориентированная автоматизация систем управления — ЦОАСУ/GOMA | https://habrahabr.ru/post/197680/
+
+Технологии правят… информацией. Технологическая пицца | https://habrahabr.ru/company/palitrumlab/blog/197554/
+
+Алгоритм распределения данных в кластере серверов в dCache | https://habrahabr.ru/post/197540/
+
+Большие данные — неотъемлемая часть нашей жизни | https://habrahabr.ru/post/197462/
+
+dCache — xранилище, где живёт ХИГГС | https://habrahabr.ru/post/196584/
+
+Доступ к файловой системе в MarkLogic Server | https://habrahabr.ru/post/196402/
+
+Данные в MarkLogic Server [Part2] | https://habrahabr.ru/post/195524/
+
+HBase, загрузка больших массивов данных через bulk load | https://habrahabr.ru/post/195040/
+
+Прогноз погоды | https://habrahabr.ru/post/194566/
+
+Данные в MarkLogic Server [Part1] | https://habrahabr.ru/post/194550/
+
+Данные переменной длинны — DataSizeVariable (DSV) | https://habrahabr.ru/post/194492/
+
+Вам не нужен Hadoop — у вас просто нет столько данных | https://habrahabr.ru/post/194434/
+
+Вы понимаете Hadoop неправильно | https://habrahabr.ru/post/194314/
+
+XAP (Хреновая Архитектура Разоряет) | https://habrahabr.ru/company/jugru/blog/191946/
+
+IBM представляет новую систему прогнозирования ветровой и солнечной энергии | https://habrahabr.ru/company/ibm/blog/191048/
+
+Международная популярность Сноудена — миф или реальность? Результаты глобального мониторинга социальных медиа | https://habrahabr.ru/company/palitrumlab/blog/191416/
+
+HP Vertica, первый запущенный проект в РФ, опыт полтора года реальной эксплуатации | https://habrahabr.ru/post/190740/
+
+Алгоритмизация правосудия | https://habrahabr.ru/company/nordavind/blog/190212/
+
+Hadoop Tutorial. Пишем свой grep | https://habrahabr.ru/post/189798/
+
+Знакомство с Apache Mahout | https://habrahabr.ru/post/189098/
+
+Apache Mahout. Метрики для определения схожести пользователей | https://habrahabr.ru/post/188350/
+
+Больше, чем GoogleReader: давайте сделаем это вместе! | https://habrahabr.ru/company/palitrumlab/blog/187098/
+
+Можно ли уйти от HDD в хостинговых серверах? | https://habrahabr.ru/post/186182/
+
+Мега-ЦОДы — пионеры инноваций. Часть 2 | https://habrahabr.ru/post/184442/
+
+Map-Reduce на примере MongoDB | https://habrahabr.ru/post/184130/
+
+Улучшения XQuery в MarkLogic Server | https://habrahabr.ru/post/183004/
+
+Microsoft Dryad vs Apache Hadoop. Неначатое сражение за Big Data | https://habrahabr.ru/post/182688/
+
+DryadLINQ. Распределенный LINQ от Microsoft Research | https://habrahabr.ru/post/182282/
+
+Dryad. Фреймворк распределенных вычислений | https://habrahabr.ru/post/182164/
+
+Решения Fujitsu для резервного копирования и архивирования | https://habrahabr.ru/company/fujitsu/blog/181318/
+
+Эластичное избыточное S3-совместимое хранилище за 15 минут | https://habrahabr.ru/post/180415/
+
+Распределенная файловая система Ceph FS за 15 минут | https://habrahabr.ru/post/179823/
+
+Практика LSI | https://habrahabr.ru/post/179671/
+
+Data mining: Инструментарий — Theano | https://habrahabr.ru/post/173819/
+
+Цикл зрелости технологий на 2013 год по версии Gartner | https://habrahabr.ru/post/178059/
+
+ЦРУ — большие задачи и большие данные. На пути к созданию глобального информационного колпака | https://habrahabr.ru/post/177433/
+
+Failsafe resource allocator over DHT | https://habrahabr.ru/post/177121/
+
+Стартует митап-группа «Moscow Cassandra Users» | https://habrahabr.ru/post/176881/
+
+Ранжирование в Яндексе: как поставить машинное обучение на поток (пост #3) | https://habrahabr.ru/company/yandex/blog/175917/
+
+Интерфейс SAS: история, примеры организации хранения | https://habrahabr.ru/post/175313/
+
+Ранжирование в Яндексе: как поставить машинное обучение на поток (пост #2) | https://habrahabr.ru/company/yandex/blog/174975/
+
+Исследование статистики поисковых запросов позволяет обнаружить неизвестные ранее побочные эффекты лекарств | https://habrahabr.ru/post/174631/
+
+Ранжирование в Яндексе: как поставить машинное обучение на поток (пост #1) | https://habrahabr.ru/company/yandex/blog/174213/
+
+Обновление Windows Azure: Hadoop, Dropbox, Mercurial, PhoneGap | https://habrahabr.ru/post/174173/
+
+Новое в СУБД Caché 2013.1: добавление и генерация индексов на «живых» классах | https://habrahabr.ru/company/intersystems/blog/173739/
+
+Диалоги о Big Data | https://habrahabr.ru/post/173757/
+
+Живучий SCSI | https://habrahabr.ru/post/173619/
+
+MapReduce для обработки слабоструктурированных данных в HDInsight | https://habrahabr.ru/company/microsoft/blog/173147/
+
+Intel Distribution for Apache Hadoop: чтобы «большим данным» было комфортно | https://habrahabr.ru/company/intel/blog/172847/
+
+Видеоаналитика для общественного транспорта: Big Data — подводная часть айсберга | https://habrahabr.ru/company/synesis/blog/172721/
+
+Суперкомпьютер своими руками | https://habrahabr.ru/post/170349/
+
+NoSQL и Big Data – обман трудящихся? | https://habrahabr.ru/company/jelastic/blog/166845/
+
+SoShare — 1 терабайт бесплатно от BitTorrent | https://habrahabr.ru/post/169681/
+
+Data Mining: Первичная обработка данных при помощи СУБД. Часть 3 (Сводные таблицы) | https://habrahabr.ru/post/165283/
+
+Data Mining: Первичная обработка данных при помощи СУБД. Часть 2 | https://habrahabr.ru/post/165281/
+
+Microsoft HDInsight. «Облачное» (и не только) будущее Hadoop | https://habrahabr.ru/post/165265/
+
+Data Mining: Первичная обработка данных при помощи СУБД. Часть 1 | https://habrahabr.ru/post/165001/
+
+12 инструментов, о которых необходимо знать каждому программисту, работающему с Big Data | https://habrahabr.ru/company/cloudsnn/blog/164309/
+
+Инвесторы возлагают большие надежды на Big Data | https://habrahabr.ru/company/cloudsnn/blog/161687/
+
+Big Data – почему это так модно? | https://habrahabr.ru/post/160219/
+
+MapReduce 2.0. Какой он современный цифровой слон? | https://habrahabr.ru/post/161437/
+
+Teradata – СУБД, параллельная от рождения | https://habrahabr.ru/company/teradata/blog/160821/
+
+Что такое In-Memory Data Grid | https://habrahabr.ru/post/160517/
+
+Vertica на HighLoad++ | https://habrahabr.ru/company/lifestreet/blog/155773/
+
+NewSQL — новый виток в эволюции BigData, забираем лучшее из SQL и NoSQL | https://habrahabr.ru/post/154589/
+
+Два интервью о железе и виртуализации | https://habrahabr.ru/company/muk/blog/151784/
+
+Эластичный MapReduce. Распределенная реализация | https://habrahabr.ru/post/151419/
+
+Стоит ли платить за Apache Hadoop? | https://habrahabr.ru/post/151062/
+
+Коллаборативная фильтрация | https://habrahabr.ru/post/150399/
+
+Просто и доступно о аналитических БД | https://habrahabr.ru/post/149641/
+
+Мифология Data Science | https://habrahabr.ru/post/148856/
+
+Соединение исторических таблиц | https://habrahabr.ru/post/147542/
+

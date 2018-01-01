@@ -1,0 +1,946 @@
+«Российское облако»: какие отечественные стартапы используют виртуальную инфраструктуру | https://habrahabr.ru/company/it-grad/blog/345644/
+
+«На чужих ошибках»: что нужно знать для успешного внедрения Service Desk | https://habrahabr.ru/company/it-guild/blog/345620/
+
+Шесть причин купить токены Hamster Marketplace | https://habrahabr.ru/company/hamstermarketplace/blog/345428/
+
+Кто «уходит в облака»: западные ИТ-стартапы, которые используют виртуальную инфраструктуру | https://habrahabr.ru/company/it-grad/blog/345408/
+
+«Виртуальный университет»: какие VR-проекты развивают в Университете ИТМО | https://habrahabr.ru/company/spbifmo/blog/345256/
+
+Как устроены хранилища данных: обзор для новичков | https://habrahabr.ru/company/1cloud/blog/345154/
+
+AliExpress головного мозга | https://habrahabr.ru/company/lanit/blog/344944/
+
+Эксперименты с контрактами Solidity в тестовой сети Rinkeby блокчейна Ethereum | https://habrahabr.ru/post/344578/
+
+Один+Один — благотворительный маркетплейс на Blockchain | https://habrahabr.ru/company/1p1/blog/344676/
+
+Сервис онлайн-касс АТОЛ Онлайн: API и интеграция с CMS | https://habrahabr.ru/company/atol/blog/344634/
+
+Как IaaS помогает франчайзи «1С»: опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/344414/
+
+Митап BugBusters: Все о Selenium, эффективных автоматизаторах и буднях нагрузочных тестировщиков | https://habrahabr.ru/company/yamoney/blog/344412/
+
+Кратко о методологиях разработки ПО: Waterfall, Lean и Feature Driven Development | https://habrahabr.ru/company/it-guild/blog/341932/
+
+ReadyScript Mobile — готовое eCommerce мобильное приложение | https://habrahabr.ru/company/readyscript/blog/342720/
+
+Как IaaS и SaaS технологии меняют сферу образования | https://habrahabr.ru/company/1cloud/blog/343198/
+
+Анонсирована новая версия MongoDB: будет апдейт безопасности и свежие инструменты | https://habrahabr.ru/company/it-grad/blog/342774/
+
+Exonum 0.3 — что мы улучшили в новой версии фреймворка для разработки блокчейнов | https://habrahabr.ru/company/bitfury/blog/342970/
+
+Как изменилась платформа для интернет-магазина ReadyScript за последние 3 года | https://habrahabr.ru/company/readyscript/blog/342716/
+
+IaaS-дайджест: руководства, тренды и кейсы | https://habrahabr.ru/company/it-grad/blog/342692/
+
+Самостоятельные дата-центры: топливные элементы вместо электросети | https://habrahabr.ru/company/1cloud/blog/342442/
+
+Мегафон-Райффайзенбанк — первая в России сделка по ценным бумагам на блокчейне | https://habrahabr.ru/company/raiffeisenbank/blog/341850/
+
+Будни тестировщика, или при чем тут Пирамида Маслоу | https://habrahabr.ru/company/yamoney/blog/342276/
+
+Как создать блокчейн-проект на Exonum: краткое руководство | https://habrahabr.ru/company/bitfury/blog/342208/
+
+«Гибкая разработка»: кратко о методологиях Agile | https://habrahabr.ru/company/it-guild/blog/341924/
+
+Высокопроизводительные вычисления: Проект Microsoft и Cray | https://habrahabr.ru/company/1cloud/blog/341746/
+
+Почему хороший IaaS-провайдер не строит свой дата-центр: 5 основных причин | https://habrahabr.ru/company/it-grad/blog/341570/
+
+Распределённые реестры и информационная безопасность: от чего защищает блокчейн | https://habrahabr.ru/company/bitfury/blog/341902/
+
+Внедряем адресное хранение на складе: какое ПО подойдет и почему | https://habrahabr.ru/company/scanport/blog/341844/
+
+Дайджест: разработки Университета ИТМО в 2017 году | https://habrahabr.ru/company/spbifmo/blog/341356/
+
+Разработка провайдера виртуальной инфраструктуры: опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/341182/
+
+Firebase + Angular Universal = невозможное возможно | https://habrahabr.ru/post/341044/
+
+Облачный дайджест: о технологиях, SSL-сертификатах и работе IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/340872/
+
+Как применить нейротехнологии на практике: хакатон Neuromedia-2017 | https://habrahabr.ru/company/spbifmo/blog/340958/
+
+Как вычислить (город пользователя) по IP | https://habrahabr.ru/company/hflabs/blog/340466/
+
+Microsoft и Amazon представили новую библиотеку для машинного обучения — Gluon | https://habrahabr.ru/company/1cloud/blog/340406/
+
+Magento Dare to Share. Осень — сезон Magento митапов | https://habrahabr.ru/post/340338/
+
+Новый API Яндекс.Кассы: платежное лего для e-commerce всех мастей | https://habrahabr.ru/company/yamoney/blog/340210/
+
+Как IIS поддерживает нашу BI-аналитику, и в чем особенности настройки под Highload | https://habrahabr.ru/company/yamoney/blog/339976/
+
+Корпоративный IaaS: подборка новостей, кейсов и тематических руководств | https://habrahabr.ru/company/it-grad/blog/339368/
+
+Последнее обновление для HPE ProLiant выводило из строя сетевые адаптеры | https://habrahabr.ru/company/it-grad/blog/339366/
+
+Не так страшен ЕГАИС, как им пугают: чем поможет уникальный модуль DataMobile ЕГАИС розничным магазинам | https://habrahabr.ru/company/scanport/blog/339518/
+
+9 советов по увеличению эффективности парного программирования | https://habrahabr.ru/company/retailrocket/blog/339358/
+
+Новая платформа Cisco Intersight упростит управление Cisco UCS и HyperFlex | https://habrahabr.ru/company/it-grad/blog/338626/
+
+Интернет-аукционы, API и конкретный пример, как на этом могут заработать сторонние разработчики | https://habrahabr.ru/post/339210/
+
+Изменился способ создания чат-ботов в Viber | https://habrahabr.ru/post/338970/
+
+DPI-дайджест: ИБ, виртуализация и регулирование | https://habrahabr.ru/company/vasexperts/blog/338862/
+
+Развертывание Magento 2 приложения для разработки | https://habrahabr.ru/post/338866/
+
+Суперкомпьютер Cray XC40 построит карту нейронов | https://habrahabr.ru/company/it-grad/blog/338618/
+
+Comodo Group сообщают о четырехкратном увеличении числа киберугроз | https://habrahabr.ru/company/vasexperts/blog/338482/
+
+Литература на выходные: 15 материалов по структурированию кода для разработчиков | https://habrahabr.ru/company/it-grad/blog/337836/
+
+Как перевести криптовалюту в другой блокчейн: немного о сайдчейнах | https://habrahabr.ru/company/bitfury/blog/338222/
+
+Как компании перенести свою инфраструктуру в облако и избежать ошибок | https://habrahabr.ru/company/it-grad/blog/337834/
+
+5 правил работы с суммами | https://habrahabr.ru/post/338108/
+
+Обновления Magento, Защита от вредных администраторов, утечки данных, исполнения кода | https://habrahabr.ru/post/338052/
+
+Обмен информацией о кибер-угрозах в реальном времени: новая платформа от ServiceNow | https://habrahabr.ru/company/it-guild/blog/337826/
+
+Доклады с Frontend Mix: оптимизация загрузки сайтов и дизайн-система на БЭМ и React | https://habrahabr.ru/company/yamoney/blog/337924/
+
+AMD готовится потеснить Intel на рынке серверных решений | https://habrahabr.ru/company/it-grad/blog/337630/
+
+«Дела осадные»: Как компании построить надежную крепость для защиты облака | https://habrahabr.ru/company/1cloud/blog/337428/
+
+Как мы создавали сервис касс АТОЛ Онлайн | https://habrahabr.ru/company/atol/blog/336678/
+
+Актуальные данные по телефонным кодам российских городов | https://habrahabr.ru/post/337184/
+
+Погружение в ценообразование Magento 2, убираем копейки после скидок | https://habrahabr.ru/post/336934/
+
+Работаем по ФЗ-54: Как автоматизировать курьеров с учетом новых требований закона? | https://habrahabr.ru/company/scanport/blog/336878/
+
+Двойная бюстгалтерия* глазами программиста | https://habrahabr.ru/post/336656/
+
+Что можно узнать о квартире из открытых справочников | https://habrahabr.ru/company/hflabs/blog/335450/
+
+«Каждому по кванту»: Станут ли квантовые вычисления коммерческим продуктом? | https://habrahabr.ru/company/1cloud/blog/335890/
+
+Yamichat — настраиваемый чат-бот и онлайн-консультант в одной платформе | https://habrahabr.ru/post/335818/
+
+Система управления складом с использованием CQRS и Event Sourcing. Service Layer | https://habrahabr.ru/post/335636/
+
+О чем всегда стоит помнить при локализации веб-сайта, чтобы потом не было стыдно | https://habrahabr.ru/company/lokalise/blog/335200/
+
+Что может и чего не может нейросеть: пятиминутный гид для новичков | https://habrahabr.ru/company/neurodatalab/blog/335238/
+
+Приглашаем на митап «Java и Linux – Борьба за микросекунды» | https://habrahabr.ru/company/dbtc/blog/334740/
+
+Почему Node.js в качестве основы фронтенда – это круто [обновлено] | https://habrahabr.ru/company/yamoney/blog/334500/
+
+Magento Dare to Share — Открытая Площадка для докладов о Magento, PHP и eCommerce | https://habrahabr.ru/post/334390/
+
+IaaS-дайджест: 30 материалов о работе с ПД, новых технологиях, ИБ и высокой производительности | https://habrahabr.ru/company/it-grad/blog/334424/
+
+Немного о SSL-сертификатах: Какой выбрать и как получить | https://habrahabr.ru/company/1cloud/blog/334278/
+
+Случайный лес vs нейросети: кто лучше справится с задачей распознавания пола в речи (ч.1) | https://habrahabr.ru/company/neurodatalab/blog/334136/
+
+Как перейти от КЛАДР к ФИАС и ничего себе не сломать | https://habrahabr.ru/company/hflabs/blog/333736/
+
+Система управления складом с использованием CQRS и Event Sourcing. Проектирование | https://habrahabr.ru/post/333678/
+
+Бот для Telegram за 48 часов на Perl или как купить кошачий корм не выходя из чата | https://habrahabr.ru/post/333586/
+
+Что, если выкинуть все лишнее из базы в распределенный кэш – наш опыт использования Hazelcast | https://habrahabr.ru/company/yamoney/blog/332462/
+
+Знакомство с методологией ITIL в ITSM | https://habrahabr.ru/company/it-guild/blog/331376/
+
+Система управления складом с использованием CQRS и Event Sourcing. Постановка требований | https://habrahabr.ru/post/331654/
+
+«База знаний»: 100 практических материалов по безопасности, экономике и инструментарию IaaS | https://habrahabr.ru/company/it-grad/blog/331620/
+
+Облачный хостинг PCI DSS: Детали предоставления услуги | https://habrahabr.ru/company/it-grad/blog/330578/
+
+Интерактивная кредитка для ввода платежа | https://habrahabr.ru/post/331176/
+
+MyTaskHelper.ru на практике: создание бесплатной БД для проверки результатов ОГЭ | https://habrahabr.ru/post/331000/
+
+В 2017 году зафиксировано пятикратное увеличение DDoS-атак | https://habrahabr.ru/company/it-grad/blog/330340/
+
+Отслеживание отправки форм с помощью GTM | https://habrahabr.ru/post/330472/
+
+Что такое эксклюзивные блокчейны | https://habrahabr.ru/company/bitfury/blog/330370/
+
+Интеграция телефонии с CRM: на что опираться при самостоятельной настройке | https://habrahabr.ru/company/uis/blog/330396/
+
+[обновлено] Как нагрузочное тестирование процессинга обошлось нам в €157 000 и почему никого не уволили | https://habrahabr.ru/company/yamoney/blog/329926/
+
+Как можно применять «большие данные» в страховании: проекты Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/329762/
+
+Google Chrome «поедает» рынок браузеров | https://habrahabr.ru/company/it-grad/blog/329396/
+
+«Сила IaaS»: Какое применение находят облачные технологии в автомобилестроении | https://habrahabr.ru/company/it-grad/blog/329394/
+
+ArcaOS 5.0 — новая версия OS/2 стала доступна широкой публике | https://habrahabr.ru/company/vasexperts/blog/329200/
+
+Интеграция CRM и телефонии, уроки разработки сложного продукта | https://habrahabr.ru/company/sipuni/blog/328798/
+
+IBM открыла доступ к новому 16-кубитному квантовому процессору | https://habrahabr.ru/company/it-grad/blog/328590/
+
+Феншуйная автоматизация CI & CD с помощью Jenkins и Jira | https://habrahabr.ru/company/yamoney/blog/328092/
+
+Кому нужны звонки, когда есть чаты и боты? | https://habrahabr.ru/company/Voximplant/blog/328616/
+
+Поднимаем сервис мониторинга цен конкурентов | https://habrahabr.ru/post/328734/
+
+Конструктор онлайн баз данных MyTaskHelper: создаем реляционные БД без знаний в области программирования | https://habrahabr.ru/company/mytaskhelper/blog/328744/
+
+«Алгоритмы консенсуса»: Подтверждение доли и доказательство работы | https://habrahabr.ru/company/bitfury/blog/327468/
+
+«SQL Server 2017»: Теперь с поддержкой Python | https://habrahabr.ru/company/1cloud/blog/327172/
+
+«Криптография в блокчейнах»: о хеш-функциях, ключах и цифровых подписях | https://habrahabr.ru/company/bitfury/blog/327272/
+
+Управление «силой мысли»: резидент акселератора Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/327106/
+
+Экстремальная миграция на PostgreSQL: без остановки, потерь и тестирования | https://habrahabr.ru/company/yamoney/blog/326998/
+
+«Теперь обязательно»: выдача SSL-сертификатов с учетом DNS-записи | https://habrahabr.ru/company/1cloud/blog/326734/
+
+«C чем это едят»: что такое блокчейн | https://habrahabr.ru/company/bitfury/blog/326340/
+
+Технология APS: фронтенд контрольной панели и возможности JS SDK | https://habrahabr.ru/company/odin_ingram_micro/blog/326232/
+
+«Как это работает»: знакомство с SSL/TLS | https://habrahabr.ru/company/1cloud/blog/326292/
+
+Красивые формы для приёма банковских карт с CardInfo.js | https://habrahabr.ru/post/324738/
+
+Как в «Додо Пицца» потеряли 8 миллионов за один час из-за технической ошибки, а потом вернули | https://habrahabr.ru/company/yamoney/blog/325762/
+
+Предварительная программа MBLT17 | https://habrahabr.ru/company/e-Legion/blog/325614/
+
+SMS и Email-уведомления и рассылки в онлайн-конструкторе MyTaskHelper | https://habrahabr.ru/company/mytaskhelper/blog/325294/
+
+В Университете ИТМО начнут разработку невзламываемых систем хранения данных | https://habrahabr.ru/company/spbifmo/blog/325346/
+
+Запрещенные изменения в коде или продолжение истории ремонта одного крана | https://habrahabr.ru/post/325124/
+
+Запускаем простой блог на Wagtail CMS (Django) — часть 3, заключительная | https://habrahabr.ru/post/325110/
+
+«Нам дорого» – ритейл об эквайринге | https://habrahabr.ru/company/chronopay/blog/325056/
+
+Дружим Angular с Google (Angular Universal) | https://habrahabr.ru/post/324926/
+
+Как современные платежные технологии используются предприятиями общественного питания по всему миру | https://habrahabr.ru/company/payonline/blog/312378/
+
+Технология APS: облачный стандарт | https://habrahabr.ru/company/odin_ingram_micro/blog/324422/
+
+Как развивать продукт, если в команде один разработчик и два заказчика? | https://habrahabr.ru/company/qiwi/blog/324666/
+
+Программист без диплома: что может и чего не может дать «домашнее обучение» в IT | https://habrahabr.ru/company/spbifmo/blog/324484/
+
+Политика обратной совместимости при разработке фреймворка на примере Magento 2. Часть 1 | https://habrahabr.ru/post/324450/
+
+Настройка функционала веб-формы в MyTaskHelper: действия по условию (триггеры) | https://habrahabr.ru/company/mytaskhelper/blog/324216/
+
+«В 100 000 раз быстрее»: ультракороткие световые импульсы в вычислительной технике | https://habrahabr.ru/company/vasexperts/blog/321120/
+
+Атомарные платежи для оплаты парковок в Lamoda | https://habrahabr.ru/company/yamoney/blog/324080/
+
+Cards VS e-Wallets | https://habrahabr.ru/company/chronopay/blog/323882/
+
+Изнанка работы платежных технологий на основе NFC и MST | https://habrahabr.ru/company/fondy/blog/322822/
+
+Magento U опубликовало бесплатный курс Fundamentals of Magento 2 Development | https://habrahabr.ru/post/323784/
+
+Как проектируют программы: от UML до автоматного подхода | https://habrahabr.ru/company/spbifmo/blog/323780/
+
+Куда ушли сайты со «средним» бюджетом, или как делать по 80 проектов в год с помощью Маркетплейса | https://habrahabr.ru/company/bitrix/blog/323662/
+
+Напиши мне денег: переводы через iMessage | https://habrahabr.ru/company/yamoney/blog/323520/
+
+Magento 2. Le Roi est mort! Vive le Roi? | https://habrahabr.ru/post/310106/
+
+Роль платежного сервиса в онлайн-транзакциях | https://habrahabr.ru/company/fondy/blog/322738/
+
+Настоящий герой в мире программирования: кто он? | https://habrahabr.ru/company/it-grad/blog/322812/
+
+Путешествие финансовой транзакции | https://habrahabr.ru/company/fondy/blog/322736/
+
+Big Data: большие возможности или большой обман | https://habrahabr.ru/company/1cloud/blog/322670/
+
+IBM открывает доступ к главному компоненту Watson | https://habrahabr.ru/company/1cloud/blog/322196/
+
+Комментарии: Райффайзен, Альфа-Банк и ВТБ24 | https://habrahabr.ru/company/chronopay/blog/321964/
+
+PrestaShop. О глюке в многоуровневой навигации | https://habrahabr.ru/post/321398/
+
+«Нейроморфные чипы»: иной взгляд на машинное обучение | https://habrahabr.ru/company/1cloud/blog/321870/
+
+Мультифакторный анализатор деятельности произвольного предприятия на IEM-платформе | https://habrahabr.ru/company/ultima/blog/321704/
+
+Пропуск в партер – как запускались Apple Pay и Samsung Pay в Яндекс.Деньгах | https://habrahabr.ru/company/yamoney/blog/321254/
+
+Neurostream — новый чип для глубокого обучения | https://habrahabr.ru/company/1cloud/blog/321304/
+
+Как я создал SaaS-сервис, который приносит мне 1000 долларов в месяц | https://habrahabr.ru/post/320292/
+
+Инфраструктура простой электронной подписи. Часть 4: Практические аспекты реализации | https://habrahabr.ru/post/320936/
+
+«Работает — не трогай»: Старый код и компьютеры, которые до сих пор функционируют | https://habrahabr.ru/company/it-grad/blog/319620/
+
+Опыт использования Samsung Pay | https://habrahabr.ru/company/chronopay/blog/320894/
+
+D-Wave Systems продали свой первый 2000-кубитный квантовый компьютер | https://habrahabr.ru/company/it-grad/blog/319618/
+
+Дайджест материалов по теме Deep Packet Inspection | https://habrahabr.ru/company/vasexperts/blog/319628/
+
+«DPI платит за себя»: Актуальные бизнес-кейсы | https://habrahabr.ru/company/vasexperts/blog/319624/
+
+Облачные вычисления второго поколения: Система CLAVIRE | https://habrahabr.ru/company/spbifmo/blog/319688/
+
+«Пятничный формат»: Размер зарплаты имеет значение, или за что готовы платить работодатели | https://habrahabr.ru/company/1cloud/blog/319448/
+
+«Мое облако — моя крепость»: Тренды облачной безопасности | https://habrahabr.ru/company/1cloud/blog/319398/
+
+Инфраструктура простой электронной подписи. Часть 3: Системы обработки персональных данных | https://habrahabr.ru/post/319128/
+
+Способ борьбы со зверствующими анти-адблокерами, блокировщиками самих себя | https://habrahabr.ru/post/319118/
+
+Инфраструктура простой электронной подписи. Часть 2: Моделирование целевой системы | https://habrahabr.ru/post/319034/
+
+Инфраструктура простой электронной подписи. Часть 1: Моделирование использующих систем | https://habrahabr.ru/post/319006/
+
+«Дайджест 1cloud»: 25 материалов о безопасности, работе программистов и опыте создания IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/318430/
+
+Личный опыт: Как мы автоматизировали работу с DNS-записями в хостинг-панели | https://habrahabr.ru/company/1cloud/blog/318286/
+
+Немного об истории CAPTCHA | https://habrahabr.ru/company/vasexperts/blog/316276/
+
+Swagger в Magento 2 | https://habrahabr.ru/post/317770/
+
+«Мир не Дикого Запада»: IEEE опубликовала стандарт по созданию благожелательных роботов | https://habrahabr.ru/company/vasexperts/blog/316274/
+
+Как защитить умный дом: Решение от команды Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/317454/
+
+«Эхо прошлых лет»: Как решается вопрос недостатка адресов IPv4 | https://habrahabr.ru/company/vasexperts/blog/316272/
+
+Дайджест Университета ИТМО: Подборка ресурсов по искусственному интеллекту | https://habrahabr.ru/company/spbifmo/blog/317276/
+
+«Пятничный формат»: Что случится, когда закон Мура перестанет действовать | https://habrahabr.ru/company/1cloud/blog/317204/
+
+Magento 2: ObjectManager и Proxy-классы | https://habrahabr.ru/post/317162/
+
+Какой может быть работа ИТ-специалиста будущего | https://habrahabr.ru/company/1cloud/blog/316930/
+
+«Великий уравнитель» или способ решить проблему выравнивания по высоте | https://habrahabr.ru/company/SECL_GROUP/blog/316406/
+
+Навыки опытного программиста: Самые популярные советы начинающим | https://habrahabr.ru/company/1cloud/blog/315852/
+
+Модуль импорта товаров в Битрикс | https://habrahabr.ru/post/315848/
+
+Так когда же умрет электронная почта? | https://habrahabr.ru/company/pechkin/blog/315834/
+
+DPI-дайджест: Анализ трафика, блокировки, платформы и производители систем DPI | https://habrahabr.ru/company/vasexperts/blog/315008/
+
+«Ультимативный» SSL-дайджест: Лучшие практические материалы на Хабре и не только | https://habrahabr.ru/company/1cloud/blog/315758/
+
+Разработки Университета ИТМО: Управление дронами на основе блокчейн | https://habrahabr.ru/company/spbifmo/blog/315750/
+
+Magento 2. Ui Grid | https://habrahabr.ru/post/315182/
+
+Кто ты по професии: Разница между «Programmer», «Software Engineer» и «Computer Scientist» | https://habrahabr.ru/company/1cloud/blog/315230/
+
+Разработка модулей для Magento 1.x — большой гайд + видео | https://habrahabr.ru/post/312322/
+
+Декомпиляция Java-методов на продуктивном приложении под нагрузкой – миф или реальность? | https://habrahabr.ru/company/jetinfosystems/blog/314874/
+
+Немного о типах DDoS-атак и методах защиты | https://habrahabr.ru/company/vasexperts/blog/313562/
+
+Упрощаем бинарный поиск в Excel — реализация Double VLOOKUP Trick с помощью UDF | https://habrahabr.ru/post/313476/
+
+Как сейчас используют нейросети: от научных проектов до развлекательных сервисов | https://habrahabr.ru/company/1cloud/blog/312806/
+
+IaaS и GaaS: «Облачное» будущее видеоигр | https://habrahabr.ru/company/it-grad/blog/312040/
+
+«Будущее телетрансляций»: Облачное телевидение и не только | https://habrahabr.ru/company/1cloud/blog/312584/
+
+Немного о безопасности в «облаке»: Опыт IaaS-провайдера «1cloud» | https://habrahabr.ru/company/1cloud/blog/312260/
+
+«Везде как дома»: Какие технологии использует сервис Airbnb | https://habrahabr.ru/company/1cloud/blog/312132/
+
+Легко начать, закончить трудно или про смерть стартапов | https://habrahabr.ru/company/SECL_GROUP/blog/311894/
+
+100% онлайн-авиапроездной или Как укротить систему бронирования | https://habrahabr.ru/company/eastbanctech/blog/311862/
+
+Неофициальное дополнение к статье про банковскую карту МегаФона | https://habrahabr.ru/post/311774/
+
+Верстка адаптивных электронных писем: Проблемы и их решения | https://habrahabr.ru/company/pechkin/blog/311656/
+
+«Пишите письма»: Три техники верстки хороших email’ов | https://habrahabr.ru/company/pechkin/blog/311572/
+
+Как создать тему для Magento 2 с нуля | https://habrahabr.ru/post/311350/
+
+Как это работает: карта МегаФона | https://habrahabr.ru/company/megafon/blog/311122/
+
+Несколько способов оптимизации работы с Git | https://habrahabr.ru/company/1cloud/blog/309704/
+
+«Эволюция музыки»: Пара слов о рекомендательных алгоритмах стриминговых сервисов | https://habrahabr.ru/company/it-grad/blog/309030/
+
+Заказная разработка программного обеспечения | https://habrahabr.ru/post/310456/
+
+Magento 2: Создание грида в adminhtml | https://habrahabr.ru/post/310098/
+
+Миф о незрелости мобильных NFC технологий | https://habrahabr.ru/company/gemaltorussia/blog/310008/
+
+Кейс OZON.ru: Как сделать тарификацию доставки прозрачной и управляемой | https://habrahabr.ru/post/309810/
+
+«Архитектуры приложений»: немного о бессерверных архитектурах | https://habrahabr.ru/company/it-grad/blog/309026/
+
+Глубинное обучение: возможности, перспективы и немного истории | https://habrahabr.ru/company/it-grad/blog/309024/
+
+Банковская карта от «МегаФона» | https://habrahabr.ru/company/megafon/blog/306700/
+
+Автоматическое изменение типов продуктов в Magento 2 | https://habrahabr.ru/post/309184/
+
+How-to: гайд по созданию интерактивных писем | https://habrahabr.ru/company/pechkin/blog/308954/
+
+Как «моделируют будущее» в Университете ИТМО: от предсказания поведения толпы до анализа мнений в соцсетях | https://habrahabr.ru/company/spbifmo/blog/308694/
+
+«В одной корзине»: Немного о хранении кода | https://habrahabr.ru/company/1cloud/blog/308060/
+
+Мифы об облачных технологиях. Часть 1: о «бесполезной» техподдержке и «навороченных» сервисах | https://habrahabr.ru/company/1cloud/blog/307930/
+
+Интеграция Ultima 2C и Ebay. Личный опыт | https://habrahabr.ru/company/ultima/blog/307782/
+
+«Машинное обучение»: Потенциал и возможности | https://habrahabr.ru/company/it-grad/blog/306220/
+
+Сравнение онлайн-сервисов склонения имен | https://habrahabr.ru/post/304804/
+
+Бесконтактные платежи – на пути к доверию потребителей и разработчиков | https://habrahabr.ru/company/gemaltorussia/blog/306844/
+
+Лазерные коммуникации на примере технологий Facebook | https://habrahabr.ru/company/it-grad/blog/306218/
+
+«Заложено природой»: Система хранения данных на основе ДНК | https://habrahabr.ru/company/1cloud/blog/306656/
+
+«Ближе к народу»: Нужно ли руководителю разбираться в программировании | https://habrahabr.ru/company/1cloud/blog/305908/
+
+Хаордическая организация Visa (Часть 4) | https://habrahabr.ru/company/chronopay/blog/305904/
+
+Секреты успеха мобильных платежей от Starbucks | https://habrahabr.ru/company/payonline/blog/305474/
+
+IaaS и наука: Как это работает. Часть 2 | https://habrahabr.ru/company/it-grad/blog/304656/
+
+Пятничный формат: IaaS и наука – как это работает | https://habrahabr.ru/company/it-grad/blog/304652/
+
+Изменения в дата-центрах: Технологические решения | https://habrahabr.ru/company/1cloud/blog/305034/
+
+«Молчание – золото»: 13 вещей, которые не стоит говорить разработчикам и тестировщикам | https://habrahabr.ru/company/1cloud/blog/304694/
+
+Немного о повышении производительности БД: Практические советы | https://habrahabr.ru/company/1cloud/blog/304642/
+
+Концепция производительности и масштабируемости Spryker | https://habrahabr.ru/post/304604/
+
+IaaS-дайджест: 30 материалов о трансформации технологий | https://habrahabr.ru/company/it-grad/blog/304290/
+
+PCI DSS: Тенденции и преимущества | https://habrahabr.ru/company/it-grad/blog/304288/
+
+Не самолет, но в «облаках»: Автомобили и облачные технологии | https://habrahabr.ru/company/it-grad/blog/283412/
+
+Что угрожает вашему сайту после установки онлайн-консультанта и как мы с этим боремся | https://habrahabr.ru/company/redhelper/blog/303226/
+
+Magento 2: добавление колонки к гриду админки | https://habrahabr.ru/post/303028/
+
+Как не дать частым релизам поломать ваше API, или пишем авто-тесты для открытого API и шлем результат в Telegram бот | https://habrahabr.ru/post/302736/
+
+На Amazon идёт война алгоритмов за позицию «лучшего» товара | https://habrahabr.ru/company/rootwelt/blog/302698/
+
+Резервное копирование в облако – Commvault v11 | https://habrahabr.ru/company/it-grad/blog/283410/
+
+Облачный дайджест #6: Работа с данными и безопасность | https://habrahabr.ru/post/302236/
+
+Работа с данными: Как это делают крупные компании | https://habrahabr.ru/company/1cloud/blog/302124/
+
+25 книг по теме облачной экономики и безопасности | https://habrahabr.ru/company/it-grad/blog/283408/
+
+Модульные дата-центры: ЦОД IaaS-провайдера «ИТ-ГРАД» | https://habrahabr.ru/company/it-grad/blog/283406/
+
+IaaS-дайджест: 30 материалов по теме облачной безопасности | https://habrahabr.ru/company/it-grad/blog/283404/
+
+Как сократить расходы на хранение данных | https://habrahabr.ru/company/1cloud/blog/301546/
+
+Как защитить облачную инфраструктуру | https://habrahabr.ru/company/it-grad/blog/283402/
+
+Немного о трендах в сфере «облачной» безопасности | https://habrahabr.ru/company/1cloud/blog/301354/
+
+Magento 2: cookies, registry, session | https://habrahabr.ru/post/301186/
+
+Пятничный формат: Необычные решения ЦОД | https://habrahabr.ru/company/1cloud/blog/301154/
+
+ФИАС и семь смертных граблей разработчика | https://habrahabr.ru/company/hflabs/blog/301014/
+
+Когда бизнесу нужны «облака» и виртуализация | https://habrahabr.ru/company/it-grad/blog/283398/
+
+Как дата-центры меняются прямо сейчас: Технологические решения для ЦОД | https://habrahabr.ru/company/1cloud/blog/283472/
+
+Немного о конвергентной (и гиперконвергентной) ИТ-инфраструктуре | https://habrahabr.ru/company/it-grad/blog/281813/
+
+«Облачный дайджест» #5: Виртуальная инфраструктура | https://habrahabr.ru/post/282976/
+
+Виртуальная ИТ-инфраструктура: Плюсы и минусы | https://habrahabr.ru/company/1cloud/blog/282908/
+
+Чат-боты: собеседники на все случаи | https://habrahabr.ru/company/bitrix/blog/282702/
+
+Big Data: «Серебряная пуля» или еще один инструмент | https://habrahabr.ru/company/1cloud/blog/282560/
+
+Немного о «законе Мура» | https://habrahabr.ru/company/1cloud/blog/282377/
+
+IaaS-дайджест: 30 материалов по теме ИБ | https://habrahabr.ru/company/it-grad/blog/281803/
+
+Организация функциональных требований на крупном проекте | https://habrahabr.ru/post/282311/
+
+На пути к созданию собственного движка интернет магазина | https://habrahabr.ru/post/282195/
+
+Увеличение производительности Magento | https://habrahabr.ru/post/282025/
+
+Как создать провайдера виртуальной инфраструктуры: Опыт 1cloud | https://habrahabr.ru/company/1cloud/blog/281889/
+
+История одной интеграции, или как мы перестали беспокоиться и полюбили InterSystems Ensemble | https://habrahabr.ru/company/intersystems/blog/275271/
+
+Развитие облачных технологий и робототехники в новом десятилетии | https://habrahabr.ru/company/1cloud/blog/281543/
+
+IaaS-дайджест: 30 материалов по теме виртуализации | https://habrahabr.ru/company/it-grad/blog/280868/
+
+Хранение данных: Какое будущее нас ждет | https://habrahabr.ru/company/1cloud/blog/281563/
+
+Искусственный интеллект: что о нем думают ученые | https://habrahabr.ru/company/1cloud/blog/281282/
+
+Пятничный формат: Как работает Netflix | https://habrahabr.ru/company/1cloud/blog/281228/
+
+Ближайшее будущее облачных технологий и виртуализации | https://habrahabr.ru/company/it-grad/blog/280864/
+
+«Облачный» дайджест #3: Хранение данных, ИБ и WordPress | https://habrahabr.ru/post/280494/
+
+5-я Международная мобильная конференция MBLT16 уже через месяц | https://habrahabr.ru/company/e-Legion/blog/280906/
+
+Самое интересное из арсенала vSphere 6 | https://habrahabr.ru/company/it-grad/blog/280862/
+
+Простыми словами: Разбираемся с «облачными» услугами | https://habrahabr.ru/company/1cloud/blog/280376/
+
+Подсказываем реквизиты компаний по данным ФНС РФ и бесплатно ищем дубли | https://habrahabr.ru/company/hflabs/blog/279861/
+
+Сертификация PCI DSS: Что это и с чем её едят | https://habrahabr.ru/company/it-grad/blog/279227/
+
+«Облачный» дайджест #2: AI, Big Data и хранение данных | https://habrahabr.ru/post/279937/
+
+Битва роботов на Хакатоне Яндекс.Денег | https://habrahabr.ru/post/279869/
+
+Катастрофоустойчивый IaaS, а также репликация и бэкапы | https://habrahabr.ru/company/it-grad/blog/279223/
+
+Динамическая верификация кода – минимизация риска мошенничества при сохранении удобства совершения покупок онлайн | https://habrahabr.ru/company/gemaltorussia/blog/279487/
+
+DI плагины в Magento 2 | https://habrahabr.ru/post/279413/
+
+«Переезд» в облако: Возможность не только для ИТ-компаний | https://habrahabr.ru/company/it-grad/blog/277975/
+
+Проекты, «переехавшие» в облако: Опыт компании ИТ-ГРАД | https://habrahabr.ru/company/it-grad/blog/277973/
+
+Как обезопасить процесс онлайн-покупок | https://habrahabr.ru/company/gemaltorussia/blog/278289/
+
+Немного о хранении данных и опыте 1cloud | https://habrahabr.ru/company/1cloud/blog/278055/
+
+Немного о 2FA: Двухфакторная аутентификация | https://habrahabr.ru/company/1cloud/blog/277901/
+
+API для работы с сервисами: Базовые моменты | https://habrahabr.ru/company/1cloud/blog/277499/
+
+Корпоративное облако: Варианты подключения | https://habrahabr.ru/company/it-grad/blog/276809/
+
+Виртуализация и виртуальные дата-центры: Базовые вопросы | https://habrahabr.ru/company/it-grad/blog/276807/
+
+Как разработчику «влиться» в тему DevOps | https://habrahabr.ru/company/1cloud/blog/277369/
+
+Пример модуля для Magento 2 другимъ манеромъ | https://habrahabr.ru/post/277183/
+
+Ultima 2C — бесплатное решение класса ERP II на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/277037/
+
+Кратко о трендах в сфере IaaS | https://habrahabr.ru/company/it-grad/blog/276803/
+
+Немного об архитектурах программного обеспечения | https://habrahabr.ru/company/it-grad/blog/276297/
+
+ИТ-инфраструктура, ИБ и телеком: Мероприятия в 2016-м | https://habrahabr.ru/company/it-grad/blog/276293/
+
+Личный кабинет для дилеров за 5 минут | https://habrahabr.ru/company/anve/blog/275267/
+
+IaaS для дела: Как российский бизнес переходит в «облако» | https://habrahabr.ru/company/it-grad/blog/276145/
+
+Подборка: Более 800 ресурсов для front-end-разработчиков | https://habrahabr.ru/company/it-grad/blog/275673/
+
+Спецслужбы предположительно использовали уязвимости в Juniper | https://habrahabr.ru/company/1cloud/blog/275167/
+
+Дайджест полезных источников по теме IaaS | https://habrahabr.ru/company/it-grad/blog/275163/
+
+350+ полезных ресурсов, книг и инструментов для работы с Docker | https://habrahabr.ru/company/1cloud/blog/275015/
+
+Минута теории: Разбираемся с RESTful-приложениями | https://habrahabr.ru/company/1cloud/blog/274881/
+
+Немного о трендах в области суперкомпьютеров | https://habrahabr.ru/company/1cloud/blog/273667/
+
+Digital Data Layer — сердце вашей tag-management системы | https://habrahabr.ru/post/273307/
+
+Конверсия платежей: 4 причины, снижающие успешность оплаты на вашем сайте и способы их устранения | https://habrahabr.ru/company/payler/blog/272091/
+
+Как масштабировать Ruby-приложения | https://habrahabr.ru/company/1cloud/blog/272471/
+
+Как решить проблемы с платежным шлюзом: Кейс Airbnb | https://habrahabr.ru/company/1cloud/blog/271567/
+
+Как вести секретную переписку. Часть 2 | https://habrahabr.ru/company/it-grad/blog/271455/
+
+Сервисы проверки знаний [Сертификация Magento] | https://habrahabr.ru/post/271421/
+
+Реализация технологий indoor-навигации: примеры TechCrunch | https://habrahabr.ru/company/navigine/blog/271369/
+
+Как собеседовать ИТ-специалистов | https://habrahabr.ru/company/1cloud/blog/271351/
+
+Безвозмездно, то есть даром: бесплатное ERP-решение для скромного e-commerce бизнеса на платформе Ultima Businessware | https://habrahabr.ru/company/ultima/blog/271171/
+
+Как вести секретную переписку. Часть 1 | https://habrahabr.ru/company/it-grad/blog/271165/
+
+Какие технологии использует Netflix | https://habrahabr.ru/company/1cloud/blog/271159/
+
+Подборка бесплатных инструментов для разработчиков | https://habrahabr.ru/company/it-grad/blog/270589/
+
+Вышел Magento 2.0 Release Candidate | https://habrahabr.ru/post/270377/
+
+Как работают маяки: Физика технологии iBeacon | https://habrahabr.ru/company/navigine/blog/269735/
+
+Базовая структура модуля Magento [Сертификация Magento] | https://habrahabr.ru/post/269661/
+
+Magento-модули и Travis CI | https://habrahabr.ru/post/247349/
+
+Как правильно писать RFP на разработку ПО | https://habrahabr.ru/post/269111/
+
+Magento Codepools [Сертификация Magento] | https://habrahabr.ru/post/269341/
+
+Indoor-навигация: Большой обзор iBeacon Hardware | https://habrahabr.ru/company/navigine/blog/269195/
+
+Тренды мирового e-commerce рынка в 2015-2016 годах | https://habrahabr.ru/company/SECL_GROUP/blog/268455/
+
+Как работает VMware DRS | https://habrahabr.ru/company/1cloud/blog/268397/
+
+Каким стартапам нужен IaaS: Сервисы распознавания речи | https://habrahabr.ru/company/it-grad/blog/268343/
+
+Пример модуля для Magento 2 | https://habrahabr.ru/post/268245/
+
+Как писать высокодоступный код | https://habrahabr.ru/company/1cloud/blog/268161/
+
+Файловая система и Hadoop: Опыт Twitter (Часть 2) | https://habrahabr.ru/company/1cloud/blog/268129/
+
+Файловая система и Hadoop: Опыт Twitter (Часть 1) | https://habrahabr.ru/company/1cloud/blog/268041/
+
+DaData.ru превращает гуиды в адреса и знает всех пацанов на раёне | https://habrahabr.ru/company/hflabs/blog/267997/
+
+Алгоритмы в реальном мире | https://habrahabr.ru/company/1cloud/blog/267719/
+
+Как Netflix находит неисправные серверы | https://habrahabr.ru/company/1cloud/blog/267201/
+
+Чему можно поучиться у WhatsApp | https://habrahabr.ru/company/1cloud/blog/267053/
+
+Говорит Gartner: «Перегретые» IoT и практичные облака | https://habrahabr.ru/company/1cloud/blog/266437/
+
+Чем хороши новые процессоры Intel Skylake | https://habrahabr.ru/company/1cloud/blog/266133/
+
+Лемматизация в Excel, или «Робот-распознаватель 3.0» | https://habrahabr.ru/company/realweb/blog/265375/
+
+Создание простого магазина в CMS Orchard (widget-way) | https://habrahabr.ru/post/264689/
+
+Анализ больших семантических ядер, или «Робот-распознаватель» | https://habrahabr.ru/company/realweb/blog/264591/
+
+Как Spotify масштабирует Apache Storm | https://habrahabr.ru/company/it-grad/blog/264549/
+
+Как разработчики сайтов создают будущее ТВ | https://habrahabr.ru/company/it-grad/blog/264257/
+
+Модульная WEB админка на ASP.NET MVC и AngularJS | https://habrahabr.ru/post/263525/
+
+Text Analytics as Commodity: обзор приложений текстовой аналитики | https://habrahabr.ru/company/textocat/blog/259035/
+
+7 простых советов по оптимизации писем под мобильные устройства | https://habrahabr.ru/company/pechkin/blog/263189/
+
+Система сбора отзывов Cackle Reviews с полнотекстовым поиском | https://habrahabr.ru/company/cackle/blog/261829/
+
+Оптимизация производительности MySQL | https://habrahabr.ru/company/1cloud/blog/261741/
+
+Большие данные и большие вопросы | https://habrahabr.ru/company/1cloud/blog/261487/
+
+Использование Log4php в Magento-приложениях | https://habrahabr.ru/post/253665/
+
+Примеры использования MongoDB в e-commerce (часть 2) | https://habrahabr.ru/post/260291/
+
+От эксперимента к продукту: Hadoop и Big Data | https://habrahabr.ru/company/1cloud/blog/259433/
+
+Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях | https://habrahabr.ru/post/259219/
+
+Действие вместо перехода: ссылка способна на большее | https://habrahabr.ru/company/krible/blog/258987/
+
+Анализ данных на Scala. Считаем корреляцию 21-го века | https://habrahabr.ru/company/retailrocket/blog/258543/
+
+AI, Big Data и дезинформация технологий | https://habrahabr.ru/company/1cloud/blog/258219/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 2) | https://habrahabr.ru/company/pechkin/blog/257397/
+
+В поисках идеальной системы отзывов для интернет-магазина | https://habrahabr.ru/company/cackle/blog/256993/
+
+Автоплатеж изнутри: часть 1. Как работают рекурренты | https://habrahabr.ru/company/payler/blog/256881/
+
+Вёрстка адаптивных email-писем: подробное руководство (часть 1) | https://habrahabr.ru/company/pechkin/blog/256853/
+
+О чем говорят 100 млн писем: Полная инструкция по работе с email-рассылками | https://habrahabr.ru/company/pechkin/blog/256245/
+
+Система отзывов для интернет-магазинов — Cackle Reviews | https://habrahabr.ru/company/cackle/blog/255477/
+
+26 полезных советов из области email-маркетинга от самых успешных компаний со всего мира | https://habrahabr.ru/company/pechkin/blog/255167/
+
+Payler: обновление сертификации PCI DSS до версии 3.0 — DONE | https://habrahabr.ru/company/payler/blog/255039/
+
+Как интегрировать email и мессенджер для командной работы | https://habrahabr.ru/company/kato/blog/255121/
+
+Лайфхак: Как объединить две разные команды в мессенджере Slack | https://habrahabr.ru/company/kato/blog/255049/
+
+Как технологии помогают разработчикам решать проблему общения с клиентом: сервис Sameroom | https://habrahabr.ru/company/kato/blog/254821/
+
+Электронная цифровая подпись (ЭЦП) документов в 1С за пару кликов с использованием утилиты КРИПТО-ПРО PDF | https://habrahabr.ru/post/253681/
+
+Аарон Леви: Разработка B2B-продуктов | https://habrahabr.ru/company/friifond/blog/253093/
+
+Тренды и статистика: Как интернет-компании создать эффективную рассылку | https://habrahabr.ru/company/pechkin/blog/252641/
+
+Мониторинг цен ритейлеров в России | https://habrahabr.ru/post/252549/
+
+CTOcast #5: «Для хорошей дискуссии тебе не нужна тысяча человек» | https://habrahabr.ru/company/caspowa/blog/252517/
+
+«Тяжёлый» прикладной софт: будни разработки и внедрения | https://habrahabr.ru/company/croc/blog/251995/
+
+Полтора года работы с SAP hybris: полет нормальный. Самое важное, что вам надо знать о разработке на eCommerce-платформах | https://habrahabr.ru/post/251461/
+
+Как упростить проверку держателя банковской карты при онлайн-платежах? | https://habrahabr.ru/company/payture/blog/250729/
+
+API в реальной жизни: Как облегчить задачу создания сайтов для поиска и покупки автозапчастей | https://habrahabr.ru/company/nodasoft/blog/251107/
+
+Популярно про фрод — ответы на вопросы из реальной жизни электронных коммерсантов | https://habrahabr.ru/company/payture/blog/250437/
+
+Как рекламировать онлайн-игру | https://habrahabr.ru/post/249993/
+
+Разоренные гарпиями. История возникновения высокоскоростного трейдинга | https://habrahabr.ru/company/itinvest/blog/248415/
+
+7 секретов успешной торговли на Amazon | https://habrahabr.ru/post/248199/
+
+7 типичных ошибок при проектировании процесса чекаута | https://habrahabr.ru/company/payu/blog/248215/
+
+Без купюр. Первый месяц кэшбэк-сервиса kubish.ru в России | https://habrahabr.ru/post/248057/
+
+Как включить отображение Facebook приложения на мобильных устройствах? | https://habrahabr.ru/company/chooos/blog/247389/
+
+Разработка Magento-модулей с развертыванием приложения через Magento Composer | https://habrahabr.ru/post/246703/
+
+Алекс Шульц (часть 3): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/247095/
+
+Рассчитываем CLV в интернет-магазине | https://habrahabr.ru/company/convead/blog/247023/
+
+Payler. Подводим итоги 2014! | https://habrahabr.ru/company/payler/blog/247003/
+
+Мерчиум ищет партнеров | https://habrahabr.ru/company/merchium/blog/245029/
+
+Алекс Шульц (часть 2): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/246811/
+
+Как мы делали кэшбэк-сервис kubish.ru | https://habrahabr.ru/post/246519/
+
+Персонализация в электронной коммерции | https://habrahabr.ru/company/retailrocket/blog/246793/
+
+Как я искал идею для стартапа в Кремниевой Долине | https://habrahabr.ru/post/246515/
+
+Алекс Шульц (часть 1): введение в growth hacking | https://habrahabr.ru/company/friifond/blog/246137/
+
+Питер Тиль: как построить монополию? | https://habrahabr.ru/company/friifond/blog/245525/
+
+Питер Тиль: конкуренция – удел проигравших | https://habrahabr.ru/company/friifond/blog/245319/
+
+Автор книги Lean Startup Эрик Рис и Илья Королев (ФРИИ) о преимуществах «бережливого» подхода к созданию компаний | https://habrahabr.ru/company/friifond/blog/244969/
+
+Как увеличить продажи в интернет-магазине с помощью сегментирования листов email-рассылок | https://habrahabr.ru/company/convead/blog/244877/
+
+Готовь сани летом: Проверь свою готовность к праздничным продажам (прежде, чем клиенты сделают это) | https://habrahabr.ru/company/astoundcommerce/blog/244391/
+
+Адора Чьюнг (2-я часть лекции): growth hacking | https://habrahabr.ru/company/friifond/blog/244077/
+
+Автоматизация финансового учета интернет-магазина: опыт «Аудиомании» | https://habrahabr.ru/company/audiomania/blog/243841/
+
+Gov.uk: базовые аспекты методологии agile | https://habrahabr.ru/company/friifond/blog/243723/
+
+Инновации в ecommerce, которые могут изменить привычный онлайн-шоппинг | https://habrahabr.ru/company/astoundcommerce/blog/243521/
+
+Адора Чьюнг (часть 1): продукт и кривая честности | https://habrahabr.ru/company/friifond/blog/243493/
+
+Как и зачем «ломают» интернет-магазины | https://habrahabr.ru/company/pentestit/blog/242953/
+
+Payler – LIVE! | https://habrahabr.ru/company/payler/blog/243193/
+
+Как работает интернет-реклама: Арбитраж трафика | https://habrahabr.ru/company/advertone_ru/blog/242791/
+
+Ecommerce в реальном времени | https://habrahabr.ru/company/astoundcommerce/blog/242773/
+
+Сэм Альтман и Дастин Московитц: Как и зачем создавать стартап? | https://habrahabr.ru/company/friifond/blog/241885/
+
+Технологии eCommerce на службе B2B-проектов | https://habrahabr.ru/company/audiomania/blog/241061/
+
+Как Apple Pay повлияет на рынок мобильных платежей? | https://habrahabr.ru/post/240985/
+
+Удачного взлета и мягкой посадки. Landing page для конечных пользователей | https://habrahabr.ru/company/vcstart/blog/240621/
+
+Как 3 человека без инвестиций «волшебную кнопку» для магазинов делали | https://habrahabr.ru/post/239563/
+
+11 базовых принципов эффективного лендинга | https://habrahabr.ru/company/astoundcommerce/blog/238957/
+
+Создаем виртуальный mPOS терминал | https://habrahabr.ru/company/payler/blog/238441/
+
+Как IT-мошенники разоряют предприятия в e-commerce, используя украденные данные банковских карт? | https://habrahabr.ru/company/payture/blog/237803/
+
+Дело не в сookie: Безопасность данных и онлайн-реклама в эпоху мультиэкранности | https://habrahabr.ru/company/advertone_ru/blog/237853/
+
+E-commerce платформы. Часть 3. В чем секрет популярности Magento? | https://habrahabr.ru/company/astoundcommerce/blog/237815/
+
+Мерчиум + Яндекс.Деньги = Бесплатные и мощные интернет-магазины | https://habrahabr.ru/company/merchium/blog/236191/
+
+Не только гаджеты: рекламная сеть Apple iAd | https://habrahabr.ru/company/advertone_ru/blog/236367/
+
+E-commerce платформы. Часть 2. Что такое Demandware и с чем его едят? | https://habrahabr.ru/company/astoundcommerce/blog/234983/
+
+IPO концерна Alibaba: что на самом деле будут покупать инвесторы | https://habrahabr.ru/company/itinvest/blog/234971/
+
+Как санкции повлияют на российский рынок онлайн-рекламы | https://habrahabr.ru/company/advertone_ru/blog/234641/
+
+Кейс Crocs: оптимизация продаж на сто миллионов. Часть 1 | https://habrahabr.ru/company/astoundcommerce/blog/234273/
+
+Тренды в e-commerce дизайне | https://habrahabr.ru/company/astoundcommerce/blog/233217/
+
+Как будет развиваться RTB-реклама в России: 3 прогноза | https://habrahabr.ru/company/advertone_ru/blog/233341/
+
+Перспективные E-commerce рынки | https://habrahabr.ru/company/astoundcommerce/blog/232701/
+
+Magento шаг за шагом: REST API | https://habrahabr.ru/post/232603/
+
+Геймификация в E-commerce | https://habrahabr.ru/company/astoundcommerce/blog/231321/
+
+История Аудиомании. Часть 1 | https://habrahabr.ru/company/audiomania/blog/231733/
+
+E-commerce платформы. Вступление. Часть 1 | https://habrahabr.ru/company/astoundcommerce/blog/231645/
+
+5 историй о слияниях и поглощениях технологических рекламных стартапов | https://habrahabr.ru/company/advertone_ru/blog/231589/
+
+E-Commerce сегодня: искусство и наука | https://habrahabr.ru/company/astoundcommerce/blog/231293/
+
+Как я выбирал платежную систему и почему мы добавили Bitcoin в качестве варианта оплаты | https://habrahabr.ru/post/231163/
+
+Magento шаг за шагом | https://habrahabr.ru/post/230957/
+
+Китайский интернет-гигант Alibaba выбрал для IPO Нью-Йоркскую фондовую биржу (NYSE) | https://habrahabr.ru/company/itinvest/blog/230977/
+
+QPX Express API: бизнес по продаже авиабилетов не вставая с дивана | https://habrahabr.ru/company/google/blog/230883/
+
+Реализация комплектаций товаров в интернет-магазинах ReadyScript | https://habrahabr.ru/company/readyscript/blog/230763/
+
+Сколько может стоить один лишний пробел? | https://habrahabr.ru/post/230401/
+
+Facebook тестирует кнопку «Купить» | https://habrahabr.ru/post/230279/
+
+Электронная почта: сервисы для отслеживания открытия писем | https://habrahabr.ru/post/230063/
+
+Тестирование нового продукта: модуль онлайн-страхования | https://habrahabr.ru/company/payler/blog/228663/
+
+Рекламные войны: Поисковики против интернет-провайдеров | https://habrahabr.ru/company/advertone_ru/blog/228437/
+
+Характеристика #3 — Подкаст о предпринимателях и актуальных трендах ИТ-экосистемы | https://habrahabr.ru/company/audiomania/blog/228377/
+
+Up-selling (апселлинг): увеличиваем средний чек продаж | https://habrahabr.ru/post/228277/
+
+Продавать много: принципы устройства отдела продаж | https://habrahabr.ru/company/youvend/blog/227421/
+
+Дивный новый мир: мобильные операторы, как крупнейшие поставщики рекламных данных | https://habrahabr.ru/company/advertone_ru/blog/227257/
+
+Кросс селлинг: увеличиваем среднее количество товаров в корзине | https://habrahabr.ru/post/226825/
+
+Контент-маркетинг в Ecommerce: чеклист для создания качественных текстов | https://habrahabr.ru/company/audiomania/blog/225953/
+
+Новый Яндекс.Маркет. Что произошло на конференции YaC/M, и почему это может быть важным шагом в развитии Рунета | https://habrahabr.ru/company/yandex/blog/225815/
+
+Прибыльный интернет магазин. Часть I: обзор метрик и способов увеличения прибыли | https://habrahabr.ru/post/225523/
+
+История рынка RTB: этапы развития и появление основных игроков | https://habrahabr.ru/company/advertone_ru/blog/225221/
+
+Как улучшить качество обслуживания покупателей, если требуемых товаров нет в наличии | https://habrahabr.ru/company/audiomania/blog/223721/
+
+Youvend: Философия закупок, веб-версия | https://habrahabr.ru/company/youvend/blog/223605/
+
+Почему технология RTB не смогла завоевать рекламный рынок Европы | https://habrahabr.ru/company/advertone_ru/blog/222595/
+
+Как именно на нас работают социальные медиа | https://habrahabr.ru/company/audiomania/blog/221961/
+
+3 простых способа увеличения B2B-продаж | https://habrahabr.ru/company/Centrobit/blog/221695/
+
+Семейные истории, обеденный стол и рост продаж | https://habrahabr.ru/company/Centrobit/blog/220041/
+
+Агрегаторы интернет-торговли и «серый» рынок | https://habrahabr.ru/post/220725/
+
+Проблема тысячелетия: электронная коммерция в B2B-сегменте | https://habrahabr.ru/company/Centrobit/blog/220417/
+
+Импорт данных в интернет-магазины: алгоритм, который упростит вам жизнь | https://habrahabr.ru/post/220187/
+
+Ценность онлайн-бренда: кейс дистрибьюторов и промышленников | https://habrahabr.ru/company/Centrobit/blog/219675/
+
+Личный брендинг: рецепт успеха | https://habrahabr.ru/company/Centrobit/blog/218625/
+
+Чему российский e-Commerce может научиться у американского | https://habrahabr.ru/company/audiomania/blog/218255/
+
+Как стать «золотым спонсором» Олимпийских игр | https://habrahabr.ru/company/Centrobit/blog/217169/
+
+Корректный YML для Яндекс.Маркета. Взгляд программиста | https://habrahabr.ru/post/216985/
+
+Пять вещей, которые нужно учесть, продумывая архитектуру интернет‑магазина | https://habrahabr.ru/post/216689/
+
+Тренды e-commerce: Зарубежные игроки приходят в Россию | https://habrahabr.ru/company/Centrobit/blog/216547/
+
+Применяем визуальные эффекты к изображениям в Django | https://habrahabr.ru/post/215811/
+
+Как российским интернет-магазинам бороться с Amazon | https://habrahabr.ru/company/Centrobit/blog/215531/
+
+Тренды e-commerce: Работа под заказ | https://habrahabr.ru/company/Centrobit/blog/214081/
+
+Корпоративные порталы и электронная коммерция: Что делать? | https://habrahabr.ru/company/Centrobit/blog/213429/
+
+Автоматизация складских процессов интернет-магазина: опыт Аудиомании — Часть 2 | https://habrahabr.ru/company/audiomania/blog/213327/
+
+Автоматизация складских процессов интернет-магазина: опыт Аудиомании — Часть 1 | https://habrahabr.ru/company/audiomania/blog/211420/
+
+Электронная коммерция в России: Взгляд с Запада | https://habrahabr.ru/company/Centrobit/blog/212481/
+
+Тренды e-commerce: Что важнее всего для интернет-магазина? Часть 2 | https://habrahabr.ru/company/Centrobit/blog/211651/
+
+Тренды e-commerce: Что важнее всего для интернет-магазина? Часть 1 | https://habrahabr.ru/company/Centrobit/blog/211004/
+
+Миграция данных между различными E-commerce движками | https://habrahabr.ru/post/210934/
+
+Как мы в Канадские акселераторы подавались и интервью проходили | https://habrahabr.ru/post/210762/
+
+Интернет-магазины vs поставщики товаров: Кто виноват и что делать? | https://habrahabr.ru/company/Centrobit/blog/209322/
+
+Развитие стартап-экосистемы и рынка электронной коммерции на примере CentroBit | https://habrahabr.ru/company/Centrobit/blog/207332/
+
+Серьезное проектирование серьезного магазина. Часть 1. Исследуем и продумываем функционал | https://habrahabr.ru/company/SECL_GROUP/blog/204914/
+
+Продающий дизайн интернет-магазина. Часть 3. Дизайн элементов | https://habrahabr.ru/company/SECL_GROUP/blog/203728/
+
+Что нам стоит Интернет магазин построить? Или как я начал продавать в Интернете | https://habrahabr.ru/post/188404/
+
+На каких CMS сделаны крупнейшие интернет-магазины России? | https://habrahabr.ru/company/SECL_GROUP/blog/164005/
+

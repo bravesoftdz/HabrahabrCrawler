@@ -1,0 +1,1160 @@
+Проверка кода Reiser4 статическим анализатором PVS-Studio | https://habrahabr.ru/post/345894/
+
+Сегментация памяти (Схема памяти компьютера) | https://habrahabr.ru/post/345766/
+
+Вредные заклинания в программировании | https://habrahabr.ru/post/345690/
+
+JetBrains CLion для микроконтроллеров | https://habrahabr.ru/post/345670/
+
+Достижение максимальной производительности Быстрого Преобразования Фурье на основе управления данными | https://habrahabr.ru/post/345650/
+
+Tcl/Tk – создание расширений/пакетов на базе динамических библиотек | https://habrahabr.ru/post/345574/
+
+Технопорно с WebAssembly | https://habrahabr.ru/post/345450/
+
+Постигаем Си глубже, используя ассемблер. Часть 2 (условия) | https://habrahabr.ru/post/345460/
+
+Yet another kaspersky crackme | https://habrahabr.ru/post/343342/
+
+Меняем PID процесса в Linux с помощью модуля ядра | https://habrahabr.ru/post/345040/
+
+Постигаем Си глубже, используя ассемблер | https://habrahabr.ru/post/344896/
+
+Отображение переменных окружения в Redis | https://habrahabr.ru/post/344766/
+
+Разработка приложений на языках C/C++ с использованием Tcl/Tk | https://habrahabr.ru/post/344526/
+
+Ускорение сборки C и C++ проектов | https://habrahabr.ru/company/pvs-studio/blog/344534/
+
+Еще одна реализация регистронезависимого поиска по кириллическим символам в SQLite | https://habrahabr.ru/post/344478/
+
+Скриптуем на WebAssembly, или WebAssembly без Web | https://habrahabr.ru/post/344246/
+
+Релиз CLion 2017.3: существенные улучшения поддержки C++, интеграция с Valgrind Memcheck и Boost.Test и многое другое | https://habrahabr.ru/company/JetBrains/blog/344076/
+
+Пишем простой модуль ядра Linux | https://habrahabr.ru/post/343828/
+
+Как программисты с PVS-Studio ошибки в проектах искали | https://habrahabr.ru/company/pvs-studio/blog/343844/
+
+Как выйти на путь разработки ОС | https://habrahabr.ru/post/343690/
+
+Conan: менеджер зависимостей для C/C++ | https://habrahabr.ru/post/342982/
+
+Обзор дефектов кода музыкального софта. Часть 5. Steinberg SDKs | https://habrahabr.ru/company/pvs-studio/blog/343252/
+
+Обзор дефектов кода музыкального софта. Часть 4. Ardour | https://habrahabr.ru/company/pvs-studio/blog/343002/
+
+fiber — легковесные процессы для Arduino | https://habrahabr.ru/post/342908/
+
+Как написать свой первый Linux device driver. Часть 3 | https://habrahabr.ru/post/342668/
+
+Пишем x86-64 JIT-комплятор с нуля в стоковом Python | https://habrahabr.ru/post/342410/
+
+Андрей Карпов считает, что код проекта Manticore качественнее, чем код проекта Sphinx | https://habrahabr.ru/company/pvs-studio/blog/342298/
+
+Caesar3 все таки open | https://habrahabr.ru/post/341974/
+
+Небольшая история о команде `yes` в Unix | https://habrahabr.ru/post/342002/
+
+UB-2017. Часть 1 | https://habrahabr.ru/post/341694/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 3/3 | https://habrahabr.ru/post/341154/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 2/3 | https://habrahabr.ru/post/341144/
+
+Что каждый программист на C должен знать об Undefined Behavior. Часть 1/3 | https://habrahabr.ru/post/341048/
+
+Broo — алгоритм сжатия без потерь. Улучшения | https://habrahabr.ru/post/341226/
+
+Телеметрия и программное обеспечение | https://habrahabr.ru/post/340882/
+
+Время устранять ошибки в Open-Source проектах, конкурс | https://habrahabr.ru/company/pvs-studio/blog/340910/
+
+Введение в Beautiful Capi, инструмент создания С++ оберток для С++ библиотек | https://habrahabr.ru/post/340770/
+
+Обзор дефектов кода музыкального софта. Часть 3. Rosegarden | https://habrahabr.ru/company/pvs-studio/blog/340730/
+
+Как проверить, находится ли значение указателя в заданной области памяти | https://habrahabr.ru/company/pvs-studio/blog/340458/
+
+Behind the scene of TOP-1 supercomputer | https://habrahabr.ru/post/340318/
+
+Любите статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/340202/
+
+Кривая Гильберта vs Z-order | https://habrahabr.ru/post/340100/
+
+Как написать свой первый Linux device driver. Часть 2 | https://habrahabr.ru/post/338118/
+
+Врайтап осеннего crackme от «Лаборатории Касперского» | https://habrahabr.ru/post/339892/
+
+Тернистый путь Hello World | https://habrahabr.ru/post/339698/
+
+Обзор дефектов кода музыкального софта. Часть 2. Audacity | https://habrahabr.ru/company/pvs-studio/blog/339816/
+
+Поиск файлов по тэгам в XMP / IPTC и операции с найденным | https://habrahabr.ru/post/339642/
+
+Оптимизация C/C++ кода | https://habrahabr.ru/post/339492/
+
+Оптимизация C/C++ кода | https://habrahabr.ru/post/339406/
+
+Зачем в Go амперсанд и звёздочка (& и *)? | https://habrahabr.ru/post/339192/
+
+t1ha = Fast Positive Hash | https://habrahabr.ru/post/339160/
+
+Про интервальные индексы | https://habrahabr.ru/post/339060/
+
+Обзор дефектов кода музыкального софта. Часть 1. MuseScore | https://habrahabr.ru/company/pvs-studio/blog/338808/
+
+Делаем MitM с помощью openssl на Android | https://habrahabr.ru/company/infowatch/blog/338764/
+
+Nuklear+ — миниатюрный кроссплатформенный GUI | https://habrahabr.ru/post/338106/
+
+Проекции? Hет, спасибо | https://habrahabr.ru/post/338088/
+
+Как написать свой первый Linux device driver | https://habrahabr.ru/post/337946/
+
+О-о-очень долгожданный релиз Sublime Text 3.0 | https://habrahabr.ru/post/337882/
+
+Хакатон HackCV, 7-8 октября | https://habrahabr.ru/company/luxoft/blog/337848/
+
+Программирование с использованием PCAP | https://habrahabr.ru/post/337840/
+
+STM32 без HAL и SPL | https://habrahabr.ru/post/337622/
+
+Попиксельная заливка экрана в Wolfenstein 3D | https://habrahabr.ru/post/337036/
+
+Joystick на AT91SAM7 | https://habrahabr.ru/post/336870/
+
+Как (и зачем) мы портировали Shenzhen Solitaire под MS-DOS | https://habrahabr.ru/post/336840/
+
+Графическая среда Linux без единого разрыва | https://habrahabr.ru/post/336630/
+
+Обходим коммерческую защиту методом black box и пишем packet hack для lineage 2 | https://habrahabr.ru/post/336842/
+
+Лучше чем C | https://habrahabr.ru/post/336392/
+
+Полиморфизм и указатели на функции | https://habrahabr.ru/post/335162/
+
+Как я сделал самый быстрый ресайз изображений. Часть 3, числа с фиксированной точкой | https://habrahabr.ru/post/334790/
+
+Как мы мультиплеер для NFS MW писали | https://habrahabr.ru/post/334744/
+
+Измерение интенсивности входящего потока событий в модели распада | https://habrahabr.ru/company/qrator/blog/334354/
+
+Характеристики анализатора PVS-Studio на примере EFL Core Libraries, 10-15% ложных срабатываний | https://habrahabr.ru/company/pvs-studio/blog/334554/
+
+Быстрое удаление пробелов из строк на процессорах ARM — альтернативный анализ | https://habrahabr.ru/post/334142/
+
+Релиз CLion 2017.2: интеграция с Clang-Tidy, C++17 в мастере создания нового проекта, повышение производительности IDE | https://habrahabr.ru/company/JetBrains/blog/334012/
+
+Динамическая инструментация — не просто, а тривиально*: пишем yet another инструментацию для American Fuzzy Lop | https://habrahabr.ru/post/332076/
+
+С/С++ на Linux в Visual Studio Code для начинающих | https://habrahabr.ru/company/microsoft/blog/333680/
+
+Поговорим о микрооптимизациях на примере кода Tizen | https://habrahabr.ru/company/pvs-studio/blog/333474/
+
+Ссылочная TCP/IP стеганография | https://habrahabr.ru/post/332962/
+
+Tcl/Tk. Разработка графического пользовательского интерфейса для утилит командной строки | https://habrahabr.ru/post/332924/
+
+27000 ошибок в операционной системе Tizen | https://habrahabr.ru/company/pvs-studio/blog/332912/
+
+Быстрое удаление пробелов из строк на процессорах ARM | https://habrahabr.ru/post/332710/
+
+Как я нашёл баг в процессорах Intel Skylake | https://habrahabr.ru/post/332552/
+
+Одинарная или двойная точность? | https://habrahabr.ru/post/331814/
+
+Головная боль от использования математического софта | https://habrahabr.ru/company/pvs-studio/blog/331638/
+
+Z-order в 8D | https://habrahabr.ru/post/331420/
+
+Как PVS-Studio может помочь в поиске уязвимостей? | https://habrahabr.ru/company/pvs-studio/blog/331262/
+
+gdb-дуэль — списки, деревья и хэш таблицы против командной строки | https://habrahabr.ru/post/328180/
+
+Эмулятор магнитофона для ZX-Spectrum | https://habrahabr.ru/post/330752/
+
+Копировщик RFID-меток стандарта EM-Marin | https://habrahabr.ru/post/330710/
+
+Самодельный эмулятор дисковода для Amiga | https://habrahabr.ru/post/330668/
+
+Несколько слов про «наш» микроконтроллер | https://habrahabr.ru/post/330384/
+
+Как сделать context switch на STM32 | https://habrahabr.ru/company/embox/blog/330236/
+
+Зло живёт в функциях сравнения | https://habrahabr.ru/company/pvs-studio/blog/329090/
+
+Использование библиотеки stm32cube для создания платформо независимых драйверов | https://habrahabr.ru/company/embox/blog/328866/
+
+Пять книг по программированию, которые стоит прочесть | https://habrahabr.ru/company/plarium/blog/328712/
+
+Про память, теги и когерентность | https://habrahabr.ru/post/328542/
+
+Какой map быстрее, и есть ли альтернатива Judy | https://habrahabr.ru/company/badoo/blog/328472/
+
+Реверс-инжиниринг «Казаков», часть последняя: второе дыхание | https://habrahabr.ru/post/328212/
+
+Философия, или когда буквы были зелёными | https://habrahabr.ru/post/328296/
+
+2038: остался всего 21 год | https://habrahabr.ru/company/pvs-studio/blog/328054/
+
+Проверяем код динамического анализатора Valgrind с помощью статического анализатора | https://habrahabr.ru/company/pvs-studio/blog/327994/
+
+Простой и быстрый сервер на C/C++ с клиентом на C#: TCP версия | https://habrahabr.ru/post/327574/
+
+Pthreads: Потоки в русле POSIX | https://habrahabr.ru/post/326138/
+
+Как я сделал самый быстрый ресайз изображений. Часть 2, SIMD | https://habrahabr.ru/post/326900/
+
+M* — алгоритм поиска кратчайшего пути, через весь мир, на смартфоне | https://habrahabr.ru/company/2gis/blog/326638/
+
+(Не) любителям protothreads посвящается: Высокоуровневые функции для работы с 1-Wire | https://habrahabr.ru/post/326320/
+
+Немного о строках в Си, или несколько вариантов оптимизировать неоптимизируемое | https://habrahabr.ru/post/326108/
+
+Тест на знание языка Си, найденный в первоапрельской шутке | https://habrahabr.ru/post/325880/
+
+Примеры реальных патчей в PostgreSQL: часть 3 из N | https://habrahabr.ru/company/postgrespro/blog/325850/
+
+Пишем «Hello, World» Telegram бота на Си | https://habrahabr.ru/post/325846/
+
+Как найти 56 потенциальных уязвимостей в коде FreeBSD за один вечер | https://habrahabr.ru/company/pvs-studio/blog/325780/
+
+Пиши на C как джентльмен | https://habrahabr.ru/post/325678/
+
+Настраиваем бесплатную сборку для написания и отладки программ под микроконтроллеры на основе ядра ARM под Windows 10 | https://habrahabr.ru/post/325450/
+
+Украшаем жизнь с помощью gdb PrettyPrinting API | https://habrahabr.ru/post/325472/
+
+Обработка ошибок в C | https://habrahabr.ru/post/324642/
+
+Релиз CLion 2017.1: C++14, C++17, код на дизассемблере в отладчике, Catch, MSVC и многое другое | https://habrahabr.ru/company/JetBrains/blog/325372/
+
+Position-independent code (PIC) в разделяемых библиотеках на x64 | https://habrahabr.ru/company/badoo/blog/324616/
+
+Вызов функций Go из других языков | https://habrahabr.ru/company/mailru/blog/324250/
+
+Как и почему статические анализаторы борются с ложными срабатываниями | https://habrahabr.ru/company/pvs-studio/blog/324372/
+
+Дефекты безопасности, которые устранила команда PVS-Studio на этой неделе: выпуск N2 | https://habrahabr.ru/company/pvs-studio/blog/324222/
+
+Аналог std::vector из C++11 на чистом C89 и как я его писал | https://habrahabr.ru/post/324210/
+
+PVS-Studio: поиск дефектов безопасности | https://habrahabr.ru/company/pvs-studio/blog/324114/
+
+Position-independent code (PIC) в разделяемых библиотеках | https://habrahabr.ru/company/badoo/blog/323904/
+
+Еще одна новая фича pg_filedump: восстанавливаем каталог PostgreSQL | https://habrahabr.ru/company/postgrespro/blog/323644/
+
+Address Sanitizer, или Что делать, если не работает valgrind | https://habrahabr.ru/post/323380/
+
+Z-order vs R-tree, оптимизация и 3D | https://habrahabr.ru/post/323192/
+
+Рождение нового алгоритма по имени Broo и сравнение с Brotli и остальными | https://habrahabr.ru/post/322978/
+
+Как я сделал самый быстрый ресайз изображений. Часть 1, общие оптимизации | https://habrahabr.ru/post/322352/
+
+UNIX-подобные системы содержат кучу костылей. Крах «философии UNIX» | https://habrahabr.ru/post/321652/
+
+Читаем tar за 26 строк ANSI C кода | https://habrahabr.ru/post/320834/
+
+Ещё один интерпретатор Brainfuck | https://habrahabr.ru/post/321630/
+
+Как создавать, собирать, устанавливать и использовать пакеты с программами и библиотеками для UNIX-подобных систем | https://habrahabr.ru/post/321468/
+
+Встраиваемый компактный веб-сервер Mongoose | https://habrahabr.ru/post/321430/
+
+Как работать с JIT | https://habrahabr.ru/company/badoo/blog/321378/
+
+Почему я не люблю синтетические тесты | https://habrahabr.ru/company/pvs-studio/blog/321242/
+
+Заметка о способе отладки блокировок в ядре Linux | https://habrahabr.ru/post/321220/
+
+Создание и тестирование Firewall в Linux, Часть 2.3. Завершаем Firewall. Обрабатываем трафик в userspace | https://habrahabr.ru/post/316778/
+
+Ломаем Android. Как глубока кроличья нора? | https://habrahabr.ru/post/320150/
+
+Создание нативного watchface для Gear S3/S2 | https://habrahabr.ru/post/319982/
+
+Установка OpenCV в Windows для чайников и подключение библиотеки в Code Blocks | https://habrahabr.ru/post/318846/
+
+Пример восстановления таблиц PostgreSQL с помощью новой мега фичи pg_filedump | https://habrahabr.ru/company/postgrespro/blog/319770/
+
+Z-order vs R-tree, продолжение | https://habrahabr.ru/post/319810/
+
+Nuklear — идеальный GUI для микро-проектов? | https://habrahabr.ru/post/319106/
+
+Про Z-оrder и R-дерево | https://habrahabr.ru/post/319096/
+
+Создание и тестирование Firewall в Linux, Часть 2.2. Таблицы Firewall. Доступ к TCP\IP структурам | https://habrahabr.ru/post/316756/
+
+Знакомство с Modbus | https://habrahabr.ru/post/318834/
+
+Как 10 лет назад начинался проект PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/318756/
+
+Сложнейшая проблема компьютерных наук | https://habrahabr.ru/company/infopulse/blog/318618/
+
+Создавая хтонических чудовищ, документируй | https://habrahabr.ru/post/318564/
+
+История одного бага: выравнивание данных на x86 | https://habrahabr.ru/post/318456/
+
+Попытки открытия новой шашечной тактики или Что делать с несбыточной мечтой | https://habrahabr.ru/post/318210/
+
+Архитектура ассемблера Go | https://habrahabr.ru/company/badoo/blog/317864/
+
+Перехват системных вызовов Linux с помощью LSM | https://habrahabr.ru/post/318106/
+
+Отладка вашей ОС: урок по выделению памяти | https://habrahabr.ru/company/mailru/blog/317476/
+
+Berkeley Unified Parallel C (UPC). Отладка с помощью GNU gdb C debbuger. Стек вызова | https://habrahabr.ru/post/317196/
+
+Встраиваем PVS-Studio в Eclipse CDT (macOS) | https://habrahabr.ru/post/317518/
+
+Создание и тестирование Firewall в Linux, Часть 2.1. Введение во вторую часть. Смотрим на сеть и протоколы. Wireshark | https://habrahabr.ru/post/316086/
+
+Тестируем Linux-версию PVS-Studio на Linux Kernel | https://habrahabr.ru/company/pvs-studio/blog/317374/
+
+Сравнение производительности GPU-расчетов на Python и C | https://habrahabr.ru/post/317328/
+
+В C++17 до сих пор нет нормальных многомерных массивов, которые были в Fortran начиная с Fortran 90 | https://habrahabr.ru/post/317300/
+
+О языке С и производительности | https://habrahabr.ru/company/mailru/blog/317180/
+
+Встраиваем PVS-Studio в Anjuta DevStudio (Linux) | https://habrahabr.ru/post/316720/
+
+Встраиваем PVS-Studio в Eclipse CDT (Linux) | https://habrahabr.ru/post/316670/
+
+Собственная платформа. Часть 0.1 Теория. Немного о процессорах | https://habrahabr.ru/post/316520/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181. Окончание | https://habrahabr.ru/post/316100/
+
+Реализация протокола MIL-STD-1553 на STM32 | https://habrahabr.ru/post/316430/
+
+Настоящая правда о сравнении CodeSonar и PC-lint | https://habrahabr.ru/company/pvs-studio/blog/316352/
+
+Лекции Техносферы. Подготовительный курс «Алгоритмы и структуры данных» (весна 2016) | https://habrahabr.ru/company/mailru/blog/316170/
+
+Создание и тестирование Firewall в Linux, Часть 1.3. Написание char device. Добавление виртуальной файловой системы… | https://habrahabr.ru/post/315454/
+
+Операционная система с нуля (почти) | https://habrahabr.ru/post/316112/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181 | https://habrahabr.ru/post/315912/
+
+Релиз CLion 2016.3: улучшения поддержки C11, C++11 и C++14, изменения в работе с проектной моделью CMake и многое другое | https://habrahabr.ru/company/JetBrains/blog/315962/
+
+Ваш язык программирования — отстой | https://habrahabr.ru/post/315152/
+
+Создание и тестирование Firewall в Linux, Часть 1.2. Простой перехват трафика с Netfilter | https://habrahabr.ru/post/315350/
+
+Как создавался PVS-Studio под Linux | https://habrahabr.ru/company/pvs-studio/blog/315232/
+
+Berkeley Unified Parallel C (UPC). Установка в среде Windows и Linux | https://habrahabr.ru/post/315190/
+
+Думаешь, ты знаешь Си? | https://habrahabr.ru/company/edison/blog/315016/
+
+Оптимизация поиска при выборе кампании | https://habrahabr.ru/post/314818/
+
+Как устроен парсер Python, и как втрое уменьшить потребление им памяти | https://habrahabr.ru/post/314062/
+
+Правила хорошего вкуса от Линуса Торвальдса. Делаем код быстрее, проще и понятнее | https://habrahabr.ru/company/ruvds/blog/313836/
+
+main(){printf(&unix["\021%six\012\0"], (unix)[«have»]+«fun»-0x60);} | https://habrahabr.ru/company/edison/blog/313598/
+
+PVS-Studio для Linux | https://habrahabr.ru/company/pvs-studio/blog/313498/
+
+ESP8266 управление баней, 2 года — полет нормальный | https://habrahabr.ru/post/312608/
+
+Кластер Asterisk. Централизация информации о регистрации | https://habrahabr.ru/post/312630/
+
+ГОСТ Р 34.12 '15 на SSE2, или Не так уж и плох Кузнечик | https://habrahabr.ru/post/312224/
+
+Оптимизация кода: память | https://habrahabr.ru/post/312078/
+
+Как спасти принцессу, используя 8(+45) языков программирования, в пятницу | https://habrahabr.ru/company/edison/blog/311994/
+
+Майкл Фезерс на uDev Tech Events: «Micro Refactoring and Macro Refactoring: Strategies and Techniques» | https://habrahabr.ru/company/plarium/blog/311912/
+
+Так ли быстр ваш любимый С или нативная реализация линейной алгебры на D | https://habrahabr.ru/post/311568/
+
+Анимированные текстуры в OpenGL | https://habrahabr.ru/post/311346/
+
+Как отлаживать Android ядро без UART, JTAG и прочих | https://habrahabr.ru/post/311264/
+
+Заменяем бут-анимацию Android устройства на мелькающие логи Linux ядра | https://habrahabr.ru/post/310886/
+
+Моим самым важным проектом был интерпретатор байт-кода (или «как увидеть матрицу») | https://habrahabr.ru/post/310806/
+
+Примеры реальных патчей в PostgreSQL: часть 2 из N | https://habrahabr.ru/company/postgrespro/blog/310372/
+
+Итоги GSOC | https://habrahabr.ru/company/kolibrios/blog/309814/
+
+О фундаментальных ошибках в дизайне языков программирования | https://habrahabr.ru/company/infopulse/blog/310338/
+
+15 самых популярных языков программирования по версии GitHub | https://habrahabr.ru/post/310262/
+
+GDB оказался крепким орешком | https://habrahabr.ru/company/pvs-studio/blog/310156/
+
+Как избежать ошибок, используя современный C++ | https://habrahabr.ru/company/pvs-studio/blog/310064/
+
+Удаленный оповещатель о критических температуре и влажности на основе МК AVR и датчика DHT22 | https://habrahabr.ru/post/309994/
+
+Почему я отказался от Rust | https://habrahabr.ru/post/309968/
+
+Фатальные ошибки двоичной арифметики при работе с числами с плавающей точкой | https://habrahabr.ru/post/309812/
+
+Оптимизация кода: процессор | https://habrahabr.ru/post/309796/
+
+Modest — разработка открытого движка HTML рендера на «голом» Си | https://habrahabr.ru/post/309756/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 3. Переходим к коду Си | https://habrahabr.ru/post/309296/
+
+Вычисление 1000000 знаков числа Пи. На iPhone | https://habrahabr.ru/post/309674/
+
+Контрибьютим в PostgreSQL: примеры реальных патчей, часть 1 из N | https://habrahabr.ru/company/postgrespro/blog/309488/
+
+Использование gpio-generic и irq_chip_generic для драйвера gpio | https://habrahabr.ru/post/307840/
+
+О выравнивании памяти на ARM процессорах на простом примере | https://habrahabr.ru/post/309144/
+
+Вывод типов в программировании | https://habrahabr.ru/post/309074/
+
+Находим ошибки в коде компилятора GCC с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/308946/
+
+Let the Holy War begin: Java vs С++ | https://habrahabr.ru/company/jugru/blog/307180/
+
+OpenCV и обработка изображений | https://habrahabr.ru/company/piter/blog/308720/
+
+Синий. Нет! Жёлтый! — или — Дают ли новые языки программирования прирост скорости разработки | https://habrahabr.ru/post/308550/
+
+Становимся контрибьютером в PostgreSQL | https://habrahabr.ru/company/postgrespro/blog/308442/
+
+Новый курс на платформе Stepic: «Углубленное программирование на С/С++» | https://habrahabr.ru/company/mailru/blog/308406/
+
+По просьбе читателей, проверяем код LDAP-сервера ReOpenLDAP | https://habrahabr.ru/company/pvs-studio/blog/308212/
+
+Знакомство: BBC micro:bit и mbed OS 5 | https://habrahabr.ru/post/307806/
+
+Один день программиста ембеддера. Написать драйвер для датчика влажности HTS221 от STM — это очень просто? | https://habrahabr.ru/post/307962/
+
+Минуя бесконечность: t-тест своими руками | https://habrahabr.ru/post/307712/
+
+Каламбуры типизации функций в C | https://habrahabr.ru/post/307706/
+
+Компилятор LLVM для MultiClet: бенчмарк WhetStone | https://habrahabr.ru/post/307512/
+
+Const и оптимизации в C | https://habrahabr.ru/post/307266/
+
+Заставляем FFMPEG менять HLS потоки в зависимости от текущей пропускной способности | https://habrahabr.ru/post/307232/
+
+Это маленькое чудо — алгоритм Кнута-Морриса-Пратта (КМП) | https://habrahabr.ru/post/307220/
+
+Датчик абсолютного давления BMP180 | https://habrahabr.ru/post/307228/
+
+Рейтинг языков программирования в 2016 году | https://habrahabr.ru/company/kingservers/blog/307012/
+
+Обзор и программирование под стационарное интернет радио | https://habrahabr.ru/post/306850/
+
+PVS-Studio признаётся в любви к Linux | https://habrahabr.ru/company/pvs-studio/blog/306636/
+
+Желания сбываются: интересные Си++ конференции России | https://habrahabr.ru/company/pvs-studio/blog/306496/
+
+Троллейбус из буханки или alias analysis в LLVM | https://habrahabr.ru/post/306294/
+
+Сравниваем реализацию языков Python и Ruby по плотности ошибок | https://habrahabr.ru/company/pvs-studio/blog/306204/
+
+Команда PVS-Studio готовит технический прорыв, ну а пока перепроверим Blender | https://habrahabr.ru/company/pvs-studio/blog/306104/
+
+Релиз CLion 2016.2: удаленная отладка, поддержка формата Doxygen, новые возможности кодогенерации и многое другое | https://habrahabr.ru/company/JetBrains/blog/306028/
+
+C--. Первое знакомство | https://habrahabr.ru/company/kolibrios/blog/303582/
+
+Вычисления с плавающей точкой: можно ли доверять результатам? | https://habrahabr.ru/post/305276/
+
+USB mass storage device и libopencm3 | https://habrahabr.ru/post/304924/
+
+История языков программирования: 100% «чистый» Си, без единого «плюса» | https://habrahabr.ru/post/304034/
+
+Драйвер виртуальных GPIO с контроллером прерываний на базе QEMU ivshmem для Linux | https://habrahabr.ru/post/303060/
+
+Проверка проекта OpenJDK с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/303534/
+
+«Привет, мир!» как инструмент для оценки навыков программирования | https://habrahabr.ru/post/303194/
+
+Юникастовая маршрутизация мультикаст-трафика | https://habrahabr.ru/post/302956/
+
+Компилятор С/С++ на базе LLVM для мультиклеточных процессоров: быть или не быть? | https://habrahabr.ru/post/302776/
+
+О трехмерном Z-order замолвите слово | https://habrahabr.ru/company/2gis/blog/302606/
+
+Встраивание PyPy кода в приложения на C | https://habrahabr.ru/post/302050/
+
+Система сбора измерений на примере метеостанции | https://habrahabr.ru/post/302164/
+
+Так вы думаете, что знаете Const? | https://habrahabr.ru/post/301332/
+
+Вызываем Java код из Love2D | https://habrahabr.ru/post/301330/
+
+RS232 устройство 3-в-1 для домашнего Linux сервера: Часть 2 (Серверная) | https://habrahabr.ru/post/300968/
+
+Microsoft избавится от телеметрии в Visual C++ в Update 3 | https://habrahabr.ru/post/283308/
+
+Проверка PHP 7 | https://habrahabr.ru/company/pvs-studio/blog/282684/
+
+Проекты студентов в рамках Google Summer of Code | https://habrahabr.ru/company/kolibrios/blog/282283/
+
+C/C++: как измерять процессорное время | https://habrahabr.ru/post/282301/
+
+Главный вопрос программирования, рефакторинга и всего такого | https://habrahabr.ru/company/pvs-studio/blog/281719/
+
+Эксперименты с malloc | https://habrahabr.ru/company/mailru/blog/281497/
+
+Стандартная библиотека Visual Studio 2015 и телеметрия | https://habrahabr.ru/post/281374/
+
+Суперскалярный стековый процессор: оптимизация | https://habrahabr.ru/post/281352/
+
+Логические выражения в C/C++. Как ошибаются профессионалы | https://habrahabr.ru/company/pvs-studio/blog/281316/
+
+man!(C => D => Rust) | https://habrahabr.ru/post/280904/
+
+Безопасная очистка приватных данных | https://habrahabr.ru/company/pvs-studio/blog/281072/
+
+Проверка проекта Samba с помощью PVS-Studio под Linux | https://habrahabr.ru/company/pvs-studio/blog/280856/
+
+Метод сортировки FlashSort | https://habrahabr.ru/post/280848/
+
+Что должно быть в с-файле, а что должно быть в h-файле? | https://habrahabr.ru/post/280764/
+
+Суперскалярный стековый процессор: подробности | https://habrahabr.ru/post/280087/
+
+JetBrains C++ night: впечатления и записи докладов | https://habrahabr.ru/company/JetBrains/blog/279925/
+
+Суперскалярный стековый процессор: продолжаем скрещивать ужа и ежа | https://habrahabr.ru/post/279123/
+
+Портирование FreeModbus 1.5 под STM32 HAL rs485 без RTOS | https://habrahabr.ru/post/279747/
+
+Релиз CLion 2016.1: новые инструменты и новые языки | https://habrahabr.ru/company/JetBrains/blog/279625/
+
+Суперскалярный стековый процессор: скрещиваем ужа и ежа | https://habrahabr.ru/post/278575/
+
+Патчим gnupg или пара RSA-32768 за 106 минут | https://habrahabr.ru/post/278051/
+
+Как непродуманные предупреждения компиляторов помогают портить совершенно правильный код | https://habrahabr.ru/company/abbyy/blog/277261/
+
+PVS-Studio покопался в ядре FreeBSD | https://habrahabr.ru/company/pvs-studio/blog/277439/
+
+Сеть обменной сортировки со слиянием Бэтчера | https://habrahabr.ru/post/275889/
+
+Простейшие самообучающиеся алгоритмы на языке «Автор» | https://habrahabr.ru/post/277145/
+
+Критика статьи «Как писать на С в 2016 году» | https://habrahabr.ru/company/inoventica/blog/276611/
+
+Шизоидный язык программирования самообучающихся алгоритмов «Автор» | https://habrahabr.ru/post/276895/
+
+Undefined behavior ближе, чем вы думаете | https://habrahabr.ru/company/pvs-studio/blog/276657/
+
+Компактная ОС для ARM процессоров | https://habrahabr.ru/post/276633/
+
+Профилировка производительности и памяти с разных углов обзора | https://habrahabr.ru/post/276607/
+
+man!( C => D ) | https://habrahabr.ru/post/276227/
+
+«Hello World!» на C массивом int main[] | https://habrahabr.ru/post/275861/
+
+Примечания к статье «Как писать на С в 2016 году» | https://habrahabr.ru/post/275823/
+
+Новости про C++ продукты и JetBrains C++ Night в Санкт-Петербурге | https://habrahabr.ru/company/JetBrains/blog/275723/
+
+Советы о том, как писать на С в 2016 году | https://habrahabr.ru/company/inoventica/blog/275685/
+
+Поиск множества регулярных выражений при помощи библиотеки Hyperscan | https://habrahabr.ru/post/275507/
+
+Динамическое управление прерываниями в ARM | https://habrahabr.ru/post/275351/
+
+STM32F4 USB RNDIS драйвер (управление устройством через Web-интерфейс) | https://habrahabr.ru/post/274663/
+
+Почему я пишу игры на C (да, на C) | https://habrahabr.ru/post/275135/
+
+Расчет биномиальных коэффициентов на Си (С++) и Python | https://habrahabr.ru/post/274689/
+
+Как я написал компилятор C за 40 дней | https://habrahabr.ru/post/274083/
+
+Пишем DXE-драйвер для снятия скриншотов с BIOS Setup и других UEFI-приложений | https://habrahabr.ru/post/274463/
+
+Printf Oriented Programming | https://habrahabr.ru/post/274329/
+
+Intel® Tamper Protection Toolkit — обфусцирующий компилятор и средства проверки целостности кода | https://habrahabr.ru/company/intel/blog/273183/
+
+С-подобные структуры в JavaScript | https://habrahabr.ru/post/273275/
+
+Программный многозадачный таймер на МК | https://habrahabr.ru/post/273077/
+
+Выпущен CrystaX NDK 10.3.0 | https://habrahabr.ru/post/273053/
+
+Как сжать плоского кота | https://habrahabr.ru/post/273047/
+
+Магические битборды и русские шашки | https://habrahabr.ru/post/272815/
+
+Битовая магия: получение следующего лексикографического сочетания | https://habrahabr.ru/post/272707/
+
+Как устроены дыры в безопасности: переполнение буфера | https://habrahabr.ru/post/266591/
+
+memset — сторона тьмы | https://habrahabr.ru/post/272269/
+
+Доступ к таблицам из Си расширений для Postgres | https://habrahabr.ru/company/postgrespro/blog/272257/
+
+Самая опасная функция в мире С/С++ | https://habrahabr.ru/company/pvs-studio/blog/272243/
+
+Знакомьтесь, loop fracking | https://habrahabr.ru/post/271905/
+
+Linux, отложенная загрузка драйверов и неработающие прерывания | https://habrahabr.ru/company/metrotek/blog/271983/
+
+Атомарная обработка блоков данных без блокировки | https://habrahabr.ru/post/271583/
+
+Lock-free алгоритмы и реализация стека | https://habrahabr.ru/post/271549/
+
+Копают только вниз | https://habrahabr.ru/company/piter/blog/271347/
+
+Flytouch 2/Superpad III и попытка сэкономить байты в ядре Линукс | https://habrahabr.ru/company/simbirsoft/blog/270885/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: управляем яркостью светодиода(ШИМ) | https://habrahabr.ru/post/270887/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Опрашиваем клавиши, генерируем ШИМ. Сравнение кода на CMSIS и SPL (PWM+TIM+PORT). Часть вторая | https://habrahabr.ru/post/270863/
+
+Дизайн и эволюция языка С++: выдержки | https://habrahabr.ru/post/270445/
+
+Статический анализ printf-like функций в Си при помощи libclang | https://habrahabr.ru/post/270743/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Опрашиваем клавиши, генерируем ШИМ. Сравнение кода на CMSIS и SPL (PWM+TIM+PORT). Часть первая | https://habrahabr.ru/post/267051/
+
+CLion 1.2: еще больше возможностей и преимуществ | https://habrahabr.ru/company/JetBrains/blog/270185/
+
+Где находиться типу: справа или слева? | https://habrahabr.ru/post/270081/
+
+30 лет С++ | https://habrahabr.ru/post/270083/
+
+Книга «Программируем Arduino: Основы работы со скетчами» | https://habrahabr.ru/company/piter/blog/269609/
+
+Встроить JSON в Embedded? Проще простого | https://habrahabr.ru/post/269383/
+
+Правила безопасного программирования на С: прошлое, настоящее и будущее | https://habrahabr.ru/company/luxoft/blog/269305/
+
+Проверка Wine: Год спустя | https://habrahabr.ru/company/pvs-studio/blog/269265/
+
+4 способа писать в защищённую страницу | https://habrahabr.ru/company/ua-hosting/blog/269193/
+
+Объекты нулевого размера | https://habrahabr.ru/post/268989/
+
+Как создавался кроссплатформенный Half-Life или «Хедкрабы внутри ваших часов» | https://habrahabr.ru/post/268791/
+
+Алло! Это FreeSWITCH? Тогда мы проверим вас | https://habrahabr.ru/company/pvs-studio/blog/268603/
+
+Патчим mysqldump в домашних условиях | https://habrahabr.ru/post/268569/
+
+Пишем драйвер пользовательского окружения для uinput на Raspberry Pi | https://habrahabr.ru/post/267655/
+
+Использование handle и intrusive reference counter-ов в многопоточных средах в языке C | https://habrahabr.ru/post/266901/
+
+Сортировка целых чисел при нехватке памяти | https://habrahabr.ru/post/266557/
+
+Ограничение памяти, доступной программе | https://habrahabr.ru/post/266083/
+
+Компенсация погрешностей при операциях с числами с плавающей запятой | https://habrahabr.ru/post/266023/
+
+Анатомия программы в памяти | https://habrahabr.ru/post/265509/
+
+Ещё один способ автоматического вызова unit-тестов на языке Си | https://habrahabr.ru/company/embox/blog/265461/
+
+Миром движет язык С | https://habrahabr.ru/company/nixsolutions/blog/265427/
+
+Существует ли отечественный процессор Мультиклет? | https://habrahabr.ru/company/embox/blog/265059/
+
+Будь проще, и люди потянутся к тебе, или как полюбить Си, сохранив рассудок | https://habrahabr.ru/post/264585/
+
+О пользе изучения языков семейства С | https://habrahabr.ru/company/nixsolutions/blog/264559/
+
+Вебинар «Знакомство с FlyElephant» | https://habrahabr.ru/company/flyelephant/blog/264557/
+
+Как перенести проект размером в 9 млн строк кода на 64-битную платформу? | https://habrahabr.ru/company/pvs-studio/blog/264021/
+
+Идеальный путь внедрения статического анализатора кода | https://habrahabr.ru/company/pvs-studio/blog/263695/
+
+Новое предупреждение о неверном вычислении размера массива в gcc 5.1 | https://habrahabr.ru/company/abbyy/blog/263609/
+
+Псевдо ООП в C | https://habrahabr.ru/post/263547/
+
+nxweb – HTTP сервер для приложений на Си | https://habrahabr.ru/post/263545/
+
+Семь видов интерпретаторов виртуальной машины. В поисках самого быстрого | https://habrahabr.ru/company/intel/blog/261665/
+
+Высокоуровневый С или пару слов о Cello | https://habrahabr.ru/post/262471/
+
+Генерация и решение лабиринта с помощью метода поиска в глубину по графу | https://habrahabr.ru/post/262345/
+
+Всё становится лучше, когда есть Bluetooth | https://habrahabr.ru/post/261287/
+
+Как же программа работает со всеми этими ошибками? | https://habrahabr.ru/company/pvs-studio/blog/261279/
+
+Релиз CrystaX NDK 10.2 | https://habrahabr.ru/post/261049/
+
+PHP extension. Пишем простой массив с Traversable и ArrayAccess | https://habrahabr.ru/post/260983/
+
+Разработка модульных приложений на С/C++ с использованием аннотаций | https://habrahabr.ru/post/260061/
+
+Доступ к разделяемым атомарным объектам из обработчика сигнала в C | https://habrahabr.ru/company/luxoft/blog/260509/
+
+Статический анализ Wireshark средствами PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/259553/
+
+Компас с ШИМ на отладочной плате stm32f3discovery | https://habrahabr.ru/post/259473/
+
+Как я уменьшил Docker образ на 98.8% при помощи fanotify | https://habrahabr.ru/post/259021/
+
+Почему айфон перезагружается от арабской смс | https://habrahabr.ru/post/259007/
+
+Проверяем открытый исходный код UEFI для Intel Galileo при помощи PVS-Studio | https://habrahabr.ru/post/258721/
+
+64-битный код в 2015 году: что нового в диагностике возможных проблем? | https://habrahabr.ru/company/pvs-studio/blog/258491/
+
+Что такого особенного в Nim? | https://habrahabr.ru/post/258119/
+
+Три особенности JavaScript, о которых полезно знать каждому Java/C-разработчику | https://habrahabr.ru/company/nixsolutions/blog/257617/
+
+Изменения в Visual C++ | https://habrahabr.ru/post/257509/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Генерируем и воспроизводим звук. Часть четвертая: создаем цифровую часть одноголосной и многоголосой музыкальной открытки | https://habrahabr.ru/post/256621/
+
+В помощь рыбаку — сигнализатор поклевки | https://habrahabr.ru/post/256641/
+
+Мы закрываем проект CppCat | https://habrahabr.ru/company/pvs-studio/blog/256637/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Генерируем и воспроизводим звук. Часть третья: генерируем синусоидальный сигнал. Простой взгляд на DMA + первое знакомство с таймерами | https://habrahabr.ru/post/256577/
+
+Легкие потоки в Embox | https://habrahabr.ru/company/embox/blog/256565/
+
+Проверка операционной системы Haiku (семейство BeOS) c помощью PVS-Studio. Часть 2 | https://habrahabr.ru/company/pvs-studio/blog/256525/
+
+Проверка операционной системы Haiku (семейство BeOS) c помощью PVS-Studio. Часть 1 | https://habrahabr.ru/company/pvs-studio/blog/256347/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Генерируем и воспроизводим звук. Часть вторая: генерируем синусоидальный сигнал. Освоение DMA | https://habrahabr.ru/post/256091/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Практическое применение: Генерируем и воспроизводим звук. Часть первая: генерируем прямоугольный и синусоидальный сигнал. Освоение ЦАП (DAC) | https://habrahabr.ru/post/255513/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Настройка тактовой частоты | https://habrahabr.ru/post/255479/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Системный таймер (SysTick) | https://habrahabr.ru/post/255415/
+
+Переходим с STM32 на российский микроконтроллер К1986ВЕ92QI. Настройка проекта в keil и мигание светодиодом | https://habrahabr.ru/post/255323/
+
+R-зубец электрокардиограммы как параметр дерева Пифагора | https://habrahabr.ru/post/255141/
+
+Статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/254855/
+
+Генерация кода во время исполнения или «Пишем свой JIT-компилятор» | https://habrahabr.ru/post/254831/
+
+Как достать соседа или Караоке на GStreamer | https://habrahabr.ru/post/254417/
+
+Библиотека эмуляции терминала ROTE и Lua привязки | https://habrahabr.ru/post/254089/
+
+Как избежать разыменования нулевого указателя, на примере одного исправления в ядре Linux | https://habrahabr.ru/post/254097/
+
+Плохо документированные особенности Linux | https://habrahabr.ru/post/253811/
+
+Пишем ARP Spoofer под Android. Разработка Root инструментов под Android | https://habrahabr.ru/post/253321/
+
+Построение диаграмм и графов в Doxygen | https://habrahabr.ru/post/253223/
+
+Будущее C: ООП | https://habrahabr.ru/post/253274/
+
+Boost C++ libraries на Android | https://habrahabr.ru/post/253233/
+
+«Патчим» зеркало в автомобиле | https://habrahabr.ru/post/253145/
+
+MIDI плеер на восьми Floppy. Или как электронщик с ума сходил | https://habrahabr.ru/post/253189/
+
+Лекции Технопарка. 1 семестр. С/С++ | https://habrahabr.ru/company/mailru/blog/253095/
+
+Авто-регистрация тестов на С средствами языка | https://habrahabr.ru/post/252439/
+
+Об одном трюке для возврата кода ошибки из функции | https://habrahabr.ru/post/252501/
+
+Делаем еще один джойстик (геймпад) на Arduino | https://habrahabr.ru/post/252495/
+
+Оформление документации в Doxygen | https://habrahabr.ru/post/252443/
+
+Гранты, митапы и школы для начинающих и продолжающих разработчиков в Москве и не только. Выпуск второй | https://habrahabr.ru/company/tceh/blog/252317/
+
+Документируем код эффективно при помощи Doxygen | https://habrahabr.ru/post/252101/
+
+Отзыв команды PVS-Studio о конференции C++ Russia, 2015 | https://habrahabr.ru/company/pvs-studio/blog/251777/
+
+Знакомство с GStreamer: элементы и контейнеры | https://habrahabr.ru/post/251427/
+
+Указатели, ссылки и массивы в C и C++: точки над i | https://habrahabr.ru/post/251091/
+
+Знакомство с GStreamer: инициализация | https://habrahabr.ru/post/251049/
+
+Использование альтернативного аллокатора памяти в проекте на C/C++ | https://habrahabr.ru/post/250809/
+
+Откуда берутся бреши в безопасности программ? | https://habrahabr.ru/company/reactos/blog/250749/
+
+Разыменовывание нулевого указателя приводит к неопределённому поведению | https://habrahabr.ru/company/pvs-studio/blog/250701/
+
+Что каждый программист должен знать про оптимизации компилятора | https://habrahabr.ru/company/enterra/blog/250199/
+
+Почему разработчики не любят Юнит Тесты | https://habrahabr.ru/post/250053/
+
+Heartbleed на Rust | https://habrahabr.ru/post/249537/
+
+Проверяем MatrixSSL с помощью PVS-Studio и Сppcheck | https://habrahabr.ru/company/pvs-studio/blog/249499/
+
+Именованные аргументы функции в C | https://habrahabr.ru/post/248385/
+
+SAL. Контрактное программирование от Микрософт или как помочь статическому анализатору | https://habrahabr.ru/post/248025/
+
+Новые оптимизации для х86 в GCC 5.0: PIC в 32-битном режиме | https://habrahabr.ru/company/intel/blog/246913/
+
+Программируем Arduino на чистом Си | https://habrahabr.ru/post/247663/
+
+Пять популярных мифов про C++, часть 2 | https://habrahabr.ru/post/247551/
+
+Пять популярных мифов про C++, часть 1 | https://habrahabr.ru/post/247401/
+
+PVS-Studio покопался во внутренностях Linux (3.18.1) | https://habrahabr.ru/company/pvs-studio/blog/247271/
+
+Программирование Arduino в CLion | https://habrahabr.ru/post/247017/
+
+Встраивание в ядро Linux: перехват системных вызовов | https://habrahabr.ru/company/securitycode/blog/245539/
+
+Насколько медленны iostreams? | https://habrahabr.ru/post/246257/
+
+Оптимизация кода под Pebble | https://habrahabr.ru/company/epam_systems/blog/241555/
+
+Почему студентам нужен анализатор кода CppCat | https://habrahabr.ru/company/pvs-studio/blog/245465/
+
+Векторизация циклов: диагностика и контроль | https://habrahabr.ru/post/244505/
+
+Атомарные и неатомарные операции | https://habrahabr.ru/post/244881/
+
+Новые оптимизации для х86 в ожидаемом GCC 5.0 | https://habrahabr.ru/company/intel/blog/244137/
+
+Как использовать список ядра Linux для создания очереди | https://habrahabr.ru/post/244759/
+
+Проект Miranda NG получает приз «дикие указатели» (часть вторая) | https://habrahabr.ru/company/pvs-studio/blog/244415/
+
+Protothread и кооперативная многозадачность | https://habrahabr.ru/company/embox/blog/244361/
+
+Многозадачность в ядре Linux: workqueue | https://habrahabr.ru/company/embox/blog/244155/
+
+Проект Miranda NG получает приз «дикие указатели» (часть первая) | https://habrahabr.ru/company/pvs-studio/blog/244097/
+
+Многозадачность в ядре Linux: прерывания и tasklet’ы | https://habrahabr.ru/company/embox/blog/244071/
+
+Компактная реализация RSA для встраиваемых применений | https://habrahabr.ru/post/243425/
+
+Реверс-инженеринг GPS замка WatchLock для личного использования | https://habrahabr.ru/post/243481/
+
+ZeroMQ: сокеты по-новому | https://habrahabr.ru/post/242359/
+
+Алгоритмы устранения ложных и избыточных данных в GPS-потоке | https://habrahabr.ru/company/promwad/blog/242251/
+
+Конечный автомат (он же машина состояний) на чистом С | https://habrahabr.ru/post/241941/
+
+Непереводимая игра слов по поводу CLANG, LLVM и msp430 | https://habrahabr.ru/post/241812/
+
+Почему биржа это IT-компания? | https://habrahabr.ru/company/moex/blog/241141/
+
+Ещё раз о неопределённом поведении или «почему не стоит забивать гвозди бензопилой» | https://habrahabr.ru/post/230777/
+
+Полуавтоматическая регистрация юнит-тестов на чистом С | https://habrahabr.ru/post/240565/
+
+Проверка библиотеки Network Security Services | https://habrahabr.ru/company/pvs-studio/blog/239629/
+
+Caché Native Access — работаем с нативными библиотеками в Caché | https://habrahabr.ru/company/intersystems/blog/235473/
+
+Создание модели электронного компонента для Proteus на Lua | https://habrahabr.ru/post/224739/
+
+История про realloc (и лень) | https://habrahabr.ru/company/abbyy/blog/238739/
+
+Давай поиграем в игру | https://habrahabr.ru/company/pvs-studio/blog/237219/
+
+Используем Thrift в Си | https://habrahabr.ru/post/236345/
+
+Заметка про проверку PHP | https://habrahabr.ru/company/pvs-studio/blog/235189/
+
+Управление яркостью подсветки 7-ми дюймового TFT LCD | https://habrahabr.ru/post/234601/
+
+Asterisk: PVS-Studio заинтересовался телефонией | https://habrahabr.ru/company/pvs-studio/blog/234591/
+
+Путешествие по Стеку. Часть 1 | https://habrahabr.ru/company/smart_soft/blog/234239/
+
+Новые оптимизации с использованием неопределенного поведения в gcc 4.9.0 | https://habrahabr.ru/company/abbyy/blog/234033/
+
+Идентификация загружаемых модулей ядра Linux [ч.1]: исходные тексты | https://habrahabr.ru/post/233503/
+
+Проверяем исходный код GIMP с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/233489/
+
+Проверяем Wine с помощью PVS-Studio и Clang Static Analyzer | https://habrahabr.ru/company/pvs-studio/blog/233179/
+
+fork() vs. vfork() | https://habrahabr.ru/company/embox/blog/232605/
+
+Пишем на языке С/C++ в Windows под KolibriOS | https://habrahabr.ru/company/kolibrios/blog/229231/
+
+Динамическая система Лоренца и вычислительный эксперимент | https://habrahabr.ru/post/229959/
+
+Zetes: Java с мультиплатформенным GUI, но без Oracle JVM | https://habrahabr.ru/post/225187/
+
+Знакомство с микроконтроллерами Renesas на примере линейки RL78 | https://habrahabr.ru/company/promwad/blog/227409/
+
+Siemens SGold: I/O сниффер | https://habrahabr.ru/post/226575/
+
+Программируем микроконтроллеры stm32 при помощи QtCreator | https://habrahabr.ru/post/222877/
+
+Ключевое слово volatile и атаки по времени | https://habrahabr.ru/company/abbyy/blog/223769/
+
+R + C + CUDA =… | https://habrahabr.ru/post/220927/
+
+Гарвардский курс CS50x на EdX, перевод субтитров (Недели 0-3) | https://habrahabr.ru/post/222813/
+
+Проба пера на суперкомпьютере Ломоносов | https://habrahabr.ru/post/220849/
+
+Пишем библиотеку DLL для Metastock с нуля. Часть 3 | https://habrahabr.ru/post/220111/
+
+Пишем библиотеку DLL для Metastock с нуля.Часть2 | https://habrahabr.ru/post/219953/
+
+Пишем библиотеку DLL для Metastock с нуля. Часть 1 | https://habrahabr.ru/post/219133/
+
+Скучная статья про проверку OpenSSL | https://habrahabr.ru/company/pvs-studio/blog/219547/
+
+Организация многозадачности в ядре ОС | https://habrahabr.ru/company/embox/blog/219431/
+
+Диагностика ошибки Heartbleed в OpenSSL. (Окончательный диагноз ещё не поставлен, хотя лечение уже идёт вовсю) | https://habrahabr.ru/post/218691/
+
+Занимательная археология. Или PVS-Studio проверяет Microsoft Word 1.1a | https://habrahabr.ru/company/pvs-studio/blog/217921/
+
+Математикам доверяй, но проверяй | https://habrahabr.ru/company/pvs-studio/blog/217557/
+
+«ZeroMQ».Глава 2: Знакомство с сокетами | https://habrahabr.ru/post/216957/
+
+Ваттметр поглощаемой СВЧ мощности и мое участие в его разработке | https://habrahabr.ru/post/214291/
+
+Shell – консольный Just for fun | https://habrahabr.ru/company/kolibrios/blog/213557/
+
+Эксперимент по проверке библиотеки glibc | https://habrahabr.ru/company/pvs-studio/blog/213969/
+
+Написание драйвера для LCD дисплея под embedded linux | https://habrahabr.ru/post/213775/
+
+Пишем «Hello world!» для KolibriOS на C | https://habrahabr.ru/company/kolibrios/blog/212169/
+
+Broadway — рендеринг интерфейса GTK3 в браузере (HTML5) | https://habrahabr.ru/post/212705/
+
+Просто о make | https://habrahabr.ru/post/211751/
+
+Релиз ReactOS 0.3.16 | https://habrahabr.ru/post/211647/
+
+Тонкости анализа исходного кода C/C++ с помощью cppcheck | https://habrahabr.ru/post/210256/
+
+Гарвардский курс CS50x на EdX, перевод субтитров | https://habrahabr.ru/post/210520/
+
+Arduino ли единым. Part 1 | https://habrahabr.ru/post/208180/
+
+Динамическое расширение ядра Linux — добавляем функцию «удалить в корзину» | https://habrahabr.ru/post/210364/
+
+Текстовый интерфейс, ч.2. Взаимодействие с пользователем | https://habrahabr.ru/post/208582/
+
+Перехват функций ядра Linux с использованием исключений (kprobes своими руками) | https://habrahabr.ru/post/206778/
+
+Победители 22-го конкурса IOCCC | https://habrahabr.ru/post/208334/
+
+Измерение ВАХ транзистора с помощью микроконтроллера Cypress | https://habrahabr.ru/post/208016/
+
+Балансировочный стенд своими руками на отладочной плате SiLabs C8051F120-TB | https://habrahabr.ru/post/207478/
+
+Праздник жизни по гиковски: с ARM и TFT LCD | https://habrahabr.ru/post/207136/
+
+Кошерный способ модификации защищённых от записи областей ядра Linux | https://habrahabr.ru/post/207122/
+
+Секреты тернарного оператора | https://habrahabr.ru/post/205848/
+
+Object oriented C | https://habrahabr.ru/post/205570/
+
+Управляемый PageFault в ядре Linux | https://habrahabr.ru/post/196952/
+
+Ну, Pebble, погоди | https://habrahabr.ru/post/202164/
+
+Вспоминая прошлое. О том, что делали 5 лет назад | https://habrahabr.ru/post/202186/
+
+Как была закейгенена Armadillo, взломана PSP и скомпрометированы все DSA ключи в Debian. Или еще раз о слабых ГПСЧ и (EC)DSA | https://habrahabr.ru/post/199356/
+
+Используем 32битные библиотеки в 64битных программах | https://habrahabr.ru/post/202060/
+
+Практическое применение LD_PRELOAD или замещение функций в Linux | https://habrahabr.ru/post/199090/
+
+Пример использования статического анализатора | https://habrahabr.ru/post/198836/
+
+Что быстрее while (true) или for (;;)? | https://habrahabr.ru/post/198588/
+
+«ZeroMQ».Глава 1: Приступая к работе | https://habrahabr.ru/post/198578/
+
+Продвинутый термостат для дома | https://habrahabr.ru/post/196124/
+
+Расширяем контекстное меню кнопки «Пуск» в Windows 8.1 | https://habrahabr.ru/post/194716/
+
+Данные переменной длинны — DataSizeVariable (DSV) | https://habrahabr.ru/post/194492/
+
+Реализация мьютекса вне ОС на примере микроконтроллера AVR и шины TWI | https://habrahabr.ru/post/193456/
+
+SoX Spectrum — удобная утилита для создания графических спектров аудио-файлов | https://habrahabr.ru/post/192510/
+
+Raytracing render на C | https://habrahabr.ru/post/187720/
+
+Краткое введение в GNU autoconf | https://habrahabr.ru/post/188354/
+
+Определение MIME-типов | https://habrahabr.ru/post/186828/
+
+Диплом: танчики и генетическое программирование | https://habrahabr.ru/post/186670/
+
+Пишем регулировщик подсветки дисплея ноутбука для Gnu\Linux | https://habrahabr.ru/post/185868/
+
+Мир опечаток и Copy-Paste | https://habrahabr.ru/company/pvs-studio/blog/184848/
+
+Разбираемся в С, изучая ассемблер | https://habrahabr.ru/post/183376/
+
+Создание QR-кодов на C/C++ | https://habrahabr.ru/post/182638/
+
+Изучаем С используя GDB | https://habrahabr.ru/post/181738/
+
+Doom 3 BFG — обзор исходного кода: Многопоточность (часть 2 из 4) | https://habrahabr.ru/post/181081/
+
+Самая маленькая сбойная программа на C | https://habrahabr.ru/post/181021/
+
+DOOM 3 BFG — обзор исходного кода: введение (часть 1 из 4) | https://habrahabr.ru/post/180973/
+
+Первый компилятор C от Денниса Ритчи — на Github | https://habrahabr.ru/post/180523/
+
+Microsoft исправила уязвимость с синим экраном | https://habrahabr.ru/post/179861/
+
+Хак синтаксиса PHP | https://habrahabr.ru/post/179441/
+
+Как уронить Windows шестью строчками кода | https://habrahabr.ru/post/179543/
+
+Единорог вновь готов к общению с Си++ программистами | https://habrahabr.ru/company/pvs-studio/blog/179083/
+
+Судно на воздушной подушке «Лунь» часть 2 | https://habrahabr.ru/post/178597/
+
+«Вычислительная техника и её применение» (ноябрь 1990) | https://habrahabr.ru/post/176605/
+
+Автономная кроссплатформенная монолитная программа на Java | https://habrahabr.ru/post/176237/
+
+Сохранение изображения с помощью libpng | https://habrahabr.ru/post/176163/
+
+Pthread_cond_timedwait: проблема, решение, дискуссия | https://habrahabr.ru/company/nordavind/blog/175821/
+
+Время вспять… | https://habrahabr.ru/post/175025/
+
+gxkb — индикатор и переключатель раскладки клавиатуры для X11 | https://habrahabr.ru/post/174203/
+
+История оптимизации alpha_composite в Pillow 2.0 | https://habrahabr.ru/post/174005/
+
+Небольшая задача на C/C++ для разминки | https://habrahabr.ru/post/173613/
+
+RAII + С++ variadic templates = win | https://habrahabr.ru/post/172817/
+
+О модульности, хорошей архитектуре, внедрении зависимостей в С/C++ и разноцветных кружочках | https://habrahabr.ru/post/171479/
+
+Автоматический поворот изображения на мониторе | https://habrahabr.ru/post/137650/
+
+Автоматическая генерация типизированных структур данных для Си | https://habrahabr.ru/post/171339/
+
+Что такое -1.#IND и -1.#J? | https://habrahabr.ru/post/171203/
+
+Об одном методе распределения памяти | https://habrahabr.ru/post/162187/
+
+Особенности работы со временем в различных временных зонах | https://habrahabr.ru/post/162341/
+
+Как заставить компилятор C/C++ генерировать плохой код | https://habrahabr.ru/post/160995/
+
+Обучение на курсе CS50x | https://habrahabr.ru/post/160817/
+
+Оптимальные опции для x86 GCC | https://habrahabr.ru/company/intel/blog/158939/
+
+Как malloc память ест | https://habrahabr.ru/post/158347/
+
+Вся правда о целочисленных типах в C | https://habrahabr.ru/post/156593/
+
+Добавляем немного виртуальности в C | https://habrahabr.ru/post/155439/
+
+Итоги 21-го конкурса IOCCC | https://habrahabr.ru/post/155335/
+
+ELF — приложение на телефоне LG? | https://habrahabr.ru/post/155289/
+
+Шаблоны на C. Да! На чистом С. Не С++ | https://habrahabr.ru/post/154811/
+
+Потоки в OS X: как получить CPU usage всех потоков в чужой программе? | https://habrahabr.ru/post/152134/
+
+Intel Parallel Studio XE 2013: оптимизируем производительность по-новому | https://habrahabr.ru/company/intel/blog/151398/
+
+Во всём виноват компилятор | https://habrahabr.ru/post/150970/
+
+Ускорение в 3,7 раза после удаления Sleep() в WebKit | https://habrahabr.ru/post/150728/
+
+Список функций для получения текста ошибок из их кодов (WinAPI) | https://habrahabr.ru/post/149116/
+
+Максимально точное измерение кода | https://habrahabr.ru/post/147852/
+
+Конфигурационные файлы. Библиотека libconfig | https://habrahabr.ru/post/148948/
+
+Простые вещи. Файл настроек и небольшой прицеп утилит | https://habrahabr.ru/post/148930/
+
+Qt + OpenCV. Новое устройство GigE интерфейса доступа к сетевым видеокамерам как CvCapture | https://habrahabr.ru/post/148850/
+
+Маленькая C-функция из преисподней | https://habrahabr.ru/post/147128/
+
+О производительности сетевых программ | https://habrahabr.ru/company/ideco/blog/147086/
+
+Подсчет ссылок атомарными переменными в C/C++ и GCC | https://habrahabr.ru/post/147107/
+
+Простой многопоточный тип доступа к данным и атомарные переменные | https://habrahabr.ru/post/147099/
+
+Мы не написали книгу! Практический опыт создания учебного пособия по программированию | https://habrahabr.ru/post/146779/
+
+С11 исправит ошибки С99 | https://habrahabr.ru/post/146596/
+
+Как решить проблему 10 000 соединений? | https://habrahabr.ru/company/ideco/blog/146340/
+
+Как сделать программу нетерпеливой? | https://habrahabr.ru/company/ideco/blog/145883/
+
+Эффективное чтение | https://habrahabr.ru/company/ideco/blog/145012/
+
+Асинхронные запросы к MySQL на API (libmysqlclient) | https://habrahabr.ru/post/144918/
+
+Реализация разделяемой памяти между драйвером и приложением | https://habrahabr.ru/post/144507/
+
+Использование сети CAN и стека CANopen | https://habrahabr.ru/post/144435/
+
+Многозадачность в микроконтроллерах на основе продолжений | https://habrahabr.ru/post/143318/
+
+Итоги 20-го международного конкурса непонятного кода на C | https://habrahabr.ru/post/143072/
+
+Расставим точки над структурами C/C++ | https://habrahabr.ru/post/142662/
+
+Кросс-платформенные многопоточные приложения | https://habrahabr.ru/post/141744/
+
+Реализация exceptions на plain C | https://habrahabr.ru/post/141507/
+
+Насколько большие массивы (и значения) в PHP? (Подсказка: ОЧЕНЬ БОЛЬШИЕ) | https://habrahabr.ru/post/141093/
+
+Отладка программ на C для начинающих | https://habrahabr.ru/post/140536/
+
+Загадочный язык программирования фреймворка Duqu определён | https://habrahabr.ru/post/140288/
+
+Собираем свою Bluetooth машинку с управлением на Android | https://habrahabr.ru/company/embox/blog/138967/
+
+Виртуальные функции в C | https://habrahabr.ru/post/138684/
+
+Я не знаю Си | https://habrahabr.ru/post/136283/
+
+«The Simdsons» — финал | https://habrahabr.ru/post/94789/
+
+«The Simdsons» — немного о семействе векторных инструкций SIMD | https://habrahabr.ru/post/94381/
+
+Оптимизация процесса создания unit-тестов | https://habrahabr.ru/post/49434/
+

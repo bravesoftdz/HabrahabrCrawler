@@ -1,0 +1,782 @@
+Обзор реализаций округления в Go | https://habrahabr.ru/company/badoo/blog/345784/
+
+Линейная регрессия с помощью Go | https://habrahabr.ru/company/mailru/blog/345484/
+
+Запускаем новый онлайн-курс «Разработка веб-сервисов на Go» | https://habrahabr.ru/company/mailru/blog/345490/
+
+Пошаговое руководство по написанию сервиса для Kubernetes | https://habrahabr.ru/post/345332/
+
+Selenium: Накачиваем Мышцы | https://habrahabr.ru/post/344340/
+
+Почему дизайн Go плох для умных программистов | https://habrahabr.ru/post/344356/
+
+Необязательные аргументы в функциях Go | https://habrahabr.ru/post/344352/
+
+Отладка злого бага в рантайме Go | https://habrahabr.ru/company/mailru/blog/344080/
+
+Архитектура сервиса сбора и классификации объявлений жилья из Вконтакте | https://habrahabr.ru/post/342220/
+
+Пирожки в Go | https://habrahabr.ru/post/343788/
+
+Встречайте GoLand 2017.3 — новая Go IDE от JetBrains | https://habrahabr.ru/company/JetBrains/blog/343576/
+
+Введение в нейронные сети на Golang | https://habrahabr.ru/post/343466/
+
+Как Discord каждый день изменяет размер 150 млн картинок с помощью Go и C++ | https://habrahabr.ru/post/343414/
+
+Golang, PHP, Кинопоиск и Telegraph — Что их объединяет? | https://habrahabr.ru/post/342736/
+
+Изучение Go путём портирования небольшого Python веб-бекенда | https://habrahabr.ru/post/342218/
+
+Полное руководство по написанию утилиты для Go | https://habrahabr.ru/company/mailru/blog/341822/
+
+Красота Go | https://habrahabr.ru/company/southbridge/blog/341302/
+
+Jaeger Opentracing и Microservices в реальном проекте на PHP и Golang | https://habrahabr.ru/company/carprice/blog/340946/
+
+О книге Varghese «Web Development with Go» | https://habrahabr.ru/post/340658/
+
+OpenShift.IO: all-in-one платформа для разработки и CI/CD | https://habrahabr.ru/post/340446/
+
+AMA. Avito. Backend | https://habrahabr.ru/company/avito/blog/339996/
+
+Golang Moscow: встреча в Avito | https://habrahabr.ru/company/avito/blog/339846/
+
+AMA, или спроси бэкендера из Avito: анонс | https://habrahabr.ru/company/avito/blog/339826/
+
+Монады для Go-программистов | https://habrahabr.ru/company/mailru/blog/339426/
+
+Зачем в Go амперсанд и звёздочка (& и *)? | https://habrahabr.ru/post/339192/
+
+Разбираемся с новым sync.Map в Go 1.9 | https://habrahabr.ru/post/338718/
+
+Go: 10 лет и растём дальше | https://habrahabr.ru/post/338556/
+
+Go для больших данных | https://habrahabr.ru/company/intel/blog/338002/
+
+Go быстрее Rust, Mail.Ru Group сделала замеры | https://habrahabr.ru/post/338268/
+
+Очередное решение HighLoadCup на Go | https://habrahabr.ru/post/338156/
+
+Docker, или Туда и обратно | https://habrahabr.ru/company/okmeter/blog/337964/
+
+Как написать хорошее решение для Highload Cup, но недостаточно хорошее чтобы выйти в топ | https://habrahabr.ru/post/337868/
+
+Как перейти на gRPC, сохранив REST | https://habrahabr.ru/post/337716/
+
+Пишем оператора для Kubernetes на Golang | https://habrahabr.ru/company/flant/blog/337698/
+
+RustGo: вызов Rust из Go с почти нулевым оверхедом | https://habrahabr.ru/post/337348/
+
+Готовим сборку Go-приложения в продакшн | https://habrahabr.ru/post/337158/
+
+Создатель Node.js: «Для серверов я не могу представить другой язык кроме Go» | https://habrahabr.ru/post/337098/
+
+Go на устройствах с маленькой памятью | https://habrahabr.ru/post/336762/
+
+Как новичок в Go контрибьютил | https://habrahabr.ru/company/badoo/blog/336620/
+
+Go, go, go… Первые впечатления | https://habrahabr.ru/post/336572/
+
+Релиз Go 1.9 | https://habrahabr.ru/post/336368/
+
+Мириады запущенных задач на C# | https://habrahabr.ru/post/336000/
+
+Импровизированный считыватель штрих кодов для 1С через Telegram на Go | https://habrahabr.ru/post/335916/
+
+Интерпретатор 1С-подобного языка на Go | https://habrahabr.ru/post/335390/
+
+Очень легкая система мониторинга с Телеграмом и Консулом | https://habrahabr.ru/post/335166/
+
+Надёжность Go в инфраструктуре Dropbox | https://habrahabr.ru/post/335056/
+
+Selenium: для любителей яблок | https://habrahabr.ru/post/334048/
+
+Делаем приложения с поиском на Go | https://habrahabr.ru/post/333714/
+
+Work-stealing планировщик в Go | https://habrahabr.ru/post/333654/
+
+Selenium: проще пареной репы… | https://habrahabr.ru/post/333568/
+
+На пути к Go 2 | https://habrahabr.ru/post/333346/
+
+Вы используете интерфейсы в Go неправильно! | https://habrahabr.ru/post/332948/
+
+Инструменты для разработчика Go: знакомимся с лейблами профайлера | https://habrahabr.ru/company/badoo/blog/332636/
+
+Многопользовательская игра на Go через telnet | https://habrahabr.ru/post/330512/
+
+Практическое использование в Go: организация доступа к базам данных | https://habrahabr.ru/post/332122/
+
+Как мы суслика яблоками кормили или эффективный backend на Go для iOS | https://habrahabr.ru/post/331456/
+
+Настройка Dockerfile для создания и запуска контейнера Docker с вашей программой на Go | https://habrahabr.ru/post/331938/
+
+5 этапов разработки микросервиса | https://habrahabr.ru/post/331674/
+
+Миллион WebSocket и Go | https://habrahabr.ru/company/mailru/blog/331784/
+
+Регистрация с помощью telegram бота | https://habrahabr.ru/post/331502/
+
+Расставляем точки над микросервисами. Секция Avito на РИТ++ 2017 (Видео) | https://habrahabr.ru/company/avito/blog/331418/
+
+Архитектура и алгоритмы индексации аудиозаписей ВКонтакте | https://habrahabr.ru/company/vkontakte/blog/330988/
+
+Альтернатива Emacs Lisp'у | https://habrahabr.ru/post/331134/
+
+Go без глобальных переменных | https://habrahabr.ru/post/331048/
+
+Теория современного Go | https://habrahabr.ru/post/330786/
+
+Реализация системы доступа в собственном корпоративном мессенджере: часть первая | https://habrahabr.ru/company/everydaytools/blog/329760/
+
+Создание веб-приложения на Go в 2017 году. Часть 4 | https://habrahabr.ru/post/329622/
+
+Создание веб-приложения на Go в 2017 году. Часть 3 | https://habrahabr.ru/post/329612/
+
+Создание веб-приложения на Go в 2017 году. Часть 2 | https://habrahabr.ru/post/329584/
+
+Создание веб-приложения на Go в 2017 году | https://habrahabr.ru/post/329582/
+
+Что скрыто внутри платформы автомобильного аукциона | https://habrahabr.ru/company/carprice/blog/329424/
+
+zetcd от CoreOS: Заменяя ZooKeeper на… хранилище etcd | https://habrahabr.ru/company/flant/blog/329224/
+
+Производительность I/O бэкэнда: Node vs. PHP vs. Java vs. Go | https://habrahabr.ru/company/mailru/blog/329258/
+
+А пусть тесты сами себя и поддерживают | https://habrahabr.ru/post/329260/
+
+Selenium под Windows: все с начала | https://habrahabr.ru/post/329256/
+
+Передача типа map в функцию | https://habrahabr.ru/post/329254/
+
+Как правильно писать логи (?) | https://habrahabr.ru/post/327834/
+
+Сервисы на Go в Badoo: как мы их пишем и поддерживаем | https://habrahabr.ru/company/badoo/blog/328062/
+
+Логирование, интерфейсы и аллокации в Go | https://habrahabr.ru/company/badoo/blog/328722/
+
+Soft Mocks для Go! (переопределение функций и методов в runtime) | https://habrahabr.ru/post/328620/
+
+PHDays HackQuest 2017: RanSomWare — небольшой криптор на GO | https://habrahabr.ru/post/328114/
+
+Лекции Техносферы: Программирование на Go | https://habrahabr.ru/company/mailru/blog/327966/
+
+Хакатон BlockchainLaB, 26-27мая | https://habrahabr.ru/company/luxoft/blog/328310/
+
+Отчет с Go meetup 14 апреля | https://habrahabr.ru/company/mailru/blog/327252/
+
+Selenium за 60 секунд | https://habrahabr.ru/post/327184/
+
+Nalivator-9000: робот-бармен на Raspberry Pi и Go | https://habrahabr.ru/post/327220/
+
+Простая напоминалка в Telegram | https://habrahabr.ru/post/327148/
+
+slit — новое слово в мире PAGERов, либо как тратить меньше времени на просмотр логов | https://habrahabr.ru/post/327120/
+
+Кастование произвольного слайса, к слайсу интерфейсов | https://habrahabr.ru/post/327110/
+
+Почему вам стоит изучить Go? | https://habrahabr.ru/post/326798/
+
+Go дайджест. События, статьи, интересные проекты из мира Go (30 марта — 13 апреля 2017) | https://habrahabr.ru/post/326376/
+
+Как мы ускорили наш DNS стек в 3 раза | https://habrahabr.ru/post/326372/
+
+Centrifugo – 3.5 миллиона оборотов в минуту | https://habrahabr.ru/post/326236/
+
+Опрос разработчиков от StackOverflow (2017) | https://habrahabr.ru/post/325636/
+
+Облегчаем реверсинг Golang бинарников или зачем вообще писать скрипты в IDA | https://habrahabr.ru/post/325498/
+
+Как не наступать на грабли в Go | https://habrahabr.ru/post/325468/
+
+Разработка приложений на Go: повторное использование логики | https://habrahabr.ru/post/325454/
+
+HTTP/2 Server Push в Go 1.8 | https://habrahabr.ru/post/325370/
+
+Простейший HTTP сервер на Golang и Elixir. Сравнение производительности | https://habrahabr.ru/post/324818/
+
+3,5 года, 500к строк Go. Часть 1 | https://habrahabr.ru/post/325326/
+
+Приглашаем на Go meetup 14 апреля | https://habrahabr.ru/company/mailru/blog/325042/
+
+Что я изменил бы в Go | https://habrahabr.ru/company/mailru/blog/325046/
+
+Go дайджест. События, статьи, интересные проекты из мира Go [15 — 30 марта 2017] | https://habrahabr.ru/post/325222/
+
+Профилирование и оптимизация веб-приложений на Go | https://habrahabr.ru/company/badoo/blog/324682/
+
+Вызов функций Go из других языков | https://habrahabr.ru/company/mailru/blog/324250/
+
+Дебажим chaincode в Hyperledger Fabric | https://habrahabr.ru/post/324030/
+
+Go дайджест. События, статьи, интересные проекты из мира Go [1 — 14 марта 2017] | https://habrahabr.ru/post/323942/
+
+Ищем спикеров на Go meetup 14 апреля | https://habrahabr.ru/company/mailru/blog/323446/
+
+Address Sanitizer, или Что делать, если не работает valgrind | https://habrahabr.ru/post/323380/
+
+История одного толстого бинарника | https://habrahabr.ru/company/badoo/blog/322880/
+
+Selenium: новая надежда | https://habrahabr.ru/post/322742/
+
+Видео докладов с Go 1.8 release party Moscow | https://habrahabr.ru/company/avito/blog/322384/
+
+Особенности архитектуры распределённого хранилища в Dropbox | https://habrahabr.ru/post/321274/
+
+Новогодние обещания Go-разработчика | https://habrahabr.ru/company/badoo/blog/320724/
+
+Создание кастомных Go-профилей с помощью pprof. Запоминаем стеки | https://habrahabr.ru/company/badoo/blog/318336/
+
+Переходим c Tarantool 1.5 на 1.6 | https://habrahabr.ru/company/mailru/blog/319170/
+
+Современный подход к сборке мусора | https://habrahabr.ru/company/mailru/blog/318504/
+
+По-настоящему живая перезагрузка кода в golang | https://habrahabr.ru/post/318896/
+
+Микросервис на Golang | https://habrahabr.ru/post/318720/
+
+Предновогодний релиз API и портала Scorocode | https://habrahabr.ru/company/scorocode/blog/317450/
+
+SetGoroutineName | https://habrahabr.ru/post/318220/
+
+Архитектура ассемблера Go | https://habrahabr.ru/company/badoo/blog/317864/
+
+Система хранения для миллиардов записей с доступом по ключу | https://habrahabr.ru/post/317874/
+
+Gogland: Новая Go IDE от JetBrains | https://habrahabr.ru/company/JetBrains/blog/317716/
+
+Лимиты Telegram bot API и работа с ними на Go | https://habrahabr.ru/post/317666/
+
+Спроси backend-разработчиков Badoo. Часть 1. Платформа | https://habrahabr.ru/company/badoo/blog/317442/
+
+Monolithic Message-Oriented Application (MMOA) | https://habrahabr.ru/post/316692/
+
+Обзор конференций, на которых мы побывали в 2016 году | https://habrahabr.ru/company/badoo/blog/316450/
+
+Приглашаем на DevFest Владивосток | https://habrahabr.ru/post/316378/
+
+Type assertation without allocations | https://habrahabr.ru/post/315752/
+
+Поддержка https совсем без настроек | https://habrahabr.ru/post/315678/
+
+Go panic(), runtime error и их реализации в своей ОС на Go+asm Part 0x000c03f.(float32) | https://habrahabr.ru/post/315566/
+
+Ваш язык программирования — отстой | https://habrahabr.ru/post/315152/
+
+Немного о пустых интерфейсах. Быстрый взгляд изнутри | https://habrahabr.ru/post/315260/
+
+Языку программирования Go — семь лет | https://habrahabr.ru/company/mailru/blog/314834/
+
+50 оттенков Go: ловушки, подводные камни и распространённые ошибки новичков | https://habrahabr.ru/company/mailru/blog/314804/
+
+goader — консольный бенчмарк с уклоном на запись-чтение файлов | https://habrahabr.ru/post/314220/
+
+Пишем сервер-помощник для BaaS или «Ну и зачем мне тогда Firebase?» | https://habrahabr.ru/post/314350/
+
+Ещё один способ отображения строк в Go | https://habrahabr.ru/post/313486/
+
+Сериализация данных или диалектика общения: простая сериализация | https://habrahabr.ru/company/infowatch/blog/312320/
+
+Хобби-проект польского разработчика — усовершенствованная и дополненная версия языка Go | https://habrahabr.ru/post/310994/
+
+Работа в IPFS с человеческим лицом | https://habrahabr.ru/post/310554/
+
+Badoo открывает исходные коды Live Streaming Daemon | https://habrahabr.ru/company/badoo/blog/310352/
+
+Разбираемся в Go: пакет encoding | https://habrahabr.ru/post/309834/
+
+Как мы делали мониторинг запросов mongodb | https://habrahabr.ru/company/okmeter/blog/308328/
+
+История языков программирования: от Objective C к Swift | https://habrahabr.ru/post/308450/
+
+Организация кода в Go | https://habrahabr.ru/post/308198/
+
+Безопасное использование языка Go в веб-программировании | https://habrahabr.ru/post/308088/
+
+Как устроены каналы в Go | https://habrahabr.ru/post/308070/
+
+Релиз Go 1.7 | https://habrahabr.ru/post/307864/
+
+Разбираемся в Go: пакеты bytes и strings | https://habrahabr.ru/post/307554/
+
+Разработка облачного сервиса Scorocode: часть 1 | https://habrahabr.ru/company/scorocode/blog/307056/
+
+Экосистема поддержки. Автоматизация регистрации пользователей средствами Golang | https://habrahabr.ru/post/307344/
+
+Разбираемся в Go: пакет io | https://habrahabr.ru/post/306914/
+
+Чат на Go (часть 1) | https://habrahabr.ru/post/306840/
+
+Go глазами java программиста | https://habrahabr.ru/post/306768/
+
+Облачное хранилище: новые функции API | https://habrahabr.ru/company/selectel/blog/306560/
+
+Кодогенерация в языке Go | https://habrahabr.ru/post/306672/
+
+Приглашаем на Go Meetup 6 августа | https://habrahabr.ru/company/mailru/blog/306652/
+
+Имплементация алгоритма Бэйли—Боруэйна—Плаффа на Golang | https://habrahabr.ru/post/306324/
+
+Рефлексивное метапрограммирование на Go: цикл for each средствами пакета reflect | https://habrahabr.ru/post/306304/
+
+Путь Go: как ускорялась сборка мусора | https://habrahabr.ru/company/mailru/blog/305614/
+
+Gogs: легковесный git-сервис | https://habrahabr.ru/company/selectel/blog/305422/
+
+Облачное хранилище: обновление API | https://habrahabr.ru/company/selectel/blog/304032/
+
+Язык Go, микросервисы и DevOps – хорошая компания? | https://habrahabr.ru/company/piter/blog/304040/
+
+[Go][JS] И снова про обработку форматов marc | https://habrahabr.ru/post/303782/
+
+Emacs как редактор кода для Python и Golang | https://habrahabr.ru/post/303600/
+
+Сравнение прозводительности D и Go для веб | https://habrahabr.ru/post/303590/
+
+DevConf::Go — 17 июня в Сколково, экслюзивный мастер-класс по Go 18 июня в ТАСС | https://habrahabr.ru/company/devconf/blog/303066/
+
+Видео докладов с Весеннего Go митапа | https://habrahabr.ru/company/badoo/blog/302134/
+
+Профилирование и оптимизация программ на Go | https://habrahabr.ru/company/badoo/blog/301990/
+
+Реверсинг Android клиента музыкального сервиса Zaycev.net и имплементация api на go | https://habrahabr.ru/post/301838/
+
+Роутер на Golang | https://habrahabr.ru/post/301282/
+
+Лучшие практики Go, шесть лет в деле | https://habrahabr.ru/company/mailru/blog/301036/
+
+Производительность без цикла событий | https://habrahabr.ru/company/mailru/blog/283038/
+
+Как я год работал на CoreOS | https://habrahabr.ru/post/282964/
+
+Весенний Go в Badoo | https://habrahabr.ru/company/badoo/blog/282606/
+
+За что ругают Golang и как с этим бороться? | https://habrahabr.ru/post/282588/
+
+Сугубо ненаучно: Tarantool 1.6 vs Golang (по скорости) | https://habrahabr.ru/post/282299/
+
+Dcoin на IOS… и Катя. Финал | https://habrahabr.ru/post/281709/
+
+Перспективы языка го для программиста | https://habrahabr.ru/post/281320/
+
+Пишем замену find(1) на golang под Linux | https://habrahabr.ru/post/281382/
+
+Визуализация NFS-трафика с помощью elasticsearch+kibana | https://habrahabr.ru/post/280756/
+
+man!(D => Rust).basics | https://habrahabr.ru/post/280642/
+
+Dive into Centrifugo | https://habrahabr.ru/company/mailru/blog/280346/
+
+О функциональности Go | https://habrahabr.ru/post/280210/
+
+man!( Go => D ).concurrency | https://habrahabr.ru/post/280378/
+
+Кейс разработки на Golang: платформа Виртуальной АТС ITooLabs | https://habrahabr.ru/company/itoolabs/blog/280276/
+
+man!( Go => D ).basics | https://habrahabr.ru/post/279657/
+
+Интересные способы использования Go каналов (перевод) | https://habrahabr.ru/post/278349/
+
+Go с точки зрения PHP программиста | https://habrahabr.ru/post/277987/
+
+Решаем задачу Hackerrank — «Encryption» (используя Go) | https://habrahabr.ru/post/277865/
+
+Разработка библиотеки для iOS/Android на Golang | https://habrahabr.ru/post/277705/
+
+Go sync.Pool | https://habrahabr.ru/post/277137/
+
+Катя, Go, Dcoin и Android | https://habrahabr.ru/post/277099/
+
+Ariadna. Зачем нужен еще один геокодер для ОСМ? | https://habrahabr.ru/post/277043/
+
+Краш-курс по интерфейсам в Go | https://habrahabr.ru/post/276981/
+
+Go и Protocol Buffers, ускорение | https://habrahabr.ru/post/276905/
+
+Moira: Realtime Alerting | https://habrahabr.ru/company/skbkontur/blog/276403/
+
+Визуализация concurrency в Go с WebGL | https://habrahabr.ru/post/276255/
+
+С-вызовы в Go: принцип работы и производительность | https://habrahabr.ru/company/intel/blog/275709/
+
+go-скрипт который делает аудиокнигу из текстового файла используя один из лучших синтезаторов речи — Ivona от Amazon | https://habrahabr.ru/post/275587/
+
+Docker: Окружение для тестирования | https://habrahabr.ru/post/275513/
+
+Собственный поисковик по раздачам The Pirate Bay | https://habrahabr.ru/post/275339/
+
+Как я 8 месяцев переписывал Dcoin на Go… про Катю, в общем | https://habrahabr.ru/post/274885/
+
+Go-клиент для PayPal API | https://habrahabr.ru/post/274555/
+
+LetsEncrypt в Go | https://habrahabr.ru/post/274749/
+
+Расширение разделов без потери данных | https://habrahabr.ru/post/274451/
+
+Защищаем Revel от CSRF атак | https://habrahabr.ru/post/274457/
+
+Мониторинг динамических XML-документов | https://habrahabr.ru/post/274131/
+
+Кому и зачем все-таки нужен Go? | https://habrahabr.ru/post/274099/
+
+Go в 2015 году | https://habrahabr.ru/post/274057/
+
+Google, куда ты дел моё место в GMail? А вы точно знаете, как в GMail работают ярлыки? | https://habrahabr.ru/post/273701/
+
+Как мы перешли со Scala на Go | https://habrahabr.ru/post/273535/
+
+Как я 8 месяцев переписывал свою криптовалюту с PHP на Go. Часть 2 | https://habrahabr.ru/post/273333/
+
+Как я 8 месяцев переписывал свою криптовалюту с PHP на Go. Часть 1 | https://habrahabr.ru/company/dcoin/blog/272695/
+
+Как разрабатывается Cloud Foundry | https://habrahabr.ru/post/272645/
+
+Постулаты Go | https://habrahabr.ru/post/272383/
+
+Танцы с мьютексами в Go | https://habrahabr.ru/post/271789/
+
+Интервью: Брайан Керниган и Алан Донован | https://habrahabr.ru/post/271303/
+
+Тестирование веб-сервиса на Go | https://habrahabr.ru/post/271239/
+
+Чистая архитектура в Go-приложении. Часть 3 | https://habrahabr.ru/post/271157/
+
+«Ошибки — это значения» в Go и эхо VB | https://habrahabr.ru/post/271167/
+
+Лучше или хуже | https://habrahabr.ru/post/270981/
+
+Пример решения типичной ООП задачи на языке Go | https://habrahabr.ru/post/270849/
+
+Выбор языка (Haskell vs Go) | https://habrahabr.ru/post/270707/
+
+Шесть лет Go | https://habrahabr.ru/post/270621/
+
+Чистая архитектура в Go-приложении. Часть 2 | https://habrahabr.ru/post/270351/
+
+Гибкая система логирования на Go | https://habrahabr.ru/post/270263/
+
+Где находиться типу: справа или слева? | https://habrahabr.ru/post/270081/
+
+Идея по обработке ошибок в Go | https://habrahabr.ru/post/270047/
+
+Почему «ошибки это значения» в Go | https://habrahabr.ru/post/270027/
+
+Чистая архитектура в Go-приложении. Часть 1 | https://habrahabr.ru/post/269893/
+
+Как писать Go код, который легко портируется | https://habrahabr.ru/post/269943/
+
+Ошибки — это значения | https://habrahabr.ru/post/269909/
+
+Генерация кода в Go | https://habrahabr.ru/post/269887/
+
+Почему Go — это хорошо продуманный язык программирования | https://habrahabr.ru/post/269817/
+
+Почему Go — это плохо продуманный язык программирования | https://habrahabr.ru/post/269731/
+
+С чего начать новичку в Go | https://habrahabr.ru/post/269355/
+
+Изучаем net/context в Go | https://habrahabr.ru/post/269299/
+
+Планировщик Go | https://habrahabr.ru/company/ua-hosting/blog/269271/
+
+Выдергивание информации из URL, в стиле Slack и Twitter | https://habrahabr.ru/post/269055/
+
+Тайна финализаторов в Go | https://habrahabr.ru/post/268841/
+
+Бенчмарки в Go | https://habrahabr.ru/post/268585/
+
+Перевод: Один год с Go | https://habrahabr.ru/post/268411/
+
+Разработка менеджера закачек на GO | https://habrahabr.ru/post/267943/
+
+Go, практика асинхронного взаимодействия | https://habrahabr.ru/post/267785/
+
+Начинаем любить Go | https://habrahabr.ru/post/266851/
+
+Centrifuge + Go = Centrifugo – harder, better, faster, stronger | https://habrahabr.ru/company/mailru/blog/266017/
+
+Подключения Go shared library к Ruby | https://habrahabr.ru/post/266037/
+
+Эволюция сборки логов «облака» и сборщик логов в open source | https://habrahabr.ru/company/badoo/blog/265875/
+
+GC в Go: приоритет на скорость и простоту | https://habrahabr.ru/post/265833/
+
+Go в Basecamp (создатели RoR) | https://habrahabr.ru/post/265831/
+
+Рассылка пуш уведомлений на Go | https://habrahabr.ru/company/vkontakte/blog/265731/
+
+Миллиарды запросов в день встречают Go 1.5 | https://habrahabr.ru/post/265183/
+
+Вышел Go 1.5 | https://habrahabr.ru/post/265115/
+
+Go как первый язык программирования для школьников | https://habrahabr.ru/post/264643/
+
+Golang в AeroFS | https://habrahabr.ru/post/264251/
+
+Веб приложение для генерации фотомозаики с легковесными потоками на Go | https://habrahabr.ru/post/263019/
+
+Почему Go и Rust не враги, а друзья | https://habrahabr.ru/post/262889/
+
+Почему Go и Rust не соперники, а чертовы враги | https://habrahabr.ru/post/262841/
+
+Почему Go и Rust не соперники | https://habrahabr.ru/post/262779/
+
+Сборщик мусора в Go: решение проблемы отзывчивости в Go 1.5 | https://habrahabr.ru/post/262335/
+
+Эволюция Go | https://habrahabr.ru/post/262295/
+
+Обработка 1 миллиона запросов в минуту c Go | https://habrahabr.ru/post/262045/
+
+Qihoo 360 и Go | https://habrahabr.ru/post/261935/
+
+Сложно о простоте Go | https://habrahabr.ru/post/261339/
+
+Go как язык для обучения программированию | https://habrahabr.ru/post/260735/
+
+Организация «чистого» завершения приложений на Go | https://habrahabr.ru/post/260661/
+
+Ускоряем приложение Android с помощью Golang | https://habrahabr.ru/post/260609/
+
+Разработка веб-приложения на Golang | https://habrahabr.ru/post/260539/
+
+Почему Go превосходит посредственность | https://habrahabr.ru/post/260451/
+
+Почему Go обречён на успех (обновлено) | https://habrahabr.ru/post/260223/
+
+Правда ли, что Go быстрее Ruby? | https://habrahabr.ru/post/260033/
+
+gb — менеджмент зависимостей для Go | https://habrahabr.ru/post/259967/
+
+Видео докладов с Golang Moscow | https://habrahabr.ru/company/badoo/blog/259929/
+
+Разработка OS на Go+asm Part 0x01 | https://habrahabr.ru/post/259839/
+
+Разработка OS на Go+asm Part 0x00 | https://habrahabr.ru/post/259719/
+
+Генератор документов Open Document (ODF) на Go | https://habrahabr.ru/post/257921/
+
+ExpvarMon — консольный мониторинг сервисов на Go | https://habrahabr.ru/post/257593/
+
+Реализуем ещё более безопасный VPN-протокол | https://habrahabr.ru/company/ivi/blog/257431/
+
+Реализуем безопасный VPN-протокол | https://habrahabr.ru/company/ivi/blog/256365/
+
+godebug — кроссплатформенный дебаггер для Go | https://habrahabr.ru/post/256355/
+
+RSA шифрование в PHP (openssl), Android/Java, JavaScript и Go | https://habrahabr.ru/post/255799/
+
+Разбор естественного языка: под капотом | https://habrahabr.ru/post/255711/
+
+Разбор естественного языка: грамматическая нотация | https://habrahabr.ru/post/255073/
+
+Приведение типов на Go | https://habrahabr.ru/post/255043/
+
+Простой DICOM клиент на GO с балансировщиком задач и веб-интерфейсом | https://habrahabr.ru/post/254581/
+
+Несколько интересностей и полезностей для веб-разработчика #41 | https://habrahabr.ru/post/254327/
+
+Нативная UI-библиотека для Go | https://habrahabr.ru/post/253519/
+
+Работа с базой данных MS SQL средствами Go для начинающих | https://habrahabr.ru/post/253365/
+
+Несколько интересностей и полезностей для веб-разработчика #40 | https://habrahabr.ru/post/251759/
+
+Go для системных администраторов. Практические примеры. Часть 0 | https://habrahabr.ru/post/253039/
+
+Как это работает: архитектура тайлового бэкенда карт «Спутника» | https://habrahabr.ru/company/rostelecom/blog/252921/
+
+Интерпретатор Оберона на Go | https://habrahabr.ru/post/252677/
+
+Go и Protocol Buffers толика практики (или быстрый старт, для тех кто ещё не знаком) | https://habrahabr.ru/post/252455/
+
+Краткий обзор видео по Go c FOSDEM 2015 | https://habrahabr.ru/post/252447/
+
+Анонс книги Брайана Кернигана «The Go Programming Language» | https://habrahabr.ru/post/252417/
+
+Компилятор Go переписан на Go | https://habrahabr.ru/post/251393/
+
+Уменьшение накладных расходов для утилит на golang | https://habrahabr.ru/post/251271/
+
+Пишем симулятор медленных соединений на Go | https://habrahabr.ru/post/251095/
+
+Чат вконтакта в качестве терминала | https://habrahabr.ru/post/251083/
+
+Обновление сервисов, запущенных на Go | https://habrahabr.ru/post/251031/
+
+Централизованные логи для приложений с помощью связки heka+elasticsearch+kibana | https://habrahabr.ru/post/250803/
+
+Operation Go — игра-боевик для Go-программистов | https://habrahabr.ru/post/250281/
+
+Всё, что вы хотели знать про GOPATH и GOROOT | https://habrahabr.ru/post/249545/
+
+Кросс-компиляция в Go | https://habrahabr.ru/post/249449/
+
+Конференция dotGo 2014 в Париже | https://habrahabr.ru/post/249145/
+
+Главное преимущество Go | https://habrahabr.ru/post/248857/
+
+«Велосипед» проверки версии сайта | https://habrahabr.ru/post/248671/
+
+Docker в продакшене — чему мы научились, запустив более 300 миллионов контейнеров | https://habrahabr.ru/post/247969/
+
+Спортивный телеком: «СМОТРИ+» | https://habrahabr.ru/company/megafon/blog/247697/
+
+Простой диспетчер задач с веб-интерфейсом, на GO для Unix-систем, включая Android | https://habrahabr.ru/post/247727/
+
+Другая сторона Go: рисуем анализируя данные | https://habrahabr.ru/post/247169/
+
+Заявлен релиз Go 1.4 | https://habrahabr.ru/post/245603/
+
+Golang и ООП | https://habrahabr.ru/post/243593/
+
+Использование Go в правительстве | https://habrahabr.ru/post/243327/
+
+Go исполнилось 5 лет | https://habrahabr.ru/post/242877/
+
+Распределенные вычисления для поиска жилья | https://habrahabr.ru/post/240941/
+
+Язык Go: реабилитация императивного программирования | https://habrahabr.ru/post/240917/
+
+Деплой Go-серверов с помощью Docker | https://habrahabr.ru/post/238473/
+
+Опыт применения Go в продакшене Яндекса | https://habrahabr.ru/company/yandex/blog/237985/
+
+Как Docker помог нам достичь (почти) невозможного | https://habrahabr.ru/post/235417/
+
+Сервис загрузки файлов на Golang | https://habrahabr.ru/post/234693/
+
+Как мы зашифровали net/rpc | https://habrahabr.ru/post/232983/
+
+Подборка библиотек для бекенда | https://habrahabr.ru/post/232367/
+
+О плюсах и минусах Go | https://habrahabr.ru/post/229169/
+
+Go + Heroku: развертывание web-приложения | https://habrahabr.ru/post/229799/
+
+Свой dynamic dns на Go с помощью Cloudflare | https://habrahabr.ru/post/229179/
+
+[Перевод] Почему Go не так хорош | https://habrahabr.ru/post/228849/
+
+TJ Holowaychuk: Прощай Node.js | https://habrahabr.ru/post/228751/
+
+Go-дайджест: июнь 2014 | https://habrahabr.ru/post/228627/
+
+Видеозаписи докладов конференции Golang Moscow | https://habrahabr.ru/post/227073/
+
+Делаем многопользовательскую игрy на Go и WebSocket'ах | https://habrahabr.ru/post/226469/
+
+Является ли Go языком ООП? | https://habrahabr.ru/post/225907/
+
+Разбор строки адреса (улица [дом]) средствами Golang и Postgis | https://habrahabr.ru/post/225481/
+
+DevConf 2014: Пишем функциональное, надежное и быстрое веб-приложение на Go | https://habrahabr.ru/company/devconf/blog/223755/
+
+Реверс-инжинеринг и написание бота для flash игры на Go | https://habrahabr.ru/post/223013/
+
+Как ускорить программу на Go | https://habrahabr.ru/post/222957/
+
+Еще один дайджест (теперь Go) | https://habrahabr.ru/post/221061/
+
+Пишем Penguin Daycare Simulator на Go (Google App Engine) и Lua (Corona SDK) | https://habrahabr.ru/post/220031/
+
+Язык Go для начинающих | https://habrahabr.ru/post/219459/
+
+NanoMMO на Go и Canvas [Сервер] | https://habrahabr.ru/post/212701/
+
+Используем nginx, docker, skydns и skydock для обновления кода на лету (zero-downtime deployment) | https://habrahabr.ru/post/215653/
+
+Пишем веб сервис на Go (часть вторая) | https://habrahabr.ru/post/214425/
+
+Пишем веб сервис на Go (часть первая) | https://habrahabr.ru/post/208680/
+
+Исполнение SSH-команд на сотнях серверов с помощью Go | https://habrahabr.ru/post/215111/
+
+[Перевод] Массивы, срезы (и строки): Механизм 'вставки' | https://habrahabr.ru/post/202948/
+
+Бесплатные скринкасты для изучения Go | https://habrahabr.ru/post/208932/
+
+Повторное использование кода в Go на примере | https://habrahabr.ru/post/208756/
+
+Мой любимый редактор acme | https://habrahabr.ru/post/208482/
+
+Починка электронного правительства Объединенного Королевства посредством языка Go | https://habrahabr.ru/post/205284/
+
+Блокнот с графическим интерфейсом на языке Go | https://habrahabr.ru/post/205268/
+
+Релиз Go 1.2 | https://habrahabr.ru/post/204632/
+
+Нагрузочный тест на Go, версия 2 | https://habrahabr.ru/post/203328/
+
+Изящный вебсервер на Go (Graceful Restart) | https://habrahabr.ru/post/202584/
+
+Знакомство с Go, часть 2: пишем граббер изображений с балансировщиком и извращениями | https://habrahabr.ru/post/198150/
+
+Java vs Go | https://habrahabr.ru/post/197926/
+
+Загружаем данные в postgresql | https://habrahabr.ru/post/197718/
+
+Знакомство с Go — пишем граббер веб страниц с многопоточностью и блудницами | https://habrahabr.ru/post/197598/
+
+Балансировщик на Go в 200 строк | https://habrahabr.ru/post/197570/
+
+Пара недочётов в создании веб приложения на Go | https://habrahabr.ru/post/197468/
+
+Воображение, как у Эсмеральды | https://habrahabr.ru/post/197398/
+
+Go: многопоточность | https://habrahabr.ru/post/195818/
+
+Go: многопоточность и параллельность | https://habrahabr.ru/post/195574/
+
+Go: Два года в продакшне | https://habrahabr.ru/post/195464/
+
+Написание своего Web-приложения на Go | https://habrahabr.ru/post/183508/
+
+EazyPhoto: уютный фотохостинг для своего сервера | https://habrahabr.ru/post/188968/
+
+Golang daemon | https://habrahabr.ru/post/187668/
+
+Нагрузочный тест c помощью Go | https://habrahabr.ru/post/187212/
+
+Демонстрация возможностей WebRTC, WebGL и Go от Google | https://habrahabr.ru/post/183144/
+
+Улучшаем тестирование путем использования реального трафика | https://habrahabr.ru/post/182202/
+
+Отладка Go кода с помощью GDB. Введение | https://habrahabr.ru/post/179317/
+
+Крэши, вызванные исключениями | https://habrahabr.ru/post/178083/
+
+Высокоуровневые API для Linux-контейнеров | https://habrahabr.ru/post/174499/
+
+Как мы перешли с 30 серверов на 2: Go | https://habrahabr.ru/post/172795/
+
+Протокол Railgun для сжатия трафика | https://habrahabr.ru/post/170959/
+
+Объектно-дезориентированный язык | https://habrahabr.ru/post/167247/
+
+Revel — высокопроизводительный веб-фреймворк на языке Go | https://habrahabr.ru/post/162115/
+
+Какая команда в консоли отнимает у вас больше всего времени? | https://habrahabr.ru/post/151484/
+
+TCP/IP proxy на Go | https://habrahabr.ru/post/142527/
+
+Goblog: Самодельный статический движок для блога на Go | https://habrahabr.ru/post/142287/
+
+Горутины: всё, что вы хотели знать, но боялись спросить | https://habrahabr.ru/post/141853/
+
+Go не рекомендуется использовать для разработки на Windows 32bit (UPD: и на Linux тоже) | https://habrahabr.ru/post/141722/
+
+Смерть goroutine под контролем | https://habrahabr.ru/post/141536/
+
+Go for IT. Часть вторая | https://habrahabr.ru/post/141494/
+
+Go for IT. Часть первая | https://habrahabr.ru/post/141426/
+
+Для тех, кто пишет на языке Go | https://habrahabr.ru/post/141265/
+
+Google выпустила финальную версию языка программирования Go 1 | https://habrahabr.ru/post/140976/
+
+Go: производительность горутин | https://habrahabr.ru/post/135587/
+
+Быстрый старт – программируем на Go под Windows — настройка Environment | https://habrahabr.ru/post/133281/
+

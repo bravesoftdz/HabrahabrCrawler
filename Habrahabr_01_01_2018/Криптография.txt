@@ -1,0 +1,1626 @@
+Программирование генератора случайных чисел на Ethereum | https://habrahabr.ru/post/345904/
+
+Взломать шифр Хилла? Легко | https://habrahabr.ru/post/345876/
+
+Информационная безопасность банковских безналичных платежей. Часть 2 — Типовая IT-инфраструктура банка | https://habrahabr.ru/post/345194/
+
+Замечательный премайн в DAG криптовалютах | https://habrahabr.ru/post/345800/
+
+Что такое Хэширование? Под капотом блокчейна | https://habrahabr.ru/post/345740/
+
+Объяснение SNARKs. Спаривание эллиптических кривых (перевод) | https://habrahabr.ru/post/344808/
+
+Tcl/Tk – создание расширений/пакетов на базе динамических библиотек | https://habrahabr.ru/post/345574/
+
+Настройка VPN (PPTP) в Ubuntu 17.10 с авторизацией по смарт-карте JaCarta | https://habrahabr.ru/company/aladdinrd/blog/345476/
+
+Развертывание сервера ElectrumX | https://habrahabr.ru/post/345222/
+
+Разбираемся, что произошло с курсом биткоина | https://habrahabr.ru/company/hamstermarketplace/blog/345192/
+
+Конкурс по криптоанализу в Аризонском Государственном Университете (интервью) | https://habrahabr.ru/post/345118/
+
+Руководство по написанию защищённых PHP-приложений в 2018-м | https://habrahabr.ru/company/mailru/blog/344696/
+
+18 новых IT-специальностей которые появились из-за криптовалют | https://habrahabr.ru/post/344760/
+
+Объяснение SNARKs. От вычислений к многочленам, протокол Пиноккио и спаривание эллиптических кривых (перевод) | https://habrahabr.ru/post/343954/
+
+Криптография русского крестьянина | https://habrahabr.ru/post/344666/
+
+Когда биткоин перестанет расти: токены — настоящая альтернатива коинам | https://habrahabr.ru/company/hamstermarketplace/blog/344584/
+
+Не поддавайтесь хайпу, или почему цена биткоина не отражает его реальной ценности | https://habrahabr.ru/company/everydaytools/blog/344494/
+
+Как мы создавали менеджер паролей со стойкой криптографией и мастер-паролем. Опыт команды Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/344382/
+
+Как обсуждать биткойн и не выглядеть дураком | https://habrahabr.ru/post/344442/
+
+Прототип платежной криптосистемы. Авантюрный проект | https://habrahabr.ru/post/344338/
+
+Руководство по блокчейн для маркетолога | https://habrahabr.ru/post/344290/
+
+Начало новой эры криптовалют? Биржи CME Group выпускают фьючерс на биткоин | https://habrahabr.ru/company/hamstermarketplace/blog/344010/
+
+Как при помощи токена сделать удаленный доступ более безопасным? | https://habrahabr.ru/company/aktiv-company/blog/343638/
+
+Объяснение SNARKs. Знание о принятом коэффициенте и достоверное слепое вычисление полиномов (перевод) | https://habrahabr.ru/post/343468/
+
+Токен Hamster Marketplace: какие задачи решает и почему он единственный в своём роде | https://habrahabr.ru/company/hamstermarketplace/blog/343332/
+
+От Root CA до User Authorization в nginx+apache. Часть 1. Создаем Root&Intermediate Certificate Authority | https://habrahabr.ru/post/325956/
+
+Объяснение SNARKs. Гомоморфное скрытие и слепое вычисление полиномов (перевод) | https://habrahabr.ru/post/343054/
+
+Программирование под ARM TrustZone. Часть 1: Secure Monitor | https://habrahabr.ru/company/aladdinrd/blog/342924/
+
+Квадратичные арифметические программы: из грязи в князи (перевод) | https://habrahabr.ru/post/342750/
+
+Криптографические токены PKCS#11: управление и доступ к объектам токена (Продолжение ) | https://habrahabr.ru/post/342834/
+
+Протоколы распространения ключей на симметричных шифрах | https://habrahabr.ru/post/342814/
+
+Как правильно готовить блокчейн | https://habrahabr.ru/post/342802/
+
+Dive into ICO | https://habrahabr.ru/post/342534/
+
+WeChat. Сериализуем объект — получаем СМС | https://habrahabr.ru/company/bringo/blog/339772/
+
+Мегафон-Райффайзенбанк — первая в России сделка по ценным бумагам на блокчейне | https://habrahabr.ru/company/raiffeisenbank/blog/341850/
+
+Сравниваем Bitcoin с iPhone X, долларом и золотом | https://habrahabr.ru/company/cloud4y/blog/342352/
+
+Ошибки в смарт-контрактах или новый Security Alert от Parity | https://habrahabr.ru/post/342324/
+
+Введение в zk-SNARKs с примерами (перевод) | https://habrahabr.ru/post/342262/
+
+Настройка двухфакторной аутентификации в VMware Horizon View 7 c использованием OTP и сервера JAS | https://habrahabr.ru/company/aladdinrd/blog/342250/
+
+Может ли VeraCrypt стать следующим TrueCrypt? | https://habrahabr.ru/post/342136/
+
+Технические особенности проведения ICO. Начало | https://habrahabr.ru/post/342102/
+
+Универсальный cмарт-контракт мультиподписи в Ethereum | https://habrahabr.ru/post/342100/
+
+Хардфорк биткоина остановлен. Что дальше? | https://habrahabr.ru/company/hamstermarketplace/blog/339736/
+
+Мы отправили ETH на неправильный адрес и смогли их вернуть | https://habrahabr.ru/post/341518/
+
+Не ждем, а готовимся к переходу на новые стандарты криптографической защиты информации | https://habrahabr.ru/company/alfa/blog/341476/
+
+Программные кошельки для Bitcoin и безопасность | https://habrahabr.ru/company/aktiv-company/blog/341338/
+
+Создаём собственный блокчейн на Ethereum | https://habrahabr.ru/post/341466/
+
+TLS 1.2 и новый ГОСТ | https://habrahabr.ru/post/339978/
+
+Экосистема блокчейн-проектов | https://habrahabr.ru/company/everydaytools/blog/341436/
+
+Препарируем OpenVPN. Часть 1. Статические ключи | https://habrahabr.ru/post/313052/
+
+Bad Rabbit показал: программы-вымогатели шифруют данные резервных копий | https://habrahabr.ru/company/acronis/blog/341318/
+
+Взлом Bitcoin по телевизору: обфускуй, не обфускуй, все равно получим QR | https://habrahabr.ru/company/edison/blog/341212/
+
+Под капотом Ethereum Virtual Machine. Часть 1 — Solidity basics | https://habrahabr.ru/post/340928/
+
+Blockchain глазами разработчика | https://habrahabr.ru/post/340916/
+
+TrustZone: аппаратная реализация в ARMv7A | https://habrahabr.ru/company/aladdinrd/blog/340912/
+
+Серьезная уязвимость в популярной библиотеке шифрования подрывает безопасность миллионов крипто-ключей | https://habrahabr.ru/company/pt/blog/340230/
+
+BaumankaCoin – велосипед в 3000 строк или блокчейн на пальцах | https://habrahabr.ru/post/340206/
+
+Настройка двусторонней RSA и GOST аутентификации в приложении на JBoss EAP 7 | https://habrahabr.ru/company/alfa/blog/340028/
+
+Ломаем модифицированный AES-256 | https://habrahabr.ru/post/339910/
+
+Такты для разработчиков | https://habrahabr.ru/company/mailru/blog/339688/
+
+Настройка двухфакторной аутентификации в VMware Horizon View 7 c использованием смарт-карт JaCarta PKI | https://habrahabr.ru/company/aladdinrd/blog/339824/
+
+WhatsApp, что внутри? | https://habrahabr.ru/company/bringo/blog/339224/
+
+Стратегии офлайнового хранения ключей PGP | https://habrahabr.ru/post/339612/
+
+Изучаем блокчейн на практике | https://habrahabr.ru/company/everydaytools/blog/339280/
+
+О перехвате трафика: 4-10% зашифрованного HTTPS-трафика сегодня перехватывается | https://habrahabr.ru/company/parallels/blog/339242/
+
+Разбираем WeChat — второй по популярности мессенджер в мире | https://habrahabr.ru/company/bringo/blog/338940/
+
+Криптоалгоритмы. Классификация с точки зрения количества ключей | https://habrahabr.ru/post/336578/
+
+Загрузка ОС на ARM | https://habrahabr.ru/company/aladdinrd/blog/338806/
+
+Метод гарантирования доверия в блокчейнах | https://habrahabr.ru/post/338696/
+
+Overview of Cryptoeconomics. Перевод статьи | https://habrahabr.ru/post/338638/
+
+Что конкретно входит в понятие «блокчейн» | https://habrahabr.ru/company/kaspersky/blog/338320/
+
+Padding Oracle Attack: криптография по-прежнему пугает | https://habrahabr.ru/post/338072/
+
+Немного из истории криптографии СССP: M-105 под кодовым названием Агат | https://habrahabr.ru/company/ua-hosting/blog/335904/
+
+Как на Java c помощью КриптоПро подписать документ PDF | https://habrahabr.ru/company/alfa/blog/337668/
+
+Как вы вирус назовете? | https://habrahabr.ru/company/jetinfosystems/blog/337474/
+
+Бомба Сатоши | https://habrahabr.ru/company/kaspersky/blog/337410/
+
+Новый алгоритм шифрования NASH | https://habrahabr.ru/post/337388/
+
+Google Titan — стали известны новые подробности о чипе | https://habrahabr.ru/company/1cloud/blog/336730/
+
+Настоящий Offline Perfect Forward Secrecy для ваших продуктов | https://habrahabr.ru/company/virgilsecurity/blog/337356/
+
+Практическое применение блокчейна как распределенного хранилища данных | https://habrahabr.ru/post/337082/
+
+Как правильно хешировать пароли в высоконагруженных сервисах. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/336860/
+
+Доступно о криптографии на эллиптических кривых | https://habrahabr.ru/post/335906/
+
+Погружение в разработку на Ethereum. Часть 1 | https://habrahabr.ru/post/336132/
+
+Bitcoin Cash. А был ли форк? | https://habrahabr.ru/post/336102/
+
+Blockchain | https://habrahabr.ru/post/335994/
+
+Python и графический интерфейс для утилит командной строки Network Security Services | https://habrahabr.ru/post/335712/
+
+Скрытые возможности Windows. Как BitLocker поможет защитить данные? | https://habrahabr.ru/company/aktiv-company/blog/335532/
+
+Протокол электронного голосования: мой вариант | https://habrahabr.ru/post/335398/
+
+Двухфакторная аутентификация в Check Point Security Gateway | https://habrahabr.ru/company/aladdinrd/blog/335250/
+
+Разбор доклада Артёма Гавриченкова о масштабировании TLS | https://habrahabr.ru/company/jugru/blog/331186/
+
+Асимметричная криптография и криптография с открытым ключом — это не одно и то же? | https://habrahabr.ru/post/335216/
+
+Размышления о токенах | https://habrahabr.ru/company/alconost/blog/334852/
+
+Хотите зашифровать вообще любое TCP соединение? Теперь у вас есть NoiseSocket | https://habrahabr.ru/company/virgilsecurity/blog/334506/
+
+Настройка аутентификации в Citrix XenDesktop 7.x c использованием смарт-карт JaCarta PKI | https://habrahabr.ru/company/aladdinrd/blog/334322/
+
+Есть ли альтернатива MS Windows, IE и CSP при доступе в личные кабинеты порталов Госзакупок, ФНС России и Госуслуг | https://habrahabr.ru/post/334162/
+
+Квантовый протокол распределения ключей BB84 | https://habrahabr.ru/post/333952/
+
+Критическая уязвимость в multisig кошельке Parity, хакерами выведен $31 миллион в ethereum (обновлено) | https://habrahabr.ru/post/333754/
+
+Visual Tcl. Разработка графического пользовательского интерфейса для утилит командной строки (Продолжение) | https://habrahabr.ru/post/333742/
+
+3D Блокчейн. Доказательство на лицо (PoF) | https://habrahabr.ru/post/333708/
+
+Постквантовая реинкарнация алгоритма Диффи-Хеллмана: вероятное будущее (изогении) | https://habrahabr.ru/company/aktiv-company/blog/332494/
+
+Постквантовая криптография и закат RSA — реальная угроза или мнимое будущее? | https://habrahabr.ru/company/neobit/blog/332942/
+
+Yubikey 4 — покупка, доставка и получение | https://habrahabr.ru/post/333036/
+
+Ссылочная TCP/IP стеганография | https://habrahabr.ru/post/332962/
+
+Реализация Elliptic curve Menezes-Vanstone cryptosystem на базе OpenSSL API | https://habrahabr.ru/post/332928/
+
+Отзыв сертификатов не работает | https://habrahabr.ru/post/332730/
+
+Шифр Хила. Подробный разбор | https://habrahabr.ru/post/332714/
+
+Как компьютерные профи раскалывают хакеров | https://habrahabr.ru/company/parallels/blog/332178/
+
+Третье пришествие ГОСТ 28147-89 или «Русская рулетка» | https://habrahabr.ru/post/331960/
+
+Безопасная флешка. Миф или реальность | https://habrahabr.ru/company/aktiv-company/blog/331862/
+
+JaCarta Authentication Server и JaCarta WebPass для OTP-аутентификации в Linux SSH | https://habrahabr.ru/company/aladdinrd/blog/331908/
+
+Постквантовая реинкарнация алгоритма Диффи-Хеллмана: прошлое и настоящее | https://habrahabr.ru/company/aktiv-company/blog/331744/
+
+Вехи истории шифрования и борьбы с ним | https://habrahabr.ru/company/ruvds/blog/331496/
+
+Шифрование БД под управлением Firebird 3.0 | https://habrahabr.ru/post/331002/
+
+Потенциально опасные алгоритмы | https://habrahabr.ru/company/mailru/blog/330892/
+
+Симметричное и асимметричное шифрование. Разбор алгоритма передачи шифрованных данных между серверами | https://habrahabr.ru/post/330792/
+
+Как при помощи токена сделать Windows домен безопаснее? Часть 2 | https://habrahabr.ru/company/aktiv-company/blog/329904/
+
+NeoQUEST-2017: что ждёт гостей на юбилейной «Очной ставке»? | https://habrahabr.ru/company/neobit/blog/330014/
+
+JaCarta PKI и OpenVPN для Windows | https://habrahabr.ru/company/aladdinrd/blog/329880/
+
+Краткая история случайных чисел | https://habrahabr.ru/company/infopulse/blog/329778/
+
+Двухфакторная аутентификация при монтировании зашифрованного раздела LUKS с помощью Yubikey 4 | https://habrahabr.ru/post/329648/
+
+Биокриптография как шанс спастись от криптоапокалипсиса | https://habrahabr.ru/company/kaspersky/blog/329332/
+
+Анонимные данные бизнес-логики: отделение от персональных данных | https://habrahabr.ru/post/328934/
+
+Облако.Mail.Ru + EncFS без локального хранения файлов | https://habrahabr.ru/post/320400/
+
+Новый Rust-митап уже 18 мая в ЛК: приходите – будет полезно | https://habrahabr.ru/company/kaspersky/blog/328500/
+
+Как при помощи токена сделать Windows домен безопаснее? Часть 1 | https://habrahabr.ru/company/aktiv-company/blog/327232/
+
+Часть 3. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/328004/
+
+Свободен ото всех оков: Emercoin версии 6.2 стал полностью децентрализованным | https://habrahabr.ru/company/emercoin/blog/327988/
+
+Часть 2. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327947/
+
+Аутентификация в OpenSSH Putty по JaCarta PKI | https://habrahabr.ru/company/aladdinrd/blog/327868/
+
+Часть 1. Где хранить данные децентрализованным приложениям на блокчейне? | https://habrahabr.ru/post/327836/
+
+Введение в криптографию и шифрование, часть вторая. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/327636/
+
+Шифрование в EXT4. How It Works? | https://habrahabr.ru/post/327682/
+
+Как мы на FPGA AES ускоряли: разработка драйвера | https://habrahabr.ru/company/metrotek/blog/324042/
+
+«Криптография в блокчейнах»: о хеш-функциях, ключах и цифровых подписях | https://habrahabr.ru/company/bitfury/blog/327272/
+
+Разбираемся с Replace-By-Fee транзакциями Bitcoin | https://habrahabr.ru/post/327218/
+
+Введение в криптографию и шифрование, часть первая. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/324866/
+
+Масштабируя TLS | https://habrahabr.ru/company/qrator/blog/326824/
+
+Своя криптовалюта на ethereum | https://habrahabr.ru/post/326626/
+
+«C чем это едят»: что такое блокчейн | https://habrahabr.ru/company/bitfury/blog/326340/
+
+«Человек посередине», использующий отозванные сертификаты. Часть 1 | https://habrahabr.ru/company/neobit/blog/325490/
+
+Импортозамещение в I2P: подпись по ГОСТ Р 34.10-2012 | https://habrahabr.ru/post/325666/
+
+Настройка резервного копирования информации в облако Microsoft Azure Backup | https://habrahabr.ru/company/aladdinrd/blog/325734/
+
+Интервью с разработчиком IOHK Александром Чепурным о программировании криптовалют и будущем блокчейна | https://habrahabr.ru/company/it_people/blog/325606/
+
+PHP: Хранение сессий в защищённых куках | https://habrahabr.ru/post/325452/
+
+Сертификаты от StartCom и WoSign окончательно превратились в тыкву | https://habrahabr.ru/post/325300/
+
+Дайджест от Omegicus: антиалиасинг шрифтов и библиотека шифрования и сжатия | https://habrahabr.ru/post/324946/
+
+Зашифрованные почтовые сервисы: что выбрать? | https://habrahabr.ru/company/netologyru/blog/324618/
+
+Приглашаем на Всероссийскую студенческую олимпиаду по прикладной информатике и кибербезопасности в МИФИ | https://habrahabr.ru/company/echelon/blog/324482/
+
+Различия, достоинства, недостатки: публичные и приватные блокчейны | https://habrahabr.ru/company/bitfury/blog/324458/
+
+А ты хто такой? Эволюция протоколов аутентификации MySQL и MariaDB в лицах | https://habrahabr.ru/post/323670/
+
+Как я настраивал новые утилиты по работе с электронной подписью в Linux | https://habrahabr.ru/company/aktiv-company/blog/323170/
+
+Алгоритм шифрования на основе элементарных клеточных автоматов | https://habrahabr.ru/post/323302/
+
+Объяснение блокчейна для веб-разработчиков | https://habrahabr.ru/post/323128/
+
+SK Telecom начинает работу над квантовыми криптосистемами | https://habrahabr.ru/company/1cloud/blog/322824/
+
+EMC DPO: как защитить свои товары от подделок | https://habrahabr.ru/post/322696/
+
+Линус Торвальс высказался о коллизиях SHA-1 в репозиториях Git: бояться нечего | https://habrahabr.ru/post/322622/
+
+Первый способ генерации коллизий для SHA-1 | https://habrahabr.ru/post/322478/
+
+nodejs: SSO-авторизация через Kerberos | https://habrahabr.ru/post/321962/
+
+Что такое блокчейн и зачем он нужен | https://habrahabr.ru/company/bitfury/blog/321474/
+
+Тестирование смарт контрактов Ethereum на примере DAO | https://habrahabr.ru/post/321362/
+
+Криптография и защищённая связь: история первых шифров | https://habrahabr.ru/post/321338/
+
+РПЦ запустила первый православный мессенджер | https://habrahabr.ru/post/321136/
+
+CryptoAPI ядра Linux: разработка и применение российской криптографии | https://habrahabr.ru/post/320966/
+
+Вложенные логические выражения | https://habrahabr.ru/post/320682/
+
+Bitcoin in a nutshell — Blockchain | https://habrahabr.ru/post/320176/
+
+Bitcoin in a nutshell — Mining | https://habrahabr.ru/post/320178/
+
+Bitcoin in a nutshell — Transaction | https://habrahabr.ru/post/319860/
+
+Bitcoin in a nutshell — Protocol | https://habrahabr.ru/post/319862/
+
+Bitcoin in a nutshell — Cryptography | https://habrahabr.ru/post/319868/
+
+Google запускает Key Transparency, инструмент для подтверждения криптоключей | https://habrahabr.ru/post/319470/
+
+End-to-end шифрование файлов в Dropbox | https://habrahabr.ru/post/319004/
+
+Кодирование с изъятием информации. Часть 1-я, философская | https://habrahabr.ru/post/318848/
+
+Второе пришествие ГОСТ 28147-89: Честные тесты | https://habrahabr.ru/post/318768/
+
+Алгоритм для секретного назначения дарителей в Secret Santa | https://habrahabr.ru/post/318412/
+
+Я отказался от PGP | https://habrahabr.ru/post/317630/
+
+Экспорт ключа SignalCom в OpenSSL | https://habrahabr.ru/post/317406/
+
+[СПб, Анонс] Встреча CodeFreeze с Александром Чепурным про блокчейн для разработчиков | https://habrahabr.ru/company/jugru/blog/317142/
+
+Сказание о Клеопатре и о российской криптографии (Продолжение) | https://habrahabr.ru/post/316736/
+
+Токены PKCS#11: сертификаты и закрытые ключи | https://habrahabr.ru/post/316328/
+
+О квантовой криптографии. Протоколы E91 & Lo05 | https://habrahabr.ru/post/316252/
+
+7 самых неприятных проблем в программировании | https://habrahabr.ru/post/316150/
+
+Поддержка https совсем без настроек | https://habrahabr.ru/post/315678/
+
+Обзор децентрализованных крипто-платформ. Часть 2: Lisk | https://habrahabr.ru/company/web_payment_ru/blog/313294/
+
+Немного о квантовой криптографии | https://habrahabr.ru/post/315032/
+
+Реализация блочного шифра «Кузнечик» с режимом CFB на С++ | https://habrahabr.ru/post/313932/
+
+Досье на хакера: Борис Флорикик aka Tron, создатель первого Криптофона | https://habrahabr.ru/company/edison/blog/313400/
+
+Транспондер DST40: принцип работы, история появления и взлома, а также немного практики по брутфорсу | https://habrahabr.ru/post/275745/
+
+Специальные простые числа помогают пассивно прослушать протокол обмена ключами Диффи-Хеллмана | https://habrahabr.ru/post/312634/
+
+ГОСТ Р 34.12 '15 на SSE2, или Не так уж и плох Кузнечик | https://habrahabr.ru/post/312224/
+
+Генерируем псевдослучайные ID а-ля Youtube | https://habrahabr.ru/company/virgilsecurity/blog/311676/
+
+Квантовое хеширование. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/312072/
+
+Доказательство Большой теоремы Ферма для куба, как ключ | https://habrahabr.ru/post/311728/
+
+libsodium: Public-key authenticated encryption или как я расшифровал сообщение без закрытого ключа | https://habrahabr.ru/post/311726/
+
+Почему традиционная защита от кражи денежных средств в системах ДБО уязвима | https://habrahabr.ru/company/aladdinrd/blog/311596/
+
+«Боевая алгебра» или криптография «по ГОСТу» | https://habrahabr.ru/post/311456/
+
+Format preserving encryption или как правильно шифровать номера кредиток | https://habrahabr.ru/company/virgilsecurity/blog/311200/
+
+Опорный алгоритм в Excel по В. Ф. Шаталову | https://habrahabr.ru/post/311316/
+
+Блокчейн как «волшебная таблетка»? | https://habrahabr.ru/company/acronis/blog/309686/
+
+Спецслужбы и не только: как защитить свое приложение от бэкдоров | https://habrahabr.ru/company/pt/blog/311102/
+
+40% организаций хранит администраторские пароли в таблицах и текстовых файлах | https://habrahabr.ru/post/310922/
+
+Обзор децентрализованных крипто-платформ. Часть1: Waves | https://habrahabr.ru/company/web_payment_ru/blog/310082/
+
+Биткойн — деньги для всех | https://habrahabr.ru/post/308828/
+
+Reverse engineering тестового crackme от Лаборатории Касперского v2.0 | https://habrahabr.ru/post/308566/
+
+Reverse engineering тестового crackme от Лаборатории Касперского | https://habrahabr.ru/post/308548/
+
+Блокчейн и финтех-хакатон в Университете Иннополис | https://habrahabr.ru/company/innopolis_university/blog/308482/
+
+В библиотеке шифрования Libgcrypt обнаружена критическая уязвимость, существовавшая 18 лет | https://habrahabr.ru/company/pt/blog/308030/
+
+Золотой ключик — неустранимая возможность полного обхода Secure Boot на большинстве Windows-устройств | https://habrahabr.ru/post/307564/
+
+Доказательство 2 Случая БТФ | https://habrahabr.ru/post/307010/
+
+Есть ли жизнь после отказа популярных браузеров от поддержки архитектуры NPAPI | https://habrahabr.ru/company/aladdinrd/blog/306920/
+
+Контрабанда «Гамлета» при помощи кота | https://habrahabr.ru/post/306902/
+
+Графический пароль не дает смотрящему украсть себя | https://habrahabr.ru/post/306736/
+
+Информационное сокрытие в PDF документах | https://habrahabr.ru/post/301346/
+
+Извлечение ключа из токена с неизвлекаемым ключом | https://habrahabr.ru/post/306034/
+
+Принцип Доверия (Trust) в HTTPS | https://habrahabr.ru/post/305748/
+
+Пастильда — открытый аппаратный менеджер паролей | https://habrahabr.ru/post/305594/
+
+Дайджест последних достижений в области криптографии. Выпуск первый | https://habrahabr.ru/post/305572/
+
+5 явных признаков утечки информации в вашей организации | https://habrahabr.ru/company/aladdinrd/blog/305494/
+
+Полиномиальный алгоритм для комбинаторной задачи (P=NP?) | https://habrahabr.ru/post/304616/
+
+Получаем доменное имя, DNS и SSL сертификат нахаляву | https://habrahabr.ru/post/304600/
+
+Отправляем зашифрованные SMS сообщения с Virgil | https://habrahabr.ru/company/virgilsecurity/blog/304286/
+
+Мысль — материальна: Алан Тьюринг как «универсальный вычислитель» | https://habrahabr.ru/post/304244/
+
+Построение цепочки доверия в PKI, так ли все просто | https://habrahabr.ru/post/304220/
+
+Торговый автомат, принимающий криптовалюту DASH, возвращается | https://habrahabr.ru/post/304144/
+
+Равертывание Emercoin blockchain с веб-кошельком на RedHat/CentOS 7 и Ubuntu 16.04 | https://habrahabr.ru/post/304100/
+
+«Разрубить Гордиев узел» или преодоление проблем шифрования информации в ОС Windows | https://habrahabr.ru/company/aladdinrd/blog/304024/
+
+Теперь ваш HTTPS будет прослушиваться, а сертификат для MitM вы должны поставить сами | https://habrahabr.ru/post/303736/
+
+Как построить датчик случайных чисел с участием человека? | https://habrahabr.ru/company/securitycode/blog/303698/
+
+Это все потому, что у кого-то слишком маленькая экспонента: атака Хастада на RSA в задании NeoQUEST-2016 | https://habrahabr.ru/company/neobit/blog/303264/
+
+Социальная сеть для холодильников, микроволновок и тостеров | https://habrahabr.ru/company/itpark/blog/303274/
+
+Создаем безопасный IP мессенджер с помощью Virgil и Twilio за 30 минут | https://habrahabr.ru/company/virgilsecurity/blog/302608/
+
+Как перестать бояться и полюбить end-to-end шифрование | https://habrahabr.ru/company/virgilsecurity/blog/301772/
+
+Как понять нужно ли интегрировать blockchain в ваш продукт? | https://habrahabr.ru/company/web_payment_ru/blog/301972/
+
+I2P: Ускорение асимметричной криптографии с помощью таблиц | https://habrahabr.ru/post/301304/
+
+Дайджест последних достижений в области криптографии. Выпуск нулевой | https://habrahabr.ru/post/301180/
+
+ЭЦП стран СНГ на Python | https://habrahabr.ru/company/virgilsecurity/blog/301048/
+
+Детерминированный метод факторизации чисел, основанный на использовании mod 6 и mod 4 | https://habrahabr.ru/post/301094/
+
+Взаимодействие с ГИС ЖКХ с помощью stunnel и openssl по ГОСТу | https://habrahabr.ru/post/300856/
+
+End-to-end шифрование, теперь это просто | https://habrahabr.ru/company/virgilsecurity/blog/283458/
+
+С днем шифровальщикаǃ | https://habrahabr.ru/company/edison/blog/282854/
+
+01100100 лет со дня рождения Клода Шеннона | https://habrahabr.ru/company/edison/blog/282806/
+
+О выработке неперебираемых ключей на основе перебираемых паролей | https://habrahabr.ru/post/282043/
+
+Итератор генератора в промисе или интеграция КриптоПро browser plugin | https://habrahabr.ru/post/282257/
+
+Победитель Password Hashing Competition Argon2 или еще раз о медленном хэшировании | https://habrahabr.ru/post/281569/
+
+Стеганография в акроконструкциях. Алгоритм DANTSOVA | https://habrahabr.ru/post/280646/
+
+Сказ о том, как ГОСТ-шифрование диска в Android реализовывали | https://habrahabr.ru/company/securitycode/blog/280468/
+
+10 онлайн-инструментов для проверки SSL, TLS и последних уязвимостей | https://habrahabr.ru/company/hosting-cafe/blog/280442/
+
+RSA шифрование через библиотеку OpenSSL в Delphi | https://habrahabr.ru/post/280302/
+
+Аудит СКЗИ и криптоключей | https://habrahabr.ru/post/280131/
+
+15 бесплатных онлайн курсов по программированию | https://habrahabr.ru/company/studyqa/blog/280111/
+
+Многоликий ГОСТ Р 34.11-94 | https://habrahabr.ru/post/279895/
+
+woSign продолжение китайской халявы (хоть и не такой большой как раньше) | https://habrahabr.ru/post/279661/
+
+Просто еще один велосипед шифрования | https://habrahabr.ru/post/279371/
+
+Саморегулирование биткойна | https://habrahabr.ru/post/279087/
+
+RetroShare — инструмент для приватного общения и обмена данными | https://habrahabr.ru/post/279031/
+
+Центр сертификации Let's Encrypt выдал миллион бесплатных сертификатов | https://habrahabr.ru/post/278865/
+
+История про хитрожо… индуса, encrypted procedures, DAC и «режим Бога» | https://habrahabr.ru/post/278737/
+
+Сравнение SSL сертификатов с верификацией домена | https://habrahabr.ru/company/hosting-cafe/blog/278255/
+
+Использование библиотеки OpenSSL в проектах на C++ | https://habrahabr.ru/post/277935/
+
+Что несут свежие изменения в 63-ФЗ «об электронной подписи» | https://habrahabr.ru/post/277591/
+
+Есть идея: защита данных на Android с помощью eCryptfs | https://habrahabr.ru/company/intel/blog/277411/
+
+Dash открыл исходный код ПО вендингового аппарата с InstantX | https://habrahabr.ru/post/276969/
+
+Аппаратный менеджер паролей или как перестать вводить пароли и начать жить | https://habrahabr.ru/post/276967/
+
+Привязка дополнительных одноразовых паролей к окну входа Windows | https://habrahabr.ru/post/276865/
+
+Шифрование машины Purple | https://habrahabr.ru/company/ua-hosting/blog/275347/
+
+В OpenSSL ликвидирована опасная уязвимость, позволявшая злоумышленнику расшифровывать HTTPS трафик | https://habrahabr.ru/post/276213/
+
+Размещаем сайт в анонимной сети I2P (+ параноидальный режим) | https://habrahabr.ru/post/276131/
+
+Правительство Великобритании продвигает криптопротокол для VoIP с бэкдором | https://habrahabr.ru/post/275835/
+
+Шифровальная машина NEMA | https://habrahabr.ru/company/ua-hosting/blog/275529/
+
+Как пользоваться i2pd: исчерпывающая инструкция под MS Windows | https://habrahabr.ru/post/275647/
+
+Как в первый раз запустить i2pd: инструкция под Debian/Ubuntu | https://habrahabr.ru/post/275643/
+
+Почти совершенная компьютерная безопасность может быть ближе, чем вы думаете | https://habrahabr.ru/post/275247/
+
+Читаем контейнер закрытого ключа КриптоПро средствами OpenSSL | https://habrahabr.ru/post/275039/
+
+В клиенте OpenSSH обнаружена серьёзная уязвимость CVE-2016-0777 | https://habrahabr.ru/post/275137/
+
+Аппарат, принимающий DASH, покажут на Bitcoin конференции | https://habrahabr.ru/post/275133/
+
+Стандарты симметричного шифрования стран СНГ на Python | https://habrahabr.ru/post/273895/
+
+LetsEncrypt в Go | https://habrahabr.ru/post/274749/
+
+Работа с цифровыми подписями PGP с использованием Bouncy Castle Cryptography Library на Java | https://habrahabr.ru/post/274779/
+
+Security Week 01: Вымогатель на Javascript, $100k за баг в Adobe Flash, зашифрованное светлое будущее | https://habrahabr.ru/company/kaspersky/blog/274703/
+
+Интервью: Криптовалюта DASH — текущее и будущее | https://habrahabr.ru/post/274649/
+
+Рисуем эллиптические кривые с помощью SQL | https://habrahabr.ru/post/274473/
+
+От ИИ и наук о данных до криптографии: исследователи Microsoft дают 16 предсказаний на 2016 год | https://habrahabr.ru/company/microsoft/blog/274269/
+
+Проблемы при использовании Math.random() | https://habrahabr.ru/company/mailru/blog/274253/
+
+Финтех и Blockchain: подводим итоги уходящего года и делаем прогноз на следующий | https://habrahabr.ru/company/web_payment_ru/blog/273937/
+
+IBM работает над проектом создания open-source блокчейна для представителей бизнеса | https://habrahabr.ru/company/ibm/blog/273747/
+
+Случайности не случайны? | https://habrahabr.ru/company/securitycode/blog/273629/
+
+Укрощаем UEFI SecureBoot | https://habrahabr.ru/post/273497/
+
+Мифы о /dev/urandom | https://habrahabr.ru/company/mailru/blog/273147/
+
+Open-source реализации отечественных криптоГОСТов | https://habrahabr.ru/post/273055/
+
+Знакомьтесь: Хеш-стеганография. Очень медленная, но совершенно секретная | https://habrahabr.ru/post/272935/
+
+DASH «Эволюция» анонсирована как «Социальная платёжная сеть» | https://habrahabr.ru/post/272915/
+
+Случайность в PHP7 – Повезет ли мне? | https://habrahabr.ru/post/272509/
+
+Объявлено о начале приема работ на симпозиум CTCrypt'2016 | https://habrahabr.ru/post/272457/
+
+Let's Encrypt выходит в публичную бету: HTTPS всюду, каждому, отныне и навсегда бесплатно | https://habrahabr.ru/post/272253/
+
+Лёгкий блочный шифр Speck, или пылинка от агенства, которого нет | https://habrahabr.ru/post/271435/
+
+Sidechains: насколько многогранны криптовалюты? | https://habrahabr.ru/post/271669/
+
+Классический криптоанализ | https://habrahabr.ru/post/271257/
+
+Хагелин — гений научно-технической мысли | https://habrahabr.ru/company/ua-hosting/blog/271387/
+
+Защищенные социальные сети — миф или реальность? | https://habrahabr.ru/post/271215/
+
+Факторизация чисел | https://habrahabr.ru/post/270117/
+
+Факторизация чисел (вариант 2) | https://habrahabr.ru/post/270949/
+
+Забвение старых идей и попытки изобретения «старого колеса» | https://habrahabr.ru/company/ua-hosting/blog/270931/
+
+I2P: Подпись и проверка подписи EdDSA | https://habrahabr.ru/post/270753/
+
+Безопасное криптопрограммирование. Часть 2, заключительная | https://habrahabr.ru/post/269737/
+
+Хакер, криптограф или экстрасенс. Обыкновенное волшебство | https://habrahabr.ru/company/ua-hosting/blog/267163/
+
+WoSign Free SSL — конец большой китайской халявы | https://habrahabr.ru/post/270681/
+
+Криптовымогатели придумывают новые способы шантажа пользователей | https://habrahabr.ru/company/ua-hosting/blog/270525/
+
+Обработка приватных данных на публичных вычислительных сетях | https://habrahabr.ru/post/270443/
+
+Let's Encrypt: получение сертификата по шагам | https://habrahabr.ru/post/270273/
+
+Фиалка М-125 | https://habrahabr.ru/company/ua-hosting/blog/267705/
+
+Программа-криптовымогатель шифрует пользовательские файлы в «оффлайне» | https://habrahabr.ru/company/ua-hosting/blog/270307/
+
+Будущее Web очень напоминает Bitcoin | https://habrahabr.ru/post/269879/
+
+Security Week 44: законодатели и безопасность, криптография и разведка | https://habrahabr.ru/company/kaspersky/blog/269815/
+
+Криптоанализ «Энигмы» | https://habrahabr.ru/post/269519/
+
+I2P: Прозрачная реализация подписи EdDSA | https://habrahabr.ru/post/269579/
+
+Настройка MikroTik в качестве OVPN-сервера с использованием клиентских сертификатов и списка отзыва | https://habrahabr.ru/post/269679/
+
+Пошаговая работа ГОСТ Р 34.12-2015 в режиме ECB | https://habrahabr.ru/post/269601/
+
+Security Week 43: непростые простые числа, криптография в HDD, патчи Adobe и Oracle | https://habrahabr.ru/company/kaspersky/blog/269393/
+
+Let's Encrypt теперь доверенный | https://habrahabr.ru/post/269269/
+
+Шифрование с помощью Emoji | https://habrahabr.ru/post/269259/
+
+Схема Блома | https://habrahabr.ru/post/269229/
+
+1Password меняет формат файлов по умолчанию для повышения уровня безопасности | https://habrahabr.ru/company/ua-hosting/blog/269177/
+
+Коллизия для SHA-1 за 100$ тыс | https://habrahabr.ru/post/268495/
+
+Безопасное криптопрограммирование. Часть 1 | https://habrahabr.ru/post/268113/
+
+В криптософте TrueCrypt обнаружены критические уязвимости | https://habrahabr.ru/company/pt/blog/268087/
+
+Symantec самовольно выпустил сертификат для google.com и www.google.com | https://habrahabr.ru/post/267583/
+
+Алгоритм шифрования RC5 и его реализация на python | https://habrahabr.ru/post/267295/
+
+Пишем собственный платежный шлюз Bitcoin | https://habrahabr.ru/post/266779/
+
+Обзор альтернатив Proof of Work. Часть 2. Proof of Activity, Proof of Burn, Proof of Capacity и генералы | https://habrahabr.ru/post/266619/
+
+Пиринговая сеть base.network | https://habrahabr.ru/post/266315/
+
+В ГОСТе сидел «Кузнечик» | https://habrahabr.ru/post/266359/
+
+Метод широкополосного сигнала (библиотека классов) | https://habrahabr.ru/post/266087/
+
+Минимализм в криптографии, или схема Even–Mansour | https://habrahabr.ru/post/265607/
+
+NW.js (Node-Webkit) + Рутокен = RutokenJS (Начало) | https://habrahabr.ru/post/265575/
+
+Обзор альтернатив Proof of Work. Часть 1. Proof of Stake | https://habrahabr.ru/post/265561/
+
+В Telegram появились спамеры? | https://habrahabr.ru/post/265447/
+
+Мобильные телефоны для/против спецслужб | https://habrahabr.ru/company/neuronspace/blog/264235/
+
+Криптография на Python: шифрование информации и создание электронных цифровых подписей с помощью пакета PyCrypto | https://habrahabr.ru/post/265309/
+
+Разработчики криптовалют — кто они? [Интервью] | https://habrahabr.ru/post/264723/
+
+Глючинг, атаки по сторонним каналам и хакерские проекты на Кикстартере (продолжение) | https://habrahabr.ru/company/tceh/blog/264337/
+
+Хакерские проекты на Кикстартере | https://habrahabr.ru/company/tceh/blog/263845/
+
+Краткая история эволюции proof-of-work в криптовалютах. Часть 2 | https://habrahabr.ru/post/264067/
+
+Шпионские штучки в Wolfram Language, или как спрятать в картинке всё что угодно | https://habrahabr.ru/company/wolfram/blog/263783/
+
+Краткая история эволюции proof-of-work в криптовалютах. Часть 1 | https://habrahabr.ru/post/263769/
+
+Криптовалюта — как её создавать? | https://habrahabr.ru/post/263367/
+
+Семинар про криптографию и PGP Keysigning party | https://habrahabr.ru/post/263351/
+
+Немного практической криптографии под .NET для чайников | https://habrahabr.ru/post/254909/
+
+Делаем всё наоборот или портативный канал для безопасной передачи данных | https://habrahabr.ru/post/262469/
+
+Почему мы шифруем | https://habrahabr.ru/post/262103/
+
+Мой алгоритм шифрования | https://habrahabr.ru/post/262081/
+
+Самый простой способ начать зашифрованный чат | https://habrahabr.ru/company/otr_to/blog/261653/
+
+LastPass взломан, меняйте ваш мастер-пароль | https://habrahabr.ru/company/defconru/blog/260383/
+
+Атака «evil maid» на зашифрованный жесткий диск | https://habrahabr.ru/post/259781/
+
+Защищенный компьютер внутри Micro SD карты | https://habrahabr.ru/company/otr_to/blog/259331/
+
+Введение в KDF на примере решения криптографического ребуса | https://habrahabr.ru/post/259199/
+
+Выписываем цифровой сертификат и проверяем подпись с помощью BouncyCastle | https://habrahabr.ru/company/aktiv-company/blog/257407/
+
+Выбор ciphersuites для TLS и уязвимость Logjam. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/258673/
+
+Безопасность SSL/TLS российского интернет-банкинга | https://habrahabr.ru/post/258735/
+
+Что такое TLS | https://habrahabr.ru/post/258285/
+
+Майним Bitcoin с помощью бумаги и ручки | https://habrahabr.ru/post/258181/
+
+Отменено решение Невьянского суда о блокировке Bitcoin-сайтов | https://habrahabr.ru/post/258085/
+
+Руководство по шифрованию данных на PHP | https://habrahabr.ru/post/257439/
+
+EMCSSL – Система идентификации пользователей WWW на основе подсистемы NVS криптовалюты EmerCoin и децентрализованных клиентских SSL-сертификатов | https://habrahabr.ru/post/257605/
+
+Структура PKCS7-файла | https://habrahabr.ru/post/256367/
+
+Реализуем ещё более безопасный VPN-протокол | https://habrahabr.ru/company/ivi/blog/257431/
+
+Бесплатные SSL-сертификаты — теперь на 3 года от WoSign | https://habrahabr.ru/post/257207/
+
+Может ли софтверное уничтожение данных быть лучше мощного магнита? | https://habrahabr.ru/post/256613/
+
+Двухэтапная аутентификация в браузере с помощью USB-токена U2F | https://habrahabr.ru/post/256579/
+
+Реализуем безопасный VPN-протокол | https://habrahabr.ru/company/ivi/blog/256365/
+
+Обфускация программ | https://habrahabr.ru/post/255871/
+
+Шифрование ГОСТ 28147-89 на х86- и GPU-процессорах | https://habrahabr.ru/company/securitycode/blog/255863/
+
+RSA шифрование в PHP (openssl), Android/Java, JavaScript и Go | https://habrahabr.ru/post/255799/
+
+Использование Java смарт-карт для защиты ПО. Глава 5. Безопасность | https://habrahabr.ru/post/255537/
+
+Использование Java смарт-карт для защиты ПО. Глава 4. Пишем первый апплет | https://habrahabr.ru/post/255535/
+
+Использование Java смарт-карт для защиты ПО. Глава 3. Установка и настройка IDE | https://habrahabr.ru/post/255533/
+
+Использование Java смарт-карт для защиты ПО. Глава 2. Java смарт-карта с точки зрения разработчика апплетов | https://habrahabr.ru/post/255531/
+
+Использование Java смарт-карт для защиты ПО. Глава 1. Общие сведения | https://habrahabr.ru/post/255529/
+
+Непростые простые числа: секреты тайного общества ткачей | https://habrahabr.ru/post/255527/
+
+Гомоморфное шифрование | https://habrahabr.ru/post/255205/
+
+Государственный мандат на убийство вселенной и противодействие этому (доклад на Bitcoin Conference Russia 2015) | https://habrahabr.ru/post/254905/
+
+Как Уитфилд Диффи помог Бобу и Алисе обмануть Еву | https://habrahabr.ru/company/pt/blog/254751/
+
+Добиваемся OCSP stapling = Yes для сертификатов от WoSign на Nginx | https://habrahabr.ru/post/254231/
+
+Запрет bitcoin в РФ этой осенью? | https://habrahabr.ru/post/254227/
+
+Дешифрация TLS трафика Java приложений с помощью логов | https://habrahabr.ru/post/254205/
+
+Обзор практической стороны Bitcoin | https://habrahabr.ru/post/253845/
+
+Анонимные платежи: Dash или Bitcoin+Миксеры? | https://habrahabr.ru/post/253623/
+
+Стеганография в XXI веке. Цели. Практическое применение. Актуальность | https://habrahabr.ru/post/253045/
+
+Атака Telegram за 2^64 операций, и почему суперзлодею она не нужна | https://habrahabr.ru/post/252911/
+
+Бесплатные SSL-сертификаты на 2 года от WoSign | https://habrahabr.ru/post/252529/
+
+Переломный момент. Банк Англии делает свой bitcoin | https://habrahabr.ru/post/251917/
+
+Конструируем локальный криптографический TLS-прокси c HTTP API электронной подписи | https://habrahabr.ru/company/aktiv-company/blog/247911/
+
+Обновление сервисов, запущенных на Go | https://habrahabr.ru/post/251031/
+
+Небезопасное хранение паролей в IBM WebSphere | https://habrahabr.ru/post/250671/
+
+Взлом TLS с денежным призом | https://habrahabr.ru/post/250339/
+
+Нам запретят даже говорить о криптовалютах? | https://habrahabr.ru/post/250337/
+
+Удивительное устройство USB-флешки Kingston DataTraveler DT6000 и восстановление информации, утраченной в результате сбоя | https://habrahabr.ru/company/hardmaster/blog/250327/
+
+Библиотека для встраивания электронной подписи в приложения С++ | https://habrahabr.ru/company/aktiv-company/blog/249723/
+
+Почему вам надо обновить свои SSL сертификаты | https://habrahabr.ru/post/250109/
+
+Новый инвариант натурального числа. Теорема и доказательство | https://habrahabr.ru/post/249427/
+
+Простое решение для использования ЭЦП — развитие | https://habrahabr.ru/post/249695/
+
+Двухфакторная аутентификация, которой удобно пользоваться | https://habrahabr.ru/company/yandex/blog/249547/
+
+Бесплатные SSL-сертификаты на 2 года с поддержкой до 100 доменов | https://habrahabr.ru/post/249529/
+
+Blowfish на страже ivi | https://habrahabr.ru/company/ivi/blog/249359/
+
+Bitcoin и ранее созданные системы анонимных электронных денег | https://habrahabr.ru/post/248851/
+
+Встраиваем бэкдор в Bitcoin (ECDSA) или еще раз о клептографии | https://habrahabr.ru/post/248419/
+
+Факторизация и шифрование на эллиптической кривой | https://habrahabr.ru/post/247179/
+
+Встраиваем бэкдор в публичный ключ RSA | https://habrahabr.ru/post/248269/
+
+Бесплатный https сертификат + интеграция в Apache–TomCat | https://habrahabr.ru/post/248285/
+
+Curve25519, EdDSA и Poly1305: Три обделенных вниманием криптопримитива | https://habrahabr.ru/post/247873/
+
+«Идеальное» бросание монеты: The NIST Randomness Beacon | https://habrahabr.ru/post/247309/
+
+Функции для решения квадратичных сравнений. Реализация в MATLAB | https://habrahabr.ru/post/247683/
+
+Heartbleed и его друзья в 2015 году: как рекламная сеть ставит под угрозу посетителей сайтов | https://habrahabr.ru/post/247621/
+
+Padding Oracle Attack или почему криптография пугает | https://habrahabr.ru/post/247527/
+
+Встраивание электронной подписи в системы с WEB-интерфейсом с помощью браузерного плагина и openssl | https://habrahabr.ru/company/aktiv-company/blog/246861/
+
+Простое решение для использования ЭЦП | https://habrahabr.ru/post/246467/
+
+Криптографические решения. От облачной подписи к доверенной среде | https://habrahabr.ru/company/aktiv-company/blog/242603/
+
+Пошаговая инструкция: залог для сделок в bitcoin | https://habrahabr.ru/post/245791/
+
+Квантмех для защиты пластиковых карт | https://habrahabr.ru/post/245925/
+
+Авторизация узла Пандоры | https://habrahabr.ru/post/245483/
+
+Сеть доверия | https://habrahabr.ru/post/245111/
+
+Безопасен ли Telegram? v2 | https://habrahabr.ru/post/244735/
+
+DD-WRT и сертификаты SSL | https://habrahabr.ru/post/244105/
+
+SSL-сертификаты: всем, каждому, и пусть никто не уйдёт обиженным | https://habrahabr.ru/post/244037/
+
+Защита .net приложения от посторонних глаз | https://habrahabr.ru/post/244031/
+
+Компактная реализация RSA для встраиваемых применений | https://habrahabr.ru/post/243425/
+
+Почему Spritz стал столь популярным за последние несколько недель | https://habrahabr.ru/post/243023/
+
+Статистическая проверка случайности двоичных последовательностей методами NIST | https://habrahabr.ru/company/securitycode/blog/237695/
+
+Электронная подпись. История появления и развития | https://habrahabr.ru/post/242675/
+
+Криптографические решения. От криптопровайдеров до браузерных плагинов | https://habrahabr.ru/company/aktiv-company/blog/241221/
+
+ФБР против шифрования на смартфонах | https://habrahabr.ru/post/240865/
+
+Бесплатный Cryptic Disk 4 с поддержкой TrueCrypt | https://habrahabr.ru/post/240803/
+
+OpenSSL закрыл четыре опасные уязвимости | https://habrahabr.ru/post/240765/
+
+Закон Шнайера | https://habrahabr.ru/post/239287/
+
+Почему я купил ещё один биткоин | https://habrahabr.ru/post/239179/
+
+Две специальные модели разбиения чисел | https://habrahabr.ru/post/239009/
+
+Bitcoin. Неразрешимая проблема децентрализации | https://habrahabr.ru/post/238397/
+
+Вероятностный закон распределения длительности сеанса ИСЗ с наземным объектом | https://habrahabr.ru/post/238159/
+
+Современные спам фильтры и End-to-End шифрование | https://habrahabr.ru/post/237745/
+
+Обзор децентрализованных технологий. Часть 1 | https://habrahabr.ru/post/237765/
+
+Швейцарские физики превратили Nokia N9 в квантовый генератор случайных чисел | https://habrahabr.ru/company/microsoftlumia/blog/237545/
+
+Apple перестала хранить криптоключи пользователей на своём сервере | https://habrahabr.ru/post/237251/
+
+Вероятностный закон распределения длительности сеанса искусственного спутника Земли с наземным объектом | https://habrahabr.ru/post/236901/
+
+Как мы (почти) победили DirCrypt | https://habrahabr.ru/post/235487/
+
+Синхронизатор для обмена шифрованными файлами между программой CyberSafe и облачными ресурсами | https://habrahabr.ru/company/cybersafe/blog/234919/
+
+Факторизация числа, проблемы ее теории и позиция автора | https://habrahabr.ru/post/226395/
+
+Случайные числа и детерминистичная симуляция | https://habrahabr.ru/company/intel/blog/233125/
+
+Факторизация и классы чисел натурального ряда | https://habrahabr.ru/post/234277/
+
+Ввоз средств шифрования в Россию: разоблачая мифы | https://habrahabr.ru/company/cisco/blog/234491/
+
+Линейный криптоанализ для чайников | https://habrahabr.ru/post/233905/
+
+Почему Биткоин – это хорошо | https://habrahabr.ru/post/233907/
+
+Приглашаю на большой CTF-турнир по информационной безопасности | https://habrahabr.ru/company/croc/blog/232999/
+
+Лингвистическая загадка. Переводим с «мертвого» языка. [§2] Разбор полётов | https://habrahabr.ru/post/232471/
+
+Бесплатная расшифровка файлов CryptoLocker | https://habrahabr.ru/post/232545/
+
+Закон распределения делителей натурального числа в НРЧ | https://habrahabr.ru/post/229601/
+
+Ruby и криптоалгоритмы ГОСТ | https://habrahabr.ru/company/at_consulting/blog/231261/
+
+МВД РФ объявило конкурс, целью которого является «взлом» TOR | https://habrahabr.ru/post/230923/
+
+Реализация метода Куттера-Джордана-Боссена в MATLAB | https://habrahabr.ru/post/230747/
+
+Области применения гомоморфного шифрования | https://habrahabr.ru/post/230645/
+
+Некоторые математические проблемы информационной безопасности | https://habrahabr.ru/post/229717/
+
+Инновационный метод производства энтропии | https://habrahabr.ru/post/229473/
+
+NIC India выдал цифровые сертификаты на домены Google | https://habrahabr.ru/post/229185/
+
+День рождения Ади Шамира. Визуальная, геометрическая и нейрокриптография | https://habrahabr.ru/post/228833/
+
+Спираль Улама, области запрета простых чисел | https://habrahabr.ru/post/228435/
+
+7 вещей, которые необходимо знать о Tor | https://habrahabr.ru/post/228507/
+
+Лингвистическая загадка. Переводим с «мертвого» языка | https://habrahabr.ru/post/227611/
+
+ProtonMail или что же это на самом деле? | https://habrahabr.ru/post/227575/
+
+Продолжение дилетанта | https://habrahabr.ru/post/227447/
+
+Алан Тьюринг, Винт Серф и Джосс Уидон | https://habrahabr.ru/post/227035/
+
+Манускрипт Войнича. Маньчжурский кандидат | https://habrahabr.ru/post/186952/
+
+Реализация схемы разделения секретной визуальной информации в MATLAB | https://habrahabr.ru/post/226859/
+
+Аккредитация на ЭТП — для тех, кому надо | https://habrahabr.ru/company/istbudget/blog/226613/
+
+Blackphone, защищенный от прослушивания смартфон, поступит в продажу в июле | https://habrahabr.ru/post/226479/
+
+ИнфоТеКС Академия запускает конкурс «Прозрачная безопасность» | https://habrahabr.ru/company/infotecs/blog/225817/
+
+OpenSSL: новая уязвимость: возможность выполнить MITM атаку (CVE-2014-0224) | https://habrahabr.ru/post/225381/
+
+Новый инвариант числа. Исследование натурального ряда чисел (НРЧ) | https://habrahabr.ru/post/225175/
+
+Systemicus чаcть 3: OMFS3 и Liberte | https://habrahabr.ru/post/225145/
+
+5 июня 2014 года — всемирный день против интернет-слежки | https://habrahabr.ru/post/225083/
+
+Бутлоадер с AES-128 и EAX на AVR Assembler в 1024 байта | https://habrahabr.ru/post/224383/
+
+Дожили: блок для майнинга Bitcoin продается в обычном интернет-супермарткете | https://habrahabr.ru/post/224629/
+
+Когда AES(☢) = ☠ — криптобинарный фокус | https://habrahabr.ru/post/224205/
+
+Команда разработчиков из ЦЕРН запустила защищённый анонимный почтовый сервис ProtonMail | https://habrahabr.ru/post/223809/
+
+Сноуден поддерживал крупнейший выходной узел Tor на 2 Гбита/с | https://habrahabr.ru/post/223707/
+
+NSA ищет новых сотрудников, сообщив об этом зашифрованным твитом | https://habrahabr.ru/post/221973/
+
+Взлом шифра Виженера с помощью частотного криптоанализа | https://habrahabr.ru/post/221485/
+
+Может ли Apple читать ваши iMessage? | https://habrahabr.ru/post/221489/
+
+Использование шифрования в компаниях России | https://habrahabr.ru/company/cybersafe/blog/220023/
+
+Кто первым создаст удобную криптопрограмму — получит премию от EFF | https://habrahabr.ru/post/220655/
+
+Доклад о криптовалюте Биткойн на I Форекс Конгрессе | https://habrahabr.ru/post/220473/
+
+ГОСТ 34.11-2012 Стрибог на flat assembler (x86) | https://habrahabr.ru/post/219859/
+
+С конкурсного сервера CloudFlare был успешно украден SSL-ключ | https://habrahabr.ru/post/219109/
+
+В АНБ знали о уязвимости Heartbleed два года назад | https://habrahabr.ru/post/219105/
+
+История хакерских взломов информационных систем (1903-1971) | https://habrahabr.ru/post/219091/
+
+Время менять пароли | https://habrahabr.ru/company/yandex/blog/218951/
+
+Почему после обнаружения Heartbleed мы не предлагаем пользователям Почты Mail.Ru менять пароли | https://habrahabr.ru/company/mailru/blog/218913/
+
+Справочник по уязвимости OpenSSL Heartbleed | https://habrahabr.ru/post/218713/
+
+Диагностика ошибки Heartbleed в OpenSSL. (Окончательный диагноз ещё не поставлен, хотя лечение уже идёт вовсю) | https://habrahabr.ru/post/218691/
+
+Последствия OpenSSL HeartBleed | https://habrahabr.ru/post/218661/
+
+Критическая уязвимость в OpenSSL 1.0.1 и 1.0.2-beta | https://habrahabr.ru/post/218609/
+
+Уязвимость в MACROSCOP (устранена с версии 1.9.72) | https://habrahabr.ru/post/218467/
+
+Симметрия чисел | https://habrahabr.ru/post/218053/
+
+Загадочная игра от IBM | https://habrahabr.ru/post/217959/
+
+Загадочное объявление от IBM | https://habrahabr.ru/post/217671/
+
+Как я пытался взломать Bitcoin | https://habrahabr.ru/post/217663/
+
+Алгоритм Энигмы | https://habrahabr.ru/post/217331/
+
+Атаки по времени — сказка или реальная угроза? | https://habrahabr.ru/post/217327/
+
+IRS: Bitcoin не валюта, а имущество, будьте добры, уплатите налоги | https://habrahabr.ru/post/217097/
+
+Щит и меч в системах ДБО – 2, или как бороться с MITM-атаками и несанкционированным удаленным доступом | https://habrahabr.ru/company/aktiv-company/blog/216087/
+
+Дифференциальный криптоанализ для чайников | https://habrahabr.ru/post/215527/
+
+Bitcoin: Децентрализованная электронная денежная система | https://habrahabr.ru/post/215557/
+
+Уязвимости криптоконтейнеров при удаленной атаке | https://habrahabr.ru/company/cybersafe/blog/214141/
+
+Хэл Финни: Биткоин и я | https://habrahabr.ru/post/215091/
+
+Satoshi Nakamoto — «I am not Dorian Nakamoto» | https://habrahabr.ru/post/214961/
+
+Найден создатель Bitcoin | https://habrahabr.ru/post/214923/
+
+В ИнфоТеКС Академии стартует конкурс «Профессиональный аналитик» | https://habrahabr.ru/company/infotecs/blog/214885/
+
+История однострочных багов | https://habrahabr.ru/post/214557/
+
+Гарантированная отложенная доставка сообщения | https://habrahabr.ru/post/214403/
+
+Мы начинаем серию постов, посвященных работам победителей ИнфоТеКС Академии 2011-2012 по направлению «Научное исследование» | https://habrahabr.ru/company/infotecs/blog/214237/
+
+Адам Лэнгли объяснил причины бага в iOS: лишняя строчка кода поломала всю безопасность | https://habrahabr.ru/post/213525/
+
+Как заработать на майнинге с обычным домашним компьютером | https://habrahabr.ru/post/213365/
+
+ИнфоТеКС Академия открыла прием заявок на конкурс «Быстрый криптограф» | https://habrahabr.ru/company/infotecs/blog/212319/
+
+AES-128. Детали и реализация на python | https://habrahabr.ru/post/212235/
+
+Cicada 3301: Охота продолжается в 2014 | https://habrahabr.ru/post/211428/
+
+Utopia заменит Silk Road? | https://habrahabr.ru/post/211278/
+
+Cicada 3301: секретное сообщество хакеров или просто игра? | https://habrahabr.ru/post/211182/
+
+Прозрачное шифрование сетевых папок в корпоративном пространстве | https://habrahabr.ru/company/cybersafe/blog/211012/
+
+Криптоанализ хэш-функции ГОСТ Р 34.11-2012 | https://habrahabr.ru/post/210684/
+
+Прозрачное шифрование файлов на локальном компьютере при помощи CyberSafe Files Encryption | https://habrahabr.ru/company/cybersafe/blog/210458/
+
+Twister: Стала доступна Windows версия | https://habrahabr.ru/post/210442/
+
+Есть продвижения в расшифровке Манускрипта Войнича | https://habrahabr.ru/post/210136/
+
+Неподтвержденная транзакция, или Возвращаем криптовалюту из небытия | https://habrahabr.ru/post/209778/
+
+Зашифрованное взаимодействие между клиентом и сервером на Laravel 4 | https://habrahabr.ru/post/209612/
+
+Blackphone: первый смартфон, защищённый от прослушивания | https://habrahabr.ru/post/209204/
+
+Спецификации DRM в стандарте HTML держатся в секрете | https://habrahabr.ru/post/209016/
+
+Twister: Децентрализованный, P2P аналог Twitter'a | https://habrahabr.ru/post/208472/
+
+Отключаем шифрование RC4 в Firefox | https://habrahabr.ru/post/208096/
+
+АНБ работает над созданием квантового компьютера для взлома любого типа шифрования (но пока далеко от успеха) | https://habrahabr.ru/post/208086/
+
+Тривиальное шифрование во вредоносных файлах | https://habrahabr.ru/company/kaspersky/blog/207654/
+
+Использование MS CRYPTO API в Caché | https://habrahabr.ru/company/intersystems/blog/205952/
+
+Ws-security в SoapUI Pro | https://habrahabr.ru/post/207480/
+
+Остались ли ещё закладки в Telegram? | https://habrahabr.ru/post/207038/
+
+Концепция идеального мессенджера | https://habrahabr.ru/post/207006/
+
+Генерация акустического поля компьютером | https://habrahabr.ru/post/206974/
+
+Безопасен ли Telegram? Или как я искал закладку в MTProto | https://habrahabr.ru/post/206900/
+
+RSA Security получила $10 млн. от АНБ за использование заведомо дырявого генератора псевдослучайных чисел | https://habrahabr.ru/post/200266/
+
+Мой ответ конкурсу Павла Дурова (запоздалая пятница) | https://habrahabr.ru/post/204556/
+
+Технические подробности о защищённом P2P-чате BitTorrent | https://habrahabr.ru/post/206770/
+
+Ловушка конкурсов по взлому | https://habrahabr.ru/post/206738/
+
+Ответный вызов разработчикам Telegram | https://habrahabr.ru/post/206724/
+
+Погружная система охлаждения сервера или фермы на базе Novec как альтернатива воздушному охлаждению | https://habrahabr.ru/company/3mrussia/blog/206658/
+
+Лучшая реклама Bitcoin — от Павла Дурова | https://habrahabr.ru/post/206586/
+
+Извлечение 4096-битных ключей RSA с помощью микрофона | https://habrahabr.ru/post/206572/
+
+История одного бэкдора | https://habrahabr.ru/post/206536/
+
+$200 000 любому, кто взломает IM-мессенджер Telegram | https://habrahabr.ru/post/206476/
+
+Биткойн — это деньги? | https://habrahabr.ru/post/206056/
+
+Майнинг и как он работает: матчасть | https://habrahabr.ru/post/204008/
+
+Разработчики FreeBSD ограничат использование аппаратных генераторов случайных чисел из-за подозрений на наличие бэкдоров | https://habrahabr.ru/post/205548/
+
+Действующие криптовалюты помимо биткоина | https://habrahabr.ru/post/204568/
+
+Яндекс теперь поддерживает шифрование исходящей и входящей почты | https://habrahabr.ru/company/yandex/blog/203882/
+
+Визит на ферму ASICMINER-a | https://habrahabr.ru/post/203998/
+
+Курс Bitcoin превысил 1000$ за 1 BTC | https://habrahabr.ru/post/203904/
+
+Bitcoin. Стоит ли доверять? | https://habrahabr.ru/post/203518/
+
+Легендарный криптограф Диффи попытался остановить патентного тролля | https://habrahabr.ru/post/203576/
+
+Bitcoin — объяснение экспоненциального роста | https://habrahabr.ru/post/203530/
+
+Личностная криптография: рассказ об одной полезной уязвимости | https://habrahabr.ru/post/202368/
+
+DES на J в сотню строк | https://habrahabr.ru/post/202822/
+
+Слушания в Сенате США по Bitcoin: отчеты Министерства Юстиции и Комиссии по ценным бумагам | https://habrahabr.ru/post/202570/
+
+Двойные стандарты в шифровании учетных записей | https://habrahabr.ru/post/202538/
+
+Bitcoin взял рубеж в $500 за 1 BTC | https://habrahabr.ru/post/202424/
+
+Анонимный чат TorChat и его улучшение | https://habrahabr.ru/post/201696/
+
+Никогда не повторяйте этого дома: модификация алгоритма шифрования HC-128 | https://habrahabr.ru/post/202210/
+
+Неявные предикаты | https://habrahabr.ru/post/202162/
+
+Как была закейгенена Armadillo, взломана PSP и скомпрометированы все DSA ключи в Debian. Или еще раз о слабых ГПСЧ и (EC)DSA | https://habrahabr.ru/post/199356/
+
+HTTP 2.0 будет только по HTTPS | https://habrahabr.ru/post/201990/
+
+Сообщество собрало больше 60 000 долларов на открытый независимый аудит TrueCrypt | https://habrahabr.ru/post/201408/
+
+Безопасность ваших юзеров: OAuth, SSL, P2P-чат с RSA, гейт в i2p | https://habrahabr.ru/post/201398/
+
+Открылась регистрация участников программы «ИнфоТеКС Академия» 2013-2014 | https://habrahabr.ru/company/infotecs/blog/201266/
+
+Стоимость Bitcoin превысила исторический рекорд 266$/BTC | https://habrahabr.ru/post/201126/
+
+Вышла программа для шифрования 3D-моделей | https://habrahabr.ru/post/200864/
+
+Как АНБ внедрило закладку в генератор псевдослучайных чисел | https://habrahabr.ru/post/200858/
+
+RSA Security заявила о наличии АНБ-бэкдора в своих продуктах | https://habrahabr.ru/post/200686/
+
+Канадский стартап Coinkite Cryptobank из Торонто представляет сервис оффлайн платежей для криптовалют | https://habrahabr.ru/post/170887/
+
+КриптоПати! — party hard! | https://habrahabr.ru/post/199238/
+
+ФБР изъяло 144 тысячи биткоинов, принадлежавших Россу Ульбрихту | https://habrahabr.ru/post/199176/
+
+PoolCoin — новая криптовалюта | https://habrahabr.ru/post/199068/
+
+Пользователи системы Bitcoin, возможно, обнаружили личный кошелек Росса Ульбрихта | https://habrahabr.ru/post/198152/
+
+Fortuna: генератор случайных чисел для параноиков | https://habrahabr.ru/post/197908/
+
+Ослабленный SSL в android устройствах? | https://habrahabr.ru/post/197692/
+
+13-летний подросток решил криптографическую головоломку британской штаб-квартиры правительственной связи | https://habrahabr.ru/post/197658/
+
+Программный комплекс ViPNet Client for Android сертифицирован ФСБ России | https://habrahabr.ru/company/infotecs/blog/197608/
+
+В поисках криптостойкого ГПСЧ | https://habrahabr.ru/post/196442/
+
+ФБР не знает, что делать с изъятыми Bitcoins ресурса Silk Road, доступа к кошельку Росса Ульбрихта у ФБР пока нет | https://habrahabr.ru/post/196528/
+
+Как устроен VPN через SSTP | https://habrahabr.ru/post/196134/
+
+Разбираем x.509 сертификат | https://habrahabr.ru/post/194664/
+
+Криптография побочных эффектов | https://habrahabr.ru/company/securitycode/blog/194760/
+
+Рождение магии от духа протокола торрент (cхема организации свободной бесцензурной неразрушимой информационной сети) | https://habrahabr.ru/post/193886/
+
+Стеганография в .NET приложениях или водяные знаки | https://habrahabr.ru/post/193666/
+
+Этика (или неэтичность) массированного наблюдения правительства | https://habrahabr.ru/post/193584/
+
+Google внедряет end-to-end шифрование между дата-центрами | https://habrahabr.ru/post/193028/
+
+Кошелек Mailpile в Paypal был заморожен в течение суток | https://habrahabr.ru/post/192914/
+
+Как не нужно освобождать интернет | https://habrahabr.ru/post/192896/
+
+Как конкретно освободить интернет | https://habrahabr.ru/post/192872/
+
+Правительство США предало интернет. Нам надо вернуть его в свои руки | https://habrahabr.ru/post/192852/
+
+Сноуден пролил свет на ситуацию со взломом криптографии. Все плохо | https://habrahabr.ru/post/192722/
+
+Горшочек, вари | https://habrahabr.ru/post/192636/
+
+Своё Certificate Authority — в 5 OpenSSL команд | https://habrahabr.ru/post/192446/
+
+Майним Bitcoin на Raspberry Pi и BFL 5GH/s майнере | https://habrahabr.ru/post/192332/
+
+Криптопереписка для недоверчивых | https://habrahabr.ru/post/192184/
+
+О простых числах, криптографии и повреждениях мозга | https://habrahabr.ru/post/192038/
+
+Рисуем электронные деньги | https://habrahabr.ru/post/191996/
+
+Представители Bitcoin Foundation провели встречу с государственными структурами США | https://habrahabr.ru/post/192006/
+
+Первые несколько миллисекунд HTTPS соединения | https://habrahabr.ru/post/191954/
+
+Форматы электронной подписи | https://habrahabr.ru/company/aktiv-company/blog/191866/
+
+Mailpile собрал $120K на разработку open source криптопочты | https://habrahabr.ru/post/191644/
+
+Эллиптическая криптография: практика | https://habrahabr.ru/post/191240/
+
+Загадка A858 | https://habrahabr.ru/post/190602/
+
+Интервью с владельцем Silk Road | https://habrahabr.ru/post/190220/
+
+Безопасность электронной почты: шифрование писем | https://habrahabr.ru/post/190130/
+
+Представление чисел суммой двух квадратов и эллиптические кривые | https://habrahabr.ru/post/189618/
+
+Эллиптическая криптография: теория | https://habrahabr.ru/post/188958/
+
+Почтовый сервис Lavabit вынужден закрыться | https://habrahabr.ru/post/189510/
+
+Взаимодействие php-soap на linux с авторизацией по сертификатам с использованием алгоритмов ГОСТ | https://habrahabr.ru/post/189352/
+
+Bitmessage 0.3.5: Что нового? | https://habrahabr.ru/post/189126/
+
+Эксперты призывают готовиться к криптоапокалипсису | https://habrahabr.ru/post/188846/
+
+MEGA выпустили собственный SDK | https://habrahabr.ru/post/188808/
+
+Хеш-функция Стрибог или в городе новый шериф | https://habrahabr.ru/post/188152/
+
+Программист Google выиграл награду АНБ, а потом сказал, что эту организацию нужно упразднить | https://habrahabr.ru/post/188072/
+
+DarkJPEG: cтеганография для всех | https://habrahabr.ru/post/187402/
+
+Безопасность GSM сетей: шифрование данных | https://habrahabr.ru/post/186838/
+
+BitTorrent Sync выходит в бету | https://habrahabr.ru/post/186934/
+
+Почему я не лезу в криптографию | https://habrahabr.ru/post/186416/
+
+Биткоин майнинг как вид спорта | https://habrahabr.ru/post/185984/
+
+Описание протокола BitMessage | https://habrahabr.ru/post/186000/
+
+Bitcoin: Заказ и получение Little Jalapeno от Butterfly Labs | https://habrahabr.ru/post/185392/
+
+Аутентификация по-новому, или суперкуки | https://habrahabr.ru/company/aktiv-company/blog/185248/
+
+Получены фотографии кристалла специализированного Bitcoin-процессора Bitfury | https://habrahabr.ru/company/zeptobars/blog/184506/
+
+Незаконченная история одного e-mail'а | https://habrahabr.ru/post/184306/
+
+На Эдварда Сноудена завели уголовное дело за шпионаж | https://habrahabr.ru/post/184246/
+
+Hyperboria: Маршрутизация | https://habrahabr.ru/post/183606/
+
+Об одной ошибке | https://habrahabr.ru/post/181954/
+
+PRISM: Apple прокомментировала информацию о взаимодействии со спец службами | https://habrahabr.ru/post/183614/
+
+Получены фотографии кристалла специализированного Bitcoin-процессора Avalon | https://habrahabr.ru/company/zeptobars/blog/182912/
+
+Hyperboria: Интернет 2.0 | https://habrahabr.ru/post/181862/
+
+Настраиваем OpenVPN на Linux Server'e с авто-подключением iOS устройств за 5 минут | https://habrahabr.ru/post/181512/
+
+Вы опасно некомпетентны в криптографии | https://habrahabr.ru/post/181372/
+
+Будущее анонимности: Какое оно? | https://habrahabr.ru/post/180949/
+
+Humble Bundle теперь можно оплатить Bitcoin | https://habrahabr.ru/post/180107/
+
+США заморозили счета Bitcoin Mt.Gox | https://habrahabr.ru/post/179997/
+
+Суперзащищенные флешки и жесткие диски | https://habrahabr.ru/post/179627/
+
+Библиотека для гомоморфного шифрования HELib | https://habrahabr.ru/company/ibm/blog/179613/
+
+В Лос-Аламосе более двух лет работает квантовая сеть | https://habrahabr.ru/post/178975/
+
+Некриптографические хеш-функции и DoS атака на них | https://habrahabr.ru/post/178955/
+
+Честный жребий | https://habrahabr.ru/post/178951/
+
+Bitcoin-сцену ожидают крупные потрясения | https://habrahabr.ru/post/178655/
+
+P2P-сервис синхронизации файлов BitTorrent Sync запущен для всех | https://habrahabr.ru/post/177733/
+
+Взламываем шифры с Python | https://habrahabr.ru/post/177525/
+
+Курс Bitcoin стремительно падал последние несколько часов | https://habrahabr.ru/post/176263/
+
+«Человеческая» энтропия для генератора случайных чисел | https://habrahabr.ru/post/175881/
+
+Bitcoin покоряет телеэкраны | https://habrahabr.ru/post/175539/
+
+Electrum: Легкий Bitcoin клиент | https://habrahabr.ru/post/175291/
+
+Bitcoin: теперь по 100$ штука (не 1-е апреля), и Avalon | https://habrahabr.ru/post/174991/
+
+Bitmessage — программа для P2P-обмена зашифрованными сообщениям | https://habrahabr.ru/post/174353/
+
+Динамический графический пароль | https://habrahabr.ru/post/173607/
+
+Биржа вычислительных ресурсов | https://habrahabr.ru/post/173297/
+
+О сегодняшней ошибке в системе Bitcoin | https://habrahabr.ru/post/172385/
+
+Проблемы в сети Bitcoin — возникновение двух конкурирующих цепочек блоков | https://habrahabr.ru/post/172383/
+
+Конференция RSA 2013 | https://habrahabr.ru/post/171241/
+
+Банкомат для анонимного обмена долларов на биткоины | https://habrahabr.ru/post/170697/
+
+Вышел Bitcoin 0.8.0 (Важные изменения) | https://habrahabr.ru/post/170303/
+
+О комиссии в Bitcoin | https://habrahabr.ru/post/169207/
+
+Mega запустит почту, чат, голос, видео и мобильный сервис | https://habrahabr.ru/post/169727/
+
+Проработанная идея алгоритма двусмысленного шифрования | https://habrahabr.ru/post/169689/
+
+Битрикс + Bitcoin. Часть 2. Выбор процессинга | https://habrahabr.ru/post/169233/
+
+Почему Keccak настолько крут и почему его выбрали в качестве нового SHA-3 | https://habrahabr.ru/post/168707/
+
+Mega: обзор (не)безопасности | https://habrahabr.ru/post/168025/
+
+Китай организует Man-in-the-middle атаку против пользователей github | https://habrahabr.ru/post/167727/
+
+Сообщение голубя было расшифровано? | https://habrahabr.ru/post/162929/
+
+Алгоритм анонимной коллективной подписи | https://habrahabr.ru/post/162009/
+
+У Bitcoin появился официальный банк | https://habrahabr.ru/post/161855/
+
+Переносим неэкспортируемые контейнеры Крипто-ПРО | https://habrahabr.ru/post/161361/
+
+За кулисами Android: что-то, чего вы можете не знать | https://habrahabr.ru/post/160035/
+
+Bitcoin: Уполовинивание награды за майнинг — в четверг утром | https://habrahabr.ru/post/160029/
+
+Криптографы Великобритании так и не расшифровали код, переданный с голубем | https://habrahabr.ru/post/160013/
+
+Новые подробности о шифре Copiale 18 века | https://habrahabr.ru/post/159717/
+
+Keccak, новый стандарт хеширования данных | https://habrahabr.ru/post/159073/
+
+CryptoParty в Москве! Я хочу рассказать о: | https://habrahabr.ru/post/158867/
+
+Найдены останки голубя с криптограммой Второй мировой войны | https://habrahabr.ru/post/158741/
+
+VPN? Суперпросто! Я гарантирую это | https://habrahabr.ru/post/158435/
+
+Честные выборы. Слово криптографам | https://habrahabr.ru/post/156825/
+
+Bitcoin получил официальное признание | https://habrahabr.ru/post/157031/
+
+Как работают одноразовые пароли | https://habrahabr.ru/post/154229/
+
+NIST принял решение: SHA-3 будет использовать алгоритм Keccak | https://habrahabr.ru/post/153349/
+
+SHA-3 скоро появится на свет | https://habrahabr.ru/post/152136/
+
+Stripe CTF — разбор уязвимости алгоритма SHA-1 | https://habrahabr.ru/post/151682/
+
+Использование плагина eToken-ЕПГУ для формирования ЭЦП | https://habrahabr.ru/post/151652/
+
+Алгоритм Диффи — Хеллмана | https://habrahabr.ru/post/151599/
+
+Опыт получения токена закрытого ключа для Единого Портала Госуслуг | https://habrahabr.ru/post/151462/
+
+В скриншотах игры WoW обнаружены цифровые водяные знаки (userID, time, realm) | https://habrahabr.ru/post/151297/
+
+Bitcoin, криминальные хроники: Bitfloor PWND! | https://habrahabr.ru/post/151034/
+
+Гомоморфное шифрование своими руками | https://habrahabr.ru/post/150067/
+
+IM+ Paranoia Mode On | https://habrahabr.ru/post/149591/
+
+Ежемесячный оборот SilkRoad достигает $2 миллионов | https://habrahabr.ru/post/149251/
+
+У биржевых хакеров снова наступила «ломка»… | https://habrahabr.ru/post/148808/
+
+DPAPI на пальцах | https://habrahabr.ru/post/148602/
+
+Разработана система хранения паролей в подсознании | https://habrahabr.ru/post/148122/
+
+Биткойн, пятница, тринадцать… | https://habrahabr.ru/post/148024/
+
+Загадочный случай в нью-йоркском метро | https://habrahabr.ru/post/147634/
+
+Как лучше хранить хэши паролей | https://habrahabr.ru/post/147446/
+
+Криптоквест | https://habrahabr.ru/post/147355/
+
+Хранение паролей без их сохранения | https://habrahabr.ru/post/126025/
+
+Биткойн и основы фьючерсной тоговли | https://habrahabr.ru/post/147258/
+
+Парсер цепочки блоков Bitcoin (с исходниками) | https://habrahabr.ru/post/146388/
+
+Алгоритм шифрования Anubis на PHP | https://habrahabr.ru/post/145621/
+
+Автор md5crypt просит больше не пользоваться его скремблером | https://habrahabr.ru/post/145454/
+
+Получение бесплатных ключей ЭЦП в Украине | https://habrahabr.ru/post/145417/
+
+Статья Ади Шамира ID-Based | https://habrahabr.ru/post/145356/
+
+Электронная подпись: трансграничное взаимодействие | https://habrahabr.ru/post/144401/
+
+Шифруем сообщения до заданного времени | https://habrahabr.ru/post/143814/
+
+Энигма — шифрование сообщений в войну | https://habrahabr.ru/post/143526/
+
+Несложный WEB-quest для студентов не ИТ-специальностей | https://habrahabr.ru/post/142528/
+
+Шифровальная машина «Энигма» в Excel | https://habrahabr.ru/post/142118/
+
+Создания сеансового ключа с использованием публичных и приватных ключей | https://habrahabr.ru/post/141946/
+
+Защищаем трафик при помощи Comodo TrustConnect и DNSCrypt | https://habrahabr.ru/post/141825/
+
+Бесплатный VPN от Comodo | https://habrahabr.ru/post/141483/
+
+Шифр Виженера. Разбор алгоритма на Python | https://habrahabr.ru/post/140820/
+
+Электронная подпись простыми словами | https://habrahabr.ru/post/139196/
+
+Торгуем титульными знаками Bitcoin | https://habrahabr.ru/post/140623/
+
+Почему сеть Фейстеля работает? Объяснение «на пальцах» | https://habrahabr.ru/post/140404/
+
+На пути к Skein: просто и понятно про Blowfish | https://habrahabr.ru/post/140394/
+
+Шустрый 128-битный LFSR (MMX required) | https://habrahabr.ru/post/140095/
+
+USB запоминатель/генератор паролей спасет от головной боли | https://habrahabr.ru/post/139548/
+
+Крипто-шифр «пасьянс» | https://habrahabr.ru/post/138986/
+
+Письмо Джона Нэша в АНБ от 1955 года | https://habrahabr.ru/post/138500/
+
+Коллизии в 512-битных блоках MD5 | https://habrahabr.ru/post/137316/
+
+Слепая подпись на основе ГОСТ 34.10-2001 | https://habrahabr.ru/post/136022/
+
+Курсы Стенфордского университета | https://habrahabr.ru/post/135960/
+
+Пишем ГОСТ криптопровайдер | https://habrahabr.ru/post/134037/
+
+Криптографическая защита DNS-трафика | https://habrahabr.ru/post/134274/
+
+Быстрый генератор случайных чисел из вакуумного «шума» | https://habrahabr.ru/post/133728/
+
+Google улучшает защиту SSL-сессий | https://habrahabr.ru/post/133268/
+
+OpenPGP-модуль для Gmail | https://habrahabr.ru/post/133207/
+
+Шифр Copiale Cipher XVIII в. расшифрован с помощью статистического машинного перевода | https://habrahabr.ru/post/131285/
+
+GnuPG на смарт-картах. Как это выглядит… | https://habrahabr.ru/post/130754/
+
+Поиск создателя Bitcoin | https://habrahabr.ru/post/130248/
+
+Цветовой шифр для записи информации в генах | https://habrahabr.ru/post/129458/
+
+Как работает новый генератор случайных чисел Intel | https://habrahabr.ru/post/128666/
+
+Иран блокировал Tor, но ненадолго | https://habrahabr.ru/post/128644/
+
+Сокрытое в листве | https://habrahabr.ru/post/128433/
+
+Стеганография в GIF | https://habrahabr.ru/post/128327/
+
+NTRUEncrypt криптосистема будущего? | https://habrahabr.ru/post/127878/
+
+5 причин почему стоит перейти с BTC на SolidCoin | https://habrahabr.ru/post/127479/
+
+Квантовая криптография стучится в дверь | https://habrahabr.ru/post/127461/
+
+В Пакистане запретили использование протоколов шифрования связи | https://habrahabr.ru/post/127448/
+
+Исследователям из Microsoft Research удалось на несколько порядков ускорить вычисления в гомоморфной криптографической системе | https://habrahabr.ru/post/126067/
+
+Визуальная криптография для цветных изображений | https://habrahabr.ru/post/121878/
+
+Жизненный цикл криптографических хэш-алгоритмов | https://habrahabr.ru/post/120697/
+
+Lamport hash chain – страховка от кражи базы паролей клиентов | https://habrahabr.ru/post/120657/
+
+Взлом ключей за деньги — оценка на основании сети биткоин | https://habrahabr.ru/post/120257/
+
+Не такой уж ты и страшный, XTS-AES | https://habrahabr.ru/post/120096/
+
+Namecoin: защищённая DNS на базе P2P-вычислений | https://habrahabr.ru/post/120015/
+
+Генерация Bitcoin в браузере: Обратная сторона | https://habrahabr.ru/post/119749/
+
+LW-криптография: шифры для RFID-систем | https://habrahabr.ru/post/119700/
+
+Техническая сторона Bitcoin | https://habrahabr.ru/post/119527/
+
+Bitcoin, генерируем монеты в общем пуле | https://habrahabr.ru/post/119456/
+
+NTRUEncrypt: самый быстрый асимметричный шифр | https://habrahabr.ru/post/118458/
+
+Ведущий разработчик Bitcoin приглашён в ЦРУ для презентации | https://habrahabr.ru/post/118305/
+
+Стеганография через фрагментацию файлов | https://habrahabr.ru/post/118162/
+
+Опубликован закрытый ключ AirPort Express | https://habrahabr.ru/post/117212/
+
+Элементарная криптография | https://habrahabr.ru/post/116716/
+
+ФБР просит помощи в расшифровке сообщения 1999 года | https://habrahabr.ru/post/116481/
+
+Bitcoin. Как это работает | https://habrahabr.ru/post/114642/
+
+Онлайновая валюта BitCoin достигла паритета с долларом | https://habrahabr.ru/post/113569/
+
+Криптографическая головоломка: импорт ключа WebMoney в Crypto Service Provider | https://habrahabr.ru/post/111928/
+
+Простая реализация RC4 на C# | https://habrahabr.ru/post/111510/
+
+Анонимный канал, как средство улучшения существующего протокола электронного голосования | https://habrahabr.ru/post/111526/
+
+В OpenBSD пока не найдено бэкдоров ФБР | https://habrahabr.ru/post/110620/
+
+Оглашены финалисты конкурса хэш-алгоритмов SHA-3 | https://habrahabr.ru/post/109946/
+
+Как Intel обошла ограничения на импорт криптосредств в РФ | https://habrahabr.ru/post/109460/
+
+«Вторая жизнь 40-битного ключа шифрования» | https://habrahabr.ru/post/109403/
+
+Дмитрий Скляров взломал цифровую подпись в камерах Canon | https://habrahabr.ru/post/109396/
+
+Открытая библиотека украинского стандарта ЭЦП (приглашаются разработчики) | https://habrahabr.ru/post/107060/
+
+Пара слов о гибридном шифровании и эллиптических кривых | https://habrahabr.ru/post/106057/
+
+Шифр на гербе генерал-губернатора Канады | https://habrahabr.ru/post/105501/
+
+Станция УВБ-76 подала четвёртый сигнал за 30 лет | https://habrahabr.ru/post/102614/
+
+Протокол MQV — старый добрый Диффи-Хеллман, но не совсем | https://habrahabr.ru/post/100950/
+
+Криптостойкость 1000-кратного хеширования пароля | https://habrahabr.ru/post/100301/
+
+Замедление хеширования паролей. Зачем? | https://habrahabr.ru/post/100138/
+
+RSA, а так ли все просто? | https://habrahabr.ru/post/99376/
+
+Bitcoin (฿): пиринговая криптовалюта | https://habrahabr.ru/post/99100/
+
+Логотип американского киберотряда расшифрован | https://habrahabr.ru/post/98703/
+
+ФБР не смогло взломать зашифрованный диск (сдались через год брутфорса) | https://habrahabr.ru/post/97646/
+
+Генерируем цепочку сертификатов с эллиптическими кривыми при помощи OpenSSL | https://habrahabr.ru/post/96190/
+
+Испытание временем для цифровых файлов | https://habrahabr.ru/post/93972/
+
+Релиз OpenSSL 1.0.0 с поддержкой ГОСТ | https://habrahabr.ru/post/89394/
+
+This is the Zodiac speaking | https://habrahabr.ru/post/89057/
+
+Гомоморфное шифрование/ (Fully) Homomorphic Encryption | https://habrahabr.ru/post/86266/
+
+Новый алгоритм ГСЧ на замену /dev/random | https://habrahabr.ru/post/85310/
+
+Письма Биля | https://habrahabr.ru/post/66079/
+
+Миссия невыполнима | https://habrahabr.ru/post/62299/
+
+Мобильное шифрование | https://habrahabr.ru/post/47110/
+
+Шифрование для пользователей. Часть вторая. Gpg4win. | https://habrahabr.ru/post/37256/
+
+Шифрование для пользователей. Часть первая. | https://habrahabr.ru/post/28110/
+
+Анализ зашифрованного VoIP-трафика по размеру пакетов | https://habrahabr.ru/post/27688/
+
+Выбор ПО для шифрования диска в Windows 2003/2008 | https://habrahabr.ru/post/23978/
+
+Через 10 месяцев родилась новая версия TrueCrypt 5.0 | https://habrahabr.ru/post/19869/
+
+Программы PGP стали дружелюбнее | https://habrahabr.ru/post/18830/
+
+«Web 4.0, или в четвертой мировой войне будут воевать дубинками» | https://habrahabr.ru/post/18452/
+
+Dreamlab: «Мы знаем, что вы напечатали прошлым летом» | https://habrahabr.ru/post/17107/
+
+Для луча света нет сложных кодов | https://habrahabr.ru/post/13468/
+
+«Самоуничтожающаяся» флэшка IronKey | https://habrahabr.ru/post/12602/
+
+В Linux появилась возможность шифровать сообщения Gmail | https://habrahabr.ru/post/9514/
+
+Квантовые ключи удалось передать на 200 км | https://habrahabr.ru/post/9414/
+
+1024-битный шифр RSA взломают через пять лет | https://habrahabr.ru/post/8826/
+
+Платформа PGP теперь под Vista и Mac OS X | https://habrahabr.ru/post/6221/
+
+А читали ли вы роман «Ким» Редьярда Киплинга? | https://habrahabr.ru/post/1046/
+

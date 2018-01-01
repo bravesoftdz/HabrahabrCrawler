@@ -1,0 +1,192 @@
+PushFeed — мониторинг RSS и VK лент | https://habrahabr.ru/company/pushall/blog/345930/
+
+Чем опасны социальные сети на рабочем ПК? | https://habrahabr.ru/company/cloud4y/blog/345342/
+
+Эволюция вредоносных расширений: от любительских поделок до стеганографии. Опыт команды Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/341382/
+
+Идеи виджетов для удобства интернет-сёрфинга | https://habrahabr.ru/post/341432/
+
+Немного о SSL-сертификатах: Какой выбрать и как получить | https://habrahabr.ru/company/1cloud/blog/334278/
+
+А был ли взлом «Госуслуг»? Гипотеза Яндекса | https://habrahabr.ru/company/yandex/blog/333404/
+
+Rich Notifications, utm-метки, webhook и другие нововведения PushAll | https://habrahabr.ru/company/pushall/blog/330922/
+
+Экосистема: больше участников — больше прибыль! Зачем Skyeng открывает API | https://habrahabr.ru/company/skyeng/blog/330456/
+
+Словарное расширение для браузера: больше, чем онлайн-переводчик | https://habrahabr.ru/company/skyeng/blog/326802/
+
+K-Meleon 76 Pro — новая русская сборка браузера для олдфагов и истинных ценителей | https://habrahabr.ru/company/kmeleon_rus/blog/326618/
+
+Инструмент для удобного редактирования кода прямо в браузере | https://habrahabr.ru/post/324470/
+
+Скриншаринг на сайте по WebRTC из браузера Mozilla Firefox | https://habrahabr.ru/post/323892/
+
+Cкринкастинг на сайте по WebRTC из браузера Chrome | https://habrahabr.ru/post/323486/
+
+Текстовый поиск по видео на YouTube | https://habrahabr.ru/post/321022/
+
+Возрождение IT-вопросника или как следить за вопросами toster и stackoverflow v2 | https://habrahabr.ru/company/pushall/blog/320758/
+
+Безопасность сайта по его заголовкам, или что делать, если хочется залезть во внутренности каждого сайта | https://habrahabr.ru/post/319932/
+
+Способ борьбы со зверствующими анти-адблокерами, блокировщиками самих себя | https://habrahabr.ru/post/319118/
+
+Front-end и блокировщики рекламы (на примере Adblock Plus) | https://habrahabr.ru/post/316676/
+
+Обход CSP при помощи расширений Google Chrome | https://habrahabr.ru/post/315608/
+
+Теперь ONLYOFFICE может всё: добавляем плагины в редакторы документов | https://habrahabr.ru/company/teamlab/blog/314716/
+
+Горячая перезагрузка Chrome-расширения | https://habrahabr.ru/post/314766/
+
+Pornhub обходит блокировщики рекламы с помощью вебсокетов | https://habrahabr.ru/post/314354/
+
+Антикейлоггер «для параноика» в Safari | https://habrahabr.ru/post/312646/
+
+readRss — local rss reader as browser extension | https://habrahabr.ru/post/312564/
+
+От проектирования до разработки: 10 инструментов, без которых я не могу обойтись | https://habrahabr.ru/post/311012/
+
+Первый мобильный браузер с поддержкой расширений для Chromium. Новая альфа Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/309014/
+
+Random User-Agent — версия вторая | https://habrahabr.ru/post/307574/
+
+API для управления плеерами на сайтах | https://habrahabr.ru/post/306072/
+
+Уязвимость в FindFace позволяющая получить id пользователя без оплаты | https://habrahabr.ru/post/302994/
+
+Как парсить интернет по-гусиному | https://habrahabr.ru/post/271425/
+
+Почему мы ненавидим уведомления на сайтах? | https://habrahabr.ru/company/pushall/blog/281012/
+
+Яндекс убивает бизнес, или будьте осторожны с блоком #main | https://habrahabr.ru/post/279257/
+
+SEO-tools — расширение для Opera (инструменты вебмастеру и оптимизатору) | https://habrahabr.ru/post/276105/
+
+Расширенный поиск Яндекса (и Гугла) с помощью установленного скрипта или в интерфейсе | https://habrahabr.ru/post/275479/
+
+Chrome дополнение PushAll возвращает возможности центра оповещений и дополняет его | https://habrahabr.ru/company/pushall/blog/275181/
+
+Почему для push-уведомлений важна агрегация устройств и каналов? Мы убрали ограничения на рассылки | https://habrahabr.ru/company/pushall/blog/273763/
+
+Браузерное расширение от Яндекса | https://habrahabr.ru/post/273027/
+
+Project Naptha — выделяй, копируй и переводи тексты с любых картинок | https://habrahabr.ru/post/270875/
+
+AdBlockBlock — обходим блокировщики рекламы. Метод 1 | https://habrahabr.ru/post/267911/
+
+Локализация расширений Google Chrome — необходимо и просто | https://habrahabr.ru/post/267501/
+
+DoubleDomain и свобода | https://habrahabr.ru/post/267329/
+
+Новый русский K-Meleon 75 для настоящих Pro | https://habrahabr.ru/company/kmeleon_rus/blog/266827/
+
+Опасный мир вредоносных расширений и защита от них. Опыт Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/266061/
+
+Смайлики для API Вконтакте | https://habrahabr.ru/post/263455/
+
+K-Meleon 75: дошли до финала | https://habrahabr.ru/company/kmeleon_rus/blog/261113/
+
+Подключение любого сайта к PushAll через RSS. Конвертер новостных лент в Push-уведомления | https://habrahabr.ru/company/pushall/blog/259953/
+
+Свой шаблон отклика-письма на HeadHunter (и moikrug) без Copy-Paste | https://habrahabr.ru/post/259881/
+
+VPN-расширение Hola продает пользовательский трафик и содержит уязвимости удаленного выполнения кода | https://habrahabr.ru/post/259177/
+
+Расширение для Chrome позволяет следить за друзьями через Facebook Messenger | https://habrahabr.ru/company/otr_to/blog/259013/
+
+Классические заметки для новой Opera | https://habrahabr.ru/post/257665/
+
+Обзор расширения Kinogo от разработчика | https://habrahabr.ru/post/257647/
+
+PushAll — платформа для рассылки мгновенных уведомлений | https://habrahabr.ru/company/pushall/blog/257585/
+
+Браузерное расширение от сайта Kinogo | https://habrahabr.ru/post/257361/
+
+В отделах Google Adsense слегка c adidas совместно оборзели? | https://habrahabr.ru/post/256255/
+
+Кросс-публикатор статей — каким он должен быть? | https://habrahabr.ru/post/255953/
+
+Обзор вредоносного браузерного расширения | https://habrahabr.ru/post/255801/
+
+Как перестать беспокоиться и начать жить без Flash | https://habrahabr.ru/post/255253/
+
+Расширение Информер Вконтакте для браузеров Opera, Chrome и прочих | https://habrahabr.ru/post/255241/
+
+K-Meleon 75: текущее состояние, баги, ссылки и т.п | https://habrahabr.ru/company/kmeleon_rus/blog/254443/
+
+Альтернативная система управления жестами мыши для расширений Chrome и Firefox | https://habrahabr.ru/post/254197/
+
+Кому может быть нужен K-Meleon? | https://habrahabr.ru/company/kmeleon_rus/blog/253671/
+
+10 относительно малоизвестных фактов о K-Meleon | https://habrahabr.ru/company/kmeleon_rus/blog/253631/
+
+Как я защищался от фишинга, и написал велосипед, но свой собственный | https://habrahabr.ru/post/253617/
+
+Xpom-Xpum! SDK — IDE для расширений и приложений Google Chrome | https://habrahabr.ru/post/252737/
+
+Боковая панель для расширений и другие новинки Opera Developer 29 | https://habrahabr.ru/company/opera/blog/252355/
+
+Картина мира завершена: HabraDarkAge стал поддерживать TMfeed.ru | https://habrahabr.ru/post/250601/
+
+Расширение для нормального выделения текста внутри ссылки в браузерах | https://habrahabr.ru/post/249091/
+
+Универсальный обмен сообщениями между страницами в расширениях | https://habrahabr.ru/post/246351/
+
+Распределенные вычисления для поиска жилья | https://habrahabr.ru/post/240941/
+
+Очередное ненужное расширение для Google Chrome? | https://habrahabr.ru/post/241199/
+
+Поиск жилья без посредников в 21-м веке | https://habrahabr.ru/post/237869/
+
+Редактор CSS Shapes для Chrome | https://habrahabr.ru/post/235499/
+
+Пишем Chrome расширение на CoffeeScript — подсчет баллов на Coursera | https://habrahabr.ru/post/233651/
+
+Много анонимности не бывает — скрываем User-Agent | https://habrahabr.ru/post/231107/
+
+Search Preview — расширение для Chrome | https://habrahabr.ru/post/229909/
+
+Как я писал бота для аукциона AliExpress | https://habrahabr.ru/post/228209/
+
+Разработка кросс-браузерных расширений | https://habrahabr.ru/company/likeastore/blog/227881/
+
+Аудио-ботанам: Скробблинг (Last.fm) проигрываемой в SoundCloud музыки из расширения Google Chrome | https://habrahabr.ru/post/227709/
+
+Как запускать расширения Хрома не из магазина WebStore | https://habrahabr.ru/post/226063/
+
+Google Chrome отказывает пользователям Windows в возможности установки расширений не из Chrome Web Store | https://habrahabr.ru/post/224423/
+
+Octotree: отображение кода на Github в виде дерева | https://habrahabr.ru/post/223527/
+
+Расширение к Google Chrome способное улучшить качество поиска | https://habrahabr.ru/company/likeastore/blog/222515/
+
+Какой сервис для создания браузерных расширений выбрать? | https://habrahabr.ru/post/221951/
+
+Интеграция Transmission в Chromium | https://habrahabr.ru/post/221673/
+
+HTTP Switchboard — NoScript на стероидах | https://habrahabr.ru/post/220765/
+
+Расширение к браузеру для извлечения текста из изображений | https://habrahabr.ru/post/220471/
+
+Новый хаб «Chrome Extensions» (с октября 2014 — «Расширения для браузеров») | https://habrahabr.ru/post/217641/
+
+Модифицируем Chrome Logger — пост как стимул к изучению расширений Google Chrome и написанию своих | https://habrahabr.ru/post/178733/
+
+Нельзя просто так взять и обратиться к фоновой странице | https://habrahabr.ru/post/174745/
+
+Расширения Google Chrome: cookies и HTTP-запросы | https://habrahabr.ru/post/171959/
+
+Расширения Google Chrome: делаем горячие клавиши | https://habrahabr.ru/post/171565/
+
+Особенности разработки расширений Google Chrome | https://habrahabr.ru/post/171491/
+
+«Пользовательские скрипты могут быть добавлены только из Интернет-магазина Chrome»? Нет, не только | https://habrahabr.ru/post/150693/
+
+Chrome history API — Epic Fail | https://habrahabr.ru/post/128307/
+
+Rutracker.Org Addons: расширение Firefox для Rutracker.Org | https://habrahabr.ru/post/94240/
+
+А вы готовы перейти на Google Chrome? — 30 незаменимых расширений для Хрома | https://habrahabr.ru/post/81076/
+

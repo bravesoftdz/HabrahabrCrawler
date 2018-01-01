@@ -1,0 +1,892 @@
+Russian AI Cup 2017 — история второго места | https://habrahabr.ru/post/345858/
+
+Моя стратегия на Russian AI Cup 2017 | https://habrahabr.ru/post/345566/
+
+Russian AI Cup 2017 — История 11 места | https://habrahabr.ru/post/345598/
+
+История победы на ежегодном соревновании Russian AI Cup 2017 | https://habrahabr.ru/post/345458/
+
+30-часовой хакатон Яндекс.Погоды, или как предсказать осадки по сигналам от пользователей | https://habrahabr.ru/company/yandex/blog/344366/
+
+Первый HighLoad Cup: как мы это пережили | https://habrahabr.ru/company/mailru/blog/343032/
+
+Russian AI Cup: инструментарий участника | https://habrahabr.ru/post/343006/
+
+Russian AI Cup 2017 — отчет о бета-тесте, старт чемпионата. Хотели StarCraft, получили странный Total War | https://habrahabr.ru/company/mailru/blog/342408/
+
+Яндекс.Блиц. 12 алгоритмических задач отборочного раунда и их разборы | https://habrahabr.ru/company/yandex/blog/340784/
+
+Russian AI Cup 2017 — всем поклонникам StarCraft и C&C посвящается | https://habrahabr.ru/company/mailru/blog/340540/
+
+Играем в APK-гольф. Уменьшение размера файлов Android APK на 99,9% | https://habrahabr.ru/post/339938/
+
+Кто вы – талантливый стратег или эффективный тактик? Проверьте на хакатоне Budget Sprint 2.0 | https://habrahabr.ru/company/infoculture/blog/339862/
+
+Команда Университета ИТМО вышла в финал Всемирной олимпиады роботов | https://habrahabr.ru/company/spbifmo/blog/339140/
+
+Технокубок 2017-2018 | https://habrahabr.ru/company/mailru/blog/337646/
+
+По следам highloadcup: php vs node.js vs go, swoole vs workerman, splfixedarray vs array и многое другое | https://habrahabr.ru/post/337298/
+
+Конкурс по программированию: JSDash (итоги) | https://habrahabr.ru/company/hola/blog/336988/
+
+Прототип проекта стоимостью $86 миллионов в 57 строках кода | https://habrahabr.ru/company/badoo/blog/336766/
+
+Конкурс по программированию: JSDash (предварительные результаты) | https://habrahabr.ru/company/hola/blog/336448/
+
+«Магическая константа» 0x5f3759df | https://habrahabr.ru/company/infopulse/blog/336110/
+
+Построение рекомендаций для сайта вакансий. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/335526/
+
+Новый чемпионат для backend-разработчиков: HighLoad Cup | https://habrahabr.ru/company/mailru/blog/335384/
+
+Конкурс по программированию: JSDash (промежуточные результаты 3) | https://habrahabr.ru/company/hola/blog/335376/
+
+Лекция Владимира Игловикова на тренировке Яндекса по машинному обучению | https://habrahabr.ru/company/yandex/blog/335002/
+
+ICFP Contest 2017 — проверка на прочность для настоящих разработчиков | https://habrahabr.ru/company/skbkontur/blog/334324/
+
+Разбор задач финала Яндекс.Алгоритма 2017 | https://habrahabr.ru/company/yandex/blog/334250/
+
+Конкурс по программированию: JSDash (промежуточные результаты 2) | https://habrahabr.ru/company/hola/blog/334186/
+
+Рекомендация первого трека для стриминга. Лекция в Яндексе | https://habrahabr.ru/company/yandex/blog/333440/
+
+Конкурс по программированию: JSDash (промежуточные результаты) | https://habrahabr.ru/company/hola/blog/333390/
+
+Чемпионы мира — о спортивном программировании | https://habrahabr.ru/company/dataart/blog/333354/
+
+Код высших достижений | https://habrahabr.ru/company/vkontakte/blog/333024/
+
+Конкурс по программированию: JSDash | https://habrahabr.ru/company/hola/blog/332176/
+
+Не было бы счастья, да спортивное программирование помогло | https://habrahabr.ru/post/332030/
+
+Челленджи марафонского раунда Яндекс.Алгоритма 2017 | https://habrahabr.ru/company/yandex/blog/331482/
+
+Хроники Противостояния: как взломать весь город за два дня | https://habrahabr.ru/company/pt/blog/329984/
+
+ACM ICPC 2017: итоги финала | https://habrahabr.ru/company/spbifmo/blog/329888/
+
+Russian Code Cup — по следам отборочного раунда | https://habrahabr.ru/company/mailru/blog/329476/
+
+Финал чемпионата мира по спортивному программированию ACM ICPC: прямая трансляция | https://habrahabr.ru/company/spbifmo/blog/329322/
+
+Итоги третьего раунда Russian Code Cup 2017 | https://habrahabr.ru/company/mailru/blog/327592/
+
+Спортивный анализ данных, или как стать специалистом по data science | https://habrahabr.ru/company/yandex/blog/327444/
+
+Итоги второго раунда Russian Code Cup 2017 | https://habrahabr.ru/company/mailru/blog/327066/
+
+Machine Learning Boot Camp IV. Четвертый. Секретный. Твой | https://habrahabr.ru/company/mailru/blog/326860/
+
+Ломать нельзя помиловать, или что ждет хакеров на PHDays VII | https://habrahabr.ru/company/pt/blog/326866/
+
+Итоги первого раунда Russian Code Cup 2017 | https://habrahabr.ru/company/mailru/blog/326332/
+
+Moscow Workshops ACM ICPC: как Физтех создал кэмп международного уровня | https://habrahabr.ru/company/mipt/blog/326438/
+
+Это очень просто | https://habrahabr.ru/post/326110/
+
+Дайджест AI Cup. Пять стратегий Code Wizards 2016 | https://habrahabr.ru/company/mailru/blog/325050/
+
+Гороскоп для разработчиков | https://habrahabr.ru/post/325394/
+
+Технокубок: итоги финального раунда и разбор задач | https://habrahabr.ru/company/mailru/blog/325052/
+
+Варим ML Boot Camp III: Starter Kit | https://habrahabr.ru/post/324924/
+
+История 3-го места на ML Boot Camp III | https://habrahabr.ru/post/324590/
+
+RCC 2017. Разбор задач самого горячего разогревочного раунда | https://habrahabr.ru/company/mailru/blog/324500/
+
+Russian Code Cup снова бросает вызов программистам | https://habrahabr.ru/company/mailru/blog/324006/
+
+День открытых данных в Москве | https://habrahabr.ru/company/infoculture/blog/322100/
+
+Про хаскелль для самых маленьких на примере задачи с codefights | https://habrahabr.ru/post/319440/
+
+Международная студенческая школа Recent Advances in Algorithms: Санкт-Петербург, 22–26 мая 2017 | https://habrahabr.ru/company/spbau/blog/319812/
+
+Конкурс GraphHPC-2017 на самую быструю реализацию задачи Betweenness Centrality | https://habrahabr.ru/post/319646/
+
+Как искать путь к победе на Russian AI Cup 2016, но не в том направлении | https://habrahabr.ru/post/318946/
+
+История участия (и почти победы) в ежегодном соревновании Russian AI Cup 2016 | https://habrahabr.ru/post/318878/
+
+Почему этой зимой мы снова приглашаем всех поиграть в компьютерные игры при помощи искусственного интеллекта | https://habrahabr.ru/company/mipt/blog/318758/
+
+Как стать первым в спортивном программировании: Университет ИТМО делится опытом. Часть 2 | https://habrahabr.ru/company/spbifmo/blog/318576/
+
+Kaggle: Allstate Claims Severity | https://habrahabr.ru/post/318518/
+
+Об одной комбинаторной задаче | https://habrahabr.ru/post/318458/
+
+Как стать первым в спортивном программировании: Университет ИТМО делится опытом. Часть 1 | https://habrahabr.ru/company/spbifmo/blog/318444/
+
+Russian AI Cup. Промежуточные итоги чемпионата | https://habrahabr.ru/company/mailru/blog/317268/
+
+Алгоритм Форчуна на C++ для построения диаграммы Вороного на плоскости | https://habrahabr.ru/post/315658/
+
+Приглашаем на Russian AI Cup 2016 | https://habrahabr.ru/company/mailru/blog/314594/
+
+Поиск кратчайших путей в дорожных сетях: от теории к реализации | https://habrahabr.ru/company/spbau/blog/314016/
+
+Select / Multiselect без JS | https://habrahabr.ru/post/313958/
+
+Конкурс по программированию на JS: Классификатор слов (специальные призы) | https://habrahabr.ru/company/hola/blog/313176/
+
+Хакатон по данным криминальной статистики | https://habrahabr.ru/company/infoculture/blog/312482/
+
+Разбор задачи с Международной олимпиады по информатике IOI 2016 | https://habrahabr.ru/post/312018/
+
+Технокубок. Еще раз. Теперь круче | https://habrahabr.ru/company/mailru/blog/312016/
+
+Разбор задач финального раунда RCC 2016 | https://habrahabr.ru/company/mailru/blog/310376/
+
+Региональный этап TopCoder Open 2016 в ИТМО | https://habrahabr.ru/post/308280/
+
+Российские школьники взяли три золота на Международной олимпиаде по информатике | https://habrahabr.ru/post/308136/
+
+Соревнование по программированию на открытых данных: Budget Sprint | https://habrahabr.ru/company/infoculture/blog/307466/
+
+Скоро ICFPC 2016 | https://habrahabr.ru/post/306882/
+
+Результаты и разбор задач финала Яндекс.Алгоритма 2016 | https://habrahabr.ru/company/yandex/blog/306872/
+
+Разбор задач отборочного раунда RCC 2016 | https://habrahabr.ru/company/mailru/blog/303216/
+
+Началось соревнование «Make with Ada» для разработчиков встраиваемых систем | https://habrahabr.ru/post/303804/
+
+Конкурс по программированию на JS: Классификатор слов (окончательные результаты) | https://habrahabr.ru/company/hola/blog/303660/
+
+Поздравляем победителей «Летнего спринта» PETAMelon | https://habrahabr.ru/company/rostelecom/blog/303416/
+
+Итоги Black Box Challenge | https://habrahabr.ru/company/dca/blog/303286/
+
+Конкурс по программированию на JS: Классификатор слов (предварительные результаты) | https://habrahabr.ru/company/hola/blog/303178/
+
+Конкурс по программированию на JS: Классификатор слов (о ходе тестирования) | https://habrahabr.ru/company/hola/blog/302922/
+
+Разбор задач третьего квалификационного раунда RCC 2016 | https://habrahabr.ru/company/mailru/blog/302672/
+
+Разбор задач второго квалификационного раунда RCC 2016 | https://habrahabr.ru/company/mailru/blog/302074/
+
+Конкурс по классификации слов от Hola или «где взять ещё один процент?» | https://habrahabr.ru/post/302256/
+
+Конкурс по программированию на JS: Классификатор слов (дополнение) | https://habrahabr.ru/company/hola/blog/301314/
+
+Яндекс.Алгоритм. Разбор прошлогоднего квалификационного раунда и последний шанс поучаствовать в чемпионате | https://habrahabr.ru/company/yandex/blog/301268/
+
+Питерцы чемпионы мира! Не хоккеем, так программированием | https://habrahabr.ru/company/edison/blog/301244/
+
+Онлайн-трансляция ACM ICPC: Как это устроено | https://habrahabr.ru/company/spbifmo/blog/301098/
+
+Накануне Противостояния: участники PHDays VI СityF — о том, кто кого | https://habrahabr.ru/company/pt/blog/300910/
+
+Разбор задач первого квалификационного раунда RCC 2016 | https://habrahabr.ru/company/mailru/blog/283270/
+
+Первые успехи сложного игрового бота | https://habrahabr.ru/post/283020/
+
+Russian Code Cup 2016: впервые на английском языке | https://habrahabr.ru/company/mailru/blog/282501/
+
+Конкурс по программированию на JS: Классификатор слов | https://habrahabr.ru/company/hola/blog/282624/
+
+Разбор задач финала Технокубка 2016 | https://habrahabr.ru/company/mailru/blog/282241/
+
+Two languages, one Cup. Размышления о правилах RCC 2016 | https://habrahabr.ru/post/282431/
+
+Результаты большого чемпионата по программированию — 2016 на 5 тысяч человек | https://habrahabr.ru/company/croc/blog/282345/
+
+Две международные конференции в Санкт-Петербурге в июне: Experimental Algorithms и Computer Science in Russia | https://habrahabr.ru/company/spbau/blog/281975/
+
+Как выиграть в игру с неизвестными правилами? | https://habrahabr.ru/company/dca/blog/281707/
+
+Объяснение эксперимента о ветвлениях, или философские изыскания на тему бенчмарков в вакууме и в… реальности | https://habrahabr.ru/post/281769/
+
+Так ли нужно избавляться от ветвлений? — На примере sign, abs, min и max | https://habrahabr.ru/post/281629/
+
+Новые конкурсы на PHDays VI: ломаем ГЭС и «умный» дом | https://habrahabr.ru/company/pt/blog/281439/
+
+Песочница для программистов | https://habrahabr.ru/post/280914/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection: Итоги | https://habrahabr.ru/post/280860/
+
+Конкурс CityF: битва между хакерами и безопасниками | https://habrahabr.ru/company/pt/blog/280025/
+
+«Половина научных работ по Concurrency — полная чушь!» — интервью с Романом Елизаровым из Devexperts | https://habrahabr.ru/company/jugru/blog/279819/
+
+ВКонтакте запускает третий чемпионат VK Cup | https://habrahabr.ru/company/vkontakte/blog/279145/
+
+Приглашаю на чемпионат по программированию | https://habrahabr.ru/company/croc/blog/278803/
+
+5 образовательных возможностей за рубежом для студентов и недавних выпускников | https://habrahabr.ru/company/studyqa/blog/277589/
+
+Обстоятельно о подсчёте единичных битов | https://habrahabr.ru/post/276957/
+
+Онлайн-курс «Введение в теоретическую информатику» от Александра Ханьевича Шеня | https://habrahabr.ru/company/spbau/blog/276891/
+
+Конкурс GraphHPC-2016 на самую быструю реализацию параллельного алгоритма Community Detection | https://habrahabr.ru/post/275577/
+
+3 место за 11 шагов в конкурсе по JavaScript от Hola | https://habrahabr.ru/post/275343/
+
+Как студенты становятся продвинутыми программистами | https://habrahabr.ru/company/spbifmo/blog/275071/
+
+Окончательные итоги конкурса по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/275111/
+
+О пересмотре результатов конкурса по программированию на JS | https://habrahabr.ru/company/hola/blog/274961/
+
+Разбор решения занявшего второе (пока что) место в конкурсе Hola по программированию почтовых фильтров на JavaScript | https://habrahabr.ru/post/274935/
+
+Итоги конкурса по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/274697/
+
+Kaggle и Titanic — еще одно решение задачи с помощью Python | https://habrahabr.ru/post/274171/
+
+Откройте новую версию IDE CodinGame | https://habrahabr.ru/post/273991/
+
+История 5-го места на Russian AI Cup 2015 | https://habrahabr.ru/post/273745/
+
+История победы на ежегодном соревновании Russian AI Cup 2015 | https://habrahabr.ru/post/273649/
+
+Как мы распаковку игры автоматизировали | https://habrahabr.ru/post/273595/
+
+История 30 места в финале Russian AI Cup 2015 | https://habrahabr.ru/post/273579/
+
+Advent of Code | https://habrahabr.ru/post/273417/
+
+Вперед, на поиски палиндромов 3 | https://habrahabr.ru/post/272659/
+
+Robo code game challenge | https://habrahabr.ru/company/singularis/blog/272729/
+
+Russian AI Cup: выбраны лучшие программисты искусственного интеллекта | https://habrahabr.ru/company/mailru/blog/272893/
+
+Вперед, на поиски палиндромов 2 | https://habrahabr.ru/post/272555/
+
+Russian AI Cup 2015: гонки на выживание для программистов | https://habrahabr.ru/company/mailru/blog/270759/
+
+Конкурс по программированию на JS: Почтовые фильтры | https://habrahabr.ru/company/hola/blog/270847/
+
+[CodinGame] Back to the Code: Recar и Olaf69 делятся своими стратегиями | https://habrahabr.ru/post/269107/
+
+Вперед, на поиски палиндромов | https://habrahabr.ru/post/270325/
+
+Обновленный Codebattle: игра для программистов | https://habrahabr.ru/company/hexlet/blog/269613/
+
+От участия в хакатоне–к победе в Imagine Cup | https://habrahabr.ru/company/microsoft/blog/268925/
+
+Back to the Code – отчёт о состязании | https://habrahabr.ru/post/268765/
+
+Робоночь -2015 | https://habrahabr.ru/post/268577/
+
+Codebattle: игра для программистов | https://habrahabr.ru/company/hexlet/blog/268389/
+
+Итоги Russian Code Cup 2015 и разбор задач финала | https://habrahabr.ru/company/mailru/blog/267347/
+
+RCC 2015, финал 19 сентября | https://habrahabr.ru/company/mailru/blog/266509/
+
+Ктулхи в банке: как мы решали ICFPC 2015 | https://habrahabr.ru/post/264567/
+
+Kaggle. Предсказание продаж, в зависимости от погодных условий | https://habrahabr.ru/post/264653/
+
+Разбор всех задач финального раунда Яндекс.Алгоритма 2015 | https://habrahabr.ru/company/yandex/blog/264253/
+
+Российские студенты снова заняли первое место на международном финале Imagine Cup с игрой OVIVO | https://habrahabr.ru/company/microsoft/blog/264085/
+
+Скоро ICFPC 2015 | https://habrahabr.ru/post/263979/
+
+В Омске прошёл первый в России турнир по Lean Poker | https://habrahabr.ru/post/263957/
+
+Как провести Testing Dojo | https://habrahabr.ru/company/2gis/blog/263157/
+
+Итоги летнего конкурса Hola по программированию на JS | https://habrahabr.ru/company/hola/blog/262969/
+
+Разбор задач отборочного раунда RCC 2015 | https://habrahabr.ru/company/mailru/blog/260285/
+
+Startup Village-2015 в Сколково – как это было | https://habrahabr.ru/company/sap/blog/259595/
+
+Разбор задач 3-го квалификационного раунда Russian Code Cup 2015 | https://habrahabr.ru/company/mailru/blog/259235/
+
+Заработай на кибервойне | https://habrahabr.ru/company/pt/blog/258681/
+
+Как я однажды взломал онлайн-казино | https://habrahabr.ru/post/258513/
+
+В чемпионате мира по программированию «Битва интеллектов» принимают участие лучшие студенты со всего мира | https://habrahabr.ru/company/ibm/blog/258393/
+
+Odessa Open Class Programming Competition 2015 | https://habrahabr.ru/company/flyelephant/blog/258385/
+
+Разбор задач 2-го квалификационного раунда Russian Code Cup 2015 | https://habrahabr.ru/company/mailru/blog/256719/
+
+Помогают ли опыт и достижения в спортивном программировании в реальной жизни и работе, или мешают? | https://habrahabr.ru/company/yandex/blog/256163/
+
+Смотри онлайн-трансляцию Imagine Day 18 апреля | https://habrahabr.ru/company/microsoft/blog/255979/
+
+Новый суперблиц по Java-хардкору | https://habrahabr.ru/company/jugru/blog/255951/
+
+Простые задачи на Java. Слабо решить все? | https://habrahabr.ru/company/jugru/blog/255869/
+
+Алгоритмы быстрого вычисления факториала | https://habrahabr.ru/post/255761/
+
+12 шаров | https://habrahabr.ru/post/255155/
+
+Разбор задач первого квалификационного раунда Russian Code Cup 2015 | https://habrahabr.ru/company/mailru/blog/254363/
+
+Разбор задач тренировочного warmup-раунда Russian Code Cup 2015 | https://habrahabr.ru/company/mailru/blog/253401/
+
+ZeptoLab Code Rush 2015 уже близко | https://habrahabr.ru/company/ZeptoLab/blog/253003/
+
+Началась регистрация на пятый ежегодный чемпионат по спортивному программированию Russian Code Cup | https://habrahabr.ru/company/mailru/blog/251331/
+
+Как нельзя проводить олимпиаду или настройка ejudge с распределением вычислений | https://habrahabr.ru/post/249293/
+
+Конкурс игр KolibriOS — играем и выбираем победителей | https://habrahabr.ru/company/kolibrios/blog/247601/
+
+Assembler в 30 строк на Excel | https://habrahabr.ru/post/246975/
+
+Решение задачи «AAAAAA» с Facebook Hacker Cup методом динамического программирования на B-Prolog | https://habrahabr.ru/post/246657/
+
+Алгоритм поиска пути в лабиринте и его реализация на Python 3.4 | https://habrahabr.ru/post/246561/
+
+Насколько медленны iostreams? | https://habrahabr.ru/post/246257/
+
+О том, как я дважды принимал участие в конкурсах для мобильных разработчиков с денежными призами | https://habrahabr.ru/post/243867/
+
+За один проход | https://habrahabr.ru/post/243819/
+
+Виртуальный хакатон с призовым фондом на $30 000 в начале декабря | https://habrahabr.ru/post/243275/
+
+«Напиши свою игру!» — Новогодний конкурс от KolibriOS | https://habrahabr.ru/company/kolibrios/blog/243081/
+
+Russian AI Cup 2014: стратегия победителя | https://habrahabr.ru/post/241553/
+
+Итоги Russian AI Cup 2014 | https://habrahabr.ru/company/mailru/blog/240975/
+
+Итоги Russian Code Cup 2014 и разбор задач | https://habrahabr.ru/company/mailru/blog/239681/
+
+Новый контест от azspcs.net | https://habrahabr.ru/post/239235/
+
+Итоги первого раунда Russian AI Cup | https://habrahabr.ru/company/mailru/blog/238973/
+
+Интервью с легендой спортивного программирования Петром Митричевым | https://habrahabr.ru/company/xakep/blog/235629/
+
+Party hard по-программистски, или как мы писали ClojureCup 2014 | https://habrahabr.ru/post/238845/
+
+CodinGame: Как я остался без футболки | https://habrahabr.ru/post/238409/
+
+Автоматическая оптимизация алгоритмов с помощью быстрого возведения матриц в степень | https://habrahabr.ru/post/236689/
+
+Инвайт в подарок на день программиста! | https://habrahabr.ru/company/innopolis_university/blog/236647/
+
+Начался третий ежегодный чемпионат Russian AI Cup | https://habrahabr.ru/company/mailru/blog/236033/
+
+Старт Песочницы чемпионата Russian AI Cup 2014 | https://habrahabr.ru/post/236043/
+
+Интервью с Романом Удовиченко. Code Jam TOP 10 или как хорошо живется олимпиадникам | https://habrahabr.ru/post/234881/
+
+Разбор финальных задач Яндекс.Алгоритма 2014 | https://habrahabr.ru/company/yandex/blog/231939/
+
+Задача «Надёжность логических схем» | https://habrahabr.ru/post/231775/
+
+Скоро ICFPC 2014 | https://habrahabr.ru/post/230837/
+
+Заочная олимпиада по программированию для абитуриентов МФТИ | https://habrahabr.ru/post/228493/
+
+Хакатон как способ расширения кодерского сознания. Фото-корреспондентский отчет | https://habrahabr.ru/company/fintech_fab/blog/227727/
+
+Студенты Санкт-Петербургского государственного университета стали победителями 38-ого Студенческого Чемпионата Мира по Программированию | https://habrahabr.ru/company/ibm/blog/227699/
+
+Приглашаем принять участие в Russian Developers Cup | https://habrahabr.ru/company/mailru/blog/227399/
+
+Чемпионат мира по программированию: скука смертная (видео) | https://habrahabr.ru/company/skbkontur/blog/227385/
+
+PHDays IV CTF: как это было | https://habrahabr.ru/company/pt/blog/226803/
+
+Отборочный раунд Russian Code Cup 2014: итоги и разбор задач | https://habrahabr.ru/company/mailru/blog/225743/
+
+Найти бозон Хиггса может каждый! | https://habrahabr.ru/post/225591/
+
+Разбор задач четвертого квалификационного раунда Russian Code Cup 2014 | https://habrahabr.ru/company/mailru/blog/225025/
+
+Проблематика получения преимуществ с помощью ботов и твинков | https://habrahabr.ru/post/224833/
+
+Конкурс летающих роботов, этап №2: теперь не миллион, а 5 раз по 200 тысяч | https://habrahabr.ru/company/croc/blog/224253/
+
+Игры как моделирование реальности | https://habrahabr.ru/post/224231/
+
+Мы провели Kotlin Challenge: что в финале? | https://habrahabr.ru/company/JetBrains/blog/222693/
+
+Разбираем задачи второго квалификационного раунда Russian Code Cup 2014 | https://habrahabr.ru/company/mailru/blog/223343/
+
+Конкурс «Большой ку$h» на PHDays: образ системы ДБО доступен для скачивания | https://habrahabr.ru/company/pt/blog/223465/
+
+Разгоняем JavaScript вместе (Внимание, конкурс!) | https://habrahabr.ru/company/hola/blog/223207/
+
+Результаты и обсуждение майского хабрасоревнования: делаем свой ГЛОНАСС | https://habrahabr.ru/company/wayray/blog/222815/
+
+Майское хабрасоревнование: делаем свой ГЛОНАСС | https://habrahabr.ru/company/wayray/blog/222279/
+
+PHDays IV: Открыта регистрация на онлайн-конкурсы «Конкурентная разведка» и Hash Runner | https://habrahabr.ru/company/pt/blog/222253/
+
+Битвы хакеров: разбор заданий PHDays CTF и CTF Quals | https://habrahabr.ru/company/pt/blog/221991/
+
+Анонс майского хабрасоревнования по программированию на Java от WayRay | https://habrahabr.ru/company/wayray/blog/221897/
+
+Тренировочный раунд RCC 2014 Warmup | https://habrahabr.ru/company/mailru/blog/220671/
+
+Отчёт о прохождении первого раунда Russian Code Cup | https://habrahabr.ru/company/mailru/blog/220333/
+
+Семь самых интересных задач RCC за все годы по мнению Андрея Станкевича | https://habrahabr.ru/company/mailru/blog/219567/
+
+RCC 2014 Warmup: проверка боем для спортивных программистов | https://habrahabr.ru/company/mailru/blog/219147/
+
+Конкурсная программа PHDays IV | https://habrahabr.ru/company/pt/blog/218971/
+
+Яндекс открыл регистрацию на свой чемпионат по программированию | https://habrahabr.ru/company/yandex/blog/218705/
+
+Как мы HackPSU выигрывали | https://habrahabr.ru/post/218455/
+
+Простые 2D гоночки в космосе под Tizen или Как выиграть хакатон Tizen Association | https://habrahabr.ru/post/217909/
+
+RussianCodeCup 2014 — уже совсем скоро! | https://habrahabr.ru/company/mailru/blog/214737/
+
+Конкурс «СКБ Контур» глазами стажера Supl.biz | https://habrahabr.ru/company/suplbiz/blog/211929/
+
+Итоги PHDays CTF Quals | https://habrahabr.ru/company/pt/blog/210866/
+
+Как попасть на PHDays IV CTF? Участвовать в CTF Quals | https://habrahabr.ru/company/pt/blog/210180/
+
+Олимпиада ФУПМ МФТИ для школьников | https://habrahabr.ru/post/208232/
+
+Золотая медаль на Russian AI Cup 2013 — как это все было | https://habrahabr.ru/post/206680/
+
+Russian AI Cup: технические детали | https://habrahabr.ru/company/mailru/blog/205756/
+
+Алгоритм проверки на простоту за O (log N) | https://habrahabr.ru/post/205318/
+
+Финал открытого соревнования по программированию искусственного интеллекта Russian AI Cup 2013 | https://habrahabr.ru/company/mailru/blog/204964/
+
+DVHack 2013. Было здорово. Или первый хакатон на Дальнем Востоке | https://habrahabr.ru/post/204696/
+
+Конкурс профессионального мастерства WorldSkills Russia | https://habrahabr.ru/post/204458/
+
+Re: Отчёт и задания со всероссийской олимпиады по администрированию Linux-систем | https://habrahabr.ru/post/204128/
+
+Отчёт и задания со всероссийской олимпиады по администрированию Linux-систем | https://habrahabr.ru/company/croc/blog/204108/
+
+CodinGame November: Нотная грамота от Доктора Кто | https://habrahabr.ru/post/203508/
+
+Старт Песочницы чемпионата Russian AI Cup | https://habrahabr.ru/company/mailru/blog/202144/
+
+RuSSIR Music Hackathon 2013: заметки организатора | https://habrahabr.ru/post/196532/
+
+Cognitive и МИСиС провели олимпиаду школьников | https://habrahabr.ru/company/cognitive/blog/200350/
+
+Наш хакер победил в финале Cyber Challenge по региону EMEA | https://habrahabr.ru/company/croc/blog/200104/
+
+Впечатления о девочковом xакатоне в LinkedIn | https://habrahabr.ru/post/199308/
+
+Алгоритм поиска наименьшего общего предка в дереве | https://habrahabr.ru/post/198464/
+
+Финал чемпионата по программированию Russian Code Cup: как это было | https://habrahabr.ru/company/mailru/blog/196614/
+
+ClojureCup 2013 — отчет команды («unmatched | https://habrahabr.ru/post/196116/
+
+RuSSIR Music Hackathon 2013: как это было | https://habrahabr.ru/post/193828/
+
+Новая олимпиада по новому языку: открываем регистрацию | https://habrahabr.ru/company/JetBrains/blog/195852/
+
+Мобильные приложения на службе у городских властей | https://habrahabr.ru/post/195764/
+
+Задачка из реальной жизни: Как восстановить дерево процессов в Linux | https://habrahabr.ru/post/195330/
+
+Заочная олимпиада по спортивному программированию для школьников от НИТУ МИСиС и Cognitive Technologies | https://habrahabr.ru/company/cognitive/blog/195122/
+
+Рассказы участников о недавнем хак-квесте | https://habrahabr.ru/company/croc/blog/194190/
+
+Как мы улетели и с трудом вернулись: подробный отчет о нашем участии в соревнованиях летающих роботов компании КРОК | https://habrahabr.ru/post/193304/
+
+Russian Code Cup 2013: настраиваемся на хардворкинг! | https://habrahabr.ru/company/mailru/blog/194214/
+
+Отчёт с хакерского турнира и конференции по безопасности с Митником | https://habrahabr.ru/company/croc/blog/193594/
+
+Как прошел конкурс летающих роботов: полёты и ошибки | https://habrahabr.ru/company/croc/blog/192704/
+
+Как готовиться к хакерскому турниру участнику | https://habrahabr.ru/company/croc/blog/191108/
+
+Разбор всех задач и результаты Яндекс.Алгоритма | https://habrahabr.ru/company/yandex/blog/191030/
+
+Скоро ICFPC 2013 | https://habrahabr.ru/post/189334/
+
+3070 часов хак-квеста, отчёт и рассказы участников | https://habrahabr.ru/company/croc/blog/187554/
+
+Отчёты с прошедших хакерских турниров C^2 | https://habrahabr.ru/company/croc/blog/186892/
+
+Летающий робот к конкурсу и куча грабель с ним | https://habrahabr.ru/company/croc/blog/186740/
+
+Разбор задач финала чемпионата мира про программированию ACM ICPC 2013 | https://habrahabr.ru/company/yandex/blog/186316/
+
+Призер всероссийской олимпиады по информатике задержан во время взлома банкомата | https://habrahabr.ru/post/186292/
+
+Студенты СПбНИУ ИТМО стали победителями 37-ого Студенческого Чемпионата Мира по Программированию | https://habrahabr.ru/company/ibm/blog/185478/
+
+Олимпиада по программированию Летней школы МФТИ по прикладным математике и физике | https://habrahabr.ru/post/185414/
+
+Чемпионат мира по программированию ACM ICPC 2013 в Санкт-Петербурге | https://habrahabr.ru/company/yandex/blog/185394/
+
+Как побеждают IT-чемпионы: про изнанку подготовки к ACM-ICPC | https://habrahabr.ru/company/mailru/blog/185354/
+
+11 причин никогда не браться за проведение международного чемпионата по программированию | https://habrahabr.ru/post/185054/
+
+Яндекс.Алгоритм 2013: новая платформа Яндекс.Contest и правила TCM/Time | https://habrahabr.ru/company/yandex/blog/184138/
+
+Чемпионат мира по студенческому программированию впервые пройдёт в России | https://habrahabr.ru/company/ibm/blog/183972/
+
+Russian Code Cup 2013 – разбор задач отборочного раунда | https://habrahabr.ru/company/mailru/blog/183924/
+
+Конкурс «Лучший реверсер» на PHDays III: взгляд разработчика | https://habrahabr.ru/company/pt/blog/183574/
+
+Russian Code Cup 2013 – разбор задач 3-го квалификационного раунда | https://habrahabr.ru/company/mailru/blog/182256/
+
+Отчёт со Всероссийского Открытого Чемпионата по программированию | https://habrahabr.ru/company/croc/blog/180617/
+
+Russian Code Cup 2013 – разбор задач 2-го квалификационного раунда | https://habrahabr.ru/company/mailru/blog/179807/
+
+Стартовала вторая фаза конкурса Intel® Perceptual Computing Challenge | https://habrahabr.ru/post/179573/
+
+Хакерские соревнования на Positive Hack Days III | https://habrahabr.ru/company/pt/blog/178439/
+
+Школьник об олимпиадном программировании | https://habrahabr.ru/post/178253/
+
+Как мы организовали уральскую репетицию ACM ICPC WORLD FINALS | https://habrahabr.ru/post/178269/
+
+Russian Code Cup 2013: разбор задач первого квалификационного раунда | https://habrahabr.ru/company/mailru/blog/177171/
+
+Олимпиадные задачи по программированию: что за зверь? | https://habrahabr.ru/company/abbyy/blog/176421/
+
+Russian Code Cup: как это было, как это будет | https://habrahabr.ru/company/mailru/blog/176319/
+
+Завершилось соревнование по дата-майнингу Heritage Health Prize | https://habrahabr.ru/post/176267/
+
+Приходите на чемпионат по программированию: будем решать задачи и «ронять» код оппонентов | https://habrahabr.ru/company/croc/blog/175367/
+
+FightCode: танковые войны на JavaScript | https://habrahabr.ru/post/174461/
+
+Универсальный рейтинг или нам важен каждый голос | https://habrahabr.ru/post/172065/
+
+Бот для шашек (часть 1) | https://habrahabr.ru/post/171277/
+
+Научитесь предпринимательству вместе с Imagine Cup. Подача заявок до 15 февраля 2013 г | https://habrahabr.ru/company/microsoft/blog/169115/
+
+Напиши алгоритм для МКС и выиграй 10 тыс. долларов | https://habrahabr.ru/post/166861/
+
+Заочная олимпиада ФУПМ МФТИ | https://habrahabr.ru/post/165037/
+
+Результаты новогоднего Хабра-соревнования по программированию, анализ и обсуждение | https://habrahabr.ru/post/164567/
+
+Новогоднее хабра-соревнование по программированию-2013 (C++) | https://habrahabr.ru/post/164515/
+
+Отчёт с Олимпиады по Linux + задания с ответами | https://habrahabr.ru/company/croc/blog/162909/
+
+Путь к серебряной медали на Russian AI Cup 2012 | https://habrahabr.ru/post/161501/
+
+Проверка принадлежности точки невыпуклому многоугольнику | https://habrahabr.ru/post/161237/
+
+Экспресс-школы и вебинары по Imagine Cup | https://habrahabr.ru/company/microsoft/blog/161505/
+
+Путь к победе на Russian AI Cup 2012 | https://habrahabr.ru/post/161333/
+
+Imagine Cup: online-встреча по категории «Инновации» | https://habrahabr.ru/company/microsoft/blog/159765/
+
+Олимпиада по Linux-администрированию 27-го ноября | https://habrahabr.ru/company/croc/blog/159579/
+
+До старта первого раунда Russian AI Cup остались считанные часы | https://habrahabr.ru/company/odnoklassniki/blog/157987/
+
+Russian AI Cup 2012 | https://habrahabr.ru/company/odnoklassniki/blog/156901/
+
+Разбор задачи с IOI2012 | https://habrahabr.ru/company/abbyy/blog/155831/
+
+Четвертьфинала Московского региона Acm Icpc | https://habrahabr.ru/post/155563/
+
+Участвуйте в конкурсе Инновации Imagine Cup 2013 | https://habrahabr.ru/company/microsoft/blog/155253/
+
+Разбор задач 1 тура школы программистов HeadHunter | https://habrahabr.ru/post/155015/
+
+Российский программист занял первое место на TopCoder Open | https://habrahabr.ru/post/153787/
+
+Егор Куликов – чемпион мира по программированию | https://habrahabr.ru/company/yandex/blog/153705/
+
+Встречайте новый Imagine Cup 2013! | https://habrahabr.ru/company/microsoft/blog/153531/
+
+IOI 2012: 4 участника от России — 4 золота! | https://habrahabr.ru/company/abbyy/blog/153071/
+
+Russian Code Cup 2012: подробный разбор задач с финала в картинках, видео и примерах | https://habrahabr.ru/company/mailru/blog/151876/
+
+Чемпионат по программированию Russian Code Cup 2012: как это было | https://habrahabr.ru/company/mailru/blog/151614/
+
+Результаты Djangodash 2012 | https://habrahabr.ru/post/150002/
+
+Обучение с подкреплением на нейронных сетях. Теория | https://habrahabr.ru/post/148830/
+
+Проблема «двух и более учителей». Первые штрихи | https://habrahabr.ru/post/148809/
+
+VK Cup 2012 — как это было | https://habrahabr.ru/post/148063/
+
+Физика Robocode | https://habrahabr.ru/post/147956/
+
+Первые шаги в Robocode | https://habrahabr.ru/post/147947/
+
+ICFPC 2012 с краудсорсингом и нейронными сетями | https://habrahabr.ru/post/147798/
+
+Задача конкурса ICFPC-2012: робот и λ | https://habrahabr.ru/post/147789/
+
+Russian Code Cup 2012: подробный разбор задач с отборочного раунда (полуфинал) | https://habrahabr.ru/company/mailru/blog/146458/
+
+$80 000 лучшим программистам за победу в соревновании роботов | https://habrahabr.ru/company/metaquotes/blog/146242/
+
+ABBYY Cup: разбор полётов | https://habrahabr.ru/company/abbyy/blog/146081/
+
+Microsoft Cloudball Challenge — соревнование по футбольному AI | https://habrahabr.ru/post/146102/
+
+Russian Code Cup 2012: Разбор задач третьего квалификационного раунда | https://habrahabr.ru/company/mailru/blog/145735/
+
+Russian Code Cup 2012: Разбор задач второго квалификационного раунда | https://habrahabr.ru/company/mailru/blog/145262/
+
+Russian Code Cup 2012: подробный разбор задач с первой квалификации | https://habrahabr.ru/company/mailru/blog/144793/
+
+Чемпионат мира по программированию ACM-ICPC 2012 | https://habrahabr.ru/post/144017/
+
+Acceler8 2011 — Accelerate 2012 — и так далее | https://habrahabr.ru/company/intel/blog/142982/
+
+Веб-сервисы играют в покер | https://habrahabr.ru/post/140602/
+
+Отчёт о Cloud Contest 2 | https://habrahabr.ru/company/cloudcastle/blog/142713/
+
+«Конкурс параллельного программирования Accelerate 2012» или «6 ультрабуков и 10 SSD хватит всем!» | https://habrahabr.ru/company/intel/blog/142312/
+
+VolgaCTF глазами участника | https://habrahabr.ru/post/142131/
+
+Приглашаем на ABBYY CUP 2.0 | https://habrahabr.ru/company/abbyy/blog/142151/
+
+Сегодня и впервые–трансляция Imagine Cup 2012 по всей России! | https://habrahabr.ru/company/microsoft/blog/142073/
+
+Движуха + инновации: Microsoft Student Day 2.0 и российский финал Imagine Cup 2012 | https://habrahabr.ru/company/microsoft/blog/141854/
+
+14 апреля 2012 г. – Российский финал Imagine Cup AKA Student Day 2.0 | https://habrahabr.ru/company/microsoft/blog/141051/
+
+Brainbench: Bench Games has started! | https://habrahabr.ru/post/139456/
+
+Чемпионат по программированию VK Cup 2012 | https://habrahabr.ru/post/139232/
+
+Codeforces: Surprise Language Round #5 | https://habrahabr.ru/post/138610/
+
+5 вещей, которые нужно знать если вы участвуете в соревновании разработчиков | https://habrahabr.ru/company/microsoft/blog/138114/
+
+Новогодний zip-квест 2012 – прохождение | https://habrahabr.ru/post/135782/
+
+Новогодний zip-квест 2012 | https://habrahabr.ru/post/135669/
+
+Олимпиада ФУПМ МФТИ по программированию для школьников | https://habrahabr.ru/post/135477/
+
+AI Challenge 2011 Ants. Глазами участника Murashka (15-е место) | https://habrahabr.ru/post/135280/
+
+Codeforces: Unknown Language Round #4 | https://habrahabr.ru/post/132935/
+
+AI Challenge: Ants AI Challenge: оживляем «муравьев» | https://habrahabr.ru/post/132776/
+
+Launcher для Google AI Challenge Tools | https://habrahabr.ru/post/131389/
+
+Plugin CHelper для IntelliJ Idea | https://habrahabr.ru/post/131354/
+
+Описание Google AI challenge (Ants) | https://habrahabr.ru/post/131262/
+
+Правила муравьиных баталий | https://habrahabr.ru/post/131071/
+
+Конкурс по программированию от фонда Викимедиа | https://habrahabr.ru/post/131018/
+
+Правила Google AI Challenge Осень 2011 | https://habrahabr.ru/post/130979/
+
+Google AI Challenge. Как написать своего бота. Часть 1, 2 | https://habrahabr.ru/post/130931/
+
+Ants AI Challenge. Учебник начинающего ботовода | https://habrahabr.ru/post/130946/
+
+Чемпионаты по программированию и не только | https://habrahabr.ru/post/130762/
+
+Старт в Google AI Challenge на Java | https://habrahabr.ru/post/130722/
+
+Пишем своего бота для Google AI Challenge. Быстрый старт | https://habrahabr.ru/post/130582/
+
+Google AI Challenge 2011 уже доступен в Beta-версии | https://habrahabr.ru/post/130457/
+
+TopCoder Open 2011 | https://habrahabr.ru/post/129385/
+
+Спортивное программирование: «С чего начать?» | https://habrahabr.ru/post/128108/
+
+Codeforces: Unknown Language Round #3 | https://habrahabr.ru/post/125165/
+
+Теория Игр и функция Шпрага-Гранди | https://habrahabr.ru/post/124856/
+
+Сортировка данных и возвращение им прежнего порядка | https://habrahabr.ru/post/121283/
+
+Плагин Moj для участия в TopCoder SRM | https://habrahabr.ru/post/120942/
+
+Закончился последний отборочный раунд Google Code Jam 2011 | https://habrahabr.ru/post/121199/
+
+Олимпиадное программирование как искусство | https://habrahabr.ru/post/120763/
+
+Международная летняя школа программирования г. Севастополь | https://habrahabr.ru/post/120484/
+
+Результаты финала ACM ICPC 2011 | https://habrahabr.ru/post/120276/
+
+Unknown Language Rounds | https://habrahabr.ru/post/115784/
+
+Динамическое программирование. Спичечная модель | https://habrahabr.ru/post/113720/
+
+Финал чемпионата мира по программированию ACM ICPC перенесён | https://habrahabr.ru/post/112974/
+
+Конкурс на решение целочисленной системы линейных уравнений | https://habrahabr.ru/post/112939/
+
+eBay Talent Search Contest | https://habrahabr.ru/post/110345/
+
+Олимпиадное хобби. Разделяй и властвуй | https://habrahabr.ru/post/109874/
+
+Хакерский конкурс от Facebook | https://habrahabr.ru/post/109848/
+
+Олимпиадное хобби. Размен монет | https://habrahabr.ru/post/109384/
+
+Олимпиадное хобби. Задача об утилизации отходов | https://habrahabr.ru/post/108689/
+
+Олимпиадное хобби. Разминка | https://habrahabr.ru/post/108570/
+
+Конкурс по труднорешаемым задачам для программистов | https://habrahabr.ru/post/108550/
+
+Отчет c южного четвертьфинала | https://habrahabr.ru/post/106783/
+
+Итоги 2010 TopCoder Open | https://habrahabr.ru/post/106626/
+
+Google AI Challenge две недели спустя | https://habrahabr.ru/post/104861/
+
+Google Code Jam 2010 — результаты | https://habrahabr.ru/post/100660/
+
+Code golf: игра в города | https://habrahabr.ru/post/93993/
+
+Календарь событий TopCoder | https://habrahabr.ru/post/92619/
+
+Нахождение чисел Фибоначчи | https://habrahabr.ru/post/91296/
+
+Быстрый ввод в Java | https://habrahabr.ru/post/91283/
+
+Мизерный ним | https://habrahabr.ru/post/91272/
+
+Тримино | https://habrahabr.ru/post/91242/
+
+Code Game Challenge — Набираем участников | https://habrahabr.ru/post/91090/
+
+2010 TopCoder Open | https://habrahabr.ru/post/89772/
+
+Итоги TopCoder High School 2010 | https://habrahabr.ru/post/88535/
+
+2010 TopCoder High School Tournament | https://habrahabr.ru/post/85550/
+
+Гольф на многих языках. Быть или не быть? | https://habrahabr.ru/post/84132/
+
+Неофициальная трансляция ACM ICPC 2010 — как это было | https://habrahabr.ru/post/83385/
+
+Результаты финала чемпионата мира по программированию ACM ICPC — 2010 | https://habrahabr.ru/post/83197/
+
+ACM ICPC 2010 | https://habrahabr.ru/post/83153/
+
+Дарю код игры для программистов и клонирую Хабр | https://habrahabr.ru/post/79051/
+
+CodeCraft – битвы программистов | https://habrahabr.ru/post/75998/
+
+Что случилось с TopCoder? | https://habrahabr.ru/post/75558/
+
+Полуфинал ACM ICPC 2009-2010 | https://habrahabr.ru/post/75095/
+
+Список языков | https://habrahabr.ru/post/74906/
+
+Игра для программистов — Быки и коровы | https://habrahabr.ru/post/74727/
+
+ХабраВойны — python-robots | https://habrahabr.ru/post/74550/
+
+Мой вариант правил HabraWars | https://habrahabr.ru/post/74536/
+
+Когда алгоритм верный, а всё равно TL | https://habrahabr.ru/post/71601/
+
+Code Game Challenge | https://habrahabr.ru/post/71355/
+
+На чём и как писать (часть 1. Eclipse и Java) | https://habrahabr.ru/post/70777/
+
+Путь олимпиадника | https://habrahabr.ru/post/70750/
+
+Программирование как спорт | https://habrahabr.ru/post/70743/
+
+Trollim: битвы программистов 1 на 1 | https://habrahabr.ru/post/69951/
+
+Imagine Cup 2010 – YOU Can Change The World! | https://habrahabr.ru/post/68626/
+
+IOI-2009: очередной триумф Гены Короткевича | https://habrahabr.ru/post/67250/
+
+Олимпиады по программированию, взгляд из НГУ. Статья 5 — как играет команда | https://habrahabr.ru/post/64144/
+
+Команда Vital Lab — второе место на Imagine Cup 2009! | https://habrahabr.ru/post/63833/
+
+Imagine Cup. Embedded Development | https://habrahabr.ru/post/63774/
+
+Анонс интервью с российскими командами Imagine Cup 2009 | https://habrahabr.ru/post/63605/
+
+Миниотчет об участии в ICFPC 2009 | https://habrahabr.ru/post/63354/
+
+Олимпиады по программированию, взгляд из НГУ. Статья 4 — как проходит тур | https://habrahabr.ru/post/63187/
+
+Олимпиады по программированию, взгляд из НГУ. Статья 3 — работа оргкомитета | https://habrahabr.ru/post/63045/
+
+Олимпиады по программированию, взгляд из НГУ. Статья 2 — тестирующая система | https://habrahabr.ru/post/63005/
+
+Скоро ICFPC 2009 | https://habrahabr.ru/post/62750/
+
+Олимпиады по программированию, взгляд из НГУ. Статья 1 — составление задач | https://habrahabr.ru/post/62655/
+
+Итоги TopCoder Open 2009 | https://habrahabr.ru/post/61433/
+
+Чемпионат по программированию IPSC 2009 | https://habrahabr.ru/post/59802/
+
+5й Харьков OPEN | https://habrahabr.ru/post/57955/
+
+Завершился World Final ACM ICPC | https://habrahabr.ru/post/57803/
+
+В Санкт-Петербурге, Ташкенте, Барнауле и Батуми прошел полуфинал XXXIII командного студенческого чемпионата мира по программированию. | https://habrahabr.ru/post/45602/
+
+Триумф белорусов в финале Code Jam 2008 | https://habrahabr.ru/post/44991/
+
+Итоги чемпионата мира по программированию TopCoder Open для России | https://habrahabr.ru/post/25725/
+
+TopCoder Open 2008 | https://habrahabr.ru/post/25490/
+
+Вопросы для интервью с золотыми медалистами АСМ | https://habrahabr.ru/post/23538/
+
+40+ фактов о Петре Митричеве | https://habrahabr.ru/post/23434/
+
+Триумф российских команд на чемпионате мира по программированию ACM ICPC | https://habrahabr.ru/post/23299/
+
+Усложнение задачи про списки | https://habrahabr.ru/post/11627/
+
+2 задачки | https://habrahabr.ru/post/11405/
+
+Питерский школьник выиграл TopCoder High School | https://habrahabr.ru/post/8873/
+
+Итоги финала ACM ICPC 2007 в Токио | https://habrahabr.ru/post/5260/
+
+Стартовал чемпионат по программированию ACM-ICPC-2007 | https://habrahabr.ru/post/5134/
+
+Два интервью с рулевыми российского АСМ-движения | https://habrahabr.ru/post/1324/
+
+TCCC 2006. Петр Митричев выиграл и его | https://habrahabr.ru/post/683/
+
+TCCC 2006: Итоги полуфиналов и Wild Card. Двое россиян в финале | https://habrahabr.ru/post/672/
+
+15 ноября в Сан-Диего начнутся onsite-раунды TCCC 2006 | https://habrahabr.ru/post/620/
+
+Положение Митричева на 1-ом месте в рейтинге TopCoder стало менее устойчивым | https://habrahabr.ru/post/562/
+
+Подробности Google Code Jam 2006 | https://habrahabr.ru/post/561/
+

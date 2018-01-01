@@ -1,0 +1,240 @@
+Архитектура сервиса сбора и классификации объявлений жилья из Вконтакте | https://habrahabr.ru/post/342220/
+
+Как безлимитно* серфить** на смартфоне за 20*** рублей в месяц | https://habrahabr.ru/post/342690/
+
+Streaming API. Небольшой пример на PHP | https://habrahabr.ru/post/337874/
+
+Скачиваем фото из Instagram с помощью бота Вконтакте | https://habrahabr.ru/post/335828/
+
+Основы работы с LongPoll сервером ВКонтакте | https://habrahabr.ru/post/335106/
+
+Использование VK Streaming API с оповещением в Telegram | https://habrahabr.ru/post/333942/
+
+VK Streaming API Contest | https://habrahabr.ru/company/vkontakte/blog/332054/
+
+Как выигрывать в конкурсах репостов Вконтакте? | https://habrahabr.ru/post/331312/
+
+Создаём динамическую обложку ВКонтакте | https://habrahabr.ru/post/330682/
+
+Как написать чат-бота на PHP для сообщества ВКонтакте | https://habrahabr.ru/post/329150/
+
+Классификация объявлений из соц. сетей. В поисках лучшего решения | https://habrahabr.ru/post/328282/
+
+Отправка голосовых сообщений ВКонтакте с помощью VK API | https://habrahabr.ru/post/327280/
+
+Публикация постов Вконтакте через Trello | https://habrahabr.ru/post/327216/
+
+Чат-бот для ВКонтакте на Python на Callback API | https://habrahabr.ru/post/326898/
+
+Как написать чат-бота для vk.com за 3 минуты | https://habrahabr.ru/post/326312/
+
+Сбор сообщений ВКонтакте для Samsung Gear | https://habrahabr.ru/post/321836/
+
+Как я создал SaaS-сервис, который приносит мне 1000 долларов в месяц | https://habrahabr.ru/post/320292/
+
+[BugBounty] Частичный обход аутентификации vk.com | https://habrahabr.ru/post/320408/
+
+Библиотека vk для работы с VK API на Python | https://habrahabr.ru/post/319178/
+
+Расширение API от Vk для стикеров на Elixir | https://habrahabr.ru/post/318918/
+
+Смотрим часть чужого избранного ВКонтакте | https://habrahabr.ru/post/316562/
+
+Работа с API ВКонтакте на C# | https://habrahabr.ru/post/314518/
+
+Грабли VK SDK для Android | https://habrahabr.ru/post/313132/
+
+Веб-приложение размером с пигмея | https://habrahabr.ru/post/312974/
+
+Авторизация с помощью Facebook и Vkontakte в одностраничном приложении на Backbonejs + Express | https://habrahabr.ru/post/310594/
+
+Скованные одной цепью, или добавим комфорта комментариям Вконтакте | https://habrahabr.ru/post/310146/
+
+«Сообщения сообщества» и «Вебвизор» от Яндекса | https://habrahabr.ru/post/310030/
+
+После логаута пользователя VK можно получить управление его страницей | https://habrahabr.ru/post/306312/
+
+Авторизация в VK для людей | https://habrahabr.ru/post/306022/
+
+1000 и 1 репост: гайд по кнопке «поделиться» в русских соц сетях | https://habrahabr.ru/post/302656/
+
+Обработка данных в iPython notebook для задач SEO | https://habrahabr.ru/company/rambler-co/blog/301640/
+
+Администраторы групп в vk всегда были в открытом доступе | https://habrahabr.ru/post/282906/
+
+AdminVK — мониторинг собственных групп Вконтакте на новые события при помощи push-уведомлений | https://habrahabr.ru/company/pushall/blog/282297/
+
+«Подсмотрено» — путь от идеи для VK Mobile Challenge до реального продукта | https://habrahabr.ru/post/282193/
+
+Как я VK Mobile Challenge принял | https://habrahabr.ru/post/280596/
+
+Пишем VoIP iOS чат на CORE AUDIO для конкурса VK Mobile Challenge | https://habrahabr.ru/post/279517/
+
+Разработка сервиса по загрузке альбомов | https://habrahabr.ru/post/279977/
+
+Битва роботов на Хакатоне Яндекс.Денег | https://habrahabr.ru/post/279869/
+
+Отбираем валидные мобильные номера друзей VK на Python | https://habrahabr.ru/post/279803/
+
+Работа с ВК API при создании игры для ВКонтакте | https://habrahabr.ru/post/279383/
+
+Уязвимость ВКонтакте: доступ к превью фотографий из диалогов и скрытых альбомов любого пользователя | https://habrahabr.ru/post/276983/
+
+Хакатон по анализу открытых данных пользователей социальной сети ВКонтакте. Для школьников и первокурсников | https://habrahabr.ru/post/276079/
+
+Сравнение аудитории Хабрахабра, Гиктаймса и Мегамозга | https://habrahabr.ru/post/273387/
+
+Проверка теории шести рукопожатий | https://habrahabr.ru/post/273191/
+
+Как я много раз не бросил разработку своей второй игры | https://habrahabr.ru/post/272013/
+
+CSRF-уязвимость VK Open Api, позволяющая получать Access Token’ы сторонних сайтов, использующих авторизацию через VK | https://habrahabr.ru/post/271031/
+
+Исследование результатов ЕГЭ, ГИА и олимпиад для московских школ. Из каких школ в какие ВУЗы поступают | https://habrahabr.ru/post/270675/
+
+Создание удобного экспорта фотографий в VK. Часть 1. iPhoto | https://habrahabr.ru/company/arcadia/blog/251437/
+
+Swift + VK.API, или история о SwiftyVK | https://habrahabr.ru/post/269741/
+
+Уведомления доступные каждому. Расширение функций интеграции с RSS + Push из групп Вконтакте | https://habrahabr.ru/company/pushall/blog/267589/
+
+Введение в анализ социальных сетей на примере VK API | https://habrahabr.ru/company/ods/blog/263313/
+
+Социальный логин: cильные стороны | https://habrahabr.ru/post/264093/
+
+Поиск похожих групп и пабликов Вконтакте | https://habrahabr.ru/post/263753/
+
+Смайлики для API Вконтакте | https://habrahabr.ru/post/263455/
+
+Информация об участниках сообщества Вконтакте в режиме онлайн | https://habrahabr.ru/post/262895/
+
+ВКонтакте закрыли уязвимость, из-за которой Apple отправляла в reject обновления приложений под iOS | https://habrahabr.ru/post/260117/
+
+«ВКонтакте» не платит пользователям за найденные уязвимости | https://habrahabr.ru/post/259363/
+
+Как я считал рукопожатия или «Уверен ли ты, что хочешь знать друзей друзей друзей друзей» | https://habrahabr.ru/post/258713/
+
+Робот-помощник Ашманова на русскоязычном тесте Тьюринга. Технология Инфов | https://habrahabr.ru/post/257037/
+
+Расширение Информер Вконтакте для браузеров Opera, Chrome и прочих | https://habrahabr.ru/post/255241/
+
+Чат вконтакта в качестве терминала | https://habrahabr.ru/post/251083/
+
+Авторизация и использование VK.com API в Xamarin.Android | https://habrahabr.ru/post/250167/
+
+VkPlaylistServer — добавляем музыку из ВКонтакте в почти любой аудиоплеер | https://habrahabr.ru/post/250379/
+
+VKPLS — Генерация потокового аудио-плейлиста из vk.com | https://habrahabr.ru/post/250251/
+
+Карта последних фотографий всех людей из указанных городов VK с использованием VKScript | https://habrahabr.ru/post/248993/
+
+Получаем список участников сообщества ВКонтакте определенного пола и возраста | https://habrahabr.ru/post/248827/
+
+Получение участников сообщества vk.com за считанные секунды | https://habrahabr.ru/post/248725/
+
+Бекап аудиозаписей с плейлиста ВКонтакте (до 6000) средствами Python и Vk API | https://habrahabr.ru/post/247987/
+
+Возможно, первая игра на Dart + Box2D | https://habrahabr.ru/post/247809/
+
+InterSystems iKnow. Загружаем данные из Вконтакте | https://habrahabr.ru/company/intersystems/blog/246719/
+
+Мессенджер Вконтакте лежит | https://habrahabr.ru/post/239603/
+
+Django + API Вконтакте: постим записи с вложениями, получение списка групп и записей | https://habrahabr.ru/post/236875/
+
+Теперь любой сайт может узнать адрес вашей страницы в VK? | https://habrahabr.ru/post/234067/
+
+Лечение VKApp для iPhone | https://habrahabr.ru/post/232351/
+
+Легальный Clickjacking ВКонтакте | https://habrahabr.ru/post/228617/
+
+Постинг в группу картинки с текстом с помощью Вконтакте API | https://habrahabr.ru/post/226585/
+
+Разработка Iframe приложений на VK API. От первых шишек до двухмиллионной аудитории | https://habrahabr.ru/post/225645/
+
+Правильный подход к использованию API Вконтакте | https://habrahabr.ru/post/221949/
+
+ВКонтакте API для .Net | https://habrahabr.ru/post/216553/
+
+Почему у нас нет поддержки ВКонтакте | https://habrahabr.ru/company/likeastore/blog/213467/
+
+Притворяемся официальным приложением ВКонтакте | https://habrahabr.ru/post/213163/
+
+Находим общих друзей людей с использованием VK API | https://habrahabr.ru/post/212405/
+
+Постим новости с картинкой в группы Вконтакта (Perl) | https://habrahabr.ru/post/211198/
+
+Один день из жизни Москвы в геометках Вконтакте | https://habrahabr.ru/company/meanwhile/blog/206206/
+
+Запуск iframe приложения в Vkontakte | https://habrahabr.ru/post/204876/
+
+Ошибка безопасности web-приложений ВКонтакте. Правим чужие приложения | https://habrahabr.ru/post/204586/
+
+Авторизация ВКонтакте с помощью протокола OAuth 2.0 под Windows 8 | https://habrahabr.ru/post/201074/
+
+ВКонтакте Node JS SDK | https://habrahabr.ru/post/191592/
+
+Простая клиентская и серверная авторизация пользователя Ajax-сайта с помощью ВКонтакте API | https://habrahabr.ru/post/188102/
+
+Вышел Вконтакте 3.0 для Android | https://habrahabr.ru/company/rozetked/blog/186876/
+
+vk.com — Сохранение аудиозаписей, документов, содержимого стены | https://habrahabr.ru/post/184224/
+
+Удобное скачивание музыки из vkontakte | https://habrahabr.ru/post/183852/
+
+Скачивание музыки из vk.com | https://habrahabr.ru/post/183546/
+
+Сортировка треков в плейлисте VK | https://habrahabr.ru/post/183408/
+
+Об одном недостатке VK API вслух | https://habrahabr.ru/post/179953/
+
+Получение и подсчет количества репостов VK.COM | https://habrahabr.ru/post/177641/
+
+Интеграция приложения на QML с веб-ресурсами | https://habrahabr.ru/post/176665/
+
+Кросспостинг из Twitter в ВКонтакте с помощью роутера | https://habrahabr.ru/post/158285/
+
+«ВКонтакте» обновил документацию API | https://habrahabr.ru/post/173907/
+
+API ВКонтакте и XDocument для самых маленьких | https://habrahabr.ru/post/173421/
+
+Работаем с API вконтакте из расширения для Google Chrome | https://habrahabr.ru/post/171011/
+
+Получение email пользователя через API Вконтакте | https://habrahabr.ru/post/168295/
+
+Вконтакте закрылся для пользователей без мобильного телефона | https://habrahabr.ru/post/159565/
+
+У ВКонтакте опять не работает IPv6 | https://habrahabr.ru/post/159427/
+
+Виджет ВКонтакте «Мне нравится» кэширует параметры | https://habrahabr.ru/post/158991/
+
+Мониторинг активности групп VK. Обрабатываем данные на VKScript | https://habrahabr.ru/post/158469/
+
+Vreen — простая и удобная библиотека для работы с vk.api | https://habrahabr.ru/post/157081/
+
+Вконтакте выключил IPv6 для веб-сервисов | https://habrahabr.ru/post/152695/
+
+vkontakte_api: ruby-адаптер для ВКонтакте API | https://habrahabr.ru/post/151585/
+
+Безопасность OAuth2 | https://habrahabr.ru/post/150756/
+
+Авторизация пользователей, у которых заблокированы cookies | https://habrahabr.ru/post/150644/
+
+Добавляем возможность входа через ВКонтакте в iOS приложение | https://habrahabr.ru/post/148207/
+
+VK::App — модуль для создания клиентских приложений в vk.com | https://habrahabr.ru/post/146598/
+
+Строим карту популярности дней рождения с помощью Processing и VK API | https://habrahabr.ru/post/144531/
+
+Пишем модуль для авторизации в VK API | https://habrahabr.ru/post/143972/
+
+Пример интеграции Last.FM API и VK.COM API для обновления содержимого своего плеера | https://habrahabr.ru/post/143657/
+
+ВКонтакте Android SDK | https://habrahabr.ru/post/143339/
+
+Авторизация через JS | https://habrahabr.ru/post/140297/
+
+Статистика по профилям пользователей ВКонтакте | https://habrahabr.ru/post/123856/
+
+Qt: работа с Vkontakte API и Phonon | https://habrahabr.ru/post/115397/
+

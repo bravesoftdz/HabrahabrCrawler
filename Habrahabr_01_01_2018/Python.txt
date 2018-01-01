@@ -1,0 +1,3944 @@
+Импорт и преобразование словаря LinguaLeo в флэш-карты Anki | https://habrahabr.ru/post/345864/
+
+Оптимизация стадии инициализации Django | https://habrahabr.ru/post/345856/
+
+Простой монитор системы на Flask | https://habrahabr.ru/post/345848/
+
+Определение формата файла с помощью Python | https://habrahabr.ru/post/345822/
+
+Математические модели релейно-импульсных регуляторов | https://habrahabr.ru/post/345714/
+
+Вредные заклинания в программировании | https://habrahabr.ru/post/345690/
+
+Пробуем q-learning на вкус, повесть в трех частях | https://habrahabr.ru/post/345656/
+
+Асинхронная загрузка больших датасетов в Tensorflow | https://habrahabr.ru/post/345546/
+
+Модифицируем Python за 6 минут | https://habrahabr.ru/company/otus/blog/345526/
+
+Pygest #20. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [6 декабря 2017 — 23 декабря 2017] | https://habrahabr.ru/post/345324/
+
+Программировать хочу, пусть меня научат! Образовательные проекты Avito | https://habrahabr.ru/company/avito/blog/345314/
+
+Предсказываем отток с помощью нейросети | https://habrahabr.ru/company/plarium/blog/345310/
+
+Динамическая идентификация объектов управления | https://habrahabr.ru/post/345198/
+
+Генерируем заголовки фейковых новостей в стиле Ленты.ру | https://habrahabr.ru/post/345190/
+
+Материалы открытого курса OpenDataScience и Mail.Ru Group по машинному обучению и новый запуск | https://habrahabr.ru/company/ods/blog/344044/
+
+Smart IDReader SDK — как написать Telegram-бота на Python для распознавания документов за 5 минут | https://habrahabr.ru/company/smartengines/blog/344774/
+
+Preview документов в программе на Python | https://habrahabr.ru/post/344086/
+
+Задачки с ZeroNights 2017: стань королем капчи | https://habrahabr.ru/company/sberbank/blog/344816/
+
+История победы на международном соревновании по распознаванию документов команды компании SmartEngines | https://habrahabr.ru/company/smartengines/blog/344550/
+
+Python Meetup 14.11.2017: Python в Порту, Aiohttp и снова тесты | https://habrahabr.ru/company/wargaming/blog/344234/
+
+Корреляция IQ с нашей жизнью (Feature ranking) | https://habrahabr.ru/post/344560/
+
+Приглашаем на итоги конкурса по анализу данных | https://habrahabr.ru/company/sas/blog/344512/
+
+Airflow Workshop: сложные DAG’и без костылей | https://habrahabr.ru/company/mailru/blog/344398/
+
+Решение задачи оптимизации многоступенчатых ракет | https://habrahabr.ru/post/344280/
+
+Отчет о старте Atos IT Challenge | https://habrahabr.ru/post/344254/
+
+Учим машину разбираться в генах человека | https://habrahabr.ru/company/microsoft/blog/343604/
+
+Обзор литературы по языку Python для начинающих | https://habrahabr.ru/post/344192/
+
+Pygest #19. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [20 ноября 2017 — 5 декабря 2017] | https://habrahabr.ru/post/344026/
+
+Tcl/Tk. Тематические виджеты TTK и дизайнер TKproE-2.20 | https://habrahabr.ru/post/343930/
+
+Как я написал приложение, которое за 15 минут делало то же самое, что и регулярное выражение за 5 дней | https://habrahabr.ru/post/343116/
+
+Введение в обучение с подкреплением: от многорукого бандита до полноценного RL агента | https://habrahabr.ru/company/newprolab/blog/343834/
+
+Пирожки в Go | https://habrahabr.ru/post/343788/
+
+Релиз второй версии плагина Nodejs для Sublime Text | https://habrahabr.ru/post/343750/
+
+Учим компьютер писать как Толстой, том I | https://habrahabr.ru/post/343704/
+
+Hik or Hack? (НЕ)безопасность Интернета вещей на примере IP-камеры Hikvision | https://habrahabr.ru/company/neobit/blog/343144/
+
+Биороботы нашего времени — избавляемся от рутины вместе с Telegram. Реальный кейс без фантазий | https://habrahabr.ru/company/vds/blog/342916/
+
+Классификация звуков с помощью TensorFlow | https://habrahabr.ru/company/dataart/blog/343464/
+
+Как научить нейросеть придумывать названия российских населенных пунктов | https://habrahabr.ru/post/343336/
+
+ScadaPy сервер JSON | https://habrahabr.ru/post/343302/
+
+«Пишите письма…» или тренируемся работать с данными по обращениям граждан в правительство Москвы (DataScience) | https://habrahabr.ru/post/343216/
+
+Развитие стратегий устойчивости | https://habrahabr.ru/company/mailru/blog/343008/
+
+RNN: может ли нейронная сеть писать как Лев Толстой? (Спойлер: нет) | https://habrahabr.ru/post/342738/
+
+Как сделать свой блокчейн. Часть 1 — Создание, Хранение, Синхронизация, Отображение, Майнинг и Доказательная работа | https://habrahabr.ru/company/otus/blog/342974/
+
+Torskel — упрощаем рутину в Tornado | https://habrahabr.ru/post/342968/
+
+Шум Перлина | https://habrahabr.ru/post/342906/
+
+Машинное обучение своими руками (часть 2). Сервис для классификации обращений в тех. поддержку | https://habrahabr.ru/company/okdesk/blog/342796/
+
+Pygest #18. Релизы, статьи, интересные проекты, пакеты и библиотеки из мира Python [5 ноября 2017 — 15 ноября 2017] | https://habrahabr.ru/post/342604/
+
+Автоколебания и резонанс | https://habrahabr.ru/post/342654/
+
+Классификация на гуманитариев и технарей по комментариям в VK | https://habrahabr.ru/post/342572/
+
+Синтаксический анализ в NLTK. Продолжение | https://habrahabr.ru/post/342162/
+
+Пишем x86-64 JIT-комплятор с нуля в стоковом Python | https://habrahabr.ru/post/342410/
+
+Как программно управлять WiFi маршрутизатором TP-Link с помощью Python requests | https://habrahabr.ru/post/342194/
+
+Руководство к созданию собственного когортного отчёта по возвратности | https://habrahabr.ru/post/342108/
+
+Запуск/отладка Python скриптов в контейнерах LXC/LXD из под VS Code | https://habrahabr.ru/post/342080/
+
+Как быстро настроить email-аутентификацию в Django | https://habrahabr.ru/post/341704/
+
+Генерация кода на Python при помощи Hy | https://habrahabr.ru/post/342044/
+
+Оптимизация портфеля ценных бумаг средствами Python | https://habrahabr.ru/post/341992/
+
+«Рок это жёстко» или я.музыка как граф | https://habrahabr.ru/company/semrush/blog/337216/
+
+ScadaPy — использование OPC UA | https://habrahabr.ru/post/341728/
+
+Предсказание связей в социальных сетях: используем точки перехода | https://habrahabr.ru/post/341718/
+
+Народный мониторинг ESP8266 MQTT Micropython | https://habrahabr.ru/post/341716/
+
+Телеграм-бот для домашнего видео-наблюдения из подручных материалов | https://habrahabr.ru/post/341678/
+
+Пишем список дел на Python 3 для Android через QPython3 и SL4A | https://habrahabr.ru/post/341580/
+
+Анонс Moscow Python Meetup #50 | https://habrahabr.ru/company/rambler-co/blog/341578/
+
+Анонс Moscow Spark #3 | https://habrahabr.ru/company/rambler-co/blog/341394/
+
+Математическая модель динамики финансового рынка | https://habrahabr.ru/post/341268/
+
+Убираем радиальное искажение с фото и видео при помощи библиотеки openCV и языка python | https://habrahabr.ru/post/341160/
+
+Хронология уровня CO в атмосфере США (решение задачи Kaggle с помощью Python+Feature Engineering) | https://habrahabr.ru/post/341130/
+
+Синтаксический анализ в NLTK | https://habrahabr.ru/post/340574/
+
+Математическая модель вибрационного уровнемера с резонатором в виде консольной эллиптической трубки | https://habrahabr.ru/post/340982/
+
+Мониторинг событий git clone и git push на локальном GitLab сервере | https://habrahabr.ru/post/340768/
+
+Где перспективно и адекватно использовать Python | https://habrahabr.ru/post/340894/
+
+Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи | https://habrahabr.ru/post/340792/
+
+Введение в Beautiful Capi, инструмент создания С++ оберток для С++ библиотек | https://habrahabr.ru/post/340770/
+
+«4 свадьбы и одни похороны» или линейная регрессия для анализа открытых данных правительства Москвы | https://habrahabr.ru/post/340698/
+
+Расширяем и используем Flatpages в Django. Встраиваем CKEditor | https://habrahabr.ru/post/340686/
+
+Пишем простой счётчик уникальных слов на Python с GUI на Tkinter | https://habrahabr.ru/post/340634/
+
+“Без data engineer-а ценность модели аналитика стремится к нулю” — интервью с дата инженером Николаем Марковым | https://habrahabr.ru/company/newprolab/blog/340582/
+
+Определение устойчивости систем автоматического управления промышленными роботами | https://habrahabr.ru/post/340554/
+
+Code review по-человечески (часть 1) | https://habrahabr.ru/post/340550/
+
+Руководство по созданию расширений для Jinja2 | https://habrahabr.ru/post/340254/
+
+5 причин, по которым Python достаточно мощный для Google | https://habrahabr.ru/post/340494/
+
+До конференции Moscow Python осталось два дня. Что интересного в программе? | https://habrahabr.ru/company/Voximplant/blog/340414/
+
+Сравнение и создание морфологических анализаторов в NLTK | https://habrahabr.ru/post/340404/
+
+Символьное решение задач нелинейного программирования | https://habrahabr.ru/post/340364/
+
+ScadaPy возможности применения modbus протокола | https://habrahabr.ru/post/340196/
+
+Русскоязычный чат-бот Boltoon: создаем виртуального собеседника | https://habrahabr.ru/post/340190/
+
+Цветы, муха и хорошо отрепетированное случайное машинное обучение | https://habrahabr.ru/post/339994/
+
+История взлома всех игр в Telegram | https://habrahabr.ru/post/339596/
+
+AMA. Avito. Backend | https://habrahabr.ru/company/avito/blog/339996/
+
+Как научить свою нейросеть анализировать морфологию | https://habrahabr.ru/post/339954/
+
+Jupyter Widgets для реализации UI машины Тьюринга | https://habrahabr.ru/post/339914/
+
+Ломаем модифицированный AES-256 | https://habrahabr.ru/post/339910/
+
+Обзор фреймворка Luigi для построения последовательностей выполнения задач | https://habrahabr.ru/company/otus/blog/339904/
+
+AMA, или спроси бэкендера из Avito: анонс | https://habrahabr.ru/company/avito/blog/339826/
+
+Расширение аналитических возможностей метода линейного программирования средствами Python | https://habrahabr.ru/post/339594/
+
+Простая Scada на Python и Arduino | https://habrahabr.ru/post/339800/
+
+Книга «Python для сложных задач: наука о данных и машинное обучение» | https://habrahabr.ru/company/piter/blog/339766/
+
+Как получать оповещения от Jupyter notebook в Telegram? | https://habrahabr.ru/post/339682/
+
+Простая Scada на Python (продолжение) | https://habrahabr.ru/post/339678/
+
+Что делать, если Instagram не дал доступ к API? Дополнение | https://habrahabr.ru/post/339620/
+
+Математическая модель жидкостного тахометра на Python | https://habrahabr.ru/post/339562/
+
+Как отличать птиц от цветов. Или цветы от птиц | https://habrahabr.ru/post/338548/
+
+Снизить косты? Easy | https://habrahabr.ru/post/339552/
+
+Airflow — инструмент, чтобы удобно и быстро разрабатывать и поддерживать batch-процессы обработки данных | https://habrahabr.ru/company/mailru/blog/339392/
+
+Торговый робот для веб-дизайнеров | https://habrahabr.ru/company/exante/blog/339446/
+
+Django ORM — медленный? Оптимизируем (хардкорно) | https://habrahabr.ru/post/339420/
+
+Изучаем блокчейн на практике | https://habrahabr.ru/company/everydaytools/blog/339280/
+
+Зачем мне гибкость Python, если мне запрещают ей пользоваться? | https://habrahabr.ru/post/339272/
+
+Английские субтитры с Лео | https://habrahabr.ru/post/339258/
+
+Submit the cool project: свой API-client с одного конфигурационного файла | https://habrahabr.ru/post/339150/
+
+Пишем генератор ip-адресов на Python со свистелками, дуделками и графической оболочкой Tkinter | https://habrahabr.ru/post/339124/
+
+Простая Scada на Python | https://habrahabr.ru/post/339008/
+
+Изменился способ создания чат-ботов в Viber | https://habrahabr.ru/post/338970/
+
+Веб-сервер — ваша первая сетевая программа Arduino | https://habrahabr.ru/post/338844/
+
+Свой сервер обложек на Python для интернет-радио | https://habrahabr.ru/post/338564/
+
+О классификации методов преобразования Фурье на примерах их программной реализации средствами Python | https://habrahabr.ru/post/338704/
+
+Визуализация результатов выборов в Москве на карте в Jupyter Notebook | https://habrahabr.ru/company/ods/blog/338554/
+
+Есть ли OpenVPN GUI для Linux? | https://habrahabr.ru/post/338390/
+
+Прототипирование в среде Python-Arduino | https://habrahabr.ru/post/337986/
+
+Режем XML по разметке XQuery | https://habrahabr.ru/post/338060/
+
+Kaggle: как наши сеточки считали морских львов на Алеутских островах | https://habrahabr.ru/company/ods/blog/337548/
+
+«Используй Силу машинного обучения, Люк!» или автоматическая классификация светильников по КСС | https://habrahabr.ru/post/338124/
+
+И снова о кешировании в Django | https://habrahabr.ru/post/337998/
+
+Методы разработки потока программного обеспечения датчиков движения, работающих с Arduino | https://habrahabr.ru/post/337982/
+
+Анализируем требования рынка для data scientist | https://habrahabr.ru/post/337124/
+
+О-о-очень долгожданный релиз Sublime Text 3.0 | https://habrahabr.ru/post/337882/
+
+Яндекс.Блиц. Почему и какие алгоритмические задачи нужно уметь решать, работая в поиске | https://habrahabr.ru/company/yandex/blog/337690/
+
+Машинное обучение руками «не программиста»: классификация клиентских заявок в тех.поддержку (часть 1) | https://habrahabr.ru/company/okdesk/blog/337278/
+
+Сегментация лица на селфи без нейросетей | https://habrahabr.ru/company/ods/blog/336594/
+
+Pygest #17. Релизы, статьи, интересные проекты из мира Python [29 августа 2017 — 11 сентября 2017] | https://habrahabr.ru/post/337628/
+
+CaptureManager SDK | https://habrahabr.ru/post/337190/
+
+Использование Python для обработки в реальном масштабе времени информации от датчиков, работающих с Arduino | https://habrahabr.ru/post/337494/
+
+Итерируемый объект, итератор и генератор | https://habrahabr.ru/post/337314/
+
+AsyncIO для практикующего python-разработчика | https://habrahabr.ru/post/337420/
+
+Что за чёрт, Python | https://habrahabr.ru/company/mailru/blog/337364/
+
+Учим робота готовить пиццу. Часть 2: Состязание нейронных сетей | https://habrahabr.ru/post/337398/
+
+ИИ для покера: как научить алгоритмы блефовать | https://habrahabr.ru/company/sberbank/blog/337264/
+
+Как создать расистский ИИ, даже не пытаясь. Часть 2 | https://habrahabr.ru/company/microsoft/blog/337272/
+
+Какой язык программирования выбрать для работы с данными? | https://habrahabr.ru/post/337330/
+
+Новости онлайн-курсов Mail.Ru Group: «Программирование на Python» | https://habrahabr.ru/company/mailru/blog/336880/
+
+Тестируем асинхронный код с помощью PyTest (перевод) | https://habrahabr.ru/company/otus/blog/337108/
+
+PyTorch — ваш новый фреймворк глубокого обучения | https://habrahabr.ru/post/334380/
+
+“Восстание МашинLearning” или совмещаем хобби по Data Science и анализу спектров лампочек | https://habrahabr.ru/post/337040/
+
+Лепим тулбар на PyQt, экспортируем данные в Excel и HTML | https://habrahabr.ru/post/336716/
+
+Оптимизация процесса поиска нарушителей земельного законодательства | https://habrahabr.ru/post/336972/
+
+Простые модели экономической динамики на Python | https://habrahabr.ru/post/336946/
+
+Спектроскоп-калейдоскоп | https://habrahabr.ru/post/336932/
+
+Быстрый тест производительности Python для вычислительных задач | https://habrahabr.ru/post/336684/
+
+Submit the cool project: библиотека-костяк utbone для юнит-тестирования | https://habrahabr.ru/post/336622/
+
+Pygest #16. Релизы, статьи, интересные проекты из мира Python [15 августа 2017 — 28 августа 2017] | https://habrahabr.ru/post/336416/
+
+Решение прямой и двойственной задачи линейного программирования средствами Python | https://habrahabr.ru/post/336480/
+
+Точим себе инструмент на PyQt | https://habrahabr.ru/post/336478/
+
+Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих | https://habrahabr.ru/company/ods/blog/335998/
+
+Как создать расистский ИИ, даже не пытаясь. Часть 1 | https://habrahabr.ru/company/microsoft/blog/336358/
+
+Российские девушки в Data Science. Часть 1 | https://habrahabr.ru/company/newprolab/blog/336256/
+
+Trafaret как парсер. Реализация JSON Schema | https://habrahabr.ru/post/336282/
+
+Машинное обучение: от Ирисов до Телекома | https://habrahabr.ru/company/billing/blog/334738/
+
+Kaggle Mercedes и кросс-валидация | https://habrahabr.ru/company/ods/blog/336168/
+
+Тавтологические тесты | https://habrahabr.ru/company/badoo/blog/336194/
+
+Нейроаутентификация: введение в биометрическую аутентификацию | https://habrahabr.ru/post/336198/
+
+Управление памятью в Python | https://habrahabr.ru/company/mailru/blog/336156/
+
+Некоторые приемы функционального программирования в Python | https://habrahabr.ru/post/336160/
+
+Библиотека python-selvpcclient | https://habrahabr.ru/company/selectel/blog/336066/
+
+Игровая модель поведения на рынке двух конкурирующих фирм на Python | https://habrahabr.ru/post/335972/
+
+Встроенные кнопки в Telegram Bot API | https://habrahabr.ru/post/335886/
+
+Мемоизация и каррирование (Python) | https://habrahabr.ru/post/335866/
+
+Скачиваем фото из Instagram с помощью бота Вконтакте | https://habrahabr.ru/post/335828/
+
+Всё познаётся в сравнении, или реализация одной простенькой задачи на python и tcl | https://habrahabr.ru/post/335842/
+
+PYCON RUSSIA 2017: видео всех докладов и презентации | https://habrahabr.ru/company/it_people/blog/335684/
+
+Второе издание книги «Изучаем Python. Программирование игр, визуализация данных, веб-приложения» | https://habrahabr.ru/company/piter/blog/335824/
+
+Kaggle: анализ местности Амазонки по спутниковым снимкам | https://habrahabr.ru/post/335786/
+
+Python и графический интерфейс для утилит командной строки Network Security Services | https://habrahabr.ru/post/335712/
+
+Визуализация результатов латентно-семантического анализа средствами Python | https://habrahabr.ru/post/335668/
+
+Подробное руководство по созданию и развертыванию чата на Tornado + Telegram | https://habrahabr.ru/post/335660/
+
+Автоматизация рыбной ловли для World of Warcraft | https://habrahabr.ru/post/335580/
+
+Pygest #15. Релизы, статьи, интересные проекты из мира Python [01 августа 2017 — 14 августа 2017] | https://habrahabr.ru/post/335538/
+
+Метод оптимизации Trust-Region DOGLEG. Пример реализации на Python | https://habrahabr.ru/post/335224/
+
+Учим робота готовить пиццу. Часть 1: Получаем данные | https://habrahabr.ru/post/335444/
+
+Резервное копирование базы mysql и файлов на удаленный FTP — Python 3 | https://habrahabr.ru/post/335440/
+
+OpenDataScience и Mail.Ru Group проведут открытый курс по машинному обучению | https://habrahabr.ru/company/ods/blog/334960/
+
+Начало работы с Wagtail CMS (Django) и GraphQL | https://habrahabr.ru/post/335128/
+
+Основы работы с LongPoll сервером ВКонтакте | https://habrahabr.ru/post/335106/
+
+Решение закрытой транспортной задачи с дополнительными условиями средствами Python | https://habrahabr.ru/post/335104/
+
+Ограничения глубинного обучения и будущее | https://habrahabr.ru/post/335026/
+
+Создаем массу асинхронных запросов при помощи Grequests | https://habrahabr.ru/post/334970/
+
+Пишем бота для Slack на Python | https://habrahabr.ru/post/334678/
+
+Карта самоорганизации (Self-orginizing map) на TensorFlow | https://habrahabr.ru/post/334810/
+
+Как я сделал самый быстрый ресайз изображений. Часть 3, числа с фиксированной точкой | https://habrahabr.ru/post/334790/
+
+Генератор кликов на Python для программы Data Engineer | https://habrahabr.ru/company/newprolab/blog/334756/
+
+Тематическое моделирование средствами BigARTM | https://habrahabr.ru/post/334668/
+
+GeekUniversity открывает набор студентов на факультет Python-разработки | https://habrahabr.ru/company/mailru/blog/334532/
+
+Pygest #14. Релизы, статьи, интересные проекты из мира Python [18 июля 2017 — 31 июля 2017] | https://habrahabr.ru/post/334474/
+
+Интерфейс vs interface | https://habrahabr.ru/post/332578/
+
+Что необходимо для качественной Web разработки? | https://habrahabr.ru/company/otus/blog/334328/
+
+SOAP и REST сервисы с помощью Python-библиотеки Spyne | https://habrahabr.ru/post/334290/
+
+Призрак локомотива или биржевой рынок через призму корреляций | https://habrahabr.ru/post/334288/
+
+Автоматизация IP-сети. Часть3 – Мониторинг TCP аномалий | https://habrahabr.ru/post/333768/
+
+Как научить свою нейросеть генерировать стихи | https://habrahabr.ru/post/334046/
+
+Использование VK Streaming API с оповещением в Telegram | https://habrahabr.ru/post/333942/
+
+Британские спутниковые снимки 2: как все было на самом деле | https://habrahabr.ru/company/ods/blog/330118/
+
+Getsploit: поиск и загрузка эксплойтов по агрегированной базе данных | https://habrahabr.ru/post/333808/
+
+Книга «Python. Уроки» | https://habrahabr.ru/post/333672/
+
+Emacs + удобный менеджер окон и буферов | https://habrahabr.ru/post/333640/
+
+Яндекс открывает технологию машинного обучения CatBoost | https://habrahabr.ru/company/yandex/blog/333522/
+
+QML: как легко получать футболки в конкурсах mail.ru по машинному обучению | https://habrahabr.ru/post/333554/
+
+Электронная демократия или как собрать и обработать данные по голосованию (и явке) за реновацию в Москве | https://habrahabr.ru/post/333540/
+
+Книга «Автостопом по Python» | https://habrahabr.ru/company/piter/blog/333498/
+
+Кроссплатформенный IoT: Использование Azure CLI и Azure IoT Hub | https://habrahabr.ru/company/microsoft/blog/333530/
+
+Машинное обучение и поиск темной материи: соревнование от ЦЕРНа и Яндекса | https://habrahabr.ru/company/yandex/blog/333490/
+
+Чудесный мир Word Embeddings: какие они бывают и зачем нужны? | https://habrahabr.ru/company/ods/blog/329410/
+
+Использование нейронных сетей для распознавания рукописных цифр Часть 1 | https://habrahabr.ru/post/333492/
+
+Pygest #13. Релизы, статьи, интересные проекты из мира Python [04 июля 2017 — 17 июля 2017] | https://habrahabr.ru/post/333444/
+
+Разработка скриптов-обёрток с помощью инструмента Sparrow | https://habrahabr.ru/post/333410/
+
+Метод BFGS или один из самых эффективных методов оптимизации. Пример реализации на Python | https://habrahabr.ru/post/333356/
+
+Делаем сервис по распознаванию изображений с помощью TensorFlow Serving | https://habrahabr.ru/company/ods/blog/332584/
+
+Вышел Upsource 2017.2 с поддержкой внешних инспекций кода, Python, NPM и многим другим | https://habrahabr.ru/company/JetBrains/blog/333034/
+
+Как мы упоролись и откалибровали кофе-машину на спектрофотометре | https://habrahabr.ru/post/331754/
+
+IceCash 2.0 Web АРМ Кассира и АИС по обмену данными с кассами под Linux на Python | https://habrahabr.ru/post/323100/
+
+Автоматизируем десктопный GUI на Python + pywinauto: как подружиться c MS UI Automation | https://habrahabr.ru/post/323962/
+
+Как мы ловим Deadlock`и на PostgreSQL и чиним их | https://habrahabr.ru/company/wargaming/blog/323354/
+
+Интервью с программистом из Тинькофф Банка Андреем Степановым о языке Python и ML | https://habrahabr.ru/company/it_people/blog/332870/
+
+Линейное программирование в python силами библиотеки scipy | https://habrahabr.ru/post/332866/
+
+Интервью с разработчиком из Venmo Ниной Захаренко о языке Python и не только | https://habrahabr.ru/company/it_people/blog/332760/
+
+Программный сбор данных о котировках | https://habrahabr.ru/post/332700/
+
+Автоматизация IP-сети. Часть2 – Мониторинг скорости открытия Веб страниц | https://habrahabr.ru/post/332690/
+
+Спасёт ли Python от казни? | https://habrahabr.ru/post/332620/
+
+Анонс Moscow Spark #2 | https://habrahabr.ru/company/rambler-co/blog/332546/
+
+Использование утилит timeout & strace для мониторинга неактивности пользователя для разрыва соединения Shellinabox | https://habrahabr.ru/post/332544/
+
+Вырастаем над проблемами Python | https://habrahabr.ru/company/avito/blog/332484/
+
+Как пройти собеседование в компанию мечты? Советы от тимлидов IT-компаний | https://habrahabr.ru/company/it_people/blog/332468/
+
+Про аналитику и серебряные пули или «При чем здесь Рамблер/топ-100?» | https://habrahabr.ru/company/rambler-co/blog/332202/
+
+Как искать людей в числе Пи и при чем тут Python | https://habrahabr.ru/company/otus/blog/332180/
+
+Pygest #12. Релизы, статьи, интересные проекты из мира Python [20 июня 2017 — 03 июля 2017] | https://habrahabr.ru/post/332114/
+
+Метод оптимизации Нелдера — Мида. Пример реализации на Python | https://habrahabr.ru/post/332092/
+
+Автоэнкодеры в Keras, часть 6: VAE + GAN | https://habrahabr.ru/post/332074/
+
+Интеграция 1С с DLL с помощью Python | https://habrahabr.ru/post/332082/
+
+Делаем data science-портфолио: история через данные | https://habrahabr.ru/post/331528/
+
+Вероятностный и информационный анализ результатов измерений на Python | https://habrahabr.ru/post/332066/
+
+Автоэнкодеры в Keras, Часть 5: GAN(Generative Adversarial Networks) и tensorflow | https://habrahabr.ru/post/332000/
+
+Использование Python и Excel для обработки и анализа данных. Часть 2: библиотеки для работы с данными | https://habrahabr.ru/company/otus/blog/331998/
+
+Дни открытых дверей перед запуском нового курса по Python | https://habrahabr.ru/company/otus/blog/331956/
+
+Получаем фотографии NASA с Марса с помощью aiohttp | https://habrahabr.ru/post/331834/
+
+Руководство: как использовать Python для алгоритмической торговли на бирже. Часть 2 | https://habrahabr.ru/company/itinvest/blog/331940/
+
+Использование Python и Excel для обработки и анализа данных. Часть 1: импорт данных и настройка среды | https://habrahabr.ru/company/otus/blog/331746/
+
+Автоэнкодеры в Keras, Часть 4: Conditional VAE | https://habrahabr.ru/post/331664/
+
+Дискриминация котов: веб-трекинг через невидимые картинки | https://habrahabr.ru/post/326070/
+
+Подбор закона распределения случайной величины по данным статистической выборки средствами Python | https://habrahabr.ru/post/331560/
+
+Автоэнкодеры в Keras, Часть 3: Вариационные автоэнкодеры (VAE) | https://habrahabr.ru/post/331552/
+
+Руководство: как использовать Python для алгоритмической торговли на бирже. Часть 1 | https://habrahabr.ru/company/itinvest/blog/331542/
+
+Автоэнкодеры в Keras, Часть 2: Manifold learning и скрытые (latent) переменные | https://habrahabr.ru/post/331500/
+
+Автоэнкодеры в Keras, Часть 1: Введение | https://habrahabr.ru/post/331382/
+
+Машинное обучение для страховой компании: Исследуем алгоритмы | https://habrahabr.ru/company/microsoft/blog/331484/
+
+Программа PYCON RUSSIA готова: 25 докладов от спикеров из Disney, Facebook, Spotify, PyPy, Тинькофф Банк, Яндекс | https://habrahabr.ru/company/it_people/blog/331336/
+
+Как выигрывать в конкурсах репостов Вконтакте? | https://habrahabr.ru/post/331312/
+
+CameraTablet — как сделать графический планшет при помощи веб-камеры | https://habrahabr.ru/post/331288/
+
+Программируем в мире Minecraft | https://habrahabr.ru/company/microsoft/blog/331034/
+
+Pygest #11. Релизы, статьи, интересные проекты из мира Python [6 июня 2017 — 19 июня 2017] | https://habrahabr.ru/post/331154/
+
+Моделирование переходных процессов при коммутации электрической цепи средствами Python | https://habrahabr.ru/post/330990/
+
+Разбираемся в джунглях программирования, или почему Маугли дружил с Python? | https://habrahabr.ru/company/otus/blog/330824/
+
+Нейрокурятник: часть 4 — итоговая модель и код на прод | https://habrahabr.ru/post/330738/
+
+Отзывчивые столбчатые диаграммы с Bokeh, Flask и Python 3 | https://habrahabr.ru/post/330706/
+
+Решение задач линейного программирования с использованием Python | https://habrahabr.ru/post/330648/
+
+Набор на курс Python: почему мы думаем, что Python 2.7. — это серьезно, а Python 3 — модно | https://habrahabr.ru/company/otus/blog/330606/
+
+Генерируем произвольные последовательности на выводах платы Raspberry Pi | https://habrahabr.ru/company/dataart/blog/330536/
+
+Предварительная программа PyConRu-2017: выступят докладчики из Disney, Facebook, Яндекса, JetBrains, Тинькофф Банка | https://habrahabr.ru/company/it_people/blog/330408/
+
+Pygest #10. Релизы, статьи, интересные проекты из мира Python [23 мая 2017 — 5 июня 2017] | https://habrahabr.ru/post/330182/
+
+Да, Python медленный, но меня это не волнует | https://habrahabr.ru/post/329988/
+
+Именованные кортежи. Пишем код на Python чище | https://habrahabr.ru/post/330034/
+
+Анализ рынка недвижимости методом случайного леса | https://habrahabr.ru/post/329504/
+
+Решение задачи коммивояжёра методом ближайшего соседа на Python | https://habrahabr.ru/post/329604/
+
+Эксперименты с malloc и нейронными сетями | https://habrahabr.ru/company/mailru/blog/329518/
+
+Расчет оттока клиентов банка (решение задачи с помощью Python) | https://habrahabr.ru/post/329334/
+
+8 навыков, необходимых в профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329234/
+
+Сравнение производительности иерархических моделей Django и PostgreSQL | https://habrahabr.ru/post/329204/
+
+Pygest #9. Релизы, статьи, интересные проекты из мира Python [8 мая 2017 — 22 мая 2017] | https://habrahabr.ru/post/329168/
+
+Обзор профессии Data Scientist | https://habrahabr.ru/company/netologyru/blog/329068/
+
+Разбиение слов на элементы таблицы Менделеева | https://habrahabr.ru/company/mailru/blog/328986/
+
+Нейрокурятник часть 2: про бота, который постит фотографии | https://habrahabr.ru/post/328940/
+
+Механизм подсчета нейронной сети в PL/SQL для распознавания рукописных цифр | https://habrahabr.ru/company/pgdayrussia/blog/328824/
+
+Web crawler с использованием Python и Chrome | https://habrahabr.ru/post/328800/
+
+О том, как в Instagram отключили сборщик мусора Python и начали жить | https://habrahabr.ru/company/wunderfund/blog/328404/
+
+Анализ комуникации из Tor сети в инфраструктуру с помощью ELK стека | https://habrahabr.ru/post/327048/
+
+Проблемы современного Data Science | https://habrahabr.ru/company/dataschool/blog/328556/
+
+Модель ПИД регулятора на Python | https://habrahabr.ru/post/328608/
+
+10 основных ошибок, совершаемых Django-разработчиками | https://habrahabr.ru/company/mailru/blog/328352/
+
+Метрики в задачах машинного обучения | https://habrahabr.ru/company/ods/blog/328372/
+
+Пишем скрипт для синхронизации папок с Google Drive, плюс учимся использовать Google Drive API | https://habrahabr.ru/post/328248/
+
+Изменяемые свойства классов в питоне: польза для дела и мелкого хулиганства | https://habrahabr.ru/post/328234/
+
+Нейрокурятник ч.0. Или нейро- без курятника | https://habrahabr.ru/post/328138/
+
+Pygest #8. Релизы, статьи, интересные проекты из мира Python [11 апреля 2017 — 7 мая 2017] | https://habrahabr.ru/post/328130/
+
+Профилирование и оптимизация символьных вычислений для будущего сервера | https://habrahabr.ru/post/328170/
+
+Простая модель адаптивного фильтра Калмана средствами Python | https://habrahabr.ru/post/328146/
+
+Есть и нет | https://habrahabr.ru/post/328050/
+
+Нейрокурятник: часть 1. Установка Raspberry Pi и камеры в курятник и их настройка | https://habrahabr.ru/post/327978/
+
+От двух камертонов из опытов Лиссажу к одной эллиптической уровнемерной трубке с шагом в столетия и всё на Python | https://habrahabr.ru/post/327768/
+
+Юбилейный PYCON RUSSIA пройдёт 16-17 июля | https://habrahabr.ru/company/it_people/blog/327744/
+
+Поиск в Django REST Framework с помощью Elasticsearch | https://habrahabr.ru/post/327694/
+
+PyMC3 — MCMC и не только | https://habrahabr.ru/company/ods/blog/322716/
+
+«Почему вы просто не перепишете это на язык X?» | https://habrahabr.ru/company/everydaytools/blog/327070/
+
+Открытый курс машинного обучения. Тема 9. Анализ временных рядов с помощью Python | https://habrahabr.ru/company/ods/blog/327242/
+
+GoTo Data Science Challenge 2: гранты на летнюю школу | https://habrahabr.ru/company/goto/blog/327206/
+
+The uWSGI Spooler | https://habrahabr.ru/company/selectel/blog/326956/
+
+Публикация постов Вконтакте через Trello | https://habrahabr.ru/post/327216/
+
+Предсказываем популярность статьи на TJ | https://habrahabr.ru/post/327072/
+
+Библиотеки для глубокого обучения: Keras | https://habrahabr.ru/company/ods/blog/325432/
+
+Как я сделал самый быстрый ресайз изображений. Часть 2, SIMD | https://habrahabr.ru/post/326900/
+
+Чат-бот для ВКонтакте на Python на Callback API | https://habrahabr.ru/post/326898/
+
+Обманываем время: о тестировании с «подставным» временем на Linux и Docker | https://habrahabr.ru/post/326772/
+
+Открытый курс машинного обучения. Тема 8. Обучение на гигабайтах с Vowpal Wabbit | https://habrahabr.ru/company/ods/blog/326418/
+
+Data science и качественный код | https://habrahabr.ru/post/326656/
+
+Введение в машинное обучение с tensorflow | https://habrahabr.ru/post/326650/
+
+Как быстрее всего сфоткать 35 билбордов в Москве | https://habrahabr.ru/post/324864/
+
+Библиотека глубокого обучения Tensorflow | https://habrahabr.ru/company/ods/blog/324898/
+
+Векторные модели и русская литература | https://habrahabr.ru/post/326380/
+
+Создание сапера при помощи модуля Tkinter | https://habrahabr.ru/post/326358/
+
+Как написать чат-бота для vk.com за 3 минуты | https://habrahabr.ru/post/326312/
+
+Модель колебательного звена в режиме резонансных колебаний на Python | https://habrahabr.ru/post/326296/
+
+Нескучные запросы с Django ORM Annotate и Query Expressions | https://habrahabr.ru/post/326278/
+
+Начинаем работу Python + Qt5 + QML урок №1 | https://habrahabr.ru/post/326268/
+
+Когда GitHub выстреливает вам в голову, создается новый фреймворк. Идея, концепция и реализация «Rutetider» | https://habrahabr.ru/post/326222/
+
+Pygest #7. Релизы, статьи, интересные проекты из мира Python [28 марта 2017 — 10 апреля 2017] | https://habrahabr.ru/post/326030/
+
+Kaggle: Британские спутниковые снимки. Как мы взяли третье место | https://habrahabr.ru/company/ods/blog/325096/
+
+Нейронные сети в борьбе с раком | https://habrahabr.ru/company/mailru/blog/325908/
+
+7 вредных советов проектировщику REST API | https://habrahabr.ru/post/325884/
+
+Книга «Программируем на Python» | https://habrahabr.ru/company/piter/blog/325782/
+
+Байесовские многорукие бандиты против A/B тестов | https://habrahabr.ru/company/ods/blog/325416/
+
+Модель колебательного звена с применением символьного и численного решений дифференциального уравнения на SymPy и NumPy | https://habrahabr.ru/post/325650/
+
+Собираем проект на python3&PyQT5 под Windows, используя PyInstaller | https://habrahabr.ru/post/325626/
+
+Митап по Apache Spark | https://habrahabr.ru/company/rambler-co/blog/325622/
+
+UFOCTF 2017: декомпилируем Python в задании King Arthur (PPC600) | https://habrahabr.ru/post/325580/
+
+Открытый курс машинного обучения. Тема 6. Построение и отбор признаков | https://habrahabr.ru/company/ods/blog/325422/
+
+Спектральный анализ сигналов нелинейных звеньев АСУ на Python | https://habrahabr.ru/post/325502/
+
+Украшаем жизнь с помощью gdb PrettyPrinting API | https://habrahabr.ru/post/325472/
+
+Создаем бота для Skype. Шаг за шагом, через REST API и на Python | https://habrahabr.ru/post/325456/
+
+Moscow Python Meetup №44 | https://habrahabr.ru/company/rambler-co/blog/325378/
+
+Python Junior Meetup #2 | https://habrahabr.ru/company/rambler-co/blog/325374/
+
+Скачиваем историю переписки со всеми пользователями ВКонтакте с помощью Python | https://habrahabr.ru/post/325368/
+
+Запускаем простой блог на Wagtail CMS (Django) — часть 3, заключительная | https://habrahabr.ru/post/325110/
+
+Сможет ли Питон прожевать миллион запросов в секунду? | https://habrahabr.ru/company/southbridge/blog/323556/
+
+Открытый курс машинного обучения. Тема 5. Композиции: бэггинг, случайный лес | https://habrahabr.ru/company/ods/blog/324402/
+
+Варим ML Boot Camp III: Starter Kit | https://habrahabr.ru/post/324924/
+
+Pygest #6. Релизы, статьи, интересные проекты из мира Python [14 марта 2017 — 27 марта 2017] | https://habrahabr.ru/post/324852/
+
+Как я SQLAlchemy удобной сделал | https://habrahabr.ru/post/324876/
+
+Соревнование mlbootcamp от mail.ru. Кратко о рецепте второго места | https://habrahabr.ru/post/324732/
+
+Предсказываем будущее с помощью библиотеки Facebook Prophet | https://habrahabr.ru/company/ods/blog/323730/
+
+Решение задачи кредитного скоринга методом логистической регрессии | https://habrahabr.ru/post/324614/
+
+Использование ArcGIS API for Python в Jupyter Notebook | https://habrahabr.ru/company/technoserv/blog/324124/
+
+Вызов функций Go из других языков | https://habrahabr.ru/company/mailru/blog/324250/
+
+Обзор uniset2-testsuite — небольшого велосипеда для функционального тестирования. Часть 2 | https://habrahabr.ru/post/323444/
+
+Открытый курс машинного обучения. Тема 4. Линейные модели классификации и регрессии | https://habrahabr.ru/company/ods/blog/323890/
+
+Yapf — причесываем код Python автокорректором | https://habrahabr.ru/post/324336/
+
+Обзор uniset2-testsuite — небольшого велосипеда для функционального тестирования | https://habrahabr.ru/post/323290/
+
+Как искать паттерны в биржевых данных и использовать их в торговле? | https://habrahabr.ru/post/324244/
+
+Поиск пути в играх Tower Defense | https://habrahabr.ru/post/324090/
+
+Что нам стоит сервис email-маркетинга построить? Взгляд изнутри, часть вторая | https://habrahabr.ru/post/324174/
+
+Метод гармонической линеаризации средствами Python | https://habrahabr.ru/post/324158/
+
+Библиотеки для глубокого обучения Theano/Lasagne | https://habrahabr.ru/company/ods/blog/323272/
+
+Asterisk и не только. Виртуальные файловые системы. Шаг назад или два вперед? | https://habrahabr.ru/post/323740/
+
+История о том, как я парсер для дневника мастерил | https://habrahabr.ru/post/323856/
+
+Открытый курс машинного обучения. Тема 3. Классификация, деревья решений и метод ближайших соседей | https://habrahabr.ru/company/ods/blog/322534/
+
+Pygest #5. Релизы, статьи, интересные проекты из мира Python [28 февраля 2017 — 13 марта 2017] | https://habrahabr.ru/post/323614/
+
+Моделирование электрической цепи | https://habrahabr.ru/post/323590/
+
+Speech AI с Python & Google API | https://habrahabr.ru/post/323570/
+
+Анализ рекомендаций книг для разработчиков со Stack Overflow средствами Python | https://habrahabr.ru/company/everydaytools/blog/323522/
+
+Полный латентно семантический анализ средствами Python | https://habrahabr.ru/post/323516/
+
+Открытый курс машинного обучения. Тема 2: Визуализация данных c Python | https://habrahabr.ru/company/ods/blog/323210/
+
+Проблемы тестирования: почему 100% покрытие кода это плохо | https://habrahabr.ru/company/pt/blog/323294/
+
+Программа на Python для статистического анализа текста | https://habrahabr.ru/post/323252/
+
+Реализация на Python многопоточной обработки данных для парсинга сайтов | https://habrahabr.ru/post/323238/
+
+Почему в сорок лет я решил поменять профессию и стать программистом Python | https://habrahabr.ru/post/323236/
+
+Программа на PYTHON для определения авторства текста по частоте появления новых слов | https://habrahabr.ru/post/323206/
+
+Новости наших онлайн-курсов: обновлен курс «Web-технологии» и добавлен «Постановка задачи на разработку ПО» | https://habrahabr.ru/company/mailru/blog/323056/
+
+Python на службе у конструктора. Укрощаем API Kompas 3D | https://habrahabr.ru/post/323078/
+
+Снова о числах с плавающей точкой | https://habrahabr.ru/post/322984/
+
+Простая программа на Python для гиперболической аппроксимации статистических данных | https://habrahabr.ru/post/322954/
+
+Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas | https://habrahabr.ru/company/ods/blog/322626/
+
+Как двухлетний репозиторий на GitHub стал трендовым за 48 часов | https://habrahabr.ru/company/everydaytools/blog/322694/
+
+Pygest #4. Релизы, статьи, интересные проекты из мира Python [14 февраля 2017 — 27 февраля 2017] | https://habrahabr.ru/post/322642/
+
+Парсим weblancer используя PROXY | https://habrahabr.ru/post/322608/
+
+Скачивание аудио с сайта mail.ru | https://habrahabr.ru/post/322502/
+
+Интересные особенности Python, о которых вы могли не догадываться | https://habrahabr.ru/post/322360/
+
+Как я сделал самый быстрый ресайз изображений. Часть 1, общие оптимизации | https://habrahabr.ru/post/322352/
+
+Почему не нужно учить python первым языком | https://habrahabr.ru/post/322332/
+
+Книга «Основы Data Science и Big Data. Python и наука о данных» | https://habrahabr.ru/company/piter/blog/322194/
+
+Базовые принципы машинного обучения на примере линейной регрессии | https://habrahabr.ru/company/ods/blog/322076/
+
+Telegram-бот, webhook и 50 строк кода | https://habrahabr.ru/post/322078/
+
+MOOC «Программирование и разработка веб-приложений»: анонс и интервью с автором курса Университета ИТМО | https://habrahabr.ru/company/spbifmo/blog/322048/
+
+Телеграм бот на Python с использованием только requests | https://habrahabr.ru/post/322050/
+
+Змея и кокос | https://habrahabr.ru/post/322000/
+
+PyNSK #12 — февральская встреча питонистов Новосибирска | https://habrahabr.ru/post/321884/
+
+Python: Работа с базой данных, часть 1/2: Используем DB-API | https://habrahabr.ru/post/321510/
+
+Создаём нейронную сеть InceptionV3 для распознавания изображений | https://habrahabr.ru/post/321834/
+
+Как я сделал самый быстрый ресайз изображений. Часть 0 | https://habrahabr.ru/post/321744/
+
+Уравнение теплопроводности в tensorflow | https://habrahabr.ru/post/321734/
+
+Pygest #3. Релизы, статьи, интересные проекты из мира Python [30 января 2017 — 13 февраля 2017] | https://habrahabr.ru/post/321662/
+
+Kaggle и Linux. Digit Recognizer for analysts (для начинающих аналитиков) | https://habrahabr.ru/post/321350/
+
+Есть две функции | https://habrahabr.ru/post/321292/
+
+Дедлайн конкурса Stepik Contest продлен до 31 марта, самое время создавать IT-задачи | https://habrahabr.ru/company/stepic/blog/321114/
+
+Python: коллекции, часть 4/4: Все о выражениях-генераторах, генераторах списков, множеств и словарей | https://habrahabr.ru/post/320288/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 5 | https://habrahabr.ru/post/320928/
+
+Pygest #2. Релизы, статьи, интересные проекты из мира Python [15 января 2017 — 29 января 2017] | https://habrahabr.ru/post/320590/
+
+Автоматическая визуализация python-кода. Часть вторая: реализация | https://habrahabr.ru/post/320674/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 4 | https://habrahabr.ru/post/320662/
+
+Протокол OSSI и Avaya Communication Manager | https://habrahabr.ru/post/320596/
+
+Простой вариант системы видеонаблюдения в помещении с использованием датчика движения и Python на платформе Raspberry | https://habrahabr.ru/post/320450/
+
+What the flask? | https://habrahabr.ru/post/320360/
+
+Пишем обертку над API, делаем из нее PIP-пакет, подключаем тестирование от Travis CI и смотрим на лицензии открытого ПО | https://habrahabr.ru/post/320264/
+
+Pygest #1. Релизы, статьи, интересные проекты из мира Python [01 января 2017 — 15 января 2017] | https://habrahabr.ru/post/320200/
+
+Ищем знакомые лица | https://habrahabr.ru/post/317798/
+
+Автоматическая визуализации python-кода с использованием блок-схем | https://habrahabr.ru/post/320184/
+
+Bitcoin in a nutshell — Blockchain | https://habrahabr.ru/post/320176/
+
+Bitcoin in a nutshell — Mining | https://habrahabr.ru/post/320178/
+
+Как я парсил всю базу данных игр Metacritic-а | https://habrahabr.ru/post/319966/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 3 | https://habrahabr.ru/post/319898/
+
+Python: коллекции, часть 3/4: объединение коллекций, добавление и удаление элементов | https://habrahabr.ru/post/319876/
+
+Генерация фиктивных данных с Mimesis: Часть II | https://habrahabr.ru/post/319880/
+
+Bitcoin in a nutshell — Transaction | https://habrahabr.ru/post/319860/
+
+Bitcoin in a nutshell — Protocol | https://habrahabr.ru/post/319862/
+
+Bitcoin in a nutshell — Cryptography | https://habrahabr.ru/post/319868/
+
+Как различать британскую и американскую литературу с помощью машинного обучения | https://habrahabr.ru/post/319826/
+
+Автопоиск IP-адресов | https://habrahabr.ru/post/319706/
+
+Приглашаем на Moscow Python Meetup 19 января | https://habrahabr.ru/company/mailru/blog/319684/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 2 | https://habrahabr.ru/post/319558/
+
+VoIP телефония. Asterisk. Нестандартный подход ко всему. Часть 1 | https://habrahabr.ru/post/319352/
+
+Прямой доступ к диску из python (simhdd) | https://habrahabr.ru/post/319384/
+
+Python: коллекции, часть 2/4: индексирование, срезы, сортировка | https://habrahabr.ru/post/319200/
+
+Работа с DSL: создание собственного анализатора с использованием библиотек Python | https://habrahabr.ru/company/pt/blog/319320/
+
+Машинное обучение — это легко | https://habrahabr.ru/post/319288/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 2 | https://habrahabr.ru/post/319202/
+
+Библиотека vk для работы с VK API на Python | https://habrahabr.ru/post/319178/
+
+Переходим c Tarantool 1.5 на 1.6 | https://habrahabr.ru/company/mailru/blog/319170/
+
+Python: коллекции, часть 1/4: классификация, общие подходы и методы, конвертация | https://habrahabr.ru/post/319164/
+
+Чистая архитектура в Python: пошаговая демонстрация. Часть 1 | https://habrahabr.ru/post/319126/
+
+Спектроскоп Салтана: лапласианы для фана | https://habrahabr.ru/post/319060/
+
+Стильный код на Python, или учимся использовать Flake8 | https://habrahabr.ru/company/dataart/blog/318776/
+
+Как запрограммировать пословицу? | https://habrahabr.ru/post/318680/
+
+Быстрый Data Mining или сравнение производительности C# vs Python (pandas-numpy-skilearn) | https://habrahabr.ru/post/318484/
+
+Опыт портирования проекта на Python 3 | https://habrahabr.ru/post/318384/
+
+Релиз Python 3.6 — да, теперь он с нами | https://habrahabr.ru/company/kingservers/blog/318354/
+
+Финансовый Telegram-бот за 30 минут с Market Data API | https://habrahabr.ru/company/exante/blog/318272/
+
+Быстрый курс Redux + websockets для бэкендера | https://habrahabr.ru/post/318148/
+
+Генерация фиктивных данных с Mimesis: Часть I | https://habrahabr.ru/post/318120/
+
+Отладка вашей ОС: урок по выделению памяти | https://habrahabr.ru/company/mailru/blog/317476/
+
+Синтаксический анализ текстов с помощью SyntaxNet | https://habrahabr.ru/post/317564/
+
+Миллион строк в секунду из Postgres с помощью Python | https://habrahabr.ru/post/317394/
+
+Сравнение стратегий игры 2048 | https://habrahabr.ru/post/317370/
+
+Сравнение производительности GPU-расчетов на Python и C | https://habrahabr.ru/post/317328/
+
+Классические парсер-комбинаторы на Python | https://habrahabr.ru/post/317304/
+
+Telegram-bot: моя история. Часть вторая | https://habrahabr.ru/post/317280/
+
+Moscow Python Meetup №41 | https://habrahabr.ru/company/rambler-co/blog/317216/
+
+Сказ о том как я свой REST фреймворк с веб-сокетами писал | https://habrahabr.ru/post/274353/
+
+Документация Linux ядра переходит на Python Sphinx | https://habrahabr.ru/post/316758/
+
+Особенности Jupyter Notebook, о которых вы (может быть) не слышали | https://habrahabr.ru/company/wunderfund/blog/316826/
+
+Telegram-bot: моя история. Часть первая | https://habrahabr.ru/post/316868/
+
+Усовершенствование системы видеонаблюдения с использованием OpenCV и Telegram bot | https://habrahabr.ru/post/316760/
+
+Пишем диалоговые Telegram-боты на Питоне | https://habrahabr.ru/post/316666/
+
+Релиз PyCharm 2016.3: Полная поддержка Python 3.6, улучшения в Python консоли, обозревателе переменных, и многое другое | https://habrahabr.ru/company/JetBrains/blog/316068/
+
+Как остановить отток людей с онлайн-курса и заодно попасть на хакатон | https://habrahabr.ru/company/goto/blog/315828/
+
+Учимся работать с asyncio+aiohttp: в Москве пройдет курс от Core-разработчика Python | https://habrahabr.ru/company/pt/blog/315818/
+
+Файловая система, дешево и быстро | https://habrahabr.ru/post/315654/
+
+Квантизация изображений | https://habrahabr.ru/post/315490/
+
+Сотворение мира Опыт создания разумной жизни своими руками | https://habrahabr.ru/post/315424/
+
+Узнаем текущую погоду и прогноз простеньким скриптом на Python'е | https://habrahabr.ru/post/315264/
+
+Одна простенькая задачка. Быстро, красиво или чисто? | https://habrahabr.ru/post/315170/
+
+Как мы запускали Хабр для гуманитариев | https://habrahabr.ru/company/uteam/blog/314796/
+
+Рекомендации на основе изображений товаров | https://habrahabr.ru/post/314490/
+
+Немного фактов о python asyncio | https://habrahabr.ru/post/314606/
+
+Как устроен парсер Python, и как втрое уменьшить потребление им памяти | https://habrahabr.ru/post/314062/
+
+И снова автоматизация: Python «дополз» до маршрутизаторов | https://habrahabr.ru/company/huawei/blog/314008/
+
+Подключение шлюзов Intel для интернета вещей к AWS и обмен данными с облаком при помощи Node-RED или Python | https://habrahabr.ru/company/intel/blog/314282/
+
+Как pdf (изображения) преобразовать в текстовый txt-файл | https://habrahabr.ru/post/314274/
+
+Как запускать Python через SAS? | https://habrahabr.ru/post/314268/
+
+Kivy. От создания до production один шаг. Часть 1 | https://habrahabr.ru/post/314236/
+
+Парсинг JSON — это минное поле | https://habrahabr.ru/company/mailru/blog/314014/
+
+Как развернуть для своей команды архив slack сообщений c синхронизацией и поиском | https://habrahabr.ru/post/313972/
+
+Стратегии расширения Django User Model | https://habrahabr.ru/post/313764/
+
+Automatic Relevance Determination или машинное обучение когда данных очень мало | https://habrahabr.ru/post/313566/
+
+Книга «Изучаем Python. Программирование игр, визуализация данных, веб-приложения» | https://habrahabr.ru/company/piter/blog/313510/
+
+Deep Learning: Сравнение фреймворков для символьного глубокого обучения | https://habrahabr.ru/company/microsoft/blog/313318/
+
+Kivy — еще проще, еще нативнее | https://habrahabr.ru/post/313160/
+
+Как я читал показания датчиков через SNMP (Python+AgentX+systemd+Raspberry Pi) и соорудил ещё одну мониторилку | https://habrahabr.ru/post/311502/
+
+«Привет, Siri. Включи обогреватели» — Интеграция умного дома на базе NooLite с Apple HomeKit | https://habrahabr.ru/post/312668/
+
+Разработчик недели: Katie McLaughlin | https://habrahabr.ru/post/312980/
+
+Видео-чат через браузер. WebRTC — это просто, если есть библиотека | https://habrahabr.ru/post/312868/
+
+Скрапинг бесконечно прокручивающейся страницы | https://habrahabr.ru/post/312816/
+
+Python-шпаргалка. Часть 1 — Язык и Типы объектов | https://habrahabr.ru/post/312674/
+
+«Сферический трейдер в вакууме»: инструкция по применению | https://habrahabr.ru/post/312096/
+
+Почему важно проверять значения возвращаемые функцией? | https://habrahabr.ru/post/312658/
+
+NooLite + Raspberry Pi + Telegram = умный дом | https://habrahabr.ru/post/312328/
+
+Python для математических вычислений | https://habrahabr.ru/post/312268/
+
+«Flaskr» — введение во Flask, разработка через тестирование (TDD) и jQuery | https://habrahabr.ru/post/312110/
+
+Интервью с Ильёй, который выступит на Moscow Python уже послезавтра | https://habrahabr.ru/company/Voximplant/blog/311538/
+
+Отчет с Moscow Python Meetup 22 сентября | https://habrahabr.ru/company/mailru/blog/311736/
+
+Встречайте Dictator! Маленький и добрый | https://habrahabr.ru/post/311820/
+
+Что нужно знать, уметь и понимать, чтобы не иметь проблем с поиском работы питонистом | https://habrahabr.ru/post/311642/
+
+Лекции Техносферы. 1 семестр. Введение в анализ данных (весна 2016) | https://habrahabr.ru/company/mailru/blog/311694/
+
+Интервью с Кириллом Борисовым, который выступит на Moscow Python Conf 12 октябя | https://habrahabr.ru/company/Voximplant/blog/311536/
+
+0b1001 путей решения задачи перевода чисел в римскую запись | https://habrahabr.ru/post/311678/
+
+Создание языка программирования. Часть 0 | https://habrahabr.ru/post/311604/
+
+Обработка голосовых запросов в Telegram с помощью Yandex SpeechKit Cloud | https://habrahabr.ru/post/311578/
+
+Руби(н) vs Питон: самые важные вопросы и ответы | https://habrahabr.ru/post/311036/
+
+Принципы реактивного программирования на примере простого RSS-агрегатора с использованием ReactiveX для Python | https://habrahabr.ru/post/310824/
+
+Тонкости построения сетевых моделей в Python | https://habrahabr.ru/post/310216/
+
+Еще один из способов обойти блокировку PornHub | https://habrahabr.ru/post/310192/
+
+Progrobot: бот справки по языкам программирования | https://habrahabr.ru/post/310162/
+
+Анимированные QR коды | https://habrahabr.ru/post/310052/
+
+Автоматическое развертывание приложения ElasticBeanstalk c помощью Bitbucket Pipelines | https://habrahabr.ru/post/309980/
+
+Конвертируем форум из MS Exchange в MySQL с помощью Python | https://habrahabr.ru/post/309712/
+
+Вычисление 1000000 знаков числа Пи. На iPhone | https://habrahabr.ru/post/309674/
+
+Приглашаем на Python-Meetup 22 сентября | https://habrahabr.ru/company/mailru/blog/309576/
+
+Как я создавал убийцу HTML | https://habrahabr.ru/post/309552/
+
+Script-server. WebUI для удалённого запуска ваших скриптов | https://habrahabr.ru/post/309518/
+
+AWS ElasticBeanstalk: Tips and Tricks | https://habrahabr.ru/post/309274/
+
+Пишем изящный парсер на Питоне | https://habrahabr.ru/post/309242/
+
+Интервью с Артёмом Малышевым, который выступит на Moscow Python в октябре | https://habrahabr.ru/company/Voximplant/blog/309168/
+
+ML boot camp 2016 новичок в ТОП 10 | https://habrahabr.ru/post/309008/
+
+Baidu опубликовала демо инструмента глубинного обучения PaddlePaddle | https://habrahabr.ru/post/308994/
+
+Интервью с первым спикером Moscow Python | https://habrahabr.ru/company/Voximplant/blog/308726/
+
+Scrapy: собираем данные и сохраняем в базу данных | https://habrahabr.ru/post/308660/
+
+Математика для искусственных нейронных сетей для новичков, часть 3 — градиентный спуск продолжение | https://habrahabr.ru/post/308604/
+
+Статическая и динамическая типизация | https://habrahabr.ru/post/308484/
+
+Как мы написали чат для приложения банка «Открытие» | https://habrahabr.ru/company/redmadrobot/blog/308398/
+
+Немного про кино или как делать интерактивные визуализации в python | https://habrahabr.ru/post/308162/
+
+Обучение с подкреплением для самых маленьких | https://habrahabr.ru/post/308094/
+
+Индивидуальный дневной лимит на исходящие звонки (ограничение платных направлений) | https://habrahabr.ru/post/308086/
+
+Управление зависимостями в Python: похоже, уже можно пользоваться | https://habrahabr.ru/company/Voximplant/blog/307848/
+
+Книга «Простой Python. Современный стиль программирования» | https://habrahabr.ru/company/piter/blog/307838/
+
+Создание WebView приложения на базе AWS ApiGateway и AWS Lambda | https://habrahabr.ru/post/307692/
+
+Бот-кассир на pywinauto, или GUI automation для платежного шлюза | https://habrahabr.ru/post/307420/
+
+Генерируем красивую Google-таблицу из своей программы (используя Google Sheets API v4) | https://habrahabr.ru/post/305378/
+
+Семантический перенос строк | https://habrahabr.ru/post/307388/
+
+Web приложение для работы с markdown заметками | https://habrahabr.ru/post/307318/
+
+Математика для искусственных нейронных сетей для новичков, часть 2 — градиентный спуск | https://habrahabr.ru/post/307312/
+
+Сколько нужно нейронов, чтобы узнать, разведён ли мост Александра Невского? | https://habrahabr.ru/post/307218/
+
+Пульт управления серверным демоном своими руками | https://habrahabr.ru/post/306808/
+
+Сделай сам веб-сервис с асинхронными очередями и параллельным исполнением | https://habrahabr.ru/post/307140/
+
+PYCONRU-2016: видео всех докладов и презентации | https://habrahabr.ru/company/it_people/blog/307044/
+
+Математика для искусственных нейронных сетей для новичков, часть 1 — линейная регрессия | https://habrahabr.ru/post/307004/
+
+О некоторых горячих клавишах в PyCharm | https://habrahabr.ru/post/306838/
+
+Часть 1. Платформа СППР Универсальные алгоритмы | https://habrahabr.ru/post/306820/
+
+Сколько нужно нейронов, чтобы распознать сводку моста? | https://habrahabr.ru/post/306798/
+
+Распределенное выполнение Python-задач с использованием Apache Mesos. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/306548/
+
+Информационное сокрытие в PDF документах | https://habrahabr.ru/post/301346/
+
+Оверинженеринг при документировании ViewSets Django REST Framework | https://habrahabr.ru/post/306538/
+
+Часть 2. СППР Универсальные алгоритмы – Алгоритм для службы поддержки | https://habrahabr.ru/post/306450/
+
+Дорабатываем HTTP-кэширование в Django | https://habrahabr.ru/company/redmadrobot/blog/305774/
+
+Простые сладкие приложения с Kivy | https://habrahabr.ru/post/306300/
+
+Сравниваем реализацию языков Python и Ruby по плотности ошибок | https://habrahabr.ru/company/pvs-studio/blog/306204/
+
+Вышла asyncpg — клиентская библиотека PostgreSQL для Python/asyncio | https://habrahabr.ru/post/306196/
+
+Авторизация в VK для людей | https://habrahabr.ru/post/306022/
+
+Визуализация статистики ЕВРО-2016 с помощью Python и Inkscape | https://habrahabr.ru/post/305986/
+
+Решение задачи «Оценка производительности» mlbootcamp.ru | https://habrahabr.ru/post/305872/
+
+Транспорт-бот Jabber конференций для Telegram | https://habrahabr.ru/post/305858/
+
+Библиотека f для функционального программирования в Питоне | https://habrahabr.ru/post/305750/
+
+Hello, TensorFlow. Библиотека машинного обучения от Google | https://habrahabr.ru/post/305578/
+
+Мониторинг торрентов и автоматическая скачка | https://habrahabr.ru/post/305574/
+
+Развёртывание Django 1.9 на IIS 7+ | https://habrahabr.ru/post/305566/
+
+typus — локальный типограф на python | https://habrahabr.ru/post/303608/
+
+Workflow просмотра сериалов для Alfred | https://habrahabr.ru/post/305346/
+
+Cериалокачалка на python3 с поддержкой расширений | https://habrahabr.ru/post/304770/
+
+Вычисления с плавающей точкой: можно ли доверять результатам? | https://habrahabr.ru/post/305276/
+
+Машинное обучение вместо DPI. Строим классификатор трафика | https://habrahabr.ru/post/304926/
+
+Приглашаем в Одессу на WebCamp 2016! Море, отдых и любимые технологии | https://habrahabr.ru/company/flyelephant/blog/304848/
+
+Platypus и Packages. Создаём и устанавливаем программы на macOS | https://habrahabr.ru/post/304778/
+
+JetBrains и Django анонсировали 30% распродажу PyCharm, c передачей всех денег в фонд Django | https://habrahabr.ru/company/JetBrains/blog/304682/
+
+Пишем текстовую игру на Python/Ren'Py ч.2: мини-игры и подводные камни | https://habrahabr.ru/post/304530/
+
+Генератор музыки на базе кодогенератора | https://habrahabr.ru/post/304496/
+
+Python: строим распределенную систему c PySyncObj | https://habrahabr.ru/company/wargaming/blog/301398/
+
+Игра Престолов. Поиск авторов диалогов в книгах | https://habrahabr.ru/post/304230/
+
+Пишем свой мессенджер P2P | https://habrahabr.ru/post/304150/
+
+Автоматизация развертывания Docker-контейнеров на произвольной инфраструктуре | https://habrahabr.ru/company/redmadrobot/blog/303118/
+
+Как работает метод главных компонент (PCA) на простом примере | https://habrahabr.ru/post/304214/
+
+PyCon Russia 2016: последние новости и финальная программа | https://habrahabr.ru/company/it_people/blog/304180/
+
+Разработка скрипта для сравнения вкусов людей | https://habrahabr.ru/post/304082/
+
+Решаем Hola Javascript Challenge с помщью LSTM | https://habrahabr.ru/post/303914/
+
+PyCon 2016 в Портленде: видео всех значимых докладов и мастер-классов | https://habrahabr.ru/post/303882/
+
+Интервью с программистом из Google Мартином Горнером о TensorFlow | https://habrahabr.ru/company/it_people/blog/303832/
+
+Telegram бот для службы поддержки (часть 1) | https://habrahabr.ru/company/spottle/blog/303528/
+
+Интервью с python-разработчиком Александром Кошкиным о языке Python и жизни в США | https://habrahabr.ru/company/it_people/blog/303654/
+
+Философия Channels | https://habrahabr.ru/post/303640/
+
+Emacs как редактор кода для Python и Golang | https://habrahabr.ru/post/303600/
+
+Stepic.org в Telegram: как мы разрабатывали бота и что из этого получилось | https://habrahabr.ru/company/spbau/blog/303478/
+
+Куда пойти Python’исту: Что интересного будет на конференции PyCon-2016 | https://habrahabr.ru/company/pt/blog/303502/
+
+Пишем текстовую игру на Python/Ren'Py | https://habrahabr.ru/post/303476/
+
+Интервью с автором Flask Армином Ронахером | https://habrahabr.ru/company/it_people/blog/303420/
+
+В эту пятницу пройдет 7-я конференция сообществ DevConf 2016 | https://habrahabr.ru/company/devconf/blog/303292/
+
+Автоматизируем проверку кода или еще немного о pre-commit hook'ах | https://habrahabr.ru/post/302932/
+
+Как живут и работают разработчики в Чехии: интервью с Александром Сибиряковым из Scrapinghub | https://habrahabr.ru/company/it_people/blog/303218/
+
+Автоматизируем покупку Ж/Д билетов Укрзалізниці | https://habrahabr.ru/post/303150/
+
+PyConRu: зачем? | https://habrahabr.ru/company/it_people/blog/303084/
+
+Интервью с Андреем Светловым о языке Python и не только | https://habrahabr.ru/company/it_people/blog/302970/
+
+Как не дать частым релизам поломать ваше API, или пишем авто-тесты для открытого API и шлем результат в Telegram бот | https://habrahabr.ru/post/302736/
+
+Самоконфигурирующиеся приложения | https://habrahabr.ru/post/302726/
+
+Как я программирую на Python | https://habrahabr.ru/post/302694/
+
+Пишем свой канал-бот для Telegram как у Хабра на Python | https://habrahabr.ru/post/302688/
+
+Встраивание PyPy кода в приложения на C | https://habrahabr.ru/post/302050/
+
+World of Tanks: от чего же зависит винрейт танков? | https://habrahabr.ru/post/302536/
+
+Как использовать Python для «выпаса» ваших неструктурированных данных | https://habrahabr.ru/company/piter/blog/302520/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 2-я) | https://habrahabr.ru/post/302204/
+
+Шлюзы Intel для интернета вещей: отправка сообщений MQTT-брокеру с использованием Python | https://habrahabr.ru/company/intel/blog/302338/
+
+Система сбора измерений на примере метеостанции | https://habrahabr.ru/post/302164/
+
+Статистика распределения доменов по AS, IP, NS, MX и прочим параметрам | https://habrahabr.ru/post/301894/
+
+Предварительная программа PyCon Russia готова. Выступят докладчики из США, Англии, Франции, Чехии, Украины и России | https://habrahabr.ru/company/it_people/blog/301950/
+
+Запись входящих звонков | https://habrahabr.ru/post/301708/
+
+Осторожно — Бульдозер (сборка apk пакетов в Kivy) | https://habrahabr.ru/post/301776/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 1-я) | https://habrahabr.ru/post/301712/
+
+Обработка данных в iPython notebook для задач SEO | https://habrahabr.ru/company/rambler-co/blog/301640/
+
+Pillow-SIMD | https://habrahabr.ru/post/301576/
+
+API к zadarma.com на perl и python | https://habrahabr.ru/post/301356/
+
+Python: Мышление программиста | https://habrahabr.ru/post/301344/
+
+Может ли машина научить английскому языку? | https://habrahabr.ru/company/skyeng/blog/301150/
+
+Удаляйте свой мертвый код | https://habrahabr.ru/post/283560/
+
+ЭЦП стран СНГ на Python | https://habrahabr.ru/company/virgilsecurity/blog/301048/
+
+Распознаем лица на фото с помощью Python и OpenCV | https://habrahabr.ru/post/301096/
+
+Змеиный фрукт или фруктовый Питон? | https://habrahabr.ru/post/300960/
+
+Тестируем aiohttp с помощью простого чата | https://habrahabr.ru/post/300942/
+
+PyNSK #8 — майская встреча Новосибирского Python сообщества | https://habrahabr.ru/post/283572/
+
+Собираем базу аудиокниг для удобной фильтрации | https://habrahabr.ru/post/283538/
+
+RTKLib + Python + Google Maps JS API. Делаем свой навигатор | https://habrahabr.ru/post/283418/
+
+DevConf-2016: программа мастер-классов | https://habrahabr.ru/company/devconf/blog/283468/
+
+Использование python библиотеки Exscript для работы с оборудованием Cisco и Huawei по SSH | https://habrahabr.ru/post/283364/
+
+DevConf-2016: программа конференции | https://habrahabr.ru/company/devconf/blog/283340/
+
+Moscow Python Meetup №35 (23 мая, 19:00) | https://habrahabr.ru/company/rambler-co/blog/283334/
+
+Используем недокументированное API сайта captionbot.ai | https://habrahabr.ru/post/283112/
+
+Meduza.io: а как же лайки? | https://habrahabr.ru/post/283058/
+
+Чем заменить ELK для просмотра логов? | https://habrahabr.ru/post/283026/
+
+Вышел uvloop — продвинутая реализация цикла событий для asyncio в Python | https://habrahabr.ru/post/282972/
+
+Python: язык программирования, созданный сообществом | https://habrahabr.ru/post/282678/
+
+Piter Py #3 — личные впечатления | https://habrahabr.ru/post/282656/
+
+Мартовский Python Meetup: Python VS Erlang и возможности PostgreSQL | https://habrahabr.ru/company/wargaming/blog/282622/
+
+Расширение функциональных возможностей Splunk – это просто | https://habrahabr.ru/post/282423/
+
+cx_Freeze + virtualenv = баги и зигзаги | https://habrahabr.ru/post/282359/
+
+Как я писал книгу 'Python Machine Learning' | https://habrahabr.ru/company/piter/blog/282167/
+
+Разработка на Django под Windows с помощью Docker-machine | https://habrahabr.ru/post/282099/
+
+Moscow Python Meetup №34 (27 апреля) | https://habrahabr.ru/company/rambler-co/blog/282039/
+
+Как стать IT-принцессой | https://habrahabr.ru/post/282005/
+
+Развертывание стека Django на Ubuntu в облаке Microsoft Azure | https://habrahabr.ru/company/microsoft/blog/281899/
+
+PyNSK #7 — апрельская встреча Новосибирского Python сообщества | https://habrahabr.ru/post/281867/
+
+Kite: контекстные подсказки и автодополнение при написании кода | https://habrahabr.ru/post/281861/
+
+Разделение отсканированных вместе фотографий (Python 3 + OpenCV3) | https://habrahabr.ru/post/281669/
+
+Сравнение языков программирования относительно работы на фриланс-бирже upwork.com + опрос | https://habrahabr.ru/post/280041/
+
+Пишем бота Slack для получения комментариев из VK на Python | https://habrahabr.ru/post/281597/
+
+Разработка для коптеров | https://habrahabr.ru/post/281591/
+
+Что такое грамматическая эволюция + легкая реализация | https://habrahabr.ru/post/281404/
+
+Плагины в кармане или перочинный ножик в программе | https://habrahabr.ru/post/281332/
+
+Действительно полезное приложение для Digium телефонов | https://habrahabr.ru/post/281146/
+
+Lambdify — новый взгляд на работу с AWS Lambda | https://habrahabr.ru/post/281216/
+
+Пять причин, почему мы отказались от русского перевода конференции “Piter Py” | https://habrahabr.ru/company/Voximplant/blog/281088/
+
+Производственный календарь на Python | https://habrahabr.ru/post/281040/
+
+Чтение больших объемов данных в Python/Postgresql | https://habrahabr.ru/post/280822/
+
+Разрушители мифов: Автоматическое решение Google Recaptcha | https://habrahabr.ru/post/280812/
+
+PyCon Russia переезжает в Москву | https://habrahabr.ru/company/it_people/blog/280692/
+
+Стеганография в акроконструкциях. Алгоритм DANTSOVA | https://habrahabr.ru/post/280646/
+
+В помощь DevOps: сборщик прошивок для сетевых устройств на Debian за 1008 часов | https://habrahabr.ru/company/edison/blog/280550/
+
+16 ядер и 30 Гб под капотом Вашего Jupyter за $0.25 в час | https://habrahabr.ru/post/280562/
+
+Автоматизация оформления документации | https://habrahabr.ru/post/280476/
+
+Видео-туториалы запуска вычислительных задач на Python, R, С++, Octave и Blender во FlyElephant | https://habrahabr.ru/company/flyelephant/blog/280472/
+
+Программирование на Python — курс для желающих узнать о нём больше или изучить ещё один язык программирования | https://habrahabr.ru/company/spbau/blog/280426/
+
+Отчёт с Moscow Python Meetup 18 марта | https://habrahabr.ru/company/mailru/blog/280360/
+
+Web Scraping с помощью python | https://habrahabr.ru/post/280238/
+
+Разработка сервиса по загрузке альбомов | https://habrahabr.ru/post/279977/
+
+Отбираем валидные мобильные номера друзей VK на Python | https://habrahabr.ru/post/279803/
+
+Делаем автономную фотобудку на raspberry pi | https://habrahabr.ru/post/279785/
+
+Парадокс Симпсона и немного Pandas | https://habrahabr.ru/post/279665/
+
+Настройка LaTeX-шаблонов для Jupyter notebook | https://habrahabr.ru/post/279601/
+
+Модули расширения Python на Rust | https://habrahabr.ru/company/dataart/blog/279561/
+
+Что есть в Visual Studio 2015 для разработчика на Python | https://habrahabr.ru/company/microsoft/blog/279455/
+
+Линейные модели: простая регрессия | https://habrahabr.ru/post/279117/
+
+Приглашаем на Moscow Python Meetup 18 марта | https://habrahabr.ru/company/mailru/blog/279323/
+
+Pandasql vs Pandas для решения задач анализа данных | https://habrahabr.ru/post/279213/
+
+Как можно упростить себе жизнь с помощью Telegram-бота | https://habrahabr.ru/post/278847/
+
+Pomp — метафреймворк для парсинга сайтов | https://habrahabr.ru/post/278445/
+
+Как я переизобрел словари в Python | https://habrahabr.ru/post/278075/
+
+Web файловый менеджер Sprut.IO в OpenSource | https://habrahabr.ru/company/beget/blog/277449/
+
+Хуки — это просто (часть 3) | https://habrahabr.ru/company/infopulse/blog/277995/
+
+Собственный модуль settings | https://habrahabr.ru/post/277937/
+
+Фоновое выполнение ячеек в IPython Notebook | https://habrahabr.ru/post/277919/
+
+D std.ndslice как замена Python Numpy | https://habrahabr.ru/post/277715/
+
+Пишем shell скрипты на Python и можно ли заменить им Bash | https://habrahabr.ru/post/277679/
+
+Установка Django-проекта на VPS (centOS 7) [Для новичков] | https://habrahabr.ru/post/277653/
+
+Реверс протокола СКУД RS485 от Perco. Берегите линии своих СКУД от вторжения | https://habrahabr.ru/post/277405/
+
+Глубокое обучение в гараже — Возвращение смайлов | https://habrahabr.ru/post/277403/
+
+Глубокое обучение в гараже — Две сети | https://habrahabr.ru/post/277345/
+
+Многопользовательский онлайн-шутер на WebGL и asyncio, часть вторая | https://habrahabr.ru/post/252575/
+
+Глубокое обучение в гараже — Братство данных | https://habrahabr.ru/post/277267/
+
+Сравниваем цены в книжных интернет магазинах c помощью python, pandas и matplotlib | https://habrahabr.ru/post/276745/
+
+Полноценный REST API для перфекционистов за 5 минут | https://habrahabr.ru/post/276731/
+
+Мониторинг выполнения задач в IPython Notebook | https://habrahabr.ru/post/276725/
+
+Ускорение Python-скриптов без приложения умственных усилий | https://habrahabr.ru/post/276569/
+
+Подборка: Более 70 источников по машинному обучению для начинающих | https://habrahabr.ru/company/spbifmo/blog/276479/
+
+Импорт словаря в Lingualeo.com | https://habrahabr.ru/post/276495/
+
+Книга «Hello World! Занимательное программирование» | https://habrahabr.ru/company/piter/blog/276401/
+
+PyNSK #6 — шестая встреча Новосибирского Python сообщества | https://habrahabr.ru/post/276441/
+
+Контроль над браслетом в ритме BlueZ | https://habrahabr.ru/post/276343/
+
+Moira: Realtime Alerting | https://habrahabr.ru/company/skbkontur/blog/276403/
+
+Машинное обучение от Octave\Matlab к Python | https://habrahabr.ru/post/276369/
+
+How-to: Объектно-ориентированная система бэктестинга на Python | https://habrahabr.ru/company/itinvest/blog/276151/
+
+TensorFlow и логистическая регрессия | https://habrahabr.ru/post/276093/
+
+Python и красивые ножки: как я бы знакомил сына с математикой и программированием | https://habrahabr.ru/post/275963/
+
+Пирожки в дистрибутивной семантике | https://habrahabr.ru/post/275913/
+
+Использование SikuliX в фоновом режиме на Cloud9 | https://habrahabr.ru/company/infopulse/blog/275717/
+
+Linux в кармане — на службе у фотографа | https://habrahabr.ru/post/275595/
+
+FlyElephant как инструмент для вычислений на C++, R, Python или Octave | https://habrahabr.ru/company/flyelephant/blog/275571/
+
+Зачем и как мы бэкапим github | https://habrahabr.ru/post/273513/
+
+Проектирование простых приложений в Flask | https://habrahabr.ru/post/275099/
+
+Мой подход к Class Based Views | https://habrahabr.ru/company/nixsolutions/blog/274995/
+
+Django Single Sign-On и Microsoft Active Directory | https://habrahabr.ru/post/274931/
+
+График счастья с python, pandas и matplotlib | https://habrahabr.ru/post/274927/
+
+Стандарты симметричного шифрования стран СНГ на Python | https://habrahabr.ru/post/273895/
+
+Рекурентная нейронная сеть в 10 строчек кода оценила отзывы зрителей нового эпизода “Звездных войн” | https://habrahabr.ru/company/dca/blog/274027/
+
+Проверяем IronPython и IronRuby с помощью PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/274863/
+
+Использование LSM-движка из SQLite 4 в качестве отдельной NoSQL базы данных с использованием Python | https://habrahabr.ru/company/mailru/blog/274733/
+
+Автоматический запуск Libre/OpenOffice в режиме прослушивания из Python | https://habrahabr.ru/post/274775/
+
+Расчет биномиальных коэффициентов на Си (С++) и Python | https://habrahabr.ru/post/274689/
+
+Незаметные достоинства регулярных выражений в Python | https://habrahabr.ru/company/mailru/blog/274349/
+
+Решение головоломки Галакуб на Питоне | https://habrahabr.ru/post/274527/
+
+Разработка сайта на платформе Django-nonrel | https://habrahabr.ru/post/274431/
+
+Numpy и многопроцессорность | https://habrahabr.ru/post/274331/
+
+Kaggle и Titanic — еще одно решение задачи с помощью Python | https://habrahabr.ru/post/274171/
+
+Прямой доступ к диску из python | https://habrahabr.ru/post/274195/
+
+Moscow Python Meetup №31 | https://habrahabr.ru/company/tceh/blog/273101/
+
+Умножение по методу русских крестьян | https://habrahabr.ru/post/273525/
+
+Python->Cython->C++, да и COM в придачу: написание фреймворка для автотестов | https://habrahabr.ru/post/273401/
+
+Синхронный код в асинхронном Twisted, или сказ о том, как скрестить ежа с ужом | https://habrahabr.ru/post/266887/
+
+Сборка XGBoost для Python под Windows | https://habrahabr.ru/post/273363/
+
+Selenium для Python. Глава 6. Объекты Страницы | https://habrahabr.ru/post/273115/
+
+Парсинг формул в 50 строк на Python | https://habrahabr.ru/post/273253/
+
+Изучаем граф-ориентированную СУБД Neo4j на примере лексической базы Wordnet | https://habrahabr.ru/post/273241/
+
+Проверка теории шести рукопожатий | https://habrahabr.ru/post/273191/
+
+PyOOCalc — Библиотека для генерации отчетов, счетов Libre/Open Office Calc на Python | https://habrahabr.ru/post/273131/
+
+Selenium для Python. Глава 5. Ожидания | https://habrahabr.ru/post/273089/
+
+Как я отлаживал python httplib и httplib2 | https://habrahabr.ru/post/273051/
+
+Внутреннее устройство Python list | https://habrahabr.ru/post/273045/
+
+Поднимаем сложный проект на Django с использованием Docker | https://habrahabr.ru/post/272811/
+
+Python Meetup октябрь: Deliberate Practice и десктоп-приложения на Penta.by | https://habrahabr.ru/company/wargaming/blog/272739/
+
+Простой метапоисковый алгоритм на Python | https://habrahabr.ru/post/272711/
+
+Нейросеть на Python, часть 2: градиентный спуск | https://habrahabr.ru/post/272679/
+
+Калибровка Kinect v2 с помощью OpenCV на Python | https://habrahabr.ru/post/272629/
+
+Django: Как быстро получить ненужные дубликаты в простом QuerySet | https://habrahabr.ru/post/272559/
+
+История одной оптимизации: передача и обработка результатов боя | https://habrahabr.ru/company/wargaming/blog/272265/
+
+Релиз Django 1.9 | https://habrahabr.ru/post/272137/
+
+PyNSK #5 — пятая встреча Новосибирского Python сообщества | https://habrahabr.ru/post/272117/
+
+Библиотека Python 3 для подключения к ЕСИА — esia-connector | https://habrahabr.ru/post/271827/
+
+PythonDigest — выпуск номер 100 и другие замечательные новости | https://habrahabr.ru/post/271729/
+
+Нам нужны не столь мощные языки программирования | https://habrahabr.ru/company/mailru/blog/271585/
+
+Asyncio Tarantool Queue, вставай в очередь | https://habrahabr.ru/company/mailru/blog/271513/
+
+Нейросеть в 11 строчек на Python | https://habrahabr.ru/post/271563/
+
+Хроники лаборатории: как мы молотый кофе считали софтом для анализа клеточных структур | https://habrahabr.ru/post/271405/
+
+Итоги GeekWeek. Как трудоустроиться, на чем разрабатывать и какие системы использовать | https://habrahabr.ru/company/geekbrains/blog/271395/
+
+Копают только вниз | https://habrahabr.ru/company/piter/blog/271347/
+
+Скачивание треков с Autotravel.ru | https://habrahabr.ru/post/271231/
+
+HighLoad++ 2015 глазами иностранного докладчика | https://habrahabr.ru/post/270883/
+
+Семантические технологии просто и доступно на примере родословных | https://habrahabr.ru/post/270857/
+
+Асинхронный Python 3.5 и Mongodb | https://habrahabr.ru/post/270709/
+
+PyNSK #4 — четвертая встреча Новосибирского Python сообщества | https://habrahabr.ru/post/270417/
+
+Некоторые репозитории в помощь изучающим и преподающим Python и машинное обучение | https://habrahabr.ru/post/270449/
+
+Бюджетная рассылка СМС | https://habrahabr.ru/post/261387/
+
+SWAPY с новым генератором кода | https://habrahabr.ru/post/270247/
+
+Событийно-ориентированный бэктестинг на Python шаг за шагом. Часть 5 (и последняя) | https://habrahabr.ru/company/itinvest/blog/270215/
+
+Решение задачи кредитного скоринга в студии Microsoft Azure Machine Learning | https://habrahabr.ru/post/270201/
+
+Python Meetup 25.09.2015: мониторинг производительности и использование BDD | https://habrahabr.ru/company/wargaming/blog/269957/
+
+PyTest | https://habrahabr.ru/post/269759/
+
+Как подружить AWS Lambda и PostgreSQL | https://habrahabr.ru/post/269489/
+
+10 приложений для изучения Python на Android-устройствах | https://habrahabr.ru/post/269411/
+
+Celery: лучшие практики | https://habrahabr.ru/post/269347/
+
+Создание .exe файла для авторизации и взаимодействия с VK API при помощи Python | https://habrahabr.ru/post/269245/
+
+PYCON RUSSIA-2015: видео и презентации докладов | https://habrahabr.ru/company/it_people/blog/269223/
+
+Сервис для системного администратора. Часть 1 | https://habrahabr.ru/post/269163/
+
+Big data, билайн и кококо | https://habrahabr.ru/post/269065/
+
+Удалённое исполнение системных команд по запросу через сокеты на Python 3. Часть 2. Протокол передачи данных | https://habrahabr.ru/post/269019/
+
+Удалённое исполнение системных команд по запросу через сокеты на Python 3 или как я сайты скачивал | https://habrahabr.ru/post/268993/
+
+Событийно-ориентированный бэктестинг на Python шаг за шагом. Часть 4 | https://habrahabr.ru/company/itinvest/blog/268929/
+
+Пишем графическую программу на Python с tkinter | https://habrahabr.ru/post/268531/
+
+Функциональные тесты: Django + Selenium WebDriver и 3 варианта на Ваш выбор | https://habrahabr.ru/post/268385/
+
+Использование Remote API в робосимуляторе V-REP | https://habrahabr.ru/post/268313/
+
+Рекомендательная система на .Net или первые шаги с MyMediaLite | https://habrahabr.ru/post/268073/
+
+PyNSK #3 — третья встреча Новосибирского Python сообщества | https://habrahabr.ru/post/268011/
+
+Наиболее частые проблемы Python и решения (перевод) | https://habrahabr.ru/post/267903/
+
+Перенаправление данных из COM-порта в web. Доработка | https://habrahabr.ru/post/266317/
+
+Moscow Python Meetup в Rambler&Co | https://habrahabr.ru/company/rambler-co/blog/267543/
+
+Python Meetup 28.08.15: полнотекстовый поиск и Europython 2015 | https://habrahabr.ru/company/wargaming/blog/267503/
+
+Алгоритм шифрования RC5 и его реализация на python | https://habrahabr.ru/post/267295/
+
+Python 3.5; async/await | https://habrahabr.ru/post/266743/
+
+Разворачиваем Flask-приложение на Nginx, используя Gunicorn | https://habrahabr.ru/post/267097/
+
+Nginx: защищаем урл одноразовым паролем | https://habrahabr.ru/post/267095/
+
+Написание framework на asyncio, aiohttp и мысли про Python3 часть первая | https://habrahabr.ru/post/242541/
+
+Унификация дизайна со стороны бэкенда: JavaScript на сервере | https://habrahabr.ru/company/mailru/blog/266713/
+
+Работа с данными среднего размера в Python. Pandas и Seaborn | https://habrahabr.ru/post/266289/
+
+Группируем одинаковые приложения из разных магазинов по иконке | https://habrahabr.ru/post/266749/
+
+Snaql. Raw SQL в Python-проектах | https://habrahabr.ru/post/266735/
+
+Скачивание музыки из VK, используя VK api и Python3 | https://habrahabr.ru/post/266671/
+
+Событийно-ориентированный бэктестинг на Python шаг за шагом. Часть 3 | https://habrahabr.ru/company/itinvest/blog/266623/
+
+PYCON RUSSIA 2015: финальная программа | https://habrahabr.ru/company/it_people/blog/266603/
+
+Старый новый pywinauto: автоматизация Windows GUI на Python на примере install/uninstall | https://habrahabr.ru/company/intel/blog/266459/
+
+Мысли о развёртывании веб-приложений на тестовом сервере | https://habrahabr.ru/post/266473/
+
+Программа-помощник для освоения слепой печати на клавиатуре в Linux | https://habrahabr.ru/post/266441/
+
+Защита корпоративных приложений: как стать разработчиком PT Application Firewall | https://habrahabr.ru/company/pt/blog/266415/
+
+Centrifuge + Go = Centrifugo – harder, better, faster, stronger | https://habrahabr.ru/company/mailru/blog/266017/
+
+Работа с текстовыми данными в scikit-learn (перевод документации) — часть 2 | https://habrahabr.ru/post/266025/
+
+Программа конференции PYCON RUSSIA 2015 | https://habrahabr.ru/company/it_people/blog/265953/
+
+Стоимость жилья как функция координат | https://habrahabr.ru/post/265783/
+
+Почему не все так просто с MongoDB | https://habrahabr.ru/post/265747/
+
+Криптография на Python: шифрование информации и создание электронных цифровых подписей с помощью пакета PyCrypto | https://habrahabr.ru/post/265309/
+
+Стабилизация таймлапс-видео на калькуляторе (IPython+OpenCV) | https://habrahabr.ru/post/265155/
+
+Использование фильтра Калмана для определения производных измеряемой величины | https://habrahabr.ru/post/264895/
+
+Можно ли полагаться на данные, извлекаемые WMI классами? | https://habrahabr.ru/post/264717/
+
+Перенаправление данных из COM-порта в Web | https://habrahabr.ru/post/264663/
+
+Погружение в пучину интерпретатора Python. Ч1 | https://habrahabr.ru/post/264609/
+
+Работа с текстовыми данными в scikit-learn (перевод документации) — часть 1 | https://habrahabr.ru/post/264339/
+
+Vagrant, Python, Pycharm = (удобная, работа, Windows) | https://habrahabr.ru/company/dataart/blog/264367/
+
+Запуск тестов OpenStack Keystone в Docker контейнере на Mac | https://habrahabr.ru/post/264365/
+
+Третий PyCon Russia пройдёт в Екатеринбурге 18-19 сентября | https://habrahabr.ru/company/it_people/blog/264347/
+
+Введение в машинное обучение с помощью scikit-learn (перевод документации) | https://habrahabr.ru/post/264241/
+
+Сложности сборки Python3 + Qt5 приложений под Windows | https://habrahabr.ru/post/264233/
+
+ipgeobase в Nginx | https://habrahabr.ru/post/264219/
+
+Событийно-ориентированный бэктестинг на Python шаг за шагом. Часть 2 | https://habrahabr.ru/company/itinvest/blog/264141/
+
+Реализация поискового движка с ранжированием на Python (Часть 3) | https://habrahabr.ru/post/263983/
+
+Реализация поискового движка с ранжированием на Python (Часть 2) | https://habrahabr.ru/post/263913/
+
+Автоматизация ip-сети с помощью подручных инструментов (Python) | https://habrahabr.ru/post/263859/
+
+Django ORM. Добавим сахарку | https://habrahabr.ru/post/263821/
+
+Реализация поискового движка с ранжированием на Python (Часть 1) | https://habrahabr.ru/post/263823/
+
+Python meetup — 2 года | https://habrahabr.ru/company/wargaming/blog/263507/
+
+ZeroRPC — легкая, надежная библиотека для распределенной связи между серверами | https://habrahabr.ru/post/263673/
+
+R и Python — достойные соперники? | https://habrahabr.ru/company/piter/blog/263457/
+
+Мой код не работает :-( | https://habrahabr.ru/company/alconost/blog/263403/
+
+Голосовое управление компьютером и Python | https://habrahabr.ru/post/263423/
+
+Первый опыт участия в kaggle-конкурсе и работа над ошибками | https://habrahabr.ru/post/263399/
+
+Автоматическое определение тональности текста (Sentiment Analysis) | https://habrahabr.ru/post/263171/
+
+Как Python и Jinja могут облегчить жизнь FPGA разработчику | https://habrahabr.ru/post/263005/
+
+Событийно-ориентированный бэктестинг на Python шаг за шагом. Часть 1 | https://habrahabr.ru/company/itinvest/blog/263097/
+
+Автоматизация тестирования веб-приложения с использованием Selenium WebDriver, Python, и Behave | https://habrahabr.ru/post/262929/
+
+Сервис распознавания котов | https://habrahabr.ru/company/ibm_bluemix/blog/262911/
+
+Автоматические миграции в Peewee | https://habrahabr.ru/post/262697/
+
+Инструкция: Как создавать ботов в Telegram | https://habrahabr.ru/post/262247/
+
+Делаем домашнюю ферму для рендеринга видео | https://habrahabr.ru/post/260837/
+
+Создание простейших структур данных с помощью функций в Python | https://habrahabr.ru/post/262021/
+
+Иерархическая классификация сайтов на Python | https://habrahabr.ru/company/dca/blog/261677/
+
+Улучшение производительности Python 2.7 | https://habrahabr.ru/post/261575/
+
+Учим Raspberry Pi принимать Telegram'мы с помощью Bot API и Python | https://habrahabr.ru/post/261473/
+
+Как устроен поиск и парсинг ченьджлогов в AllMyChanges | https://habrahabr.ru/company/allmychanges/blog/261341/
+
+«pip -t» — простая альтернатива virtualenv | https://habrahabr.ru/post/261263/
+
+Ansible и ChatOps или как управлять 100+ серверами из чата | https://habrahabr.ru/post/260917/
+
+5 способов вычисления чисел Фибоначчи: реализация и сравнение | https://habrahabr.ru/post/261159/
+
+Майский Python Meetup: машинное обучение и куда класть исходники | https://habrahabr.ru/company/wargaming/blog/261051/
+
+Moscow Django Meetup №27: как это было | https://habrahabr.ru/company/tceh/blog/260843/
+
+Сбор и визуализация метрик приложения в Graphite и Graph-Explorer | https://habrahabr.ru/post/260753/
+
+Bindings QCustomPlot для Python | https://habrahabr.ru/post/260761/
+
+Исправляем Alt-Tab в LabView | https://habrahabr.ru/post/260723/
+
+DevConf 2015 — сформирована программа конференции | https://habrahabr.ru/company/devconf/blog/260479/
+
+Еще раз о многопоточности в одну строку | https://habrahabr.ru/post/260431/
+
+Примеры использования MongoDB в e-commerce (часть 2) | https://habrahabr.ru/post/260291/
+
+Как мы делали лучший трекер релиз-ноутов | https://habrahabr.ru/company/allmychanges/blog/260275/
+
+LIVR — «независимые от языка правила валидации» или валидация данных без «проблем» | https://habrahabr.ru/post/246521/
+
+Пишем SSL туннель на python | https://habrahabr.ru/post/260085/
+
+Соединяй и властвуй. Нестандартный взгляд на keep-alive | https://habrahabr.ru/company/xakep/blog/259845/
+
+Как я повышал конверсию машинным обучением | https://habrahabr.ru/post/259771/
+
+Python и D | https://habrahabr.ru/post/259727/
+
+Python Meetup 24.04.15: Python-тесты, Rest сервисы на Flask и GUI приложение за 5 минут | https://habrahabr.ru/company/wargaming/blog/259619/
+
+Релиз OpenCV 3.0 с поддержкой Python 3 | https://habrahabr.ru/post/259583/
+
+DevConf 2015 — финальное голосование за доклады. Сделаем программу лучше и полезней | https://habrahabr.ru/company/devconf/blog/259593/
+
+Salt и Ansible — системы управления конфигурацией на языке Python — видео с DevConf 2014 | https://habrahabr.ru/company/devconf/blog/259515/
+
+Управление Windows компьютерами из консоли Linux | https://habrahabr.ru/post/259469/
+
+Вычисляем персонажей гейммастеров в World of Warcraft с помощью Python | https://habrahabr.ru/post/259463/
+
+Wargaming: тыл — фронту! Узнай что у твоего танка под капотом. Python Видео с DevConf 2014 | https://habrahabr.ru/company/devconf/blog/259413/
+
+Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях | https://habrahabr.ru/post/259219/
+
+Sexy primes, «медленный питон» или как я бился о стену непонимания | https://habrahabr.ru/post/259095/
+
+Samba4 — использование Python Scripting Interface | https://habrahabr.ru/post/259029/
+
+Как за полгода разработать многопользовательскую 3D-игру без художников, дизайнеров и моделлеров | https://habrahabr.ru/post/258859/
+
+Пример векторной реализации нейронной сети с помощью Python | https://habrahabr.ru/post/258611/
+
+Исследование защиты Wing IDE | https://habrahabr.ru/post/258613/
+
+Moscow Python Meetup на тему «Async: why and when?» в офисе Rambler&Co | https://habrahabr.ru/company/rambler-co/blog/258371/
+
+DevConf 2015: 38 попугаев или как конференция сообществ разработчиков пытается выжить в блокаде импортозамещения | https://habrahabr.ru/company/devconf/blog/258329/
+
+Kivy и Play Store | https://habrahabr.ru/post/189660/
+
+API RingCloud, всё только начинается | https://habrahabr.ru/company/ringcloud/blog/258311/
+
+Всепогодные митапы, хакатоны, лекции и даже стажировки для ИТ-сообщества | https://habrahabr.ru/company/tceh/blog/258223/
+
+Новый PyCharm 4.5 собрал вместе все инструменты для работы с Python | https://habrahabr.ru/company/JetBrains/blog/258209/
+
+Разворачиваем web-приложение при помощи Fabric | https://habrahabr.ru/post/257671/
+
+Что такого особенного в Nim? | https://habrahabr.ru/post/258119/
+
+Введение в функциональное программирование на Python | https://habrahabr.ru/post/257903/
+
+Ночные кошмары Питона: неявный `this` | https://habrahabr.ru/post/257887/
+
+История одного тестового задания | https://habrahabr.ru/post/257817/
+
+Разгадываем картинку из твиттера компании Intel | https://habrahabr.ru/post/257757/
+
+Жизнь в стиле SMART (продолжение) | https://habrahabr.ru/company/ximad/blog/257055/
+
+Первое знакомство с архитектурой коллекционной карточной игры «Last Argument» | https://habrahabr.ru/post/256889/
+
+Жизнь в стиле SMART | https://habrahabr.ru/company/ximad/blog/256873/
+
+Контейнер в linux, linux в egg, egg в python | https://habrahabr.ru/company/wargaming/blog/256647/
+
+От Python скрипта до WSGI приложения | https://habrahabr.ru/post/256481/
+
+Python Meetup 27.03.15: machine learning, python AST и статистика игроков World of Tanks | https://habrahabr.ru/company/wargaming/blog/256425/
+
+Удаленный запуск в PyCharm Community Edition | https://habrahabr.ru/post/256433/
+
+Запоминаем просмотренные видео на youtube | https://habrahabr.ru/post/255549/
+
+Наш новый проект на Russian StartUp Tour 2015 | https://habrahabr.ru/company/ximad/blog/255975/
+
+Я тебя по сетям вычислю: используем API крупнейших соцсетей в своих корыстных целях | https://habrahabr.ru/company/xakep/blog/254129/
+
+Bubot: Scout — машинка с управлением через веб интерфейс без строчки кода | https://habrahabr.ru/post/255669/
+
+Пишем кросс-платформенную библиотеку на Python | https://habrahabr.ru/company/acronis/blog/249963/
+
+SSO на FreeIPA+Apache+Flask-Login+JWT | https://habrahabr.ru/post/255569/
+
+Легенда об искушении: как использовать Python для автоматизации iOS | https://habrahabr.ru/company/xakep/blog/254127/
+
+Первые две недели курса CS188.1x Artificial Intelligence или самообучение алгоритмам ИИ | https://habrahabr.ru/post/255285/
+
+Frame object в Python. Что с ним можно, а что нельзя (в production и другом приличном месте) делать | https://habrahabr.ru/post/255239/
+
+Собираем свой собственный смартфон | https://habrahabr.ru/post/255047/
+
+Bubot — очень легкий фреймворк на Python 3 для программирования роботов и домашней автоматизации | https://habrahabr.ru/post/254749/
+
+Асинхронная работа с Tarantool на Python | https://habrahabr.ru/company/mailru/blog/254727/
+
+Вышел Django 1.8 | https://habrahabr.ru/post/254703/
+
+Встречайте релиз Django 1.8 | https://habrahabr.ru/post/254701/
+
+Backslant – шаблонизатор в стиле slim | https://habrahabr.ru/post/254567/
+
+JSONB запросы в PostgreSQL | https://habrahabr.ru/post/254425/
+
+Python библиотека для Photon Server | https://habrahabr.ru/post/254455/
+
+Делаем платежи iOS AppStore с проверкой на сервере | https://habrahabr.ru/post/254257/
+
+Автоматизация ресайза PNG для iOS и Android приложений | https://habrahabr.ru/post/254177/
+
+Python, xlsx с картинками, макросами, media-art, внедренными объектами | https://habrahabr.ru/post/254167/
+
+Как попасть в топ на Kaggle, или Матрикснет в домашних условиях | https://habrahabr.ru/post/254151/
+
+Python Meetup 27.02.15: Hy и Toga | https://habrahabr.ru/company/wargaming/blog/253801/
+
+SaltStack: Создание зависимых или ссылающихся конфигураций сервисов | https://habrahabr.ru/post/253443/
+
+Подробнее о протоколе Mail.Ru Агент | https://habrahabr.ru/post/253303/
+
+Ваш персональный курс по Big Data | https://habrahabr.ru/company/mlclass/blog/252743/
+
+Vesta CP: установка веб-приложений на Ruby и Python | https://habrahabr.ru/post/252955/
+
+Звуковые отпечатки: распознавание рекламы на радио | https://habrahabr.ru/post/252937/
+
+Если вы решили перейти с PHP на Python, то к чему следует подготовиться | https://habrahabr.ru/company/wargaming/blog/221035/
+
+Можно ли верить коду в редакторе? bi-directional текст | https://habrahabr.ru/post/252813/
+
+Работа с метасетевыми структурами на Python – библиотека MetaNet | https://habrahabr.ru/post/252781/
+
+Модели Django и решение проблем с конкурентным доступом к данным | https://habrahabr.ru/post/252563/
+
+Два с половиной приема при работе с argparse | https://habrahabr.ru/post/252333/
+
+Доказательство некорректности алгоритма сортировки Android, Java и Python | https://habrahabr.ru/post/251751/
+
+Как мы домены мониторить начали и что из этого получилось | https://habrahabr.ru/post/251619/
+
+Обучение на больших данных: Spark MLlib | https://habrahabr.ru/company/mlclass/blog/251471/
+
+Генерация текстур планет с помощью алгоритма Fault Formation | https://habrahabr.ru/post/251419/
+
+Форматирование Python-кода | https://habrahabr.ru/post/251531/
+
+Вывод температуры, пробок и курса валют на светодиодную матрицу Raspberry Pi | https://habrahabr.ru/post/251439/
+
+Чтение старых статей Хабра с картинками | https://habrahabr.ru/company/infopulse/blog/251259/
+
+Flask. Наполняем «флягу» функционалом | https://habrahabr.ru/post/251415/
+
+Необычные модели Playboy, или про обнаружение выбросов в данных c помощью Scikit-learn | https://habrahabr.ru/post/251225/
+
+Selenium для Python. Глава 4. Поиск элементов | https://habrahabr.ru/post/250975/
+
+Selenium для Python. Глава 3. Навигация | https://habrahabr.ru/post/250947/
+
+Selenium для Python. Глава 2. Первые Шаги | https://habrahabr.ru/post/250921/
+
+Bottle и плагины | https://habrahabr.ru/post/250831/
+
+Введение в Apache Spark | https://habrahabr.ru/company/mlclass/blog/250811/
+
+Отчёт с Moscow Django MeetUp № 25 | https://habrahabr.ru/post/250679/
+
+Практическое программирование искуственного интеллекта | https://habrahabr.ru/post/250557/
+
+Как программисты ищут квартиры | https://habrahabr.ru/post/242085/
+
+Как жить с Docker, или почему лучше с ним, чем без него? | https://habrahabr.ru/post/250469/
+
+Пример запуска Django 1.7.4 под Python 3.4.2 на Ubuntu 14.04 | https://habrahabr.ru/post/250433/
+
+Парсим Lostfilm.tv RSS или Очередной велосипед | https://habrahabr.ru/post/250429/
+
+Full stack vs micro framework, экосистема Docker и другие вещи, с которыми повезло питонистам (UPD: видео) | https://habrahabr.ru/company/tceh/blog/250067/
+
+Экспорт Избранного на Хабре в PDF. Версия 2.0 | https://habrahabr.ru/post/250027/
+
+Пример Feature Engineering в машинном обучении | https://habrahabr.ru/company/mlclass/blog/249759/
+
+Twitter-бот на основе цепей Маркова и фраз из сериалов | https://habrahabr.ru/post/249637/
+
+Находим опечатки в **kwargs | https://habrahabr.ru/post/249423/
+
+Pundle — bundler для python | https://habrahabr.ru/post/249425/
+
+Проталкиваем не‐ASCII в непредназначенные для этого места | https://habrahabr.ru/post/249129/
+
+Runscript — утилита для запуска python скриптов | https://habrahabr.ru/post/248871/
+
+Когда данных действительно много: Vowpal Wabbit | https://habrahabr.ru/company/mlclass/blog/248779/
+
+Визуализация многомерных данных с помощью диаграмм Эндрюса | https://habrahabr.ru/post/248623/
+
+Selenium для Python. Глава 1. Установка | https://habrahabr.ru/post/248559/
+
+WebSocket RPC или как написать живое WEB приложение для браузера | https://habrahabr.ru/post/248507/
+
+Пора заменить Python как язык для обучения | https://habrahabr.ru/company/hexlet/blog/248397/
+
+Как начать работу в Kaggle: руководство для новичков в Data Science | https://habrahabr.ru/post/248395/
+
+evalidate: безопасная обработка пользовательских выражений | https://habrahabr.ru/post/248117/
+
+Создаём окружение для PyQt5 в Linux MInt (Ubuntu) | https://habrahabr.ru/post/248189/
+
+Искусство Feature Engineering в машинном обучении | https://habrahabr.ru/company/mlclass/blog/248129/
+
+Обзор некоторых MOOC Coursera по компьютерным наукам | https://habrahabr.ru/post/248069/
+
+Морской бой за 25 мс | https://habrahabr.ru/post/248061/
+
+Перманентный бан злоумышленников при помощи Fail2Ban + MikroTik | https://habrahabr.ru/post/248033/
+
+Бекап аудиозаписей с плейлиста ВКонтакте (до 6000) средствами Python и Vk API | https://habrahabr.ru/post/247987/
+
+Неперсонализированные рекомендации: метод ассоциаций | https://habrahabr.ru/company/ivi/blog/247813/
+
+Реализация словаря в Python 2.7 | https://habrahabr.ru/post/247843/
+
+Введение в машинное обучение с помощью Python и Scikit-Learn | https://habrahabr.ru/company/mlclass/blog/247751/
+
+Синхронизация и хранение домашних фото/видео в cloud | https://habrahabr.ru/post/247339/
+
+SageMathCloud — мечта для любителей Python, математики и Linux | https://habrahabr.ru/post/247277/
+
+Pillow 2.7 — Существенное улучшение качества и производительности | https://habrahabr.ru/post/247219/
+
+PyOpenGL с шейдерами | https://habrahabr.ru/post/247123/
+
+PythonDigest — 2014 год, итоги нашей работы в цифрах и ссылках | https://habrahabr.ru/post/247067/
+
+Печатаем документ в виде чека с помощью Python и Parse | https://habrahabr.ru/post/246989/
+
+Проектирование RESTful API с помощью Python и Flask | https://habrahabr.ru/post/246699/
+
+PyOpenGL для начинающих и немного новогоднего настроения | https://habrahabr.ru/post/246625/
+
+Алгоритм поиска пути в лабиринте и его реализация на Python 3.4 | https://habrahabr.ru/post/246561/
+
+PyCon UK 2014 | https://habrahabr.ru/post/246391/
+
+Python Meetup 28.11.14: пакетирование, печать и баги | https://habrahabr.ru/company/wargaming/blog/246065/
+
+Пишем конвертер для генератора мелодий от Nokia 3310 | https://habrahabr.ru/post/245917/
+
+Гирлянда на Raspberry Pi | https://habrahabr.ru/post/245887/
+
+Память и числа в Python | https://habrahabr.ru/post/245491/
+
+Делаем дамп фотографий из диалога vk.com | https://habrahabr.ru/post/244647/
+
+xbmcswift2 — микро-фреймворк для написания плагинов к Kodi (XBMC) | https://habrahabr.ru/post/243249/
+
+Распознаем штрихкоды на изображениях с помощью Python и OpenCV | https://habrahabr.ru/company/enterra/blog/244163/
+
+Псевдопрактический пример замыканий и декораторов | https://habrahabr.ru/post/244017/
+
+Web-разработка на Python глазами PHP-программиста | https://habrahabr.ru/post/243961/
+
+Вышел новый PyCharm 4: больше да лучше! | https://habrahabr.ru/company/JetBrains/blog/243831/
+
+Эффективный Django. Часть 2 | https://habrahabr.ru/post/242261/
+
+Python Meetup 31.10.14: асинхронность и soft skills | https://habrahabr.ru/company/wargaming/blog/243547/
+
+Должны ли все изучать программирование? | https://habrahabr.ru/company/stepic/blog/243393/
+
+Python реализация парадигмы event-driven с помощью сопрограмм | https://habrahabr.ru/post/243207/
+
+Анализ дружеских связей VK с помощью Python. Продолжение | https://habrahabr.ru/post/243229/
+
+«Never say never» или Работаем с таймзонами правильно | https://habrahabr.ru/company/mailru/blog/242645/
+
+Как в Яндексе используют PyTest и другие фреймворки для функционального тестирования | https://habrahabr.ru/company/yandex/blog/242795/
+
+«Eppur si muove!»* или Работаем с таймзонами в Python | https://habrahabr.ru/company/mailru/blog/242615/
+
+Пишем код C на Cython | https://habrahabr.ru/company/mailru/blog/242533/
+
+Пишем плагин для XBMC с собственным интерфейсом: часть III — API и микро-фреймворк | https://habrahabr.ru/post/194380/
+
+Типы данных наносят ответный удар | https://habrahabr.ru/company/mailru/blog/242305/
+
+IceCash 1.3. Linux рабочее место кассира на php, с драйвером Штрих-М | https://habrahabr.ru/post/242217/
+
+JetBrains сделала еще один шаг навстречу образованию, выпустив PyCharm Educational Edition | https://habrahabr.ru/company/JetBrains/blog/242103/
+
+Python + vshadow + robocopy — синхронизация каталога с удаленной машиной | https://habrahabr.ru/post/241931/
+
+Перевод интерактивного учебника «Problem Solving with Algorithms and Data Structures» | https://habrahabr.ru/post/241696/
+
+Как просто написать распределенный веб-сервис на Python + AMQP | https://habrahabr.ru/post/241740/
+
+Вглубь Pyparsing: парсим единицы измерения на Python | https://habrahabr.ru/post/241670/
+
+Рецепты Django. Part 1 — AJAX формы | https://habrahabr.ru/post/241646/
+
+Python Meetup 26.09.14: cовершенствуем код и ускоряем Python | https://habrahabr.ru/company/wargaming/blog/241253/
+
+Открытые онлайн-курсы по Python, Linux и… генетике | https://habrahabr.ru/company/stepic/blog/241119/
+
+Pythonista. Пишем на Python для iOS | https://habrahabr.ru/post/241229/
+
+Пошаговая инструкция к созданию торгового робота на Python | https://habrahabr.ru/post/241211/
+
+Визуализация клонов в проекте на Python | https://habrahabr.ru/post/241103/
+
+Хак радара | https://habrahabr.ru/post/241029/
+
+Веб-приложение — ну почти без бек-энда: Flask, Redis, API через JSONP, JSFiddle.net | https://habrahabr.ru/post/240787/
+
+Вышел Python Tools 2.1 для Visual Studio | https://habrahabr.ru/post/240581/
+
+Эффективный Django. Часть 1 | https://habrahabr.ru/post/240463/
+
+Делаем платежи для Google Play с проверкой на сервере | https://habrahabr.ru/post/240447/
+
+Простая напоминалка на Linux | https://habrahabr.ru/post/240245/
+
+Authomatic: python библиотека для аутентификации и авторизации | https://habrahabr.ru/company/theonlypage/blog/239189/
+
+Парсим на Python: Pyparsing для новичков | https://habrahabr.ru/post/239081/
+
+ЛОЦМАН: Пишем свой WorkFlow-конфигуратор. Начало | https://habrahabr.ru/post/238813/
+
+И еще раз о GIL в Python | https://habrahabr.ru/post/238703/
+
+Как участвовать в проекте с открытым исходным кодом и получать деньги? | https://habrahabr.ru/post/237977/
+
+Патчим процессы в Linux на лету при помощи GDB | https://habrahabr.ru/post/237575/
+
+Приглашаем на 23-й Moscow Django Meetup | https://habrahabr.ru/company/mailru/blog/237883/
+
+Мега-Учебник Flask, Часть 18: Развертывание на Heroku Cloud | https://habrahabr.ru/post/237517/
+
+Мега-Учебник Flask, Часть 17: Развертывание на Linux (и даже на Raspberry Pi!) | https://habrahabr.ru/post/237489/
+
+История: нативный загрузчик QuakeLive для Linux | https://habrahabr.ru/post/237441/
+
+Centrifuge — я больше не буду обновлять страницу перед отправкой комментария | https://habrahabr.ru/company/mailru/blog/237257/
+
+Мега-Учебник Flask, Часть 16: Отладка, тестирование и профилирование | https://habrahabr.ru/post/237317/
+
+Мега-Учебник Flask, Часть 15: Ajax | https://habrahabr.ru/post/237065/
+
+Автоматическая оптимизация алгоритмов с помощью быстрого возведения матриц в степень | https://habrahabr.ru/post/236689/
+
+Мега-Учебник Flask, Часть 14: I18n и L10n | https://habrahabr.ru/post/236861/
+
+Python-digest #35. Новости, интересные проекты, статьи и интервью [27 июля 2014 — 03 августа 2014] | https://habrahabr.ru/post/233009/
+
+Мега-Учебник Flask, Часть 13: Дата и время | https://habrahabr.ru/post/236753/
+
+Учим старую собаку новым трюкам или как я научился любить str.format и отказался от % | https://habrahabr.ru/post/236633/
+
+Уравнение или всё же наблюдение? | https://habrahabr.ru/post/236383/
+
+RabbitMQ tutorial 6 — Удаленный вызов процедур | https://habrahabr.ru/post/236221/
+
+Впечатления от посещения EuroPython 2014 | https://habrahabr.ru/post/236119/
+
+Вместе веселей: python + flask + google app engine | https://habrahabr.ru/post/235511/
+
+Thunderargs: практика использования. Часть 2 | https://habrahabr.ru/post/190088/
+
+Минималистичный issue tracker на Django | https://habrahabr.ru/post/234307/
+
+Django 1.7 | https://habrahabr.ru/post/235419/
+
+Приглашаем на Moscow Django MeetUp № 22 | https://habrahabr.ru/company/mailru/blog/235227/
+
+Python, каким бы я хотел его видеть | https://habrahabr.ru/company/mailru/blog/234747/
+
+Мега-Учебник Flask, Часть 12: Реконструкция | https://habrahabr.ru/post/234785/
+
+Мега-Учебник Flask, Часть 11: Поддержка e-mail | https://habrahabr.ru/post/234737/
+
+Мега-Учебник Flask, Часть 10: Полнотекстовый поиск | https://habrahabr.ru/post/234613/
+
+Окружение для разработки на aiorest (asyncio) + angular.js | https://habrahabr.ru/post/233181/
+
+Push-уведомления в REST API на примере системы Таргет Mail.Ru | https://habrahabr.ru/company/mailru/blog/232981/
+
+Item-based коллаборативная фильтрация своими руками | https://habrahabr.ru/company/ivi/blog/232843/
+
+Выразительная простота python на примере задач из комбинаторики | https://habrahabr.ru/post/232757/
+
+Удаленное управление VLC player’ом при помощи Arduino и Python | https://habrahabr.ru/post/232401/
+
+Интеграция MS Excel и Python | https://habrahabr.ru/post/232291/
+
+Как мы делали небольшую охранную систему на RPi. Часть 1 | https://habrahabr.ru/post/231869/
+
+Приглашаем на Moscow Django Meetup 31 июля | https://habrahabr.ru/company/mailru/blog/231391/
+
+Python-digest #34. Новости, интересные проекты, статьи и интервью [20 июля 2014 — 27 июля 2014] | https://habrahabr.ru/post/231255/
+
+Современный торнадо, часть 2: блокирующие операции | https://habrahabr.ru/post/231201/
+
+Практика программирования игр на python: жизнь | https://habrahabr.ru/company/mailru/blog/228379/
+
+Мега-Учебник Flask, Часть 9: Пагинация | https://habrahabr.ru/post/230897/
+
+Браузерный робот на Sikuli IDE для игры MusicWars | https://habrahabr.ru/post/230705/
+
+Мега-Учебник Flask, Часть 8: Подписчики, контакты и друзья | https://habrahabr.ru/post/230643/
+
+Современный Торнадо: распределённый хостинг картинок в 30 строк кода | https://habrahabr.ru/post/230607/
+
+Python-digest #33. Новости, интересные проекты, статьи и интервью [13 июля 2014 — 20 июля 2014] | https://habrahabr.ru/post/230493/
+
+Измеряем температуру: TEMPer + Python + Windows | https://habrahabr.ru/post/230355/
+
+Эффективная многопоточность в Python | https://habrahabr.ru/post/229767/
+
+Python-digest #32. Новости, интересные проекты, статьи и интервью [6 июля 2014 — 13 июля 2014] | https://habrahabr.ru/post/229667/
+
+Как управлять облачными ресурсами с помощью Python? Поднимаем кластеры по запросу через несколько строк кода | https://habrahabr.ru/company/microsoft/blog/229083/
+
+Python вышел на 1-е место для обучения программированию в университетах США | https://habrahabr.ru/post/229063/
+
+Python-digest #31. Новости, интересные проекты, статьи и интервью [8 июня 2014 — 6 июля 2014] Возрождение | https://habrahabr.ru/post/228789/
+
+Десятимиллионный скрипт резервного копирования | https://habrahabr.ru/post/228787/
+
+Быстрые аналоги популярных библиотек для Python | https://habrahabr.ru/post/228707/
+
+Немного тестов производительности сетевых фреймворков | https://habrahabr.ru/post/228455/
+
+Django widgets и еще пара трюков | https://habrahabr.ru/company/starttospeak/blog/228411/
+
+Как запатчить 11 разных прошивок и не сойти с ума от разнообразия | https://habrahabr.ru/post/228317/
+
+PyCon Russia 2014 — два дня python-счастья | https://habrahabr.ru/company/it_people/blog/228067/
+
+Addon для генерации материалов Cycles Blender | https://habrahabr.ru/post/227543/
+
+Мини-интерпретатор Lisp'a на Python | https://habrahabr.ru/post/227119/
+
+Про колеса | https://habrahabr.ru/post/226589/
+
+Вводная по сложным запросам в SQLAlchemy | https://habrahabr.ru/company/eastbanctech/blog/226521/
+
+Настройка удаленного интерпретатора на Pycharm для Django | https://habrahabr.ru/post/226331/
+
+Питон, смещение тона и Пианопьютер | https://habrahabr.ru/post/225745/
+
+Python-digest #30. Новости, интересные проекты, статьи и интервью [2 июня 2014 — 8 июня 2014] | https://habrahabr.ru/post/225603/
+
+Micro Python — эффективная реализация Python 3 для микроконтроллеров | https://habrahabr.ru/post/225131/
+
+VIM как IDE для разработки на Python | https://habrahabr.ru/post/224979/
+
+Геодезия: по полю на «питоне» | https://habrahabr.ru/post/224893/
+
+Разработка ERP на tryton: Часть 3 | https://habrahabr.ru/post/224907/
+
+Python-digest #29. Новости, интересные проекты, статьи и интервью [25 мая 2014 — 1 июня 2014] | https://habrahabr.ru/post/224841/
+
+Thunderargs: практика использования. Часть 1 | https://habrahabr.ru/post/224705/
+
+Вышел обновленный PyCharm 3.4 с новой расширенной функциональностью и улучшенной общей производительностью | https://habrahabr.ru/company/JetBrains/blog/224699/
+
+Разработка ERP на tryton: Часть 2 | https://habrahabr.ru/post/221887/
+
+Работа с иностранными текстами. Как увеличить процент понимания и выучить язык? | https://habrahabr.ru/post/224301/
+
+Генераторы словарей | https://habrahabr.ru/post/224163/
+
+Python-digest #28. Новости, интересные проекты, статьи и интервью [19 мая 2014 — 25 мая 2014] | https://habrahabr.ru/post/224065/
+
+os.urandom, CPython, Linux и грабли | https://habrahabr.ru/post/223981/
+
+Мега-Учебник Flask, Часть 7: Unit-тестирование | https://habrahabr.ru/post/223783/
+
+Pautomount — демон автоматического монтирования, запуска скриптов и всего такого прочего | https://habrahabr.ru/post/220301/
+
+Мега-Учебник Flask, Часть 6: Страница профиля и аватарка | https://habrahabr.ru/post/223375/
+
+Python Meetup: апрельская встреча | https://habrahabr.ru/company/wargaming/blog/223349/
+
+Python-digest #27. Новости, интересные проекты, статьи и интервью [12 мая 2014 — 18 мая 2014] | https://habrahabr.ru/post/223255/
+
+ТОП-10 докладов с PyConRu 2013 | https://habrahabr.ru/company/it_people/blog/223051/
+
+Один вариант использования аннотаций | https://habrahabr.ru/post/223041/
+
+Мега-Учебник Flask, Часть 5: Вход пользователей | https://habrahabr.ru/post/222983/
+
+Внутренняя кухня организации PyCon Russia и международные отношения | https://habrahabr.ru/company/it_people/blog/222543/
+
+Python Meetup: мартовская встреча | https://habrahabr.ru/company/wargaming/blog/222529/
+
+Организация OLAP куба средствами Python | https://habrahabr.ru/post/222421/
+
+Python Webmoney API | https://habrahabr.ru/post/222411/
+
+Python-digest #26. Новости, интересные проекты, статьи и интервью [4 мая 2014 — 11 мая 2014] | https://habrahabr.ru/post/222403/
+
+И снова про опасность eval() | https://habrahabr.ru/post/221937/
+
+Разработка ERP на tryton: Часть 1 | https://habrahabr.ru/post/222121/
+
+Python-digest #25. Новости, интересные проекты, статьи и интервью [28 апреля 2014 — 4 мая 2014] | https://habrahabr.ru/post/221743/
+
+Легкий python веб-фреймворк: Bottle | https://habrahabr.ru/post/221659/
+
+Анализ дружеских связей VK с помощью Python | https://habrahabr.ru/post/221251/
+
+Программа PyCon Russia 2014 | https://habrahabr.ru/company/it_people/blog/221145/
+
+Python-digest #24. Новости, интересные проекты, статьи и интервью [20 апреля 2014 — 27 апреля 2014] | https://habrahabr.ru/post/221067/
+
+Съёмка показаний счетчика на телефон с последующим распознаванием | https://habrahabr.ru/post/220869/
+
+import sphinxapi без танцев или простая установка sphinxapi.py через pip | https://habrahabr.ru/post/220781/
+
+Основы парсинга с помощью Python+lxml | https://habrahabr.ru/post/220125/
+
+Python-digest #23. Новости, интересные проекты, статьи и интервью [13 апреля 2014 — 20 апреля 2014] | https://habrahabr.ru/post/220097/
+
+BDD-разработка на django | https://habrahabr.ru/post/219665/
+
+Добавляем IP телефоны в отдельный Pool IP адресов по Mac адресу | https://habrahabr.ru/post/219463/
+
+Непайтоновый Пайтон | https://habrahabr.ru/post/218981/
+
+Высоконагруженные сайты и приложения на Python / Django (29 проектов) | https://habrahabr.ru/company/SECL_GROUP/blog/218921/
+
+Обзор IPython Notebook 2.0 | https://habrahabr.ru/post/218869/
+
+Java Virtual Machine in pure python | https://habrahabr.ru/post/218577/
+
+Второй PyCon Russia: Екатеринбург, 2-3 июня | https://habrahabr.ru/company/it_people/blog/218531/
+
+Работа с ZeroMQ и PostgreSQL в asyncio | https://habrahabr.ru/post/218423/
+
+Python-digest #21. Новости, интересные проекты, статьи и интервью [30 марта 2014 — 6 апреля 2014] | https://habrahabr.ru/post/218399/
+
+SaltStack: использование шаблонов jinja и хранилища pillar для гибкой настройки конфигураций | https://habrahabr.ru/post/218249/
+
+Соединяем эллиптический тренажер и pygame | https://habrahabr.ru/post/217891/
+
+Habrachat или использование ARM сервера | https://habrahabr.ru/post/217863/
+
+Python-digest #20. Новости, интересные проекты, статьи и интервью [23 марта 2014 — 30 марта 2014] | https://habrahabr.ru/post/217631/
+
+MakeHuman: релиз спустя 12 лет разработки | https://habrahabr.ru/post/217225/
+
+Примеры использования asyncio: HTTPServer?! | https://habrahabr.ru/post/217143/
+
+Запуск локальных ssh/telnet/vnc клиентов по ссылке из карты Zabbix | https://habrahabr.ru/company/serverclub/blog/217161/
+
+Учимся бороться с ëÒÁËÏÚÑÂÒÙ | https://habrahabr.ru/post/216969/
+
+Python Meetup: февральская встреча | https://habrahabr.ru/company/wargaming/blog/216277/
+
+Тестируем ARM платформу Marvel Armada XP как хостинг для Python проекта | https://habrahabr.ru/post/216471/
+
+Transcend WiFi. Пишем клиент Shoot&View для Windows, Mac и Linux | https://habrahabr.ru/post/216039/
+
+Просим Вконтакте напомнить про пельмешки | https://habrahabr.ru/post/216001/
+
+Как я немного Instagram увёл | https://habrahabr.ru/post/215829/
+
+Программируем на Python | https://habrahabr.ru/company/piter/blog/215657/
+
+Сломай меня полностью (ZeroNightsCrackme, Часть 2) | https://habrahabr.ru/post/215225/
+
+Python Meetup: январская встреча | https://habrahabr.ru/company/wargaming/blog/215189/
+
+Веб-интерфейс для кофеварки на Ajenti через HTCPCP | https://habrahabr.ru/post/215083/
+
+Управление роборукой при помощи leap motion | https://habrahabr.ru/post/214613/
+
+Пишем мониторинг наличия билетов на РЖД, part 2 | https://habrahabr.ru/post/214343/
+
+Уведомления окончаний fabric задач, с декораторами и детальной информацией | https://habrahabr.ru/post/214259/
+
+Открытые классы в ruby, заметки для питонистов | https://habrahabr.ru/post/214191/
+
+Об организации кода в django-приложениях или толстые модели – это прекрасно | https://habrahabr.ru/post/213875/
+
+Основы создания 2D персонажа в Godot. Часть 2: компилирование шаблонов, немного о GDScript, движение и анимация героя | https://habrahabr.ru/post/212837/
+
+Основы создания 2D персонажа в Godot. Часть 1: компилирование игрового движка, создание проекта и анимация покоя героя | https://habrahabr.ru/post/212583/
+
+Про сообщества программистов | https://habrahabr.ru/post/212525/
+
+Несколько полезных полей Django | https://habrahabr.ru/post/212047/
+
+AES-128. Детали и реализация на python | https://habrahabr.ru/post/212235/
+
+Внедрение зависимостей the Python way | https://habrahabr.ru/post/212217/
+
+Игровой движок Godot отдали в общественное пользование | https://habrahabr.ru/post/212109/
+
+Python-digest #13. Новости, интересные проекты, статьи и интервью [31 января 2014 — 9 февраля 2014] | https://habrahabr.ru/post/211943/
+
+Опрос: PHP vs Python | https://habrahabr.ru/post/211705/
+
+Google Calendar, как бесплатный СМС гейт | https://habrahabr.ru/post/211667/
+
+Простой скрипт на Python для заучивания английских слов или почему я не использую карточки | https://habrahabr.ru/post/211466/
+
+Python на страже кошелька | https://habrahabr.ru/post/211490/
+
+Выпущен обновленный PyCharm 3.1 с поддержкой Python 3.4 и Django 1.6: что стало лучше? | https://habrahabr.ru/company/JetBrains/blog/211338/
+
+Vim-крокет | https://habrahabr.ru/post/211108/
+
+Простейший способ добавить WebSocket в Django | https://habrahabr.ru/post/211094/
+
+Python-digest #12. Новости, интересные проекты, статьи и интервью [24 января 2013 — 31 января 2014] | https://habrahabr.ru/post/210968/
+
+Построение модели SARIMA с помощью Python+R | https://habrahabr.ru/post/210530/
+
+Python на колёсах | https://habrahabr.ru/post/210450/
+
+PyQt. Управляем памятью, собираем мусор | https://habrahabr.ru/post/210304/
+
+Пишем мониторинг наличия билетов на РЖД | https://habrahabr.ru/post/210420/
+
+Четыре метода загрузки изображений с веб-сайта с помощью Python | https://habrahabr.ru/post/210238/
+
+Python-digest #11. Новости, интересные проекты, статьи и интервью [17 января 2013 — 24 января 2014] | https://habrahabr.ru/post/210160/
+
+Почему существует так много Питонов? | https://habrahabr.ru/post/209812/
+
+Простой интерпретатор с нуля на Python #4 | https://habrahabr.ru/post/207662/
+
+Python-digest #10. Новости, интересные проекты, статьи и интервью [10 января 2013 — 17 января 2014] | https://habrahabr.ru/post/209394/
+
+Создание zip-модулей в python | https://habrahabr.ru/company/acronis/blog/208378/
+
+Deploy с помощью Salt | https://habrahabr.ru/post/208866/
+
+Простой интерпретатор с нуля на Python (часть 3) | https://habrahabr.ru/post/208872/
+
+Извлечение «знаний» или классификация в один if | https://habrahabr.ru/post/208764/
+
+Экспорт Избранного на Хабре в PDF | https://habrahabr.ru/post/208802/
+
+Поддержка обратной связи геймпадом в WoT | https://habrahabr.ru/post/208478/
+
+Катастрофа Unicode в Python3 | https://habrahabr.ru/post/208192/
+
+Восстановление логической функции | https://habrahabr.ru/post/208240/
+
+Ещё одна реализация Enums для Python | https://habrahabr.ru/post/208066/
+
+Python: вещи, которых вы могли не знать | https://habrahabr.ru/post/207988/
+
+Вычисляем какой сейчас год от Большого Взрыва на Питоне | https://habrahabr.ru/post/207822/
+
+IT-книги по свободной цене | https://habrahabr.ru/post/207542/
+
+Простой интерпретатор с нуля на Python #2 | https://habrahabr.ru/post/206454/
+
+Поиск python пакетов | https://habrahabr.ru/post/207346/
+
+Peewee – лёгкая, гибкая и очень быстрая ORM на Python | https://habrahabr.ru/post/207110/
+
+Анализ временных рядов с помощью python | https://habrahabr.ru/post/207160/
+
+Интерпретатор Python: о чём думает змея? (часть I-III) | https://habrahabr.ru/post/206420/
+
+Python на Хабре | https://habrahabr.ru/post/205944/
+
+Python Meetup: ноябрьская встреча | https://habrahabr.ru/company/wargaming/blog/206256/
+
+Простой интерпретатор с нуля на Python (перевод) #1 | https://habrahabr.ru/post/206320/
+
+Пример решения задачи множественной регрессии с помощью Python | https://habrahabr.ru/post/206306/
+
+Почему я ненавижу virtualenv и pip | https://habrahabr.ru/post/206024/
+
+ВКонтакте без джаббера и снова с ним | https://habrahabr.ru/post/178317/
+
+Continuous Integration вместе с buildbot: а зачем? | https://habrahabr.ru/post/205670/
+
+Python для микроконтроллеров | https://habrahabr.ru/post/205626/
+
+Профилирование и отладка Python, отладка | https://habrahabr.ru/company/mailru/blog/205426/
+
+Введение в анализ текстовой информации с помощью Python и методов машинного обучения | https://habrahabr.ru/post/205360/
+
+Flightstats API: Пишем свое табло прилетов с Боингами и Аэробусами | https://habrahabr.ru/post/205210/
+
+PyFence: верификация типов для Python | https://habrahabr.ru/post/205134/
+
+Облачные ci: travis-ci и drone.io | https://habrahabr.ru/company/coviolations/blog/204900/
+
+Рейтинг постов хаба | https://habrahabr.ru/post/204706/
+
+Continuous Integration вместе с buildbot: введение | https://habrahabr.ru/post/204700/
+
+Пишем красивый идиоматический Python | https://habrahabr.ru/post/204476/
+
+Отправка python пакетов в ppa без «жизнь боль» | https://habrahabr.ru/post/204526/
+
+Пример решения задачи кредитного скоринга c помощью связки python+pandas+scikit-learn | https://habrahabr.ru/post/204500/
+
+Пишем платформер на python, используя pygame. Часть 2 подчасть 2. Редактор уровней | https://habrahabr.ru/post/204112/
+
+Смотрим сериалы с субтитрами в 2 клика | https://habrahabr.ru/post/204134/
+
+Генерация повторяющихся блоков кода с помощью плагина для Sublime Text 2 | https://habrahabr.ru/post/204050/
+
+Выполнение SQL запросов в DB Oracle в Sublime Text 2 | https://habrahabr.ru/post/203742/
+
+Опыт использования утилиты logman для сбора метрик производительности приложения в Windows | https://habrahabr.ru/post/203692/
+
+Менеджер версий python | https://habrahabr.ru/post/203516/
+
+Python-digest #3. Новости, интересные проекты, статьи и интервью [16 ноября 2013 — 23 ноября 2013] | https://habrahabr.ru/post/203344/
+
+Профилирование и отладка Python, инструменты | https://habrahabr.ru/company/mailru/blog/202832/
+
+Видео октябрьских докладов Python Meetup | https://habrahabr.ru/company/wargaming/blog/202170/
+
+Анонимный чат TorChat и его улучшение | https://habrahabr.ru/post/201696/
+
+Python-digest #2. Новости, интересные проекты, статьи и интервью [8 ноября 2013 — 15 ноября 2013] | https://habrahabr.ru/post/202212/
+
+Основы анализа данных на python с использованием pandas+sklearn | https://habrahabr.ru/post/202090/
+
+Пример использования WxPython для создания нодового интерфейса. Часть 5: Соединяем ноды | https://habrahabr.ru/post/201930/
+
+Пример использования WxPython для создания нодового интерфейса. Часть 4: Реализуем Drag&Drop | https://habrahabr.ru/post/201784/
+
+Профилирование и отладка Python, переходим к практике | https://habrahabr.ru/company/mailru/blog/201778/
+
+Латентно-семантический анализ и поиск на python | https://habrahabr.ru/post/197238/
+
+Пример использования WxPython для создания нодового интерфейса. Часть 3: Продолжаем добавлять фичи + обработка клавиатуры | https://habrahabr.ru/post/201608/
+
+Пример использования WxPython для создания нодового интерфейса. Часть 2: Обработка событий мыши | https://habrahabr.ru/post/201538/
+
+Пример использования WxPython для создания нодового интерфейса. Часть 1: Учимся рисовать | https://habrahabr.ru/post/201336/
+
+Настраиваем Django 1.6 с python 3.3 под Apache2 на Ubuntu 12.04 Server | https://habrahabr.ru/post/201644/
+
+Профилирование и отладка Python | https://habrahabr.ru/company/mailru/blog/201594/
+
+Попытка сделать дайджест новостей из мира Python | https://habrahabr.ru/post/201378/
+
+Flask и загрузка файлов: success story | https://habrahabr.ru/post/201386/
+
+Борьба с производительностью Tastypie API | https://habrahabr.ru/post/201294/
+
+Встречайте, релиз Django 1.6 | https://habrahabr.ru/post/201168/
+
+Линукс — история одного взлома | https://habrahabr.ru/post/200912/
+
+Экстрактор контента из веб-документов | https://habrahabr.ru/post/200718/
+
+Симулятор солнечной системы. Ключ на старт! | https://habrahabr.ru/post/197788/
+
+Получаем тип и размеры изображения без скачивания его целиком, используя Python | https://habrahabr.ru/post/199440/
+
+Emacs как IDE для Python | https://habrahabr.ru/post/188376/
+
+Рецепт i18n. Основа — Babel, json с кофе и грант с hbs на свой вкус | https://habrahabr.ru/post/199226/
+
+Популярность тегов Хабра: какие тренды в постах? | https://habrahabr.ru/post/197308/
+
+Кое-что об edX Blades | https://habrahabr.ru/post/192824/
+
+Пишем numpy-модуль для ускорения математических функций с помощью SIMD-инструкций | https://habrahabr.ru/post/198916/
+
+Строим простую картограмму Pandas+Vincent | https://habrahabr.ru/post/198974/
+
+Настройка и использование Geany с Python | https://habrahabr.ru/post/198468/
+
+Python Meetup: Garbage collector and a bit of memory management | https://habrahabr.ru/company/wargaming/blog/198140/
+
+Миграция с mysql на postgresql | https://habrahabr.ru/post/198366/
+
+Babel и handlebars, пора бы и подружить | https://habrahabr.ru/post/198280/
+
+Внедрение высокопроизводительного Pony ORM в проект Django | https://habrahabr.ru/post/197962/
+
+Создаем симулятор солнечной системы | https://habrahabr.ru/post/197754/
+
+Введение в визуализацию данных при анализе с помощью Pandas | https://habrahabr.ru/post/197212/
+
+Centrifuge — так просто, как возможно, но не проще этого | https://habrahabr.ru/company/mailru/blog/197044/
+
+Сбор показаний датчиков и их отображение | https://habrahabr.ru/post/196972/
+
+Введение в анализ данных с помощью Pandas | https://habrahabr.ru/post/196980/
+
+Сопрограммы в Python | https://habrahabr.ru/post/196918/
+
+Мега-Учебник Flask, Часть 4: База данных | https://habrahabr.ru/post/196810/
+
+Воруй-убивай, пиши-качай | https://habrahabr.ru/post/196672/
+
+Гвидо ван Россум отвечает на вопросы | https://habrahabr.ru/post/196624/
+
+Пишем платформер на Python. Часть 2. Подчасть 1, подготовка к созданию редактора уровней | https://habrahabr.ru/post/196432/
+
+Numenta NuPIC: первые шаги | https://habrahabr.ru/post/196084/
+
+Автоматическая очистка старых драйверов, или выжмем немного места из Windows 7 | https://habrahabr.ru/post/196404/
+
+Некоторые возможности Python о которых вы возможно не знали | https://habrahabr.ru/post/196382/
+
+Инфраструктура и жизненный цикл разработки веб-проекта | https://habrahabr.ru/company/mailru/blog/196184/
+
+Python Meetup | https://habrahabr.ru/company/wargaming/blog/195382/
+
+Вышли сразу два новых PyCharm версии 3.0 | https://habrahabr.ru/company/JetBrains/blog/195078/
+
+Centrifuge набирает обороты | https://habrahabr.ru/company/mailru/blog/194640/
+
+Shed Skin — экспериментальный транслятор из Python в C++ | https://habrahabr.ru/post/194650/
+
+Git. Автоматическая проверка сообщения коммита на стороне сервера с помощью Python | https://habrahabr.ru/post/192190/
+
+Программируем на Python | https://habrahabr.ru/company/piter/blog/194390/
+
+Пишем плагин для XBMC с собственным интерфейсом: часть II — диалоги и украшателства | https://habrahabr.ru/post/194124/
+
+AI своими руками. Вы готовы начать? | https://habrahabr.ru/post/194182/
+
+Мега-Учебник Flask, Часть 3: Формы | https://habrahabr.ru/post/194062/
+
+Ненормальное функциональное программирование на python | https://habrahabr.ru/post/193920/
+
+Пишем плагин для XBMC с собственным интерфейсом: часть I — теория и простейший пример | https://habrahabr.ru/post/193704/
+
+Использование памяти в Python | https://habrahabr.ru/post/193890/
+
+Пишем платформер на Python, используя pygame | https://habrahabr.ru/post/193888/
+
+«Achtung!», или Мониторим состояние сборки проекта | https://habrahabr.ru/company/mailru/blog/193606/
+
+Отчёты и графики для travis-ci и drone.io | https://habrahabr.ru/post/193394/
+
+Подробная анатомия простого плагина для XBMC | https://habrahabr.ru/post/193374/
+
+Мега-Учебник Flask, Часть 2: Шаблоны | https://habrahabr.ru/post/193260/
+
+Мега-Учебник Flask, Часть 1: Привет, Мир! | https://habrahabr.ru/post/193242/
+
+Python. Неочевидное поведение некоторых конструкций | https://habrahabr.ru/post/192098/
+
+Второй Python meetup: чего ждать от PEP и стоит ли стрелять себе в ногу? | https://habrahabr.ru/company/wargaming/blog/192826/
+
+Python Meetup: летние старты | https://habrahabr.ru/company/wargaming/blog/192768/
+
+И снова закинул старик невод… (парсинг хабра, продолжение) | https://habrahabr.ru/post/192670/
+
+Jedi — библиотека автодополнения для Python | https://habrahabr.ru/post/192610/
+
+Массовая запись с камер на выборах — 2 | https://habrahabr.ru/post/192590/
+
+Python. Генерация юнит-тестов | https://habrahabr.ru/post/192512/
+
+Python for Programmers | https://habrahabr.ru/company/stepic/blog/192192/
+
+Модульного тестирования недостаточно. Нужна статическая типизация! | https://habrahabr.ru/post/192108/
+
+Python изнутри. Структуры процесса | https://habrahabr.ru/company/buruki/blog/191032/
+
+Кэширование фронтэнда: Flask, Nginx+Memcached+SSI | https://habrahabr.ru/post/191788/
+
+Обработка ошибок в стиле panic/defer на Python | https://habrahabr.ru/post/191786/
+
+Сказ о Raspberry и внешнем HDD. Первый опыт разработки под платформу | https://habrahabr.ru/post/191760/
+
+Поиск уязвимостей у хабросайтов | https://habrahabr.ru/post/191434/
+
+Пишем backend для мобильного приложения за несколько минут | https://habrahabr.ru/post/191296/
+
+Разбор кода и построение синтаксических деревьев с PLY. Основы | https://habrahabr.ru/post/191252/
+
+Python изнутри. Объекты. Хвост | https://habrahabr.ru/company/buruki/blog/190336/
+
+Salt — продолжение | https://habrahabr.ru/post/190928/
+
+ExConsole — экстренная консоль для Python | https://habrahabr.ru/post/190924/
+
+Создаём Zoomquilt | https://habrahabr.ru/post/190786/
+
+Скрипт проверки наличия свободных дат в посольстве | https://habrahabr.ru/post/190870/
+
+Python изнутри. Объекты. Голова | https://habrahabr.ru/company/buruki/blog/189986/
+
+Запиши свой терминал | https://habrahabr.ru/post/190252/
+
+Python изнутри. Введение | https://habrahabr.ru/company/buruki/blog/189972/
+
+Рассчитываем шпоночное соединение с помощью Python | https://habrahabr.ru/post/189980/
+
+Как устроен namedtuple или динамическое создание типов | https://habrahabr.ru/company/buruki/blog/189882/
+
+Django throttling | https://habrahabr.ru/post/189858/
+
+Об одном способе защиты исходников Python-программы | https://habrahabr.ru/post/189772/
+
+Клиентские тесты на Lettuce + Selenium | https://habrahabr.ru/post/189778/
+
+Реализуем last visited/recent pages в Django | https://habrahabr.ru/post/189656/
+
+Охота на слова | https://habrahabr.ru/post/189236/
+
+Генератор криптарифмов | https://habrahabr.ru/post/189050/
+
+Вышла первая альфа Python 3.4.0 | https://habrahabr.ru/post/188956/
+
+Снова о производительности ORM, или новый перспективный проект — Pony ORM | https://habrahabr.ru/post/188842/
+
+Вернулся невод с тиной морскою… | https://habrahabr.ru/post/188678/
+
+Вышла первая бета PyPy3 с поддержкой Python 3 | https://habrahabr.ru/post/188432/
+
+Красивые трейсбеки в Python | https://habrahabr.ru/post/188400/
+
+Мультиязыковые квайны | https://habrahabr.ru/post/188378/
+
+Редактирование конфигов в Python | https://habrahabr.ru/post/188248/
+
+Python: декорируем декораторы. Снова | https://habrahabr.ru/post/187482/
+
+Nitrous.IO — online IDE с SSH-доступом и десктоп приложением для синхронизации | https://habrahabr.ru/post/187584/
+
+Работа с API Яндекс.Метрика на Python | https://habrahabr.ru/post/187384/
+
+Пока Vim пишет код за Вас… | https://habrahabr.ru/post/187290/
+
+Руководство по магическим методам в Питоне | https://habrahabr.ru/post/186608/
+
+Используем поисковые движки для проверки корректности фраз | https://habrahabr.ru/post/185860/
+
+Портирование на питон 3. Работа над ошибками | https://habrahabr.ru/company/netangels/blog/185518/
+
+Удаленное управление объектами в Blender-е | https://habrahabr.ru/post/185522/
+
+Python Tools для Visual Studio, о новинках из первых рук | https://habrahabr.ru/company/microsoft/blog/185412/
+
+Когда встроенного MVC не хватает | https://habrahabr.ru/post/185180/
+
+Программа итерационного поиска | https://habrahabr.ru/post/184556/
+
+Centrifuge — брокер реал-тайм сообщений | https://habrahabr.ru/post/184262/
+
+Http запросы — мы все это делаем неправильно | https://habrahabr.ru/post/184302/
+
+vk.com — Сохранение аудиозаписей, документов, содержимого стены | https://habrahabr.ru/post/184224/
+
+Путеводитель по Python. Пишем великолепный код | https://habrahabr.ru/post/183912/
+
+Паттерны проектирования без ООП | https://habrahabr.ru/post/184156/
+
+Chatter — основанный на python 2.7 websocket-framework с использованием tornado | https://habrahabr.ru/post/184090/
+
+Взлом аккаунта и юникодные символы | https://habrahabr.ru/post/183878/
+
+Удобное скачивание музыки из vkontakte | https://habrahabr.ru/post/183852/
+
+PyRegs: анализатор регулярных выражений Python 3 | https://habrahabr.ru/post/183486/
+
+Сортировка треков в плейлисте VK | https://habrahabr.ru/post/183408/
+
+Новые версии Flask и Werkzeug с поддержкой питона 3.3 | https://habrahabr.ru/company/netangels/blog/183236/
+
+Используем bower в django проектах с django-bower | https://habrahabr.ru/post/183094/
+
+DevConf::Python 2013 — пройдет 14 июня в Москве, приезжает автор книги «Porting to Python 3» Lennart Regebro | https://habrahabr.ru/company/devconf/blog/182650/
+
+Чтение официальных данных о численности муниципальных образований с параметрами форматирования текста с помощью библиотеки xlrd | https://habrahabr.ru/post/182548/
+
+Тестирование производительности Python 2.7 при обработке списков различными способами | https://habrahabr.ru/post/181768/
+
+Найдены серьёзные баги в pymongo | https://habrahabr.ru/post/181668/
+
+Django 1.6 alpha 1 | https://habrahabr.ru/post/181464/
+
+Реляционное отображение коллекций — альтернатива объектно-реляционному отображению? | https://habrahabr.ru/post/181213/
+
+Необыкновенный способ генерации лабиринтов | https://habrahabr.ru/post/181265/
+
+Советы Google по кодированию на языке Python. Часть вторая: советы по форматированию исходного кода | https://habrahabr.ru/post/180509/
+
+Разработка системы синхронизации в реальном времени с использованием SockJS, Django, Tornado и ZeroMQ | https://habrahabr.ru/post/181037/
+
+Django: Использование QR-кодов для быстрого входа на сайт с мобильных устройств | https://habrahabr.ru/post/181093/
+
+Пишем свой шаблонизатор на Python | https://habrahabr.ru/post/180935/
+
+DataEngine и Python2: Создание нового DataEngine | https://habrahabr.ru/post/180873/
+
+Советы Google по кодированию на языке Python. Часть первая: советы по программированию | https://habrahabr.ru/post/179271/
+
+Quickpong — разработка сетевой игры на основе фреймворка Twisted | https://habrahabr.ru/post/180319/
+
+Шесть недель до закрытия Google Reader — спасаем всё что можно | https://habrahabr.ru/post/180111/
+
+Подключение SkyDrive в Linux | https://habrahabr.ru/post/179213/
+
+Data mining: Инструментарий — Theano | https://habrahabr.ru/post/173819/
+
+Xmenu — маленький «фреймворк» для построения консольных меню | https://habrahabr.ru/post/178819/
+
+Устранение утечек памяти в приложении на Питоне | https://habrahabr.ru/post/178637/
+
+Получение любимых аудиозаписей с pandora.com | https://habrahabr.ru/post/178215/
+
+Хостинг картинок за полчаса | https://habrahabr.ru/post/177991/
+
+Добавляем чуть больше рефлексии: декораторы | https://habrahabr.ru/post/178017/
+
+Поле множественного выбора с автодополнением в Django | https://habrahabr.ru/post/177929/
+
+Простой способ управления удалёнными устройствами | https://habrahabr.ru/post/177755/
+
+Сервер отчетов на django | https://habrahabr.ru/post/177567/
+
+Взламываем шифры с Python | https://habrahabr.ru/post/177525/
+
+DevConf::Python() 14 июня в Москве — приезжает автор книги «Porting to Python 3» | https://habrahabr.ru/company/devconf/blog/177309/
+
+Собственное поле формы в Django | https://habrahabr.ru/post/176807/
+
+pymorphy2 | https://habrahabr.ru/post/176575/
+
+AppFog и Django. С чего начать? | https://habrahabr.ru/post/176607/
+
+Кросспостинг из Twitter в ВКонтакте с помощью роутера | https://habrahabr.ru/post/158285/
+
+Легко настраиваемый python daemon | https://habrahabr.ru/post/176067/
+
+Дампер текстовых заметок Evernote | https://habrahabr.ru/post/175767/
+
+Заметки для построения эффективных Django-ORM запросов в нагруженных проектах | https://habrahabr.ru/post/175727/
+
+﻿Как прикрутить BitTorrent трекер к Python-сайту: интеграция с XBT Tracker | https://habrahabr.ru/post/175449/
+
+Капча с помощью PIL или практический велосипед | https://habrahabr.ru/post/175079/
+
+Django ORM, gevent и грабли в зелени | https://habrahabr.ru/post/174717/
+
+Не ещё одна статья о функциональном программировании | https://habrahabr.ru/post/174619/
+
+Запускаем OpenGL на python3 (ubuntu) | https://habrahabr.ru/post/174131/
+
+История оптимизации alpha_composite в Pillow 2.0 | https://habrahabr.ru/post/174005/
+
+Выпущена новая версия Python Tools for Visual Studio 2.0 | https://habrahabr.ru/company/microsoft/blog/173973/
+
+Новый дизайн Python.org | https://habrahabr.ru/post/173521/
+
+Grab — новый интерфейс для работы с DOM-деревом HTML-документа | https://habrahabr.ru/post/173509/
+
+Настройка Vim для работы с Python и Django | https://habrahabr.ru/post/173473/
+
+Щелевая съёмка: Ловля птичек с помощью питона | https://habrahabr.ru/post/173115/
+
+Препроцессинг данных и анализ моделей | https://habrahabr.ru/post/173049/
+
+Про отток разработчиков из свободных проектов, преподавание Python в качестве первого языка и другие темы | https://habrahabr.ru/post/172505/
+
+«Бар желаний» к 8 марта на Python и Pyramid | https://habrahabr.ru/post/172243/
+
+Выкладка python-проектов с помощью pip и wheel | https://habrahabr.ru/post/172219/
+
+Экспорт фотоальбомов из ВКонтакта | https://habrahabr.ru/post/172131/
+
+Простой классификатор на PyBrain и PyQt4 (Python3) | https://habrahabr.ru/post/171937/
+
+Распознавание рукописных символов с использованием Python и scikit | https://habrahabr.ru/post/171723/
+
+Самый быстрый SAX-парсер для python | https://habrahabr.ru/post/171447/
+
+DataEngine и Python2 или Как я писал свой виджет | https://habrahabr.ru/post/171155/
+
+История одной оптимизации | https://habrahabr.ru/post/171005/
+
+Наконец-то. Зарелизился Django 1.5 | https://habrahabr.ru/company/netangels/blog/170877/
+
+Как мы создавали кластер из Raspberry Pi | https://habrahabr.ru/post/170305/
+
+PyCon для студентов | https://habrahabr.ru/company/it_people/blog/169779/
+
+Путешествие исключений между C++ и Python или «Туда и обратно» | https://habrahabr.ru/post/169639/
+
+Python в Европе под угрозой | https://habrahabr.ru/post/169607/
+
+Можно ли автоматически разгадать головоломку Mercator от Google? | https://habrahabr.ru/post/169493/
+
+Вышел новый PyCharm 2.7 с поддержкой Django 1.5, улучшенным рефакторингом и автодополнением | https://habrahabr.ru/company/JetBrains/blog/169023/
+
+Конвертация типов в Boost.Python. Делаем преобразование между привычными типами C++ и Python | https://habrahabr.ru/post/168827/
+
+Библиотека Jevix для Python | https://habrahabr.ru/post/168439/
+
+Объединяя C++ и Python. Тонкости Boost.Python. Часть вторая | https://habrahabr.ru/post/168233/
+
+Контроллер MeteoBoard | https://habrahabr.ru/post/165785/
+
+Простое управление вашим Arduino через web | https://habrahabr.ru/post/167209/
+
+Еще раз о многопоточности и Python | https://habrahabr.ru/post/167733/
+
+SALT – ПО для управления конфигурациями на Python | https://habrahabr.ru/post/168125/
+
+Объединяя C++ и Python. Тонкости Boost.Python. Часть первая | https://habrahabr.ru/post/168083/
+
+Imports Style Guide | https://habrahabr.ru/post/167957/
+
+Настраиваем Eclipse PyDev под отладку Python 3.x с честным юникодом и кириллицей | https://habrahabr.ru/post/167559/
+
+Параллельное программирование в Python при помощи multiprocessing и shared array | https://habrahabr.ru/post/167503/
+
+Использование Python в многопоточном приложении на C++ и настоящая многопоточность в Python | https://habrahabr.ru/post/167261/
+
+Программа PyCon Russia 2013 сформирована | https://habrahabr.ru/company/it_people/blog/167089/
+
+Применяем на практике знания, полученные на курсе An Introduction to Interactive Programming in Python (coursera.org) | https://habrahabr.ru/post/166627/
+
+О порядке поиска пакетов и модулей для импорта в Python | https://habrahabr.ru/post/166463/
+
+Получение списка интернет подключений роутера DIR-615 в читаемом виде | https://habrahabr.ru/post/166417/
+
+Решение MintEye CAPTCHA в 23 строки кода | https://habrahabr.ru/post/166307/
+
+TextTest — кроссплатформенный фреймворк на python для тестирования GUI и не только. Часть 2 | https://habrahabr.ru/post/165833/
+
+TextTest — кроссплатформенный фреймворк на python для тестирования GUI и не только. Часть 1 | https://habrahabr.ru/post/165617/
+
+Применяем на практике знания, полученные на курсе MIT 6.00x (edx.org) | https://habrahabr.ru/post/166223/
+
+Создание прототипа программы обработки изображений | https://habrahabr.ru/post/166149/
+
+Пишем свой плагин для XBMC. Пока без блекджека и всех остальных | https://habrahabr.ru/post/166097/
+
+Whois: практическое руководство пользователя | https://habrahabr.ru/post/165869/
+
+Визуализация статистики использования компьютера с R | https://habrahabr.ru/post/165337/
+
+Yet another python Chat client | https://habrahabr.ru/post/165243/
+
+Вышел Django 1.5 Release Candidate | https://habrahabr.ru/post/164779/
+
+Используем IronPython из Transact SQL | https://habrahabr.ru/post/164633/
+
+Високосные годы | https://habrahabr.ru/post/164521/
+
+Обучение программированию через игру или как быстро собрать весь мёд | https://habrahabr.ru/post/164229/
+
+PyCon in Russia: let it be | https://habrahabr.ru/company/it_people/blog/163899/
+
+Создание веб-приложения Django в Visual Studio 2012 и публикация его в облако Windows Azure | https://habrahabr.ru/post/163855/
+
+Играемся с изображениями в Python | https://habrahabr.ru/post/163663/
+
+Skype-бот для голосовых конференций | https://habrahabr.ru/post/163329/
+
+Пишем бота для игры «Найди отличие» | https://habrahabr.ru/post/163565/
+
+Насколько вы подвержены тупняку, и немного holywar | https://habrahabr.ru/post/163467/
+
+Рисование графиков. Python. Tkinter | https://habrahabr.ru/post/163395/
+
+Подключение сторонних инструментов в IntelliJ IDEA на примере pylint | https://habrahabr.ru/post/163227/
+
+Немного о Pivot tables в PostgreSQL и Python | https://habrahabr.ru/post/162893/
+
+Дружим Python 3 с MS Visual C++. Строим мост в Boost.Python с автоматической перекодировкой | https://habrahabr.ru/post/161931/
+
+Гвидо ван Россум перешёл из Google в Dropbox | https://habrahabr.ru/post/161907/
+
+Установка Python Image Library (PIL) в x64 системы на примере CentOS | https://habrahabr.ru/company/southbridge/blog/161517/
+
+Частотный анализатор английских слов, написаный на python 3, умеющий нормализовывать слова с помощью WordNet и переводить с помощью StarDict | https://habrahabr.ru/post/161073/
+
+WebSocket-чат на Tornado для вашего Django-проекта | https://habrahabr.ru/post/160123/
+
+Локализация простой pygtk программы c glade формой в Linux | https://habrahabr.ru/post/159629/
+
+Вести из недр CS188.1x Artificial Intelligence или итоговые впечатления | https://habrahabr.ru/post/159433/
+
+Декоратор cached_property | https://habrahabr.ru/post/159099/
+
+HowTo: Как подружить Django с WebSocket (socket.io, sockjs) | https://habrahabr.ru/post/128562/
+
+Использование RabbitMQ в django проектах без Celery, и что нового в Celery 3.0 | https://habrahabr.ru/post/158961/
+
+Сложные формы в Django | https://habrahabr.ru/post/158969/
+
+Python — оптимизация хвостовой рекурсии | https://habrahabr.ru/post/158385/
+
+Проблемы в библиотеке форм Django на примере поля ввода телефонов | https://habrahabr.ru/post/158107/
+
+Создание анимации средствами Python 2.7 | https://habrahabr.ru/post/158023/
+
+Скачивание музыкальной коллекции vk.com | https://habrahabr.ru/post/157925/
+
+PyGA: использование трекинга Google Analytics в бекенде, написанном на Python | https://habrahabr.ru/post/157621/
+
+Производительность в Python. Легкий путь | https://habrahabr.ru/post/157537/
+
+Питон в коробке – venv в python 3.3 | https://habrahabr.ru/post/157287/
+
+Абстрагирование потока управления | https://habrahabr.ru/post/157265/
+
+Интернационализация локального проекта django | https://habrahabr.ru/post/156879/
+
+MongoDb for developers. Неделя 1 | https://habrahabr.ru/post/156633/
+
+Мониторинг сервисов Windows средствами PowerShell и Python | https://habrahabr.ru/post/156597/
+
+Массовая запись с камер на выборах | https://habrahabr.ru/post/156417/
+
+Как просто подключить любой датчик OPC сервера к проекту narodmon.ru | https://habrahabr.ru/post/156277/
+
+Руководство: Pyramid для Людей — часть 4 | https://habrahabr.ru/post/136251/
+
+Руководство: Pyramid для Людей — часть 3 | https://habrahabr.ru/post/136245/
+
+Руководство: Pyramid для Людей — часть 2 | https://habrahabr.ru/post/136222/
+
+Руководство: Pyramid для Людей — оглавление | https://habrahabr.ru/post/135916/
+
+Определение доминирующих цветов: Python и метод k-средних | https://habrahabr.ru/post/156045/
+
+Python: надежная защита от потери запятой в вертикальном списке строк | https://habrahabr.ru/company/radmin/blog/134080/
+
+Решение проблемы оперативного ресайза изображений | https://habrahabr.ru/post/154567/
+
+Самая короткая запись асинхронных вызовов в tornado v2, или патчим AST | https://habrahabr.ru/post/153949/
+
+Смс оповещение для студентов со странички вконтакте | https://habrahabr.ru/post/153893/
+
+Как GPS трекер стал логером или простой и дешевый способ организовать мониторинг физических параметров удаленных объектов | https://habrahabr.ru/post/153719/
+
+«А пошло оно всё!» или снова о Coursera и ему подобных | https://habrahabr.ru/post/153605/
+
+Самая короткая запись асинхронных вызовов в tornado или патчим байткод в декораторе | https://habrahabr.ru/post/153595/
+
+Делаем учебник или документацию за час на Сфинксе | https://habrahabr.ru/post/151129/
+
+Django: запуск при помощи xinetd | https://habrahabr.ru/post/153165/
+
+Приводим русские тексты на Mac OS X в одну кодировку Python-скриптом | https://habrahabr.ru/post/152737/
+
+edX/MITx: Введение в информатику и программирование | https://habrahabr.ru/post/152495/
+
+Kaylee: распределённые вычисления в браузере | https://habrahabr.ru/post/151801/
+
+Взаимодействие интерпретаторов Python-IronPython-Jython | https://habrahabr.ru/post/151912/
+
+Программа-мечта начинающего питоновода | https://habrahabr.ru/post/151623/
+
+Gray Hat Python — DLL и Code Injection | https://habrahabr.ru/post/151621/
+
+Ninja IDE – открытая среда разработки для Python | https://habrahabr.ru/post/151392/
+
+Emacs и Python (статья 2 из цикла) | https://habrahabr.ru/post/151167/
+
+Неочевидная оптимизация по скорости при решении конкретной задачи на Python | https://habrahabr.ru/post/151163/
+
+Клиент для SOAP API Почты России на Python | https://habrahabr.ru/post/151152/
+
+Идеальное хранилище документов | https://habrahabr.ru/post/148670/
+
+Доставка свежей прессы с помощью Python прямо в почтовый ящик | https://habrahabr.ru/post/150940/
+
+Вышло обновление PyCharm до версии 2.6 с диаграммами классов, Flask, Python 3.3 и улучшенным редактором CSS/Sass/LESS | https://habrahabr.ru/company/JetBrains/blog/150867/
+
+Генераторы vs классы | https://habrahabr.ru/post/150798/
+
+Скидка до 50% на все продукты JetBrains | https://habrahabr.ru/post/150735/
+
+Учим Python качественно | https://habrahabr.ru/post/150302/
+
+Изучение OpenCL на примере взлома паролей | https://habrahabr.ru/post/150289/
+
+Работа с ssh в Python | https://habrahabr.ru/post/150047/
+
+Пишем бота для Twitter на основе GitHub API | https://habrahabr.ru/post/150181/
+
+Результаты Djangodash 2012 | https://habrahabr.ru/post/150002/
+
+RabbitMQ tutorial 2 — Очередь задач | https://habrahabr.ru/post/150134/
+
+Как я сам научился программировать за 8 недель | https://habrahabr.ru/post/150109/
+
+Отправка SMS из под Shell | https://habrahabr.ru/post/150050/
+
+Какой редактор или IDE вы используете для Python? | https://habrahabr.ru/post/149786/
+
+Обработка естественного языка. Полезные инструменты | https://habrahabr.ru/post/149749/
+
+RabbitMQ tutorial 1 — Hello World | https://habrahabr.ru/post/149694/
+
+Делаем standalone exe на IronPython | https://habrahabr.ru/post/149621/
+
+CPython vs. IronPython: вычисление MD5-хеша | https://habrahabr.ru/post/149612/
+
+Обучаем компьютер чувствам (sentiment analysis по-русски) | https://habrahabr.ru/post/149605/
+
+Учимся писать многопоточные и многопроцессные приложения на Python | https://habrahabr.ru/post/149420/
+
+Web2py фреймворк | https://habrahabr.ru/post/149357/
+
+Docstring coverage — покрытие python-кода документацией | https://habrahabr.ru/post/149371/
+
+Yet another classifier | https://habrahabr.ru/post/146903/
+
+Повышаем удобство управления пультом ДУ в Linux (lirc->python->xdotool) | https://habrahabr.ru/post/149118/
+
+Параметризованные запросы и производительность django orm | https://habrahabr.ru/post/149066/
+
+Декодирование капчи на Python | https://habrahabr.ru/post/149091/
+
+Сокеты в Python для начинающих | https://habrahabr.ru/post/149077/
+
+Создание плагина для Intellij Platform (IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and AppCode) | https://habrahabr.ru/post/148996/
+
+Django Dash 2012 | https://habrahabr.ru/post/148962/
+
+Некоторые особенности Django, о которых хорошо знать заранее | https://habrahabr.ru/post/148870/
+
+Интерактивные уроки Python на Codecademy | https://habrahabr.ru/post/148829/
+
+Программный захват с вебкамеры | https://habrahabr.ru/post/148692/
+
+Flask-Admin | https://habrahabr.ru/post/148765/
+
+Красивая печать в PDF из Django | https://habrahabr.ru/post/148612/
+
+Запускаем PyBrain на Python 3 | https://habrahabr.ru/post/148597/
+
+Кросс-вмный (CLR/JVM) код на Python | https://habrahabr.ru/post/148473/
+
+PyBrain работаем с нейронными сетями на Python | https://habrahabr.ru/post/148407/
+
+Django своими руками часть 3: Роуты, отладка, middleware, bottle, beaker | https://habrahabr.ru/post/148261/
+
+Прочие варианты использования оператора else | https://habrahabr.ru/post/148365/
+
+Секундомер под Android на Python + sl4a + fullScreenUI | https://habrahabr.ru/post/148142/
+
+Queryfeed — RSS-ленты из Твиттера и Фейсбука | https://habrahabr.ru/post/148155/
+
+UCS2 или UCS4? — pyodbc и работа с utf16 данными в MSSQL | https://habrahabr.ru/post/148137/
+
+Откуда тормоза в ORM? | https://habrahabr.ru/post/148044/
+
+Префиксные деревья в Python | https://habrahabr.ru/post/147963/
+
+Ответы на вопросы с PyObject. Часть 2 | https://habrahabr.ru/post/147783/
+
+Реализация кеша с ограничением по числу элементов на Python — решения: простое и посложнее | https://habrahabr.ru/post/147756/
+
+SPARQL запросы к содержимому HTML страниц | https://habrahabr.ru/post/147579/
+
+Космическая Змея в Магазине или Как Мы «CheeseShop» Ставили | https://habrahabr.ru/post/147492/
+
+Geeknote — консольный клиент для Evernote | https://habrahabr.ru/post/147448/
+
+Мысли о Python 3 | https://habrahabr.ru/post/147281/
+
+Используем OpenCL в Python | https://habrahabr.ru/post/146993/
+
+Экспорт избранного Хабра в FB2 | https://habrahabr.ru/post/116982/
+
+Django своими руками часть 2: Интернационализация | https://habrahabr.ru/post/146798/
+
+Pynba — pinba for python | https://habrahabr.ru/post/146673/
+
+Ответы на вопросы с PyObject | https://habrahabr.ru/post/145369/
+
+One Time Secret – после прочтения сжечь | https://habrahabr.ru/post/146588/
+
+Внедряем TDD с django и postgres | https://habrahabr.ru/company/ostrovok/blog/146552/
+
+Android, Ubuntu и Python: автоматизация записи интернет-радио и синхронизация on-air | https://habrahabr.ru/post/146272/
+
+Мониторинг позиций своими руками | https://habrahabr.ru/post/146258/
+
+Плеер на pygame | https://habrahabr.ru/post/146067/
+
+Plim — наиболее полный порт шаблонизатора Slim на Python | https://habrahabr.ru/post/145856/
+
+Метаклассы в Python | https://habrahabr.ru/post/145835/
+
+Oscar — магазин на Django | https://habrahabr.ru/post/145786/
+
+Упрощая жизнь c Django | https://habrahabr.ru/post/145491/
+
+look-at — менеджер фокуса | https://habrahabr.ru/post/145018/
+
+PyQt4: проблемы со сборкой QtHelp | https://habrahabr.ru/post/145205/
+
+Переименование файлов, скачанных с rutracker.org | https://habrahabr.ru/post/144938/
+
+Django своими руками часть 1: Собираем шаблоны для jinja2 | https://habrahabr.ru/post/144717/
+
+Вещи, о которых следует помнить, программируя на Python | https://habrahabr.ru/post/144614/
+
+Logging — библиотека для удобного ведения логов в Python | https://habrahabr.ru/post/144566/
+
+Argparse — парсим аргументы и параметры командной строки с легкостью | https://habrahabr.ru/post/144416/
+
+Python-биндинги для libsass. Эксклюзивно для Хабра | https://habrahabr.ru/post/144419/
+
+Django, Staticfiles, Windows и UnicodeDecodeError | https://habrahabr.ru/post/144121/
+
+Мультиаплоад файлов, версия N | https://habrahabr.ru/post/144052/
+
+Пишем модуль для авторизации в VK API | https://habrahabr.ru/post/143972/
+
+Делаем бэкап музыкальной базы vkontakte с помощью Python | https://habrahabr.ru/post/143860/
+
+Конвертируем Selenium веб-драйвер для Python 3.x | https://habrahabr.ru/post/143355/
+
+Inbox.py: самый простой SMTP-сервер | https://habrahabr.ru/post/143241/
+
+Распознаём изображение с токена при помощи камеры | https://habrahabr.ru/post/143102/
+
+Добавляем поддержку Windows Live Writer (Meta Weblog API) в блог на Django | https://habrahabr.ru/post/143100/
+
+Unity линза для поиска видео ВКонтакте | https://habrahabr.ru/post/143030/
+
+Кодим безумный пассивный сниффер в виде модуля для Python | https://habrahabr.ru/post/142816/
+
+Нахождение максимальной общей подпоследовательности | https://habrahabr.ru/post/142825/
+
+Нелегкий выбор Python или PHP. А может и то и другое? | https://habrahabr.ru/post/142600/
+
+Дистанционное управление презентацией со смартфона | https://habrahabr.ru/post/132331/
+
+Что такое Grab:Spider? | https://habrahabr.ru/post/142288/
+
+Использование Grab:Spider для парсинга сайтов | https://habrahabr.ru/post/142212/
+
+Вышел PyCharm 2.5 с поддержкой удаленных интерпретаторов, улучшенным virtualenv, SVN 1.7 и пр | https://habrahabr.ru/company/JetBrains/blog/142188/
+
+PHP: фрактал плохого дизайна | https://habrahabr.ru/post/142140/
+
+Как добавить динамизма в Python 2.7? | https://habrahabr.ru/post/142034/
+
+Модуль nginx для борьбы с DDoS, ставим cookie через Flash | https://habrahabr.ru/post/141989/
+
+Докладчики на UA PyCon | https://habrahabr.ru/post/141822/
+
+Создание RESTful API в Google App Engine на основе Flask | https://habrahabr.ru/post/141747/
+
+Понимаем декораторы в Python'e, шаг за шагом. Шаг 2 | https://habrahabr.ru/post/141501/
+
+Django Gmap v3 Widget — геолокация с поиском, сохранение координат и адреса в JSONField | https://habrahabr.ru/post/141444/
+
+Понимаем декораторы в Python'e, шаг за шагом. Шаг 1 | https://habrahabr.ru/post/141411/
+
+Почему python стал моим удобным инструментом для повседневной жизни, а ruby-нет | https://habrahabr.ru/post/141298/
+
+ImageValue в django-dbsettings | https://habrahabr.ru/post/141218/
+
+Fabric — пара прикладных рецептов | https://habrahabr.ru/post/141271/
+
+Скидка на PyCharm | https://habrahabr.ru/post/141250/
+
+Модуль Mock: макеты-пустышки в тестировании | https://habrahabr.ru/post/141209/
+
+Kyiv.py #6. Небольшой имхо-отчёт о встрече | https://habrahabr.ru/post/141208/
+
+Python threading или GIL нам почти не помеха | https://habrahabr.ru/post/141181/
+
+Поддержка подогретого бэкапа средствами двух MikroTik'ов | https://habrahabr.ru/post/140866/
+
+Ответ на Python vs Ruby | https://habrahabr.ru/post/140939/
+
+Шифр Виженера. Разбор алгоритма на Python | https://habrahabr.ru/post/140820/
+
+Мониторинг за изменениями файловой системы | https://habrahabr.ru/post/140649/
+
+Встречаем релиз Django 1.4 | https://habrahabr.ru/post/140543/
+
+Перестаньте писать классы | https://habrahabr.ru/post/140581/
+
+Модифицикация байт-кода функции в Python | https://habrahabr.ru/post/140356/
+
+Автоматизируем проверку трекинга почты России | https://habrahabr.ru/post/140319/
+
+Интеграция Python и C++ | https://habrahabr.ru/company/PENXY/blog/139655/
+
+Извлекаем мета-информацию из Си/C++ кода при помощи (py)gccxml | https://habrahabr.ru/post/138906/
+
+Экспорт друзей VK в Google Contacts | https://habrahabr.ru/post/140236/
+
+VIM, Django… Django, VIM | https://habrahabr.ru/post/140164/
+
+Кратко о PsychoPy | https://habrahabr.ru/post/140098/
+
+Tilt-Shift фотографии своими руками | https://habrahabr.ru/post/140135/
+
+Реализация инструментов для создания контента OVAL® на Python | https://habrahabr.ru/company/pt/blog/139950/
+
+Рисуем свою кнопку в QGraphicsScene в PyQt4 | https://habrahabr.ru/post/139933/
+
+Trafaret — библиотека для проверки и преобразования данных | https://habrahabr.ru/post/139927/
+
+Фотогалерея на Django с использованием Google Picasa в качестве хостинга | https://habrahabr.ru/post/139871/
+
+Python, Модули, SWIG, Windows | https://habrahabr.ru/post/139790/
+
+Сказ о wx.Python | https://habrahabr.ru/post/139560/
+
+Вышел новый PyCharm 2.1 Early Access Preview | https://habrahabr.ru/post/139458/
+
+Реализация паттерна MVC для PyQt | https://habrahabr.ru/post/139454/
+
+Документация по Grab — библиотеке для парсинга сайтов | https://habrahabr.ru/post/139435/
+
+Моя интеграция с 1С | https://habrahabr.ru/post/139272/
+
+Python-интерфейс между компьютером и физическим миром | https://habrahabr.ru/post/139132/
+
+Собираем свои счетчики через collectd протокол | https://habrahabr.ru/post/139053/
+
+Монады в Python поподробнее | https://habrahabr.ru/post/138676/
+
+Сортировки: key vs cmp | https://habrahabr.ru/post/138625/
+
+Для тех, кто хочет странного: монады в Python | https://habrahabr.ru/post/138546/
+
+Python: сортировка списков методом .sort() с ключом — простыми словами | https://habrahabr.ru/post/138535/
+
+Как обезопасить исходники своего python-приложения | https://habrahabr.ru/post/138537/
+
+Онлайн-репетитор по Python | https://habrahabr.ru/post/138513/
+
+Vim+Python. Для начинающих | https://habrahabr.ru/post/138053/
+
+Python sqlite3: Находим медленные запросы | https://habrahabr.ru/post/137677/
+
+Еще один шаг к PyCon.RU — ekb.py | https://habrahabr.ru/post/137593/
+
+Пользовательские атрибуты в Python | https://habrahabr.ru/post/137415/
+
+Знакомство с wxPython. Часть первая. Первые шаги | https://habrahabr.ru/post/137369/
+
+Python, scipy.weave и openMP — разгоняем код | https://habrahabr.ru/post/135857/
+
+Анализ данных. Приближенные множества | https://habrahabr.ru/post/137284/
+
+Уроки Python от компании Google | https://habrahabr.ru/post/137206/
+
+Обычная (или не совсем обычная) транслитерация на Python | https://habrahabr.ru/post/137089/
+
+Настройка emacs для разработки на python или поиск «идеального» редактора | https://habrahabr.ru/post/136668/
+
+Gephi как средство визуализации данных | https://habrahabr.ru/post/136575/
+
+Пишем простой плагин для Sublime Text 2 | https://habrahabr.ru/post/136529/
+
+Юникод для чайников | https://habrahabr.ru/post/135913/
+
+Симуляция нажатий Home, End, PgUp, PgDown | https://habrahabr.ru/post/136085/
+
+Как написать дополнение для GIMP на языке Python | https://habrahabr.ru/post/135863/
+
+Ещё один способ обновления торрентов | https://habrahabr.ru/post/135874/
+
+Расширяем функциональность collectd путем добавления своих биндингов | https://habrahabr.ru/post/135949/
+
+PyS60: Сказ о том, как блокнот для Symbian писался | https://habrahabr.ru/post/135840/
+
+Скрипт для Notepad++ на Python | https://habrahabr.ru/post/135822/
+
+Централизованный сбор конфигураций с MikroTik'ов средствами Python | https://habrahabr.ru/post/135541/
+
+Python на примере демона уведомления о новых коммитах Git | https://habrahabr.ru/post/135408/
+
+Первые шаги в программировании на Python | https://habrahabr.ru/post/134863/
+
+Фреймворк для парсинга Grab:Spider | https://habrahabr.ru/post/134918/
+
+Исследование производительности сервера SockJS | https://habrahabr.ru/post/134822/
+
+Как в python снаружи проверить значения, переданные в функцию | https://habrahabr.ru/post/134787/
+
+Релиз PyCharm 2.0 | https://habrahabr.ru/post/134544/
+
+Украшаем рабочий стол случайными обоями с GoodFon | https://habrahabr.ru/post/134521/
+
+Работа с PySide | https://habrahabr.ru/post/134457/
+
+Gray Hat Python — Immunity Debugger | https://habrahabr.ru/post/134407/
+
+ep.io — хостинг для python web-приложений | https://habrahabr.ru/post/134257/
+
+Как вы произносите python (в русской речи)? | https://habrahabr.ru/post/133979/
+
+Используем «Яндекс Музыку» вне браузера | https://habrahabr.ru/post/133578/
+
+Введение в Tkinter | https://habrahabr.ru/post/133337/
+
+TornadIO2 = Tornado + Socket.IO | https://habrahabr.ru/post/133350/
+
+Проксируем RSS поток при помощи Python | https://habrahabr.ru/post/133032/
+
+Скрипт поиска проектов на odesk.com | https://habrahabr.ru/post/132994/
+
+Как работает yield | https://habrahabr.ru/post/132554/
+
+Организация текучих (fluent) интерфейсов в Python | https://habrahabr.ru/post/132317/
+
+Поиск в строке. Реализация в CPython | https://habrahabr.ru/post/132156/
+
+Python + Selenium = не только тесты | https://habrahabr.ru/post/131966/
+
+Пишем консольный переводчик для *nix на Python | https://habrahabr.ru/post/130923/
+
+Doodle Jump на pygame | https://habrahabr.ru/post/130726/
+
+Частный случай использования Sikuli для решения проблемы в Facebook | https://habrahabr.ru/post/130094/
+
+Визуализация каталогов на Python средствами NetworkX | https://habrahabr.ru/post/129344/
+
+List Revolution. Нумерация списков начиная с единицы? Считайте, уже сделано! [UPD] | https://habrahabr.ru/post/129210/
+
+Генерим PDF бочками | https://habrahabr.ru/post/128078/
+
+Отправка важных сообщений из ВКонтакте по электронной почте | https://habrahabr.ru/post/129224/
+
+Реализация объектов-словарей, как в Javascript | https://habrahabr.ru/post/129201/
+
+Консольное приложение PassKeep | https://habrahabr.ru/post/128707/
+
+Демон для удаленного управления компьтером через e-mail | https://habrahabr.ru/post/128431/
+
+SQLAlchemy для Django | https://habrahabr.ru/post/128052/
+
+Выявление адресов сетей провайдера | https://habrahabr.ru/post/127822/
+
+Конкурентность в асинхронном приложении на примере twisted | https://habrahabr.ru/post/127812/
+
+Оповещение появления нового топика на Хабрахабре с помощью Python | https://habrahabr.ru/post/127806/
+
+Easy linux management over twitter | https://habrahabr.ru/post/127793/
+
+Grab — python библиотека для парсинга сайтов | https://habrahabr.ru/post/127584/
+
+Python-пакеты и их использование | https://habrahabr.ru/post/127441/
+
+PyCon 2011. Краткое изложение докладов | https://habrahabr.ru/post/127464/
+
+Простой Twitter-бот на Python | https://habrahabr.ru/post/127237/
+
+Используем Python в своей программе | https://habrahabr.ru/post/111306/
+
+Немного Python'о-подобных функций в C++11 | https://habrahabr.ru/post/126693/
+
+Релиз PyPy 1.6 | https://habrahabr.ru/post/126682/
+
+Социальный граф хабрасообщества | https://habrahabr.ru/post/126417/
+
+Проект PyPy представил визуализатор процесса JIT-компиляции и обрисовал ситуацию, когда PyPy быстрее языка Си | https://habrahabr.ru/post/126346/
+
+Библиотека для упрощения HTTP-запросов | https://habrahabr.ru/post/126262/
+
+Определение части речи слов в русском тексте (POS-tagging) на Python 3 | https://habrahabr.ru/post/125988/
+
+NetworkX для удобной работы с сетевыми структурами | https://habrahabr.ru/post/125898/
+
+Что вернет операция 1 < 3 < 2? | https://habrahabr.ru/post/125671/
+
+PyQt: простая работа с потоками | https://habrahabr.ru/post/125699/
+
+Python-неизвестный | https://habrahabr.ru/post/123821/
+
+Руководство: пишем интерпретатор с JIT на PyPy | https://habrahabr.ru/post/124418/
+
+Настраиваем окружение на Mac OS и собираем автономное приложение с PySide/PyQt | https://habrahabr.ru/post/124573/
+
+Бесплатная отправка SMS от своего мегафоновского номера с помощью python-скрипта | https://habrahabr.ru/post/124457/
+
+Ускорение кода на Python средствами самого языка | https://habrahabr.ru/post/124388/
+
+Еще немного о дескрипторах в Python | https://habrahabr.ru/post/123216/
+
+Видеоуроки по Python от Khan Academy | https://habrahabr.ru/post/123129/
+
+Объектное представление данных | https://habrahabr.ru/post/122923/
+
+Kyiv.py#3 в эту субботу | https://habrahabr.ru/post/122327/
+
+Руководство к дескрипторам | https://habrahabr.ru/post/122082/
+
+Визуальный скриптинг | https://habrahabr.ru/post/121924/
+
+Парсинг на Pуthon. Как собрать архив Голубятен | https://habrahabr.ru/post/121815/
+
+Вышел Tornado Web Server 2.0 RC | https://habrahabr.ru/post/121185/
+
+Тестирование. Начало | https://habrahabr.ru/post/121162/
+
+Как применять Linux epoll в Python | https://habrahabr.ru/post/121103/
+
+NumPy, пособие для новичков. Часть 1 | https://habrahabr.ru/post/121031/
+
+Отрисовка графиков в Chaco | https://habrahabr.ru/post/118280/
+
+PyCharm 1.5: свежий апдейт IDE для Python/Django | https://habrahabr.ru/post/120810/
+
+PyGTK: потоки и магия обёрток | https://habrahabr.ru/post/120668/
+
+Наивный Байесовский классификатор в 25 строк кода | https://habrahabr.ru/post/120194/
+
+Класс-клиент goo.gl и настройка API | https://habrahabr.ru/post/119560/
+
+ConfigParser и Unicode | https://habrahabr.ru/post/119405/
+
+Потоки в wxPython | https://habrahabr.ru/post/118664/
+
+Как поднять сервер для python скриптов за 1 минуту | https://habrahabr.ru/post/118460/
+
+Асинхронный удар | https://habrahabr.ru/post/117918/
+
+Создание py2exe сборок с модулями Python, содержащими сторонние файлы | https://habrahabr.ru/post/117686/
+
+Пайпы, the pythonic way | https://habrahabr.ru/post/117679/
+
+IPython advanced usage | https://habrahabr.ru/post/117608/
+
+PDF-принтер Хабра с подсветкой кода на Python | https://habrahabr.ru/post/117493/
+
+CityHash для Python | https://habrahabr.ru/post/117395/
+
+Как я боролся с кодировками в консоли | https://habrahabr.ru/post/117236/
+
+Генератор звуковых ландшафтов Boodler | https://habrahabr.ru/post/116891/
+
+Какие инструменты вы используете для оценки производительности? | https://habrahabr.ru/post/116874/
+
+Использование XmlRPC через прокси-сервер для хоста с авторизацией | https://habrahabr.ru/post/116867/
+
+PyUNO — быстрое незначительное редактирование xls-отчета из Python | https://habrahabr.ru/post/116409/
+
+Unladen Swallow — всё… | https://habrahabr.ru/post/116314/
+
+Распознавание некоторых современных CAPTCHA | https://habrahabr.ru/post/116222/
+
+Как работает glow.mozilla.org | https://habrahabr.ru/post/116046/
+
+Антипаттерн settings.py | https://habrahabr.ru/post/115893/
+
+Регулярные выражения, пособие для новичков. Часть 2 | https://habrahabr.ru/post/115436/
+
+Регулярные выражения, пособие для новичков. Часть 1 | https://habrahabr.ru/post/115825/
+
+Собираем данные с помощью Scrapy | https://habrahabr.ru/post/115710/
+
+Рисуем цветной кубик в Mayavi | https://habrahabr.ru/post/115170/
+
+Kyiv.py #2 | https://habrahabr.ru/post/115140/
+
+Простая библиотека для парсинга HTML | https://habrahabr.ru/post/115135/
+
+Простой конвертер текста в речь с использованием Google Translate | https://habrahabr.ru/post/115091/
+
+Запуск Chaco и Mayavi на PySide | https://habrahabr.ru/post/115004/
+
+Непрерывное тестирование питонопроекта | https://habrahabr.ru/post/114745/
+
+Pythonic | https://habrahabr.ru/post/114731/
+
+Python Module Usage Stats – Feb 2011 | https://habrahabr.ru/post/114673/
+
+Заметки об объектной системе языка Python ч.3 | https://habrahabr.ru/post/114587/
+
+Заметки об объектной системе языка Python ч.2 | https://habrahabr.ru/post/114585/
+
+Заметки об объектной системе языка Python ч.1 | https://habrahabr.ru/post/114576/
+
+odbm = объектная обёртка для key-value хранилищ | https://habrahabr.ru/post/114300/
+
+Использование библиотеки для полнотекстового поиска Xapian в Python | https://habrahabr.ru/post/113657/
+
+google translate script | https://habrahabr.ru/post/113243/
+
+Рисуем волну .wav-файла | https://habrahabr.ru/post/113239/
+
+Windows + Lighttpd + Python краткая инструкция по запуску | https://habrahabr.ru/post/113190/
+
+Python(x, y) | https://habrahabr.ru/post/113065/
+
+PyQt4 и QML | https://habrahabr.ru/post/113055/
+
+Простейший способ создать окружение virtualenv | https://habrahabr.ru/post/112917/
+
+Задачка о восьми ферзях | https://habrahabr.ru/post/112578/
+
+Реализация графов и деревьев на Python | https://habrahabr.ru/post/112421/
+
+Управление пакетами Python при помощи easy_install | https://habrahabr.ru/post/112332/
+
+Не совсем обычный XMPP-бот на Python: туннелирование | https://habrahabr.ru/post/111971/
+
+Разбор задач Hacker Cup Qualification Round + перенос Facebook Hacker Cup Online Round I | https://habrahabr.ru/post/111898/
+
+Устранение Хвостовой рекурсии | https://habrahabr.ru/post/111768/
+
+Откуда идут «функциональные» корни Python | https://habrahabr.ru/post/111756/
+
+Реализация XMPP Publish/Subscribe посредством Twisted | https://habrahabr.ru/post/111681/
+
+Python-way. Работа над ошибками | https://habrahabr.ru/post/111588/
+
+Управление облаками в Python | https://habrahabr.ru/post/111530/
+
+Избранное Хабра в PDF | https://habrahabr.ru/post/111411/
+
+Программирование под N900 на Python | https://habrahabr.ru/post/111370/
+
+ICQ бот на Python | https://habrahabr.ru/post/111263/
+
+PyCharm (IDE для Python/Django) обновился до версии 1.1 | https://habrahabr.ru/post/110594/
+
+Профилирование python приложений | https://habrahabr.ru/post/110537/
+
+Текст любой ценой: Miette | https://habrahabr.ru/post/109124/
+
+FTP сервер с авторизацией через базу данных | https://habrahabr.ru/post/108796/
+
+Python Bug Weekend | https://habrahabr.ru/post/108508/
+
+Pylons и repoze.bfg объединяются в проект Pyramid | https://habrahabr.ru/post/107946/
+
+Stackless Python и Concurrence | https://habrahabr.ru/post/107237/
+
+Где моя кнопка? | https://habrahabr.ru/post/106718/
+
+Релиз PyCharm 1.0 — новой Python/Django IDE от JetBrains | https://habrahabr.ru/post/106096/
+
+Сумбурные заметки про python и django | https://habrahabr.ru/post/105627/
+
+PyCon Ukraine ищет докладчиков | https://habrahabr.ru/post/105271/
+
+GUI для rfkill на python с использованием Qt | https://habrahabr.ru/post/105048/
+
+Облегчаем использование pyinstaller для создания exe | https://habrahabr.ru/post/104589/
+
+PyCon Украина (23-24 октября, Киев) | https://habrahabr.ru/post/103551/
+
+pdb – Интерактивный отладчик | https://habrahabr.ru/post/104086/
+
+Интеграция shared hosting и SVN | https://habrahabr.ru/post/103258/
+
+Браузерный интерпретатор Python | https://habrahabr.ru/post/103257/
+
+Конвертируем .bmp в .png, с помощью Python и PIL | https://habrahabr.ru/post/102463/
+
+Aptana IDE 2.0.5 + Django = в картинках | https://habrahabr.ru/post/102385/
+
+Библиотека для вывода изображений в командную строку | https://habrahabr.ru/post/102315/
+
+Gnome Forismatic Notify Applet | https://habrahabr.ru/post/102076/
+
+Пишем себе немного OpenID-авторизации | https://habrahabr.ru/post/101221/
+
+Python как базовый язык для ASP.NET | https://habrahabr.ru/post/100158/
+
+Обработка Excel файлов с использованием Python | https://habrahabr.ru/post/99923/
+
+Вышла версия 1.0 фреймворка Tornado | https://habrahabr.ru/post/99912/
+
+Выпущена новая версия IronPython 2.7 Alpha | https://habrahabr.ru/post/99390/
+
+Простое наложение 2-х изображений | https://habrahabr.ru/post/98743/
+
+Вышел Python 2.7 | https://habrahabr.ru/post/98296/
+
+Разработчик научных пакетов SciPy/NumPy выпустит их на .NET/IronPython | https://habrahabr.ru/post/98038/
+
+Релиз PyPy 1.3 | https://habrahabr.ru/post/97650/
+
+Python и Twisted — Заметки о параллельной обработке данных (мультипроцессности) | https://habrahabr.ru/post/97201/
+
+Полное покрытие кода | https://habrahabr.ru/post/97075/
+
+Документация tornado на русском языке | https://habrahabr.ru/post/96945/
+
+Распространение приложений на twisted | https://habrahabr.ru/post/96252/
+
+Python Tips, Tricks, and Hacks (часть 4, заключительная) | https://habrahabr.ru/post/95721/
+
+Слияние и поглощение | https://habrahabr.ru/post/95201/
+
+Wiki для Python-программистов | https://habrahabr.ru/post/95005/
+
+Pylons. Альтернатива routing.py | https://habrahabr.ru/post/94413/
+
+Ещё одно Python сообщество | https://habrahabr.ru/post/94393/
+
+Сравнение нагрузки — PyCurl vs HTTPClientFactory+Deferred | https://habrahabr.ru/post/92721/
+
+Bing + Python, поиск изображений | https://habrahabr.ru/post/91012/
+
+Визуализация активности сайта с помощью codeswarm | https://habrahabr.ru/post/91244/
+
+Code Like a Pythonista: Idiomatic Python (part2) | https://habrahabr.ru/post/90493/
+
+Python 2.7 beta 1 | https://habrahabr.ru/post/90627/
+
+PyPy научился напрямую загружать расширения CPython'а | https://habrahabr.ru/post/90560/
+
+Книга Gray Hat Python. Глава 2. Отладчики и устройство отладчика | https://habrahabr.ru/post/89901/
+
+Code Like a Pythonista: Idiomatic Python (part1) | https://habrahabr.ru/post/89735/
+
+Всё, что Вы хотели знать о слайсах | https://habrahabr.ru/post/89456/
+
+Code Like a Pythonista: Idiomatic Python (part0) | https://habrahabr.ru/post/88972/
+
+Книга Gray Hat Python | https://habrahabr.ru/post/88947/
+
+Генератор текста на основе триграмм (python) | https://habrahabr.ru/post/88514/
+
+Python Tips, Tricks, and Hacks (часть 3) | https://habrahabr.ru/post/86706/
+
+Nagare — пример использования фреймворка | https://habrahabr.ru/post/87908/
+
+Проекты Python в рамках Google Summer of Code — gevent | https://habrahabr.ru/post/87793/
+
+Meld в Windows | https://habrahabr.ru/post/87597/
+
+Вышел PyPy 1.2 и ускорил Python в разы! | https://habrahabr.ru/post/87364/
+
+Введение в pygtk/gtkbuilder: пишем калькулятор | https://habrahabr.ru/post/87327/
+
+Немного про py2exe | https://habrahabr.ru/post/87224/
+
+Пишем игру Реверси на Python + PyQt4 | https://habrahabr.ru/post/87009/
+
+Habra-colorer — скрипт для раскраски вашего хабракода из подручных средств | https://habrahabr.ru/post/86781/
+
+Python Tips, Tricks, and Hacks (часть 2) | https://habrahabr.ru/post/85459/
+
+Отладчик регулярок pyRoge | https://habrahabr.ru/post/85361/
+
+Сортировка изображений по разрешению с помощью Python и PIL | https://habrahabr.ru/post/85306/
+
+Python: советы, уловки, хаки (часть 1) | https://habrahabr.ru/post/85238/
+
+Как устроен GIL в Python | https://habrahabr.ru/post/84629/
+
+Be Pythonic | https://habrahabr.ru/post/84330/
+
+Материалы продвинутого уровня по Питону | https://habrahabr.ru/post/84235/
+
+Django в неблокирующем стиле, или в погоне за Священным Граалем | https://habrahabr.ru/post/84237/
+
+Деревянные игрушки-2 или Питоним на смартфоне | https://habrahabr.ru/post/83167/
+
+Началась конференция PyCamp Киев | https://habrahabr.ru/post/82567/
+
+Асинхронный http-клиент, или почему многопоточность — лишнее | https://habrahabr.ru/post/81716/
+
+Простой консольный прогрессбар на питоне | https://habrahabr.ru/post/81532/
+
+PyCamp Киев | https://habrahabr.ru/post/81379/
+
+bpython | https://habrahabr.ru/post/81158/
+
+Играемся с гироскопом ноутбука thinkpad в linux | https://habrahabr.ru/post/81027/
+
+Озеленение Twisted | https://habrahabr.ru/post/80339/
+
+Pyrant+PyModels — легчайшая замена Django ORM* | https://habrahabr.ru/post/80062/
+
+Плагины в Python | https://habrahabr.ru/post/79513/
+
+mod_wsgi 3.1 вышел 25 ноября | https://habrahabr.ru/post/79474/
+
+OptionParser и UnitTest в python скриптах | https://habrahabr.ru/post/79435/
+
+«Наследование» не от классов | https://habrahabr.ru/post/78924/
+
+Проект по переводу «Погружения в Python 3» | https://habrahabr.ru/post/78409/
+
+Основы работы с потоками в языке Python | https://habrahabr.ru/post/78267/
+
+Twisted в действии — memcache на python | https://habrahabr.ru/post/78114/
+
+sms2twitter гейт за 5 минут | https://habrahabr.ru/post/77761/
+
+ХабраКарма — пишем приложение на Python for s60 | https://habrahabr.ru/post/77452/
+
+Стиль кода | https://habrahabr.ru/post/76738/
+
+KDE4 Plasma Desktop. Создание плазмоида | https://habrahabr.ru/post/76548/
+
+Python и скорость: Unladen Swallow, PyPy, Cython | https://habrahabr.ru/post/76057/
+
+Подсветка исходного кода | https://habrahabr.ru/post/75349/
+
+Разговариваем про PyQt4 — Посиделка вторая | https://habrahabr.ru/post/75323/
+
+Разговариваем про PyQt4 — Посиделка первая | https://habrahabr.ru/post/75226/
+
+Totem Gnome Applet | https://habrahabr.ru/post/74937/
+
+Кодогенерация UML->Python (Django) | https://habrahabr.ru/post/74923/
+
+Django + Java = django-jython 1.0.0 | https://habrahabr.ru/post/74761/
+
+Настраиваем Vim под Python | https://habrahabr.ru/post/74128/
+
+Gnome Applets. Введение | https://habrahabr.ru/post/73973/
+
+Пример разработки небольшого python+PyQt4 приложения для учетной системы | https://habrahabr.ru/post/73643/
+
+Прокси-сервер SIP на Twisted | https://habrahabr.ru/post/73565/
+
+Международные ягнята | https://habrahabr.ru/post/73554/
+
+Unladen Swallow 2009Q3 | https://habrahabr.ru/post/73247/
+
+Proposal: Moratorium on Python language changes | https://habrahabr.ru/post/73163/
+
+Концепции ОС Фантом — это реальность Zope3 | https://habrahabr.ru/post/72998/
+
+Абстрактные классы и интерфейсы в Питоне | https://habrahabr.ru/post/72757/
+
+Прогресбар и нити в PyGTK | https://habrahabr.ru/post/72431/
+
+Исправляем Python Imaging (PIL) в Snow Leopard'е | https://habrahabr.ru/post/72549/
+
+Async Hearts | https://habrahabr.ru/post/71927/
+
+Несколько занимательных Python-проектов | https://habrahabr.ru/post/71898/
+
+Хабраподсветка или эксперименты в изолированном окружении Python | https://habrahabr.ru/post/70353/
+
+Tornado Web Server | https://habrahabr.ru/post/69346/
+
+Релиз PyDev 1.5 или PyDev Extensions теперь с открытым кодом | https://habrahabr.ru/post/68897/
+
+Анализ рынка ноутбуков с помощью Python | https://habrahabr.ru/post/68355/
+
+Офисный муз.проигрыватель с элементами демократии своими руками | https://habrahabr.ru/post/67922/
+
+Простой скрипт для рассылки СМС | https://habrahabr.ru/post/67810/
+
+Пишем апплет-переводчик для Gnome [python] | https://habrahabr.ru/post/67668/
+
+Сравнение эффективности способов запуска веб-приложений на языке Python | https://habrahabr.ru/post/67475/
+
+Boo — питонообразный .NET язык | https://habrahabr.ru/post/66592/
+
+Использование метаклассов в Python | https://habrahabr.ru/post/65625/
+
+Сортировка миллиона 32-битных int'ов в 2 мегабайтах памяти на Питоне | https://habrahabr.ru/post/65503/
+
+Заметки о метапрограммировании в Python | https://habrahabr.ru/post/64359/
+
+Пишем апплет для GNOME на Python | https://habrahabr.ru/post/64317/
+
+Реализация небольшого асинхронного сервера | https://habrahabr.ru/post/64229/
+
+Jabber-to-Evernote Gateway изнутри | https://habrahabr.ru/post/63586/
+
+6 способов слияния списка списков | https://habrahabr.ru/post/63539/
+
+Полиглоты в продакшн Питона | https://habrahabr.ru/post/63109/
+
+Разворачиваем nginx + mod_wsgi на сервере | https://habrahabr.ru/post/62545/
+
+Скрипты Python против Bash — 2 или Tips & Tricks | https://habrahabr.ru/post/62383/
+
+Случайные числа из звуковой карты | https://habrahabr.ru/post/62237/
+
+Порядок разрешения методов в Python | https://habrahabr.ru/post/62203/
+
+Параллельный Питон, начало | https://habrahabr.ru/post/61916/
+
+Учебник по языку программирования Python (хабраиндекс) | https://habrahabr.ru/post/61905/
+
+Regexp и Python: извлечение токенов из текста | https://habrahabr.ru/post/60369/
+
+Как я учился работать с XML | https://habrahabr.ru/post/61523/
+
+Опыт применения КА (FSM) в веб-интерфейсе на Python | https://habrahabr.ru/post/60751/
+
+Персональный зоопарк или немного о Pygame — Часть 1 | https://habrahabr.ru/post/59748/
+
+Python для системных администраторов | https://habrahabr.ru/post/59419/
+
+Объединяем twitter.com и vkontakte.ru | https://habrahabr.ru/post/59236/
+
+IPython: замена стандартного Python shell | https://habrahabr.ru/post/49685/
+
+Работа с камерой мобильного телефона в Python | https://habrahabr.ru/post/53549/
+
+Python для смартфонов на базе S60: начало | https://habrahabr.ru/post/53106/
+
+Тестирование веб-приложений при помощи mechanize | https://habrahabr.ru/post/52554/
+
+Why itertools rocks | https://habrahabr.ru/post/52474/
+
+PyQt4 — Диалоговые окна | https://habrahabr.ru/post/52457/
+
+Пишем полезную программу для KDE4 на питоне за два часа | https://habrahabr.ru/post/52217/
+
+Import this — Zen of Python | https://habrahabr.ru/post/51125/
+
+Memoization в Python | https://habrahabr.ru/post/50477/
+
+Основы Python — кратко. Часть 6. Расширенное определение функций. | https://habrahabr.ru/post/50381/
+
+Рекурсия с помощью Y–комбинатора | https://habrahabr.ru/post/50354/
+
+Python. Плазма-змей | https://habrahabr.ru/post/50184/
+
+Скрипт для рекурсивного сравнения директорий | https://habrahabr.ru/post/50152/
+
+Итерируем все и вся | https://habrahabr.ru/post/50026/
+
+Функциональное программирование для землян — списки | https://habrahabr.ru/post/50015/
+
+Функциональное программирование для землян — функции | https://habrahabr.ru/post/49723/
+
+Python, формирование структуры — Guido van Rossum (часть 2) | https://habrahabr.ru/post/49564/
+
+Python, философия дизайна — Guido van Rossum (часть 1) | https://habrahabr.ru/post/49447/
+
+Кузявые ли бутявки, т.е. пишем морфологический анализатор на Python | https://habrahabr.ru/post/49421/
+
+Было бы Вам полезно/интересно почитать про программирование на Python для WindowsMobile устройств? | https://habrahabr.ru/post/49401/
+
+Простейшее рисование с помощью PIL | https://habrahabr.ru/post/49361/
+
+NVIDIA CUDA(сиквел) — Настройка PyCUDA | https://habrahabr.ru/post/48798/
+
+Вышла первая версия Zine — клона Wordpress на Python. | https://habrahabr.ru/post/47728/
+
+Скрипты Python против Bash | https://habrahabr.ru/post/47474/
+
+Emacs и Python, Python и Emacs | https://habrahabr.ru/post/46350/
+
+Ещё немного о компоновке и виджетах | https://habrahabr.ru/post/46370/
+
+Сила и красота декораторов | https://habrahabr.ru/post/46306/
+
+Python 3. Финальная версия языка. | https://habrahabr.ru/post/46145/
+
+Консольные хитрости Питон: история команд + автодополнение | https://habrahabr.ru/post/46101/
+
+Задача решена. Но хорош ли код? | https://habrahabr.ru/post/45880/
+
+P4X: удобство E4X в Python | https://habrahabr.ru/post/45742/
+
+CorePy: программирование на ассемблере в Python | https://habrahabr.ru/post/45726/
+
+Python плагин для IntelliJ IDEA | https://habrahabr.ru/post/45632/
+
+Python 3. Соображения. | https://habrahabr.ru/post/45257/
+
+Компоновка — начало начал | https://habrahabr.ru/post/44755/
+
+О блоге PyGTK | https://habrahabr.ru/post/44670/
+
+Консервация объектов в Python | https://habrahabr.ru/post/44599/
+
+Пишем модуль расширения для Питона на C | https://habrahabr.ru/post/44520/
+
+«Python 3 Patterns & Idioms». Новая книга Брюса Эккеля. | https://habrahabr.ru/post/44343/
+
+Ultimate benchmark пяти с половиной способов проверить наличие атрибута объекта в Python | https://habrahabr.ru/post/43935/
+
+Интервально-ассоциативный массив | https://habrahabr.ru/post/43731/
+
+Expert Python Programming | https://habrahabr.ru/post/42432/
+
+Win32 GUI Automation при помощи pywinauto | https://habrahabr.ru/post/37153/
+
+"Складываем" хеши в Python ("синтаксический сахар") | https://habrahabr.ru/post/36906/
+
+PyQt4 — Сигналы и события | https://habrahabr.ru/post/31690/
+
+PyQt4 — Управление расположением виджетов | https://habrahabr.ru/post/31687/
+
+PyQt4 — Меню и панели инструментов | https://habrahabr.ru/post/31685/
+
+PyQt4 — Введение | https://habrahabr.ru/post/31684/
+
+Приручение py-rrdtool | https://habrahabr.ru/post/30655/
+
+Основы Python — кратко. Часть 5. Определение функций, основы. | https://habrahabr.ru/post/30633/
+
+Отладка в Python с помощью консоли | https://habrahabr.ru/post/30411/
+
+Основы Python — кратко. Часть 4. Генераторы списков | https://habrahabr.ru/post/30232/
+
+Отчёт о EuroPython 2008 | https://habrahabr.ru/post/30172/
+
+Основы Python — кратко. Часть 3. Списки, кортежи, файлы. | https://habrahabr.ru/post/30092/
+
+Основы Python — кратко. Строки. | https://habrahabr.ru/post/29980/
+
+Основы Python в кратком изложении | https://habrahabr.ru/post/29778/
+
+Переименование процессов в Python | https://habrahabr.ru/post/27875/
+
+Бесконечные циклы | https://habrahabr.ru/post/23807/
+
+А знаете ли вы… | https://habrahabr.ru/post/22795/
+
+Python-проекты в Google Summer of Code 2008 | https://habrahabr.ru/post/22245/
+
+Доклад по Python | https://habrahabr.ru/post/22005/
+
+Написание приложений, основаных на Qt, на языке Python | https://habrahabr.ru/post/31426/
+
+Portable Python — все свое ношу с собой! | https://habrahabr.ru/post/18997/
+
+Подробности о Python 2.6 и Python 3.0 | https://habrahabr.ru/post/16555/
+
+Юмор питонистов | https://habrahabr.ru/post/15119/
+
+Туториал по Schevo — реляционной надстройке над ООБД | https://habrahabr.ru/post/14524/
+
+Python 3000 alpha1 | https://habrahabr.ru/post/13722/
+
+Основы языка программирования Python за 10 минут | https://habrahabr.ru/post/31180/
+

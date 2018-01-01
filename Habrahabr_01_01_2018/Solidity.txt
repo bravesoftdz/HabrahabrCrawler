@@ -1,0 +1,48 @@
+Программирование генератора случайных чисел на Ethereum | https://habrahabr.ru/post/345904/
+
+Обновляемые смарт-контракты в сети Ethereum | https://habrahabr.ru/post/345606/
+
+Эксперименты с контрактами Solidity в тестовой сети Rinkeby блокчейна Ethereum | https://habrahabr.ru/post/344578/
+
+Руководство по блокчейн для маркетолога | https://habrahabr.ru/post/344290/
+
+Взаимодействие веб-страницы с Ethereum | https://habrahabr.ru/post/344270/
+
+Разбор квеста Digital Security ICO | https://habrahabr.ru/company/dsec/blog/343534/
+
+Dive into ICO | https://habrahabr.ru/post/342534/
+
+Обновляемые смарт-контракты Ethereum | https://habrahabr.ru/post/342200/
+
+Технические особенности проведения ICO. Начало | https://habrahabr.ru/post/342102/
+
+Смарт-контракт Ethereum для расчета бонусов используя дробные степени | https://habrahabr.ru/post/340984/
+
+Под капотом Ethereum Virtual Machine. Часть 1 — Solidity basics | https://habrahabr.ru/post/340928/
+
+Blockchain глазами разработчика | https://habrahabr.ru/post/340916/
+
+Погружение в разработку на Ethereum. Часть 3: приложение для пользователя | https://habrahabr.ru/post/339080/
+
+Смарт контракты Ethereum: что делать при ошибке в смартконтракте или техники миграции | https://habrahabr.ru/post/339102/
+
+Как я искал (и нашел!) баги в смартконтракте проекта kickico | https://habrahabr.ru/post/338960/
+
+Работа со смарт-контрактами через Ethereum RPC API | https://habrahabr.ru/company/raiffeisenbank/blog/338172/
+
+Погружение в разработку на Ethereum. Часть 2: Web3.js и газ | https://habrahabr.ru/post/336770/
+
+Погружение в разработку на Ethereum. Часть 1 | https://habrahabr.ru/post/336132/
+
+Введение в разработку умных контрактов Ethereum | https://habrahabr.ru/post/335710/
+
+Блокчейн-платформа для сделок торгового финансирования на базе смарт-контрактов | https://habrahabr.ru/company/raiffeisenbank/blog/332756/
+
+Смарт контракты Ethereum: структурируем токены как акции | https://habrahabr.ru/post/328246/
+
+Dive into Ethereum | https://habrahabr.ru/post/327236/
+
+Тестирование смарт контрактов Ethereum на примере DAO | https://habrahabr.ru/post/321362/
+
+Пишем умный контракт на Solidity. Часть 1 — установка и «Hello world» | https://habrahabr.ru/post/312008/
+

@@ -1,0 +1,914 @@
+Третья космическая скорость для MS SQL Server | https://habrahabr.ru/company/datacore/blog/345890/
+
+Накопители WD Red — сбалансированное решение для использования в составе малых и средних NAS | https://habrahabr.ru/company/wd/blog/345816/
+
+Технологии Dell ЕМС для защиты данных | https://habrahabr.ru/company/dellemc/blog/345632/
+
+Чек-лист неприятностей, которые могут случиться при переезде | https://habrahabr.ru/company/dataline/blog/345570/
+
+Не скоро строится забор, тем более – красивый ЦОД. Как мы строим ЦОД «Авантаж». Часть 2 | https://habrahabr.ru/company/technoserv/blog/345218/
+
+Рассказ о том, как создать хранилище и понять Redux | https://habrahabr.ru/company/ruvds/blog/345340/
+
+Удвоена производительность жестких дисков: технология Multi Actuator | https://habrahabr.ru/company/1cloud/blog/345290/
+
+Как управлять секциями в БД Oracle и не сойти с ума | https://habrahabr.ru/company/solarsecurity/blog/345014/
+
+Как устроены хранилища данных: обзор для новичков | https://habrahabr.ru/company/1cloud/blog/345154/
+
+Эволюция жестких дисков: как изменились винчестеры за 60 лет существования? | https://habrahabr.ru/company/wd/blog/345112/
+
+Big Data в Hadoop по подписке в облаке SAP | https://habrahabr.ru/company/sap/blog/344720/
+
+Живой митап #RuPostgres: вопросы и ответы с экспертами Avito. Расшифровка прямого эфира | https://habrahabr.ru/company/avito/blog/344780/
+
+Veritas Access 7.3: плюсы, минусы, подводные камни | https://habrahabr.ru/company/open_technologies/blog/344628/
+
+Greenplum 5: первые шаги в Open Source | https://habrahabr.ru/company/ibs/blog/343640/
+
+Перспективы эволюции жестких дисков: передовые технологии и трудности реализации | https://habrahabr.ru/company/wd/blog/344252/
+
+Как я придумывал и применял формат хранения результатов экспериментов Measurelook | https://habrahabr.ru/post/344174/
+
+GDPR — новые правила обработки персональных данных в Европе для международного IT-рынка | https://habrahabr.ru/company/digitalrightscenter/blog/344064/
+
+Сдаем экзамен NS0-507 — NetApp Certified Implementation Engineer—SAN Specialist | https://habrahabr.ru/post/343938/
+
+RAIDIX и Intel Lustre: как сделать люстру на много лампочек | https://habrahabr.ru/company/raidix/blog/343978/
+
+У CDROM’а век не долог? | https://habrahabr.ru/post/343448/
+
+Черная пятница айтишника, или Сказ о потере данных | https://habrahabr.ru/company/jetinfosystems/blog/343112/
+
+Анонсирована новая версия MongoDB: будет апдейт безопасности и свежие инструменты | https://habrahabr.ru/company/it-grad/blog/342774/
+
+Семинар «Облака для критичных систем», 30 ноября, Санкт-Петербург | https://habrahabr.ru/company/dataline/blog/343024/
+
+От поиска к исследованию документов в сетевых шарах и файловых помойках | https://habrahabr.ru/post/342978/
+
+Как IaaS-провайдер работает с ИБ: угрозы и защита | https://habrahabr.ru/company/1cloud/blog/342770/
+
+Сага о квадрантах и HPE Storage | https://habrahabr.ru/company/hpe/blog/342888/
+
+Как лидеры индустрии СХД собрались на ПРОSTOR’е в Сколково (фотоотчет) | https://habrahabr.ru/company/raidix/blog/342830/
+
+Как повысить производительность систем хранения данных в дата-центре | https://habrahabr.ru/company/1cloud/blog/342718/
+
+Переписать базу сообщений ВКонтакте с нуля и выжить | https://habrahabr.ru/company/vkontakte/blog/342570/
+
+Заглянем в будущее: как изменится инфраструктура хранения данных? | https://habrahabr.ru/company/datacore/blog/341782/
+
+Virtuozzo 7 Update 5 – что нового? | https://habrahabr.ru/company/virtuozzo/blog/342504/
+
+Storage. Multi-tier software-defined storage. Почему, зачем и как реализовано на примере облака MIRhosting | https://habrahabr.ru/company/jelastic/blog/342278/
+
+29 ноября, Харьков: доклад «Analytics in a Gaming Company: Big Data Architecture and Tools» | https://habrahabr.ru/company/plarium/blog/342290/
+
+Обзор сервера Lenovo ThinkSystem SR950 | https://habrahabr.ru/company/lenovo/blog/341640/
+
+Bad Rabbit показал: программы-вымогатели шифруют данные резервных копий | https://habrahabr.ru/company/acronis/blog/341318/
+
+Создан первый молекулярный компьютер на синтетических полимерах | https://habrahabr.ru/company/it-grad/blog/341272/
+
+Каждому по вебинару: узнайте о новых продуктах и решениях HPE | https://habrahabr.ru/company/hpe/blog/341260/
+
+VPS-хостинг: как выбрать? | https://habrahabr.ru/company/ruvds/blog/341228/
+
+Совместный доступ с RAIDIX и Apple Xsan. Яблочный спас для видеомонтажеров | https://habrahabr.ru/company/raidix/blog/341102/
+
+Выбираем файловую систему независимую от ОС | https://habrahabr.ru/post/341042/
+
+Решения Lenovo для дата-центров. Часть 2 | https://habrahabr.ru/company/lenovo/blog/340962/
+
+Живой митап #RuPostgres: вопросы и ответы с экспертами Avito | https://habrahabr.ru/company/avito/blog/340828/
+
+SC и Unity: два сапога — пара | https://habrahabr.ru/company/dellemc/blog/340588/
+
+Релиз СУБД InterSystems Caché 2017.2 | https://habrahabr.ru/company/intersystems/blog/340578/
+
+Поиск документов в сетевых шарах и файловых помойках | https://habrahabr.ru/post/340518/
+
+Семинар «Облака для критичных систем», 26 октября, Москва | https://habrahabr.ru/company/dataline/blog/340436/
+
+Amazon EFS работает быстрее, когда там много данных | https://habrahabr.ru/company/jugru/blog/340074/
+
+Применение PowerShell для ИТ-безопасности. Часть V: оптимизация платформы безопасности с использованием скриптов | https://habrahabr.ru/company/varonis/blog/340312/
+
+Китай — цифровая держава. Впечатления от Huawei Connect 2017 | https://habrahabr.ru/company/jetinfosystems/blog/340252/
+
+Решения Lenovo для дата-центров | https://habrahabr.ru/company/lenovo/blog/339980/
+
+Western Digital выпустили первый 14-терабайтный HDD | https://habrahabr.ru/company/1cloud/blog/340104/
+
+Смена потребительских предпочтений: в поисках идеального накопителя с поддержкой протокола NVMe | https://habrahabr.ru/company/ua-hosting/blog/336018/
+
+Мониторинг головного мозга | https://habrahabr.ru/post/339330/
+
+ПРОSTOR 2017. Снимаем маркетинговые обертки, или в поисках технологического прорыва | https://habrahabr.ru/company/raidix/blog/339002/
+
+NetApp ONTAP ─ разложим все по полочкам | https://habrahabr.ru/company/muk/blog/338954/
+
+Avamar не копирует дважды | https://habrahabr.ru/company/dellemc/blog/338884/
+
+Выбор и настройка SDS Ceph | https://habrahabr.ru/post/338782/
+
+Энергоэффективный ЦОД: знакомство с мировым опытом | https://habrahabr.ru/company/1cloud/blog/338710/
+
+Eggs Datacenter: как Emercoin позволил реализовать идею распределённого дата-центра на блокчейне | https://habrahabr.ru/company/emercoin/blog/338572/
+
+Конференция VMworld 2017 Europe. День 2, 3 | https://habrahabr.ru/company/jetinfosystems/blog/338496/
+
+Резервное копирование для Zimbra Collaboration Suite | https://habrahabr.ru/company/zimbra/blog/338276/
+
+Применение PowerShell для ИТ-безопасности. Часть III: бюджетная классификация | https://habrahabr.ru/company/varonis/blog/338166/
+
+Изоляция воздушных потоков в ЦОД. Типичные сценарии | https://habrahabr.ru/company/se_blog/blog/338016/
+
+Машинное обучение в практике администрирования. Технология QoSmic | https://habrahabr.ru/company/raidix/blog/338000/
+
+Конференция VMworld 2017 Europe. День 1 | https://habrahabr.ru/company/jetinfosystems/blog/337932/
+
+DBaaS: базы данных в облаке | https://habrahabr.ru/company/technoserv/blog/337860/
+
+Cloud Fabric: как SDN помогает IT более гибко реагировать на изменения | https://habrahabr.ru/company/huawei/blog/337914/
+
+Серверы HPE ProLiant Gen8 и Gen9 vs. Gen10 | https://habrahabr.ru/company/muk/blog/337890/
+
+Конференция VMworld 2017 Europe. День 0 | https://habrahabr.ru/company/jetinfosystems/blog/337786/
+
+Импортозамещение в нефтегазовом секторе: как добывающие компании на «Эльбрус» собрались | https://habrahabr.ru/company/redsys/blog/337730/
+
+Нам нечего скрывать – все честно в HPE 3PAR Data Reduction Guarantee | https://habrahabr.ru/company/hpe/blog/337636/
+
+Маскирование данных как инструмент минимизации трудозатрат на этапе ввода новых информационных систем в эксплуатацию | https://habrahabr.ru/company/infosecurity/blog/337446/
+
+Про МАССИВный ночник Pure Storage и счастливую пиарщицу | https://habrahabr.ru/company/jetinfosystems/blog/337142/
+
+Структурированные кабельные системы SYSTIMAX — Высокопроизводительная инфраструктура на основе инноваций | https://habrahabr.ru/company/comptek/blog/336920/
+
+Загрузка с GPT диска из BIOS | https://habrahabr.ru/post/336686/
+
+Резервное копирование не «для галочки». Часть первая: мониторинг, бэкапы баз данных и реплики | https://habrahabr.ru/company/itsumma/blog/336754/
+
+Рядное охлаждение в ЦОДе: мифы и реалии | https://habrahabr.ru/company/se_blog/blog/336404/
+
+Crashplan закрывает сервис для частных лиц | https://habrahabr.ru/post/336208/
+
+Как построить СХД с ракетной тягой на стандартном железе? Архитектура аппаратной платформы SDS RAIDIX | https://habrahabr.ru/company/raidix/blog/336086/
+
+Применение PowerShell для ИТ-безопасности. Часть II: анализ доступа к файлам | https://habrahabr.ru/company/varonis/blog/336062/
+
+Твердотельные накопители Samsung: набирая обороты | https://habrahabr.ru/company/ua-hosting/blog/309954/
+
+«300 миллионов книг на километр»: IBM продлевает жизнь магнитной ленте | https://habrahabr.ru/company/1cloud/blog/335664/
+
+ЦОД: этапы большой жизни | https://habrahabr.ru/company/se_blog/blog/335654/
+
+Мультипротокольный NAS-доступ к Netapp-ресурсам c ACLs | https://habrahabr.ru/company/icl_services/blog/335256/
+
+Централизованное хранилище логов для Squid Proxy или как мы логи в базу заворачивали | https://habrahabr.ru/post/335204/
+
+Применение PowerShell для ИТ-безопасности. Часть I: отслеживание событий | https://habrahabr.ru/company/varonis/blog/335176/
+
+Архивируй это: как устроено архивирование файловой системы с помощью Commvault | https://habrahabr.ru/company/dataline/blog/334824/
+
+Virtuozzo: Каковы реальные преимущества распределенного хранилища? | https://habrahabr.ru/company/virtuozzo/blog/334724/
+
+ZFS — лучшая файловая система (пока) | https://habrahabr.ru/post/334596/
+
+Oracle Storage Cloud Services ─ все, в чем нуждается корпоративное хранилище данных | https://habrahabr.ru/company/muk/blog/334578/
+
+Докеризация высокодоступного Postgres кластера | https://habrahabr.ru/post/334484/
+
+Бюджет на эксплуатацию дата-центра: инструкция по составлению | https://habrahabr.ru/company/dataline/blog/334320/
+
+СХД Infortrend — альтернатива А-брендам. Обзор и тестирование | https://habrahabr.ru/company/stss/blog/334226/
+
+БИТ-пикник глоток лета и полезной информации | https://habrahabr.ru/post/334134/
+
+Виртуализация и модернизация в O&G: история одного проекта | https://habrahabr.ru/company/lenovo/blog/333670/
+
+Стоимость хранения данных: «игра с нулевой суммой» | https://habrahabr.ru/company/1cloud/blog/333658/
+
+«Доктор Веб»: портал gosuslugi.ru скомпрометирован и может начать заражать посетителей или красть информацию | https://habrahabr.ru/company/drweb/blog/333008/
+
+Вышел первый накопитель на 64-слойной 3D TLC NAND от компании Intel | https://habrahabr.ru/company/1cloud/blog/332976/
+
+No rest for the wicked. Фотоотчет из дальних уголков России, где мы оказались благодаря Росгидромету | https://habrahabr.ru/company/lanit/blog/332888/
+
+Тем временем Proxmox VE обновился до версии 5.0 | https://habrahabr.ru/post/332542/
+
+Бэкап скриптами в облако Google Cloud Platform (GCP) за пять минут | https://habrahabr.ru/post/332474/
+
+Дата-центр ВКонтакте | https://habrahabr.ru/company/vkontakte/blog/332430/
+
+Проектируем СХД для видеонаблюдения | https://habrahabr.ru/company/raidix/blog/332476/
+
+Трансляция HPE Digitize: рассказываем о наших новых продуктах и решениях | https://habrahabr.ru/company/hpe/blog/332458/
+
+Как защитить корпоративное хранилище от вирусов-шифровальщиков снэпшотами | https://habrahabr.ru/post/332098/
+
+Экономия на спичках или восстановление данных из скрежещущего HDD Seagate ST3000NC002-1DY166 | https://habrahabr.ru/post/332004/
+
+NetApp HCI ─ гиперконвергентная система нового поколения для работы с данными | https://habrahabr.ru/company/muk/blog/332012/
+
+Эксплуатация дата-центра: что нужно делать самим | https://habrahabr.ru/company/dataline/blog/331902/
+
+СНОВА ОБНОВЛЕН: Технические подробности новой глобальной атаки Trojan.Encoder.12544 (в разных источниках — Petya и т.п.) | https://habrahabr.ru/company/drweb/blog/331878/
+
+«Лаборатория Касперского»: Правильная защита «облаков» | https://habrahabr.ru/company/ruvds/blog/331830/
+
+Pure Storage: час //m настал | https://habrahabr.ru/company/jetinfosystems/blog/331682/
+
+Сжатие фотографий без видимой потери качества: опыт Yelp | https://habrahabr.ru/post/331588/
+
+Грех администратора или восстановление данных из стучащего HDD Western Digital WD5000AAKX | https://habrahabr.ru/post/331512/
+
+Результаты внедрения Zextras для SaaS провайдера | https://habrahabr.ru/company/zimbra/blog/331522/
+
+ECS (Elastic Cloud Storage) ― облачная платформа хранения Dell EMC | https://habrahabr.ru/company/dellemc/blog/331506/
+
+Как с помощью блокчейна защитить свои данные | https://habrahabr.ru/company/acronis/blog/331326/
+
+Организация коммутационного поля СКС высокой плотности | https://habrahabr.ru/company/muk/blog/331394/
+
+Особенности организации ИТ-инфраструктуры для видеонаблюдения | https://habrahabr.ru/company/raidix/blog/331370/
+
+Технологические тенденции и актуальные решения SDN для ЦОД | https://habrahabr.ru/company/ruvds/blog/331334/
+
+Современные конвергентные технологии на рынке в РФ — попробуем сравнить? «Импортозамещение», Ceph + OpenStack, Nutanix | https://habrahabr.ru/company/nutanix/blog/331306/
+
+Безопасность облачных решений: реальность или миф? | https://habrahabr.ru/company/ruvds/blog/331180/
+
+ZFS on Linux: вести с полей 2017 | https://habrahabr.ru/post/314506/
+
+Неглубокое погружение или восстановление данных с жесткого диска после затопления офиса | https://habrahabr.ru/post/331090/
+
+Жим лёжа: сравниваем HPE StoreOnce и EMC Data Domain | https://habrahabr.ru/company/lanit/blog/330856/
+
+Как устаревшие базы телефонных номеров “съедают” деньги бизнеса? | https://habrahabr.ru/company/infobip/blog/330770/
+
+Всегда ли надежно шифрование или восстановление данных с внешнего жесткого диска Prestigio Data Safe II | https://habrahabr.ru/post/330642/
+
+Как построить инфраструктуру корп. класса c применением серверов Dell R730xd Е5-2650 v4 стоимостью 9000 евро за копейки? | https://habrahabr.ru/company/ua-hosting/blog/329618/
+
+«Энергетический предел»: Новые технологии охлаждения дата-центров | https://habrahabr.ru/company/it-grad/blog/330338/
+
+Innovation Summit: «Инновации на каждом уровне» | https://habrahabr.ru/company/se_blog/blog/330538/
+
+Путешествие внутрь Avito: платформа | https://habrahabr.ru/company/avito/blog/330414/
+
+Как принять закон или обработка данных в распределённых системах понятным языком | https://habrahabr.ru/company/cloud4y/blog/330462/
+
+Дешевый full flash – выдумка или реальность? | https://habrahabr.ru/post/330434/
+
+HP DL120 G7 — вторая жизнь сервера | https://habrahabr.ru/post/330286/
+
+HPE 3PAR StoreServ 9450 | https://habrahabr.ru/company/hpe/blog/330010/
+
+Блокчейн + распределённое хранилище = Sia | https://habrahabr.ru/post/330140/
+
+Основные возможности Dell EMC Cloud для Microsoft Azure | https://habrahabr.ru/company/muk/blog/330180/
+
+Восстановление данных с внешнего жесткого диска Seagate FreeAgent Go | https://habrahabr.ru/post/330120/
+
+All Flash Isilon NAS: масштабируемое хранилище для неструктурированных данных | https://habrahabr.ru/company/dellemc/blog/330088/
+
+Flashcache — дёшево и сердито или альтернатива HW RAID 10 SAS | https://habrahabr.ru/company/first/blog/330040/
+
+Как я делаю бекапы. СУБД FireBird | https://habrahabr.ru/post/329914/
+
+Acronis Backup 12.5 (теперь и) Advanced: долгожданный выпуск | https://habrahabr.ru/company/acronis/blog/327908/
+
+Microsoft внедрит ДНК-хранилище в одном из своих ЦОД | https://habrahabr.ru/company/it-grad/blog/329400/
+
+Пятое поколение СХД HPE MSA: удвоенная производительность за ту же цену | https://habrahabr.ru/company/hpe/blog/329874/
+
+Dumb ways to die, или отчего “падают” дата-центры | https://habrahabr.ru/company/dataline/blog/329744/
+
+От гиперконвергенции до правильно приготовленного Wi-Fi: летняя серия вебинаров HPE | https://habrahabr.ru/company/hpe/blog/329688/
+
+HCIBench — нагрузочное тестирование хранилищ под vSphere | https://habrahabr.ru/post/329650/
+
+Немного реверс-инжиниринга USB flash на контроллере SK6211 | https://habrahabr.ru/post/329596/
+
+Как FB, Apple и Google разрушают традиции в компьютерном бизнесе | https://habrahabr.ru/company/oleg-bunin/blog/329288/
+
+Основные протоколы хранения: использование и перспективы | https://habrahabr.ru/company/raidix/blog/329472/
+
+Облачное хранилище: нужна 100% совместимость с Amazon S3 API | https://habrahabr.ru/company/technoserv/blog/329338/
+
+Руководство по безопасности MongoDB | https://habrahabr.ru/company/pgdayrussia/blog/329306/
+
+Услуги сервиса Firebase подорожали в 70 раз, а нас никто не предупредил | https://habrahabr.ru/company/everydaytools/blog/329282/
+
+Nimble Storage в HPE: Как InfoSight позволяет видеть невидимое в вашей инфраструктуре | https://habrahabr.ru/company/hpe/blog/329202/
+
+Чтобы карета не превратилась в тыкву, или зачем нужны тестовые восстановления из резервных копий | https://habrahabr.ru/company/dataline/blog/329046/
+
+WannaCry 2.0: наглядное подтверждение того, что вам обязательно нужно правильное решение для надежного бэкапа | https://habrahabr.ru/company/acronis/blog/328796/
+
+Как выбрать надежного провайдера ЦОД: семь факторов успеха | https://habrahabr.ru/company/ruvds/blog/328988/
+
+GitLab PostgreSQL postmortem | https://habrahabr.ru/company/pgdayrussia/blog/328938/
+
+WannaCry vs. Adylkuzz: кто кого опередил? | https://habrahabr.ru/post/328932/
+
+Как система управления инженерными данными спасает файлы от уничтожения криптовирусами | https://habrahabr.ru/company/ascon/blog/328898/
+
+Оркестровка СУБД CockroachDB в Kubernetes | https://habrahabr.ru/company/flant/blog/328756/
+
+Как правильно защитить современный дата-центр | https://habrahabr.ru/company/ruvds/blog/328794/
+
+История хранилища картинок Avito | https://habrahabr.ru/company/avito/blog/328778/
+
+Дайджест: работа IaaS-провайдера, SSL-сертификаты, ЦОД и наш «пятничный формат» | https://habrahabr.ru/company/1cloud/blog/328602/
+
+Следует ли покупать память ECC? | https://habrahabr.ru/post/328370/
+
+Решение проблем с правами доступа в MySQL: вопросы и ответы | https://habrahabr.ru/company/pgdayrussia/blog/328290/
+
+Новая версия HPE Recovery Management Central 4.0 доступна для скачивания | https://habrahabr.ru/company/hpe/blog/328060/
+
+All-In-One: Proxmox + OpenMediaVault или ещё одна идея для домашнего NAS | https://habrahabr.ru/post/328048/
+
+Работа с Незнайкой — технологии упреждающего чтения и гибридные СХД | https://habrahabr.ru/company/raidix/blog/328078/
+
+Vector и Citrix запустят виртуальные машины в космос [буквально] | https://habrahabr.ru/company/it-grad/blog/328032/
+
+Как мы учились обновлять 5 000 серверов компании Тензор | https://habrahabr.ru/company/tensor/blog/327476/
+
+Знакомство с СУБД CockroachDB и создание отказоустойчивого кластера с ней на Ubuntu 16.04 | https://habrahabr.ru/company/flant/blog/327640/
+
+Эволюция отказоустойчивости в PostgreSQL: путешествие во времени | https://habrahabr.ru/company/pgdayrussia/blog/327750/
+
+Сравнение структур разделов GPT и MBR | https://habrahabr.ru/post/327572/
+
+Анализ публикаций на Хабрахабре за последние полгода. Статистика, полезные находки и рейтинги | https://habrahabr.ru/company/cloud4y/blog/327352/
+
+От Oracle к PostgreSQL – путь длиною в 4 года, доклад Андрея Рынкевича | https://habrahabr.ru/company/pgdayrussia/blog/327418/
+
+Базы данных с открытым исходным кодом на больших машинах: скорость диска и innodb_io_capacity. Часть 2 | https://habrahabr.ru/company/pgdayrussia/blog/327226/
+
+Как я дома NAS строил | https://habrahabr.ru/post/327104/
+
+Из будней сисадмина: распаковываем NetApp FAS 9000 | https://habrahabr.ru/company/lanit/blog/326958/
+
+Вредные советы по настройке резервного копирования и несколько баек | https://habrahabr.ru/company/dataline/blog/326948/
+
+Microsoft и Rambus охладят память до криогенной температуры | https://habrahabr.ru/company/1cloud/blog/326946/
+
+Вечная мерзлота, угольная шахта и piqlFilm: новый подход к хранению и защите данных | https://habrahabr.ru/company/ruvds/blog/326828/
+
+LVM Thin Provision: опыт эксплуатации на малом объекте | https://habrahabr.ru/post/326746/
+
+Страховка от кибер-рисков | https://habrahabr.ru/company/ruvds/blog/326530/
+
+Гуляем по дата-центру TIER III | https://habrahabr.ru/company/dataline/blog/326510/
+
+Эволюция отказоустойчивости в PostgreSQL: фаза репликации | https://habrahabr.ru/company/pgdayrussia/blog/326440/
+
+Не скоро строится забор, тем более – красивый ЦОД. Как мы строим ЦОД «Авантаж». Часть 1 | https://habrahabr.ru/company/technoserv/blog/326104/
+
+Миллионы запросов в секунду: мирная битва между PostgreSQL и MySQL при сегодняшних требованиях к рабочим нагрузкам | https://habrahabr.ru/company/pgdayrussia/blog/326204/
+
+Как комментарии Трампа о защите информации могут отразиться на политике в области кибербезопасности | https://habrahabr.ru/company/varonis/blog/326182/
+
+Защита конфиденциальных данных: основные возможности IBM Security Guardium | https://habrahabr.ru/company/muk/blog/326128/
+
+Как пережить масштабирование и синхронизировать-таки всё между дата-центрами | https://habrahabr.ru/company/uteam/blog/325938/
+
+Huawei HyperMetro – протестировали и внедрили | https://habrahabr.ru/company/jetinfosystems/blog/326082/
+
+Не останься в дураках 1-го апреля – делай backup | https://habrahabr.ru/company/acronis/blog/325362/
+
+Релиз СУБД InterSystems Caché 2017.1 | https://habrahabr.ru/company/intersystems/blog/325264/
+
+Вероятность потери данных в больших кластерах | https://habrahabr.ru/post/325216/
+
+Защита от DDoS-атак с точки зрения оператора связи. Часть 1 | https://habrahabr.ru/company/rostelecom/blog/325138/
+
+Интервью с разработчиком из Dropbox Леонидом Васильевым о работе и жизни в Ирландии | https://habrahabr.ru/company/it_people/blog/324800/
+
+«Мал да удал»: ученые разработали проточную батарею, охлаждающую чипы | https://habrahabr.ru/company/1cloud/blog/324764/
+
+«Сбои бывают у всех»: пример AWS и немного об опыте российского IaaS-провайдера | https://habrahabr.ru/company/1cloud/blog/324734/
+
+Мониторинг инженерной инфраструктуры в дата-центре. Часть 2. Система энергоснабжения | https://habrahabr.ru/company/dataline/blog/324610/
+
+Как мы создавали хостинг-провайдер с собственным ЦОД (продолжение) | https://habrahabr.ru/post/324546/
+
+Как облака меняют рынок колокации в дата-центрах | https://habrahabr.ru/company/hosting-cafe/blog/324442/
+
+Intel запускает первый SSD с технологией 3D Xpoint | https://habrahabr.ru/company/1cloud/blog/324460/
+
+Облачное хранилище корпоративного класса на базе NGINX Plus и Minio | https://habrahabr.ru/company/southbridge/blog/324086/
+
+Работа с PostgreSQL: настройка и масштабирование. 5-е издание | https://habrahabr.ru/post/324334/
+
+Дайджест практических материалов о работе с IaaS | https://habrahabr.ru/company/it-grad/blog/323944/
+
+Кластер хранилища Ceph на VMWare за 10 минут | https://habrahabr.ru/post/315646/
+
+Программно-определяемые СХД: сравниваем 7 решений | https://habrahabr.ru/company/lanit/blog/324072/
+
+Дата-центры, как искусство: дата-центры на дне океана | https://habrahabr.ru/company/ua-hosting/blog/323826/
+
+«Меньше некуда»: ученые из IBM сохранили информацию в атоме | https://habrahabr.ru/company/vasexperts/blog/321118/
+
+Куда уходят облака? Обзор исследования RightScale | https://habrahabr.ru/company/cloud4y/blog/323400/
+
+Почему февральское обновление HPE 3PAR StoreServ – самое важное с момента запуска линейки | https://habrahabr.ru/company/hpe/blog/323398/
+
+Amazon S3 около трех-четырех часов работал с перебоями, Medium, Slack, Coursera, Trello лежали | https://habrahabr.ru/post/322932/
+
+Восстановление хранилища данных и VMFS разделов. Поднимая EMC iomega с того свету… | https://habrahabr.ru/post/322754/
+
+Upspin: новая глобальная файловая система от Google | https://habrahabr.ru/company/kingservers/blog/322480/
+
+Облачное ценообразование: AWS vs Azure vs Google vs Cloud4Y | https://habrahabr.ru/company/cloud4y/blog/318132/
+
+Как мы создавали хостинг-провайдер с собственным ЦОД (продолжение) | https://habrahabr.ru/post/322192/
+
+NetApp MetroCluster (MCC) | https://habrahabr.ru/post/279989/
+
+Релиз Azure Managed Disks | https://habrahabr.ru/post/322060/
+
+Переменная облачность: снижаем расходы на бэкапы | https://habrahabr.ru/company/AflexDistribution/blog/321952/
+
+Как 3 тысячи рублей и простые методы повышения эффективности ЦОД помогли сэкономить кучу денег | https://habrahabr.ru/post/321944/
+
+Облачное видеонаблюдение: что должен каждый? | https://habrahabr.ru/company/intems/blog/320790/
+
+Сисадмин-2017: штрихи к портрету | https://habrahabr.ru/company/alloy_software/blog/321322/
+
+Let’s Encrypt и Express. Каждому серверу – по зелёному замку́ | https://habrahabr.ru/company/ruvds/blog/321268/
+
+Как мы создавали хостинг-провайдер с собственным ЦОД (продолжение) | https://habrahabr.ru/post/321226/
+
+Дизайн виртуализованного ЦОД | https://habrahabr.ru/post/321178/
+
+Восхождение дата-инженера | https://habrahabr.ru/company/inoventica/blog/321030/
+
+Как мы Redis Cluster готовили | https://habrahabr.ru/post/320902/
+
+Настройка сервера DNS по стандартам безопасности Северной Кореи | https://habrahabr.ru/company/varonis/blog/320900/
+
+VPS-хостинг и облачный хостинг: что выбрать и в чем разница? | https://habrahabr.ru/company/ruvds/blog/320880/
+
+Dell EMC: конвергенция для трансформации | https://habrahabr.ru/company/dellemc/blog/320764/
+
+Десятка лучших SMB-серверов 2017 года – о некоторых вы наверняка не знали | https://habrahabr.ru/company/pc-administrator/blog/320568/
+
+Закрытое бета-тестирование горячего хранилища в Облаке Mail.Ru | https://habrahabr.ru/company/mailru/blog/320422/
+
+Как добиться репликации с нулевым RPO на большие расстояния | https://habrahabr.ru/company/hpe/blog/320366/
+
+Создание зашифрованной флешки Kali Linux Encrypted Persistence | https://habrahabr.ru/post/320302/
+
+Как мы создавали хостинг-провайдер с собственным ЦОД | https://habrahabr.ru/post/320300/
+
+Как бывший командный пункт становится дата-центром | https://habrahabr.ru/company/ruvds/blog/320218/
+
+«Флеш всему голова»: IBM анонсировала линейку массивов хранения данных для облака | https://habrahabr.ru/company/1cloud/blog/319714/
+
+Unboxing: Что внутри у системы хранения данных NetApp AFF A300 | https://habrahabr.ru/company/it-grad/blog/319610/
+
+Сервер за границей | https://habrahabr.ru/company/ruvds/blog/319716/
+
+Электропитание без перебоев | https://habrahabr.ru/company/ruvds/blog/319588/
+
+Год без единого байта | https://habrahabr.ru/post/319570/
+
+Про HPE Synergy – часть V. Управление | https://habrahabr.ru/post/319430/
+
+Практика Powershell: мониторинг хранилища резервных копий Windows Backup | https://habrahabr.ru/post/319378/
+
+Экономика идей. Компонуемая инфраструктура. HPE Synergy | https://habrahabr.ru/company/muk/blog/319300/
+
+Intel представили память Optane на CES 2017 | https://habrahabr.ru/company/it-grad/blog/318542/
+
+NetApp SnapLock™ — Лицензионная функция для защиты данных (WORM) | https://habrahabr.ru/post/318226/
+
+Дешевые способы поддать жару системе хранения с помощью SSD | https://habrahabr.ru/company/pc-administrator/blog/319214/
+
+Как начать использовать аппаратное шифрование SSD-диска на примере Samsung EVO 850 и программы sedutil | https://habrahabr.ru/post/319054/
+
+Теоретические основы VMware Virtual SAN 6.5 | https://habrahabr.ru/post/318980/
+
+Сохранность данных не смотря ни на что. Катастрофоустойчивое резервное копирование в облаке Azure Pack Infrastructure | https://habrahabr.ru/company/infobox/blog/318856/
+
+Согласованная работа макро и микро базовых станций при создании гетерогенных сетей как ключ развития мобильного ШПД | https://habrahabr.ru/company/huawei/blog/318718/
+
+Виртуальный офис для реальной работы | https://habrahabr.ru/company/softline/blog/318710/
+
+История гигабайта | https://habrahabr.ru/company/cloud4y/blog/318712/
+
+Аренда выделенных серверов в России | https://habrahabr.ru/company/contell/blog/318664/
+
+От факапа до бэкапа: истории ИТ-компаний, потерявших данные | https://habrahabr.ru/company/safedata/blog/318582/
+
+Полезные Хухи: спасаем аналоговые камеры | https://habrahabr.ru/company/ivideon/blog/318590/
+
+Еще один домашний медиасервер на базе Docker | https://habrahabr.ru/post/318568/
+
+«Чтение на каникулы»: 25 полезных источников по теме IaaS, ИТ-инфраструктуры и облачных технологий | https://habrahabr.ru/company/it-grad/blog/318536/
+
+Архитектура хранения данных в Facetz.DCA | https://habrahabr.ru/company/dca/blog/318464/
+
+Бэкап сетевой шары (samba) в Linux по мотивам Windows Server Backup | https://habrahabr.ru/post/318388/
+
+Развертывание тестового кластера VMware Virtual SAN 6.2 | https://habrahabr.ru/post/318258/
+
+Резервное копирование с помощью Commvault: немного статистики и кейсов | https://habrahabr.ru/company/dataline/blog/318188/
+
+Как работает стриминг Netflix | https://habrahabr.ru/post/317640/
+
+Система Hyperwall от НАСА теперь использует СХД vFlash | https://habrahabr.ru/company/it-grad/blog/316284/
+
+Обработка и хранение данных: от древности до ЦОДов | https://habrahabr.ru/company/safedata/blog/317574/
+
+«SAP HANA в облаке VMware»: Расчет необходимых ресурсов | https://habrahabr.ru/company/it-grad/blog/316282/
+
+Автоматизированное восстановление баз данных MS SQL из бэкапов | https://habrahabr.ru/company/softlab/blog/316822/
+
+Информация на пороге бессмертия, часть 2: ДНК-накопитель | https://habrahabr.ru/company/cloud4y/blog/317110/
+
+6 бесплатных CDN для ускорения и улучшения безопасности вашего сайта | https://habrahabr.ru/company/hosting-cafe/blog/317054/
+
+Преимущества трёхуровневой схемы хранения резервных копий | https://habrahabr.ru/company/AflexDistribution/blog/317016/
+
+«Пьяная» база данных: как на 1 базе мы сделали 7 тестовых площадок, причём у каждой — свой собственный инкремент и дифф | https://habrahabr.ru/company/croc/blog/316908/
+
+Релиз СУБД InterSystems Caché 2016.2 | https://habrahabr.ru/company/intersystems/blog/316498/
+
+От наскальной живописи к облаку: что дальше? | https://habrahabr.ru/company/cloud4y/blog/316588/
+
+Под капотом у новой поделки Dell + EMC — флешового хранилища по цене дискового | https://habrahabr.ru/company/croc/blog/316374/
+
+Информация на пороге бессмертия | https://habrahabr.ru/company/cloud4y/blog/315982/
+
+SPDK: ускорение работы с NVMe-дисками | https://habrahabr.ru/company/intel/blog/315906/
+
+О животрепещущем в эксплуатации дата-центра | https://habrahabr.ru/company/dataline/blog/315892/
+
+Какую информацию отправляют и хранят в облаке EPP и EDR решения | https://habrahabr.ru/company/panda/blog/315830/
+
+Как мы заново собирали серверы в американском ЦОДе из России | https://habrahabr.ru/company/virtuozzo/blog/315722/
+
+Файлы в облаках. Выбираем сервис хранения данных для деловой среды | https://habrahabr.ru/company/comparex/blog/315492/
+
+Облако на Microsoft Hyper-V, часть 3: хранилище Storage Spaces | https://habrahabr.ru/company/dataline/blog/315472/
+
+Уязвимость скриптов инициализации Cryptsetup в Debian: достаточно просто зажать Enter | https://habrahabr.ru/post/315376/
+
+Восстановление поврежденного раздела NTFS, если его уменьшили до минимального размера (0 байт свободно) | https://habrahabr.ru/post/315246/
+
+Шаг к «светлому SSD-будущему» | https://habrahabr.ru/company/fujitsu/blog/315202/
+
+Повышение производительности SQL Server с помощью системы хранения начального уровня MSA 2042 | https://habrahabr.ru/company/hpe/blog/315036/
+
+Решения VMware для репликации и аварийного восстановления: vSphere Replication и Site Recovery Manager (SRM) | https://habrahabr.ru/post/315020/
+
+Facebook представила Backpack — второе поколение модульных маршрутизаторов для дата-центров | https://habrahabr.ru/post/314930/
+
+Молоток, термит и магнитное поле для быстрого уничтожения данных | https://habrahabr.ru/company/pc-administrator/blog/314902/
+
+Технологии хранения данных VMware vSphere 6. Часть 2.2 – New School: Virtual Volumes (VVOL) | https://habrahabr.ru/post/314670/
+
+ЦОД и цифровая трансформация | https://habrahabr.ru/company/ruvds/blog/314612/
+
+Технологии хранения данных VMware vSphere 6. Часть 2.1 – New School: SPBM и VAIO | https://habrahabr.ru/post/314604/
+
+Технологии хранения данных VMware vSphere 6. Часть 1 – Old School | https://habrahabr.ru/post/314400/
+
+Знакомство с хранилищем Ceph в картинках | https://habrahabr.ru/post/313644/
+
+Секреты эффективного управления дата-центрами по всему миру: от Токио до Сент-Луиса, от Сиднея до Лондона | https://habrahabr.ru/company/acronis/blog/309688/
+
+«В чем выгода»: Технико-экономическое обоснование использования IaaS | https://habrahabr.ru/company/it-grad/blog/312042/
+
+Кластер высокой доступности на postgresql 9.6 + repmgr + pgbouncer + haproxy + keepalived + контроль через telegram | https://habrahabr.ru/company/etagi/blog/314000/
+
+Резервное копирование standalone-блога на движке Wordpress в облаке Google Drive | https://habrahabr.ru/post/314012/
+
+Центр обработки данных в чемодане: один день из жизни ИТ-специалиста на автогонках | https://habrahabr.ru/company/acronis/blog/313708/
+
+Б/у серверы: разоблачение покупки с рук | https://habrahabr.ru/company/netrack/blog/313742/
+
+Властелин хранилищ | https://habrahabr.ru/company/hpe/blog/313672/
+
+Поднимаем Owncloud с нуля с динамическим IP и Let's Encrypt. Тысяча слонов!* | https://habrahabr.ru/post/310144/
+
+10 аргументов против миграции электронной почты в облако Microsoft | https://habrahabr.ru/company/pc-administrator/blog/313398/
+
+Опыт построения и эксплуатации большого файлового хранилища | https://habrahabr.ru/company/oleg-bunin/blog/313364/
+
+Бинарные (файловые) хранилища, страшная сказка с мрачным концом | https://habrahabr.ru/company/oleg-bunin/blog/313330/
+
+Про HPE Synergy – часть IV. Наши сети | https://habrahabr.ru/post/313240/
+
+Как выбрать облачного провайдера? | https://habrahabr.ru/company/simnetworks/blog/311106/
+
+Как мы строили свой мини ЦОД. Часть 3 — Переезд | https://habrahabr.ru/post/312870/
+
+DellEMC Unity 400F: небольшое тестирование | https://habrahabr.ru/post/312542/
+
+Как мы строили свой мини ЦОД. Часть 2 — Гермозона | https://habrahabr.ru/post/312496/
+
+Цикл статей «NetRack Guards: на страже клиентской ИТ-инфраструктуры»: история о человеке, контролирующем систему | https://habrahabr.ru/company/netrack/blog/312524/
+
+Как мы строили свой мини ЦОД. Часть 1 — Colocation | https://habrahabr.ru/post/312310/
+
+Не думай о секундах свысока | https://habrahabr.ru/company/ruvds/blog/312288/
+
+Microsoft StorSimple – автоматическое аварийное восстановление | https://habrahabr.ru/company/comparex/blog/312064/
+
+Ошибки в проекте дата-центра, которые вы ощутите только на этапе эксплуатации | https://habrahabr.ru/company/dataline/blog/311826/
+
+Легко скопировать ― быстро восстановить | https://habrahabr.ru/company/hpe/blog/311928/
+
+Google Диск в качестве резервного хранилища для VPS сервера на базе Linux | https://habrahabr.ru/post/311890/
+
+Как применение кодов избыточности в SDS помогает Яндексу дёшево и надёжно хранить данные | https://habrahabr.ru/company/yandex/blog/311806/
+
+Цикл статей «NetRack Guards: на страже клиентской ИТ-инфраструктуры»: история о человеке, который ходит по крышам | https://habrahabr.ru/company/netrack/blog/311402/
+
+8 мифов о дедупликации | https://habrahabr.ru/company/hpe/blog/311296/
+
+Про релиз и разработку True Image 2017 — все хардкорные фичи на месте | https://habrahabr.ru/company/acronis/blog/311280/
+
+Новые системы хранения данных NetApp под управлением ONTAP 9.1 | https://habrahabr.ru/post/311236/
+
+Запуск облака Azure Pack Infrastructure от InfoboxCloud | https://habrahabr.ru/company/infobox/blog/310686/
+
+Путь электричества в дата-центре | https://habrahabr.ru/company/dataline/blog/310356/
+
+Про HPE Synergy. Часть III – Дисковое хранилище D3940 и SAS-коммутаторы | https://habrahabr.ru/post/310564/
+
+NetApp ONTAP Cloud: Amazon & Azure | https://habrahabr.ru/post/279907/
+
+Совместная работа с документами: SharePoint 2016, Office Online и все-все-все. Часть 1. Что это? | https://habrahabr.ru/post/310396/
+
+Как мы неделю чинили compaction в Cassandra | https://habrahabr.ru/company/okmeter/blog/310000/
+
+Про HPE Synergy, часть II – Шасси и сервера | https://habrahabr.ru/post/310092/
+
+Цикл статей «NetRack Guards: на страже клиентской ИТ-инфраструктуры»: история о человеке, который знает все | https://habrahabr.ru/company/netrack/blog/310060/
+
+Экскурсия по дата-центру NORD-4 | https://habrahabr.ru/company/dataline/blog/309520/
+
+Подборка материалов об облаках, дата-центрах и разработке сервисов | https://habrahabr.ru/company/1cloud/blog/309510/
+
+Черный ящик для дома: собираем NAS своими руками, часть 1 | https://habrahabr.ru/post/309558/
+
+SmartSAN – как сделать жизнь проще | https://habrahabr.ru/company/hpe/blog/309534/
+
+С упором на VDI: система хранения NetApp All-Flash FAS | https://habrahabr.ru/company/muk/blog/309514/
+
+Мифы об облачных технологиях. Часть 3: Говорим о «железе» | https://habrahabr.ru/company/1cloud/blog/309364/
+
+NVMe over Fabric, Fibre Channel и другие | https://habrahabr.ru/company/trinity/blog/309086/
+
+Облако и консалтинг: Кейс по миграции в частное облако | https://habrahabr.ru/company/1cloud/blog/309238/
+
+NetApp ONTAP 9 | https://habrahabr.ru/post/304306/
+
+Zabbix 3.0.4: Агент Windows с TLS, LLD дисков, простой пример S.M.A.R.T. и только командная строка | https://habrahabr.ru/post/309172/
+
+Еще раз о пользе резервных копий или история о моей неудаче | https://habrahabr.ru/post/309132/
+
+IaaS-дайджест: 30 материалов о применимости облачных технологий | https://habrahabr.ru/company/it-grad/blog/309022/
+
+Half-HA cluster PostgreSQL на Windows 2012 | https://habrahabr.ru/post/308950/
+
+Кросс-облачная архитектура и VMware Cloud Foundation, единая платформа для управления SDDC | https://habrahabr.ru/company/cloud4y/blog/308876/
+
+Настройка MongoDB ShardedCluster с X.509 аутентификацией | https://habrahabr.ru/post/308740/
+
+Резервирование данных в системах виртуализации для малых и средних компаний | https://habrahabr.ru/company/hpe/blog/308260/
+
+Мифы об облачных технологиях. Часть 2: Поговорим о качестве сервисов | https://habrahabr.ru/company/1cloud/blog/308276/
+
+Будущее за флэш-памятью: IBM FlashSystem | https://habrahabr.ru/company/muk/blog/308304/
+
+Про HPE Synergy, часть I — Вступление | https://habrahabr.ru/post/308224/
+
+Революция флэш-памяти | https://habrahabr.ru/company/ruvds/blog/308038/
+
+Как устроена память NetApp FAS: NVRAM, Кеш и Тетрис | https://habrahabr.ru/post/280616/
+
+Новое флеш-хранилище для Big Data от IBM: Deep Flash 150 | https://habrahabr.ru/company/ibm/blog/307752/
+
+Анализ NetFlow v.9 Cisco ASA с помощью Logstash (ELK) | https://habrahabr.ru/post/307528/
+
+Физики из Дельфтского технологического университета создали атомное хранилище данных | https://habrahabr.ru/company/ibm/blog/307336/
+
+Cold Storage в облаке: Amazon, Google, Microsoft меняют рынок облачных сервисов хранения данных | https://habrahabr.ru/company/kingservers/blog/307262/
+
+Архитектура распределенных вычислений: от облака к туману и росе | https://habrahabr.ru/company/cloud4y/blog/307058/
+
+«Работа с микроскопом»: Революция в области хранения данных | https://habrahabr.ru/company/1cloud/blog/306806/
+
+Автоматизация работы с серверами при помощи Hewlett Packard Enterprise Server Automation | https://habrahabr.ru/company/muk/blog/306426/
+
+Как перенести свой железный сервер в облака за 1 день | https://habrahabr.ru/company/ultravds/blog/306050/
+
+BTSync как средство бэкапа | https://habrahabr.ru/post/303950/
+
+Перспективы рынка хранения данных | https://habrahabr.ru/company/cbs/blog/302300/
+
+Геораспределенный s3-кластер в режиме active-active | https://habrahabr.ru/post/301584/
+
+Установка CrashPlan в Docker-контейнер на NAS Synology | https://habrahabr.ru/post/282580/
+
+Как облачные технологии влияют на работу дата-центров | https://habrahabr.ru/company/1cloud/blog/279547/
+
+Фотоэкскурсия по «облаку» компании 1cloud | https://habrahabr.ru/company/1cloud/blog/278479/
+
+Что нового в Veeam Backup & Replication 9.0: повышаем эффективность создания и хранения резервных копий | https://habrahabr.ru/company/veeam/blog/276815/
+
+Миграция NAS с vfiler NetApp на EMC VNX | https://habrahabr.ru/post/276323/
+
+Миграция данных с различных типов Storage с использованием технологий EMC VPLEX и EMC RecoverPoint | https://habrahabr.ru/post/276163/
+
+Опыт и проблемы ЦОД: Как проверить надежность дата-центра | https://habrahabr.ru/company/it-grad/blog/276103/
+
+Резервное копирование: Кейс Google | https://habrahabr.ru/company/1cloud/blog/276047/
+
+О том, как я получал статус NCDA (NetApp Certified Data Administrator, Clustered Data ONTAP 8.3) | https://habrahabr.ru/post/275573/
+
+Как флеш-память изменит структуру дата-центров | https://habrahabr.ru/company/1cloud/blog/273939/
+
+Быстро поднятое не считается упавшим. Повышаем отказоустойчивость встраиваемых систем | https://habrahabr.ru/post/273425/
+
+Опыт тестирования ScaleIO | https://habrahabr.ru/post/273345/
+
+Хранение данных: Немного о 3D-дисках | https://habrahabr.ru/company/1cloud/blog/273273/
+
+Немного о дата-центре Facebook | https://habrahabr.ru/company/1cloud/blog/273185/
+
+Закон Мура и технологии хранения данных | https://habrahabr.ru/company/1cloud/blog/272429/
+
+Что нового происходит в сфере хранения данных | https://habrahabr.ru/company/1cloud/blog/271679/
+
+Что происходит на рынке IaaS | https://habrahabr.ru/company/it-grad/blog/271635/
+
+Строим свое собственное отказоустойчивое облако на базе OpenNebula с Ceph, MariaDB Galera Cluster и OpenvSwitch | https://habrahabr.ru/post/270187/
+
+Как бизнес работает с IaaS | https://habrahabr.ru/company/it-grad/blog/268865/
+
+Установка CentOS на ZFS в UEFI | https://habrahabr.ru/post/268711/
+
+Управление разными типами дисков на виртуальном сервере | https://habrahabr.ru/company/1cloud/blog/268547/
+
+Почему Интернету нужен IPFS, пока ещё не поздно | https://habrahabr.ru/post/268275/
+
+Планируем ресурсы для Veeam Backup & Replication 8.0: расчет требуемого места в репозитории | https://habrahabr.ru/company/veeam/blog/267743/
+
+Настройка SCST Target на CentOS 7 с использованием FC QLogic адаптера | https://habrahabr.ru/post/267157/
+
+BitTorrent Sync теперь без ограничений в бесплатной версии | https://habrahabr.ru/post/266955/
+
+Как руководителям компаний понять, что происходит в дата-центре | https://habrahabr.ru/company/it-grad/blog/265481/
+
+Немного о подземном дата-центре Netflix | https://habrahabr.ru/company/1cloud/blog/265473/
+
+Немного статистики об использовании облака | https://habrahabr.ru/company/1cloud/blog/293844/
+
+Как проходит революция флэш-памяти | https://habrahabr.ru/company/1cloud/blog/265179/
+
+Что говорит статистика о рынке IaaS | https://habrahabr.ru/company/it-grad/blog/264673/
+
+Как запустить ЦОД в плавание | https://habrahabr.ru/company/1cloud/blog/264595/
+
+Как экология влияет на охлаждение ЦОД | https://habrahabr.ru/company/1cloud/blog/264445/
+
+Инструмент для ИТ-аналитики на основе SAP Hana | https://habrahabr.ru/company/it-grad/blog/264137/
+
+Твердотельные накопители от Samsung оправданы. Проблема оказалась в ядре Linux | https://habrahabr.ru/post/263893/
+
+Модернизация оперативного дата-центра | https://habrahabr.ru/company/1cloud/blog/263701/
+
+Как переход в облако меняет роль внутренней ИТ-службы | https://habrahabr.ru/company/it-grad/blog/263295/
+
+Хранение данных на кассетах LTO-5 Ultrium с файловой системой LTFS | https://habrahabr.ru/post/263199/
+
+Грамотно подбираем и тестируем хранилище своих бекапов | https://habrahabr.ru/company/veeam/blog/261595/
+
+Intel против закона Мура: IBM — на помощь | https://habrahabr.ru/company/1cloud/blog/262863/
+
+IaaS для стартапа: Сотрудничество с сетью постаматов PickPoint | https://habrahabr.ru/company/it-grad/blog/262859/
+
+Быстрая настройка резервного копирования под Linux и не только (UrBackup) | https://habrahabr.ru/post/262499/
+
+Твердотельные накопители дали слабину | https://habrahabr.ru/company/1cloud/blog/262257/
+
+Надежное хранение и обновление данных во флэш памяти микроконтроллеров STM32 и MSP430 | https://habrahabr.ru/post/262163/
+
+В чем особенность подземных ЦОД | https://habrahabr.ru/company/1cloud/blog/261977/
+
+Инфраструктура: Что стоит за картинками в интернете | https://habrahabr.ru/company/1cloud/blog/261089/
+
+Как оценить выгоду от переезда в облако | https://habrahabr.ru/company/it-grad/blog/260515/
+
+SaaS, PaaS, IaaS или своё «железо»: Что используют отечественные ИТ-компании | https://habrahabr.ru/company/it-grad/blog/259651/
+
+Исследование: Неиспользуемые ЦОД на $30 млрд | https://habrahabr.ru/company/1cloud/blog/259775/
+
+Использование IaaS-облака для нагруженного веб-проекта: опыт Hotels.ru | https://habrahabr.ru/company/it-grad/blog/258389/
+
+Срок хранения данных на обесточенных SSD снижается с повышением температуры | https://habrahabr.ru/post/258353/
+
+Обновление прошивки HP P2000 G3 MSA Array System | https://habrahabr.ru/post/258007/
+
+Когда облака мало: Высокопроизводительные устройства хранения | https://habrahabr.ru/company/1cloud/blog/257735/
+
+Как облака изменили архитектуру дата-центров | https://habrahabr.ru/company/1cloud/blog/257299/
+
+Virtual Volumes от компании VMware – внедрять нельзя ждать? | https://habrahabr.ru/company/veeam/blog/257259/
+
+Можно ли говорить о применимости закона Мура в сфере IaaS | https://habrahabr.ru/company/1cloud/blog/257231/
+
+Ускоряет ли освобождение дискового пространства ваш компьютер? | https://habrahabr.ru/post/256231/
+
+Google, eBay и AliExpress будут хранить персональные данные россиян на серверах в РФ | https://habrahabr.ru/post/256181/
+
+Облака — белогривые лошадки или безопасный ownCloud для «маленьких» в FreeNAS | https://habrahabr.ru/post/255019/
+
+Обзор СХД DotHill 4824 | https://habrahabr.ru/post/253907/
+
+Об установке Crashplan в FreeNAS (и решение проблемы с кириллицей) | https://habrahabr.ru/post/253235/
+
+Гальванизация трупа: как удалось оживить битый HDD для хранения чего-нибудь ненужного | https://habrahabr.ru/post/252211/
+
+SnapProtect for Open Systems | https://habrahabr.ru/post/244675/
+
+Если Seagate запылился… | https://habrahabr.ru/post/251941/
+
+SnapProtect 10 SP2: новые возможности | https://habrahabr.ru/post/244679/
+
+NAS + SoftetherVPN = универсальный VPN сервер | https://habrahabr.ru/post/251123/
+
+Архивирование на магнитную ленту в Veeam Backup & Replication v8: новое для хорошо знакомого старого | https://habrahabr.ru/company/veeam/blog/250951/
+
+Архитектура резервного копирования на системах NetApp FAS | https://habrahabr.ru/post/244677/
+
+Детектор снапшотов Snapshot Hunter — встроенная функциональность Veeam Backup & Replication v8 | https://habrahabr.ru/company/veeam/blog/249959/
+
+NetApp 7-Mode: Недокументированные возможности или делаем DR из SnapVault | https://habrahabr.ru/post/244667/
+
+Парадигма резервного копирования NetApp | https://habrahabr.ru/post/244923/
+
+Оценка влияния уровней Сache на производительность ввода/вывода в EMC VNX5400 | https://habrahabr.ru/post/245385/
+
+Диски, контроллеры, ОС и Advanced Format | https://habrahabr.ru/post/245085/
+
+Микро БД для конфигурации на микроконтроллере | https://habrahabr.ru/post/244773/
+
+Бездисковая загрузка по технологии iSCSI на базе ОС Windows | https://habrahabr.ru/post/244661/
+
+Охлаждение серверной. Разделяй и властвуй | https://habrahabr.ru/post/243725/
+
+Преимущества нового метода резервного копирования виртуальных машин перед классическими схемами | https://habrahabr.ru/company/veeam/blog/242983/
+
+Обзор системы хранения резервных копий ExaGrid EX21000E — тест с Veeam Backup & Replication | https://habrahabr.ru/company/veeam/blog/241981/
+
+Сертификация NetApp | https://habrahabr.ru/post/242349/
+
+Почему по мере заполнения SSD падает скорость записи в RAID, или зачем нужен TRIM | https://habrahabr.ru/post/242199/
+
+Эффективное управление личными файлами | https://habrahabr.ru/post/241965/
+
+Bitcasa: плати больше, получай меньше или уходи | https://habrahabr.ru/post/241644/
+
+Нерациональное использование Digitalocean | https://habrahabr.ru/post/241247/
+
+Zyxel Keenetic + DAS CFI = бюджетный NAS? | https://habrahabr.ru/post/240727/
+
+Закон об обязательном переносе серверов на территорию России отложен на неопределённое время | https://habrahabr.ru/post/239831/
+
+Что будет с законом о запрете хранения персональных данных россиян за рубежом | https://habrahabr.ru/post/238807/
+
+Небольшая оценка влияния уровней Сache на производительность ввода/вывода в EMC VNXe3200 | https://habrahabr.ru/post/237993/
+
+Новые возможности Veeam Backup & Replication 8.0: автоматический контроль интенсивности операций чтения/записи | https://habrahabr.ru/company/veeam/blog/237181/
+
+Бэкап файлов, базы данных и настроек сервера в Dropbox | https://habrahabr.ru/post/236483/
+
+Охлаждение серверной. Куда потратить деньги с пользой | https://habrahabr.ru/post/235593/
+
+Агрегация каналов и балансировка трафика по IP для СХД | https://habrahabr.ru/post/215351/
+
+Поддержка аппаратных снапшотов СХД NetApp в Veeam Backup & Replication v8 | https://habrahabr.ru/company/veeam/blog/222147/
+
+Трансформация технологий хранения резервных копий: программные продукты и устройства дедупликации данных | https://habrahabr.ru/company/veeam/blog/216753/
+
+Оптимальная архитектура хранения резервных копий виртуальной инфраструктуры | https://habrahabr.ru/company/veeam/blog/206170/
+
+Введение в дедупликацию данных | https://habrahabr.ru/company/veeam/blog/203614/
+
+NetApp: Матрица совместимости | https://habrahabr.ru/post/154205/
+
+Dropbox — получаем дополнительные 9 Гб за один день | https://habrahabr.ru/post/120378/
+

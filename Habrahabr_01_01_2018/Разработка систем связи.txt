@@ -1,0 +1,1980 @@
+Как привычка людей постить фотки с концертов изменила жизнь мобильных операторов | https://habrahabr.ru/company/ru_mts/blog/345636/
+
+Будущее интернет-протоколов | https://habrahabr.ru/post/345472/
+
+Телефонный номер без паспорта | https://habrahabr.ru/company/zadarma/blog/344960/
+
+Две крупнейших CRM — Salesforce и Zoho — сравнение телефонных интеграций | https://habrahabr.ru/company/zadarma/blog/344586/
+
+Биллинговые системы будущего, и как они изменяют рынок связи | https://habrahabr.ru/company/billing/blog/344236/
+
+Генерация естественной речи в колл-центре 3CX, основанная на глубоком обучении | https://habrahabr.ru/company/3cx/blog/344260/
+
+Колл-центр для исходящего обзвона: создаем предиктивный диалер в 3CX Call Flow Designer | https://habrahabr.ru/company/3cx/blog/343674/
+
+Как мы делали гигантский объём связи для немаленькой охранной структуры | https://habrahabr.ru/company/croc/blog/343352/
+
+От Александра Белла до «большой тройки»: краткая история развития биллинговых систем | https://habrahabr.ru/company/billing/blog/343102/
+
+Базовые станции: как все начиналось | https://habrahabr.ru/company/ru_mts/blog/342602/
+
+Про 112, и как оно работает теперь | https://habrahabr.ru/post/340666/
+
+На дне: что угрожает подводным интернет-кабелям | https://habrahabr.ru/company/it-grad/blog/339616/
+
+Создаем живую потоковую CDN для видеотрансляций WebRTC с низкой задержкой | https://habrahabr.ru/company/flashphoner/blog/340344/
+
+Джозеф «Лик» Ликлайдер: «Межгалактическая компьютерная сеть» (1963 год) | https://habrahabr.ru/post/338092/
+
+Тотальное истощение, или есть ли жизнь после IPv4 | https://habrahabr.ru/company/vasexperts/blog/339958/
+
+Телеграм: отправка сообщений на номер мобильного в чат с ботом | https://habrahabr.ru/post/339704/
+
+Как подключить WebRTC к Zoom и звонить в 2 раза дешевле | https://habrahabr.ru/company/Voximplant/blog/339650/
+
+Последнее обновление для HPE ProLiant выводило из строя сетевые адаптеры | https://habrahabr.ru/company/it-grad/blog/339366/
+
+Telia запускает первую публичную 5G-сеть в Европе | https://habrahabr.ru/company/it-grad/blog/339364/
+
+INTERCOM'17. Конференция о коммуникациях для бизнеса | https://habrahabr.ru/company/Voximplant/blog/339314/
+
+Новая платформа Cisco Intersight упростит управление Cisco UCS и HyperFlex | https://habrahabr.ru/company/it-grad/blog/338626/
+
+160-терабитный трансатлантический кабель Marea закончен | https://habrahabr.ru/company/it-grad/blog/338622/
+
+MultiSim + М2М OTA платформа | https://habrahabr.ru/company/tottoli_gsm/blog/338148/
+
+Тянем ролик с YouTube и раздаем по WebRTC в реалтайме | https://habrahabr.ru/company/flashphoner/blog/338098/
+
+Межсерверное WebRTC | https://habrahabr.ru/company/flashphoner/blog/337670/
+
+Как перейти на gRPC, сохранив REST | https://habrahabr.ru/post/337716/
+
+Google Titan — стали известны новые подробности о чипе | https://habrahabr.ru/company/1cloud/blog/336730/
+
+Звоним бесплатно, используя блокчейн-сервис ENUMER | https://habrahabr.ru/company/emercoin/blog/337034/
+
+Работа с параметрами CST из Matlab | https://habrahabr.ru/post/336396/
+
+Телефонная книга Freeswitch | https://habrahabr.ru/company/big/blog/330360/
+
+Зачем нужен SBC на границе сетей | https://habrahabr.ru/post/335194/
+
+Что творится с HEVC (h265) | https://habrahabr.ru/company/erlyvideo/blog/333028/
+
+Когда в России ждать 5G | https://habrahabr.ru/company/ru_mts/blog/333966/
+
+Ссылочная TCP/IP стеганография | https://habrahabr.ru/post/332962/
+
+Тандем офисной и мобильной телефонии. Как мы разрабатывали FMC | https://habrahabr.ru/company/mtt/blog/332644/
+
+Как Pony Express удается вам доставлять | https://habrahabr.ru/company/Voximplant/blog/331650/
+
+SigPloit: опубликован фреймворк для тестирования телеком-уязвимостей в протоколах SS7, GTP, Diameter и SIP | https://habrahabr.ru/company/pt/blog/331234/
+
+Шел 2017 год. Где UDP фрагментация? | https://habrahabr.ru/company/Voximplant/blog/331132/
+
+Software Defined Radio руками шестнадцатилетнего подростка | https://habrahabr.ru/post/330052/
+
+Интеграция телефонии с CRM: на что опираться при самостоятельной настройке | https://habrahabr.ru/company/uis/blog/330396/
+
+Компания IBM представила первый в мире 5-нанометровый чип | https://habrahabr.ru/company/it-grad/blog/330304/
+
+Прокторинг в онлайн-экзаменах: как это работает? | https://habrahabr.ru/company/stepic/blog/329420/
+
+Учим робота слушать разговоры | https://habrahabr.ru/company/uis/blog/329456/
+
+Интеграция CRM и телефонии, уроки разработки сложного продукта | https://habrahabr.ru/company/sipuni/blog/328798/
+
+Кому нужны звонки, когда есть чаты и боты? | https://habrahabr.ru/company/Voximplant/blog/328616/
+
+Теория конусных антенн BowTie | https://habrahabr.ru/post/328728/
+
+Реализация Frameworx в телекоммуникационном API | https://habrahabr.ru/post/322972/
+
+Задержка в онлайн-трансляциях с веб-камеры, бессердечная ты стерва | https://habrahabr.ru/company/flashphoner/blog/328286/
+
+Фазовая модуляция радиосигнала в ПЛИС | https://habrahabr.ru/post/328102/
+
+Транслируем видеопоток с веб-страницы по WebRTC на Facebook и YouTube одновременно | https://habrahabr.ru/company/flashphoner/blog/327986/
+
+Как автоматизировать подтверждение заказа, если ты не Юлмарт (спойлер: точно так же, как Юлмарт) | https://habrahabr.ru/company/Voximplant/blog/327014/
+
+Несколько строк JS кода для звонка из браузера на мобильный телефон | https://habrahabr.ru/company/flashphoner/blog/327466/
+
+Трансляция RTMP видеопотока из Live Encoder на WebRTC | https://habrahabr.ru/company/flashphoner/blog/327214/
+
+МТС и Ericsson тестируют 5G в движении на стадионе «Спартак» – ОНЛАЙН-трансляция | https://habrahabr.ru/company/ru_mts/blog/326910/
+
+Mission critical communication и при чем тут NFV? | https://habrahabr.ru/company/billing/blog/326500/
+
+Коротко и просто о сложном – тарификация в «8-800» | https://habrahabr.ru/company/megafon/blog/315616/
+
+Третий сервис лишний: Telegram и сам дружит с телефонией | https://habrahabr.ru/company/uis/blog/326490/
+
+Будущее API | https://habrahabr.ru/post/326080/
+
+Как подружить Telegram-бота с телефонией | https://habrahabr.ru/company/uis/blog/325648/
+
+Управление CST MWS с помощью Matlab | https://habrahabr.ru/post/325012/
+
+Коммуникации для всех: новинки Grandstream Networks | https://habrahabr.ru/company/muk/blog/324782/
+
+Браузерная WebRTC трансляция с RTSP IP-камеры с низкой задержкой | https://habrahabr.ru/post/324294/
+
+Делаем свой Skype с переводом речи в реальном времени, только лучше | https://habrahabr.ru/company/Voximplant/blog/320828/
+
+«В 100 000 раз быстрее»: ультракороткие световые импульсы в вычислительной технике | https://habrahabr.ru/company/vasexperts/blog/321120/
+
+DIY в телефонии: простые конструкторы на основе API | https://habrahabr.ru/company/uis/blog/324104/
+
+Революция в радиотехнике? RF-ARM-FPGA SoC | https://habrahabr.ru/post/323716/
+
+Оцифровка звука на STM32 (АЦП+DMA) и кодирование в Speex для передачи | https://habrahabr.ru/post/323598/
+
+Запуск WebRTC медиасервера в облаке Amazon EC2 для Live видеотрансляций из браузеров и мобильных приложений | https://habrahabr.ru/post/323376/
+
+Развертывание многопользовательской WebRTC трансляции с web-камеры через сервер за 3 минуты | https://habrahabr.ru/post/323176/
+
+Трансляция WebRTC-видеопотока из браузера на YouTube Live в 65 строк JavaScript/HTML-кода | https://habrahabr.ru/post/321700/
+
+Протокол OSSI и Avaya Communication Manager | https://habrahabr.ru/post/320596/
+
+Эксклюзивные кадры монтажа ретранслятора МТС на солнечных батареях в Каменном море (ВИДЕО) | https://habrahabr.ru/company/ru_mts/blog/320534/
+
+Дайджест материалов по теме Deep Packet Inspection | https://habrahabr.ru/company/vasexperts/blog/319628/
+
+Старикам здесь вполне ещё место: забытые ИT-технологии в строю | https://habrahabr.ru/company/parallels/blog/319824/
+
+«DPI платит за себя»: Актуальные бизнес-кейсы | https://habrahabr.ru/company/vasexperts/blog/319624/
+
+Личный опыт: Как мы автоматизировали работу с DNS-записями в хостинг-панели | https://habrahabr.ru/company/1cloud/blog/318286/
+
+Спецификация LoRaWAN. Активация оконечных устройств | https://habrahabr.ru/company/efo/blog/317218/
+
+«Эхо прошлых лет»: Как решается вопрос недостатка адресов IPv4 | https://habrahabr.ru/company/vasexperts/blog/316272/
+
+Cambium даёт новую жизнь вашим перегруженным сетям на Ubiquiti: новая программа для операторов | https://habrahabr.ru/company/comptek/blog/317482/
+
+Новые модели радиомостов Siklu EtherHaul 2500 – передавать больше, передавать дальше | https://habrahabr.ru/company/comptek/blog/317202/
+
+Спецификация LoRaWAN. Введение. Основные понятия и классы оконечных устройств | https://habrahabr.ru/company/efo/blog/316954/
+
+Elastix 5 beta | https://habrahabr.ru/post/317100/
+
+О широкополосных СВЧ переключателях фирмы «Peregrine Semiconductor» | https://habrahabr.ru/company/efo/blog/316526/
+
+Пять аспектов информационной безопасности, которые изменятся с развитием мобильных сетей пятого поколения | https://habrahabr.ru/company/gemaltorussia/blog/316522/
+
+Тут-тук, откройте | https://habrahabr.ru/company/Voximplant/blog/315774/
+
+Как МТС с помощью ретранслятора на солнечных батареях запустил 3G и LTE в горах | https://habrahabr.ru/company/ru_mts/blog/315958/
+
+Использование технологий от Intel для передачи сетевого трафика из физического адаптера в виртуальный | https://habrahabr.ru/post/315914/
+
+DPI-дайджест: Анализ трафика, блокировки, платформы и производители систем DPI | https://habrahabr.ru/company/vasexperts/blog/315008/
+
+Коротко и просто о сложном – маршрутизация в «8-800» | https://habrahabr.ru/company/megafon/blog/314240/
+
+Freeform распознавание речи в реальном времени и распознавание записей звонков | https://habrahabr.ru/company/Voximplant/blog/310684/
+
+Как делают Wi-Fi-сеть в общественном транспорте | https://habrahabr.ru/company/ru_mts/blog/314134/
+
+Коротко и просто о сложном – сервис «8-800» (Freephone) | https://habrahabr.ru/company/megafon/blog/313474/
+
+Подключение АЦП к ПЛИС. Особенности, сложности, реализация | https://habrahabr.ru/post/313692/
+
+Досье на хакера: Борис Флорикик aka Tron, создатель первого Криптофона | https://habrahabr.ru/company/edison/blog/313400/
+
+Настраиваем шлюз LoRaWAN и создаем наше первое IoT-приложение | https://habrahabr.ru/company/efo/blog/313042/
+
+СМИ: Немецкие военные взломали сеть афганского мобильного оператора, чтобы узнать местонахождение заложника | https://habrahabr.ru/company/pt/blog/313068/
+
+Базовые станции Multi-Tech позволяют развернуть сеть LoRaWAN за пару кликов | https://habrahabr.ru/company/efo/blog/312424/
+
+Как запустить услуги 4-play и потерять на этом деньги: пример МГТС | https://habrahabr.ru/company/planado/blog/311526/
+
+Как переписать SDK на TypeScript, обновить платформу и ни о чем не жалеть | https://habrahabr.ru/company/Voximplant/blog/310740/
+
+Голос и видео для программистов. Как мы создаем конференцию, посвященную realtime communications | https://habrahabr.ru/company/Voximplant/blog/310296/
+
+Автоматизация измерения коэффициента гармоник генератора с помощью цифрового осциллографа и MATLAB | https://habrahabr.ru/post/310582/
+
+Почему иногда «падает» сеть мобильных операторов? | https://habrahabr.ru/company/ru_mts/blog/310480/
+
+Страхи мобильной безопасности | https://habrahabr.ru/company/yota/blog/310120/
+
+Как работает Центр оперативного управления мобильной сетью МТС. Ответы на ваши вопросы | https://habrahabr.ru/company/ru_mts/blog/309760/
+
+Памяти Соломона Голомба (1932-2016): автора регистра сдвига с линейной обратной связью максимальной длины и полиомино | https://habrahabr.ru/company/wolfram/blog/309232/
+
+Versatile Link – универсальное соединение | https://habrahabr.ru/company/efo/blog/308902/
+
+Все под контролем: защищаем корпоративные разговоры. Часть 3: защищенная SIM-карта | https://habrahabr.ru/company/tottoli_gsm/blog/308432/
+
+Как работает Центр оперативного управления мобильной сетью МТС | https://habrahabr.ru/company/ru_mts/blog/308044/
+
+UltraCMOS Фирмы «Peregrine Semiconductor»: СВЧ возможности КМОП-технологии | https://habrahabr.ru/company/efo/blog/307614/
+
+Работа с радиомодулями SI4432 | https://habrahabr.ru/post/307836/
+
+Самые продаваемые телефоны в истории | https://habrahabr.ru/company/yota/blog/307634/
+
+Cambium cnPilot – недорогой WiFi, который нас удивил | https://habrahabr.ru/company/comptek/blog/307300/
+
+Архитектура WhatsApp, которую Facebook купил за $19 миллиардов | https://habrahabr.ru/post/276951/
+
+Оптическое волокно в промышленных системах связи | https://habrahabr.ru/company/efo/blog/306896/
+
+MVNO по-взрослому | https://habrahabr.ru/company/tottoli_gsm/blog/306846/
+
+Чем может удивить облачный WiFi? * | https://habrahabr.ru/company/comptek/blog/306658/
+
+Лазерные коммуникации на примере технологий Facebook | https://habrahabr.ru/company/it-grad/blog/306218/
+
+Служба поддержки Yota в режиме онлайн | https://habrahabr.ru/company/yota/blog/306608/
+
+STM32F405: прошить 400кб за 10 секунд или быстрый UART-загрузчик заточенный под USB-UART, размером менее 4 килобайт | https://habrahabr.ru/post/305800/
+
+Все под контролем: защищаем корпоративные разговоры. Часть 2: защищенный телефонный аппарат | https://habrahabr.ru/company/tottoli_gsm/blog/306370/
+
+Cambium ePMP 2000. Решение проблемы интерференции на базовых станциях | https://habrahabr.ru/company/comptek/blog/306308/
+
+Делаем многоканальную полнодуплексную рацию | https://habrahabr.ru/company/Voximplant/blog/305306/
+
+Yota на Сахалине: как связь приходит на остров | https://habrahabr.ru/company/yota/blog/306130/
+
+Адаптеры сопряжения RS-422 с поддержкой скоростей до 1Мбод для системной шины PCI | https://habrahabr.ru/post/306108/
+
+Особенности установки и обновления 3CX v15 | https://habrahabr.ru/company/3cx/blog/306016/
+
+Как развивается услуга сохранения номера абонента при смене оператора | https://habrahabr.ru/company/yota/blog/305410/
+
+Все под контролем: защищаем корпоративные разговоры | https://habrahabr.ru/company/tottoli_gsm/blog/305586/
+
+Начало продаж UC АТС 3CX Phone System v15 | https://habrahabr.ru/company/3cx/blog/305490/
+
+Представляем 3CX v15 Release Candidate | https://habrahabr.ru/company/3cx/blog/304596/
+
+Тестируем 3CX Phone System V15 BETA | https://habrahabr.ru/company/3cx/blog/304056/
+
+Выпущена программная АТС 3CX V15 ALPHA | https://habrahabr.ru/company/3cx/blog/303304/
+
+Перенос пользователей из Asterisk (FreePBX) в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/302700/
+
+Использование webrtc для взаимодействия с asterisk-сервером или как заставить рации говорить с браузером | https://habrahabr.ru/company/rtl-service/blog/302998/
+
+Юникастовая маршрутизация мультикаст-трафика | https://habrahabr.ru/post/302956/
+
+Объединение 3CX Phone System с Asterisk (FreePBX) | https://habrahabr.ru/company/3cx/blog/302680/
+
+Настройка SIP агента сети IMS (Белтелеком) на маршрутизаторе CISCO | https://habrahabr.ru/post/302412/
+
+Настройка сетевых экранов D-link DFL-260E/860E/1660/2560/2560G для работы с 3CX Phone System | https://habrahabr.ru/company/3cx/blog/302332/
+
+VAS для вас. Часть первая: интеграция мобильной связи и виртуальной АТС | https://habrahabr.ru/company/itoolabs/blog/281304/
+
+Как виртуальному мобильному оператору (MVNO) работать с наибольшей выгодой для абонентов и для себя? | https://habrahabr.ru/company/tottoli_gsm/blog/276083/
+
+Война задержек: Почему низкая задержка так важна? | https://habrahabr.ru/post/302158/
+
+Реализация автосекретаря на базе решений компании Cisco | https://habrahabr.ru/company/cbs/blog/301696/
+
+Создание шаблона VoIP провайдера в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/301418/
+
+Подготовка инфраструктуры шахты для внедрения системы локального позиционирования и голосовой связи RealTrac | https://habrahabr.ru/company/rtl-service/blog/301224/
+
+Оптические волокна для телекоммуникаций: кварцевые и не только | https://habrahabr.ru/company/efo/blog/301132/
+
+Связь-2016: что интересного? | https://habrahabr.ru/company/metrotek/blog/283478/
+
+Большой куш: Почему хакеры атакуют систему финансовых переводов SWIFT | https://habrahabr.ru/company/itinvest/blog/283382/
+
+Лучшие практики: разделенная DNS (Split DNS) в инфраструктуре 3CX Phone System | https://habrahabr.ru/company/3cx/blog/283176/
+
+Как взломать Telegram и WhatsApp: спецслужбы не нужны | https://habrahabr.ru/company/pt/blog/283052/
+
+Перехват вызовов в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/282850/
+
+Как за один день подключить интернет и настроить телефонию в офисе? | https://habrahabr.ru/company/altegro/blog/282467/
+
+Разделение конфигурации хоста и пользователей в 3CX Phone System v14 | https://habrahabr.ru/company/3cx/blog/282287/
+
+Стремление к нулю: как за четверть века менялись цены на мобильную связь | https://habrahabr.ru/company/yota/blog/282127/
+
+Как можно зарабатывать на Wi-Fi в общественных местах (если вы не платите, то вы — товар) | https://habrahabr.ru/company/croc/blog/282101/
+
+Настройка VPN маршрутизатора TP-Link TL-ER6020 для работы с 3CX Phone System | https://habrahabr.ru/company/3cx/blog/281757/
+
+Скидка 30% на 3CX Phone System и 3CX WebMeeting | https://habrahabr.ru/company/3cx/blog/281260/
+
+Как использовать органайзер Microsoft Wunderlist в вашем колл-ценре 3CX | https://habrahabr.ru/company/3cx/blog/281252/
+
+Действительно полезное приложение для Digium телефонов | https://habrahabr.ru/post/281146/
+
+Elastix High Availability — решение для построения кластера из двух АТС | https://habrahabr.ru/post/281144/
+
+Обновление iOS клиента, Webmeeting в Mozilla Firefox и интеграция с PMS roomMaster | https://habrahabr.ru/company/3cx/blog/280750/
+
+Кейс разработки на Golang: платформа Виртуальной АТС ITooLabs | https://habrahabr.ru/company/itoolabs/blog/280276/
+
+Обработка Caller ID и отличительный звонок в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/280224/
+
+Приложение Yota для Windows Phone — из Новосибирска в Санкт-Петербург | https://habrahabr.ru/company/yota/blog/280045/
+
+Объедините стационарные и мобильные телефоны в единую офисную сеть | https://habrahabr.ru/company/altegro/blog/279951/
+
+Рынок Виртуальных АТС и ITooLabs. Итоги-2015 | https://habrahabr.ru/company/itoolabs/blog/279941/
+
+Заблуждения программистов о телефонных номерах | https://habrahabr.ru/post/279751/
+
+Настройка шаблонов e-mail уведомлений в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/279721/
+
+Calltracking в Minecraft или как быстро сделать трехмерный UI | https://habrahabr.ru/post/278995/
+
+Yota Air: чему учит работа вне офиса | https://habrahabr.ru/company/yota/blog/279525/
+
+Управление операторами колл-центра 3CX | https://habrahabr.ru/company/3cx/blog/279159/
+
+Конференции в 3CX Phone System | https://habrahabr.ru/company/3cx/blog/278709/
+
+Собственный «Кто звонил?» на базе Мультифона | https://habrahabr.ru/post/278679/
+
+Маршрутизаторы AudioCodes | https://habrahabr.ru/company/audiocodes/blog/278677/
+
+Хеди Ламарр. И в кино обнаженной сняться, и во врага торпедой пульнуть | https://habrahabr.ru/company/edison/blog/278653/
+
+Интернет и звонки со смартфона — бесплатно целый месяц | https://habrahabr.ru/company/yota/blog/278299/
+
+Обзор первого конференц-фона Grandstream — GAC2500 | https://habrahabr.ru/company/muk/blog/275933/
+
+Обзор офисного DECT-телефона Unify OpenStage wl3 plus | https://habrahabr.ru/company/muk/blog/273973/
+
+Настройка отказоустойчивости в 3CX Version 14 | https://habrahabr.ru/company/3cx/blog/278045/
+
+IP АТС Askozia и Push уведомления в Telegram | https://habrahabr.ru/post/277743/
+
+Гостиничный модуль 3CX Hotel Phone System | https://habrahabr.ru/company/3cx/blog/277687/
+
+Русский колл-центр: екатеринбуржский Наумен + SIP-шлюз сборки Новосибирска, результаты | https://habrahabr.ru/company/croc/blog/277307/
+
+Курс для начинающих. Основы IP телефонии на Cisco Packet Tracer | https://habrahabr.ru/post/275949/
+
+Номинальные ряды для JavaScript и ГОСТ-28884-90 | https://habrahabr.ru/post/277221/
+
+Интеграция 3CX с Office 365 | https://habrahabr.ru/company/3cx/blog/277165/
+
+Открытая система прокторинга для дистанционного сопровождения онлайн-экзаменов | https://habrahabr.ru/post/277147/
+
+Расшифровка обновлений одного популярного сотового модема: метод Дмитрия Склярова | https://habrahabr.ru/company/pt/blog/276949/
+
+Ryo CDR: еще один asterisk CDR viewer | https://habrahabr.ru/post/276899/
+
+Обзор Wi-Fi решений Extreme Networks для беспроводной сети доступа | https://habrahabr.ru/company/muk/blog/276655/
+
+3CX SBC — теперь с шифрованием и отказоустойчивостью | https://habrahabr.ru/company/3cx/blog/276715/
+
+Трансляция конференций и вебинаров с использованием протокола SIP | https://habrahabr.ru/post/276487/
+
+TotalView расширяет возможность контроля статусов для IP АТС 3CX Phone System | https://habrahabr.ru/company/3cx/blog/276239/
+
+Реализуем аналог Apple iCloud Voicemail c использованием свободных грамматик от Яндекса | https://habrahabr.ru/post/276187/
+
+Настройка Grandstream UCM серии 61xx и его интеграция с 1С | https://habrahabr.ru/company/muk/blog/273971/
+
+Правительство Великобритании продвигает криптопротокол для VoIP с бэкдором | https://habrahabr.ru/post/275835/
+
+Новая отчетность по звонкам в 3CX v14 | https://habrahabr.ru/company/3cx/blog/275711/
+
+Как мы обеспечивали связь на побережье Черного и Азовского морей Краснодарского края | https://habrahabr.ru/company/beeline/blog/275303/
+
+Спецслужбы предположительно использовали уязвимости в Juniper | https://habrahabr.ru/company/1cloud/blog/275167/
+
+Asterisk: ngrep, sipgrep, sngrep, protocol diagram | https://habrahabr.ru/post/274919/
+
+Сервис звонков через сайт с видео при помощи 3CX | https://habrahabr.ru/company/3cx/blog/274913/
+
+VoIP + Cisco Packet Tracer | https://habrahabr.ru/post/274685/
+
+Третий новогодний коллцентр: сверхбыстрая разработка на ReactJS и Typescript | https://habrahabr.ru/company/Voximplant/blog/274093/
+
+Облачный колл-центр в безоблачном краю. Необычайные новогодние приключения ITooLabs на Балканах | https://habrahabr.ru/company/itoolabs/blog/273997/
+
+HIVE: будущее облачной АТС или куда идем в следующем году | https://habrahabr.ru/company/iptelefon/blog/274213/
+
+Asterisk: каждый звонок как прыгающий мячик | https://habrahabr.ru/post/274155/
+
+Использование облачной АТС pbxes.com для расширения возможностей VoiP / SIP телефонии | https://habrahabr.ru/post/274063/
+
+Разрабатываем сервис облачной конференц-связи для малого бизнеса | https://habrahabr.ru/company/iptelefon/blog/273693/
+
+Ответственность вендора. Кто отвечает за аварии? | https://habrahabr.ru/company/itoolabs/blog/273225/
+
+Знакомьтесь подробнее: мультимедийный шлюз AudioCodes | https://habrahabr.ru/company/audiocodes/blog/272913/
+
+Организация гибридного порта на Alcatel-Lucent 7210 SAS-M | https://habrahabr.ru/post/272867/
+
+Рынок Виртуальных АТС умер | https://habrahabr.ru/company/sipuni/blog/272833/
+
+Multi IP-SIM на службе малого бизнеса. Специальная SIM-карта для сайтов бесплатных объявлений | https://habrahabr.ru/company/iptelefon/blog/272699/
+
+Как мы научили 1С генерировать IVR меню для Asterisk | https://habrahabr.ru/post/272655/
+
+PaaS vs Лицензии. Четыре благородные истины IT-инфраструктуры | https://habrahabr.ru/company/itoolabs/blog/271227/
+
+Имитация рации с помощью Freeswitch и немного про voip-конференции | https://habrahabr.ru/post/268773/
+
+Asterisk/FreePBX: Интеграция определителя номера с базой клиентов | https://habrahabr.ru/post/208586/
+
+Тестируем качество прохождения VoIP по общим каналам (Windows) | https://habrahabr.ru/company/3cx/blog/271913/
+
+Критически опасные уязвимости в популярных 3G- и 4G-модемах или как построить Большого Брата | https://habrahabr.ru/company/pt/blog/272175/
+
+3CX Phone System 14 Service Pack 2 с новой консолью для секретаря и WallBoard | https://habrahabr.ru/company/3cx/blog/272121/
+
+Как отправить IDOC из SAP MII в SAP ERP | https://habrahabr.ru/post/272077/
+
+Запись видеозвонка из браузера: мы надеялись запилить за неделю | https://habrahabr.ru/company/Voximplant/blog/271921/
+
+Asterisk + LUA: быстрый старт | https://habrahabr.ru/post/271939/
+
+AltegroSIM: модернизируем мобильную связь службы доставки | https://habrahabr.ru/post/271903/
+
+Asterisk: Приоритезация VoIP трафика и резервирование доступа в Интернет двух провайдеров на MikroTik | https://habrahabr.ru/post/271747/
+
+MultiSim: технологическая SIM-фония для нескольких операторов и одного абонента | https://habrahabr.ru/company/tottoli_gsm/blog/271755/
+
+Хагелин — гений научно-технической мысли | https://habrahabr.ru/company/ua-hosting/blog/271387/
+
+Как вести секретную переписку. Часть 2 | https://habrahabr.ru/company/it-grad/blog/271455/
+
+Тестируем качество VoIP через каналы мобильных операторов (iOS) | https://habrahabr.ru/company/3cx/blog/271399/
+
+Можно ли получить нормальное качество разговора при звонке через 3G/4G? | https://habrahabr.ru/company/3cx/blog/271381/
+
+АТС в кармане: настраиваем IP-телефонию для удаленной работы | https://habrahabr.ru/company/zadarma/blog/271261/
+
+Забираем аудиопоток с Twilio по SIP и отправляем на RTMP CDN для дальнейшей раздачи | https://habrahabr.ru/post/271233/
+
+Как вести секретную переписку. Часть 1 | https://habrahabr.ru/company/it-grad/blog/271165/
+
+Пишем собственный интерфейс управления корпоративными FMC SIM-картами | https://habrahabr.ru/post/271015/
+
+Офис в кармане. Настраиваем облачную АТС на мобильных телефонах | https://habrahabr.ru/company/iptelefon/blog/270871/
+
+Защита VoIP сетей | https://habrahabr.ru/company/audiocodes/blog/270739/
+
+Конференция KazooCon 2015 — как это было | https://habrahabr.ru/post/270597/
+
+Коллтрекинг с оплатой за лид, а не за номера | https://habrahabr.ru/company/sipuni/blog/270327/
+
+XVB — Виртуальная АТС: кастомизация | https://habrahabr.ru/post/270153/
+
+Облачные объяснения: создаем операторский сервис виртуальной АТС за три дня | https://habrahabr.ru/company/itoolabs/blog/269947/
+
+Поиск проблем при подключении удаленных абонентов и VoIP-операторов через 3CX Firewall Checker | https://habrahabr.ru/company/3cx/blog/269865/
+
+Как мы делали HD Wi-Fi на стадионе в Краснодаре на 34 тысячи человек | https://habrahabr.ru/company/croc/blog/269585/
+
+Это не паранойя: источники угроз в системе GSM и защита от них | https://habrahabr.ru/company/tottoli_gsm/blog/269407/
+
+Укрощение строптивых. Подключаем единый номер к нескольким мобильным | https://habrahabr.ru/post/269493/
+
+Уведомления на разных платформах, какие они бывают? Бонус на смарт-часах Moto 360 | https://habrahabr.ru/company/pushall/blog/269439/
+
+Анализ вариантов построения телефонии на базе Мicrosoft Skype For Business | https://habrahabr.ru/company/audiocodes/blog/269379/
+
+Админка как юнит тест для HTTP API | https://habrahabr.ru/company/Voximplant/blog/269115/
+
+CRM-ка — пересмешница. Интегрируем amoCRM, телефонию и сотовую связь | https://habrahabr.ru/company/iptelefon/blog/268909/
+
+Телефоны CISCO 7942G и 7940 в связке с Asterisk 11 | https://habrahabr.ru/post/268821/
+
+HackedSim. Звонок с любого номера — вымысел или реальность? | https://habrahabr.ru/post/268789/
+
+Ещё раз про хеш-коллизии в коммутаторах | https://habrahabr.ru/post/267965/
+
+Ода доброму вендору: выбираем платформу для запуска VoIP SaaS-проекта | https://habrahabr.ru/post/268619/
+
+Алло! Это FreeSWITCH? Тогда мы проверим вас | https://habrahabr.ru/company/pvs-studio/blog/268603/
+
+Huawei и NTT DOCOMO успешно провели испытания технологии 5G в полевых условиях | https://habrahabr.ru/company/ua-hosting/blog/268593/
+
+Динамический IP-адрес бесплатно или смена IP при смене устройства для подключения к сети | https://habrahabr.ru/post/268427/
+
+Сравнение тарифов на мобильный интернет в разных регионах | https://habrahabr.ru/post/268175/
+
+Семь Великих Тайн Менеджера. Подменяем номер при исходящих с мобильных. Новые функции AltegroCloud | https://habrahabr.ru/post/268167/
+
+Project Fi — что смогут получить его абоненты? | https://habrahabr.ru/company/ua-hosting/blog/268077/
+
+Оптимизация каналов связи для добычи полезных ископаемых на севере России | https://habrahabr.ru/company/croc/blog/267883/
+
+Новая телефония от «ОнЛайм» | https://habrahabr.ru/company/onlime/blog/267555/
+
+Технический способ защиты от неправомерной выдачи дубликатов сим-карт (и вообще персональных данных), реализуемый на уровне оператора | https://habrahabr.ru/post/267563/
+
+Оператор мобильной связи не в силах предотвратить выдачу дубликатов сим-карт злоумышленникам | https://habrahabr.ru/post/267447/
+
+Бесплатный виджет обратного звонка для сайта | https://habrahabr.ru/company/zadarma/blog/267313/
+
+Sipuni: путь разработки от виртуальной АТС к SaaS-сервису по приёму телефонных звонков | https://habrahabr.ru/company/sipuni/blog/266921/
+
+Обзор решения видеоконференций Grandstream GVC 3200 — «Это меняет все» | https://habrahabr.ru/company/muk/blog/266879/
+
+A-SIM, настройся! Специальная сим-карта и много-много входящих номеров | https://habrahabr.ru/post/266651/
+
+PBX-Sphere Online — Как мы это сделали | https://habrahabr.ru/post/266169/
+
+Продать за 60 секунд. Call-центр в облаке и специальная сим-карта | https://habrahabr.ru/post/266003/
+
+Доставляем голос в мобильной сети: шаг 2 — Аналого Цифровое Преобразование | https://habrahabr.ru/company/beeline/blog/265841/
+
+Пишем голосовое IVR меню на языке TCL, с использованием Cisco IVR API | https://habrahabr.ru/post/265453/
+
+SYSTIMAX против спагетти. Или как кабельный кросс VisiPatch 360 помогает организовать кабельную систему Категории 6А | https://habrahabr.ru/company/comptek/blog/265275/
+
+WiFi-комбайн для гостиниц и рабочая лошадка для офисов. Обзор точек доступа Ruckus R500/H500 | https://habrahabr.ru/company/comptek/blog/265129/
+
+CRM плюс мобильная связь. Ударим интеграцией по низким продажам | https://habrahabr.ru/post/265041/
+
+Новинки WiFi-оборудования от Ruckus Wireless. Новые: точки доступа, контроллеры и функционал | https://habrahabr.ru/company/comptek/blog/264953/
+
+API интерфейс для бесплатной АТС и телефонии | https://habrahabr.ru/company/zadarma/blog/264279/
+
+SIP-регистрация, транк, софтфон и другие страшные слова облачных АТС | https://habrahabr.ru/company/Voximplant/blog/264275/
+
+Ускоряем запуск BeagleBone или runit не для чайников | https://habrahabr.ru/company/metrotek/blog/264263/
+
+Байки выездных инженеров – монтаж и сервис ВКС/КЦ | https://habrahabr.ru/company/croc/blog/264237/
+
+Специальная сим-карта плюс интернет-телефония или «сип с ногами» для всех | https://habrahabr.ru/post/264239/
+
+Моя система тестирования и повышения качества GSM-шлюза. Часть вторая | https://habrahabr.ru/post/264045/
+
+Архитектурные решения в системе телефонии «Битрикс24» | https://habrahabr.ru/company/bitrix/blog/263915/
+
+Радиоинтерфейс систем 5G | https://habrahabr.ru/post/263865/
+
+Роуминг своими руками | https://habrahabr.ru/company/zadarma/blog/262905/
+
+Гигагерц много не бывает | https://habrahabr.ru/company/yota/blog/262893/
+
+Простой телефонный интерфейс из Нокии | https://habrahabr.ru/post/262851/
+
+Модернизируем корпоративную мобильную связь с помощью FMC SIM-карт AltegroCloud | https://habrahabr.ru/post/262743/
+
+Моя система тестирования и повышения качества GSM шлюза, часть первая: функциональный и схемный уровень | https://habrahabr.ru/post/262531/
+
+Как мы обеспечивали связь на саммитах ШОС и БРИКС | https://habrahabr.ru/company/beeline/blog/262525/
+
+Геолокация плюс мобильная связь и обновленный API AltegroCloud | https://habrahabr.ru/post/262229/
+
+О тонкостях приватности в Telegram Bots API: «это не баг, это фича» | https://habrahabr.ru/post/261781/
+
+Как я Asterisk'ом шлагбаумы открывал | https://habrahabr.ru/post/261391/
+
+НТЦ Метротек: как это было. Часть первая (2004-2006) | https://habrahabr.ru/company/metrotek/blog/260979/
+
+Конкурс MiTM Mobile: как ломали мобильную связь на PHDays V | https://habrahabr.ru/company/pt/blog/261035/
+
+Делаем видео-конференции в браузере за 10 минут | https://habrahabr.ru/company/Voximplant/blog/261037/
+
+Быстрые помощники для вашего Asterisk'а | https://habrahabr.ru/post/260851/
+
+Удаленная работа или фриланс в глубинке. Аспекты связи. Часть 1 | https://habrahabr.ru/post/257227/
+
+Как мы имплантировали голосовые звонки в Мегаплан | https://habrahabr.ru/company/Voximplant/blog/260475/
+
+Авария спутника Экспресс-МД1 (4 июля 2013 г.) | https://habrahabr.ru/company/beeline/blog/259849/
+
+SIP телефон из stm32f4-discovery | https://habrahabr.ru/company/embox/blog/259721/
+
+OpenBTS (1 часть) — Первое знакомство | https://habrahabr.ru/post/259733/
+
+SMS-чат на коленках | https://habrahabr.ru/post/259057/
+
+Маршрутизация по наименьшей стоимости (LCR) в Asterisk | https://habrahabr.ru/post/258971/
+
+Уведомления могут помочь вам узнать вашу аудиторию лучше + новости + СоХабр | https://habrahabr.ru/company/pushall/blog/258659/
+
+Новые возможности платформы VoxImplant: Instant Messaging и Presence + демо на ReactJS/Flux | https://habrahabr.ru/company/Voximplant/blog/258031/
+
+Travel SIM + облачная АТС и новые подходы к интерфейсу IP-PBX | https://habrahabr.ru/post/257905/
+
+Дань Памяти | https://habrahabr.ru/company/ringcloud/blog/257545/
+
+Высокоточная синхронизация времени для измерения задержки в ethernet сетях | https://habrahabr.ru/company/metrotek/blog/256867/
+
+Помехи: как трамвай, антирадар и плохо обжатый кабель могут повлиять на спутниковый канал | https://habrahabr.ru/company/beeline/blog/256411/
+
+MS Lync: идентификация личных звонков | https://habrahabr.ru/post/255805/
+
+Аппаратный зал (про инфраструктуру спутниковой сети и осциллограф) | https://habrahabr.ru/company/beeline/blog/255339/
+
+Хабр, привет из облака RingCloud | https://habrahabr.ru/company/ringcloud/blog/255201/
+
+Как мы «женили» облачную АТС, GSM и риэлтеров (часть 4) | https://habrahabr.ru/post/254993/
+
+Нам нужны мессенджеры. Ещё больше мессенджеров | https://habrahabr.ru/post/254785/
+
+Защита от прослушивания разговоров — строим безопасную SIP телефонию своими руками | https://habrahabr.ru/company/ppbbxx/blog/253073/
+
+Новая версия мобильного SDK VoxImplant с поддержкой WebRTC, P2P, видео-звонков для iOS и Android | https://habrahabr.ru/company/Voximplant/blog/253041/
+
+Городской Wi-Fi на примере общежитий ВУЗов Москвы | https://habrahabr.ru/company/dit/blog/253567/
+
+Зелёная энергетика для базовых станций и всего до 2 КВт — трёхлетний опыт с ветряками, солнечной генераций + геозондом | https://habrahabr.ru/company/croc/blog/254043/
+
+20 лет строительства и обслуживания спутниковой сети | https://habrahabr.ru/company/beeline/blog/253841/
+
+Инженерное устройство дата-центра уровня TIER III, стоящего на четырех магистральных линиях | https://habrahabr.ru/company/beeline/blog/253495/
+
+Про магистрали | https://habrahabr.ru/company/beeline/blog/253264/
+
+Демо на стенде Alcatel-Lucent, обзор платформы OpenTouch | https://habrahabr.ru/company/muk/blog/252943/
+
+Free Cloud IP-PBX — реализация от ppbbxx.com | https://habrahabr.ru/company/ppbbxx/blog/252665/
+
+Как менеджер мини-АТС с GSM и записями разговоров делал | https://habrahabr.ru/post/252845/
+
+Стандартный тест RFC2544 | https://habrahabr.ru/post/252741/
+
+Как мы «женили» облачную АТС, GSM и риэлтеров (часть 3) | https://habrahabr.ru/post/252513/
+
+Где мои деньги, чувак!? или «Нет ответа» — заплати | https://habrahabr.ru/company/tinkoff/blog/252281/
+
+Как мы обеспечивали связь в самых больших аэропортах | https://habrahabr.ru/company/beeline/blog/252115/
+
+Качество сетей передачи данных. Транспорт | https://habrahabr.ru/post/251693/
+
+Роутер от оператора? – Нет, спасибо! | https://habrahabr.ru/company/beeline/blog/251489/
+
+Как мы «женили» облачную АТС, GSM и риэлторов (часть 2) | https://habrahabr.ru/post/251525/
+
+В поисках лучшего сигнала мобильного интернета весной 2015 | https://habrahabr.ru/post/251447/
+
+Делаем call tracking | https://habrahabr.ru/company/Voximplant/blog/250899/
+
+2015: Конец контакт-центра | https://habrahabr.ru/post/250959/
+
+Качество сетей передачи данных. Программные и аппаратные измерения | https://habrahabr.ru/post/250821/
+
+Методы мониторинга в системах DWDM (Часть 2) | https://habrahabr.ru/post/250709/
+
+Grandstream Networks выпустила бесплатное приложение для SIP телефонии | https://habrahabr.ru/company/muk/blog/250521/
+
+«Билайн»: народный контроль (можно отметить техпроблему на карте) | https://habrahabr.ru/company/beeline/blog/250387/
+
+Уязвимости и бэкдоры в телефонах Grandstream | https://habrahabr.ru/post/250403/
+
+Freeswitch — установка и интеграция с SIPML5 | https://habrahabr.ru/company/southbridge/blog/249701/
+
+APRS | https://habrahabr.ru/post/249901/
+
+Делаем кастомную прошивку для телефонов Grandstream | https://habrahabr.ru/post/249855/
+
+Настройка фаерволла Kerio Control для 3CX Phone System | https://habrahabr.ru/company/3cx/blog/249649/
+
+Запуск OpenWRT 14.07 на Mikrotik и пример сборки Аsterisk c дополнительным модулем | https://habrahabr.ru/post/249541/
+
+Возможности уличных 3G/4G антенн для повышения скорости передачи данных в мобильных сетях | https://habrahabr.ru/post/249737/
+
+Audiocodes + Lync 2013 + провайдер, не поддерживающий History-info | https://habrahabr.ru/post/249711/
+
+Делаем очередь входящих звонков с функцией callback | https://habrahabr.ru/company/Voximplant/blog/249647/
+
+1987 год — Выставка «Информатика в жизни США» | https://habrahabr.ru/post/249651/
+
+Как мы обеспечивали связь в городах Северного Полярного Круга | https://habrahabr.ru/company/beeline/blog/249455/
+
+Как мы «женили» облачную АТС, GSM и риэлторов (часть 1) | https://habrahabr.ru/post/249271/
+
+Алгоритм обработки ортогональных ФКМ сигналов | https://habrahabr.ru/post/249191/
+
+Универсальный способ мониторинга Asterisk с помощью Zabbix | https://habrahabr.ru/post/249055/
+
+Определение голосовой почты при звонке | https://habrahabr.ru/company/Voximplant/blog/248735/
+
+Гайд: настройка подключения 3CX Phone к Office 365 | https://habrahabr.ru/company/3cx/blog/248947/
+
+Доставляем голос в мобильной сети: шаг 1 — как голос превращается в электрический сигнал | https://habrahabr.ru/company/beeline/blog/248807/
+
+Вышел финальный релиз 3CX Phone System 12.5 | https://habrahabr.ru/company/3cx/blog/248319/
+
+Быстрый голосовой набор на Asterisk | https://habrahabr.ru/post/248263/
+
+Уходящая эпоха голосовой связи | https://habrahabr.ru/company/yota/blog/247943/
+
+Вышел новый Release Candidate для 3CX Phone System 12.5 (+демо-ключ!) | https://habrahabr.ru/company/3cx/blog/247819/
+
+Бованенково – организация связи на месторождении газа №3 в России с БС на вечной мерзлоте | https://habrahabr.ru/company/beeline/blog/247773/
+
+Сервис для определения имени абонента по телефонному номеру | https://habrahabr.ru/post/247575/
+
+Делаем Новогодний колл-центр | https://habrahabr.ru/company/Voximplant/blog/247345/
+
+Микширование звука в Cubian | https://habrahabr.ru/post/247205/
+
+Возможности и настройка 3CX WebMeeting | https://habrahabr.ru/company/3cx/blog/247071/
+
+Numcap — npm для определения оператора и региона по номеру телефона | https://habrahabr.ru/post/246981/
+
+Как колл-центры используют бихевиоральную экономику, чтобы оказывать влияние на клиентов | https://habrahabr.ru/company/celecom/blog/246897/
+
+Настройка Cisco 7940/7941/7960/7961 в 3CX Phone System 12 | https://habrahabr.ru/company/3cx/blog/246619/
+
+Новая технология построения сотовых сетей | https://habrahabr.ru/post/246587/
+
+Борьба за пинг в танках WoT в Хабаровске, Красноярске и Владивостоке | https://habrahabr.ru/company/beeline/blog/246111/
+
+Как организовать онлайн-конференцию за минуту: Интеграция мессенджера Kato и UberConference | https://habrahabr.ru/company/kato/blog/246171/
+
+Борьба с потерями пакетов в видеоконференциях | https://habrahabr.ru/post/246153/
+
+Новый релиз и фичи: 3CX Phone System 12.5 Release Candidate | https://habrahabr.ru/company/3cx/blog/245811/
+
+Мобильные телефоны и тотальная слежка АНБ: как это работает | https://habrahabr.ru/company/pt/blog/245113/
+
+Как работает перенос сотового номера к другому оператору: FAQ и опыт разработки | https://habrahabr.ru/company/beeline/blog/244595/
+
+Делаем автоматизированный обзвон для нотификаций или опросов | https://habrahabr.ru/company/Voximplant/blog/243809/
+
+Asternic CDR Reports. Прослушивание звонков в FreePBX с ограничением по доступу | https://habrahabr.ru/post/244321/
+
+Управление роутерами: маленькие радости техподдержки | https://habrahabr.ru/company/beeline/blog/244233/
+
+Как легко и просто научить ваш Asterisk звонить через нужного оператора | https://habrahabr.ru/post/244131/
+
+Троян Regin: кто шпионит за GSM через Windows? | https://habrahabr.ru/company/pt/blog/244073/
+
+Безопасность 4G: захватываем USB-модем и SIM-карту с помощью SMS | https://habrahabr.ru/company/pt/blog/243697/
+
+Asterisk+Lua — IVR и некоторые другие моменты | https://habrahabr.ru/post/243251/
+
+Распознавание речи во FreePBX с помощью Яндекс Speechkit | https://habrahabr.ru/post/242109/
+
+Переадресация на мобильный и СМС-уведомление при отсутствии ответа. Одна из возможных реализаций «обратного» звонка | https://habrahabr.ru/post/243139/
+
+Колл-центр с ACD, skill-группами и WebRTC-клиентом для обработки входящих звонков | https://habrahabr.ru/company/Voximplant/blog/242397/
+
+Звоним на мобильные телефоны из браузера с записью разговоров | https://habrahabr.ru/post/242191/
+
+Организация сотовой связи в метро — опыт Петербурга | https://habrahabr.ru/company/beeline/blog/242065/
+
+«Допиливаем» Asterisk CDR Viewer под себя | https://habrahabr.ru/post/241622/
+
+ХабраFAQ-2014 про телекомы | https://habrahabr.ru/company/beeline/blog/241688/
+
+Делаем Cloud IVR с интеллектуальной переадресацией и распознаванием за несколько минут | https://habrahabr.ru/company/Voximplant/blog/231319/
+
+SimBank или 200 SmartCard в одной коробке | https://habrahabr.ru/post/240943/
+
+BeeCamp: о мобильной базовой станции, питании и инфраструктуре | https://habrahabr.ru/company/beeline/blog/240685/
+
+Голосовой автоинформатор даты и времени, приятным женским голосом, русским языком, на базе asterisk? Легко | https://habrahabr.ru/post/240649/
+
+Документация к модулю mod_xml_radius от FreeSWITCH | https://habrahabr.ru/post/240339/
+
+Куй железо, не отходя от кассы. Метод Брэнсона в действии | https://habrahabr.ru/company/vcstart/blog/238293/
+
+Внедрение современной DECT связи | https://habrahabr.ru/post/240165/
+
+Может ли IVR разрушить впечатление клиента? | https://habrahabr.ru/post/239723/
+
+Проблемы современных «звонилок» | https://habrahabr.ru/post/239525/
+
+Asterisk Обратный звонок, или как дешево звонить | https://habrahabr.ru/post/238819/
+
+Атаки на SS7: вчера для спецслужб, сегодня для всех | https://habrahabr.ru/company/pt/blog/237981/
+
+VoIP зоопарк — Provisioning | https://habrahabr.ru/post/237951/
+
+Делаем видео-чат в веб-браузере с минимумом трудозатрат | https://habrahabr.ru/company/Voximplant/blog/231383/
+
+Интернет по sms | https://habrahabr.ru/post/237165/
+
+Бесплатные звонки из Hangouts | https://habrahabr.ru/post/236417/
+
+Анализируем облачный контакт-центр: с чего начать | https://habrahabr.ru/post/236369/
+
+Установка и настройка Asterisk для работы с WebRTC | https://habrahabr.ru/post/236291/
+
+Scrawl — скриншотер сайтов и безопасность веб-интерфейсов SIP-устройств | https://habrahabr.ru/post/235937/
+
+Смотрите, кто говорит: Рождение видеофона | https://habrahabr.ru/post/235981/
+
+Сервис управляемых аудио-конференций своими руками | https://habrahabr.ru/company/Voximplant/blog/229593/
+
+Проблемы интерпретации голосового ввода — как это работает у нас | https://habrahabr.ru/post/235763/
+
+Как монтируется БС на вышке и в торговом центре | https://habrahabr.ru/company/beeline/blog/234651/
+
+«Контакт-центр как услуга»: убедите финансового директора, что это лучшие инвестиции | https://habrahabr.ru/post/235427/
+
+Маленькие «деревни» внутри больших городов | https://habrahabr.ru/post/235401/
+
+Входящие и исходящие вызовы в колл-центре | https://habrahabr.ru/post/235367/
+
+Почему Skype заставляет нас всех обновлять ПО? | https://habrahabr.ru/company/celecom/blog/235331/
+
+Система облачной телефонии 2600hz KAZOO | https://habrahabr.ru/post/234937/
+
+Dr. Tariff 2.0: новые возможности для абонентов Билайн, МегаФон и МТС | https://habrahabr.ru/company/drtariff/blog/233509/
+
+Как мы строили и развивали сотовую сеть в Казахстане: организация связи в горах и степях | https://habrahabr.ru/company/beeline/blog/233051/
+
+Обзор новых телефонов Grandstream GXV3275 и GXV3240 | https://habrahabr.ru/company/muk/blog/233193/
+
+7 тенденций при планировании контакт-центра | https://habrahabr.ru/post/232925/
+
+С днем рождения, Кевин Митник! | https://habrahabr.ru/post/232343/
+
+Правильно выбираем облачный колл-центр | https://habrahabr.ru/post/232455/
+
+Как выглядит рабочий день IT-инженера, если ты девушка | https://habrahabr.ru/company/croc/blog/232231/
+
+Cisco Jabber Guest и разработка несложных приложений под IOS с помощью AppArchitect | https://habrahabr.ru/company/cisco/blog/231891/
+
+5 способов удержать клиентов колл-центра | https://habrahabr.ru/post/231911/
+
+JavaScript для… настольного IP телефона? | https://habrahabr.ru/post/230927/
+
+Устройства SIP оповещения CyberData | https://habrahabr.ru/post/228921/
+
+Удаленный доступ для мобильных устройств: управляемые и облачные VPN-сервисы | https://habrahabr.ru/company/celecom/blog/230085/
+
+Как устроена система SMSDirect | https://habrahabr.ru/company/ifree/blog/229279/
+
+Транслируем видеопоток с IP-камеры с помощью WebRTC | https://habrahabr.ru/post/229243/
+
+Voice over LTE – звонок без fallback с очень быстрым вызовом. Как мы это сделали | https://habrahabr.ru/company/beeline/blog/229093/
+
+Интеграция Asterisk c minicom DX-500 при помощи ELF2-AE | https://habrahabr.ru/post/228839/
+
+Как услышать электромагнитные волны | https://habrahabr.ru/post/228729/
+
+Платные подписки и платные контент-услуги сотовых операторов | https://habrahabr.ru/company/beeline/blog/228623/
+
+Как работает международный роуминг | https://habrahabr.ru/post/228527/
+
+Госдума приняла закон о запрете SMS-спама | https://habrahabr.ru/post/228499/
+
+HD-Voice для сотовой связи — Харитон, Дмитрий, Владимир, Олег, Ирина, Слава! | https://habrahabr.ru/company/beeline/blog/228231/
+
+Как мы обеспечивали связью «Сапсан» и «Аллегро» | https://habrahabr.ru/company/beeline/blog/227659/
+
+Самый лучший мобильный переводчик: по SMS и с настоящими лингвистами с той стороны | https://habrahabr.ru/post/227651/
+
+Пишем скрипты для Cisco AXL | https://habrahabr.ru/post/171219/
+
+Microsoft заблокирует старые версии Skype для Windows и OS X | https://habrahabr.ru/post/227335/
+
+Дивный новый мир: мобильные операторы, как крупнейшие поставщики рекламных данных | https://habrahabr.ru/company/advertone_ru/blog/227257/
+
+Прослушка украинских мобильников: как это сделано и как защититься | https://habrahabr.ru/company/pt/blog/226977/
+
+Обзор teXet TM-511R: защищенный телефон с батареей на 2 700 мАч | https://habrahabr.ru/company/smartgadget/blog/226743/
+
+400 Мбит/с по обычной витой паре для обычных квартир | https://habrahabr.ru/company/beeline/blog/222715/
+
+Lexand Mini – телефон а-ля Vertu в формфакторе «звонящий брелок» | https://habrahabr.ru/company/smartgadget/blog/226497/
+
+Быстрое создание callback-сценариев с помощью Voximplant | https://habrahabr.ru/company/Voximplant/blog/226057/
+
+Какие ошибки делают хардкорные инженеры при обучении других людей | https://habrahabr.ru/company/beeline/blog/225283/
+
+Cisco обновила продуктовую линейку оборудования видеосвязи | https://habrahabr.ru/company/cisco/blog/225849/
+
+Персональный ROADAR | https://habrahabr.ru/company/generations-2014/blog/225529/
+
+История VoIP и интернет-телефонии | https://habrahabr.ru/company/celecom/blog/224953/
+
+Как учатся внутри «Билайна»: внутренний университет | https://habrahabr.ru/company/beeline/blog/225281/
+
+SIP через WebRTC на продакшне. Как мы к этому шли и какие проблемы решали | https://habrahabr.ru/post/225239/
+
+Распознавание речи в Asterisk с использованием Yandex SpeechKit HTTP API | https://habrahabr.ru/post/225179/
+
+WebRTC или как я научил нашу CRM звонить на телефоны | https://habrahabr.ru/post/224897/
+
+Антивирус для всех абонентов «Билайн»: тесты на приложениях для слежки | https://habrahabr.ru/company/beeline/blog/224245/
+
+Диспетчерские системы в энергетике и на железной дороге | https://habrahabr.ru/post/223841/
+
+VoxImplant Android SDK: телефония и голосовые real-time коммуникации в вашем приложении | https://habrahabr.ru/company/Voximplant/blog/223431/
+
+Всероссийская конференция по Asterisk состоялась | https://habrahabr.ru/post/223531/
+
+Мониторинг транков Asterisk с помощью низкоуровнего обнаружения Zabbix | https://habrahabr.ru/post/223365/
+
+WavPlayer — мы не ищем легких путей, мы их прокладываем | https://habrahabr.ru/post/223293/
+
+Обновление приложения Zingaya для iOS | https://habrahabr.ru/company/Voximplant/blog/222651/
+
+Cellebrite Touch — телепорт для телефона | https://habrahabr.ru/post/222405/
+
+Знакомство с программированием DECT-модуля SC14CVMDECT | https://habrahabr.ru/company/promwad/blog/221997/
+
+Прототип уходит в Open Source: Биржа телефонных операторов | https://habrahabr.ru/post/221653/
+
+ФЗ-229 — руки прочь от основного мобильного счёта | https://habrahabr.ru/post/221539/
+
+По слухам Google может представить смартфон линейки Nexus стоимостью $100 | https://habrahabr.ru/post/221443/
+
+Безопасность базовых станций: выезд на измерения плотности электромагнитного поля | https://habrahabr.ru/company/beeline/blog/220579/
+
+Yota стала сотовым оператором (и что такое «файл большого объёма»?) | https://habrahabr.ru/post/220553/
+
+MetaPhone: важность телефонных метаданных | https://habrahabr.ru/company/celecom/blog/220043/
+
+Лечим проблемы с набором номера у GPON роутера от МГТС | https://habrahabr.ru/post/220161/
+
+Выбираем LTE2600 или LTE1800 с позиции оператора | https://habrahabr.ru/post/219317/
+
+Узнаем пароль администратора в телефоне Grandstream GXP2124 | https://habrahabr.ru/post/219225/
+
+MNP: Скидывай оковы правильно | https://habrahabr.ru/post/219129/
+
+Мифы и легенды про Big Data | https://habrahabr.ru/company/beeline/blog/218669/
+
+Сервер VPN для организации телефонной связи удаленного офиса на базе АТС Panasonic TDE100 | https://habrahabr.ru/post/218367/
+
+Автопровизия (Автонастройка) телефонов Polycom с помощью Asterisk | https://habrahabr.ru/post/218227/
+
+AudioCodes против Asterisk или у кого больше плюшек | https://habrahabr.ru/company/softline/blog/218093/
+
+Почему факс все еще жив? | https://habrahabr.ru/company/celecom/blog/217613/
+
+Российским чиновникам запретили использовать iPad | https://habrahabr.ru/post/217199/
+
+Как бизнесу сэкономить на телефонии: Виртуальная АТС | https://habrahabr.ru/company/celecom/blog/217043/
+
+Оплата со счета корпоративного или личного телефона как с банковского счёта | https://habrahabr.ru/company/beeline/blog/216817/
+
+The Washington Post: NSA «пишет» 100% всех звонков неназванной страны | https://habrahabr.ru/post/216405/
+
+Опыт написания статьи в китайскую газету | https://habrahabr.ru/post/214005/
+
+Asterisk + Cisco SPA5XX, SPA3XX — DND с уведомлением сервера | https://habrahabr.ru/post/216193/
+
+Сотовая сеть в Якутии: что бывает с базовыми станциями при -60 по Цельсию | https://habrahabr.ru/company/beeline/blog/216159/
+
+Обзор IP-телефонов для Lync Server | https://habrahabr.ru/company/starxoft/blog/215933/
+
+Конфигурирование телефонов Digium через модуль DPMA в Elastix | https://habrahabr.ru/post/215685/
+
+Система оповещения о задолженности, или еще один автоинформатор | https://habrahabr.ru/post/215869/
+
+Разработка мобильного приложения: сюрпризы фронтэнда и бекенд | https://habrahabr.ru/company/beeline/blog/215793/
+
+bb-mobile VOIIS GPS: телефон с большими кнопками, контролем здоровья и удаленным управлением | https://habrahabr.ru/company/smartgadget/blog/215511/
+
+Как я случайно отрыл для себя безлимитный(!) интернет на usb модеме от мтс, за минимальную плату | https://habrahabr.ru/post/215247/
+
+Как мы доводили умную розетку до уровня массового продукта | https://habrahabr.ru/company/beeline/blog/213237/
+
+Безопасность сетей доступа 3G/4G | https://habrahabr.ru/company/pt/blog/214445/
+
+Автопровижининг Cisco SPA504g и Asterisk. Часть 2. Настройка DHCP-сервера и Apache | https://habrahabr.ru/post/214235/
+
+Автопровижининг Cisco SPA504g и Asterisk. Часть 1. Сборка и настройка Asterisk+MySQL | https://habrahabr.ru/post/214181/
+
+GSM на столе | https://habrahabr.ru/post/213845/
+
+Мы сильно меняемся | https://habrahabr.ru/company/beeline/blog/213683/
+
+Kinnex Element — платформа для WebRTC конференций | https://habrahabr.ru/company/starxoft/blog/212207/
+
+Как мы делали автомобильный трекер | https://habrahabr.ru/company/beeline/blog/213235/
+
+Интеграция телефонии в распределенных колл-центрах | https://habrahabr.ru/post/213071/
+
+GSM-шлюз OpenVox как полноценная замена АТС | https://habrahabr.ru/post/212919/
+
+IP АТС в облаке своими руками за 10 минут | https://habrahabr.ru/company/Voximplant/blog/212713/
+
+Очерк безопасности SIP | https://habrahabr.ru/company/pt/blog/212839/
+
+Web интерфейс прослушивания записей звонков Asterisk | https://habrahabr.ru/post/212815/
+
+Viber купили за 900 миллионов долларов | https://habrahabr.ru/post/212617/
+
+Особенности национального роуминга | https://habrahabr.ru/company/boxowerview/blog/212549/
+
+Проверяем доступность SIP провайдера | https://habrahabr.ru/post/212401/
+
+Леонид Куприянович и его мобильники | https://habrahabr.ru/post/197880/
+
+Тестирование телефонов Digium с Asterisk и настройка Smart BLF | https://habrahabr.ru/post/211464/
+
+Смарт-карты для самых маленьких | https://habrahabr.ru/post/210062/
+
+Работа инженера — разные необычные истории | https://habrahabr.ru/company/beeline/blog/210044/
+
+Видеотелефон D900 на базе Android 4.2 | https://habrahabr.ru/company/vimcom/blog/209680/
+
+Опыт использования MNP в России или как я номер от оператора к оператору переносил | https://habrahabr.ru/post/209498/
+
+Номера на экране телефона: АОН, CLIP, CLIR, COLP, COLR и другое | https://habrahabr.ru/company/beeline/blog/209398/
+
+Год большого рывка: краткие итоги 2013-го | https://habrahabr.ru/company/beeline/blog/209006/
+
+Конференц-мост, сервер записи разговоров и Fax-сервер от Grandstream: обзор | https://habrahabr.ru/company/muk/blog/208894/
+
+ХабраFAQ по сотовой связи | https://habrahabr.ru/company/beeline/blog/208628/
+
+CES 2014: Первый взгляд на мини-флагман Sony Xperia Z1 Compact (+видео) | https://habrahabr.ru/post/208302/
+
+Как мы узнали, что такое маркетинг | https://habrahabr.ru/post/208258/
+
+Asterisk: режим DND на BLF клавише | https://habrahabr.ru/post/207820/
+
+Уязвимость Теле2: пользователи Telegram и Qiwi-кошелька в опасности | https://habrahabr.ru/post/207858/
+
+MegaFon Login 2 (MS3A): в два раза лучше | https://habrahabr.ru/post/206366/
+
+Необычные станции в Чувашии и монтажная смекалка | https://habrahabr.ru/company/beeline/blog/206594/
+
+Звонок Деду Морозу 2014 | https://habrahabr.ru/post/207328/
+
+Исследователь из Стэнфорда доказал, что АНБ может идентифицировать людей на основе телефонных записей | https://habrahabr.ru/company/apps4all/blog/207506/
+
+Интеграция IP-телефонов с Lync Server | https://habrahabr.ru/company/starxoft/blog/206674/
+
+Абоненты Билайн могут оплачивать покупки в Marketplace со счета | https://habrahabr.ru/post/207254/
+
+IPv6-адреса в мобильной сети «Билайн»: тест в Воронеже | https://habrahabr.ru/company/beeline/blog/207162/
+
+Установка и настройка Asterisk под iD Phone (iDPhone) | https://habrahabr.ru/post/206964/
+
+Вышел Asterisk 12 | https://habrahabr.ru/post/206876/
+
+Обзор 4G-модема MR100-2 | https://habrahabr.ru/post/206796/
+
+Новыe GSM маршрутизаторы от OpenVox | https://habrahabr.ru/post/205122/
+
+Модернизация сети в Чувашии: почему наша сеть похожа на формулы из органической химии | https://habrahabr.ru/company/beeline/blog/206590/
+
+LG A290 TriSim. Год спустя | https://habrahabr.ru/post/206212/
+
+Состоялся релиз 3CX Phone System 12 Service Pack 3 | https://habrahabr.ru/company/3cx/blog/205940/
+
+PSTN-шлюз для Lync Server на базе FreeSWITCH | https://habrahabr.ru/company/starxoft/blog/205580/
+
+Речевые технологии. Голосовая биометрия для чайников на примере работы в контактном центре | https://habrahabr.ru/company/speechpro/blog/205880/
+
+Небольшой промежуточный результат года большой работы | https://habrahabr.ru/company/cfc/blog/205702/
+
+В Viber появилась возможность звонить на любые телефоны | https://habrahabr.ru/post/205562/
+
+Покажите свои гаджеты! | https://habrahabr.ru/company/beeline/blog/205536/
+
+Viks Bluetooth Вибро-Браслет VI-T2: аксессуар для не реагирующих на звонки дам | https://habrahabr.ru/company/smartgadget/blog/205432/
+
+WebRTC Expo 2013 и новые возможности платформы VoxImplant | https://habrahabr.ru/company/Voximplant/blog/205404/
+
+Первый россиянин поменял своего оператора без потери номера | https://habrahabr.ru/post/205420/
+
+Zoiper сохраняет наши пароли от SIP на своих серверах — и потерял эту базу? | https://habrahabr.ru/post/205298/
+
+АНБ отслеживает местоположение мобильных телефонов по всему миру | https://habrahabr.ru/post/204998/
+
+Как работает роуминг — международный, национальный, аварийный | https://habrahabr.ru/company/beeline/blog/204874/
+
+От 0 до 9 и от 9 до 0 | https://habrahabr.ru/post/204702/
+
+Новые аналоговые и цифровые платы для Asterisk от Digium | https://habrahabr.ru/post/202120/
+
+MNP — что имеем на сегодняшний день? | https://habrahabr.ru/company/boxowerview/blog/204218/
+
+Openfire+Miranda+Asterisk+Active Directory+щепотка php,bash,C# или как звонить из Miranda, используя обычные телефоны | https://habrahabr.ru/post/204242/
+
+Asterisk. Разгружаем секретаря/диспетчера/первую линию тех. поддержки | https://habrahabr.ru/post/204048/
+
+А вы собираете артефакты-гаджеты? | https://habrahabr.ru/company/beeline/blog/204118/
+
+Мой опыт работы с Webrtc | https://habrahabr.ru/post/203568/
+
+Пример реализации истории звонков для IP-АТС 3CX Phone System | https://habrahabr.ru/company/3cx/blog/203454/
+
+Берегись оптоволокна | https://habrahabr.ru/post/202962/
+
+Побег из колонки «Другие»: локальные бренды наращивают рыночную долю | https://habrahabr.ru/company/smartgadget/blog/202924/
+
+Обзор плат расширения коммуникационной платформы Aastra А400 (A470) | https://habrahabr.ru/post/202854/
+
+Что бывает с телефоном при движении — процедуры мобильности в сотовых сетях | https://habrahabr.ru/company/beeline/blog/202498/
+
+Излучение телефонов: мифы и легенды — и отчего зависит мощность передатчика телефона | https://habrahabr.ru/company/beeline/blog/202216/
+
+Дополнительные функции Aastra Mobile Client | https://habrahabr.ru/post/201364/
+
+Минкомсвязи хочет запретить телефоны без ГЛОНАСС | https://habrahabr.ru/post/201258/
+
+Auto provisioning для grandstream или вынимаем и вкладываем душу в GXP1165 | https://habrahabr.ru/post/200982/
+
+Московский номер в коде 495 бесплатно | https://habrahabr.ru/company/zadarma/blog/199422/
+
+Motorola Ara — проект по созданию модульных смартфонов | https://habrahabr.ru/post/199506/
+
+Вышел софтфон 3CXPhone для Mac OS | https://habrahabr.ru/company/3cx/blog/199418/
+
+Офис компании Null Team | https://habrahabr.ru/post/154511/
+
+Пошаговое руководство по привязке SIP-номера к Elastix (FreePBX, Asterisk) на примере провайдера Megaline iDPhone | https://habrahabr.ru/post/198684/
+
+Вышла Yate5 | https://habrahabr.ru/post/198640/
+
+bb-mobile MicrON-3 – карманная Bluetooth-гарнитура для «лопатофонов» | https://habrahabr.ru/company/smartgadget/blog/198570/
+
+3CX разрабатывает решение в области видеоконференций на базе WebRTC | https://habrahabr.ru/company/3cx/blog/198402/
+
+Вышел 3CX Phone System 12 Service Pack 2 | https://habrahabr.ru/company/3cx/blog/198086/
+
+API сервера унифицированных коммуникаций CommuniGate Pro | https://habrahabr.ru/company/communigatepro/blog/197720/
+
+Сказ о том, как у украинского оператора появились серьезные проблемы | https://habrahabr.ru/post/197998/
+
+Smart BLF и сравнение IP телефона Digium D40 | https://habrahabr.ru/post/195778/
+
+Ставим Avaya Contact Recorder (Linux) | https://habrahabr.ru/post/197488/
+
+Интеграция мобильного телефона с корпоративной IP-АТС с помощью Aastra Mobile Client | https://habrahabr.ru/post/197102/
+
+Подключаем Asterisk к Avaya по протоколу H.323 | https://habrahabr.ru/post/197080/
+
+3CX Hotel Module — гостиничный модуль для 3CX Phone System 12 | https://habrahabr.ru/company/3cx/blog/196714/
+
+Вышла новая редакция 3CX Phone System Pro Edition | https://habrahabr.ru/company/3cx/blog/196710/
+
+Совместная работа видеотерминалов Aastra Blustar 8000i и Cisco CUCM 9.0 | https://habrahabr.ru/post/196006/
+
+Макрос для балансировки исходящих звонков на GSM в Asterisk | https://habrahabr.ru/post/195730/
+
+Отправка факсов из User Panel во FreePBX | https://habrahabr.ru/post/195612/
+
+Платформа для оценки качества речевой связи VoIP | https://habrahabr.ru/post/186640/
+
+Организация многоканального номера с помощью «Komunikator» | https://habrahabr.ru/post/195030/
+
+IFA 2013 своими глазами: мобильные устройства Samsung, Toshiba, Panasonic, TCL/Alcatel и Archos | https://habrahabr.ru/company/smartgadget/blog/195024/
+
+Организуем Asterisk IP телефонию в офисе без изучения Linux | https://habrahabr.ru/post/194812/
+
+Соединяем Communigate Pro c PSTN шлюзами и SIP провайдерами | https://habrahabr.ru/company/communigatepro/blog/193922/
+
+VoxImplant — облачная платформа для разработчиков коммуникационных сервисов и приложений | https://habrahabr.ru/company/Voximplant/blog/194354/
+
+«МультиФон» — VoIP-звонилка для абонентов «МегаФона» | https://habrahabr.ru/company/megafon/blog/193392/
+
+Недра таксофона | https://habrahabr.ru/post/194166/
+
+Дыра в безопасности IP-телефонов D-Link? Нет, это «Особенность»! | https://habrahabr.ru/post/194154/
+
+Автономная работа смартфона: «внятный» сравнительный гид | https://habrahabr.ru/company/smartgadget/blog/193670/
+
+Реализация голосового меню на perl через usb модем Huawei e1550 | https://habrahabr.ru/post/193586/
+
+Колонка «Другие»: о бюджетных смартфонах и локальных брендах. Послесловие | https://habrahabr.ru/company/smartgadget/blog/193224/
+
+perl скрипт производящий голосовой обзвон (оповещение) через usb модем huawei e1550 | https://habrahabr.ru/post/192930/
+
+Состоялся официальный релиз 3CX Phone System 12 | https://habrahabr.ru/company/3cx/blog/192628/
+
+Samsung Galaxy Pocket Neo – простой смартфон для родителей | https://habrahabr.ru/company/smartgadget/blog/191698/
+
+Обзор LG Optimus L5 II Dual: бюджетный смартфон с рядом странных особенностей | https://habrahabr.ru/company/smartgadget/blog/190854/
+
+У Mobile Device Manager появилась on premise версия! | https://habrahabr.ru/company/3cx/blog/192222/
+
+Парень зарегистрировал платный номер и зарабатывает на рекламщиках | https://habrahabr.ru/post/192202/
+
+Мексиканский город поднял собственную сотовую сеть | https://habrahabr.ru/post/192178/
+
+Интеграция MS Lync 2013 c Aastra MX-ONE 5.0 (Direct SIP) | https://habrahabr.ru/post/192036/
+
+Видео звонки между терминалами Aastra 8000i через IP-PBX Asterisk | https://habrahabr.ru/post/191976/
+
+Подходят ли облачные IP АТС небольшим компаниям? | https://habrahabr.ru/post/191856/
+
+Использование IP-терминалов Aastra 6725ip и Aastra 6721ip в инфраструктуре MS Lync 2013 Server | https://habrahabr.ru/post/191852/
+
+Релиз Asterisk 12 выйдет в 2013 году | https://habrahabr.ru/post/191834/
+
+Skype исполнилось 10 лет | https://habrahabr.ru/post/191796/
+
+Обзор новых IP АТС от Grandstream | https://habrahabr.ru/company/muk/blog/191708/
+
+Колонка «Другие»: о бюджетных смартфонах и локальных брендах | https://habrahabr.ru/company/smartgadget/blog/190534/
+
+Вебинар компаний Huawei Enterprise и Landata «Dorado: самый быстрый и надежный флеш-СХД Huawei в мире» 28 августа 2013г | https://habrahabr.ru/post/191538/
+
+Новая трубка IP-DECT от Yealink W52P | https://habrahabr.ru/company/3cx/blog/191366/
+
+SIP URI и URL. Часть 2 (Схема SIP URI) | https://habrahabr.ru/post/190808/
+
+Spectralink KIRK KWS400. Бюджетное, профессиональное DECT решение | https://habrahabr.ru/post/185586/
+
+Выбор голосового VoIP шлюза | https://habrahabr.ru/post/190550/
+
+SIP URI и URL. Часть 1 (URI, URL и URN) | https://habrahabr.ru/post/190154/
+
+Как закрыть Интернет в России | https://habrahabr.ru/post/190480/
+
+Как я был телефонным фрикером | https://habrahabr.ru/post/190100/
+
+PBX приложения на сервере Communigate Pro. Разбираем простейший пример — приложение для записи контактного телефона клиента | https://habrahabr.ru/company/communigatepro/blog/189854/
+
+Между Samsung Galaxy S III и OPPO Find 5 (довольно-таки подробно о последнем) | https://habrahabr.ru/post/189584/
+
+Взаимодействие клиентов SIP. Часть 2 | https://habrahabr.ru/post/189332/
+
+SMS модуль для Elastix (часть 2) | https://habrahabr.ru/post/189254/
+
+Реализация VoIP карточной платформы на FreeSWITCH с использованием RADIUS | https://habrahabr.ru/post/189148/
+
+Я оглянулся посмотреть не оглянулась ли она… или история о том, как я был сам себе провайдером в начале 2000-х | https://habrahabr.ru/post/189174/
+
+Риски использования распознавания речи от Google в своих бизнес проектах | https://habrahabr.ru/company/speechpro/blog/189134/
+
+Вебинар компаний Huawei Enterprise и Landata «Обзор новых продуктов для видео конференций» 14 августа 2013г | https://habrahabr.ru/company/landata/blog/189078/
+
+Зачем МГТС двигает PON | https://habrahabr.ru/post/188826/
+
+Jiayu G3S работа над ошибками | https://habrahabr.ru/post/188820/
+
+Очередной телефон-рация в защищенном корпусе — teXet TM-540R | https://habrahabr.ru/company/smartgadget/blog/188656/
+
+Абоненты МГТС GPon под угрозой взлома, новые сети – новые проблемы | https://habrahabr.ru/post/188454/
+
+SMS сервер GoIP для Asterisk (часть 1) | https://habrahabr.ru/post/188644/
+
+Avaya Aura Communication Manager: Автоматический дозвон | https://habrahabr.ru/post/188576/
+
+Самообслуживание клиентов с помощью google ASR | https://habrahabr.ru/post/188382/
+
+IP-телефония: от медных проводов до цифровой обработки сигнала | https://habrahabr.ru/company/promwad/blog/188336/
+
+Взаимодействие клиентов SIP. Часть 1 | https://habrahabr.ru/post/188352/
+
+Управление АТС — Дьявол в деталях | https://habrahabr.ru/post/186900/
+
+(Видео) Демонстрации на стенде: Универсальная коммуникационная система IP-телефонии ZyXEL X8004 | https://habrahabr.ru/company/muk/blog/186468/
+
+Just5 Brick — телефон-кирпич от Артемия Лебедева (+видео) | https://habrahabr.ru/post/187120/
+
+Обзор Nokia Asha 210 Стильный бюджетник | https://habrahabr.ru/post/187086/
+
+Закрыт «последний в мире» проводной телеграф | https://habrahabr.ru/post/186630/
+
+Защита от прослушивания SIP c помощью — TLS + SRTP + шифрованный туннель и телефона Yealink T26p | https://habrahabr.ru/post/186530/
+
+MNP: ничего не готово | https://habrahabr.ru/post/186442/
+
+Пресс-конференция Just5 & Студии Артемия Лебедева, 17 июля, 16:30 — задавайте вопросы! | https://habrahabr.ru/company/smartgadget/blog/186412/
+
+Как мы покупали смартфон BlackBerry Curve 9220 | https://habrahabr.ru/company/smartgadget/blog/186068/
+
+Обзор шлюза Grandstream GXW 4216 + тест в максимальной нагрузке | https://habrahabr.ru/company/3cx/blog/185986/
+
+Анонс серии статей по настройке сервера Communigate Pro. Установка сервера | https://habrahabr.ru/company/communigatepro/blog/185726/
+
+Об особенностях настроек безопасности «Интернет от МГТС» | https://habrahabr.ru/post/185546/
+
+Шлюзы Digium G400 и G800 (E1 PRI) | https://habrahabr.ru/post/185468/
+
+Здравый смысл против маркетологов. Письмо Стивену Элопу с предложением воскресить Nokia 3310 | https://habrahabr.ru/post/185292/
+
+Реализация работы с факсами в asterisk | https://habrahabr.ru/post/185260/
+
+Голосовые отпечатки: скорее всего, вы уже успели «наследить» | https://habrahabr.ru/company/croc/blog/184980/
+
+Как выбрать систему Unified Communication | https://habrahabr.ru/post/184890/
+
+VoIP телефония — как оценить реальную стоимость решения | https://habrahabr.ru/post/184228/
+
+Какая связь нужна стартапу? | https://habrahabr.ru/company/sipuni/blog/184086/
+
+Call-центр просто и дешево | https://habrahabr.ru/post/183888/
+
+Как мы создали облачную АТС Sipuni.com | https://habrahabr.ru/company/sipuni/blog/183828/
+
+Сервис автоматизированной отправки факсов с помощью Asterisk | https://habrahabr.ru/post/183584/
+
+Обзор первого настольного IP телефона на платформе Android — Grandstream GXP2200 | https://habrahabr.ru/company/muk/blog/182476/
+
+Основы IP-телефонии, базовые принципы, термины и протоколы | https://habrahabr.ru/post/183152/
+
+Дружим Cisco IP Phone CP-7925G (WiFi), Cisco IP Conference Station CP-7937G, CP-3905G и Unified IP Phone CP-7965 с Asterisk | https://habrahabr.ru/post/182798/
+
+Унифицированные коммуникации в облаке | https://habrahabr.ru/post/182402/
+
+Холодильник для пива вызвал помехи в сотовой сети | https://habrahabr.ru/post/182196/
+
+6 часов с МегаФон Login или ищем бюджетный смартфон с android для поездки в отпуск | https://habrahabr.ru/post/181860/
+
+VoIP-cофтфон 3CXPhone для Android — впервые с PUSH-уведомлениями | https://habrahabr.ru/company/3cx/blog/181241/
+
+Билайн запустил LTE сеть в Москве | https://habrahabr.ru/post/181281/
+
+WebRTC на Google I/O 2013 | https://habrahabr.ru/company/Voximplant/blog/180953/
+
+Настройка Voip-GSM шлюза Hybertone GoIP4 и Asterisk PBX c помощью FreePBX | https://habrahabr.ru/post/180855/
+
+Asterisk на Mikrotik | https://habrahabr.ru/post/180889/
+
+Лето-2013: Роуминг-гид по всем сотовым операторам | https://habrahabr.ru/post/180771/
+
+Корпоративная АТС на базе Asterisk | https://habrahabr.ru/company/webnames/blog/180265/
+
+Отправка уведомлений о пропущенных звонках из Asterisk | https://habrahabr.ru/company/southbridge/blog/162825/
+
+Наклейка на сим-карту с микропроцессором поможет сэкономить в роуминге | https://habrahabr.ru/post/179897/
+
+Нестандартный вариант монетизации социальных сервисов с привлечением новых пользователей | https://habrahabr.ru/post/179229/
+
+Термины, жаргон, определения Android | https://habrahabr.ru/post/179095/
+
+Nokia воскресила N9 как Asha 501? | https://habrahabr.ru/post/179193/
+
+IP-АТС на базе 3CX Phone System: особенности и настройка | https://habrahabr.ru/company/3cx/blog/178111/
+
+Еще немного про SDH и PDH | https://habrahabr.ru/post/178825/
+
+Небольшой скрипт для Naumen Phone Outsourcing | https://habrahabr.ru/post/178799/
+
+Разговоры о стартапе | https://habrahabr.ru/post/177337/
+
+Как мы принимали вопросы Президенту | https://habrahabr.ru/company/sipuni/blog/178437/
+
+Бесплатное мобильное приложение Zingaya для iOS | https://habrahabr.ru/company/Voximplant/blog/177191/
+
+Как мы делали связь на месторождении алмазов имени Гриба | https://habrahabr.ru/company/beeline/blog/178325/
+
+MegaFon Login (SP-A1): ну очень бюджетный Android | https://habrahabr.ru/post/177811/
+
+Способы оценки субъективного качества речи | https://habrahabr.ru/post/177099/
+
+Вторая жизнь таксофонов | https://habrahabr.ru/post/176937/
+
+Нетривиальная задача с callback + DID в Asterisk | https://habrahabr.ru/post/176751/
+
+УПАТС Aastra MX-ONE TSW — введение в основы администрирования | https://habrahabr.ru/post/176747/
+
+Аренда телефона с безлимитным интернетом в Гонконге и Сингапуре | https://habrahabr.ru/post/175783/
+
+Работа с Avaya Aura Communication Manager при помощи протокола OSSI | https://habrahabr.ru/post/175937/
+
+Весна! Выгодные акции от «Простого бизнеса» | https://habrahabr.ru/company/prostoy/blog/175433/
+
+Бесплатные звонки в США и Канаду с любого SIP устройства | https://habrahabr.ru/post/175177/
+
+Расширение существующей традиционной АТС при помощи шлюзов Beronet | https://habrahabr.ru/company/3cx/blog/175233/
+
+Романтика севера: спутниковые посты у базовых станций, лопата и невероятно много снега | https://habrahabr.ru/company/beeline/blog/175069/
+
+Новый Switchvox 450 & 470, API и кое-что еще… | https://habrahabr.ru/post/156267/
+
+Asterisk. Передаем номер звонящего при переадресации на мобильный с помощью СМС | https://habrahabr.ru/post/174125/
+
+Что нам стоит АТС построить! | https://habrahabr.ru/post/172927/
+
+«Ёжик» на выезде: измерение качества сети | https://habrahabr.ru/company/beeline/blog/172871/
+
+Начало работы с смс-шлюзом Kannel | https://habrahabr.ru/post/172855/
+
+WebRTC теперь и на мобильных (пока только Android) | https://habrahabr.ru/company/Voximplant/blog/172841/
+
+Устройство и настройка ЭПУ на базовой станции сотовой связи | https://habrahabr.ru/post/172655/
+
+Делаем VoIP GSM шлюз из Tp-link mr-3020 и Huawei E-171 — часть вторая — добавляем Siemens Gigaset c470IP и SMS | https://habrahabr.ru/post/172345/
+
+Автоматическая система обзвона клиентов | https://habrahabr.ru/post/172227/
+
+Нестандартный cost-saving: как мы научились самостоятельно ремонтировать офисные IP-телефоны Nortel 1120 | https://habrahabr.ru/post/171725/
+
+Обзор бесплатных SIP клиентов для Windows | https://habrahabr.ru/company/onlinepbx/blog/171139/
+
+Elastix — Asterisk как система экстренного голосового оповещения | https://habrahabr.ru/post/170849/
+
+Реализация аудио звонков с web и мобильных клиентов (RTMP, RTMFP, WebRTC) | https://habrahabr.ru/post/169775/
+
+Skype принадлежит треть телефонного международного трафика | https://habrahabr.ru/post/169617/
+
+Elastix как автоматическая система записи сообщений с отправкой их исполнителям | https://habrahabr.ru/post/169605/
+
+Связь Elastix c Panasonic TDE 200 и платой v SIPGW16 по SIP | https://habrahabr.ru/post/169591/
+
+Samsung уйдет с Android уже в этом году | https://habrahabr.ru/post/169581/
+
+Что можно получить от интеграции 1С:CRM 8 и телефонии Asterisk | https://habrahabr.ru/post/169015/
+
+Nokia начинает работу с графеном | https://habrahabr.ru/post/167989/
+
+Звук диалапа | https://habrahabr.ru/post/167927/
+
+Интеграция 1С:CRM и Asterisk с помощью PHP-AGI и веб-сервисов 1C | https://habrahabr.ru/post/166935/
+
+25 января 1915: первый трансконтинентальный звонок | https://habrahabr.ru/post/167133/
+
+Новые софтфоны YouMagic теперь с кодеком OPUS | https://habrahabr.ru/company/mtt/blog/166669/
+
+Askozia — редактор маршрутов вызовов | https://habrahabr.ru/post/165971/
+
+YATE в качестве jabber сервера | https://habrahabr.ru/post/166235/
+
+Phonerlite — лучший бесплатный SIP клиент для Windows | https://habrahabr.ru/company/onlinepbx/blog/165799/
+
+XIMA Chronicall экстренный траблшутинг телефонной системы мониторинга и построения отчетов | https://habrahabr.ru/post/165089/
+
+Как создавалось новое приложение IP-телефонии на Android | https://habrahabr.ru/company/mtt/blog/164165/
+
+Прямые номера — месяц в подарок | https://habrahabr.ru/company/zadarma/blog/163929/
+
+Product Lifecycle Management. Популярно о процессах управления жизненным циклом телекоммуникационных услуг | https://habrahabr.ru/post/163839/
+
+Звонок Деду Морозу | https://habrahabr.ru/company/onlinepbx/blog/163741/
+
+Простейший способ обзвона списка номеров с помощью Asterisk | https://habrahabr.ru/post/159503/
+
+Как мы участвовали в WebRTC Expo в Silicon Valley и выиграли приз | https://habrahabr.ru/company/Voximplant/blog/163141/
+
+Скриптинг для бюджетной активации (часть 1) | https://habrahabr.ru/post/162865/
+
+Сервис прямых SIP звонков call2sip.ru | https://habrahabr.ru/company/onlinepbx/blog/162499/
+
+Разрешайте прямые SIP звонки | https://habrahabr.ru/company/onlinepbx/blog/162219/
+
+Как работает биллинг сотового оператора? | https://habrahabr.ru/company/beeline/blog/162175/
+
+Asterisk: обратный вызов с использованием AMI | https://habrahabr.ru/company/southbridge/blog/161521/
+
+Из первых рук: подводные камни на пути к поддержке WebRTC | https://habrahabr.ru/company/Voximplant/blog/159677/
+
+По случаю юбилея SMS его создатель дал интервью — через SMS | https://habrahabr.ru/post/161229/
+
+SMS сообщениям исполняется 20 лет | https://habrahabr.ru/post/160971/
+
+Реализация резервирования сервера Asterisk | https://habrahabr.ru/post/160521/
+
+«Планета 0» от Билайн перетянет роуминговых абонентов МТС и Мегафон в дальних странах? (обновлено) | https://habrahabr.ru/post/160417/
+
+Сам себе сотовый роуминг. Создание GSM гейта на asterisk + донгл от сотового оператора | https://habrahabr.ru/post/160299/
+
+20 лет первому смартфону в истории | https://habrahabr.ru/company/ibm/blog/160039/
+
+Затачиваем Astesrisk для работы с BLF Cisco | https://habrahabr.ru/post/159783/
+
+Простейшее голосовое меню на Cisco VoiceXML | https://habrahabr.ru/post/159229/
+
+Факсы в Freeswitch без «факса» | https://habrahabr.ru/post/159393/
+
+Стала известна дата отмены мобильного рабства | https://habrahabr.ru/post/159305/
+
+JavaScript SIP библиотека от авторов стандарта | https://habrahabr.ru/post/159071/
+
+Международная нумерация с бонусом от МТТ | https://habrahabr.ru/company/mtt/blog/158653/
+
+Реальное применение WebRTC в сервисах IP-телефонии | https://habrahabr.ru/post/158543/
+
+Будьте осторожны, набирая российский номер с восьмерки | https://habrahabr.ru/post/158509/
+
+АТС за 5 минут | https://habrahabr.ru/company/zadarma/blog/157861/
+
+Проект RetroGSM, или как удивить бабушку | https://habrahabr.ru/post/158109/
+
+Обзор Grand смартфона ZTE V970 | https://habrahabr.ru/company/zte/blog/155249/
+
+Офисная телефония на Asterisk+FreePBX | https://habrahabr.ru/post/158057/
+
+ФАС России собирает дополнительную информацию о «коротких» номерах | https://habrahabr.ru/post/157901/
+
+Звонки с FMC Вымпелкома | https://habrahabr.ru/post/157683/
+
+Грабли, или 5 типичных ошибок настройки Asterisk | https://habrahabr.ru/post/157545/
+
+Индикация состояния абонента в очереди на телефоне с BLF кнопками | https://habrahabr.ru/post/157211/
+
+Релиз 11-й версии Asterisk | https://habrahabr.ru/post/156653/
+
+Настройка SIP-I/SIP-T транка с помощью Yate | https://habrahabr.ru/post/156469/
+
+Индикация работы режима DnD на BLF клавише в Asterisk | https://habrahabr.ru/post/155899/
+
+Обзор МегаФон SP-W1 на Windows Phone 7.5 | https://habrahabr.ru/post/155775/
+
+«Серые» телефоны в Украине. Стоит ли покупать? | https://habrahabr.ru/post/155587/
+
+Новые приемы SMS мошенников | https://habrahabr.ru/post/155475/
+
+Возвращение Series 40 | https://habrahabr.ru/post/154515/
+
+Настройка Asterisk 1.8 + FreePBX 2.10 с нуля | https://habrahabr.ru/post/154933/
+
+IP-телефония: современная технология бесплатных звонков | https://habrahabr.ru/company/mtt/blog/154869/
+
+Роуминг в Европе — интернет и разговоры, немножко практики | https://habrahabr.ru/post/153999/
+
+Опыт использования IP ATC Askozia в нашем офисе | https://habrahabr.ru/post/154533/
+
+Почему Windows Phone обречен на успех | https://habrahabr.ru/post/151477/
+
+Вариант оповещения сотрудников в случае внезапной проверки (на базе офисной мини-АТС) | https://habrahabr.ru/post/152523/
+
+Digium G100 / G200 E1/T1/PRI маршрутизатор | https://habrahabr.ru/post/152319/
+
+Подводные камни создания мини Контакт-центра на Asterisk | https://habrahabr.ru/post/152297/
+
+iPhone 5: проблемы с экраном. Видео | https://habrahabr.ru/post/151972/
+
+Auto provisioning для Fanvil BW210P | https://habrahabr.ru/post/151596/
+
+Вебинар Positive Technologies: «Мобильная связь (эволюция и стандарты)» | https://habrahabr.ru/company/pt/blog/151674/
+
+Автоматическая генерация Dial Patterns для Asterisk из DEF-кодов сотовых операторов | https://habrahabr.ru/post/151401/
+
+Поднимает телефонию с нуля: Asterisk, FreePBX, GSM-шлюз на Huawei E173 в Debian | https://habrahabr.ru/post/151011/
+
+Украинцев заставят предъявлять паспорт при покупке SIM-карт | https://habrahabr.ru/post/150840/
+
+Генератор масок из интервалов DEF кодов для Asterisk | https://habrahabr.ru/post/150793/
+
+YotaPhone | https://habrahabr.ru/post/150626/
+
+John’s Phone – простейший мобильный телефон в мире | https://habrahabr.ru/post/150604/
+
+Модельный ряд камер наблюдения Grandstream GXV3601 | https://habrahabr.ru/company/muk/blog/150356/
+
+Какой SIP-сервер выбрать: SER, OpenSER, Kamailio, OpenSIPS? Что в них общего и в чем разница? | https://habrahabr.ru/post/150280/
+
+Использование городской телефонной нумерации в IP-телефонии | https://habrahabr.ru/company/mtt/blog/150087/
+
+EPIC Fail: Пока Китай будет вводить в украинских школах 4G, местный 3G-оператор никак не может найти покупателя | https://habrahabr.ru/post/149966/
+
+Xperia SL. Смартфон следующего поколения от компании Sony | https://habrahabr.ru/post/149871/
+
+Голосовая почта и качественный скачок услуги благодаря Google (FreeSWITCH edition) | https://habrahabr.ru/post/149750/
+
+Мнение МТС об отмене внутреннего роуминга | https://habrahabr.ru/post/149534/
+
+Министерство связи предлагает отменить внутренний роуминг в России | https://habrahabr.ru/post/149507/
+
+trace DTMF на cisco | https://habrahabr.ru/post/139204/
+
+Новый IP DECT от Grandstream DP715/DP710 | https://habrahabr.ru/company/muk/blog/148708/
+
+Тариф «Бесплатный». Взлом таксофона на PHDays | https://habrahabr.ru/company/pt/blog/148723/
+
+Ninja Tel — любительская беспроводная телефонная сеть на Defcon | https://habrahabr.ru/post/148683/
+
+Как обойтись без Cisco Call Manager | https://habrahabr.ru/post/148455/
+
+Попытка обойтись без регулярных выражений для номеров телефонов собственного региона | https://habrahabr.ru/post/148401/
+
+Switchvox Home — IP-АТС для очень малого бизнеса | https://habrahabr.ru/post/148031/
+
+trrtrr.net: Открытые семинары по IP-Телефонии | https://habrahabr.ru/post/147695/
+
+Итоги конкурса на право получения лицензий LTE подведены сегодня (12 июля 2012 г.) | https://habrahabr.ru/post/147667/
+
+Немецкий оператор выступает против платного роуминга | https://habrahabr.ru/post/147623/
+
+Бесплатные гейтвеи из Skype в SIP и обратно | https://habrahabr.ru/post/147328/
+
+Skype Connect первое знакомство | https://habrahabr.ru/post/147299/
+
+Тестирование телефонов Digium с дистрибутивом AsteriskNow | https://habrahabr.ru/post/147253/
+
+Оценка работы операторов на Asterisk | https://habrahabr.ru/post/147122/
+
+Настройка Kerio Operator | https://habrahabr.ru/post/146663/
+
+Cisco Call Manager and Skype connect | https://habrahabr.ru/post/146098/
+
+Новый министр о будущем связи в России | https://habrahabr.ru/post/145896/
+
+За использование Google Talk или Skype можно сесть в тюрьму на 15 лет | https://habrahabr.ru/post/145858/
+
+Битва титанов FreeSwitch vs. Asterisk — Тест производительности | https://habrahabr.ru/post/145620/
+
+Астериск под реальной нагрузкой – распределённый отказоустоичивый колл-центр на >500 операторов | https://habrahabr.ru/post/145400/
+
+Безопасность в VoIP сетях | https://habrahabr.ru/post/145206/
+
+Смартфон без динамика | https://habrahabr.ru/post/145127/
+
+ETSI одобрила стандарт nano-SIM | https://habrahabr.ru/post/145088/
+
+Motorola начинает продажи телефона с 3 SIM-картами в Бразилии | https://habrahabr.ru/post/145087/
+
+Оффлайн очередь call-центра | https://habrahabr.ru/post/136793/
+
+iNum заговорил | https://habrahabr.ru/post/144898/
+
+Мобильное рабство отменяется | https://habrahabr.ru/post/144732/
+
+Роуминг-гид 2012: выбираем тарифы для путешествий | https://habrahabr.ru/post/144674/
+
+Создание регулярных выражений из диапазонов мобильных телефонных номеров | https://habrahabr.ru/post/144563/
+
+Разрешаем клиентам бесплатно звонить со Skype в офис | https://habrahabr.ru/post/144465/
+
+Создаём веб-форму для отправки факсов через Asterisk | https://habrahabr.ru/post/144409/
+
+Принцип работы SIP клиента в браузере | https://habrahabr.ru/post/144391/
+
+SIPML5 — SIP клиент для браузера на базе WebRTC | https://habrahabr.ru/post/144293/
+
+Видео SIP клиент в браузере | https://habrahabr.ru/post/144129/
+
+Защита Asterisk при атаке на номер 8-800 | https://habrahabr.ru/company/angels-it/blog/144039/
+
+Номер 8-800, или как разориться за один день | https://habrahabr.ru/company/doktelecom/blog/143823/
+
+Обзор телефонного аппарата Grandstream GXV3140 | https://habrahabr.ru/company/muk/blog/143784/
+
+Наши первые впечатления об IP-телефонии в сети 4G Yota LTE | https://habrahabr.ru/company/doktelecom/blog/143670/
+
+ФБР хочет заставить Facebook, Skype, Google и других оставлять в своих продуктах бэкдоры для слежки и прослушки | https://habrahabr.ru/post/143436/
+
+Свободная библиотека для интеграции 1С и Asterisk | https://habrahabr.ru/post/143085/
+
+Мониторинг состояния Asterisk с помощью MonAst | https://habrahabr.ru/post/143053/
+
+Пример использования Custom Destination в FreePBX | https://habrahabr.ru/post/142895/
+
+TeliaSonera выделила VoIP-трафик в отдельный тарифный план для некоторых стран | https://habrahabr.ru/post/142619/
+
+Билайн покровительствует SMS-мошенникам? | https://habrahabr.ru/post/142295/
+
+Как я сдавал dCAP | https://habrahabr.ru/post/142148/
+
+Опыт интеграции IP-телефонии с системой helpdesk через гаджет для Windows 7 | https://habrahabr.ru/post/142145/
+
+FreeSWITCH пример из жизни… | https://habrahabr.ru/post/132868/
+
+Обзор IP телефонов Digium | https://habrahabr.ru/post/141812/
+
+Подключение плат Digium E1 во FreeSWITCH | https://habrahabr.ru/post/141843/
+
+Стартап WebcamTelecom. Взгляд на коммуникации будущего | https://habrahabr.ru/post/141742/
+
+ACL во FreeSWITCH | https://habrahabr.ru/post/141727/
+
+Настройка Asterisk для оптимизации расходов на сотовую связь | https://habrahabr.ru/post/136638/
+
+Cisco, Avaya, Asterisk, Infinity — выбираем VOIP любимому начальнику | https://habrahabr.ru/post/141396/
+
+Digium куплен Microsoft, Asterisk не будет бесплатным и будет работать под Windows | https://habrahabr.ru/post/141175/
+
+«Многолинейность» IP телефона — зачем она? | https://habrahabr.ru/company/voips/blog/140895/
+
+Интеграция Lync и Avaya IPO | https://habrahabr.ru/post/139268/
+
+Продукты и технологии, которые создали мы | https://habrahabr.ru/company/microsoftlumia/blog/140851/
+
+Сравнение аппаратной IP-ATC с облачными решениями | https://habrahabr.ru/company/voips/blog/140726/
+
+Asterisk + FreePBX + 7937G | https://habrahabr.ru/post/140645/
+
+Построение отказоустойчивого SIP-прокси/PBX на базе FreeSWITCH mod_sofia (recover) | https://habrahabr.ru/post/140517/
+
+Хабраинтервью с директором SIMTRAVEL | https://habrahabr.ru/post/140429/
+
+Switchvox от Digium признан лучшим решением унифицированных коммуникаций 2011 года | https://habrahabr.ru/post/140168/
+
+Вариация на тему: прогноз погоды по телефону | https://habrahabr.ru/post/139656/
+
+Обновление Digium Switchvox до версии 5.5 | https://habrahabr.ru/post/139504/
+
+DECT система на предприятие | https://habrahabr.ru/post/139250/
+
+Переадресация для Asterisk | https://habrahabr.ru/post/139178/
+
+Digium начинает производство собственных IP телефонов | https://habrahabr.ru/post/138788/
+
+Альтернатива софтфону | https://habrahabr.ru/post/138237/
+
+SDK для связи Asterisk и 1С: Предприятие 8 | https://habrahabr.ru/post/137999/
+
+Что такое iNum, и чем мы можем помочь развитию данного проекта | https://habrahabr.ru/post/135938/
+
+Связываем Active Directory, Asterisk и OpenFire | https://habrahabr.ru/post/137124/
+
+Собираем DECT пазл на базе оборудования Spectralink | https://habrahabr.ru/post/136109/
+
+Видео-звонки из браузера в SIP | https://habrahabr.ru/post/136012/
+
+Бюджетный вариант виртуальной АТС с не бюджетными возможностями | https://habrahabr.ru/post/135845/
+
+Некоторые умозаключения об IP-телефонии — основной цифровой сигнал, кодеки, полоса пропускания | https://habrahabr.ru/post/135316/
+
+Asterisk 10.0.0 Is Released! | https://habrahabr.ru/post/134911/
+
+Система автоконфигурации для VoIP устройств на коленке | https://habrahabr.ru/post/134851/
+
+IP телефония: Брендовы решения VS софтовые (бесплатные) | https://habrahabr.ru/post/134565/
+
+Цифровые телефонные системы для чайников. Часть 1 — Кодирование голоса | https://habrahabr.ru/post/133891/
+
+Синтез и распознавание речи от Google для Asterisk | https://habrahabr.ru/post/133869/
+
+В Северной Корее идет активное развитие мобильной сферы | https://habrahabr.ru/post/133029/
+
+Switchvox от Digium получил признание! | https://habrahabr.ru/post/132864/
+
+В «Шереметьево» через Skype | https://habrahabr.ru/post/132803/
+
+Panasonic KX-TGP500 DECT | https://habrahabr.ru/post/132723/
+
+Мониторинг транзитного VoIP, методом прогнозирования | https://habrahabr.ru/post/132400/
+
+RTCKit: API голосового и видео общения в браузере | https://habrahabr.ru/post/131575/
+
+IP телефония в офисе | https://habrahabr.ru/post/130264/
+
+FreeSWITCH + mod_unimrcp + VoiceNavigator. Синтез и распознавание русской речи во FreeSWITCH | https://habrahabr.ru/company/speechpro/blog/129811/
+
+Google Voice в России | https://habrahabr.ru/post/130234/
+
+Google добавляет в свой браузер функцию Chrome Remote Desktop | https://habrahabr.ru/post/130037/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 4 | https://habrahabr.ru/company/speechpro/blog/128898/
+
+Сколько ты помнишь на память телефонных номеров? | https://habrahabr.ru/post/128875/
+
+Google Voice тестируют в Европе | https://habrahabr.ru/post/128829/
+
+Avaya Definty feat. IP Office 500 | https://habrahabr.ru/post/128224/
+
+Эволюция мобильных телефонов … в картинке | https://habrahabr.ru/post/127421/
+
+Customer Response Solutions: донабор номера | https://habrahabr.ru/post/126407/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 3 | https://habrahabr.ru/company/speechpro/blog/125512/
+
+Интеграция asterisk с Active Directory | https://habrahabr.ru/post/125359/
+
+Как связать два asterisk-сервера (часть вторая. IAX2) | https://habrahabr.ru/post/125303/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 2 | https://habrahabr.ru/company/speechpro/blog/125147/
+
+Asterisk + UniMRCP + VoiceNavigator. Синтез и распознавание речи в Asterisk. Часть 1 | https://habrahabr.ru/company/speechpro/blog/124946/
+
+Азы IP-телефонии от Cisco или знакомство с Cisco CallManager Express | https://habrahabr.ru/post/124411/
+
+Asterisk chan_ss7 «12 потоков» | https://habrahabr.ru/post/124325/
+
+Пишем примитивную биллинг-статистику для Asterisk | https://habrahabr.ru/post/124211/
+
+Skype to SIP Gateway своими руками | https://habrahabr.ru/post/123566/
+
+Полезный Asterisk | https://habrahabr.ru/post/123515/
+
+SMS и SIP шлюз — Мультифон, Asterisk, Kannel | https://habrahabr.ru/post/123380/
+
+AEL в asterisk | https://habrahabr.ru/post/122974/
+
+Switchvox — очередная звезда от Digium | https://habrahabr.ru/post/122858/
+
+Практическое применение Asterisk в домашних условиях | https://habrahabr.ru/post/120374/
+
+Патент Microsoft на прослушивание VoIP-телефонии | https://habrahabr.ru/post/122928/
+
+Голосовое дерево на Asterisk своими руками | https://habrahabr.ru/post/122751/
+
+Asterisk от простого — к сложному | https://habrahabr.ru/post/122898/
+
+Jingle стал базовым протоколом для GTalk | https://habrahabr.ru/post/122642/
+
+Обзор свободно доступных и бесплатных IP АТС (Asterisk, FreeSWITCH, SipXecs, Yate) | https://habrahabr.ru/post/122215/
+
+Flash в открытую объявил о своей дружбе с обычной телефонией! | https://habrahabr.ru/post/122214/
+
+Настройка телефона Cisco серии 79XX для работы с Asterisk | https://habrahabr.ru/post/121140/
+
+WebRTC: открытая технология пиринговых коммуникаций от Google | https://habrahabr.ru/post/120359/
+
+Skype — по горячим следам | https://habrahabr.ru/post/120044/
+
+Skype перестал работать | https://habrahabr.ru/post/120028/
+
+Skype: Microsoft не «убивал» поддержку Asterisk | https://habrahabr.ru/post/120006/
+
+Описание SkypeKit (headless Skype) | https://habrahabr.ru/post/119969/
+
+Skype прекращает сотрудничество с Digium. Объявлено о прекращении продаж Skype for Asterisk | https://habrahabr.ru/post/119924/
+
+Логирование и тарификация исходящих вызовов для АТС Avaya | https://habrahabr.ru/post/119372/
+
+TalkPad изнутри | https://habrahabr.ru/post/116658/
+
+Распознавание фраз в зашифрованном VoIP-потоке | https://habrahabr.ru/post/115582/
+
+Google закроет Gizmo5 | https://habrahabr.ru/post/115071/
+
+Частный опыт установки и настройки Asterisk с нуля | https://habrahabr.ru/post/113707/
+
+Asterisk: обработка регистрационных событий на сервере на примере взаимодействия с VoIP-сервисом «Мультифон» | https://habrahabr.ru/post/113216/
+
+Avaya IP Office для чайников. Конференция | https://habrahabr.ru/post/113008/
+
+Конференция на IP Office | https://habrahabr.ru/post/112793/
+
+Китай запрещает «незаконную передачу голоса по интернет-протоколу» | https://habrahabr.ru/post/110987/
+
+История развития Asterisk во всех подробностях | https://habrahabr.ru/post/110490/
+
+АТС Yeastar MyPBX 1600 — железный Астериск | https://habrahabr.ru/post/109836/
+
+Астериск для корпоративных клиентов | https://habrahabr.ru/post/109552/
+
+Avaya IP Office для чайников | https://habrahabr.ru/post/108364/
+
+Будущий дизайн OpenSIPS | https://habrahabr.ru/post/106719/
+
+Как я удалённо покупал прямой московский номер | https://habrahabr.ru/post/106261/
+
+Покупали номер без оформления? И зря! | https://habrahabr.ru/post/106175/
+
+И ещё про «домашний» Asterisk | https://habrahabr.ru/post/104085/
+
+Asterisk, или домашняя телефония для (про)двинутых пользователей | https://habrahabr.ru/post/104026/
+
+Обзор программ для командного голосового общения | https://habrahabr.ru/post/103645/
+
+Защита Asterisk или кубинская эпидемия | https://habrahabr.ru/post/103341/
+
+Оптимизация расходов на роуминг | https://habrahabr.ru/post/101494/
+
+Идеи для VoIP-бизнеса | https://habrahabr.ru/post/98588/
+
+Два слова из трёх букв: TMS и VCS | https://habrahabr.ru/post/95888/
+
+Asterisk для руководителя | https://habrahabr.ru/post/95795/
+
+SIP телефония для дома — реализация, опыт, фишки | https://habrahabr.ru/post/95657/
+
+Кому дома нужен такой прямой московский номер? | https://habrahabr.ru/post/95080/
+
+Зачем Google покупает VoIP-движок GIPS? | https://habrahabr.ru/post/93909/
+
+История появления и развития открытой телефонии | https://habrahabr.ru/post/93341/
+
+Астериск продолжает говорить по-русски! | https://habrahabr.ru/post/93251/
+
+Открытые АТС занимают 18% рынка телефонии Северной Америки | https://habrahabr.ru/post/93128/
+
+TalkPad.ru — наш ответ Скайпу! | https://habrahabr.ru/post/91902/
+
+Первый в мире «планшетный телефон» | https://habrahabr.ru/post/90121/
+
+VOIP-телефон Voxtel Access 1500 | https://habrahabr.ru/post/87370/
+
+Проект оптимизации распределения входящих Voip звонков | https://habrahabr.ru/post/84360/
+
+Yate — SIP-телефония дома или в офисе за 5 минут! | https://habrahabr.ru/post/82331/
+
+SIPNET: Акция «звони бесплатно, т.е. никак» | https://habrahabr.ru/post/79986/
+
+Бесплатные звонки и SMS по всей России в новогодние праздники от Comtube.ru | https://habrahabr.ru/post/79035/
+
+Audiocodes MediaPack-202 | https://habrahabr.ru/post/76269/
+
+Google купил Gizmo5, угрожая создать конкурента Skype | https://habrahabr.ru/post/74802/
+
+Прогноз погоды по телефону | https://habrahabr.ru/post/70771/
+
+Шлюз Skype<-->SIP для пользователей SIPNET | https://habrahabr.ru/post/68799/
+
+HowTo: Skype-шлюз на базе FreeSwitch | https://habrahabr.ru/post/68399/
+
+Про 112, и как он работает | https://habrahabr.ru/post/66963/
+
+Официальный этап скандала между Apple, Google и AT&T | https://habrahabr.ru/post/65943/
+
+Обзор видеофона TANDBERG E20 | https://habrahabr.ru/post/65054/
+
+Преимущества и стоимость внедрения системы Интерактивного Голосового Меню (IVR) (ознакомительная статья) | https://habrahabr.ru/post/59373/
+
+Asterisk GUI. Первые шаги | https://habrahabr.ru/post/54816/
+
+Asterisk – система компьютерной телефонии уровня предприятия | https://habrahabr.ru/post/54751/
+
+Google Voice — что это такое? | https://habrahabr.ru/post/54603/
+
+Что такое Unified Communications | https://habrahabr.ru/post/53065/
+
+Анонимность Skype снова под угрозой | https://habrahabr.ru/post/52959/
+
+Flaphone анонсировал SIP-to-Skype звонки | https://habrahabr.ru/post/52700/
+
+Какие SIP устройства существуют и как их подключать | https://habrahabr.ru/post/51801/
+
+Jajah превращает iPod Touch в iPhone | https://habrahabr.ru/post/51275/
+
+Путешествие группы формант по голосовому тракту | https://habrahabr.ru/post/51129/
+
+Введение в FreeSWITCH, часть вторая | https://habrahabr.ru/post/50240/
+
+Введение в FreeSWITCH, часть первая | https://habrahabr.ru/post/50140/
+
+FreeSWITCH. Быть может будущее телефонии уже с нами? | https://habrahabr.ru/post/50091/
+
+Telephone — новый SIP-клиент под Мак | https://habrahabr.ru/post/48858/
+
+VoIP. Звонки удобнее и дешевле? | https://habrahabr.ru/post/47586/
+
+Ролик о телефонии и VoIP | https://habrahabr.ru/post/46053/
+
+Наш VoIP стартап Octopus | https://habrahabr.ru/post/45372/
+
+VoxOx — VoIP сервис, объединяющий коммуникации | https://habrahabr.ru/post/44109/
+
+Nimbuzz – Skype, SIP и IM на любом мобильном | https://habrahabr.ru/post/43745/
+
+Перепрошивка Cisco 7912G | https://habrahabr.ru/post/37473/
+
+Протокол SIP убийца Скайпа? | https://habrahabr.ru/post/28358/
+
+Yahoo отдаёт свой VoIP-сервис на аутсорсинг Jajah | https://habrahabr.ru/post/24409/
+
+«Евросеть» собирается конкурировать со Skype | https://habrahabr.ru/post/24048/
+
+SipNet.ru | https://habrahabr.ru/post/22895/
+
+GroovyTel и IPKall — бесплатно американский телефонный номер | https://habrahabr.ru/post/21732/
+
+Talkonaut 4.0 — мобильный VoIP для платформы Symbian S60 | https://habrahabr.ru/post/20834/
+
+Firefox VoIP Extension — SIP телефон в браузере | https://habrahabr.ru/post/17696/
+
+Мировой рынок VoIP за год вырос в три раза | https://habrahabr.ru/post/12573/
+
+Truphone 3.0 – бесплатные VoIP звонки в Москву и Питер, SMS over IP, и многое другое | https://habrahabr.ru/post/12064/
+
+Skype объявляет конкурс мэшапов | https://habrahabr.ru/post/11848/
+
+Вышел fring для Windows Mobile — Skype, Google Talk, MSN и SIP на КПК и смартфонах | https://habrahabr.ru/post/11065/
+
+Deutsche Telekom инвестирует конкурента Skype | https://habrahabr.ru/post/9059/
+
+Intel делает ставку на конкурента Skype | https://habrahabr.ru/post/8177/
+
+ooVoo – новый клиент для видео-коммуникаций и IM | https://habrahabr.ru/post/7565/
+
+Патенты, которые могут убить VoIP | https://habrahabr.ru/post/6063/
+
+Voipcheap, бесплатные звонки по России/в Россию | https://habrahabr.ru/post/5795/
+
+VoIP не будут облагать налогом | https://habrahabr.ru/post/5625/
+
+Fring завоёвывает себе место на мобильных телефонах | https://habrahabr.ru/post/5389/
+
+Gizmo Project научился звонить на другие мессенджеры | https://habrahabr.ru/post/3772/
+
+Плагин Gizmo Call для звонков из браузера | https://habrahabr.ru/post/2705/
+
+Skype придумал фичи для корпоративщиков | https://habrahabr.ru/post/2633/
+

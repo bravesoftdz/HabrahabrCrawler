@@ -1,0 +1,496 @@
+Проверка кода Reiser4 статическим анализатором PVS-Studio | https://habrahabr.ru/post/345894/
+
+Кроссплатформенная новогодняя демка на .NET Core и Avalonia | https://habrahabr.ru/post/345708/
+
+Настройка VPN (PPTP) в Ubuntu 17.10 с авторизацией по смарт-карте JaCarta | https://habrahabr.ru/company/aladdinrd/blog/345476/
+
+Развертывание сервера ElectrumX | https://habrahabr.ru/post/345222/
+
+Микроядро vs. монолит и «торжество» MINIX | https://habrahabr.ru/post/344826/
+
+Отображение переменных окружения в Redis | https://habrahabr.ru/post/344766/
+
+Пишем простой модуль ядра Linux | https://habrahabr.ru/post/343828/
+
+Используем Bash в SQL-стиле | https://habrahabr.ru/post/343758/
+
+Заразить во благо: как мы исполняем паразитный код | https://habrahabr.ru/company/virtuozzo/blog/343548/
+
+Настройка Sublime Text 3, SW4 и STM32CubeMX для разработки STM32 под Linux | https://habrahabr.ru/post/343456/
+
+Docker и все все все | https://habrahabr.ru/post/343194/
+
+Microsoft Bot Framework + IBM Watson =… би-лингвистический бот | https://habrahabr.ru/post/340092/
+
+Программирование под ARM TrustZone. Часть 1: Secure Monitor | https://habrahabr.ru/company/aladdinrd/blog/342924/
+
+Статический анализатор ShellCheck и улучшение качества скриптов в Linux и Unix | https://habrahabr.ru/company/ruvds/blog/342580/
+
+Как написать свой первый Linux device driver. Часть 3 | https://habrahabr.ru/post/342668/
+
+Запуск/отладка Python скриптов в контейнерах LXC/LXD из под VS Code | https://habrahabr.ru/post/342080/
+
+CI: непрерывная интеграция за 5 минут | https://habrahabr.ru/post/341818/
+
+TrustZone: аппаратная реализация в ARMv7A | https://habrahabr.ru/company/aladdinrd/blog/340912/
+
+Linux Piter #3: о чем на этот раз? | https://habrahabr.ru/company/dellemc/blog/340862/
+
+Как написать свой первый Linux device driver. Часть 2 | https://habrahabr.ru/post/338118/
+
+Тернистый путь Hello World | https://habrahabr.ru/post/339698/
+
+Запуск контейнеров с Ubuntu на Windows | https://habrahabr.ru/company/microsoft/blog/339746/
+
+Поиск файлов по тэгам в XMP / IPTC и операции с найденным | https://habrahabr.ru/post/339642/
+
+Скажи «нет» Electron! Пишем быстрое десктопное приложение на JavaFX | https://habrahabr.ru/post/339382/
+
+Linux-контейнеры для Windows | https://habrahabr.ru/company/microsoft/blog/339214/
+
+Когда время перезагрузки имеет значение или почему IBM использует CRIU на мейнфреймах | https://habrahabr.ru/company/virtuozzo/blog/339286/
+
+В поисках перформанса, часть 2: Профилирование Java под Linux | https://habrahabr.ru/company/jugru/blog/338928/
+
+Загрузка ОС на ARM | https://habrahabr.ru/company/aladdinrd/blog/338806/
+
+Своя система сборки на Linux | https://habrahabr.ru/post/338698/
+
+Есть ли OpenVPN GUI для Linux? | https://habrahabr.ru/post/338390/
+
+Nuklear+ — миниатюрный кроссплатформенный GUI | https://habrahabr.ru/post/338106/
+
+Как написать свой первый Linux device driver | https://habrahabr.ru/post/337946/
+
+Настройка двухфакторной аутентификации в домене Astra Linux Directory | https://habrahabr.ru/company/aladdinrd/blog/337820/
+
+Планировщик ввода / вывода BFQ лучше | https://habrahabr.ru/post/337102/
+
+BeagleBone: поддержка 7'' дисплея BB-View на новом ядре linux-4.4 | https://habrahabr.ru/post/337226/
+
+Простенький скрипт поиска возможно осиротевших файлов проекта | https://habrahabr.ru/post/337140/
+
+Как перешагнуть через legacy и начать использовать статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/336824/
+
+Почему GitHub не может хостить ядро Linux | https://habrahabr.ru/post/336470/
+
+Обзор лучших технических докладов конференции Still Hacking Anyway 2017 | https://habrahabr.ru/company/pt/blog/336412/
+
+Клонирование игры Lode Runner с первого ПК в СССР «БК-0010» плюс несколько слов о программировании игр в конце 80-х | https://habrahabr.ru/post/335968/
+
+История Linux (1993–2003): испытание дистрибутивов | https://habrahabr.ru/company/ruvds/blog/335898/
+
+Резервное копирование базы mysql и файлов на удаленный FTP — Python 3 | https://habrahabr.ru/post/335440/
+
+Взгляд снизу вверх или Ubuntu Server для разработчика электроники. Часть 2 | https://habrahabr.ru/post/335042/
+
+Взгляд снизу вверх или Ubuntu Server для разработчика электроники. Часть 1 | https://habrahabr.ru/post/334948/
+
+Гремлины и ELFийская магия: а что, если ELF-файл — это контейнер? | https://habrahabr.ru/company/neobit/blog/332918/
+
+Характеристики анализатора PVS-Studio на примере EFL Core Libraries, 10-15% ложных срабатываний | https://habrahabr.ru/company/pvs-studio/blog/334554/
+
+SOAP и REST сервисы с помощью Python-библиотеки Spyne | https://habrahabr.ru/post/334290/
+
+Печать на произвольном размере бумаги в Linux | https://habrahabr.ru/post/334000/
+
+Microsoft Bot Framework на Linux под Node.JS | https://habrahabr.ru/post/333824/
+
+С/С++ на Linux в Visual Studio Code для начинающих | https://habrahabr.ru/company/microsoft/blog/333680/
+
+Установка MS SQL ODBC Driver под Linux и сборка плагина для Qt 5.9 | https://habrahabr.ru/post/333468/
+
+SDN с платформой Red Hat OpenStack: интеграция с OpenDaylight | https://habrahabr.ru/company/icl_services/blog/333526/
+
+Unity на Linux? Да без проблем | https://habrahabr.ru/post/333422/
+
+Разработка скриптов-обёрток с помощью инструмента Sparrow | https://habrahabr.ru/post/333410/
+
+Yet another tutorial: запускаем dotnet core приложение в docker на Linux | https://habrahabr.ru/post/332582/
+
+IceCash 2.0 Web АРМ Кассира и АИС по обмену данными с кассами под Linux на Python | https://habrahabr.ru/post/323100/
+
+Заметки маркетолога: Как поставить Ubuntu на RPI и подключить к Azure IoT Hub | https://habrahabr.ru/company/microsoft/blog/332940/
+
+Разворачиваем и демонизируем ASP.NET Core приложение под Linux в виде фонового сервиса | https://habrahabr.ru/post/332920/
+
+Реализуем тач логгер под Android с помощью CVE-2016–5195 | https://habrahabr.ru/post/332916/
+
+Запуск Java классов и JAR-ов не по учебнику | https://habrahabr.ru/post/332890/
+
+Linux все еще не торт | https://habrahabr.ru/company/virtuozzo/blog/332740/
+
+Использование утилит timeout & strace для мониторинга неактивности пользователя для разрыва соединения Shellinabox | https://habrahabr.ru/post/332544/
+
+Proxmox 5 и частичная запись в блочных устройствах эффективного хранения Ceph | https://habrahabr.ru/post/332514/
+
+Интеграция TI SensorTag, Eclipse kura и веб части через Apache Camel | https://habrahabr.ru/post/332428/
+
+«Ты, гроза, грозись, а мы друг за друга держись!» — сказ о том, как я ADSL-модем спасал | https://habrahabr.ru/post/332072/
+
+Книга «Сценарии командной оболочки. Linux, OS X и Unix. 2-е издание» | https://habrahabr.ru/company/piter/blog/331734/
+
+Ubuntu для мобильных устройств: посмертный анализ | https://habrahabr.ru/post/331658/
+
+Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux | https://habrahabr.ru/company/neobit/blog/330764/
+
+Сборка модуля ядра Linux без точных заголовочных файлов | https://habrahabr.ru/post/331202/
+
+Распределённые вычисления поверх Ceph RADOS и AsyncMessenger | https://habrahabr.ru/post/330908/
+
+Генерируем произвольные последовательности на выводах платы Raspberry Pi | https://habrahabr.ru/company/dataart/blog/330536/
+
+Чип для умных камер ELISE — одно из самых высокотехнологичных изделий России 2017 года. Плата для разработчиков и камера | https://habrahabr.ru/post/329864/
+
+Нужно ли инженеру поддержки кодить самому? (и другие любопытные вопросы и ответы) | https://habrahabr.ru/company/JetBrains/blog/329316/
+
+Вы неверно измеряете загрузку процессора | https://habrahabr.ru/company/infopulse/blog/329206/
+
+Облако.Mail.Ru + EncFS без локального хранения файлов | https://habrahabr.ru/post/320400/
+
+Parallels Mac Management: трудности переходного периода | https://habrahabr.ru/company/parallels/blog/328126/
+
+2038: остался всего 21 год | https://habrahabr.ru/company/pvs-studio/blog/328054/
+
+Проверяем код динамического анализатора Valgrind с помощью статического анализатора | https://habrahabr.ru/company/pvs-studio/blog/327994/
+
+ROS. Стек навигации | https://habrahabr.ru/post/327888/
+
+Шифрование в EXT4. How It Works? | https://habrahabr.ru/post/327682/
+
+Как мы на FPGA AES ускоряли: разработка драйвера | https://habrahabr.ru/company/metrotek/blog/324042/
+
+Проблемы со скоростью выполнения системных вызовов «gettimeofday» и «clock_gettime» в AWS EC2 | https://habrahabr.ru/company/southbridge/blog/326298/
+
+Pthreads: Потоки в русле POSIX | https://habrahabr.ru/post/326138/
+
+Здравствуй, Хабр | https://habrahabr.ru/company/tensor/blog/326804/
+
+Обманываем время: о тестировании с «подставным» временем на Linux и Docker | https://habrahabr.ru/post/326772/
+
+Как найти 56 потенциальных уязвимостей в коде FreeBSD за один вечер | https://habrahabr.ru/company/pvs-studio/blog/325780/
+
+Как мы портировали программно-аппаратное решение из SPARC Solaris в AMD64 Linux и виртуализировали все это | https://habrahabr.ru/post/325304/
+
+Терминальная графика | https://habrahabr.ru/post/325082/
+
+Java и Docker: это должен знать каждый | https://habrahabr.ru/company/ruvds/blog/324756/
+
+Position-independent code (PIC) в разделяемых библиотеках на x64 | https://habrahabr.ru/company/badoo/blog/324616/
+
+Придумываем название для нового гипервайзера для архитектуры MIPS с аппаратно-поддерживаемой виртуализацией | https://habrahabr.ru/post/324444/
+
+Position-independent code (PIC) в разделяемых библиотеках | https://habrahabr.ru/company/badoo/blog/323904/
+
+Bake – запускаем таски на bash | https://habrahabr.ru/post/323956/
+
+Почему все виртуальные помощники — женщины? | https://habrahabr.ru/company/parallels/blog/323470/
+
+Некоторые приёмы работы в Битрикс на SQL и BASH | https://habrahabr.ru/post/323152/
+
+Как кастомные решения помогли сэкономить на сетевой инфраструктуре | https://habrahabr.ru/company/webo/blog/322946/
+
+EMC DPO: как защитить свои товары от подделок | https://habrahabr.ru/post/322696/
+
+Разработка SELinux-модуля для пользователя | https://habrahabr.ru/post/322476/
+
+Так ли безопасно использование абсолютного пути в *nix системах, как мы привыкли считать? | https://habrahabr.ru/company/bizone/blog/322220/
+
+Салют-ЭЛ24Д1: отладочная плата на российском процессоре 1892ВМ14Я для жестких условий эксплуатации | https://habrahabr.ru/post/322344/
+
+Портирование — дело тонкое: проверка Far Manager под Linux | https://habrahabr.ru/company/pvs-studio/blog/321948/
+
+Инкрементальный анализ в PVS-Studio: теперь и на сборочном сервере | https://habrahabr.ru/company/pvs-studio/blog/321702/
+
+UNIX-подобные системы содержат кучу костылей. Крах «философии UNIX» | https://habrahabr.ru/post/321652/
+
+Как создавать, собирать, устанавливать и использовать пакеты с программами и библиотеками для UNIX-подобных систем | https://habrahabr.ru/post/321468/
+
+Стандартный обмен 1С-Битрикс на BASH: Подробный разбор скрипта инкрементальной выгрузки | https://habrahabr.ru/post/321266/
+
+Visual C++ for Linux Development: Практика использования для Windows разработчиков | https://habrahabr.ru/post/321228/
+
+Заметка о способе отладки блокировок в ядре Linux | https://habrahabr.ru/post/321220/
+
+Стандартный обмен 1С-Битрикс на BASH: инкрементальная выгрузка XML файлов каталога import и offers | https://habrahabr.ru/post/321096/
+
+CryptoAPI ядра Linux: разработка и применение российской криптографии | https://habrahabr.ru/post/320966/
+
+«Байкал-T1»: знакомство с платой на первом в России 28-нм процессоре | https://habrahabr.ru/post/320840/
+
+В поисках перформанса: мониторинг производительности JVM под Linux при помощи BPF | https://habrahabr.ru/company/jugru/blog/320620/
+
+Создание и тестирование Firewall в Linux, Часть 2.3. Завершаем Firewall. Обрабатываем трафик в userspace | https://habrahabr.ru/post/316778/
+
+Как мы внедряли DevOps: публикация образа в Docker Hub с помощью Visual Studio Team Services | https://habrahabr.ru/company/microsoft/blog/320238/
+
+Ломаем Android. Как глубока кроличья нора? | https://habrahabr.ru/post/320150/
+
+Разработка SELinux-модуля для приложения | https://habrahabr.ru/post/320100/
+
+Пользователи Windows получили возможность работать с openSUSE (и Arch Linux) | https://habrahabr.ru/post/319942/
+
+Расширение Visual C++ for Linux Development | https://habrahabr.ru/company/microsoft/blog/319962/
+
+Exploit Exercises или ещё один сайт для любителей VulnHub | https://habrahabr.ru/post/319380/
+
+Прямой доступ к диску из python (simhdd) | https://habrahabr.ru/post/319384/
+
+Nuklear — идеальный GUI для микро-проектов? | https://habrahabr.ru/post/319106/
+
+Создание и тестирование Firewall в Linux, Часть 2.2. Таблицы Firewall. Доступ к TCP\IP структурам | https://habrahabr.ru/post/316756/
+
+Мобильный терминальный клиент, как зарождалась идея | https://habrahabr.ru/post/318812/
+
+Упрощать сложно — усложнять легко. GUI программа для создания deb-пакетов | https://habrahabr.ru/post/318594/
+
+Как обновить ядро в системе без перезапуска сервисов (пошаговая инструкция) | https://habrahabr.ru/company/virtuozzo/blog/318522/
+
+Чем «interface» отличается от «междумордия»: наш подход к документированию и локализации программных продуктов | https://habrahabr.ru/company/parallels/blog/318170/
+
+Перехват системных вызовов Linux с помощью LSM | https://habrahabr.ru/post/318106/
+
+TeamCity как Debian-репозиторий | https://habrahabr.ru/post/204496/
+
+13 перспективных языков программирования | https://habrahabr.ru/company/parallels/blog/317748/
+
+Docker, GitLab, бесплатные SSL-сертификаты и другие плюшки современной веб-разработки | https://habrahabr.ru/post/317636/
+
+Создание и тестирование Firewall в Linux, Часть 2.1. Введение во вторую часть. Смотрим на сеть и протоколы. Wireshark | https://habrahabr.ru/post/316086/
+
+Неуловимые баги: ошибки, ускользнувшие от всех тестов и проверок | https://habrahabr.ru/company/parallels/blog/317270/
+
+Тестируем Linux-версию PVS-Studio на Linux Kernel | https://habrahabr.ru/company/pvs-studio/blog/317374/
+
+Представлено ядро Linux 4.9 | https://habrahabr.ru/company/kingservers/blog/317364/
+
+Система отчётов: как получать 50 млн. отчетов и сохранить Дзен | https://habrahabr.ru/company/parallels/blog/317116/
+
+Документация Linux ядра переходит на Python Sphinx | https://habrahabr.ru/post/316758/
+
+Конференция DevOpsDays 2017: стань докладчиком или участником | https://habrahabr.ru/company/pvs-studio/blog/317064/
+
+Рецепты. Как установить ПО на серверы используя VMmanager и DCImanager | https://habrahabr.ru/company/ispsystem/blog/316624/
+
+Усовершенствование системы видеонаблюдения с использованием OpenCV и Telegram bot | https://habrahabr.ru/post/316760/
+
+Встраиваем PVS-Studio в Anjuta DevStudio (Linux) | https://habrahabr.ru/post/316720/
+
+Встраиваем PVS-Studio в Eclipse CDT (Linux) | https://habrahabr.ru/post/316670/
+
+Как использовать PVS-Studio бесплатно | https://habrahabr.ru/company/pvs-studio/blog/316484/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181. Окончание | https://habrahabr.ru/post/316100/
+
+Microsoft призывает linux-разработчиков опробовать Windows 10 | https://habrahabr.ru/post/316466/
+
+Создание и тестирование Firewall в Linux, Часть 1.3. Написание char device. Добавление виртуальной файловой системы… | https://habrahabr.ru/post/315454/
+
+Эмуляция PMEM на серверах Intel | https://habrahabr.ru/company/intel/blog/316006/
+
+Подключение символьного ЖКИ к плате от WD MyBook Live на AppliedMicro APM82181 | https://habrahabr.ru/post/315912/
+
+Использование технологий от Intel для передачи сетевого трафика из физического адаптера в виртуальный | https://habrahabr.ru/post/315914/
+
+Linux-версия PVS-Studio устроила себе экскурсию по Disney | https://habrahabr.ru/company/pvs-studio/blog/315824/
+
+Файловая система, дешево и быстро | https://habrahabr.ru/post/315654/
+
+Знакомство с MSP432: пишем простую программу | https://habrahabr.ru/post/315612/
+
+Файлы подсистемы Linux нельзя создавать, изменять или удалять при помощи инструментов для Windows | https://habrahabr.ru/post/315594/
+
+Уязвимость старой Ubuntu через аудиофайл, проигрываемый эмуляцией процессора 1975 года | https://habrahabr.ru/post/315378/
+
+Компания Microsoft получила статус платинового участника Linux Foundation | https://habrahabr.ru/post/315452/
+
+Создание и тестирование Firewall в Linux, Часть 1.2. Простой перехват трафика с Netfilter | https://habrahabr.ru/post/315350/
+
+Как создавался PVS-Studio под Linux | https://habrahabr.ru/company/pvs-studio/blog/315232/
+
+Разработка на базе фреймворка COREmanager. Как наши партнёры создавали решение для аутсорсинга техподдержки | https://habrahabr.ru/company/ispsystem/blog/314886/
+
+Спикеры Linux Piter #2 отвечают | https://habrahabr.ru/company/dellemc/blog/314578/
+
+Как превратить смартфон в микрофон (идеи и вопросы) | https://habrahabr.ru/post/314038/
+
+Находим ошибки в коде проекта LLVM с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/314044/
+
+Правила хорошего вкуса от Линуса Торвальдса. Делаем код быстрее, проще и понятнее | https://habrahabr.ru/company/ruvds/blog/313836/
+
+PVS-Studio для Linux | https://habrahabr.ru/company/pvs-studio/blog/313498/
+
+Как я читал показания датчиков через SNMP (Python+AgentX+systemd+Raspberry Pi) и соорудил ещё одну мониторилку | https://habrahabr.ru/post/311502/
+
+Собираем Docker контейнер с http сервером при помощи Gradle | https://habrahabr.ru/post/312724/
+
+Ядро Linux, спрятанное внутри Windows 10 | https://habrahabr.ru/post/312734/
+
+Для любителей ПЛИС-ов, ASIC-ов, архитектуры и микроархитектуры — еще про семинары и про конвейеры | https://habrahabr.ru/post/312354/
+
+Разработка в InterSystems Caché в вашей любимой IDE | https://habrahabr.ru/company/intersystems/blog/311078/
+
+Как мы соединили Parallels Desktop и Office 365 | https://habrahabr.ru/company/parallels/blog/311878/
+
+На видео — разработчица одного из блоков внутри российского микропроцессора Байкал-Т | https://habrahabr.ru/post/311662/
+
+Self-contained дистрибуция .NET Core приложений | https://habrahabr.ru/post/311520/
+
+Linux Piter #2 уже близко | https://habrahabr.ru/company/dellemc/blog/311614/
+
+Как перестать беспокоиться и победить Центр обновления Windows? | https://habrahabr.ru/company/parallels/blog/311324/
+
+Как отлаживать Android ядро без UART, JTAG и прочих | https://habrahabr.ru/post/311264/
+
+Заменяем бут-анимацию Android устройства на мелькающие логи Linux ядра | https://habrahabr.ru/post/310886/
+
+Первый проект на FPGA Altera и подключение USB-Blaster в Linux | https://habrahabr.ru/post/310816/
+
+Системные скрипты на php для linux, пишем скриншотер | https://habrahabr.ru/post/310694/
+
+Книга «Командная строка Linux. Полное руководство» | https://habrahabr.ru/company/piter/blog/310452/
+
+Badoo открывает исходные коды Live Streaming Daemon | https://habrahabr.ru/company/badoo/blog/310352/
+
+Запускаем Linux на FPGA: Hello, World | https://habrahabr.ru/post/310056/
+
+Инструменты для отладки программ в Linux | https://habrahabr.ru/company/first/blog/310164/
+
+Установка Quartus II на CentOS | https://habrahabr.ru/post/310160/
+
+GDB оказался крепким орешком | https://habrahabr.ru/company/pvs-studio/blog/310156/
+
+С Днем Программиста :) | https://habrahabr.ru/post/309720/
+
+Как работать с MS Access в Linux | https://habrahabr.ru/post/309126/
+
+Использование gpio-generic и irq_chip_generic для драйвера gpio | https://habrahabr.ru/post/307840/
+
+Группировка моделей телефонов Android по контейнерам Docker | https://habrahabr.ru/company/badoo/blog/309104/
+
+Находим ошибки в коде компилятора GCC с помощью анализатора PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/308946/
+
+Docker Swarm+Consul+Gobetween в виде движка для гео распределенного кластера | https://habrahabr.ru/post/308182/
+
+Анонс конференции Linux Piter 2016 — второй международной Linux-конференции в России | https://habrahabr.ru/company/dellemc/blog/308536/
+
+По просьбе читателей, проверяем код LDAP-сервера ReOpenLDAP | https://habrahabr.ru/company/pvs-studio/blog/308212/
+
+В библиотеке шифрования Libgcrypt обнаружена критическая уязвимость, существовавшая 18 лет | https://habrahabr.ru/company/pt/blog/308030/
+
+Сделай сам веб-сервис с асинхронными очередями и параллельным исполнением | https://habrahabr.ru/post/307140/
+
+Windows 10 Anniversary Update стала доступна | https://habrahabr.ru/post/306964/
+
+Обзор и программирование под стационарное интернет радио | https://habrahabr.ru/post/306850/
+
+PVS-Studio признаётся в любви к Linux | https://habrahabr.ru/company/pvs-studio/blog/306636/
+
+Линус Торвальдс представил релиз ядра Linux 4.7 | https://habrahabr.ru/post/306354/
+
+Вышел GIMP 2.9.4 | https://habrahabr.ru/post/305710/
+
+Модуль ядра Linux на Swift | https://habrahabr.ru/post/305530/
+
+Запуск cron внутри Docker-контейнера | https://habrahabr.ru/company/redmadrobot/blog/305364/
+
+SO_TIMESTAMPING в картинках. Прием пакета | https://habrahabr.ru/company/metrotek/blog/304644/
+
+Разрабатываем систему real-time fulltext-поиска по error-логам на основе ClickHouse от Яндекса | https://habrahabr.ru/post/304602/
+
+Что собой представляют образы Docker none:none? | https://habrahabr.ru/post/304134/
+
+Равертывание Emercoin blockchain с веб-кошельком на RedHat/CentOS 7 и Ubuntu 16.04 | https://habrahabr.ru/post/304100/
+
+Запускаем Yocto Linux на виртуальной машине | https://habrahabr.ru/company/intel/blog/303960/
+
+Запуск worker'ов сервиса с помощью systemd | https://habrahabr.ru/post/161011/
+
+Драйвер виртуальных GPIO с контроллером прерываний на базе QEMU ivshmem для Linux | https://habrahabr.ru/post/303060/
+
+Юникастовая маршрутизация мультикаст-трафика | https://habrahabr.ru/post/302956/
+
+Станет ли OpenStack «новым LAMP»? | https://habrahabr.ru/post/302774/
+
+Кооперативная виртуализация сети в промышленных серверных приложениях на Линуксе — доклад Василия Толстого на SECR 2015 | https://habrahabr.ru/company/dellemc/blog/302464/
+
+Активируем Ubuntu On Windows в свежей Windows 10 Build 14316 | https://habrahabr.ru/post/302132/
+
+RS232 устройство 3-в-1 для домашнего Linux сервера: Часть 2 (Серверная) | https://habrahabr.ru/post/300968/
+
+Особенности тестирования технологии C/R в Linux | https://habrahabr.ru/post/283504/
+
+Графический VGA-контроллер на SoC без знаний HDL | https://habrahabr.ru/company/metrotek/blog/282189/
+
+Linux Programming Interface | https://habrahabr.ru/company/piter/blog/282776/
+
+Атрибуты устройств, или ioctl must die | https://habrahabr.ru/post/282415/
+
+От паспортного сканера к автономному распознающему устройству | https://habrahabr.ru/company/smartengines/blog/281857/
+
+Nix как менеджер зависимостей для C++ | https://habrahabr.ru/post/281611/
+
+Что нового в Visual Studio 2015 для энтузиастов C#, Visual Basic и Linux | https://habrahabr.ru/company/microsoft/blog/280956/
+
+Red Hat Enterprise Linux теперь бесплатен для разработчиков | https://habrahabr.ru/company/inoventica/blog/280952/
+
+Проверка проекта Samba с помощью PVS-Studio под Linux | https://habrahabr.ru/company/pvs-studio/blog/280856/
+
+Некоторые особенности разработки под Ubuntu Touch | https://habrahabr.ru/post/280404/
+
+В помощь DevOps: сборщик прошивок для сетевых устройств на Debian за 1008 часов | https://habrahabr.ru/company/edison/blog/280550/
+
+Делаем автономную фотобудку на raspberry pi | https://habrahabr.ru/post/279785/
+
+Дистрибуция приложений. Часть 1: создание Formula для Homebrew | https://habrahabr.ru/post/279687/
+
+Мой велосипед или о том как я сэкономил свои нервные клетки | https://habrahabr.ru/post/279499/
+
+Тестирование Bash-приложений | https://habrahabr.ru/post/278937/
+
+Асинхронное параллельное исполнение в PHP | https://habrahabr.ru/post/278755/
+
+Снова про STL: контейнеры | https://habrahabr.ru/company/ua-hosting/blog/278369/
+
+Опыт домашнего марсоходостроения | https://habrahabr.ru/company/wargaming/blog/275953/
+
+Паспортный сканер своими руками | https://habrahabr.ru/company/smartengines/blog/278257/
+
+RISC'овый Debian под QEMU | https://habrahabr.ru/post/278159/
+
+Снова про STL | https://habrahabr.ru/company/ua-hosting/blog/278039/
+
+Патчим gnupg или пара RSA-32768 за 106 минут | https://habrahabr.ru/post/278051/
+
+Embedded World 2016: куда катится embedded-мир? | https://habrahabr.ru/company/metrotek/blog/277873/
+
+Критическая уязвимость библиотеки glibc позволяет осуществлять удаленное выполнение кода | https://habrahabr.ru/company/pt/blog/277383/
+
+[ В закладки ] Алгоритмы и структуры данных в ядре Linux, Chromium и не только | https://habrahabr.ru/company/wunderfund/blog/277143/
+
+Объединение видеофрагментов с нескольких камер и синхронизация их по времени | https://habrahabr.ru/post/277179/
+
+Wifi-радио с тёплым ламповым дисплеем. Часть 1. Дисплей | https://habrahabr.ru/post/276879/
+
+Запускаем и эмулируем Windows на Raspberry Pi с помощью QEMU | https://habrahabr.ru/post/276637/
+
+Moira: Realtime Alerting | https://habrahabr.ru/company/skbkontur/blog/276403/
+
+Практическое применение Linux Deploy на десктопах | https://habrahabr.ru/post/276013/
+
+Linux в кармане — на службе у фотографа | https://habrahabr.ru/post/275595/
+
+Новый интерфейс для получения атрибутов процессов в Linux | https://habrahabr.ru/post/275545/
+
+Линус Торвальдс анонсировал выход ядра Linux 4.4 LTS (Long-Term Support) | https://habrahabr.ru/post/274871/
+
+Java и время: часть первая | https://habrahabr.ru/post/274811/
+
+Бесплатный практический курс по Bash и другие хорошие новости | https://habrahabr.ru/company/hexlet/blog/274257/
+
+Прямой доступ к диску из python | https://habrahabr.ru/post/274195/
+
+Мой опыт работы с wxWidgets | https://habrahabr.ru/post/273141/
+
+Создаём аппаратный генератор случайных чисел | https://habrahabr.ru/post/274833/
+

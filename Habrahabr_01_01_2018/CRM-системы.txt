@@ -1,0 +1,456 @@
+ONLYOFFICE 2017: итоги | https://habrahabr.ru/company/teamlab/blog/345600/
+
+Кому вообще нужны эти CRM-системы? | https://habrahabr.ru/company/regionsoft/blog/345230/
+
+IP-АТС Zeon. Настройка интеграции Битрикс24 | https://habrahabr.ru/company/iptelefon/blog/345042/
+
+Две крупнейших CRM — Salesforce и Zoho — сравнение телефонных интеграций | https://habrahabr.ru/company/zadarma/blog/344586/
+
+Чем страдает бизнес? | https://habrahabr.ru/company/regionsoft/blog/344546/
+
+Как и зачем определять голосовую почту | https://habrahabr.ru/company/Voximplant/blog/344224/
+
+10 лучших бесплатных CRM систем для бизнеса | https://habrahabr.ru/company/roi4cio/blog/344138/
+
+CRM система или Help Desk? В чем принципиальная разница, откуда путаница, и что есть на рынке Help Desk-ов? | https://habrahabr.ru/company/okdesk/blog/343976/
+
+Автоматизация бизнеса (бизнес-процессов) простыми словами | https://habrahabr.ru/post/343942/
+
+Сколько стоит CRM-система? | https://habrahabr.ru/company/regionsoft/blog/343632/
+
+Надежная инфраструктура для облачного b2b стартапа | https://habrahabr.ru/post/343266/
+
+Self Service: как и зачем учить пользователей самостоятельности | https://habrahabr.ru/company/it-guild/blog/341926/
+
+ONLYOFFICE в локальной сети: новый интерфейс редакторов, отчеты в CRM и многое другое | https://habrahabr.ru/company/teamlab/blog/342544/
+
+Что такое бизнес-процесс и описание бизнес процесса | https://habrahabr.ru/company/trinion/blog/342448/
+
+CRM системы: что это? Простыми словами | https://habrahabr.ru/post/342446/
+
+Россия vs Германия. Инсайд о процессах тех. поддержки, качественном сервисе и русских хакерах | https://habrahabr.ru/company/okdesk/blog/342390/
+
+Контора пишет: взрослый разговор о чате на сайте | https://habrahabr.ru/company/regionsoft/blog/342270/
+
+Пять инноваций CRM, которые вы увидите в 2018 году | https://habrahabr.ru/post/341968/
+
+Bitrix24 — CRM или не только? | https://habrahabr.ru/company/macte/blog/341726/
+
+Африканский эксперимент Битрикс24 | https://habrahabr.ru/post/341616/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 2 — «Заграница») | https://habrahabr.ru/company/okdesk/blog/341118/
+
+Переход Mars IS к единому поставщику IT-услуг | https://habrahabr.ru/company/marsis/blog/341046/
+
+Автоматизация работы с текущими клиентами. Account Management. Выбираем CRM систему. Часть 3 | https://habrahabr.ru/company/flexbby/blog/340920/
+
+Agent Intelligence от ServiceNow — нейронные сети на службе у техподдержки | https://habrahabr.ru/company/it-guild/blog/340682/
+
+«Пятничный формат»: 7 верных способов загубить работу с ServiceNow на старте | https://habrahabr.ru/company/it-guild/blog/340430/
+
+Тех. поддержка. Сколько денег можно на этом заработать? (часть 1 — Россия) | https://habrahabr.ru/company/okdesk/blog/340426/
+
+Вышла Odoo 11 — открытая система для автоматизации бизнеса | https://habrahabr.ru/post/340348/
+
+Пять этапов эволюции пользователей CRM | https://habrahabr.ru/post/339966/
+
+Как успешно внедрить Help Desk? 12 примеров (часть 2) | https://habrahabr.ru/company/okdesk/blog/339692/
+
+Что такое ERP-Платфома | https://habrahabr.ru/post/338988/
+
+3 основных процесса, которые должна автоматизировать CRM-система. Автоматизируем процесс конверсии. Часть 2 | https://habrahabr.ru/company/flexbby/blog/339422/
+
+Решение инцидентов ServiceNow приходит в Slack | https://habrahabr.ru/company/it-guild/blog/337830/
+
+Как успешно внедрить Help Desk? 12 примеров (часть 1) | https://habrahabr.ru/company/okdesk/blog/339170/
+
+Действительно, а что такое CRM-система? | https://habrahabr.ru/company/regionsoft/blog/338918/
+
+Скрытые издержки при внедрении CRM-систем. Опыт с полей | https://habrahabr.ru/company/flexbby/blog/338394/
+
+Вы купили CRM. Как с этим жить? | https://habrahabr.ru/company/regionsoft/blog/338326/
+
+7 причин, почему СМБ не нужны программы лояльности в том виде, в каком они представлены на рынке | https://habrahabr.ru/company/technoserv/blog/337748/
+
+4% усилий – 64% результата, или 5 простых способов увеличения эффективности отдела продаж | https://habrahabr.ru/company/flexbby/blog/337728/
+
+Почему CRM не работают | https://habrahabr.ru/post/337546/
+
+Вы считаете, что Вам пора внедрять CRM, а ваша компания не готова | https://habrahabr.ru/company/flexbby/blog/337134/
+
+Подрядчик для CRM: ищем пути провалить проект | https://habrahabr.ru/company/regionsoft/blog/336746/
+
+3 основных процесса работы с клиентами, которые должна автоматизировать CRM система. Как не промахнуться с выбором. Ч.1 | https://habrahabr.ru/company/flexbby/blog/336542/
+
+Автоматизируем документооборот с помощью новой платформы. Часть 1. Канцелярия. Работа с «Входящими Документами» | https://habrahabr.ru/company/flexbby/blog/335844/
+
+CRM-система: полный алгоритм внедрения | https://habrahabr.ru/company/regionsoft/blog/335336/
+
+8 каких-то странных мифов про HR-технологии | https://habrahabr.ru/company/potok/blog/335288/
+
+Как избежать ошибок при смене CRM | https://habrahabr.ru/post/335262/
+
+Прорыв на рынке автоматизации процессов управления бизнесом | https://habrahabr.ru/company/flexbby/blog/335102/
+
+CRM уже не спасет: что делать, когда бизнес перерос «коробку» | https://habrahabr.ru/post/334070/
+
+Телефонная техподдержка — как мы начали здороваться с клиентом по имени | https://habrahabr.ru/post/333566/
+
+Каким должен быть идеальный конфигуратор отчетов | https://habrahabr.ru/post/331884/
+
+Как создать успешную программу лояльности: подходы, технологии и статистика | https://habrahabr.ru/company/pilot/blog/331874/
+
+Визуализация целей повышает их достижение на 46%. Как мы решаем это в WebCanape? | https://habrahabr.ru/company/twins/blog/331476/
+
+Стагнация неизбежна. CRM принимает бой | https://habrahabr.ru/company/regionsoft/blog/331416/
+
+Solid12 — версия IEM-платформы Ultimate для бесплатной PostgreSQL | https://habrahabr.ru/company/ultima/blog/329674/
+
+Не вылезая из чата: этапы развития Unified Communications | https://habrahabr.ru/company/cti/blog/330992/
+
+Собираем данные в CRM: стероиды для компании | https://habrahabr.ru/company/regionsoft/blog/330858/
+
+Своя CRM система за 3 часа в Гугл-таблицах | https://habrahabr.ru/post/330870/
+
+«MDM vs CRM» или кто поможет больше продать? | https://habrahabr.ru/post/330222/
+
+Неравный бой: CRM против Excel | https://habrahabr.ru/company/regionsoft/blog/329986/
+
+Для чего мы написали CRM в отдел SEO-шников и к чему это привело? | https://habrahabr.ru/company/twins/blog/329404/
+
+Модель учета розничных продаж | https://habrahabr.ru/post/327622/
+
+Буби, крести, пики. Или своя CRM-cистема в Гугл Таблицах за пару часов | https://habrahabr.ru/post/328820/
+
+Пятеро разных: как я выбирал CRM для своего сервиса | https://habrahabr.ru/company/poiskvps/blog/328666/
+
+7 простых шагов для успешного внедрения CRM | https://habrahabr.ru/company/onebox/blog/328696/
+
+Telegram твоего бизнеса | https://habrahabr.ru/post/328546/
+
+Hi, SaaS | 5 причин остаться с amoCRM | https://habrahabr.ru/company/dentalcloud/blog/328304/
+
+Мотивация сотрудников: правила офисной дипломатии | https://habrahabr.ru/company/regionsoft/blog/327430/
+
+Эволюция CRM-систем | https://habrahabr.ru/company/regionsoft/blog/325946/
+
+Корпоративный портал. Что это? Зачем? Кому и когда? | https://habrahabr.ru/post/326724/
+
+Руководство по рекрутмент-маркетингу для чайников (и не только) | https://habrahabr.ru/company/potok/blog/326446/
+
+Клиент-курьер взаимодействие и масштабирование сервиса | https://habrahabr.ru/company/uis/blog/326410/
+
+5 этапов внедрения CRM-системы. Увлекательно о важном | https://habrahabr.ru/company/onebox/blog/326322/
+
+Рули24: как расти в облаках | https://habrahabr.ru/company/iladaruli24/blog/326184/
+
+Автоматизируем все: новая версия OneBox Next (CRM+ERP) доступна бесплатно | https://habrahabr.ru/company/onebox/blog/325504/
+
+15 VoIP-провайдеров и 8 CRM: обзор совместимости | https://habrahabr.ru/company/uis/blog/325006/
+
+Путь к сделке в CRM: автоматизируй это | https://habrahabr.ru/company/regionsoft/blog/324502/
+
+Навигатор по корпоративному софту: выбор есть всегда | https://habrahabr.ru/company/regionsoft/blog/322846/
+
+OpenPapyrus: [yet another] ERP-система с открытым исходным кодом | https://habrahabr.ru/post/321632/
+
+Технологии для работы с клиентами в социальных сетях и мессенджерах | https://habrahabr.ru/company/bitrix/blog/322298/
+
+Организация контроля за соблюдением времени реакции на обращения клиентов в сервисном подразделении | https://habrahabr.ru/company/infowatch/blog/322288/
+
+Как продавать, а не впаривать | https://habrahabr.ru/company/regionsoft/blog/321970/
+
+Про организацию Телефонии в Отделе Продаж и интеграцию с CRM | https://habrahabr.ru/post/321764/
+
+Десять мировых трендов CRM, о которых надо поговорить | https://habrahabr.ru/company/regionsoft/blog/321576/
+
+Простая математика для решения непростых задач | https://habrahabr.ru/company/infowatch/blog/321012/
+
+Прочь занозы из мозгов. 15 стереотипов о CRM-системах | https://habrahabr.ru/company/regionsoft/blog/320882/
+
+Ваш звонок очень важен для нас? Или как работает система приоритизации заявок в сервисных подразделениях | https://habrahabr.ru/company/infowatch/blog/320226/
+
+Консультант  ERP CRM— вечный переговорщик | https://habrahabr.ru/post/320066/
+
+План без Б: планирование в компании от «я» до «мы» | https://habrahabr.ru/company/regionsoft/blog/319928/
+
+О CRM коротко. Рубрика «Не могу молчать» | https://habrahabr.ru/company/regionsoft/blog/318670/
+
+Пятничный пост: opensource CRM уходящего года | https://habrahabr.ru/post/317552/
+
+Соединяем облака: бесплатная интеграция АТС и CRM | https://habrahabr.ru/company/zadarma/blog/316592/
+
+Как мы на Хабре опрос про CRM проводили: результаты | https://habrahabr.ru/company/regionsoft/blog/317912/
+
+Прокачиваем CRM для продаж | https://habrahabr.ru/company/callhelper_kitmedia/blog/317870/
+
+Моделирование активности и мифологическое сознание | https://habrahabr.ru/post/317854/
+
+CRM для малого бизнеса: как внедрить на раз, два, три | https://habrahabr.ru/company/regionsoft/blog/317124/
+
+Удалённая работа: 50 оттенков свободы | https://habrahabr.ru/company/bitrix/blog/314642/
+
+Внедрение CRM без ТЗ: дорога в никуда | https://habrahabr.ru/company/regionsoft/blog/315888/
+
+Пепелац с гравицапой — как я искала (и даже нашла) CRM для медицинского центра | https://habrahabr.ru/post/315284/
+
+CRM: продажи на реактивной тяге | https://habrahabr.ru/company/regionsoft/blog/314130/
+
+Почему в очередной раз проваливается внедрение CRM | https://habrahabr.ru/post/314082/
+
+Моделирование активов предприятия: современные стандарты и практика | https://habrahabr.ru/post/313936/
+
+Видео описание SalesForce CRM. Субтитры на русском языке | https://habrahabr.ru/company/trinion/blog/313752/
+
+Настраиваем бизнес-процессы веб-студии в CRM | https://habrahabr.ru/company/twins/blog/313550/
+
+Аналитика в CRM: идём по приборам | https://habrahabr.ru/company/regionsoft/blog/312406/
+
+Игрофикация ака геймификация в бизнесе | https://habrahabr.ru/company/trinion/blog/311794/
+
+16 мифов о CRM-системах | https://habrahabr.ru/company/regionsoft/blog/310474/
+
+Про наш финансовый отдел и собственную CRM | https://habrahabr.ru/company/southbridge/blog/309472/
+
+Обзор услуги облачная АТС Билайн | https://habrahabr.ru/company/trinion/blog/309592/
+
+Обращение в Service Desk. Где больше заботятся о клиентах: в сфере ИТ услуг или ремонта кондиционеров? | https://habrahabr.ru/company/okdesk/blog/309344/
+
+Химеры офисной телефонии: говорим о FMC | https://habrahabr.ru/company/telphin/blog/309208/
+
+Как школа Skyeng создала собственную CRM из подручных средств | https://habrahabr.ru/company/skyeng/blog/308916/
+
+Почему мы перешли с SharePoint на Bitrix | https://habrahabr.ru/company/simnetworks/blog/308794/
+
+Система KPI в компании: как не пойти на три буквы | https://habrahabr.ru/company/regionsoft/blog/308800/
+
+Сравнение CRM систем. Таблица с пояснениями | https://habrahabr.ru/company/trinion/blog/308476/
+
+Как работает и что умеет «глубокая» интеграция «Битрикс24» и сервиса email-рассылок UniSender | https://habrahabr.ru/company/unisender/blog/308232/
+
+Что такое лид | https://habrahabr.ru/company/trinion/blog/308234/
+
+Как наша нейросеть пообщалась с ФCБ | https://habrahabr.ru/company/onebox/blog/308128/
+
+Эффективность внедрения информационных систем. Опыт практика | https://habrahabr.ru/post/308024/
+
+Организация работы с Email в CRM-системе | https://habrahabr.ru/company/trinion/blog/307892/
+
+«Эффект облака»: ERP-системы уходят в отрыв | https://habrahabr.ru/company/it-grad/blog/307484/
+
+Техническое задание на доработку: 10 правил и немного занудства | https://habrahabr.ru/company/regionsoft/blog/306616/
+
+Обзор системы Mango CRM | https://habrahabr.ru/company/trinion/blog/306170/
+
+X2CRM — или в поисках идеальной CRM для бизнеса | https://habrahabr.ru/post/306112/
+
+Битрикс24: незаметная CRM, которая работает за вас | https://habrahabr.ru/company/bitrix/blog/306102/
+
+Почему техподдержка (намеренно) невыносима | https://habrahabr.ru/post/305342/
+
+Коммуникации в CRM | https://habrahabr.ru/company/trinion/blog/304504/
+
+Различия в моделировании планируемых и фактически свершившихся операций | https://habrahabr.ru/post/305016/
+
+Десктопные CRM. Нам пора поговорить | https://habrahabr.ru/company/regionsoft/blog/304366/
+
+Внедрение CRM: как не быть близким к провалу | https://habrahabr.ru/company/regionsoft/blog/303334/
+
+RegionSoft CRM: бизнес, который работает для бизнеса | https://habrahabr.ru/company/regionsoft/blog/302678/
+
+Битрикс24: как избежать ошибок в управлении проектами | https://habrahabr.ru/company/bitrix/blog/302728/
+
+Как поездка в отпуск изменила жизнь основателя Salesforce Марка Бениоффа | https://habrahabr.ru/post/301718/
+
+Процессный подход к управлению: дань моде или залог успеха? | https://habrahabr.ru/company/iladaruli24/blog/300994/
+
+Как автоматизировать бизнес-процессы от заявки до продажи с помощью открытого софта | https://habrahabr.ru/company/latera/blog/301548/
+
+Ревизии и переписка в проектном институте. Интеграция easla.com и TDMS | https://habrahabr.ru/post/283386/
+
+Как я от elma ушел | https://habrahabr.ru/company/easla/blog/282662/
+
+CRM: апрельские тезисы от Рули24 | https://habrahabr.ru/company/iladaruli24/blog/282479/
+
+Клиентский портал или 4 ключевых задачи сервисного бизнеса | https://habrahabr.ru/company/okdesk/blog/300212/
+
+Быстрый старт в easla.com (мастер-класс) | https://habrahabr.ru/company/easla/blog/281479/
+
+Обзор easla.com | https://habrahabr.ru/company/easla/blog/281314/
+
+Обзор системы bpm’online | https://habrahabr.ru/company/trinion/blog/281192/
+
+Плагин для Redmine: redmine_chat_telegram | https://habrahabr.ru/company/southbridge/blog/281044/
+
+Каналы обращения в Help Desk. Исследование сайтов ИТ сервисных компаний России | https://habrahabr.ru/company/okdesk/blog/299758/
+
+Корпоративный софт на вырост | https://habrahabr.ru/company/iladaruli24/blog/274949/
+
+Запили мне CRM! О типах доработки | https://habrahabr.ru/post/277791/
+
+Новое поколение UX или самые полезные боты для Slack | https://habrahabr.ru/post/279091/
+
+Автоматизация бизнес процессов в CRM. Сравнение подходов | https://habrahabr.ru/company/trinion/blog/278125/
+
+Всё идёт по плану? Планирование в Битрикс24 | https://habrahabr.ru/company/bitrix/blog/274951/
+
+Управление компанией-разработчиком: оно вам надо? | https://habrahabr.ru/company/iladaruli24/blog/274947/
+
+Анкетирование клиентов. Описание Zoho Survey | https://habrahabr.ru/company/trinion/blog/277303/
+
+43 полезных сервиса для управления проектами. Без эпитетов | https://habrahabr.ru/post/276873/
+
+Social CRM.Сбор интереса пользователей Интернет | https://habrahabr.ru/company/trinion/blog/276373/
+
+Упрощенная модель единого входа в разные конфигурации облачной CRM | https://habrahabr.ru/post/276291/
+
+Учтите это! К вопросу автоматизации склада | https://habrahabr.ru/company/iladaruli24/blog/274945/
+
+Пятилетняя отсрочка для предприятий Украины: акция завершается 31.12.2016 | https://habrahabr.ru/company/ultima/blog/275499/
+
+АСУ: от печали до радости. История российской автоматизации | https://habrahabr.ru/company/iladaruli24/blog/273593/
+
+Веские аргументы. К вопросу аналитики в компании | https://habrahabr.ru/company/iladaruli24/blog/272835/
+
+Внедрение CRM. От регистрации лида до закрытия сделки. Кейс и пояснения | https://habrahabr.ru/company/trinion/blog/272749/
+
+Знакомство с языком программирования Deluge. Создание произвольной функции в системе Zoho CRM | https://habrahabr.ru/company/trinion/blog/272421/
+
+Описание CRM Мегаплан | https://habrahabr.ru/company/trinion/blog/296882/
+
+Бизнес-процессы: как не автоматизировать бардак | https://habrahabr.ru/company/iladaruli24/blog/272177/
+
+Ruli24: идеальный тюнинг для вашей компании | https://habrahabr.ru/company/iladaruli24/blog/271565/
+
+1C CRM. Обзор | https://habrahabr.ru/company/trinion/blog/296406/
+
+SAP ERP / ABAP полезные ресурсы | https://habrahabr.ru/post/270335/
+
+Описание системы AmoCRM | https://habrahabr.ru/company/trinion/blog/295302/
+
+Что такое телефония в CRM и как ее выбирать | https://habrahabr.ru/company/trinion/blog/295118/
+
+Диагностика поведения «накопительных» (rollup) полей в Microsoft Dynamics CRM 2015 | https://habrahabr.ru/post/268081/
+
+CRM: погружение под вершину айсберга | https://habrahabr.ru/post/267637/
+
+Выбор CRM. Частые вопросы и ответы | https://habrahabr.ru/company/trinion/blog/294678/
+
+Протокол работы CRM в медицинском учреждении | https://habrahabr.ru/post/266515/
+
+Грабли, на которые вы не хотели бы наступить в своем проекте | https://habrahabr.ru/company/docsvision/blog/265185/
+
+Многоуровневая защита информации в облачных CRM | https://habrahabr.ru/post/263641/
+
+Воронка продаж в CRM: не будь тетерей, анализируй потери | https://habrahabr.ru/post/259273/
+
+Битрикс24 CRM. Обзор | https://habrahabr.ru/company/trinion/blog/257795/
+
+Прямая публикация учебных материалов в SAP Learning Solution (в мануалах этого нет) | https://habrahabr.ru/company/sap/blog/257535/
+
+Тайны мадридского двора. Часть II: система материальной мотивации разработчиков | https://habrahabr.ru/company/ultima/blog/255685/
+
+Связываем SAP Solution Manager и SAP WPB на радость пользователей и службы поддержки | https://habrahabr.ru/company/sap/blog/253751/
+
+Гибкая архитектура Rest сервисов для разработки на платформе Salesforce.com | https://habrahabr.ru/post/253641/
+
+Скажи-ка, дядя, ведь не даром… «Фишки» CRM | https://habrahabr.ru/post/252551/
+
+MS Dynamics CRM и PostSharp | https://habrahabr.ru/post/251491/
+
+Что такое CRM-системы и как их правильно выбирать? | https://habrahabr.ru/company/trinion/blog/249633/
+
+Как связать разные типы процессов в Microsoft Dynamics CRM 2013. Реальный бизнес кейс | https://habrahabr.ru/company/eastbanctech/blog/249577/
+
+Оценка трудозатрат на проект и подготовка коммерческих предложений | https://habrahabr.ru/post/248677/
+
+Zoho CRM. Обзор | https://habrahabr.ru/company/trinion/blog/248281/
+
+ДНК пользователей Salesforce: результаты анализа компаний которые используют Salesforce CRM | https://habrahabr.ru/post/244989/
+
+Guinness — «Идеальная Пинта Пива». Кейс превосходного CRM решения | https://habrahabr.ru/company/trinion/blog/246053/
+
+Покончите с беспределом: внедрите бизнес-процессы в CRM | https://habrahabr.ru/post/245205/
+
+Сравнение ведущих BPM-платформ: Pega и IBM BPM | https://habrahabr.ru/post/244261/
+
+Интеграция компьютерной информационной системы в работу бизнеса | https://habrahabr.ru/post/244365/
+
+Видео описание ZOHO CRM | https://habrahabr.ru/company/trinion/blog/241055/
+
+CRM в облаках | https://habrahabr.ru/company/eastbanctech/blog/237841/
+
+Шесть шагов подготовки данных для аналитического CRM | https://habrahabr.ru/post/237767/
+
+О кросс-канальных продажах (и немного об их реализации на базе IBM WebSphere Commerce) | https://habrahabr.ru/company/astoundcommerce/blog/237035/
+
+Интерфейсы CRM: главное, чтобы костюмчик сидел? | https://habrahabr.ru/post/236915/
+
+Мыть или не мыть? Foursquare для чистоплотных водителей | https://habrahabr.ru/company/vcstart/blog/234819/
+
+Стартапы VCStart: облачная CRM QuickOrder для ресторанного бизнеса | https://habrahabr.ru/company/vcstart/blog/234355/
+
+Зачем бухгалтеру CRM-система? | https://habrahabr.ru/company/a-practic/blog/232919/
+
+Маркетинг для финансовых институтов. Часть вторая: проведение кампании | https://habrahabr.ru/post/227931/
+
+Экономика ИТ для малого бизнеса: аутсорсер или штатник? | https://habrahabr.ru/post/231061/
+
+Еще пара плагинов для Redmine | https://habrahabr.ru/company/southbridge/blog/231445/
+
+Натив умер. Да здравствует натив! | https://habrahabr.ru/post/229245/
+
+Маркетинг для финансовых институтов. Часть первая: кампании | https://habrahabr.ru/post/226799/
+
+7 задач для маркетинга и менеджмента, решаемых в CRM-системе | https://habrahabr.ru/company/a-practic/blog/227339/
+
+Плагин с предупреждением для Redmine | https://habrahabr.ru/company/southbridge/blog/224275/
+
+Десктопные CRM: практическая травматология внедрений | https://habrahabr.ru/post/223215/
+
+Методы сбора данных для анализа эффективности контекстной рекламы при оффлайн-продажах | https://habrahabr.ru/post/216179/
+
+Битрикс24 CRM — мощное оружие в битве продаж | https://habrahabr.ru/company/bitrix/blog/214417/
+
+CRM: между небом и землёй | https://habrahabr.ru/post/210320/
+
+Проектирование системы оповещений для веб-приложений | https://habrahabr.ru/post/206220/
+
+Быстрый старт продаж для интернет-бизнеса | https://habrahabr.ru/company/arnion/blog/205116/
+
+Десктопные CRM-2: вам шашечки или ехать? | https://habrahabr.ru/post/204716/
+
+Новая зимняя версия «Простого бизнеса» (графики, права доступа, формулы и другое в CRM) и приложение для iOS | https://habrahabr.ru/company/prostoy/blog/203196/
+
+Десктопные CRM: дегустация бесплатного сыра | https://habrahabr.ru/post/199324/
+
+Цикл зрелости технологии (Hype cycle) Gartner — при внедрении новой системы на предприятии | https://habrahabr.ru/post/198506/
+
+Обзор торговой платформы TetraMall | https://habrahabr.ru/post/195772/
+
+Призрак клиентоориентированности бродит по России | https://habrahabr.ru/company/prolan/blog/195002/
+
+Ко Дню программиста: версия «Простого бизнеса» под Android и телефония для Украины | https://habrahabr.ru/company/prostoy/blog/193500/
+
+Летний переполох: ищем облачную CRM | https://habrahabr.ru/post/192248/
+
+Как сделать такую ERP систему, чтобы пользователи не бегали в ИТ за отчетами | https://habrahabr.ru/post/191598/
+
+Новая летняя версия «Простого бизнеса» 1.8.1.2. «Форт-Нокс»: определение номера, связь таблиц, ускорение работы с документами, делами | https://habrahabr.ru/company/prostoy/blog/186476/
+
+Время, оно же деньги | https://habrahabr.ru/company/prostoy/blog/184052/
+
+Дорога в облака: SaaS vs desktop | https://habrahabr.ru/post/176079/
+
+Версия 1.8.0.0 «Колизей»: коллективная рассылка SMS, встроенная телефония, видео-звонки, статистика по бухгалтерии, новые окна в metro-стиле | https://habrahabr.ru/company/prostoy/blog/176045/
+
+Интеграция Asterisk и SugarCRM | https://habrahabr.ru/post/174637/
+
+CRM для работы с клиентами и инфопартнерами на замену текущей AMO CRM | https://habrahabr.ru/post/171655/
+
+Наша KARMA | https://habrahabr.ru/company/kaspersky/blog/159443/
+
+СRM vs lead-management | https://habrahabr.ru/post/149885/
+
+Сравнительная таблица SaaS CRM-систем | https://habrahabr.ru/post/143754/
+

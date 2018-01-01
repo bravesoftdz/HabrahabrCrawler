@@ -1,0 +1,1056 @@
+Математические модели релейно-импульсных регуляторов | https://habrahabr.ru/post/345714/
+
+Синхронизация AssemblyVersion и Publish Version в ClickOnce приложении | https://habrahabr.ru/post/345390/
+
+Динамическая идентификация объектов управления | https://habrahabr.ru/post/345198/
+
+Windows сервера для задач 24x7 — миф или мои «кривые руки»? | https://habrahabr.ru/post/345130/
+
+Расширение Visual Studio для визуализации экземпляров пользовательских классов в режиме отладки. Часть 2 | https://habrahabr.ru/company/ascon/blog/344156/
+
+Развертываем Parallels RAS в Microsoft Azure за полчаса | https://habrahabr.ru/company/parallels/blog/344694/
+
+Как мы создавали менеджер паролей со стойкой криптографией и мастер-паролем. Опыт команды Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/344382/
+
+Продвижение ПО на Запад: ожидание vs.реальность на примере одного видеоредактора | https://habrahabr.ru/post/344456/
+
+Бесплатно, но… | https://habrahabr.ru/post/344464/
+
+Как мы делали приложение под Windows 10 с Fluent Design (UWP/C#) | https://habrahabr.ru/company/ivi/blog/343880/
+
+ReactOS 0.4.7: Павел Дуров больше не Пюыщн | https://habrahabr.ru/company/reactos/blog/344344/
+
+Решение задачи оптимизации многоступенчатых ракет | https://habrahabr.ru/post/344280/
+
+Когда дворецкий — жертва | https://habrahabr.ru/company/pvs-studio/blog/344142/
+
+Грабли при начале работы с Node.js | https://habrahabr.ru/post/344096/
+
+API BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/343010/
+
+Собираем пользовательскую активность в WPF | https://habrahabr.ru/company/devexpress/blog/343358/
+
+Работа с API КОМПАС-3D → Урок 6 → Построение дуги окружности | https://habrahabr.ru/company/ascon/blog/342032/
+
+Автоколебания и резонанс | https://habrahabr.ru/post/342654/
+
+Работа с API КОМПАС-3D → Урок 5 → Графические примитивы | https://habrahabr.ru/company/ascon/blog/342030/
+
+Оптимизация портфеля ценных бумаг средствами Python | https://habrahabr.ru/post/341992/
+
+Parallels Desktop 13 — семь советов для эффективной работы | https://habrahabr.ru/company/parallels/blog/341800/
+
+Эволюция вредоносных расширений: от любительских поделок до стеганографии. Опыт команды Яндекс.Браузера | https://habrahabr.ru/company/yandex/blog/341382/
+
+Математическая модель вибрационного уровнемера с резонатором в виде консольной эллиптической трубки | https://habrahabr.ru/post/340982/
+
+Настраиваем Windows Server так, чтобы у вас все было, при этом вам за это ничего не было | https://habrahabr.ru/company/parallels/blog/340820/
+
+Time Travel Debugging в новом WinDbg | https://habrahabr.ru/company/infopulse/blog/340744/
+
+Определение устойчивости систем автоматического управления промышленными роботами | https://habrahabr.ru/post/340554/
+
+Символьное решение задач нелинейного программирования | https://habrahabr.ru/post/340364/
+
+Запуск контейнеров с Ubuntu на Windows | https://habrahabr.ru/company/microsoft/blog/339746/
+
+Расширение аналитических возможностей метода линейного программирования средствами Python | https://habrahabr.ru/post/339594/
+
+Математическая модель жидкостного тахометра на Python | https://habrahabr.ru/post/339562/
+
+Счетчик копий программы или сбор статистики об использовании | https://habrahabr.ru/post/339546/
+
+Как устроено тестирование BIM-системы Renga | https://habrahabr.ru/company/ascon/blog/339352/
+
+Как работает буфер обмена в Windows | https://habrahabr.ru/post/339442/
+
+Скажи «нет» Electron! Пишем быстрое десктопное приложение на JavaFX | https://habrahabr.ru/post/339382/
+
+Linux-контейнеры для Windows | https://habrahabr.ru/company/microsoft/blog/339214/
+
+Итоги второго хакатона по ReactOS: мы переходим на GitHub | https://habrahabr.ru/company/reactos/blog/339218/
+
+Веб-сервер — ваша первая сетевая программа Arduino | https://habrahabr.ru/post/338844/
+
+О классификации методов преобразования Фурье на примерах их программной реализации средствами Python | https://habrahabr.ru/post/338704/
+
+Работа с API КОМПАС-3D → Урок 4 → Основная надпись | https://habrahabr.ru/company/ascon/blog/337288/
+
+Прототипирование в среде Python-Arduino | https://habrahabr.ru/post/337986/
+
+Nuklear+ — миниатюрный кроссплатформенный GUI | https://habrahabr.ru/post/338106/
+
+Немного о безопасности терминалов в МФЦ | https://habrahabr.ru/post/338012/
+
+Методы разработки потока программного обеспечения датчиков движения, работающих с Arduino | https://habrahabr.ru/post/337982/
+
+ReactOS 0.4.6 доступен для загрузки | https://habrahabr.ru/company/reactos/blog/337772/
+
+Охотники за багами: тестировщики АСКОН проходят испытание хитрыми вопросами | https://habrahabr.ru/company/ascon/blog/337472/
+
+Использование Python для обработки в реальном масштабе времени информации от датчиков, работающих с Arduino | https://habrahabr.ru/post/337494/
+
+Отчет по проекту GSoC 2017: ReactOS Apps Manager | https://habrahabr.ru/company/reactos/blog/337026/
+
+Простые модели экономической динамики на Python | https://habrahabr.ru/post/336946/
+
+Как перешагнуть через legacy и начать использовать статический анализ кода | https://habrahabr.ru/company/pvs-studio/blog/336824/
+
+Как мы создали новый продукт, удалив 130 тысяч строк кода из старого | https://habrahabr.ru/post/336706/
+
+Решение прямой и двойственной задачи линейного программирования средствами Python | https://habrahabr.ru/post/336480/
+
+ColumnsGrid для WPF | https://habrahabr.ru/post/336440/
+
+Разработка менеджера тем в UWP-приложении | https://habrahabr.ru/post/336054/
+
+Parallels Desktop для Mac 13: к macOS High Sierra готовы | https://habrahabr.ru/company/parallels/blog/336152/
+
+Игровая модель поведения на рынке двух конкурирующих фирм на Python | https://habrahabr.ru/post/335972/
+
+Клонирование игры Lode Runner с первого ПК в СССР «БК-0010» плюс несколько слов о программировании игр в конце 80-х | https://habrahabr.ru/post/335968/
+
+Определение blocking-режима TCP-сокета под Windows | https://habrahabr.ru/post/335762/
+
+Перехватываем запуск любого приложения в Windows и пытаемся ничего не сломать | https://habrahabr.ru/post/335736/
+
+Красочный код: как цвет помогает в работе с кодом | https://habrahabr.ru/post/335692/
+
+Визуализация результатов латентно-семантического анализа средствами Python | https://habrahabr.ru/post/335668/
+
+Вызов управляемого кода из неуправляемого | https://habrahabr.ru/company/icl_services/blog/335620/
+
+Расширение, изменение и создание элементов управления на платформе UWP. Часть 3 | https://habrahabr.ru/company/mobile_dimension/blog/335240/
+
+Решение закрытой транспортной задачи с дополнительными условиями средствами Python | https://habrahabr.ru/post/335104/
+
+Второй Hackfest в истории ReactOS начнется 14 августа 2017 | https://habrahabr.ru/company/reactos/blog/334932/
+
+Microsoft не изолировала Windows Defender в песочнице, так что это сделал я | https://habrahabr.ru/post/334792/
+
+Четверть миллиона за «жука»: Microsoft начинает активную борьбу с багами | https://habrahabr.ru/company/1cloud/blog/334552/
+
+Фотографируем объекты в C#: хроника и сопоставление снимков, реконструкция состояния по снимку | https://habrahabr.ru/post/333846/
+
+Интеграция Oculus Rift в десктопное Direct3D приложение на примере Renga | https://habrahabr.ru/company/ascon/blog/332806/
+
+Что такое SMT и как оно работает в приложениях — плюсы и минусы | https://habrahabr.ru/post/333632/
+
+Интеграция 3D-мыши в Renga | https://habrahabr.ru/company/ascon/blog/332676/
+
+Автоматизируем десктопный GUI на Python + pywinauto: как подружиться c MS UI Automation | https://habrahabr.ru/post/323962/
+
+24-ядерный CPU, а я не могу сдвинуть курсор | https://habrahabr.ru/post/332816/
+
+Скрипт для экспресс-восстановления Excel-файлов после повреждения | https://habrahabr.ru/post/332660/
+
+Расширение, изменение и создание элементов управления на платформе UWP. Часть 2 | https://habrahabr.ru/company/mobile_dimension/blog/332630/
+
+Работа с API КОМПАС-3D → Урок 3 → Корректное подключение к КОМПАС | https://habrahabr.ru/company/ascon/blog/332554/
+
+Xamarin.Forms для WPF и UWP разработчиков | https://habrahabr.ru/post/331308/
+
+Как компьютерные профи раскалывают хакеров | https://habrahabr.ru/company/parallels/blog/332178/
+
+Вероятностный и информационный анализ результатов измерений на Python | https://habrahabr.ru/post/332066/
+
+Третье пришествие ГОСТ 28147-89 или «Русская рулетка» | https://habrahabr.ru/post/331960/
+
+Как эффективнее читать данные с диска (при условии, что у вас .Net) | https://habrahabr.ru/company/dbtc/blog/331668/
+
+Головная боль от использования математического софта | https://habrahabr.ru/company/pvs-studio/blog/331638/
+
+Подбор закона распределения случайной величины по данным статистической выборки средствами Python | https://habrahabr.ru/post/331560/
+
+В сеть утекли исходные коды операционной системы Windows 10 [маленькая часть] | https://habrahabr.ru/post/331534/
+
+Работа с API КОМПАС-3D → Урок 2 → Оформление чертежа | https://habrahabr.ru/company/ascon/blog/330588/
+
+Автоматизация тестирования Windows-приложений с использованием Winium | https://habrahabr.ru/post/331292/
+
+История создания одной игры, или Все, что нас не убивает, делает нас сильнее | https://habrahabr.ru/post/331140/
+
+Терминология OneGet, NuGet, Chocolatey, PowerShellGet — разложим по полочкам | https://habrahabr.ru/post/331124/
+
+Расширение, изменение и создание элементов управления на платформе UWP. Часть 1 | https://habrahabr.ru/company/mobile_dimension/blog/330480/
+
+Создание простого аудиоредактора | https://habrahabr.ru/company/everydaytools/blog/330418/
+
+Notepad++: проверка кода пять лет спустя | https://habrahabr.ru/company/pvs-studio/blog/330394/
+
+Интеграция сайта и прочего ПО с онлайн-кассами | https://habrahabr.ru/post/330110/
+
+Microsoft Graph для разработчиков | https://habrahabr.ru/company/microsoft/blog/329708/
+
+Mobile Dimension разработал «планшет для консультантов торгового зала» по заказу М.Видео | https://habrahabr.ru/company/mobile_dimension/blog/329566/
+
+Нужно ли инженеру поддержки кодить самому? (и другие любопытные вопросы и ответы) | https://habrahabr.ru/company/JetBrains/blog/329316/
+
+Работа с API КОМПАС-3D → Урок 1 → Основы | https://habrahabr.ru/company/ascon/blog/328088/
+
+Получаем информацию о рабочем месте пользователя | https://habrahabr.ru/post/328914/
+
+Программа-шантажист WannaCrypt атакует необновлённые системы | https://habrahabr.ru/company/microsoft/blog/328910/
+
+Разбираем уязвимость CVE-2017-0263 для повышения привилегий в Windows | https://habrahabr.ru/company/pt/blog/328804/
+
+Использование модулей C++ в Visual Studio 2017 | https://habrahabr.ru/company/pvs-studio/blog/328482/
+
+Жирные программы — изучаем фактор памяти часть В | https://habrahabr.ru/post/328358/
+
+Сравнение PVS-Studio C# и статического анализатора, встроенного в Visual Studio, на базе кода проекта CruiseControl.NET | https://habrahabr.ru/company/pvs-studio/blog/328354/
+
+Как победить день сурка → Автоматизация тестирования нового интерфейса КОМПАС-3D v17 | https://habrahabr.ru/company/ascon/blog/327266/
+
+Parallels Mac Management: трудности переходного периода | https://habrahabr.ru/company/parallels/blog/328126/
+
+Интерактивная 3D-инсталляция по мотивам «Звёздных войн» | https://habrahabr.ru/company/microsoft/blog/328022/
+
+Как устроено тестирование у разработчиков КОМПАС-3D | https://habrahabr.ru/company/ascon/blog/327582/
+
+Поддержка Visual Studio 2017 и Roslyn 2.0 в PVS-Studio: иногда использовать готовые решения не так просто | https://habrahabr.ru/company/pvs-studio/blog/327874/
+
+Как используя PVS-Studio можно улучшить Visual C++ 2017 Libraries | https://habrahabr.ru/company/pvs-studio/blog/327784/
+
+Поддержка SVG и режим CompactOverlay в приложениях UWP | https://habrahabr.ru/post/327644/
+
+Как удалённо отлаживать через WinDbg не включая отладочный режим Windows | https://habrahabr.ru/post/327128/
+
+LinqToSolr — используем LINQ для получения данных из Solr | https://habrahabr.ru/post/327002/
+
+Как сделать свой С++ код кроссплатформенным? | https://habrahabr.ru/company/tensor/blog/326856/
+
+Здравствуй, Хабр | https://habrahabr.ru/company/tensor/blog/326804/
+
+Упрощаем конвертеры для WPF | https://habrahabr.ru/post/326646/
+
+K-Meleon 76 Pro — новая русская сборка браузера для олдфагов и истинных ценителей | https://habrahabr.ru/company/kmeleon_rus/blog/326618/
+
+Извлечение аудиоданных из wav-файла на UWP | https://habrahabr.ru/company/everydaytools/blog/325828/
+
+Это не шутки — остались считанные сутки… до дедлайна на GSoC 2017 | https://habrahabr.ru/company/reactos/blog/325390/
+
+Проверяем проект PascalABC.NET с помощью плагинов для SonarQube: SonarC# и PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/325126/
+
+Масштабирование Git (и кое-какая предыстория) | https://habrahabr.ru/post/325116/
+
+Windows hook: просто о сложном | https://habrahabr.ru/company/icl_services/blog/324718/
+
+Зачем в команде мобильной разработки появился сейф под управлением Windows 10 | https://habrahabr.ru/company/yamoney/blog/324624/
+
+Mahou обновился до версии 2.0 | https://habrahabr.ru/post/324592/
+
+Как написать свою систему учета рабочего времени | https://habrahabr.ru/company/kickidler/blog/324406/
+
+Развертка среды разработки Symfony под Windows | https://habrahabr.ru/post/324304/
+
+Windows Forth + | https://habrahabr.ru/post/324108/
+
+Project Centennial: мост из Win32 и .NET к Windows Store и UWP | https://habrahabr.ru/company/microsoft/blog/323818/
+
+Аутентификация и идентификация по голосу с помощью когнитивных сервисов Microsoft | https://habrahabr.ru/post/323312/
+
+Как проектируют программы: от UML до автоматного подхода | https://habrahabr.ru/company/spbifmo/blog/323780/
+
+Топ 10 ошибок в открытых проектах С++ за 2016 год | https://habrahabr.ru/company/pvs-studio/blog/323636/
+
+WCF REST сервисы и UWP приложения | https://habrahabr.ru/post/322202/
+
+Эксперимент: ищем int i = 0xDEADBEEF в дампе физической памяти | https://habrahabr.ru/post/322636/
+
+Топ 10 ошибок в проектах C# за 2016 год | https://habrahabr.ru/company/pvs-studio/blog/322662/
+
+Работа с устройствами печати в C# на примере реализации виртуального принтера | https://habrahabr.ru/post/322322/
+
+Continuous Integration UWP приложений в Visual Studio Team Services | https://habrahabr.ru/post/321638/
+
+Использование Tarantool в .NET-проекте на Windows | https://habrahabr.ru/company/mailru/blog/321998/
+
+Инкрементальный анализ в PVS-Studio: теперь и на сборочном сервере | https://habrahabr.ru/company/pvs-studio/blog/321702/
+
+Агрессивная экономия энергии при работе от батареи на Windows | https://habrahabr.ru/post/321628/
+
+Mahou — волшебный переключатель раскладок | https://habrahabr.ru/post/321518/
+
+Telerik UI для UWP стал Open Source | https://habrahabr.ru/post/321466/
+
+Reward: Благодарность от чистого сердца | https://habrahabr.ru/post/320996/
+
+Повторная проверка SharpDevelop: что нового? | https://habrahabr.ru/company/pvs-studio/blog/320778/
+
+Windows Performance Station или как я учил комп работать эффективно | https://habrahabr.ru/post/320110/
+
+Установка OpenCV в Windows для чайников и подключение библиотеки в Code Blocks | https://habrahabr.ru/post/318846/
+
+Пользователи Windows получили возможность работать с openSUSE (и Arch Linux) | https://habrahabr.ru/post/319942/
+
+Продолжение эпопеи с USB-стеком | https://habrahabr.ru/company/reactos/blog/319694/
+
+Слушаем пользовательский ввод с помощью “Raw Input API” для управления фоновым приложением | https://habrahabr.ru/company/jalinga/blog/319452/
+
+Windows: Sleep(0.5) | https://habrahabr.ru/post/319402/
+
+Простое, но эффективное расширение Explorer-а (shell extension) для визуализации файлов | https://habrahabr.ru/post/319326/
+
+Nuklear — идеальный GUI для микро-проектов? | https://habrahabr.ru/post/319106/
+
+One Core API чтоб править Windows | https://habrahabr.ru/company/reactos/blog/319110/
+
+VCL, избавляемся от мерцания, раз и навсегда | https://habrahabr.ru/post/318876/
+
+Поиск утечки GDI объектов: Как загнать мастодонта | https://habrahabr.ru/post/318948/
+
+Мы хотим сделать вам новогодний подарок, но нам нужна ваша помощь | https://habrahabr.ru/company/reactos/blog/318798/
+
+Как 10 лет назад начинался проект PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/318756/
+
+Предпочитайте SRW-блокировки критическим секциям | https://habrahabr.ru/company/infopulse/blog/318396/
+
+Чем «interface» отличается от «междумордия»: наш подход к документированию и локализации программных продуктов | https://habrahabr.ru/company/parallels/blog/318170/
+
+Публикация десктоп-приложения в Windows Store c помощью Desktop Application Converter | https://habrahabr.ru/post/318072/
+
+Как написать свою «песочницу»: пример простейшей «песочницы». Часть II | https://habrahabr.ru/company/infowatch/blog/318026/
+
+Тестирование UWP приложений с помощью Appium | https://habrahabr.ru/post/316858/
+
+Fire-Monkey help and tips | https://habrahabr.ru/post/317814/
+
+Снова проверяем исходный код Umbraco | https://habrahabr.ru/company/pvs-studio/blog/317900/
+
+WPF — Floppy Pages | https://habrahabr.ru/post/317896/
+
+«Полезняшки» или «Реестр Windows как платформа» | https://habrahabr.ru/post/317802/
+
+Конвертируем десктопное приложение в appx с помощью Desktop Bridge | https://habrahabr.ru/post/316490/
+
+Как написать свою «песочницу»? Разбор простейшей «песочницы» | https://habrahabr.ru/company/infowatch/blog/317396/
+
+Неуловимые баги: ошибки, ускользнувшие от всех тестов и проверок | https://habrahabr.ru/company/parallels/blog/317270/
+
+Конференция DevOpsDays 2017: стань докладчиком или участником | https://habrahabr.ru/company/pvs-studio/blog/317064/
+
+.NET Portability Analyzer | https://habrahabr.ru/post/312506/
+
+История языков программирования: Delphi — больше, чем просто язык | https://habrahabr.ru/post/316492/
+
+Как использовать PVS-Studio бесплатно | https://habrahabr.ru/company/pvs-studio/blog/316484/
+
+Microsoft призывает linux-разработчиков опробовать Windows 10 | https://habrahabr.ru/post/316466/
+
+ГИС ЖКХ: асинхронная модель взаимодействия | https://habrahabr.ru/post/316362/
+
+Технологии из «Черного зеркала», которые уже с нами | https://habrahabr.ru/company/gvalg/blog/316120/
+
+Как я написал систему визуализации для стенда | https://habrahabr.ru/post/315978/
+
+Навыки опытного программиста: Самые популярные советы начинающим | https://habrahabr.ru/company/1cloud/blog/315852/
+
+GitHub для пользователей Windows | https://habrahabr.ru/post/313996/
+
+Файлы подсистемы Linux нельзя создавать, изменять или удалять при помощи инструментов для Windows | https://habrahabr.ru/post/315594/
+
+История языков программирования: от BASIC к Visual Basic | https://habrahabr.ru/post/315470/
+
+Ко-итераторы на таймерах | https://habrahabr.ru/post/315280/
+
+Сканирование на терминальном сервере бесплатно | https://habrahabr.ru/post/315160/
+
+Проблемы, с которыми мы столкнулись при обновлении интерфейса PVS-Studio | https://habrahabr.ru/company/pvs-studio/blog/314968/
+
+Работа с cab-архивами через IStream | https://habrahabr.ru/post/314832/
+
+.NET Standard Library – адекватный стандарт? | https://habrahabr.ru/post/314588/
+
+Создание голограмм для HoloLens без Unity | https://habrahabr.ru/post/314010/
+
+Помощники на каждый день | https://habrahabr.ru/post/313824/
+
+Microsoft представила обновление своего набора инструментов Cognitive Toolkit | https://habrahabr.ru/post/313642/
+
+О производительности именованных каналов в многопроцессных приложениях | https://habrahabr.ru/company/infopulse/blog/313638/
+
+PVS-Studio для Linux | https://habrahabr.ru/company/pvs-studio/blog/313498/
+
+Зажжет или не зажжет Microsoft HoloLens? | https://habrahabr.ru/company/miip/blog/313232/
+
+DLP и защита инженерных данных от плагиата | https://habrahabr.ru/company/solarsecurity/blog/313012/
+
+Ядро Linux, спрятанное внутри Windows 10 | https://habrahabr.ru/post/312734/
+
+Поддержка BizTalk Server: полезные советы. Часть 2 | https://habrahabr.ru/company/icl_services/blog/312512/
+
+Немного о безопасности в «облаке»: Опыт IaaS-провайдера «1cloud» | https://habrahabr.ru/company/1cloud/blog/312260/
+
+Анонс .NET Standard 2.0 | https://habrahabr.ru/post/312026/
+
+Visual Studio «15» Preview 5 | https://habrahabr.ru/company/infopulse/blog/312198/
+
+Как мы соединили Parallels Desktop и Office 365 | https://habrahabr.ru/company/parallels/blog/311878/
+
+Self-contained дистрибуция .NET Core приложений | https://habrahabr.ru/post/311520/
+
+Как перестать беспокоиться и победить Центр обновления Windows? | https://habrahabr.ru/company/parallels/blog/311324/
+
+UWP beginner: Адаптивный дизайн (VB.NET + C#) | https://habrahabr.ru/company/microsoft/blog/311130/
+
+Блокировки работают не так уж медленно | https://habrahabr.ru/company/infopulse/blog/311134/
+
+Что нового появилось в C# 7 и уже поддерживается в Visual Studio “15” Preview 4 | https://habrahabr.ru/post/311112/
+
+Используем Entity Framework Core с приложением универсальной платформы Windows | https://habrahabr.ru/post/310516/
+
+ГИС ЖКХ: установка защищенного соединения и подписание сообщений с помощью WCF | https://habrahabr.ru/post/311062/
+
+Как герои игры OverWatch однажды облысели, а мы вернули им шевелюры | https://habrahabr.ru/company/parallels/blog/310266/
+
+Пишем Hello World для HoloLens | https://habrahabr.ru/company/microsoft/blog/310446/
+
+UWP beginner: Заголовок окна в приложениях (VB.NET + C#) | https://habrahabr.ru/company/microsoft/blog/310326/
+
+Работаем с Azure IoT устройствами из приложений UWP | https://habrahabr.ru/post/303866/
+
+Ретроспективная презентация очередного релиза ReactOS | https://habrahabr.ru/company/reactos/blog/309458/
+
+Дистрибуция неопубликованных в Store приложений Windows 10 | https://habrahabr.ru/post/308718/
+
+Использование графических эффектов в приложениях UWP с помощью Win2D | https://habrahabr.ru/post/308310/
+
+Неожиданное поведение WinAPI-функции IsWow64Process() | https://habrahabr.ru/company/infopulse/blog/308490/
+
+Переключатель раскладки клавиатуры по принципу OS X | https://habrahabr.ru/post/308468/
+
+Распознавание штрих и QR кодов в приложениях UWP | https://habrahabr.ru/post/307732/
+
+Как увеличить жизнь батареи на Mac и другие функции Parallels Desktop 12 | https://habrahabr.ru/company/parallels/blog/307996/
+
+Представляем новый UWP Community Toolkit | https://habrahabr.ru/post/308020/
+
+Мифы об облачных технологиях. Часть 1: о «бесполезной» техподдержке и «навороченных» сервисах | https://habrahabr.ru/company/1cloud/blog/307930/
+
+Золотой ключик — неустранимая возможность полного обхода Secure Boot на большинстве Windows-устройств | https://habrahabr.ru/post/307564/
+
+Бот-кассир на pywinauto, или GUI automation для платежного шлюза | https://habrahabr.ru/post/307420/
+
+Как легко работать с OneDrive из приложений UWP | https://habrahabr.ru/post/307130/
+
+Проектирование идентичных форм в WPF с применением абстрактных классов | https://habrahabr.ru/post/307308/
+
+Новые возможности x:Bind в UWP | https://habrahabr.ru/post/307226/
+
+Выбираем длинный путь (или прощай MAX_PATH) | https://habrahabr.ru/post/307186/
+
+В результате взлома известного opensource-хостинга были заражены дистрибутивы Audacity, Classic Shell и другие | https://habrahabr.ru/post/307120/
+
+Создание и использование расширений для UWP-приложений с помощью App Services | https://habrahabr.ru/post/307116/
+
+Как мы сделали конвертер и плеер для CinemaDNG на CUDA | https://habrahabr.ru/post/306566/
+
+Борьба с загадочными падениями MSBuild на XamlTaskFactory | https://habrahabr.ru/post/307104/
+
+Перехват функций .NET/CLR | https://habrahabr.ru/post/307088/
+
+Работа с Facebook API из приложений UWP | https://habrahabr.ru/post/307026/
+
+Windows 10 Anniversary Update стала доступна | https://habrahabr.ru/post/306964/
+
+Все драйверы режима ядра для Windows 10 (1607) теперь должны быть подписаны Microsoft | https://habrahabr.ru/post/306862/
+
+О том, как мы на PHP запускали настоящий MS Excel и что из этого вышло | https://habrahabr.ru/post/306408/
+
+Летняя практика: Топ-10 курсов Microsoft Virtual Academy | https://habrahabr.ru/company/microsoft/blog/306352/
+
+Lync SDK 2013. Опыт разработки собственного мессенджера на основе Lync (Skype for Business) | https://habrahabr.ru/post/306230/
+
+Минимальный «hello world» telegram-бот | https://habrahabr.ru/post/306222/
+
+Простой, естественный вопрос: какие бывают библиотеки UWP? | https://habrahabr.ru/post/305674/
+
+Ограничения в использовании умных светодиодов WS2812, WS2801 и подобных в современных проектах декоративной светотехники | https://habrahabr.ru/post/305876/
+
+Введение в ReactiveUI: изучаем команды | https://habrahabr.ru/post/305350/
+
+Домашнее задание на лето: Топ-10 курсов Microsoft Virtual Academy | https://habrahabr.ru/company/microsoft/blog/305294/
+
+Воспроизводим mp3 в своей программе и что может этому помешать | https://habrahabr.ru/post/304998/
+
+Критическая уязвимость позволяет перехватывать весь сетевой трафик пользователей Windows | https://habrahabr.ru/company/pt/blog/304842/
+
+Драм-машина на нейронной сети | https://habrahabr.ru/post/304534/
+
+Книга про разработку приложений для Firebird | https://habrahabr.ru/post/304462/
+
+Проверяем исходный код WPF Samples от Microsoft | https://habrahabr.ru/company/pvs-studio/blog/304206/
+
+Единорог, который смог | https://habrahabr.ru/company/pvs-studio/blog/303854/
+
+Запускаем Xamarin.Forms на Windows 7 | https://habrahabr.ru/post/303814/
+
+Поддержка BizTalk Server 2010: полезные советы | https://habrahabr.ru/company/icl_services/blog/303646/
+
+CodeRush for Roslyn: Part 1 — полезные фичи для разработки через тестирование | https://habrahabr.ru/company/devexpress/blog/303008/
+
+Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте | https://habrahabr.ru/post/302570/
+
+Client-side Linq to NHibernate | https://habrahabr.ru/post/302594/
+
+Участвуйте 7-9 июня в бесплатной виртуальной конференции dotnetConf 2016 | https://habrahabr.ru/company/microsoft/blog/302510/
+
+Делаем собственный сервис по определению WHOIS любого домена | https://habrahabr.ru/post/302494/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 2-я) | https://habrahabr.ru/post/302204/
+
+Кроссплатформенная мобильная разработка: вопросы взрослым | https://habrahabr.ru/company/jugru/blog/302070/
+
+Активируем Ubuntu On Windows в свежей Windows 10 Build 14316 | https://habrahabr.ru/post/302132/
+
+ReactOS 0.4.2 будет превосходным | https://habrahabr.ru/company/reactos/blog/302044/
+
+Ассемблер/дизассемблер клавиатурных раскладок Windows с помощью flat assembler | https://habrahabr.ru/post/301882/
+
+Расширяем фреймворк Kivy пакетом XPopup (Часть 1-я) | https://habrahabr.ru/post/301712/
+
+VirusTotal: проверяем файлы на вирусы в один клик | https://habrahabr.ru/post/301638/
+
+Релиз ReactOS 0.4.1 и ответ на вопрос «Можно ли пропатчить ReactOS под KDE4?» | https://habrahabr.ru/company/reactos/blog/301028/
+
+Передача видео с глубоководного робота | https://habrahabr.ru/post/277955/
+
+Анонс трека Windows конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/283498/
+
+Давайте знакомиться: компания Align Technology | https://habrahabr.ru/company/aligntechnology/blog/283470/
+
+Windows 10 IoT Core: GPIO, Lightning и RemoteClient | https://habrahabr.ru/post/283184/
+
+Русский перевод выступления Алекса Ионеску «Сумасшедшая попытка переписать Windows с нуля» | https://habrahabr.ru/company/reactos/blog/282800/
+
+Ключевые спикеры конференции DevCon 2016 | https://habrahabr.ru/company/microsoft/blog/282716/
+
+Миллион и один день INotifyPropertyChanged | https://habrahabr.ru/post/282648/
+
+HoloLens, Xbox One Dev Mode и возможности для разработчиков с конференции //Build | https://habrahabr.ru/post/281539/
+
+Не IoT, а малина! Строим IoT-проект на Raspberry Pi с Windows 10 и DeviceHive | https://habrahabr.ru/company/microsoft/blog/280294/
+
+Небольшое сравнение производительности UWP/WinRT API языковых проекций | https://habrahabr.ru/post/280722/
+
+Новшества C# 7 | https://habrahabr.ru/post/280978/
+
+Автоматизация кадровых изменений на PowerShell | https://habrahabr.ru/post/280710/
+
+EMC делает ставку на ReactOS для хранения больших данных в IoT-сфере | https://habrahabr.ru/company/reactos/blog/280652/
+
+Xamarin теперь бесплатен. «В отладчик мне исключение (воскл. знак)» | https://habrahabr.ru/post/280638/
+
+Текстовая трансляция конференции Build 2016 — второй день | https://habrahabr.ru/company/microsoft/blog/280622/
+
+Ubuntu интегрировали в Windows 10 | https://habrahabr.ru/post/280560/
+
+Текстовая трансляция конференции Build 2016 | https://habrahabr.ru/company/microsoft/blog/280518/
+
+Microsoft DevCon 2016 — компьютерное зрение, SQL Server 2016, Data Science и не только | https://habrahabr.ru/company/microsoft/blog/280232/
+
+LenovoDev запускает Multi-Touch Multi-Hack — хакатон для разработчиков с призовым фондом в 25 000 долларов США | https://habrahabr.ru/company/lenovo/blog/280163/
+
+«IoT» или «не IoT» – вот в чем вопрос! (Windows 10 IoT FAQ) | https://habrahabr.ru/company/quarta/blog/279521/
+
+На чем писать десктопного клиента для веб-сервиса? | https://habrahabr.ru/post/279447/
+
+Диаграммы и другие полезности для UWP приложений | https://habrahabr.ru/post/278805/
+
+Windows 10 IoT: Эволюция средств разработки | https://habrahabr.ru/company/quarta/blog/278879/
+
+Мы ищем тебя, чтобы помочь тебе заработать 5000$ этим летом | https://habrahabr.ru/company/reactos/blog/278869/
+
+Windows-way синхронизация настроек между системами | https://habrahabr.ru/post/278757/
+
+Все, что нужно знать про Unity 5, UWP-приложения и 8 марта | https://habrahabr.ru/company/microsoft/blog/278713/
+
+Доступ к данным MySQL из приложения UWP без использования сервисов | https://habrahabr.ru/post/277655/
+
+Паспортный сканер своими руками | https://habrahabr.ru/company/smartengines/blog/278257/
+
+Хуки — это просто (часть 3) | https://habrahabr.ru/company/infopulse/blog/277995/
+
+Приложение Windows 10 с данными в облаке с помощью Azure Mobile Apps | https://habrahabr.ru/post/277567/
+
+Не упусти шанс попасть на //Build: разработай или обнови UWP приложение и участвуй в Race to Build 2016 | https://habrahabr.ru/company/microsoft/blog/277617/
+
+Представляем ReactOS 0.4 | https://habrahabr.ru/company/reactos/blog/277417/
+
+Вложенные привязки в WPF | https://habrahabr.ru/post/277157/
+
+От FineReader к решениям для ввода данных: как начиналось направление DataCapture в ABBYY | https://habrahabr.ru/company/abbyy/blog/277081/
+
+«Digital Rain» для Windows в 314 байтах | https://habrahabr.ru/post/276371/
+
+Распознаем эмоции в приложении UWP с помощью API Project Oxford | https://habrahabr.ru/post/276411/
+
+Автоматическая установка и настройка PostgreSQL при помощи Wix# | https://habrahabr.ru/post/276175/
+
+Автоматизация обработки текстовых документов с помощью Microsoft Word API | https://habrahabr.ru/post/275989/
+
+Работа с Arduino из C# приложения | https://habrahabr.ru/post/275439/
+
+Как не стать программистом или… тебе здесь не место | https://habrahabr.ru/post/275409/
+
+Секреты DevCon #2. Как формируется сетка конференции | https://habrahabr.ru/company/microsoft/blog/275087/
+
+Isotoxin: свободный мультипротокольный мессенджер с поддержкой Tox | https://habrahabr.ru/post/274417/
+
+Полезные дополнения к ReSharper | https://habrahabr.ru/post/274327/
+
+Локализация WPF-приложения и мгновенная смена культуры | https://habrahabr.ru/post/274477/
+
+Новогодний релиз PVS-Studio 6.00: проверяем Roslyn | https://habrahabr.ru/company/pvs-studio/blog/273811/
+
+Топ-10 самых главных анонсов Microsoft в 2015 году | https://habrahabr.ru/company/microsoft/blog/273653/
+
+Как мы распаковку игры автоматизировали | https://habrahabr.ru/post/273595/
+
+Windows 10 Digest. Ноябрь-декабрь 2015 | https://habrahabr.ru/company/microsoft/blog/273339/
+
+Обновление Windows 10 SDK — сборка 10586 | https://habrahabr.ru/company/microsoft/blog/273209/
+
+Как мы сделали ABBYY FineReader, или история, произошедшая 20 лет назад | https://habrahabr.ru/company/abbyy/blog/273219/
+
+Секреты DevCon #1. Традиционный DevCon в новом формате | https://habrahabr.ru/company/microsoft/blog/273143/
+
+Мой опыт работы с wxWidgets | https://habrahabr.ru/post/273141/
+
+О приложениях UWP для разработчиков WPF | https://habrahabr.ru/post/270781/
+
+Проверяем Microsoft Code Contracts | https://habrahabr.ru/company/pvs-studio/blog/273111/
+
+12 декабря в 12:00 (МСК) смотрите Community DevCamp онлайн | https://habrahabr.ru/company/microsoft/blog/272943/
+
+Пара слов о среде разработки Алгоритм 2 | https://habrahabr.ru/post/272683/
+
+Добавление jump lists в приложение UWP | https://habrahabr.ru/post/272613/
+
+Финальное расписание Community DevCamp (Москва, 12 декабря) | https://habrahabr.ru/company/microsoft/blog/272535/
+
+Анонс записей лабораторных работ с Windows Camp // Labs и полезные ссылки для разработчиков | https://habrahabr.ru/company/microsoft/blog/272185/
+
+Релиз близко… | https://habrahabr.ru/company/reactos/blog/272197/
+
+А вы получили a-Mail?.. Бухгалтерская почта | https://habrahabr.ru/post/272035/
+
+Экспериментальная версия PVS-Studio, поддерживающая C# | https://habrahabr.ru/company/pvs-studio/blog/271993/
+
+Смена фона рабочего стола и экрана блокировки из C#/XAML приложения UWP | https://habrahabr.ru/post/271943/
+
+Расследование ошибки установки Visual Studio 2015 | https://habrahabr.ru/company/infopulse/blog/271809/
+
+Модульное приложение на WPF + Caliburn.Micro + Castle.Windsor | https://habrahabr.ru/post/271655/
+
+Управление осциллографами Tektronix из Visual Studio | https://habrahabr.ru/post/271641/
+
+12.12 в 12:00 приходите на Community DevCamp в Москве | https://habrahabr.ru/company/microsoft/blog/271569/
+
+СУБД ЛИНТЕР и ReactOS, технические детали | https://habrahabr.ru/company/relex/blog/271121/
+
+Ещё один способ реализации binding-а вычислимых свойств в WPF | https://habrahabr.ru/post/271105/
+
+Project Cenntenial | https://habrahabr.ru/post/270313/
+
+Прямая трансляция MBLTdev | https://habrahabr.ru/company/e-Legion/blog/270985/
+
+Разработка 2D игр на Windows, Mac OS, Linux и Android без программирования. Часть 2 | https://habrahabr.ru/post/270855/
+
+Первая статья про проверку C# проекта | https://habrahabr.ru/company/pvs-studio/blog/270823/
+
+5 дней до конференции мобильных разработчиков MBLTdev | https://habrahabr.ru/company/e-Legion/blog/270653/
+
+Windows Store и будущее малвари | https://habrahabr.ru/post/270623/
+
+Windows 10 по 10. Выпуск #4. Придание финального лоска UWP-приложению | https://habrahabr.ru/company/microsoft/blog/270303/
+
+SWAPY с новым генератором кода | https://habrahabr.ru/post/270247/
+
+Работаем с Xamarin: опыт разработки на двух проектах | https://habrahabr.ru/company/icl_services/blog/270051/
+
+Решение проблемы с установкой GitHub for Windows с S3 Amazon Web Services | https://habrahabr.ru/post/269989/
+
+СУБД ЛИНТЕР Бастион успешно протестирована на ReactOS | https://habrahabr.ru/company/reactos/blog/269869/
+
+10-17 ноября приглашаем принять участие в акции для мобильных разработчиков и пользователей – Russian AppFest | https://habrahabr.ru/company/microsoft/blog/269797/
+
+3 дня до повышения стоимости билетов на конференцию мобильных разработчиков MBLTdev | https://habrahabr.ru/company/e-Legion/blog/269771/
+
+Application Lifecycle в приложениях Windows 8.1 и UWP | https://habrahabr.ru/post/269399/
+
+28 октября 10:00 (MSK) присоединяйтесь к онлайн-трансляции Windows Camp //Labs | https://habrahabr.ru/company/microsoft/blog/269551/
+
+Да, я пишу десктопные приложения под Windows | https://habrahabr.ru/company/infopulse/blog/269577/
+
+Назад в будущее, или Hello World сегодня и тридцать лет назад | https://habrahabr.ru/company/microsoft/blog/269261/
+
+Создание GUI приложений на PHP | https://habrahabr.ru/post/269199/
+
+Как создать свой собственный браузер для Windows 10 на HTML и JavaScript | https://habrahabr.ru/company/microsoft/blog/269143/
+
+Что там у ReactOS? | https://habrahabr.ru/company/reactos/blog/269017/
+
+3 способа задать разметку для различных устройств в C#/XAML приложениях Windows UWP | https://habrahabr.ru/post/268695/
+
+Настройка GPIO в Coremodule 920 | https://habrahabr.ru/post/268523/
+
+Офис как Платформа, выпуск №5 — представляем OneNote REST API | https://habrahabr.ru/company/microsoft/blog/268333/
+
+Портируем C#/XAML приложение Windows 8.1 на UWP | https://habrahabr.ru/post/268017/
+
+Издание в Стиме с минимальными затратами | https://habrahabr.ru/post/268223/
+
+Windows 10 по 10. Выпуск #3. Использование Кортаны для взаимодействия с пользователями | https://habrahabr.ru/company/microsoft/blog/267987/
+
+Летающие панельки от нас улетели… О навигации и кнопке «Назад» в C#/XAML приложениях Windows 10 | https://habrahabr.ru/post/267789/
+
+Основы NHibernate (легкий туториал) | https://habrahabr.ru/post/267505/
+
+Perspex — кросплатформенный UI-фреймворк с XAML и биндингами | https://habrahabr.ru/post/267425/
+
+Windows 10 для разработчиков v2 | https://habrahabr.ru/company/microsoft/blog/267397/
+
+Приложение на прокачку. Как ускорить загрузку C#/XAML приложения Windows Store | https://habrahabr.ru/post/267131/
+
+Оптимизация быстродействия динамического выделения памяти в многопоточной библиотеке | https://habrahabr.ru/post/267155/
+
+PE (Portable Executable): На странных берегах | https://habrahabr.ru/post/266831/
+
+Новый русский K-Meleon 75 для настоящих Pro | https://habrahabr.ru/company/kmeleon_rus/blog/266827/
+
+Простая в использовании обертка над LoadLibrary() и GetProcAddress() | https://habrahabr.ru/post/266809/
+
+Старый новый pywinauto: автоматизация Windows GUI на Python на примере install/uninstall | https://habrahabr.ru/company/intel/blog/266459/
+
+Мультиплатформенный аудио плеер на C++ и OpenAL | https://habrahabr.ru/post/266127/
+
+Компилируемые привязки данных в приложениях Windows 10 | https://habrahabr.ru/post/265993/
+
+ReactOS-Хакфест или еще один вариант про… кодить последний месяц лета | https://habrahabr.ru/company/reactos/blog/265931/
+
+Сенсоры контекста в Windows 10 | https://habrahabr.ru/company/microsoft/blog/265963/
+
+Что такое ЕИС нотариата России | https://habrahabr.ru/post/265869/
+
+.NET Native – что это означает для разработчиков под универсальную Windows-платформу (UWP)? | https://habrahabr.ru/company/microsoft/blog/265889/
+
+С Днём Знаний! Конференции, курсы, документация и другие ресурсы для разработчиков от Microsoft | https://habrahabr.ru/company/microsoft/blog/265857/
+
+Windows 10 по 10. Выпуск #2. Взаимодействие с пользователями через живые плитки и уведомления | https://habrahabr.ru/company/microsoft/blog/265777/
+
+Разработка под Windows 10 — с чего начать | https://habrahabr.ru/company/microsoft/blog/265615/
+
+Windows 10 по 10. Выпуск #1. Как повысить заметность и частоту установок | https://habrahabr.ru/company/microsoft/blog/265445/
+
+Работа с базой данных SQLite с помощью обертки SQLitePCL | https://habrahabr.ru/post/265303/
+
+Microsoft добавил средство сбора телеметрии в Windows 7/8/8.1 | https://habrahabr.ru/post/265283/
+
+Вышел Git for Windows 2.5.0 | https://habrahabr.ru/post/265039/
+
+Последние 2 дня продаж Early Bird билетов на конференцию MBLTdev | https://habrahabr.ru/company/e-Legion/blog/264935/
+
+Как Windows 10 собирает данные о пользователях | https://habrahabr.ru/company/pt/blog/264763/
+
+Нотариальный лёд тронулся | https://habrahabr.ru/post/264465/
+
+Корпоративные сети могут быть взломаны с помощью Windows Update | https://habrahabr.ru/company/pt/blog/264479/
+
+ReactOS Hackfest начался | https://habrahabr.ru/company/reactos/blog/264379/
+
+Компиляция iOS приложений для Windows Store | https://habrahabr.ru/company/microsoft/blog/264321/
+
+Приглашаем на Windows Camp — 10 сентября, Москва | https://habrahabr.ru/company/microsoft/blog/264283/
+
+Триггеры и фоновые задания в приложениях Windows Store | https://habrahabr.ru/post/264199/
+
+Сложности сборки Python3 + Qt5 приложений под Windows | https://habrahabr.ru/post/264233/
+
+Игра для самых маленьких — простая идея, которую не стыдно включить в резюме | https://habrahabr.ru/post/264029/
+
+Как перенести проект размером в 9 млн строк кода на 64-битную платформу? | https://habrahabr.ru/company/pvs-studio/blog/264021/
+
+История одного клона | https://habrahabr.ru/post/263945/
+
+Как конфигурация влияет на архитектуру приложения | https://habrahabr.ru/post/263827/
+
+Идеальный путь внедрения статического анализатора кода | https://habrahabr.ru/company/pvs-studio/blog/263695/
+
+Поддержка службы печати в ReactOS — совсем скоро | https://habrahabr.ru/company/reactos/blog/263441/
+
+Добавляем гамбургер в меню приложения Windows 10 | https://habrahabr.ru/post/263363/
+
+Началась регистрация на MBLTdev 15 — международную конференцию мобильных разработчиков | https://habrahabr.ru/company/e-Legion/blog/263381/
+
+Интеграция PVS-Studio с системой распределённой сборки IncrediBuild | https://habrahabr.ru/company/pvs-studio/blog/263369/
+
+Winium.Desktop: Selenium для desktop-приложений под Windows | https://habrahabr.ru/company/2gis/blog/263347/
+
+Удобный лог не роскошь, а средство отладки, или как подключить dll при помощи h файла | https://habrahabr.ru/post/262883/
+
+Адаптация под различные экраны приложений Windows Store | https://habrahabr.ru/post/262747/
+
+Руководство по переносу приложений на базе Marmalade на платформу Windows 10 | https://habrahabr.ru/company/microsoft/blog/262665/
+
+Windows Remote Arduino — управляем настольной лампой прямо из универсального приложения Windows | https://habrahabr.ru/company/microsoft/blog/262419/
+
+Введение в Octopus Deploy | https://habrahabr.ru/post/262409/
+
+Подводные камни WPF | https://habrahabr.ru/post/262299/
+
+Лучшие доклады конференции DevCon 2015 — Топ 10 | https://habrahabr.ru/company/microsoft/blog/262289/
+
+Истории о разработчиках: Lazybit Team, команда-победитель российского финала Imagine Cup 2015 | https://habrahabr.ru/company/microsoftlumia/blog/260653/
+
+Экзамен 70-485 Advanced Windows Store App Development Using C# | https://habrahabr.ru/post/261967/
+
+Настройка проверки синтаксиса «налету» HTML, CSS, JS, PHP в Sublime Text 3 на Windows 7 | https://habrahabr.ru/post/262137/
+
+Безумные опыты по «внедрению» Windows 3.11 продолжаются | https://habrahabr.ru/company/reactos/blog/262113/
+
+Рендеринг DirectX в окне WPF | https://habrahabr.ru/post/261927/
+
+AccountLogic 2.0: доведенная до ума, но не до окончания | https://habrahabr.ru/post/261873/
+
+Windows 10 IoT — небольшой обзор новой редакции ОС для маленьких устройств | https://habrahabr.ru/company/microsoft/blog/261851/
+
+Веб-эксперименты #1. Адаптивность lvl. 80: веб-приложения, мозговые волны и уровень внимания | https://habrahabr.ru/company/microsoft/blog/261727/
+
+Осторожно, Modern UI | https://habrahabr.ru/post/261199/
+
+K-Meleon 75: дошли до финала | https://habrahabr.ru/company/kmeleon_rus/blog/261113/
+
+Исключения для хардкорщиков. Особенности обработки эксепшенов в динамически размещаемом коде | https://habrahabr.ru/company/xakep/blog/260577/
+
+Отправка Nginx-логов в Google Analytics | https://habrahabr.ru/company/driverpack/blog/260553/
+
+Интеграция Windows и Mac OS при помощи Acronis Access Connect | https://habrahabr.ru/company/acronis/blog/260031/
+
+Пишем SSL туннель на python | https://habrahabr.ru/post/260085/
+
+Подборка курсов по разработке игр от Microsoft | https://habrahabr.ru/company/payonline/blog/259561/
+
+Обновленная и расширенная версия DriverPack Online – первая по значимости, 16 по номеру | https://habrahabr.ru/company/driverpack/blog/259009/
+
+Поддержка SSH в Windows силами Microsoft | https://habrahabr.ru/post/259449/
+
+Онлайн-мероприятие по разработке для Windows 10, 10 июня, от ветеранов индустрии | https://habrahabr.ru/company/microsoft/blog/259083/
+
+Почему Windows Phone стала лучшей платформой для запуска игры «Крутящий момент» | https://habrahabr.ru/company/microsoftlumia/blog/258575/
+
+Андроиды в дельфинарии | https://habrahabr.ru/post/258379/
+
+Модифицированный драйвер из ReactOS упрощает жизнь под Windows на Chromebook | https://habrahabr.ru/company/reactos/blog/258135/
+
+Обеспечение обратной совместимости .NET-приложений при использовании WinRT | https://habrahabr.ru/post/258015/
+
+Как «русские хакеры» пытались узнать о новых санкциях против России: изучаем CVE-2015-1701 | https://habrahabr.ru/company/pt/blog/257879/
+
+Интервью о тестировании + скриншоты приложений, работающих в ReactOS, присланные тестерами | https://habrahabr.ru/company/reactos/blog/257421/
+
+Делаем приложение push'истым | https://habrahabr.ru/post/257209/
+
+Microsoft показала Project Astoria: как будет выглядеть использование Android-кода в Windows-приложениях | https://habrahabr.ru/post/257127/
+
+Отправляем SMS из .Net приложения на C# | https://habrahabr.ru/post/256687/
+
+Особенности внедрения DLL и установки хуков в Modern-приложениях Windows 8/10 | https://habrahabr.ru/company/infopulse/blog/256829/
+
+Драйвер-паки и их индексы | https://habrahabr.ru/company/driverpack/blog/254429/
+
+Мы закрываем проект CppCat | https://habrahabr.ru/company/pvs-studio/blog/256637/
+
+Самый худший из когда-либо созданных API | https://habrahabr.ru/post/254795/
+
+Арабская локализация: слова, слова, слова | https://habrahabr.ru/company/abbyy/blog/256159/
+
+DevCon 2015: анонс третьей волны докладчиков конференции | https://habrahabr.ru/company/microsoft/blog/256285/
+
+Доклад Алексея Брагина на Russian Open Source Summit 2015 | https://habrahabr.ru/company/reactos/blog/256029/
+
+Microsoft Developer Tour — ¾ пути, впереди Сибирь и Казахстан | https://habrahabr.ru/company/microsoft/blog/255875/
+
+Глубокое погружение в систему рендеринга WPF | https://habrahabr.ru/post/255683/
+
+Анонсирована превью-версия WinJS 4.0: универсальный UX, интеграция с AngularJS, обновленный ListView | https://habrahabr.ru/company/microsoft/blog/255571/
+
+WPF 4.6 и дальнейшие планы | https://habrahabr.ru/company/geekfamily/blog/255263/
+
+Вежливое приглашение к разработке | https://habrahabr.ru/company/driverpack/blog/254433/
+
+DevCon 2015: анонс докладчиков – представителей сообщества | https://habrahabr.ru/company/microsoft/blog/255027/
+
+Видео от пользователя: Windows 3.11 внутри ReactOS | https://habrahabr.ru/company/reactos/blog/254985/
+
+WPF: использование Attached Property и Behavior | https://habrahabr.ru/post/254887/
+
+Представление спикеров конференции Desktop UI & Business Application. Про UI | https://habrahabr.ru/company/geekfamily/blog/254711/
+
+Windows 10 для разработчиков | https://habrahabr.ru/company/microsoft/blog/254691/
+
+Microsoft запустила новую мобильную ОС — MS-DOS Mobile | https://habrahabr.ru/post/254607/
+
+Представление спикеров конференции Desktop UI & Business Application. Про бэкенд | https://habrahabr.ru/company/geekfamily/blog/254447/
+
+K-Meleon 75: текущее состояние, баги, ссылки и т.п | https://habrahabr.ru/company/kmeleon_rus/blog/254443/
+
+SQLite. Готовимся к Windows 10 (Universal App Platform) | https://habrahabr.ru/post/254313/
+
+Расширение функциональности элементов управления Windows с помощью AttachedProperty | https://habrahabr.ru/post/254305/
+
+Да здравствует мыло душистое, или как исправить неправильное масштабирование Windows программ | https://habrahabr.ru/post/254211/
+
+Project Spartan уже почти здесь | https://habrahabr.ru/post/254041/
+
+Мониторим пользователей AD на коленке и бесплатно | https://habrahabr.ru/post/253937/
+
+Использование C# и Wix# для создания msi-пакетов | https://habrahabr.ru/post/253819/
+
+Превью инструментов и SDK для разработки приложений под Windows 10 | https://habrahabr.ru/company/microsoft/blog/253821/
+
+Кому может быть нужен K-Meleon? | https://habrahabr.ru/company/kmeleon_rus/blog/253671/
+
+Промышленное использование C++ & OpenCV. Часть 1: Постановка задачи и методы реализации | https://habrahabr.ru/post/253645/
+
+Автоматическое выделение ссылок в универсальных приложениях Windows | https://habrahabr.ru/company/edusty/blog/253635/
+
+10 относительно малоизвестных фактов о K-Meleon | https://habrahabr.ru/company/kmeleon_rus/blog/253631/
+
+Бэкенд и «золотые молотки» | https://habrahabr.ru/company/geekfamily/blog/253587/
+
+Пишем клиент для Slack с оповещениями | https://habrahabr.ru/post/253579/
+
+K-Meleon приветствует Хабражителей | https://habrahabr.ru/company/kmeleon_rus/blog/253569/
+
+Новая программа лояльности для разработчиков от Microsoft | https://habrahabr.ru/company/microsoft/blog/253511/
+
+Почему WPF живее всех живых? | https://habrahabr.ru/company/geekfamily/blog/253341/
+
+Online-трансляция открытия технологической экспедиции Microsoft Developer Tour | https://habrahabr.ru/company/microsoft/blog/253305/
+
+Технологическая экспедиция Microsoft начнется 18 марта в Санкт-Петербурге | https://habrahabr.ru/company/payonline/blog/253283/
+
+Создания Windows Runtime компонента на Visual C++ | https://habrahabr.ru/post/252759/
+
+Анонс наших конференций по C# на апрель | https://habrahabr.ru/company/geekfamily/blog/252999/
+
+Особенности работы с файлами в приложениях на разных мобильных платформах | https://habrahabr.ru/company/edusty/blog/252601/
+
+C#: как не «выстрелить себе в ногу» | https://habrahabr.ru/post/252419/
+
+Global Game Jam Minsk 2015: как сделать игру за 48 часов? | https://habrahabr.ru/company/wargaming/blog/252545/
+
+Грабли, .NET, COM и dynamic | https://habrahabr.ru/post/252371/
+
+Мобильное приложение для губернатора и агента по продажам | https://habrahabr.ru/company/eos/blog/252271/
+
+C#: как «выстрелить себе в ногу» | https://habrahabr.ru/post/252357/
+
+Возрастной рейтинг игр магазина Windows понятным языком | https://habrahabr.ru/post/248809/
+
+Сага о E_RPC_DISCONNECT | https://habrahabr.ru/post/252103/
+
+Арабская локализация: окна и рисование | https://habrahabr.ru/company/abbyy/blog/251579/
+
+Ekspozzer — создание панорамы из видео, усреднение видеопотока | https://habrahabr.ru/post/251297/
+
+Бильярдный бот: история создания | https://habrahabr.ru/post/251101/
+
+Использование AppBarButton в Windows 8.1 | https://habrahabr.ru/post/250665/
+
+Application Insights – собираем телеметрию Windows Phone и Windows приложений | https://habrahabr.ru/company/microsoft/blog/250501/
+
+DevCon 2015: анонс ключевых докладчиков пленарной сессии | https://habrahabr.ru/company/microsoft/blog/250049/
+
+«Трудности» перевода приложений для Windows Store | https://habrahabr.ru/post/249543/
+
+DevCon 2015: анонс первых спикеров и докладов конференции | https://habrahabr.ru/company/microsoft/blog/249773/
+
+Microsoft меняет хорошие приложения Windows Store на сертификаты | https://habrahabr.ru/post/249591/
+
+Индикатор раскладки клавиатуры цветом панели задач и заголовка окна в современных версиях Windows при помощи DWM | https://habrahabr.ru/post/248919/
+
+Избавляемся от StandardStyles.xaml в Windows 8.1 | https://habrahabr.ru/post/248813/
+
+WRL и BindableAttribute | https://habrahabr.ru/post/248787/
+
+Мониторинг серверов теперь стал проще с WinLogViewer.com | https://habrahabr.ru/company/cetrinenet/blog/248617/
+
+Наследуемый класс компонента WinRT, написанный с использованием WRL | https://habrahabr.ru/post/248071/
+
+Microsoft Azure повышает цены в России на 44% | https://habrahabr.ru/post/247749/
+
+Манифест инженеров поддержки | https://habrahabr.ru/post/247711/
+
+Стиль WS_EX_LAYERED для дочерних окон в Windows 8 | https://habrahabr.ru/post/247397/
+
+Использование WPP Software Tracing в системном программировании | https://habrahabr.ru/post/247173/
+
+Топ игр и приложений 2014 года в российском Магазине Windows Phone | https://habrahabr.ru/company/microsoftlumia/blog/247119/
+
+С Новым годом! | https://habrahabr.ru/company/microsoft/blog/246967/
+
+OpenGL ES 1.1 в Windows 8 и Windows Phone 8.1 | https://habrahabr.ru/post/246911/
+
+DriverPack на пороге 2015 года: статистика | https://habrahabr.ru/company/driverpack/blog/246721/
+
+Типичные исправления после обновления Windows Store приложений с версии 8 до 8.1 | https://habrahabr.ru/post/246435/
+
+История 6 лет установки драйверов | https://habrahabr.ru/company/driverpack/blog/246297/
+
+PhpStorm в Ubuntu 14 с использованием в Windows 7 через Xming | https://habrahabr.ru/post/246357/
+
+Skype для Android не работает! Как я с этим справился? | https://habrahabr.ru/post/246355/
+
+Знакомьтесь, сервис HockeyApp – ваш помощник для анализа работы мобильных приложений | https://habrahabr.ru/company/microsoft/blog/246169/
+
+Обзор возможностей App Annie для Windows и Windows Phone разработчиков | https://habrahabr.ru/company/microsoft/blog/245845/
+
+Контейнеры для Windows: за 10 лет до Microsoft | https://habrahabr.ru/company/parallels/blog/245533/
+
+Почему студентам нужен анализатор кода CppCat | https://habrahabr.ru/company/pvs-studio/blog/245465/
+
+Научно-исследовательское программное обеспечение в ВУЗах Великобритании | https://habrahabr.ru/post/245171/
+
+Как использовать GamePad в браузере и в приложениях для Windows на HTML и JavaScript? | https://habrahabr.ru/company/microsoft/blog/245405/
+
+WinJS + универсальные приложения. Изучаем навигацию | https://habrahabr.ru/company/microsoft/blog/243163/
+
+Открыта регистрация на конференцию DevCon 2015 | https://habrahabr.ru/company/microsoft/blog/244757/
+
+ЭкаунтоЛогика 1.0 | https://habrahabr.ru/post/244465/
+
+Использование сервиса AdDuplex для универсальных приложений | https://habrahabr.ru/company/microsoft/blog/244621/
+
+Проект Miranda NG получает приз «дикие указатели» (часть вторая) | https://habrahabr.ru/company/pvs-studio/blog/244415/
+
+Обнови приложение и получи комплексный пакет продвижения | https://habrahabr.ru/company/microsoft/blog/244413/
+
+Интервью с Руди Хайном: девелопер бестселлеров делится секретами успеха своих приложений | https://habrahabr.ru/company/microsoftlumia/blog/244379/
+
+Несколько версий PHP под одним Apache на Windows | https://habrahabr.ru/post/244117/
+
+Проект Miranda NG получает приз «дикие указатели» (часть первая) | https://habrahabr.ru/company/pvs-studio/blog/244097/
+
+Как отправлять push-уведомления на Windows Universal app | https://habrahabr.ru/company/edusty/blog/243383/
+
+Портативная дистрибуция .Net приложений с отчетами Microsoft Report Viewer и Oracle Instant Client | https://habrahabr.ru/post/242965/
+
+О том, как память текла, а я не мог понять, почему | https://habrahabr.ru/post/242893/
+
+Использование подхода MVC в WinForms для самых маленьких | https://habrahabr.ru/post/242091/
+
+Ультра-легкий переключатель раскладки клавиатуры | https://habrahabr.ru/post/241656/
+
+Различия Windows Mobile и Windows CE в терминалах сбора данных | https://habrahabr.ru/company/scancode/blog/241585/
+
+GLPI и последние обновления временных зон в Windows | https://habrahabr.ru/post/241215/
+
+В обновлении MS14-060 обнаружен 0day | https://habrahabr.ru/company/eset/blog/241195/
+
+Почему 0x00400000 является базовым адресом по умолчанию для EXE | https://habrahabr.ru/post/240843/
+
+Console Audio Tools — пакет утилит для проверки и конвертации аудиофайлов | https://habrahabr.ru/post/228301/
+

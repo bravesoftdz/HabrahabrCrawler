@@ -1,0 +1,228 @@
+Tcl/Tk – создание расширений/пакетов на базе динамических библиотек | https://habrahabr.ru/post/345574/
+
+Разработка приложений на языках C/C++ с использованием Tcl/Tk | https://habrahabr.ru/post/344526/
+
+Tcl/Tk. Тематические виджеты TTK и дизайнер TKproE-2.20 | https://habrahabr.ru/post/343930/
+
+Криптографические токены PKCS#11: управление и доступ к объектам токена (Продолжение ) | https://habrahabr.ru/post/342834/
+
+Краткий сравнительный обзор GUI решений для работы с Docker | https://habrahabr.ru/company/dockstation/blog/341886/
+
+Vim спустя 15 лет | https://habrahabr.ru/company/mailru/blog/340740/
+
+DockStation. Почему мы решили сделать этот проект | https://habrahabr.ru/company/dockstation/blog/340830/
+
+Пишем простой счётчик уникальных слов на Python с GUI на Tkinter | https://habrahabr.ru/post/340634/
+
+Поиск решения для быстрого создания интерфейсов СУБД | https://habrahabr.ru/post/339870/
+
+Есть ли OpenVPN GUI для Linux? | https://habrahabr.ru/post/338390/
+
+Идеальная ОС: переосмысление операционных систем для десктопа | https://habrahabr.ru/post/337202/
+
+Графическая среда Linux без единого разрыва | https://habrahabr.ru/post/336630/
+
+Python и графический интерфейс для утилит командной строки Network Security Services | https://habrahabr.ru/post/335712/
+
+Характеристики анализатора PVS-Studio на примере EFL Core Libraries, 10-15% ложных срабатываний | https://habrahabr.ru/company/pvs-studio/blog/334554/
+
+Visual Tcl. Разработка графического пользовательского интерфейса для утилит командной строки (Продолжение) | https://habrahabr.ru/post/333742/
+
+Tcl/Tk. Разработка графического пользовательского интерфейса для утилит командной строки | https://habrahabr.ru/post/332924/
+
+Как победить день сурка → Автоматизация тестирования нового интерфейса КОМПАС-3D v17 | https://habrahabr.ru/company/ascon/blog/327266/
+
+Как устроено тестирование у разработчиков КОМПАС-3D | https://habrahabr.ru/company/ascon/blog/327582/
+
+Приглашаем на VeloCPPed Meetup в Тензор | https://habrahabr.ru/company/tensor/blog/327018/
+
+Wayland на замену X Window System | https://habrahabr.ru/post/322580/
+
+Что придет на замену X Window System? | https://habrahabr.ru/post/321470/
+
+Удаленное подключение к сетевому ключу CodeMeter для ARCHICAD | https://habrahabr.ru/company/nanosoft/blog/321208/
+
+Сводная информационная модель здания: практическое занятие по технологии OpenBIM | https://habrahabr.ru/company/nanosoft/blog/320048/
+
+От проектирования до разработки: 10 инструментов, без которых я не могу обойтись | https://habrahabr.ru/post/311012/
+
+Разработка взаимодействия с пользователем мобильных устройств — ключевые принципы | https://habrahabr.ru/post/310956/
+
+Приключения ножниц в цифровом мире (пара строк о DevelStudio) | https://habrahabr.ru/post/308896/
+
+Конечные автоматы в среде динамического моделирования SimInTech. Часть 2 | https://habrahabr.ru/post/307162/
+
+Конечные автоматы в среде динамического моделирования SimInTech | https://habrahabr.ru/post/307090/
+
+Ограничения в использовании умных светодиодов WS2812, WS2801 и подобных в современных проектах декоративной светотехники | https://habrahabr.ru/post/305876/
+
+Ваша основная среда рабочего стола в linux на 2016 год НЕ СЧИТАЯ серверов | https://habrahabr.ru/post/279995/
+
+Изучаем OpenGL ES2 для Android | https://habrahabr.ru/post/278895/
+
+Технология BIM: пример практического междисциплинарного взаимодействия | https://habrahabr.ru/company/nanosoft/blog/278115/
+
+Анализ текущей ситуации на российском BIM-рынке в области гражданского строительства | https://habrahabr.ru/company/nanosoft/blog/276587/
+
+Пара слов о среде разработки Алгоритм 2 | https://habrahabr.ru/post/272683/
+
+Пользуйтесь подсветкой кода | https://habrahabr.ru/post/271841/
+
+Может ли nanoCAD заменить западные САПР-решения? Давайте искать ответ… | https://habrahabr.ru/company/nanosoft/blog/271343/
+
+Индикация уведомлений светодиодом веб-камеры [Часть 2] | https://habrahabr.ru/post/271187/
+
+Еmoji — слово 2015 года | https://habrahabr.ru/company/ua-hosting/blog/271151/
+
+Руководство по поиску работы для MDA-специалиста (и немного про метод анализа иерархий, Xcore и Sirius) | https://habrahabr.ru/company/cit/blog/269291/
+
+История Photoshop | https://habrahabr.ru/post/268575/
+
+Разработка визуального языка моделирования с помощью Sirius | https://habrahabr.ru/company/cit/blog/267335/
+
+Интервью с координатором проекта Code Club по обучению детей 9-11 лет основам программирования | https://habrahabr.ru/company/infopulse/blog/262087/
+
+Подробнее о 3D навигации в nanoCAD Plus 7 | https://habrahabr.ru/company/nanosoft/blog/261241/
+
+HiDPI в Linux | https://habrahabr.ru/post/259495/
+
+Python Meetup 27.02.15: Hy и Toga | https://habrahabr.ru/company/wargaming/blog/253801/
+
+Настройка GUI в линуксе для мониторов с High DPI | https://habrahabr.ru/post/233551/
+
+Моё знакомство с WM Awesome. Часть 3 | https://habrahabr.ru/post/214471/
+
+Моё знакомство с WM Awesome. Часть 2 | https://habrahabr.ru/post/214467/
+
+Моё знакомство с WM Awesome. Часть 1 | https://habrahabr.ru/post/214411/
+
+Enlightenment (e18), ROSA R@ и vs-e vs-e vs-e | https://habrahabr.ru/post/207278/
+
+Цветовая пипетка на JS, 399 символов (не строк) | https://habrahabr.ru/post/202852/
+
+Впечатления от знакомства с Ultimate++ | https://habrahabr.ru/post/194590/
+
+Удобство и простота AirDroid | https://habrahabr.ru/post/194548/
+
+Plasmoid на чистом QML и JavaScript | https://habrahabr.ru/post/185266/
+
+Выбрано предложение по проведению работ над улучшением доступности GNOME | https://habrahabr.ru/post/185078/
+
+Японский старик создает удивительные картины с помощью Excel (Подождите, Excel?) | https://habrahabr.ru/post/179295/
+
+Открыт конкурсный приём заявок на проведение работ по улучшению доступности GNOME | https://habrahabr.ru/post/168531/
+
+nanoCAD 4.5: растровое редактирование | https://habrahabr.ru/company/nanosoft/blog/166157/
+
+Конференция в «Рабочей станции» | https://habrahabr.ru/company/coworkstation/blog/155991/
+
+Sciter — встраиваемый HTML/CSS/scripting engine | https://habrahabr.ru/post/154697/
+
+15 расширений для внешнего оформления браузера под Firefox 13 | https://habrahabr.ru/post/145379/
+
+Графический интерфейс прошивки для беспроводного роутера с ограниченным объемом памяти или дополнительные «Плюшки»? | https://habrahabr.ru/post/144640/
+
+Xfce 4.10 | https://habrahabr.ru/post/143009/
+
+Ищем дистрибутив Linux для планшета | https://habrahabr.ru/post/140918/
+
+GNOME 3.4 | https://habrahabr.ru/post/140913/
+
+Допиливание оболочки Ubuntu до Xfce | https://habrahabr.ru/post/139922/
+
+KDE 15 Лет | https://habrahabr.ru/post/130460/
+
+Вышел KDE 4.7 для Windows | https://habrahabr.ru/post/127668/
+
+Встречаем KDE 4.7 | https://habrahabr.ru/post/125086/
+
+Plasma Active для портативных устройств | https://habrahabr.ru/post/117439/
+
+Первая индийская конференция, посвященная KDE | https://habrahabr.ru/post/115508/
+
+Релиз KDE SC 4.6 | https://habrahabr.ru/post/112580/
+
+Выпущен Amarok 2.4 «Slipstream» | https://habrahabr.ru/post/111988/
+
+Oxygen-gtk. Единый вид приложений GTK и Qt | https://habrahabr.ru/post/109930/
+
+Релиз KDE SC 4.5 | https://habrahabr.ru/post/101435/
+
+k3b 2.0.0 — релиз | https://habrahabr.ru/post/97620/
+
+Вышла новая KDE Software Compilation 4.5 beta 1 | https://habrahabr.ru/post/94726/
+
+Проект KDE объявил конкурс по разработке виджетов на языке Javascript | https://habrahabr.ru/post/84510/
+
+Вышел KDE 4.4 | https://habrahabr.ru/post/83646/
+
+www.kde.org обновили к выходу KDE SC 4.4 | https://habrahabr.ru/post/83559/
+
+k3b 2 перешел в состояние беты | https://habrahabr.ru/post/82779/
+
+Разработка приложений с Akonadi в KDE4 | https://habrahabr.ru/post/81336/
+
+Релиз Amarok Maya Gold 2.2.2 | https://habrahabr.ru/post/80628/
+
+Презентация некоторых возможностей KDE SC 4.4 | https://habrahabr.ru/post/80013/
+
+Комрады! Вы все знаете, что K Desktop Environment больше нет. Как теперь называть этот блог? | https://habrahabr.ru/post/77405/
+
+KDE Software Compilation 4.4 Beta1 Released | https://habrahabr.ru/post/77375/
+
+Сделаем шрифты в KDE 4 красивыми | https://habrahabr.ru/post/77122/
+
+KDE 4.3.4 | https://habrahabr.ru/post/76971/
+
+KDE умер, да здравствует KDE | https://habrahabr.ru/post/76520/
+
+KOffice 2.1 — Release | https://habrahabr.ru/post/76316/
+
+Использование Kontact и приложений Google | https://habrahabr.ru/post/72625/
+
+KDE 4.3.0 released today! | https://habrahabr.ru/post/66220/
+
+Превью KDE 4.3 | https://habrahabr.ru/post/64848/
+
+Доступен для тестирования первый релиз кандидат KDE 4.3 | https://habrahabr.ru/post/63390/
+
+Столпы KDE4. Akonadi | https://habrahabr.ru/post/61013/
+
+KOffice 2 — Release! | https://habrahabr.ru/post/60721/
+
+Новинка KDE4: NEPOMUK | https://habrahabr.ru/post/59767/
+
+Столпы KDE4: Plasma | https://habrahabr.ru/post/59733/
+
+Первая бета KDE 4.3 | https://habrahabr.ru/post/59479/
+
+Релиз KDE 4.2.3 | https://habrahabr.ru/post/59425/
+
+Эффективное управление окнами в KWin, или управляем рабочими столами | https://habrahabr.ru/post/56489/
+
+Столпы KDE4. Decibel | https://habrahabr.ru/post/55567/
+
+Пишем для KDE4: Solid | https://habrahabr.ru/post/54616/
+
+Столпы KDE4. Phonon. | https://habrahabr.ru/post/54627/
+
+Запуск KDE 4 под Win | https://habrahabr.ru/post/54535/
+
+KDE 4.2 RC на LiveCD | https://habrahabr.ru/post/49347/
+
+Вышел Amarok 2.0 | https://habrahabr.ru/post/46680/
+
+Выход amarok 2.0 rc1 | https://habrahabr.ru/post/45531/
+
+Пользуемся Amarok под Windows | https://habrahabr.ru/post/44705/
+
+Настройка аккаунта GTalk в Kopete (KDE4) | https://habrahabr.ru/post/39929/
+
+KDE Utilities. Новый сайт и обновления модуля | https://habrahabr.ru/post/31669/
+
+В ожидании KDE 4.1 | https://habrahabr.ru/post/30001/
+
+Вышел KDE4.1 RC1 | https://habrahabr.ru/post/29123/
+
+Релиз KDE 4.0 | https://habrahabr.ru/post/18574/
+

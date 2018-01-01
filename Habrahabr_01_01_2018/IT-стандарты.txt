@@ -1,0 +1,1230 @@
+Как изменились интерфейсы торговых весов | https://habrahabr.ru/company/pilot/blog/345128/
+
+Описание бизнес процессов. Использовать осторожно | https://habrahabr.ru/company/trinion/blog/344842/
+
+HyperRAM: использование микросхемы с интерфейсом памяти HyperBus | https://habrahabr.ru/post/344966/
+
+FAQ по теме интеграции с ЕСИА | https://habrahabr.ru/company/cloud4y/blog/344964/
+
+RFC для слабаков или история одного расследования | https://habrahabr.ru/post/344872/
+
+Битва за сетевой нейтралитет: история вопроса | https://habrahabr.ru/company/vasexperts/blog/344122/
+
+Как доставить интернет в отдаленные уголки планеты: проекты GCI, Google и Facebook | https://habrahabr.ru/company/vasexperts/blog/344120/
+
+GDPR — новые правила обработки персональных данных в Европе для международного IT-рынка | https://habrahabr.ru/company/digitalrightscenter/blog/344064/
+
+7 лет работы, 2 млн отрезов и 150 километров чеков: еще немного о надежности железа в современных магазинах | https://habrahabr.ru/company/pilot/blog/344032/
+
+Tcl/Tk. Тематические виджеты TTK и дизайнер TKproE-2.20 | https://habrahabr.ru/post/343930/
+
+«Обошли Тьюринга»: новый подход к распознаванию капчи | https://habrahabr.ru/company/it-grad/blog/343206/
+
+Кратко о методологиях разработки ПО: Waterfall, Lean и Feature Driven Development | https://habrahabr.ru/company/it-guild/blog/341932/
+
+Физически неклонируемые функции: защита электроники от нелегального копирования | https://habrahabr.ru/post/343386/
+
+«Punch It, Chewie»: смоделирована работа 56-кубитного квантового компьютера | https://habrahabr.ru/company/it-grad/blog/343204/
+
+«Как близнецы»: 3 пары похожих терминов ITIL | https://habrahabr.ru/company/it-guild/blog/341928/
+
+Вторая волна, накрывшая нас. Стандарт, который ждали | https://habrahabr.ru/company/pilot/blog/343004/
+
+Ещё один шажок к C++20. Встреча в Альбукерке | https://habrahabr.ru/company/yandex/blog/342354/
+
+ENOG'14 — влияние блокировок контента на инфраструктуру интернета | https://habrahabr.ru/company/qrator/blog/342846/
+
+Нужен ли метод OPTIONS в REST-сервисах? | https://habrahabr.ru/post/342432/
+
+«Гибкая разработка»: кратко о методологиях Agile | https://habrahabr.ru/company/it-guild/blog/341924/
+
+Немного о VPN: протоколы для удаленного доступа | https://habrahabr.ru/company/vasexperts/blog/341916/
+
+Роли, их моделирование в ИС | https://habrahabr.ru/post/342188/
+
+IBM Research анонсировали 50-кубитный квантовый компьютер | https://habrahabr.ru/company/it-grad/blog/341920/
+
+Внедрение IdM. Часть 3.1. Понятно, что IdM нужен – что дальше? Цели, задачи, заинтересованные стороны | https://habrahabr.ru/company/solarsecurity/blog/341796/
+
+ONLYOFFICE против Collabora: почему мы уверены, что наше решение лучше | https://habrahabr.ru/company/teamlab/blog/341522/
+
+Руководство по alt-text от слабовидящего веб-разработчика | https://habrahabr.ru/post/341810/
+
+ITSM жил, ITSM жив, ITSM будет жить | https://habrahabr.ru/company/alloy_software/blog/341514/
+
+TLS 1.2 и новый ГОСТ | https://habrahabr.ru/post/339978/
+
+6 трендов ИТ-инфраструктуры: прогноз на 2018 год | https://habrahabr.ru/company/it-grad/blog/341374/
+
+Создан первый молекулярный компьютер на синтетических полимерах | https://habrahabr.ru/company/it-grad/blog/341272/
+
+Как правильно оформить Open Source проект | https://habrahabr.ru/post/341166/
+
+Что такое DFD (диаграммы потоков данных) | https://habrahabr.ru/company/trinion/blog/340064/
+
+Джозеф «Лик» Ликлайдер: «Межгалактическая компьютерная сеть» (1963 год) | https://habrahabr.ru/post/338092/
+
+Тотальное истощение, или есть ли жизнь после IPv4 | https://habrahabr.ru/company/vasexperts/blog/339958/
+
+Моделирование объектов, функций и операций. Мереологические отношения между объектами данного типа | https://habrahabr.ru/post/339788/
+
+Криптоалгоритмы. Классификация с точки зрения количества ключей | https://habrahabr.ru/post/336578/
+
+На шаг ближе к С++20. Итоги встречи в Торонто | https://habrahabr.ru/company/yandex/blog/336264/
+
+Числа — доклад Дугласа Крокфорда о системах счисления в жизни и в программировании | https://habrahabr.ru/company/jugru/blog/338832/
+
+Квантовый компьютер IBM научили моделировать сложные химические элементы | https://habrahabr.ru/company/it-grad/blog/338616/
+
+Первый суперкомпьютер DGX-1 на базе Tesla V100 применят в медицине | https://habrahabr.ru/company/it-grad/blog/338212/
+
+Внедрение code style в существующий проект | https://habrahabr.ru/company/zerotech/blog/338344/
+
+Как собрать Ceylon в контейнере, если вашему контейнеровозу перекрыли канал | https://habrahabr.ru/post/338134/
+
+Обмен информацией о кибер-угрозах в реальном времени: новая платформа от ServiceNow | https://habrahabr.ru/company/it-guild/blog/337826/
+
+AMD готовится потеснить Intel на рынке серверных решений | https://habrahabr.ru/company/it-grad/blog/337630/
+
+Управление сертификатами с помощью протокола ACME | https://habrahabr.ru/post/337592/
+
+«Дела осадные»: Как компании построить надежную крепость для защиты облака | https://habrahabr.ru/company/1cloud/blog/337428/
+
+Что за чёрт, Python | https://habrahabr.ru/company/mailru/blog/337364/
+
+Браузер браузеру рознь, или Будни отдела корпоративной инфраструктуры | https://habrahabr.ru/company/lanit/blog/337120/
+
+Звоним бесплатно, используя блокчейн-сервис ENUMER | https://habrahabr.ru/company/emercoin/blog/337034/
+
+Wi-Fi или iBeacon? Или хорошо, когда возможности технологии совпадают с желаемым результатом | https://habrahabr.ru/company/cisco/blog/337130/
+
+Как узнать свой внешний IP из программы | https://habrahabr.ru/company/emercoin/blog/335458/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 6. Многомерность | https://habrahabr.ru/post/336818/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 5. Новые измерения | https://habrahabr.ru/post/336506/
+
+Типы моделей | https://habrahabr.ru/post/336272/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 4. Как облегчить жизнь | https://habrahabr.ru/post/336230/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 3. Вычисления и валидация | https://habrahabr.ru/post/336114/
+
+«Каждому по кванту»: Станут ли квантовые вычисления коммерческим продуктом? | https://habrahabr.ru/company/1cloud/blog/335890/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 2. Совершенствуем результат | https://habrahabr.ru/post/335788/
+
+Что нового в PHP 7.2? | https://habrahabr.ru/company/avito/blog/335584/
+
+Python и графический интерфейс для утилит командной строки Network Security Services | https://habrahabr.ru/post/335712/
+
+Что за черт, Javascript | https://habrahabr.ru/company/mailru/blog/335292/
+
+Где лучше всего жить и работать разработчику | https://habrahabr.ru/company/netologyru/blog/335284/
+
+Как выбрать правильный лэптоп для программирования | https://habrahabr.ru/company/alconost/blog/335298/
+
+XBRL: просто о сложном − Глава 6. Погружение в XBRL − Часть 1. Приступаем | https://habrahabr.ru/post/334356/
+
+XBRL: просто о сложном − Глава 5. Открывая новые измерения | https://habrahabr.ru/post/334252/
+
+Есть ли альтернатива MS Windows, IE и CSP при доступе в личные кабинеты порталов Госзакупок, ФНС России и Госуслуг | https://habrahabr.ru/post/334162/
+
+XBRL: просто о сложном − Глава 4. Отчет XBRL | https://habrahabr.ru/post/333896/
+
+XBRL: просто о сложном − Глава 3. Анатомия таксономии | https://habrahabr.ru/post/333738/
+
+Google планирует представить облачный сервис для квантовых вычислений | https://habrahabr.ru/company/it-grad/blog/333688/
+
+XBRL: просто о сложном − Глава 2. Что такое XBRL? | https://habrahabr.ru/post/333656/
+
+XBRL: Просто о сложном − Глава 1. Введение | https://habrahabr.ru/post/333636/
+
+Гибридный куб памяти (HMC): что это такое и как его подключить к FPGA | https://habrahabr.ru/post/333556/
+
+«Как это работает»: Классификация ЦОД Tier | https://habrahabr.ru/company/it-grad/blog/332864/
+
+Дорога к С++20 | https://habrahabr.ru/post/333414/
+
+Как запутать аналитика — 5. Понятийный аппарат | https://habrahabr.ru/post/332822/
+
+Как правильно использовать переменные в препроцессорах LESS и SASS | https://habrahabr.ru/post/332382/
+
+Как запутать аналитика — 4. Вероятность и точность | https://habrahabr.ru/post/332668/
+
+Как запутать аналитика. Часть третья. Глаголы и числительные | https://habrahabr.ru/post/332506/
+
+Bitfury Group провела первую успешную multi-hop-транзакцию в сети Lightning Network | https://habrahabr.ru/company/bitfury/blog/332436/
+
+AMD Strikes Back: Доля AMD на рынке CPU выросла до 31% | https://habrahabr.ru/company/it-grad/blog/332394/
+
+Как запутать аналитика. Часть вторая: что такое моделирование предметной области? | https://habrahabr.ru/post/332064/
+
+Знакомство с методологией ITIL в ITSM | https://habrahabr.ru/company/it-guild/blog/331376/
+
+Как запутать аналитика. Часть первая | https://habrahabr.ru/post/331882/
+
+Дискриминация котов: веб-трекинг через невидимые картинки | https://habrahabr.ru/post/326070/
+
+Зачем нужен Kubernetes и почему он больше, чем PaaS? | https://habrahabr.ru/company/flant/blog/327338/
+
+Компетентность не имеет пола: о гендерном балансе и тренде развития женского кодинга | https://habrahabr.ru/company/efs/blog/331194/
+
+RESTful API: мы всё делаем неправильно | https://habrahabr.ru/post/331064/
+
+Microsoft Azure Media Services — обзор основных возможностей платформы | https://habrahabr.ru/company/muk/blog/331020/
+
+Хакеры использовали функцию CPU Intel Serial-over-LAN для обхода фаервола | https://habrahabr.ru/company/it-grad/blog/330572/
+
+Как масштабировать биткойн-блокчейн | https://habrahabr.ru/company/bitfury/blog/330726/
+
+Понятия: множество, тип, атрибут | https://habrahabr.ru/post/330196/
+
+Как начать работать с блокчейном Emer | https://habrahabr.ru/company/emercoin/blog/329632/
+
+Онлайн курс «Функциональная безопасность компьютерных систем» | https://habrahabr.ru/post/329598/
+
+Моделирование конструкций. Требования к моделлеру | https://habrahabr.ru/post/329576/
+
+ArcaOS 5.0 — новая версия OS/2 стала доступна широкой публике | https://habrahabr.ru/company/vasexperts/blog/329200/
+
+IBM открыла доступ к новому 16-кубитному квантовому процессору | https://habrahabr.ru/company/it-grad/blog/328590/
+
+Как давать определения? | https://habrahabr.ru/post/328228/
+
+Понятие системы и конструкции. Их место в проектировании информационных систем | https://habrahabr.ru/post/328192/
+
+Функциональная безопасность, часть 7 из 7. Методы обеспечения информационной и функциональной безопасности | https://habrahabr.ru/post/327910/
+
+MP3 окончательно переходит в общественное достояние | https://habrahabr.ru/post/327842/
+
+Классификация конструкций: примеры и заблуждения | https://habrahabr.ru/post/327688/
+
+Как выбрать поставщика услуг информационной безопасности | https://habrahabr.ru/company/qrator/blog/327326/
+
+Всё плохо | https://habrahabr.ru/company/mailru/blog/327264/
+
+Pthreads: Потоки в русле POSIX | https://habrahabr.ru/post/326138/
+
+Как я писал предложение к стандарту С++ | https://habrahabr.ru/company/yandex/blog/327080/
+
+…And Justice for All | https://habrahabr.ru/post/327000/
+
+МТС и Ericsson тестируют 5G в движении на стадионе «Спартак» – ОНЛАЙН-трансляция | https://habrahabr.ru/company/ru_mts/blog/326910/
+
+Mission critical communication и при чем тут NFV? | https://habrahabr.ru/company/billing/blog/326500/
+
+Безопасность OAuth в эпоху мобильных приложений, или о чем молчит интернет | https://habrahabr.ru/post/320744/
+
+Раскрываем тему WebAssembly с Бренданом Айком | https://habrahabr.ru/post/326276/
+
+Все новое — это хорошо забытое старое | https://habrahabr.ru/post/326046/
+
+А вы знаете скорость загрузки вашего сайта с мобильных устройств? Самое время разобраться | https://habrahabr.ru/company/hosting-cafe/blog/324504/
+
+Непрерывная интеграция с помощью Drone CI, Docker и Ansible | https://habrahabr.ru/post/324588/
+
+IBM Q – разработка квантового компьютера, работающего через облако | https://habrahabr.ru/company/ibm/blog/324576/
+
+Совет по открытым данным: планы Рослесхоза и Роспатента и раскрытие картографических данных | https://habrahabr.ru/company/infoculture/blog/324554/
+
+Что приняли в C++17, фотография Бьярне Страуструпа и опрос для C++20 | https://habrahabr.ru/company/yandex/blog/323972/
+
+Функциональная безопасность, часть 6 из 7. Оценивание показателей функциональной безопасности и надежности | https://habrahabr.ru/post/323776/
+
+Все программисты попадают в #ТАЙ | https://habrahabr.ru/company/netologyru/blog/323928/
+
+Wayland на замену X Window System | https://habrahabr.ru/post/322580/
+
+Сравнение производительности процессоров Intel разных поколений | https://habrahabr.ru/company/stss/blog/323016/
+
+Почему нельзя отправлять UDP-пакеты через браузер? | https://habrahabr.ru/post/322690/
+
+Технология JPEG: анализ пространства решений | https://habrahabr.ru/post/322554/
+
+Функциональная безопасность, часть 5 из 7. Жизненный цикл информационной и функциональной безопасности | https://habrahabr.ru/post/322428/
+
+Система BBR: регулирование заторов непосредственно по заторам | https://habrahabr.ru/post/322430/
+
+Полная автоматизация «development» среды с помощью docker-compose | https://habrahabr.ru/post/322440/
+
+История об ужасах стандартов кодирования | https://habrahabr.ru/company/infopulse/blog/322418/
+
+«Умная пыль»: как устроен самый маленький компьютер Michigan Micro Mote | https://habrahabr.ru/company/it-grad/blog/321130/
+
+Многократное использование кода в микросервисной архитектуре — на примере SPRING BOOT | https://habrahabr.ru/company/piter/blog/322102/
+
+Вот что квант животворящий делает | https://habrahabr.ru/company/parallels/blog/321900/
+
+«Нейроморфные чипы»: иной взгляд на машинное обучение | https://habrahabr.ru/company/1cloud/blog/321870/
+
+Инфраструктура простой электронной подписи. Часть 4: Практические аспекты реализации | https://habrahabr.ru/post/320936/
+
+Free SSL для CP Vesta — легко. И SSL для Laravel | https://habrahabr.ru/post/320824/
+
+Web Standards Days: вечные ценности фронтенда | https://habrahabr.ru/post/320792/
+
+SystemJS 0.20 — Совмещая с браузерными модулями | https://habrahabr.ru/post/320462/
+
+Angular 2: почему на TypeScript? | https://habrahabr.ru/company/piter/blog/320064/
+
+Эволюция CSS: от CSS, SASS, BEM и CSS–модулей до styled-components | https://habrahabr.ru/company/mailru/blog/319956/
+
+MIT запустил Moral Machine: эксперимент по изучению того, как должны поступать беспилотные машины | https://habrahabr.ru/post/319728/
+
+Строгое определение понятий: объект, состояние, событие, бизнес-операция и бизнес- функция | https://habrahabr.ru/post/319442/
+
+Инфраструктура простой электронной подписи. Часть 3: Системы обработки персональных данных | https://habrahabr.ru/post/319128/
+
+Инфраструктура простой электронной подписи. Часть 2: Моделирование целевой системы | https://habrahabr.ru/post/319034/
+
+Трудности в моделировании операций стандартными способами. Моделирование 4-объектов, постановка задачи | https://habrahabr.ru/post/319032/
+
+Инфраструктура простой электронной подписи. Часть 1: Моделирование использующих систем | https://habrahabr.ru/post/319006/
+
+Постановка задачи: Объекты учета и моделирование отношений между ними | https://habrahabr.ru/post/318924/
+
+Трудности на пути создания «универсальной» метамодели для моделирования предметных областей | https://habrahabr.ru/post/318874/
+
+Второе пришествие ГОСТ 28147-89: Честные тесты | https://habrahabr.ru/post/318768/
+
+Компьютеры Советской России с троичной сбалансированной системой счисления | https://habrahabr.ru/post/318468/
+
+Быть настоящим и писать код VS перебирать и казаться | https://habrahabr.ru/post/318190/
+
+Прототип RFC HTTP-кодов состояния для ошибок разработчиков (диапазон 7XX) | https://habrahabr.ru/post/318054/
+
+Экзотичные заголовки HTTP | https://habrahabr.ru/post/317720/
+
+Я отказался от PGP | https://habrahabr.ru/post/317630/
+
+Какой бывает HTML5-стриминг (и почему mp4-стриминга не существует) | https://habrahabr.ru/company/erlyvideo/blog/317494/
+
+«Эхо прошлых лет»: Как решается вопрос недостатка адресов IPv4 | https://habrahabr.ru/company/vasexperts/blog/316272/
+
+Облака как любовь | https://habrahabr.ru/company/billing/blog/317428/
+
+«Пятничный формат»: Что случится, когда закон Мура перестанет действовать | https://habrahabr.ru/company/1cloud/blog/317204/
+
+Зачем проводить хакатон в стриптиз-клубе? | https://habrahabr.ru/post/317128/
+
+С++17 и С++2a: новости со встречи ISO в Иссакуа | https://habrahabr.ru/company/yandex/blog/315606/
+
+SDN & NFV и при чем тут Облака | https://habrahabr.ru/company/billing/blog/316324/
+
+Информационная безопасность АСУ ТП: Дон Кихот в эру кибероружия | https://habrahabr.ru/post/316184/
+
+«Вечная флешка»: как создать надежный носитель, который сохранит данные на тысячи лет | https://habrahabr.ru/company/fpi_russia/blog/315886/
+
+Так когда же умрет электронная почта? | https://habrahabr.ru/company/pechkin/blog/315834/
+
+Тестируем бесшовный WiFi с помощью голосового трафика | https://habrahabr.ru/post/315788/
+
+Протокол QUIC: переход Web от TCP к UDP | https://habrahabr.ru/company/infopulse/blog/315172/
+
+Log in или Log on? Front-end или Frontend? Продолжаем разбираться | https://habrahabr.ru/post/315166/
+
+Заменяем тестирование алгоритмов тестированием вносимых эффектов | https://habrahabr.ru/post/315114/
+
+NIST рекомендует: строительные блоки для описания IoT | https://habrahabr.ru/post/314956/
+
+Login или Log in? | https://habrahabr.ru/post/313774/
+
+Функциональная безопасность, часть 4 из 7. Процессы управления и оценивания | https://habrahabr.ru/post/312718/
+
+ONLYOFFICE или Libre: о битве форматов и совместном редактировании | https://habrahabr.ru/company/teamlab/blog/312460/
+
+Подводные камни Bash | https://habrahabr.ru/company/mailru/blog/311762/
+
+«Боевая алгебра» или криптография «по ГОСТу» | https://habrahabr.ru/post/311456/
+
+Функциональная безопасность, Часть 3 из 7. МЭК 61508: Систематичная случайность или случайная систематичность? | https://habrahabr.ru/post/310836/
+
+«Операционные системы: зачем они инженеру» | https://habrahabr.ru/post/310122/
+
+Функциональная безопасность, Часть 2 из 7. МЭК 61508: кем быть, Шерлоком Холмсом или Дата Туташхиа? | https://habrahabr.ru/post/309636/
+
+Недоступный веб: как мы развели такой бардак | https://habrahabr.ru/post/309076/
+
+О пользе стандартизации | https://habrahabr.ru/post/309060/
+
+HTTP/2 уже здесь но спрайт-сеты ещё не умерли | https://habrahabr.ru/post/308862/
+
+Правила внедрения TDD в старом проекте | https://habrahabr.ru/post/306962/
+
+Путь к HTTP/2 | https://habrahabr.ru/post/308846/
+
+Функциональная безопасность – старшая сестра информационной безопасности, Часть 1 из 7 | https://habrahabr.ru/post/308634/
+
+Представляем RAIL: модель оценки производительности сайта | https://habrahabr.ru/company/webo/blog/308026/
+
+Стандарты архитектуры для Internet of Things | https://habrahabr.ru/post/307668/
+
+Для квантового компьютера IBM опубликованы первые программы | https://habrahabr.ru/company/ibm/blog/307172/
+
+Прощай, объектно-ориентированное программирование | https://habrahabr.ru/company/mailru/blog/307168/
+
+Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/307064/
+
+Последние новости о развитии C++ | https://habrahabr.ru/company/yandex/blog/304510/
+
+«Веб — это самая сложная платформа в истории человечества» — интервью с Вадимом Макеевым из Opera | https://habrahabr.ru/company/jugru/blog/305394/
+
+Как bot-to-bot в ближайшее время может заменить API-интерфейсы | https://habrahabr.ru/company/ua-hosting/blog/262539/
+
+Об относительной яркости, или насколько живучим бывает легаси | https://habrahabr.ru/post/304210/
+
+Построение цепочки доверия в PKI, так ли все просто | https://habrahabr.ru/post/304220/
+
+Московская биржа стала первой российской финансовой организацией — участником международного блокчейн консорциума | https://habrahabr.ru/company/moex/blog/303874/
+
+Суровый рынок веб-разработки в России или зачем нам базы данных, постоянное хранилище и FTP | https://habrahabr.ru/company/dokkur/blog/303388/
+
+«Привет, мир!» как инструмент для оценки навыков программирования | https://habrahabr.ru/post/303194/
+
+OAuth-авторизация в Mozilla Thunderbird: от зарождения до релиза | https://habrahabr.ru/company/mailru/blog/282319/
+
+Марсоход Opportunity более чем в 40 раз превысил запланированный срок службы | https://habrahabr.ru/post/302560/
+
+IBM представляет первую в мире память PCM с записью трёх битов в ячейку | https://habrahabr.ru/company/ibm/blog/302550/
+
+Интеграция системы мониторинга Vutlan SC8100 с NMS Cacti | https://habrahabr.ru/post/302368/
+
+Почему мы пишем и храним код в текстовых файлах? | https://habrahabr.ru/company/infopulse/blog/302146/
+
+Удивительный компьютер: История ENIAC | https://habrahabr.ru/company/1cloud/blog/301918/
+
+Сотрудники Яндекса будут представлять Россию в комитете по стандартизации C++ | https://habrahabr.ru/company/yandex/blog/301514/
+
+Мой URL — это не ваш URL | https://habrahabr.ru/post/301516/
+
+Спасём Firefox | https://habrahabr.ru/post/283456/
+
+Разговор о MVC и архитектуре веб-приложений | https://habrahabr.ru/post/283096/
+
+Как дата-центры меняются прямо сейчас: Энергоэффективность, хранение данных и «облака» | https://habrahabr.ru/company/1cloud/blog/283044/
+
+О выработке неперебираемых ключей на основе перебираемых паролей | https://habrahabr.ru/post/282043/
+
+О координации изменений во временных зонах | https://habrahabr.ru/post/282550/
+
+Идеальная производительность протокола HTTP | https://habrahabr.ru/company/infopulse/blog/282517/
+
+Какие факторы влияют на производительность систем хранения и как? | https://habrahabr.ru/company/ua-hosting/blog/282469/
+
+Серверный шкаф с интеллектуальным активным шумоподавлением | https://habrahabr.ru/company/stss/blog/279245/
+
+Манифест грядущих перемен сквозь призму рынка | https://habrahabr.ru/post/281731/
+
+Site Reliability Engineering: антология мудрости Google или новое слово в DevOps | https://habrahabr.ru/company/piter/blog/281673/
+
+Роберт Меткалф: папа EtherNet, отличный инженер и фиговый предсказатель (но за слова ответил) | https://habrahabr.ru/company/edison/blog/277827/
+
+Невозможно проверить адрес e-mail на допустимость с помощью регулярных выражений | https://habrahabr.ru/post/280798/
+
+10 онлайн-инструментов для проверки SSL, TLS и последних уязвимостей | https://habrahabr.ru/company/hosting-cafe/blog/280442/
+
+C++17, который мы потеряли | https://habrahabr.ru/company/infopulse/blog/279927/
+
+Дуглас Энгельбарт: «The Mother of All Demos». Часть 1 | https://habrahabr.ru/company/edison/blog/279809/
+
+Заблуждения программистов о телефонных номерах | https://habrahabr.ru/post/279751/
+
+За что могут высечь плетьми в цифровую эпоху? Как GitHub соблюдает DMCA, RFC 7725 и что за HTTP 451? | https://habrahabr.ru/post/279639/
+
+IBM представила новый мейнфрейм z13s для гибридных облаков | https://habrahabr.ru/company/ibm/blog/279571/
+
+Вэнивар Буш: «Как мы можем мыслить» (As We May Think) | https://habrahabr.ru/company/edison/blog/279241/
+
+Джозеф «Lick» Ликлайдер: «Интергалактическая компьютерная сеть» и «Симбиоз человека и компьютера» | https://habrahabr.ru/company/edison/blog/277903/
+
+PUE празднует 10-ти летний юбилей. Какой грустный подарок ему подготовило ИТ-сообщество? | https://habrahabr.ru/company/ua-hosting/blog/279053/
+
+Ральф Баер: «Видеоигры, я ваш отец!» | https://habrahabr.ru/company/edison/blog/278447/
+
+Великолепная шестерка: девушки, которые термоядерный взрыв рассчитывали | https://habrahabr.ru/company/edison/blog/278741/
+
+2 марта. «Позвоните Джейк». История NIC и RFC | https://habrahabr.ru/company/edison/blog/277913/
+
+1 марта — день рождения персонального компьютера. Xerox Alto | https://habrahabr.ru/company/edison/blog/277803/
+
+ECMA-130 (Compact Disc) на пальцах | https://habrahabr.ru/post/269311/
+
+Leona Philpot — «подводный» способ охлаждения дата-центра от Microsoft | https://habrahabr.ru/company/ua-hosting/blog/277703/
+
+Баллада о SharePoint | https://habrahabr.ru/post/277191/
+
+EDI стандарт. Технический обзор | https://habrahabr.ru/post/276925/
+
+Когнитивные вычисления – работа быстрее мысли | https://habrahabr.ru/company/ibm/blog/276855/
+
+Мультифункциональное приложение — все ли функции нужны вашей программе? | https://habrahabr.ru/company/appodeal/blog/267373/
+
+ИТ-инфраструктура, ИБ и телеком: Мероприятия в 2016-м | https://habrahabr.ru/company/it-grad/blog/276293/
+
+JSON Schema и ее использование для валидация JSON-документов в C++ | https://habrahabr.ru/post/276305/
+
+Oracle прекращает выпуск браузерного плагина Java | https://habrahabr.ru/post/276071/
+
+Формат BPG может заменить анимированный GIF и не только его | https://habrahabr.ru/post/276033/
+
+Лицензирование программного обеспечения | https://habrahabr.ru/post/275995/
+
+Дата-центры без людей как новый тренд | https://habrahabr.ru/post/275921/
+
+Can Kingdom и надёжные системы | https://habrahabr.ru/post/275895/
+
+Project Abacus от Google: биометрия вместо пароля | https://habrahabr.ru/post/275649/
+
+Почему до сих пор повсеместно не используется HTTPS? | https://habrahabr.ru/post/275539/
+
+Пять причин не использовать своих сотрудников для перевода и локализации | https://habrahabr.ru/company/alconost/blog/275129/
+
+Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель) | https://habrahabr.ru/company/cit/blog/273449/
+
+HL7 C-CDA Rendering Tool Challenge (конкурс от HL7) | https://habrahabr.ru/post/274977/
+
+Взлеты и падения SVG | https://habrahabr.ru/company/payonline/blog/274035/
+
+Тестируем российскую серверную платформу E-Class от «Т-Платформы» | https://habrahabr.ru/company/stss/blog/273247/
+
+Как сделать пароль надежным и запоминающимся | https://habrahabr.ru/company/ua-hosting/blog/273373/
+
+Шорткаты в JavaScript | https://habrahabr.ru/company/mailru/blog/273267/
+
+Digital Data Layer — сердце вашей tag-management системы | https://habrahabr.ru/post/273307/
+
+Bizagi. Описание. Пример | https://habrahabr.ru/company/trinion/blog/273017/
+
+Как выводить иностранные приложения на российский рынок | https://habrahabr.ru/company/ua-hosting/blog/272723/
+
+Отечественный производитель серверов = самосбор? | https://habrahabr.ru/company/stss/blog/271481/
+
+А вы получили a-Mail?.. Бухгалтерская почта | https://habrahabr.ru/post/272035/
+
+Любовь или брак по расчету с Dependency Injection? | https://habrahabr.ru/post/271853/
+
+Чем отличаются SSL-сертификаты от Namecheap? Шифрование, проверка и доверие | https://habrahabr.ru/company/hosting-cafe/blog/271521/
+
+Перевод серверных ферм на более прогрессивные и энергоэффективные технологии охлаждения серверов | https://habrahabr.ru/company/ua-hosting/blog/271289/
+
+Еmoji — слово 2015 года | https://habrahabr.ru/company/ua-hosting/blog/271151/
+
+Солнечная энергия для дата-центров | https://habrahabr.ru/company/ua-hosting/blog/271075/
+
+То, что Stable прописал | https://habrahabr.ru/company/smart_soft/blog/269677/
+
+Холодное совершенство: новости на рынке систем охлаждения ЦОД | https://habrahabr.ru/company/ua-hosting/blog/269697/
+
+Уведомления о конфиденциальности в электронной почте: не очень хорошая идея | https://habrahabr.ru/post/268623/
+
+Робоночь -2015 | https://habrahabr.ru/post/268577/
+
+Безопасность в «облаках» | https://habrahabr.ru/company/inoventica/blog/267981/
+
+Анонс C++ Core Guidelines | https://habrahabr.ru/post/267413/
+
+Перебор ссылок — получение данных о клиентах Portmone и Фидобанка | https://habrahabr.ru/post/267121/
+
+ФЗ-188: кому скоро категорически нельзя будет покупать иностранное ПО, если есть российский аналог | https://habrahabr.ru/company/croc/blog/267027/
+
+Путь IT-менеджера. Управление проектной средой и IT-проектами | https://habrahabr.ru/company/piter/blog/265861/
+
+Тинькофф банк скомпрометировал выписки по счетам клиентов? | https://habrahabr.ru/post/265365/
+
+Как не нужно строить сети | https://habrahabr.ru/post/264573/
+
+Отъявленный программист: лайфхакинг из первых рук | https://habrahabr.ru/company/piter/blog/264517/
+
+Современные RAID контроллеры Adaptec от А до Я. Часть 2 | https://habrahabr.ru/company/trinity/blog/264185/
+
+Уязвимости систем безопасности Министерства Обороны, ФСБ, ФСИН, АЭС, метрополитена и федеральных автодорог | https://habrahabr.ru/post/262535/
+
+Современные RAID контроллеры Adaptec от А до Я. Часть 1 | https://habrahabr.ru/company/trinity/blog/263797/
+
+Когда Chef и Puppet — не решение. Часть 1 | https://habrahabr.ru/post/263595/
+
+Конец эры айтишников | https://habrahabr.ru/company/parallels/blog/263409/
+
+Как правильно организовать распределенное проектирование БД? | https://habrahabr.ru/post/263053/
+
+Про модель, логику, ООП, разработку и остальное | https://habrahabr.ru/post/263025/
+
+Ненастоящие сеньор-девелоперы, или почему годы опыта ни о чем не говорят | https://habrahabr.ru/company/alconost/blog/262831/
+
+«Закон Мура» под угрозой — Intel задерживает новые чипы | https://habrahabr.ru/post/262781/
+
+Получение международных ИТ сертификатов | https://habrahabr.ru/post/262707/
+
+Изменения в экзамене на PMP в 2015 году | https://habrahabr.ru/post/261627/
+
+HL7 FHIR: Fast Healthcare Interoperability Resources | https://habrahabr.ru/post/260145/
+
+Строительство Bitcoin дата-центров продолжается, несмотря на падение стоимости криптовалюты | https://habrahabr.ru/company/kingservers/blog/260073/
+
+Uptime Institute представила новую систему сертификации дата-центров | https://habrahabr.ru/company/kingservers/blog/259411/
+
+HL7: один день в операционной | https://habrahabr.ru/post/259315/
+
+SonarQube. Проверяем код на качество | https://habrahabr.ru/post/259149/
+
+Действие вместо перехода: ссылка способна на большее | https://habrahabr.ru/company/krible/blog/258987/
+
+Термоусаживаемые материалы упрощают кабель-менеджмент | https://habrahabr.ru/company/kingservers/blog/258867/
+
+Путь аналитика. Практическое руководство IT-специалиста | https://habrahabr.ru/company/piter/blog/258807/
+
+Equinix использует топливные элементы Bloom Energy для энергоснабжения дата-центра в Кремниевой Долине | https://habrahabr.ru/company/kingservers/blog/258643/
+
+Google переносит корпоративные приложения в облако с возможностью доступа извне | https://habrahabr.ru/company/kingservers/blog/258253/
+
+Сравнение HL7v3 и HL7 FHIR | https://habrahabr.ru/post/258113/
+
+Сколько тратят корпорации на продвижение своих облачных продуктов? | https://habrahabr.ru/company/kingservers/blog/258073/
+
+Сравнительный анализ HL7 и openEHR | https://habrahabr.ru/post/257883/
+
+Восстанавливаем поврежденные таблицы Innodb | https://habrahabr.ru/company/kingservers/blog/257627/
+
+Тестовые данные для HL7 сообщений | https://habrahabr.ru/post/257613/
+
+Amazon планирует использовать батареи Tesla в своем дата-центре | https://habrahabr.ru/company/kingservers/blog/257573/
+
+Базы данных мед систем на основе HL7 RIM | https://habrahabr.ru/post/257517/
+
+Исправляем поврежденные MySQL-таблицы с myisamchk | https://habrahabr.ru/company/kingservers/blog/257291/
+
+STM32. Подключаем смарт-карты стандарта ISO7816 | https://habrahabr.ru/post/257279/
+
+EHR-EMR-PHR или чем ЭМК отличается от ЭМК | https://habrahabr.ru/post/257241/
+
+Тестирование средств разработки HL7 CDA R2 | https://habrahabr.ru/post/257017/
+
+Что за зверь HL7 Interoperability? | https://habrahabr.ru/post/256795/
+
+Немного об HL7 EHR-System Functional Model (Функциональная Модель системы ЭМК) | https://habrahabr.ru/post/256609/
+
+Семь принципов эффективности дата-центра от Microsoft | https://habrahabr.ru/company/kingservers/blog/256575/
+
+Подсчет себестоимости часа разработки программного обеспечения | https://habrahabr.ru/post/256537/
+
+Google вложит еще $1 млрд в свой дата-центр в Каунсил-Блафс | https://habrahabr.ru/company/kingservers/blog/256487/
+
+Носители данных. Что нам несет год 2015 и чего стоит ожидать за его горизонтом? | https://habrahabr.ru/company/ua-hosting/blog/255925/
+
+IBM приглашает на практический семинар по SoftLayer в Москве | https://habrahabr.ru/company/ibm/blog/256281/
+
+Интернет в российских школах: работа над ошибками | https://habrahabr.ru/company/smart_soft/blog/256263/
+
+Закон о «персональных данных» приведет к росту объема рынка дата-центров в России? | https://habrahabr.ru/company/kingservers/blog/256233/
+
+Что нужно знать про миграцию в Россию к 1 сентября 2015-го с иностранной инфраструктуры | https://habrahabr.ru/company/croc/blog/256217/
+
+Средства разработки HL7 (HL7v2, HL7v3, CDA) | https://habrahabr.ru/post/256115/
+
+Что такое HL7 Continuity of Care Document (CCD) | https://habrahabr.ru/post/256021/
+
+Обзор радиоконструктора Logiblocs «Spytech kit» | https://habrahabr.ru/company/masterkit/blog/255903/
+
+Clinical Document Architecture ﴾CDA﴿ | https://habrahabr.ru/post/255879/
+
+Интервью со Станиславом Шалуновым — разработчиком технологии, используемой в BitTorrent и Apple | https://habrahabr.ru/post/255663/
+
+Новая концепция дата-центра от Vapor IO: универсальность и экономия пространства | https://habrahabr.ru/company/kingservers/blog/254771/
+
+Округлые формы в ИТ как фактор | https://habrahabr.ru/company/ua-hosting/blog/254143/
+
+Не каждый человек может написать своё имя в Юникоде | https://habrahabr.ru/post/253381/
+
+Драйвер устройства и с чем его едят | https://habrahabr.ru/company/driverpack/blog/252927/
+
+Эволюция носителей данных | https://habrahabr.ru/company/ua-hosting/blog/252187/
+
+Международная выставка «EuroCIS-2015». Прямая twitter-трансляция | https://habrahabr.ru/company/crystal_service/blog/251127/
+
+HTTP/2 готов | https://habrahabr.ru/post/250901/
+
+Не CDN единым | https://habrahabr.ru/post/250663/
+
+Делаем онлайн-кинотеатр для слепых (WCAG 2.0 AAA) | https://habrahabr.ru/post/250539/
+
+Обзор и оценка перспектив развития мирового и российского рынков ИТ | https://habrahabr.ru/company/moex/blog/250463/
+
+Vibration API: кому и зачем это нужно? | https://habrahabr.ru/post/250393/
+
+30 июня 2015 г. будет на секунду длиннее | https://habrahabr.ru/post/248007/
+
+Введение в Distributed Switch Architecture: технология управления сетью как единым устройством | https://habrahabr.ru/company/promwad/blog/247681/
+
+Утверждён профстандарт менеджера ИТ-продуктов | https://habrahabr.ru/post/246583/
+
+OpenFlow: текущее состояние, перспективы, проблемы | https://habrahabr.ru/company/etegro/blog/245037/
+
+Введение профессиональных стандартов на ИТ-специальности в Трудовой кодекс РФ | https://habrahabr.ru/post/244901/
+
+Коварный PUE | https://habrahabr.ru/company/ua-hosting/blog/244603/
+
+Вердикт тестировщика или количественная оценка системы по результатам тестирования | https://habrahabr.ru/post/243597/
+
+ИБ по-американски. Часть 4. Разбираемся с «подгонкой» и «перекрытиями» и завершаем этот обзор | https://habrahabr.ru/post/239097/
+
+Королева щелчка: рассказ о самой выдающейся клавиатуре в истории | https://habrahabr.ru/post/242289/
+
+Илья Григорик о внедрении HTTP/2 | https://habrahabr.ru/post/242255/
+
+ИБ по-американски. Часть 3. Что из себя представляет базовый набор контролей и как определять критичность систем? | https://habrahabr.ru/post/238977/
+
+Новый Wi-Fi для Интернета вещей (Часть 1) | https://habrahabr.ru/post/240201/
+
+9 причин переходить на open-source | https://habrahabr.ru/post/240041/
+
+Культ продуктивности: о субъективных мнениях и советах | https://habrahabr.ru/company/friifond/blog/239843/
+
+ИБ по-американски. Часть 2. А можно поподробнее о NIST 800-53 и причём тут управление рисками? | https://habrahabr.ru/post/238951/
+
+Пряник для народа. Правовой фундамент для свободной культуры и науки | https://habrahabr.ru/post/239083/
+
+ИБ по-американски. Часть 1. Что такое NIST 800-53 и как выглядят контроли безопасности? | https://habrahabr.ru/post/238245/
+
+Эталонному килограмму исполнилось 125 лет | https://habrahabr.ru/post/238273/
+
+Самое массовое заблуждение вокруг REST-архитектуры | https://habrahabr.ru/post/237865/
+
+Аутсорсинговые грабли или 9 ошибок при открытии бухгалтерского бизнеса, которые нужно знать любому стартапу | https://habrahabr.ru/company/a-practic/blog/237391/
+
+Локальный интернет? | https://habrahabr.ru/post/237363/
+
+ITIL для разработчиков | https://habrahabr.ru/company/dataart/blog/237263/
+
+Открытый ход. «Фингуру» ищет единомышленников для создания глобального IT-сервиса | https://habrahabr.ru/company/a-practic/blog/236593/
+
+Github, Reddit и StackExchange предложили стандартный синтаксис Markdown | https://habrahabr.ru/post/235611/
+
+Маразм крепчает? | https://habrahabr.ru/post/235407/
+
+В ЕС запретили некоторые трюки электронной коммерции | https://habrahabr.ru/post/234659/
+
+Предложение от Яндекс.Денег в новом стандарте платежей W3C | https://habrahabr.ru/company/yandex/blog/233101/
+
+Сотни неработающих сайтов, или о том, как code.jquery.com забыли продлить SSL-сертификат | https://habrahabr.ru/post/231853/
+
+Спецификации PHP опубликованы для обсуждения | https://habrahabr.ru/post/231693/
+
+Об оргструктуре и бюрократии | https://habrahabr.ru/post/230899/
+
+1 января 1904, 1970, Youtube, международный конфликт и кривые руки | https://habrahabr.ru/post/230571/
+
+MapCode — непростой короткий адрес | https://habrahabr.ru/post/230529/
+
+Mapcode — простой и короткий адрес любого места на Земле | https://habrahabr.ru/post/230389/
+
+Установка авторадара с интерфейсом SAE J1939 на автомобиль без CAN шины | https://habrahabr.ru/post/230205/
+
+Вебинар об IDEF0 и разработке моделей в среде 3SL Cradle | https://habrahabr.ru/post/228563/
+
+Как мы создали массовый бухгалтерский сервис. Опыт компании «Фингуру» | https://habrahabr.ru/company/a-practic/blog/228359/
+
+jsonex – упрощаем сложные клиент-серверные диалоги | https://habrahabr.ru/post/224261/
+
+Nissan и BMW присоединятся к планам Tesla по развитию электрозаправок | https://habrahabr.ru/post/226437/
+
+The Machine. Новая компьютерная архитектура от HP | https://habrahabr.ru/post/226073/
+
+DVB-S2 на пальцах | https://habrahabr.ru/post/225593/
+
+Элон Маск готов раскрыть технологии зарядки Tesla ради расширения рынка электромобилей | https://habrahabr.ru/post/225779/
+
+Баг на миллион долларов | https://habrahabr.ru/post/225731/
+
+День рождения отца World Wide Web | https://habrahabr.ru/post/225597/
+
+Yahoo наносит ответный удар — и отключает вход на Flickr через Google и Facebook | https://habrahabr.ru/post/225437/
+
+Немного о скрытых каналах | https://habrahabr.ru/post/225135/
+
+Основные международные стандарты и лучшие практики проведения аудита информационных технологий | https://habrahabr.ru/post/224895/
+
+Никогда не проверяйте e-mail адреса по стандартам RFC | https://habrahabr.ru/post/224623/
+
+Работу над HTTP 2.0 предлагают начать заново | https://habrahabr.ru/post/224333/
+
+Планетарии всех стран соединяйтесь | https://habrahabr.ru/company/generations-2014/blog/224311/
+
+Глубокое внедрение DRM или что ждет Firefox после ухода Брендана Айка | https://habrahabr.ru/post/222989/
+
+Быть ли авторскому праву в ИТ на просторах СНГ? | https://habrahabr.ru/post/222479/
+
+Ростелеком внедряет новый тип фильтрации интернет-трафика. Не DPI | https://habrahabr.ru/post/222455/
+
+Недалекое мейнстримное будущее | https://habrahabr.ru/post/222417/
+
+Префиксы и постфиксы в PHP (и CSS) | https://habrahabr.ru/post/222133/
+
+Сложный и противоречивый мир синтаксиса микроразметки. Почему стандартов так много? Опыт Яндекса | https://habrahabr.ru/company/yandex/blog/221881/
+
+IT-сервис или сервис в IT — как сделать клиента чуть счастливее? | https://habrahabr.ru/post/221769/
+
+Разъяснение http2 | https://habrahabr.ru/post/221427/
+
+Переход к ISO/IEC 27001:2013. Тонкости перевода и не только | https://habrahabr.ru/post/221359/
+
+Есть ли жизнь после амазона? | https://habrahabr.ru/company/sdn/blog/220501/
+
+Бизнес-процессы, помноженные на эффективность | https://habrahabr.ru/post/219583/
+
+Опыт применения ЕСПД | https://habrahabr.ru/post/218735/
+
+Стандарт WAI-ARIA 1.0 получил официальный статус рекомендованного W3C: чего ожидать в будущем и куда бежать уже сейчас? | https://habrahabr.ru/post/217855/
+
+Как перейти от Цели подразделения техподдержки к показателям, понятным сотрудникам | https://habrahabr.ru/post/217651/
+
+Пора завязывать склонять латиницу | https://habrahabr.ru/post/212657/
+
+Facebook сэкономил 1,2 миллиарда долларов при помощи внедрения принципов Open Compute | https://habrahabr.ru/company/kingservers/blog/210912/
+
+«Дата-центр для начинающих» или критерии оценки проекта эффективного дата-центра | https://habrahabr.ru/company/kingservers/blog/209170/
+
+Спецификации DRM в стандарте HTML держатся в секрете | https://habrahabr.ru/post/209016/
+
+CBOR — новый бинарный формат представления данных | https://habrahabr.ru/post/208690/
+
+О защите детей от опасной информации | https://habrahabr.ru/post/208510/
+
+В США лампы накаливания на 40 и 60 Вт выводят из оборота с 1 января 2014 года | https://habrahabr.ru/post/207504/
+
+Принят стандарт на интегрированные SIM-карты | https://habrahabr.ru/post/207078/
+
+Интернет-торговля прижмурится? | https://habrahabr.ru/post/205860/
+
+Результаты применения SPDY на сайтах Google | https://habrahabr.ru/post/202998/
+
+Байткод | https://habrahabr.ru/post/202308/
+
+О стандартах мыслей свежих несколько | https://habrahabr.ru/post/201888/
+
+HTTP 2.0 будет только по HTTPS | https://habrahabr.ru/post/201990/
+
+Спасите нас от «Гугла». Маразм крепчал, идеи снисходили из верхов. Google | https://habrahabr.ru/post/201756/
+
+Neurocam: iPhone как аналог Google Glass? | https://habrahabr.ru/post/201070/
+
+Вскоре ноутбуки смогут использовать для зарядки USB-порты | https://habrahabr.ru/post/199528/
+
+Motorola Ara — проект по созданию модульных смартфонов | https://habrahabr.ru/post/199506/
+
+Стандартная зарядка для ноутбуков | https://habrahabr.ru/post/198340/
+
+Делать мир лучше (Публичная лицензия) | https://habrahabr.ru/post/198302/
+
+Новый вид DDoS-атаки: найден баг протокола ТСР в Windows | https://habrahabr.ru/post/198164/
+
+Заповеди IT-аутсорсера/Сервис провайдера | https://habrahabr.ru/post/196176/
+
+За кулисами резервирования авиабилетов | https://habrahabr.ru/post/194394/
+
+Хочу поздравить всех коллег с Днем Программиста | https://habrahabr.ru/post/193576/
+
+Опубликованы профессиональные стандарты РФ для программистов, админов БД и других профессий | https://habrahabr.ru/post/193280/
+
+KiB, Kib, KB, Kb | https://habrahabr.ru/post/193256/
+
+Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента | https://habrahabr.ru/post/190246/
+
+Вышли спецификации HDMI 2.0 | https://habrahabr.ru/post/192544/
+
+Первые несколько миллисекунд HTTPS соединения | https://habrahabr.ru/post/191954/
+
+Яндекс и Schema.org: началась стандартизация «Островов» | https://habrahabr.ru/company/yandex/blog/190760/
+
+Язык до Кембриджа доведёт, или Как я перестал волноваться и полюбил W3C | https://habrahabr.ru/company/yandex/blog/188520/
+
+Методология разработки на 1С-Битрикс – опыт дурака | https://habrahabr.ru/post/189630/
+
+Apple разрабатывает аудиогиперссылки | https://habrahabr.ru/post/189498/
+
+Бывшая корпорация добра: что такое на самом деле «1Гб каждому домой» | https://habrahabr.ru/post/188558/
+
+Первые бенчмарки свободного кодека x265 | https://habrahabr.ru/post/187608/
+
+ITIL (Problem Management) средствами OTRS | https://habrahabr.ru/post/185702/
+
+Сервис — как много смысла в этом слове… а есть ли такое слово? | https://habrahabr.ru/post/184758/
+
+IE11 поддерживает WebGL, SPDY/3 и новые средства для разработчиков | https://habrahabr.ru/post/184698/
+
+Государственные сайты России не используют формат Open Document. Небольшое исследование + опрос | https://habrahabr.ru/post/181900/
+
+Практика ITIL средствами OTRS | https://habrahabr.ru/post/180661/
+
+Как работает FIDO | https://habrahabr.ru/post/179917/
+
+Какими должны быть стандарты (на примере медицинских данных) | https://habrahabr.ru/post/179651/
+
+Корпоративный кластер. Мысли вслух | https://habrahabr.ru/post/179725/
+
+Синхронизация iTunes на двух и более компьютерах | https://habrahabr.ru/post/178937/
+
+Что такое ИТ-услуга? Если соединить ИСО 20000 (ITIL \ ITSM) и ИСО 9000 (СМК, TQM) | https://habrahabr.ru/post/179449/
+
+Защитим открытый интернет: сохраним стандарты W3C без DRM | https://habrahabr.ru/post/179221/
+
+Многопутевая (multipath) модификация для протокола TCP: первый эксперимент | https://habrahabr.ru/post/174271/
+
+Более 500 000 пользователей Google Reader перешли на Feedly за два дня | https://habrahabr.ru/post/173081/
+
+Автор Google Reader удивлён, что сервис прожил так долго | https://habrahabr.ru/post/173019/
+
+Google и MPEG LA заключили сделку по видеокодеку VP8 | https://habrahabr.ru/post/172135/
+
+Вышло официальное Руководство по обеспечению доступности Web-контента (WCAG) 2.0 на русском языке | https://habrahabr.ru/post/153419/
+
+Десять вещей, которые надо знать редактору локализации игр | https://habrahabr.ru/company/alconost/blog/171641/
+
+Украина получила кириллический домен.укр | https://habrahabr.ru/post/171265/
+
+Потенциальные проблемы с монокультурой WebKit | https://habrahabr.ru/post/169697/
+
+Первый видеозвонок между Chrome и Firefox | https://habrahabr.ru/post/168313/
+
+Звук диалапа | https://habrahabr.ru/post/167927/
+
+«Люди, вы где?» или как искать первых пользователей стартапа | https://habrahabr.ru/company/docdoc/blog/167399/
+
+Тестирование сервера 1С, СУБД MSSQL2008 на ОС Windows 2008 на IBM x3650 M3 с 1 процессором | https://habrahabr.ru/company/advanserv/blog/165695/
+
+Dell PowerEdge PCI-E SSD | https://habrahabr.ru/company/advanserv/blog/165191/
+
+Гигабитный Wi-Fi (802.11ac) готов к массовому рынку | https://habrahabr.ru/post/164959/
+
+NIST SP 800: библиотека по информационной безопасности | https://habrahabr.ru/post/164371/
+
+Что должен уметь личный кабинет оптовой компании в 2013 году? | https://habrahabr.ru/company/Centrobit/blog/164163/
+
+Diameter. Базовый протокол. Часть 1 | https://habrahabr.ru/post/164203/
+
+Подведение итогов 2012 года по дисковым хранилищам | https://habrahabr.ru/company/advanserv/blog/164041/
+
+Product Lifecycle Management. Популярно о процессах управления жизненным циклом телекоммуникационных услуг | https://habrahabr.ru/post/163839/
+
+Что делать, если вышел из строя RAID-контроллер? | https://habrahabr.ru/company/advanserv/blog/163451/
+
+Новый договор по телекоммуникациям, подписанный в Дубае, привёл к расколу в МСЭ | https://habrahabr.ru/post/162647/
+
+Байты не помещаются в метрическую систему | https://habrahabr.ru/post/162197/
+
+Международный союз электросвязи утвердил рекомендации на Deep Packet Inspection | https://habrahabr.ru/post/161409/
+
+Телекоммуникационный шкаф или серверная стойка (теория на практике) | https://habrahabr.ru/post/161151/
+
+Винт Серф: сохраним интернет свободным и открытым! | https://habrahabr.ru/post/161099/
+
+Web Standards Days в Яндексе | https://habrahabr.ru/company/yandex/blog/160549/
+
+Доклад ОЭСР: интернет на пять порядков эффективнее телефонных сетей. Не нужно мешать ему развиваться! | https://habrahabr.ru/post/160331/
+
+Европарламент выступил против передачи контроля над интернетом Международному союзу электросвязи | https://habrahabr.ru/post/159831/
+
+Как работают библиотеки | https://habrahabr.ru/post/159471/
+
+В очередной раз об инцидентах и сервисных запросах | https://habrahabr.ru/post/159333/
+
+Описание и валидация древовидных структур данных. JSON-Schema | https://habrahabr.ru/post/158927/
+
+IEC60027-2: Давайте использовать стандарты, или 1024 B == 1 KiB && 1024 B != 1 KB && 1000 B == 1 kB | https://habrahabr.ru/post/157763/
+
+Web Standards Days в Яндексе | https://habrahabr.ru/company/yandex/blog/156965/
+
+Как работает W3C, и что там делает Яндекс? Интервью с Чарльзом МакКэтиНевилом | https://habrahabr.ru/company/yandex/blog/156389/
+
+Tin Can API — замена устаревшему стандарту SCORM – часть 1 | https://habrahabr.ru/post/156067/
+
+До 2015 года в России будут разработаны не менее 800 профессиональных стандартов | https://habrahabr.ru/post/155495/
+
+Манифест эволюции программ | https://habrahabr.ru/post/155423/
+
+Когнитивное радио — первые опыты | https://habrahabr.ru/post/154805/
+
+Почему пинг к 192.168.072 возвращает ответ от 192.168.0.58 | https://habrahabr.ru/post/154695/
+
+CSS (ISO 24730-5) Измерение расстояний без рулетки и проводов | https://habrahabr.ru/post/153237/
+
+Всемирный заговор производителей на примере Asus Transformer Infinity TF700 | https://habrahabr.ru/post/152825/
+
+Free online file converter или конвертируем «все во все» | https://habrahabr.ru/post/152779/
+
+Новинки DOM API | https://habrahabr.ru/post/152245/
+
+Новые профстандарты от АП КИТ и Минкомсвязи | https://habrahabr.ru/post/152221/
+
+Введение в веб-компоненты. Часть 1 | https://habrahabr.ru/post/152001/
+
+Смайлику :-) исполнилось 30 лет | https://habrahabr.ru/post/151756/
+
+ИТ аудит | https://habrahabr.ru/post/151610/
+
+Зачем ITIL обычному среднестатистическому администратору (10-500 ПК) | https://habrahabr.ru/post/150584/
+
+Яндекс вступил в W3C | https://habrahabr.ru/company/yandex/blog/150394/
+
+IEEE готовит стандарт Ethernet на 1 Тбит/с | https://habrahabr.ru/post/149925/
+
+Начинающие стартаперы: хватит страдать фигней | https://habrahabr.ru/post/149333/
+
+Редактор OAuth 2.0 попросил вычеркнуть своё имя из спецификаций | https://habrahabr.ru/post/148693/
+
+Метрики в проектах по разработке ПО | https://habrahabr.ru/post/148654/
+
+100-ваттный USB 3.0 положит конец проприетарным зарядникам | https://habrahabr.ru/post/148394/
+
+Практика ITIL для небольшой компании. Change Management | https://habrahabr.ru/post/148136/
+
+Facebook начал внедрение протокола SPDY | https://habrahabr.ru/post/147897/
+
+OSGi in banking environment. Ciklum Speakers' Corner в Киеве | https://habrahabr.ru/company/Ciklum/blog/147539/
+
+IETF протестует против X-префикса в протоколах | https://habrahabr.ru/post/146549/
+
+Заблуждения программистов относительно времени | https://habrahabr.ru/post/146109/
+
+Появился перевод стандарта EcmaScript 5 | https://habrahabr.ru/post/146090/
+
+Интерфейсель: Запутанная история | https://habrahabr.ru/post/145944/
+
+30 июня 2012 г. будет на секунду длиннее: 23:59:60 | https://habrahabr.ru/post/145857/
+
+AMD, ARM и Texas Instruments объединяют усилия в создании единой платформы гетерогенных вычислений | https://habrahabr.ru/post/145781/
+
+В каком стиле вы называете переменные и функции в своих проектах? | https://habrahabr.ru/post/145714/
+
+Разбор протокола SPDY командой Opera Software | https://habrahabr.ru/post/145564/
+
+Топологии серверов приложений WebSphere Application Server для обеспечения высокой доступности | https://habrahabr.ru/post/145308/
+
+ООН будет контролировать Интернет? | https://habrahabr.ru/post/144978/
+
+OASIS стандартизует открытый протокол OData | https://habrahabr.ru/post/144821/
+
+ITU одобрил стандарт ТВ «ультравысокого» разрешения (UHDTV) | https://habrahabr.ru/post/144727/
+
+Безопасность при авторизации на сайтах по OpenID | https://habrahabr.ru/post/142925/
+
+Стандарт open source документации | https://habrahabr.ru/post/142197/
+
+ISO 9001 в ИТ компании | https://habrahabr.ru/post/141895/
+
+Немного о Microdata | https://habrahabr.ru/post/141216/
+
+Microsoft скрестила SPDY и WebSockets | https://habrahabr.ru/post/140902/
+
+Каждый раз, когда вы выдаете проприетарную фичу за CSS3 — умирает котенок | https://habrahabr.ru/post/138252/
+
+WebKit и веб-стандарты | https://habrahabr.ru/post/138004/
+
+HTTP — протокол уровня приложений | https://habrahabr.ru/post/137924/
+
+Доля Nginx снова немного подросла | https://habrahabr.ru/post/137843/
+
+Google предлагает стандартизировать автозаполнение форм | https://habrahabr.ru/post/137213/
+
+Протокол SPDY могут включить в HTTP/2.0 | https://habrahabr.ru/post/137009/
+
+«Баг»-не-баг нецентрирования рисунков атрибутом align=center | https://habrahabr.ru/post/135818/
+
+Видео с Web Standards Days в Москве | https://habrahabr.ru/post/135312/
+
+BrowserID: почтовый адрес как ID пользователя | https://habrahabr.ru/post/134762/
+
+WebSocket Protocol опубликован как RFC | https://habrahabr.ru/post/134497/
+
+Покупка facebook шаблона: на что обратить внимание? | https://habrahabr.ru/post/134244/
+
+Протокол SPDY появился в Firefox Nightly | https://habrahabr.ru/post/134012/
+
+Microdata & the microdata DOM API | https://habrahabr.ru/post/133961/
+
+Создатель CSS предлагает убрать скроллбар и сам скроллинг из браузеров | https://habrahabr.ru/post/131666/
+
+Объявление о создании jQuerийской группы стандартизации | https://habrahabr.ru/post/131363/
+
+Новые коды состояния HTTP | https://habrahabr.ru/post/130902/
+
+ACID3 обновился: IE9+ 100/100, Firefox 100/100 | https://habrahabr.ru/post/128650/
+
+Песня о веб-стандартах | https://habrahabr.ru/post/128265/
+
+Энтерпрайз порталы. Часть 1. Определение Web-портала, энтерпрайз портала, CMS/WCM и их назначение. Существующие стандарты для Portlet API. Основные производители порталов | https://habrahabr.ru/post/125568/
+
+Mozilla разрабатывает альтернативу OpenID | https://habrahabr.ru/post/124300/
+
+ISO готовит стандарт облачной безопасности | https://habrahabr.ru/post/123939/
+
+IE избавляется от Conditional Comments | https://habrahabr.ru/post/123605/
+
+Документирование по ГОСТ 34* — это просто | https://habrahabr.ru/post/122700/
+
+Поддержка протокола SPDY внедрена в сервисы Google | https://habrahabr.ru/post/122317/
+
+О веб-стандартах с улыбкой — «Укуси меня» | https://habrahabr.ru/post/120223/
+
+Google FalseStart на 30% ускоряет «рукопожатие» SSL | https://habrahabr.ru/post/119829/
+
+HTML5 + CSS3 + Daft Punk | https://habrahabr.ru/post/119291/
+
+Подробности о будущих API для P2P-коммуникаций между браузерами | https://habrahabr.ru/post/119182/
+
+Децентрализованный веб | https://habrahabr.ru/post/118843/
+
+Погружение в HTML5 Test | https://habrahabr.ru/post/118641/
+
+Погружение в ACID3 | https://habrahabr.ru/post/118076/
+
+Стандарту FTP исполнилось 40 лет | https://habrahabr.ru/post/117721/
+
+Google SPDY: жизнь после HTTP 1.1 | https://habrahabr.ru/post/117230/
+
+О стандартах документации | https://habrahabr.ru/post/116825/
+
+Новый конкурс на создание HTML5-приложений! | https://habrahabr.ru/post/114814/
+
+W3C приняла к стандартизации технологию Tracking Protection от Microsoft | https://habrahabr.ru/post/114449/
+
+Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать | https://habrahabr.ru/post/114256/
+
+Что нам сулит новая модель развития html5 | https://habrahabr.ru/post/112206/
+
+HTML — новый HTML5 | https://habrahabr.ru/post/112182/
+
+Вы уже верстаете в HTML5? | https://habrahabr.ru/post/112126/
+
+W3C представил логотип HTML5 | https://habrahabr.ru/post/112084/
+
+С новым годом! | https://habrahabr.ru/post/111035/
+
+Визуальная парадигма для выбора языка | https://habrahabr.ru/post/110384/
+
+Церемония WebHiTech и Web Standards Days в Москве 16 декабря | https://habrahabr.ru/post/109617/
+
+Официальные результаты теста W3C HTML5 | https://habrahabr.ru/post/107405/
+
+Первые официальные результаты тестов W3C CSS 2.1 Test Suite | https://habrahabr.ru/post/106407/
+
+W3C предупреждает: HTML 5 только для экспериментов! | https://habrahabr.ru/post/106105/
+
+Защита персональных данных на скриншотах средствами HTML | https://habrahabr.ru/post/105445/
+
+Отчёт о Web Standards Days в Киеве. Теперь официально | https://habrahabr.ru/post/105107/
+
+Web Standards Days в Киеве — доклады и отчёты | https://habrahabr.ru/post/104825/
+
+HTML5 для веб-дизайнеров. Часть 4: Формы 2.0 | https://habrahabr.ru/post/104502/
+
+HTML5 для веб-дизайнеров. Часть 3: Мультимедиа | https://habrahabr.ru/post/104458/
+
+Веб-стандарты в Киеве, 18-19 сентября | https://habrahabr.ru/post/103653/
+
+HTML5 для веб-дизайнеров. Часть 2: Модель HTML5 | https://habrahabr.ru/post/103575/
+
+HTML5 для веб-дизайнеров. Часть 1: Краткая история языка разметки | https://habrahabr.ru/post/103256/
+
+xCSS: придумываем свою спецификацию CSS. Часть 1 | https://habrahabr.ru/post/102720/
+
+IE9 будет поддерживать opacity | https://habrahabr.ru/post/102483/
+
+Чего я ждал от HTML5 и CSS3 | https://habrahabr.ru/post/101746/
+
+О том, как ошибка, найденная в IE9 Platform Preview, стала причиной изменения стандарта Javascript | https://habrahabr.ru/post/99652/
+
+Открытие web-standards.ru | https://habrahabr.ru/post/97729/
+
+Web Standards Days. 26 июня, Санкт-Петербург | https://habrahabr.ru/post/95970/
+
+Hiqus — HIerarhical QUery String | https://habrahabr.ru/post/92300/
+
+Место веб стандартов, как это вижу я | https://habrahabr.ru/post/76323/
+
+Бубновый туз, и… Касперский | https://habrahabr.ru/post/89416/
+
+Редирект после POST запроса | https://habrahabr.ru/post/86258/
+
+ЧПУ. Очевидное — невероятное | https://habrahabr.ru/post/86154/
+
+MediaWiki могут использовать открытое видео — в wiki.mozilla.org оно задействовано | https://habrahabr.ru/post/82920/
+
+HTML5, Theora и все все все… (практика) | https://habrahabr.ru/post/82376/
+
+О поддержке HTML5 видео в современных браузерах | https://habrahabr.ru/post/82061/
+
+Всплывающая подсказка с живым видео демонстрирует HTML5 video, и холст (canvas), и Ext | https://habrahabr.ru/post/80934/
+
+Gordon: среда исполнения Flash, реализованная на джаваскрипте | https://habrahabr.ru/post/80725/
+
+Вышел в свет черновик стандарта WebGL | https://habrahabr.ru/post/78160/
+
+Отчёт о Web Standards Days в Минске | https://habrahabr.ru/post/76931/
+
+Как использовать Internet Explorer 8 для тестирования сайтов в IE6 и IE7 | https://habrahabr.ru/post/75276/
+
+Browsera — новый инструмент тестирования сайта | https://habrahabr.ru/post/73251/
+
+HTML5: кэширование приложений для работы в оффлайне | https://habrahabr.ru/post/71939/
+
+«Berts Breakdown» | https://habrahabr.ru/post/70852/
+
+Плакат A3 с тегами HTML 5 | https://habrahabr.ru/post/68957/
+
+Не помещайте существенно важную информацию в атрибут title | https://habrahabr.ru/post/67508/
+
+IE 8 не показывает текст alt во всплывающей подсказке | https://habrahabr.ru/post/67506/
+
+W3C выпускает два новых черновика | https://habrahabr.ru/post/65294/
+
+Рабочая группа XHTML 2 прекращает свою работу в конце 2009 года. W3C бросает все силы на HTML 5! | https://habrahabr.ru/post/63470/
+
+О необходимости внесения поправок в HTML 5 | https://habrahabr.ru/post/55337/
+
+Разметка. Transitional vs Strict | https://habrahabr.ru/post/45962/
+
+Только 4.13% Web соответствует стандартам | https://habrahabr.ru/post/44203/
+
+WAI-ARIA: стандарт доступности активных интернет-приложений | https://habrahabr.ru/post/40730/
+
+Стандарт доступности содержимого WAI-WCAG 1.0 | https://habrahabr.ru/post/28157/
+
+Надежда есть (IE8 beta почти прошел acid2) | https://habrahabr.ru/post/21305/
+
+Ответы на часто задаваемые вопросы по XForms 1.0 | https://habrahabr.ru/post/31391/
+
+А закрыл ли ты тег? | https://habrahabr.ru/post/18977/
+
+Кроссбраузерное подчеркивание: трудности отрисовки | https://habrahabr.ru/post/31367/
+
+Встречайте — ACID3 | https://habrahabr.ru/post/18614/
+
+Будущее веб-стандартов | https://habrahabr.ru/post/31357/
+
+Internet Explorer 8 — невозможное возможно? | https://habrahabr.ru/post/17784/
+
+О вопросе стандартизации спецификаций W3C | https://habrahabr.ru/post/17542/
+
+Кому принадлежит ваша записная книжка? | https://habrahabr.ru/post/16986/
+
+Итоги встречи Web Standards Group | https://habrahabr.ru/post/16820/
+
+Открыт сайт российского крыла Web Standards Group | https://habrahabr.ru/post/16745/
+
+Третья встреча WSG Russia | https://habrahabr.ru/post/16404/
+
+Питерская встреча веб-стандартистов. Уточнения | https://habrahabr.ru/post/15725/
+
+Питерская встреча веб-стандартистов | https://habrahabr.ru/post/15583/
+
+Google Suggest в стиле HTML5 | https://habrahabr.ru/post/31282/
+
+55 причин использовать XHTML-CSS при создании сайтов | https://habrahabr.ru/post/31255/
+
+Переводы DCMI и RSS Advisory Board | https://habrahabr.ru/post/12681/
+
+Переводы некоторых официальных документов W3C и DCMI | https://habrahabr.ru/post/12606/
+
+W3C Markup Validator: версия 0.8.0 | https://habrahabr.ru/post/12495/
+
